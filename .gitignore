@@ -1,0 +1,24 @@
+node_modules/
+
+# Generated scan outputs
+*_scan.csv
+*_scan.md
+*_scan_raw.json
+*_scan_audit.json
+quant_internship_roles_scan*.csv
+quant_internship_roles_scan*.md
+quant_internship_roles_scan*_raw.json
+quant_internship_roles_scan*_audit.json
+all-current-open-positions.csv
+all-current-open-positions.md
+discovered-career-pages.csv
+discovered-career-pages.json
+
+# Local run state
+.scan-state/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

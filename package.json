@@ -1,0 +1,15 @@
+{
+  "name": "qjs",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scan:v1": "powershell -NoProfile -ExecutionPolicy Bypass -File ./run-quant-scan.ps1 -Mode v1",
+    "scan:v2": "powershell -NoProfile -ExecutionPolicy Bypass -File ./run-quant-scan.ps1 -Mode v2",
+    "scan:broad": "powershell -NoProfile -ExecutionPolicy Bypass -File ./run-quant-scan.ps1 -Mode broad",
+    "scan:all": "powershell -NoProfile -ExecutionPolicy Bypass -File ./run-quant-scan.ps1 -Mode all"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
