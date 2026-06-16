@@ -30,6 +30,7 @@ Modes:
 - `v1`: known ATS boards only
 - `v2`: known ATS boards, then expanded quant-company career-page search
 - `broad`: known ATS boards, then broader US financial-services search
+- `swe`: 2027 software/technology/engineering internships across the QJS company universe
 - `all`: runs the full workflow
 
 ## Main Outputs
@@ -42,6 +43,8 @@ After a run, look for:
 - `quant_internship_roles_scan_v2.md`
 - `us_financial_services_internship_scan.csv`
 - `us_financial_services_internship_scan.md`
+- `swe_2027_internship_scan.csv`
+- `swe_2027_internship_scan.md`
 - `*_raw.json`
 - `*_audit.json`
 

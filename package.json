@@ -7,6 +7,7 @@
     "scan:v1": "powershell -NoProfile -ExecutionPolicy Bypass -File ./run-quant-scan.ps1 -Mode v1",
     "scan:v2": "powershell -NoProfile -ExecutionPolicy Bypass -File ./run-quant-scan.ps1 -Mode v2",
     "scan:broad": "powershell -NoProfile -ExecutionPolicy Bypass -File ./run-quant-scan.ps1 -Mode broad",
+    "scan:swe": "powershell -NoProfile -ExecutionPolicy Bypass -File ./run-quant-scan.ps1 -Mode swe",
     "scan:all": "powershell -NoProfile -ExecutionPolicy Bypass -File ./run-quant-scan.ps1 -Mode all"
   },
   "engines": {

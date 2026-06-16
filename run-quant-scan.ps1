@@ -1,5 +1,5 @@
 param(
-  [ValidateSet("v1", "v2", "broad", "all")]
+  [ValidateSet("v1", "v2", "broad", "swe", "all")]
   [string]$Mode = "all",
   [string]$SourceDir = $PSScriptRoot,
   [string]$NodePath = ""
@@ -63,6 +63,10 @@ try {
 
   if ($Mode -eq "broad" -or $Mode -eq "all") {
     & $NodePath ".\expand_us_financial_services_search.mjs"
+  }
+
+  if ($Mode -eq "swe" -or $Mode -eq "all") {
+    & $NodePath ".\scan_swe_2027_internships.mjs"
   }
 } finally {
   Pop-Location
