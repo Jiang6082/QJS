@@ -283,9 +283,10 @@ function relevant(job) {
     (/\b(phd|ph\.d|doctoral|doctorate|mba)\b/.test(titleLower) && !/\b(bs|bachelor|undergraduate|master|ms)\b/.test(text)) ||
     /must be working towards a phd|phd candidates|postdocs|postdoctoral/.test(text);
   const isFullTimeOnly = /\b(new grad|new graduate|graduate|full[- ]time|experienced|senior|recruiter|recruitment|payroll|operations analyst)\b/.test(titleLower);
+  const isRecruitingEvent = /\b(networking event|recruiting event|information session|info session|career fair|conference|talent community)\b/.test(titleLower);
   const internshipGraduateCombo = /\binternship\/graduate\b/.test(titleLower);
 
-  return isInternTitle && hasDomain && !isUndergradBlocked && (!isFullTimeOnly || internshipGraduateCombo);
+  return isInternTitle && hasDomain && !isUndergradBlocked && !isRecruitingEvent && (!isFullTimeOnly || internshipGraduateCombo);
 }
 
 async function fetchText(url) {
