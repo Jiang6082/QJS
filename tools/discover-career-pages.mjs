@@ -1,26 +1,27 @@
 import fs from "node:fs/promises";
 
-const scannerPath = "C:/Users/illus/Downloads/drive-download-20260603T154921Z-3-001/expand_us_financial_services_search.mjs";
-const outPath = "C:/Users/illus/Documents/Codex/2026-06-03/can-you-look-under-downloads-drive/work/discovered-career-pages.json";
+const scannerPath = new URL("../expand_us_financial_services_search.mjs", import.meta.url);
+const dbPath = new URL("../company_career_pages.json", import.meta.url);
+const outJsonPath = new URL("../discovered-career-pages.json", import.meta.url);
+const outCsvPath = new URL("../discovered-career-pages.csv", import.meta.url);
 
-const text = await fs.readFile(scannerPath, "utf8");
+const scannerText = await fs.readFile(scannerPath, "utf8");
 
 function extractArray(name) {
-  const match = text.match(new RegExp(`const ${name} = \\[([\\s\\S]*?)\\];`));
-  if (!match) return [];
-  return Function(`return [${match[1]}];`)();
+  const match = scannerText.match(new RegExp(`const ${name} = \\[([\\s\\S]*?)\\];`));
+  return match ? Function(`return [${match[1]}];`)() : [];
 }
 
 function extractObject(name) {
-  const start = text.indexOf(`const ${name} = {`);
+  const start = scannerText.indexOf(`const ${name} = {`);
   if (start < 0) return {};
-  const bodyStart = text.indexOf("{", start);
+  const bodyStart = scannerText.indexOf("{", start);
   let depth = 0;
-  for (let i = bodyStart; i < text.length; i++) {
-    if (text[i] === "{") depth++;
-    if (text[i] === "}") {
+  for (let i = bodyStart; i < scannerText.length; i++) {
+    if (scannerText[i] === "{") depth++;
+    if (scannerText[i] === "}") {
       depth--;
-      if (depth === 0) return Function(`return (${text.slice(bodyStart, i + 1)});`)();
+      if (depth === 0) return Function(`return (${scannerText.slice(bodyStart, i + 1)});`)();
     }
   }
   return {};
@@ -30,23 +31,8 @@ const companies = [...new Set([
   ...extractArray("originalCompanies"),
   ...extractArray("expandedCompanies"),
   ...extractArray("broadFinancialServicesCompanies"),
-])];
-const seedCareerPages = extractObject("seedCareerPages");
+])].sort();
 const officialDomains = extractObject("officialDomains");
-
-const trustedAtsHosts = [
-  "greenhouse.io",
-  "lever.co",
-  "ashbyhq.com",
-  "myworkdayjobs.com",
-  "icims.com",
-  "hiringthing.com",
-  "smartrecruiters.com",
-  "eightfold.ai",
-  "workable.com",
-  "bamboohr.com",
-  "jobvite.com",
-];
 
 const badHosts = [
   "linkedin.com",
@@ -66,17 +52,54 @@ const badHosts = [
   "jobright.ai",
   "openquant.co",
   "efinancialcareers.com",
+  "vault.com",
+  "vaia.com",
 ];
 
-const genericBadTerms = [
-  "horoscope",
-  "resort",
-  "state park",
-  "university project",
-  "student-info",
-  "jooble",
-  "yahoo.com/news",
+const atsHosts = [
+  "greenhouse.io",
+  "lever.co",
+  "ashbyhq.com",
+  "myworkdayjobs.com",
+  "icims.com",
+  "hiringthing.com",
+  "smartrecruiters.com",
+  "eightfold.ai",
+  "workable.com",
+  "bamboohr.com",
+  "jobvite.com",
+  "successfactors.com",
+  "tal.net",
 ];
+
+const genericCompanyTerms = new Set([
+  "group",
+  "capital",
+  "management",
+  "asset",
+  "assets",
+  "financial",
+  "finance",
+  "technologies",
+  "technology",
+  "partners",
+  "markets",
+  "trading",
+  "investment",
+  "investments",
+  "llc",
+  "inc",
+  "corp",
+  "corporation",
+  "company",
+  "international",
+  "global",
+  "research",
+  "securities",
+  "bank",
+  "life",
+  "insurance",
+]);
 
 function decodeHtml(value = "") {
   return value
@@ -87,18 +110,6 @@ function decodeHtml(value = "") {
     .replace(/<[^>]+>/g, " ")
     .replace(/\s+/g, " ")
     .trim();
-}
-
-function decodeBingUrl(url) {
-  try {
-    const parsed = new URL(url);
-    const encoded = parsed.searchParams.get("u");
-    if (encoded?.startsWith("a1")) {
-      const b64 = encoded.slice(2).replace(/-/g, "+").replace(/_/g, "/");
-      return Buffer.from(b64, "base64").toString("utf8");
-    }
-  } catch {}
-  return url;
 }
 
 function hostOf(url) {
@@ -113,34 +124,22 @@ function companyTokens(company) {
   return company
     .toLowerCase()
     .replace(/&/g, "and")
-    .replace(/\b(group|capital|management|asset|assets|financial|technologies|technology|partners|markets|trading|investment|investments|llc|inc|corp|corporation|company|international)\b/g, " ")
     .replace(/[^a-z0-9]+/g, " ")
     .trim()
     .split(/\s+/)
-    .filter((token) => token.length > 1);
+    .filter((token) => token.length > 1 && !genericCompanyTerms.has(token));
 }
 
-function scoreHit(company, hit) {
-  const url = hit.url.toLowerCase();
-  const host = hostOf(hit.url);
-  const text = `${hit.title} ${hit.snippet} ${hit.url}`.toLowerCase();
-  if (!host) return -100;
-  if (badHosts.some((bad) => host.includes(bad))) return -100;
-  if (genericBadTerms.some((bad) => text.includes(bad))) return -80;
-  if (!/\b(career|careers|job|jobs|join us|opportunities|students|internship|early careers)\b/i.test(text)) return -20;
-
-  let score = 0;
-  const domains = officialDomains[company] || [];
-  if (domains.some((domain) => host.endsWith(domain))) score += 80;
-  if (trustedAtsHosts.some((domain) => host.endsWith(domain) || host.includes(domain))) score += 50;
-  if (/\bcareer|careers|jobs|join us|opportunities\b/i.test(hit.title)) score += 20;
-  if (/\bstudent|students|intern|internship|early careers\b/i.test(text)) score += 10;
-
-  const tokens = companyTokens(company);
-  const tokenHits = tokens.filter((token) => host.includes(token) || text.includes(token)).length;
-  score += tokenHits * 8;
-  if (tokens.length && tokenHits === 0 && !trustedAtsHosts.some((domain) => host.includes(domain))) score -= 30;
-  return score;
+function decodeBingUrl(url) {
+  try {
+    const parsed = new URL(url);
+    const encoded = parsed.searchParams.get("u");
+    if (encoded?.startsWith("a1")) {
+      const b64 = encoded.slice(2).replace(/-/g, "+").replace(/_/g, "/");
+      return Buffer.from(b64, "base64").toString("utf8");
+    }
+  } catch {}
+  return url;
 }
 
 async function fetchText(url) {
@@ -173,64 +172,118 @@ async function searchBing(query) {
     if (url.includes("/ck/a?")) url = decodeBingUrl(url);
     return {
       title: decodeHtml(h2[2]),
-      url,
+      url: url.split("#")[0],
       snippet: decodeHtml(block.match(/<p[^>]*>([\s\S]*?)<\/p>/i)?.[1] || ""),
     };
   }).filter(Boolean);
+}
+
+function isAtsHost(host) {
+  return atsHosts.some((domain) => host.endsWith(domain) || host.includes(domain));
+}
+
+function scoreHit(company, hit) {
+  const host = hostOf(hit.url);
+  const text = `${hit.title} ${hit.snippet} ${hit.url}`.toLowerCase();
+  if (!host) return -100;
+  if (badHosts.some((bad) => host.includes(bad))) return -100;
+  if (!/\b(career|careers|job|jobs|join|opportunities|students|internship|early careers|campus)\b/i.test(text)) return -30;
+
+  let score = 0;
+  if ((officialDomains[company] || []).some((domain) => host.endsWith(domain))) score += 90;
+  if (isAtsHost(host)) score += 45;
+  if (/\b(career|careers|jobs|join us|opportunities)\b/i.test(hit.title)) score += 25;
+  if (/\b(student|students|intern|internship|campus|early careers)\b/i.test(text)) score += 15;
+
+  const tokens = companyTokens(company);
+  const tokenHits = tokens.filter((token) => host.includes(token) || text.includes(token)).length;
+  score += tokenHits * 12;
+  if (tokens.length && tokenHits === 0 && !isAtsHost(host)) score -= 40;
+  return score;
 }
 
 async function discoverCompany(company) {
   const queries = [
     `"${company}" careers`,
     `"${company}" jobs`,
-    `"${company}" students careers internship`,
+    `"${company}" students internships careers`,
     `"${company}" early careers`,
   ];
-  const hits = [];
   const seen = new Set();
+  const hits = [];
   for (const query of queries) {
     for (const hit of await searchBing(query)) {
-      const cleanUrl = hit.url.split("#")[0];
-      if (seen.has(cleanUrl)) continue;
-      seen.add(cleanUrl);
-      hits.push({ ...hit, url: cleanUrl, score: scoreHit(company, { ...hit, url: cleanUrl }) });
+      if (seen.has(hit.url)) continue;
+      seen.add(hit.url);
+      hits.push({ ...hit, score: scoreHit(company, hit) });
     }
   }
   hits.sort((a, b) => b.score - a.score);
   return {
     company,
-    existingOfficialDomains: officialDomains[company] || [],
-    currentSeed: seedCareerPages[company] || [],
-    candidates: hits.filter((hit) => hit.score >= 30).slice(0, 5),
-    rejectedTop: hits.filter((hit) => hit.score < 30).slice(0, 3),
+    candidates: hits.filter((hit) => hit.score >= 45).slice(0, 4),
+    topRejected: hits.filter((hit) => hit.score < 45).slice(0, 3),
   };
 }
 
-async function mapLimit(items, limit, fn) {
+async function mapLimit(items, limit, fn, label) {
   const out = new Array(items.length);
   let next = 0;
   async function worker() {
     while (next < items.length) {
       const index = next++;
       out[index] = await fn(items[index], index);
-      if ((index + 1) % 25 === 0) console.error(`discovered ${index + 1}/${items.length}`);
+      if ((index + 1) % 25 === 0) console.error(`${label} ${index + 1}/${items.length}`);
     }
   }
   await Promise.all(Array.from({ length: limit }, worker));
   return out;
 }
 
-const targetCompanies = companies.filter((company) => !(seedCareerPages[company] || []).length);
-const results = await mapLimit(targetCompanies, 6, discoverCompany);
-const discovered = results.filter((result) => result.candidates.length);
+const shouldWrite = process.argv.includes("--write");
+const existingDb = JSON.parse(await fs.readFile(dbPath, "utf8").catch(() => '{"companies":{}}'));
+existingDb.companies ||= {};
 
-await fs.writeFile(outPath, JSON.stringify({
-  generatedAt: new Date().toISOString(),
+const targetCompanies = companies;
+const results = await mapLimit(targetCompanies, 5, discoverCompany, "discovered");
+const discoveredAt = new Date().toISOString();
+
+if (shouldWrite) {
+  for (const result of results) {
+    const current = existingDb.companies[result.company]?.careerPages || [];
+    const additions = result.candidates.map((candidate) => candidate.url);
+    existingDb.companies[result.company] = {
+      careerPages: [...new Set([...current, ...additions])],
+      updatedAt: discoveredAt,
+    };
+  }
+  existingDb.generatedAt = discoveredAt;
+  await fs.writeFile(dbPath, JSON.stringify(existingDb, null, 2), "utf8");
+}
+
+const discovered = results.filter((result) => result.candidates.length);
+await fs.writeFile(outJsonPath, JSON.stringify({
+  generatedAt: discoveredAt,
+  wroteDatabase: shouldWrite,
   targetCompanies: targetCompanies.length,
   discoveredCount: discovered.length,
   noCandidateCount: targetCompanies.length - discovered.length,
   results,
 }, null, 2), "utf8");
 
-console.log(`targetCompanies=${targetCompanies.length} discovered=${discovered.length} noCandidate=${targetCompanies.length - discovered.length}`);
-console.log(`wrote ${outPath}`);
+const csvRows = [["Company", "Score", "Title", "URL"].map((value) => `"${value}"`).join(",")];
+for (const result of discovered) {
+  for (const candidate of result.candidates) {
+    csvRows.push([result.company, candidate.score, candidate.title, candidate.url].map((value) => `"${String(value ?? "").replaceAll('"', '""')}"`).join(","));
+  }
+}
+await fs.writeFile(outCsvPath, `${csvRows.join("\n")}\n`, "utf8");
+
+console.log(JSON.stringify({
+  targetCompanies: targetCompanies.length,
+  discovered: discovered.length,
+  noCandidate: targetCompanies.length - discovered.length,
+  wroteDatabase: shouldWrite,
+  outJsonPath: outJsonPath.pathname,
+  outCsvPath: outCsvPath.pathname,
+}, null, 2));

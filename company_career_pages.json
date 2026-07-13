@@ -1,330 +1,505 @@
 {
-  "generatedAt": "2026-06-15T21:53:57.694Z",
+  "generatedAt": "2026-07-13T03:39:16.432Z",
   "companies": {
     "Jane Street": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads",
+        "https://www.janestreet.com/join-jane-street/open-roles/",
+        "https://www.janestreet.com/join-jane-street/overview/",
+        "https://www.janestreet.com/join-jane-street/apply/8092062002/",
+        "https://job-boards.greenhouse.io/janestreet/jobs/7967227002"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Citadel": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.citadel.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Citadel Securities": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.citadelsecurities.com/careers/",
+        "https://www.citadel.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "DRW": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://drw.com/work-at-drw/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Point72": {
       "careerPages": [
         "https://careers.point72.com/"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Cubist": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://careers.point72.com/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Hudson River Trading": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.hudsonrivertrading.com/careers/",
+        "https://www.hudsonrivertrading.com/careers/job/",
+        "https://wellfound.com/company/hudson-river-trading-1/jobs",
+        "https://meterwork.com/employer/hudson-river-trading_Uvsts"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Five Rings": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://job-boards.greenhouse.io/fiveringsllc",
+        "https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008",
+        "https://fiveringsfinancial.com/join-our-team/",
+        "https://fiverings.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Arrowstreet": {
       "careerPages": [
-        "https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet"
+        "https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet",
+        "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "3Red Partners": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.3redpartners.com/careers/",
+        "https://job-boards.greenhouse.io/3redpartners"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "A Priori": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.aprioriinvestments.com/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Akuna Capital": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://akunacapital.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "AlphaGrep": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.alpha-grep.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "AlphaSimplex": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.virtus.com/careers",
+        "https://www.alphasimplex.com/contact-us"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Alyeska Investment Group": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.alyeskaresort.com/careers/",
+        "https://alyeska-pipe.com/faqs/how-do-i-get-a-job-at-alyeska/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Aquatic Capital": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://job-boards.greenhouse.io/aquaticcapitalmanagement"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "AXQ Capital": {
       "careerPages": [
         "https://job-boards.greenhouse.io/axq"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Balyasny Asset Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.bamfunds.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Belvedere Trading": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.belvederetrading.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Bluefin Capital Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.bluefintrading.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Brevan Howard": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967",
+        "https://brevanhoward.wd3.myworkdayjobs.com/wday/cxs/brevanhoward/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2025-Trading-Graduate-Program---Abu-Dhabi_JR100942",
+        "https://www.brevanhoward.com/careers/",
+        "https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/jobs"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Bridgewater Associates": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.bridgewater.com/working-at-bridgewater"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Capital Fund Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.cfm.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Capstone": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://capstonedc.com/about/careers/",
+        "https://www.capstone.jobs/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Capula": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.capulaglobal.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Caxton Associates": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.caxton.com/careers/",
+        "https://www.wallstreetcareers.com/companies/caxton-associates-3074144"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Centiva Capital": {
       "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Chicago Trading Company": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.chicagotrading.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "D. E. Shaw": {
       "careerPages": [
-        "https://www.deshaw.com/careers?source=campus"
+        "https://www.deshaw.com/careers?source=campus",
+        "https://www.deshaw.com/careers",
+        "https://www.deshawindia.com/careers"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "DV Trading": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.dvtrading.co/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Engineers Gate": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.eglp.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Ergoteles": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.ergoteles.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "ExodusPoint": {
       "careerPages": [
         "https://job-boards.greenhouse.io/exoduspoint"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Flow Traders": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.flowtraders.com/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "G-Research": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.gresearch.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Garda Capital Partners": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.gardacp.com/careers/",
+        "https://jobs.garda.com/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Gelber Group": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.gelbergroup.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Geneva Trading": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.genevatrading.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Geode Capital Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.geodecapital.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Graham Capital Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.grahamcapital.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Graviton Research Capital": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.gravitontrading.com/careers.html",
+        "https://apply.workable.com/gravitonresearch/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Group One Trading": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.group1.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "GSA Capital": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.gsacapital.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Headlands Technologies": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.headlandstech.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "IMC Trading": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://job-boards.greenhouse.io/imc/jobs/4597351101",
+        "https://www.imc.com/us/careers/",
+        "https://www.imc.com/ap/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Jump Trading": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.jumptrading.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Kepos Capital": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.keposcapital.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Laurion Capital Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.laurioncap.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Man Group": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://mangroupplc.wd3.myworkdayjobs.com/Man_Group_Careers",
+        "https://job-boards.eu.greenhouse.io/mangroup",
+        "https://www.man.com/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Marshall Wace": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://job-boards.greenhouse.io/mw-tech-grad",
+        "https://www.mwam.com/join-us/",
+        "https://us.mwam.com/join-us/",
+        "https://www.eujobs.co/career-guides/marshall-wace-llp-career-guide"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Maven Securities": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.mavensecurities.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Millennium": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://mlp.wd5.myworkdayjobs.com/mlpcareers",
+        "https://www.mlp.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Old Mission Capital": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.oldmissioncapital.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Optiver": {
       "careerPages": [
         "https://optiver.com/join-us/",
         "https://optiver.com/join-us/jobs/",
         "https://job-boards.greenhouse.io/optiverprivate",
-        "https://optiver.com/"
+        "https://optiver.com/join-us/locations/shanghai/",
+        "https://optiver.com/join-us/students/programs/futurefocus/",
+        "https://optiver.com/working-at-optiver/career-opportunities/",
+        "https://optiver.com/",
+        "https://optiver.com/working-at-optiver/",
+        "https://prod-www.optiver.com/"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "PanAgora": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.panagora.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "PDT Partners": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://job-boards.greenhouse.io/pdtpartners?error=true",
+        "https://job-boards.greenhouse.io/pdtpartners/jobs/3914106",
+        "https://www.pdtpartners.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Peak6": {
       "careerPages": [
         "https://peak6group.wd1.myworkdayjobs.com/PEAK6"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Qube Research & Technologies": {
       "careerPages": [
         "https://www.qube-rt.com/careers/"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Radix Trading": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.radix-trading.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Renaissance Technologies": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.rentec.com/Careers.action"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Schonfeld": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://job-boards.greenhouse.io/schonfeld?error=true",
+        "https://www.schonfeld.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Squarepoint Capital": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.squarepoint-capital.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Stevens Capital Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.scm-lp.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Susquehanna International Group": {
       "careerPages": [
         "https://careers.sig.com/",
         "https://careers-sig.icims.com/jobs/intro",
-        "https://sig.com/who-we-are/office-locations/"
+        "https://sig.com/careers/",
+        "https://careerservices.fas.harvard.edu/companies/susquehanna-international-group-llp-sig/jobs/",
+        "https://careers-sig.icims.com/jobs/intro?mobile=true&needsRedirect=false"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Systematica Investments": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.systematica.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Teza Technologies": {
       "careerPages": [
         "https://www.teza.com/careers/"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Tower Research Capital": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.tower-research.com/open-positions/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Trexquant": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.trexquant.com/careers/",
+        "https://trexquant.com/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Two Sigma": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://careers.twosigma.com/",
+        "https://www.twosigma.com/careers/",
+        "https://www.wallstreetcareers.com/jobs?employer_id=3073705"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Valkyrie Trading": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.valkyrietrading.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Vatic Investments": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.vaticinvestments.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Verition Fund Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.verition.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Virtu Financial": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.virtu.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Voleon Group": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://jobs.ashbyhq.com/voleon",
+        "https://jobs.lever.co/voleon/",
+        "https://www.voleon.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Voloridge": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.voloridge.com/our-approach"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Walleye Capital": {
       "careerPages": [
@@ -332,681 +507,1069 @@
         "https://walleyecapital.com/careers",
         "https://job-boards.greenhouse.io/walleyecapital-external-fulltime"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Winton Capital": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.winton.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Wintermute": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://wintermute.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Wolverine Trading": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.wolve.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "WorldQuant": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://job-boards.greenhouse.io/worldquant",
+        "https://job-boards.greenhouse.io/worldquant?error=true",
+        "https://www.worldquant.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "XTX Markets": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.xtxmarkets.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Trillium": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.trlm.com/careers/",
+        "https://trilliumstaffing.com/jobs/jobs-in-massachusetts.html",
+        "https://trilliumstaffing.com/jobs/login/",
+        "https://trilliumstaffing.com/jobs/search/?location=Cincinnati,%20Ohio"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Weiss Asset Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.weissasset.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Musket": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://jobs.loves.com/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "BP": {
       "careerPages": [
-        "https://www.bp.com/"
+        "https://www.bp.com/en_us/united-states/home/careers.html",
+        "https://careers.bp.com/",
+        "https://careers.bp.com/listing"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Castleton Commodities International": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.cci.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Equinor": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://equinor.wd3.myworkdayjobs.com/EQNR",
+        "https://equinor.wd3.myworkdayjobs.com/en-US/EQNR/job/Trader_JR104089",
+        "https://www.equinor.com/careers",
+        "https://www.equinor.com/careers/professionals"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Gunvor": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://gunvorgroup.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Shell": {
       "careerPages": [
         "https://shell.wd3.myworkdayjobs.com/ShellCareers",
-        "https://www.shell.com/careers.html"
+        "https://www.shell.com/careers.html",
+        "https://www.shell.com/careers/about-careers-at-shell.html",
+        "https://www.shell.ca/en_ca/careers.html"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Talos": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.talos.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "AQR Capital Management": {
       "careerPages": [
-        "https://careers.aqr.com/"
+        "https://careers.aqr.com/",
+        "https://www.aqr.com/Our-Firm/Careers"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Acadian Asset Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.acadian-asset.com/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "AllianceBernstein": {
       "careerPages": [
-        "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers"
+        "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers",
+        "https://www.alliancebernstein.com/corporate/en/careers/students.html",
+        "https://www.alliancebernstein.com/corporate/en/careers.html"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Allianz Global Investors": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://careers.allianz.com/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Ares Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://aresmgmt.wd1.myworkdayjobs.com/External",
+        "https://ares.com/us/careers/early-careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Aspect Capital": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.aspectcapital.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Baillie Gifford": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.bailliegifford.com/en/uk/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "BlackRock": {
       "careerPages": [
         "https://careers.blackrock.com/early-careers",
-        "https://careers.blackrock.com/"
+        "https://careers.blackrock.com/",
+        "https://blackrock.tal.net/vx/candidate/jobboard/vacancy/1/adv",
+        "https://careers.blackrock.com/search-jobs",
+        "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "BlueCove": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.bluecove.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "BNP Paribas": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://group.bnpparibas/en/careers",
+        "https://group.bnpparibas/en/careers/all-job-offers",
+        "https://careers.bnpparibas.co.uk/",
+        "https://careers.bnpparibas.co.uk/search-experienced-hire-jobs/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "BMO Capital Markets": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://jobs.bmo.com/ca/en/capital-markets"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Barclays": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://search.jobs.barclays/search-jobs/early/22545/1/1",
+        "https://search.jobs.barclays/search-jobs/",
+        "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Berenberg": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.berenberg.de/en/careers/",
+        "https://careers.berenberg.com/",
+        "https://careers.berenberg.com/professional-roles/berenberg-capital-markets"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Capital Group": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Citi": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://jobs.citi.com/early-careers",
+        "https://jobs.citi.com/earlycareers-programs-preinternships",
+        "https://jobs.citi.com/earlycareers-programs-internships",
+        "https://jobs.citi.com/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Connor Clark & Lunn": {
       "careerPages": [
         "https://job-boards.greenhouse.io/cclfg",
         "https://job-boards.greenhouse.io/cclim"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Deutsche Bank": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://db.wd3.myworkdayjobs.com/DBWebsite/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Dimensional Fund Advisors": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://careers.dimensional.com/",
+        "https://careers.dimensional.com/working-at-dimensional",
+        "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Fidelity Investments": {
       "careerPages": [
-        "https://jobs.fidelity.com/students"
+        "https://jobs.fidelity.com/students",
+        "https://jobs.fidelity.com/",
+        "https://jobs.fidelity.com/en/jobs/",
+        "https://jobs.fidelity.com/in/jobs/",
+        "https://fil.wd3.myworkdayjobs.com/001"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Goldman Sachs": {
       "careerPages": [
-        "https://www.goldmansachs.com/careers/students/programs/"
+        "https://www.goldmansachs.com/careers/students/programs/",
+        "https://www.goldmansachs.com/careers/",
+        "https://higher.gs.com/roles/148155",
+        "https://higher.gs.com/roles/147818",
+        "https://www.goldmansachs.com/careers/students/programs-and-internships"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "HSBC": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.hsbc.com/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Invesco": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://invesco.wd1.myworkdayjobs.com/IVZ",
+        "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Division-Associate_R-5554"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "J.P. Morgan": {
       "careerPages": [
-        "https://careers.jpmorgan.com/us/en/students/programs"
+        "https://careers.jpmorgan.com/us/en/students/programs",
+        "https://privatebank.jpmorgan.com/nam/en/about-us/private-bank-careers",
+        "https://www.jpmorganchase.com/careers/explore-opportunities"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Janus Henderson": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.janushenderson.com/corporate/careers/",
+        "https://jobs.janushenderson.com/",
+        "https://www.jhetf.com/careers/",
+        "https://www.wallstreetcareers.com/companies/janus-henderson-investors-3642739"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Lazard Asset Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://lazard-careers.tal.net/candidate"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Macquarie": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://mq.wd3.myworkdayjobs.com/CareersatMQ"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Morgan Stanley": {
       "careerPages": [
-        "https://www.morganstanley.com/careers/career-opportunities-search"
+        "https://www.morganstanley.com/careers/career-opportunities-search",
+        "https://www.morganstanley.com/people-opportunities/students-graduates",
+        "https://www.morganstanley.com/careers/career-opportunities-search/",
+        "https://morganstanley.eightfold.ai/careers?source=mscom"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Neuberger Berman": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://nb.wd1.myworkdayjobs.com/NBCareers",
+        "https://nb.wd1.myworkdayjobs.com/PWM"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Northern Trust Asset Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.northerntrust.com/united-states/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "PGIM": {
       "careerPages": [
-        "https://www.pgim.com/us/en/individual/about-us/overview",
-        "https://pru.wd5.myworkdayjobs.com/PGIM_Careers"
+        "https://pru.wd5.myworkdayjobs.com/PGIM_Careers",
+        "https://jobs.pgim.com/",
+        "https://www.pgim.com/us/en/institutional/about/careers",
+        "https://pru.wd5.myworkdayjobs.com/Careers",
+        "https://www.pgim.com/us/en/individual/about-us/overview"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "PIMCO": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.pimco.com/us/en/about-us/careers",
+        "https://www.pimco.com/us/en/about-us/careers/professionals"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Putnam Investments": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.putnam.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Research Affiliates": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.researchaffiliates.com/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Robeco": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.robeco.com/en-int/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Russell Investments": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://russellinvestments.com/us/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Schroders": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.schroders.com/en/global/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "State Street Global Advisors": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.statestreet.com/us/en/asset-manager/about/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "T. Rowe Price": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/",
+        "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Associate-Analyst---T-Rowe-Price-Associates_68533",
+        "https://www.troweprice.com/en/us/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "UBS": {
       "careerPages": [
         "https://www.ubs.com/global/en/careers.html",
         "https://www.ubs.com/global/en/careers/search-jobs.html",
-        "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=searchResults&SearchType=linkquery&LinkID=15231"
+        "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=searchResults&SearchType=linkquery&LinkID=15231",
+        "https://www.ubs.com/global/en/careers/early-careers.html",
+        "https://www.ubs.com/global/en/careers/early-careers/faq.html"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Vanguard": {
       "careerPages": [
         "https://www.vanguardjobs.com/students-and-recent-graduates/",
-        "https://www.vanguardjobs.com/home-us/?source=Corporate_Website",
-        "https://vanguard.wd5.myworkdayjobs.com/vanguard_external"
+        "https://vanguard.wd5.myworkdayjobs.com/vanguard_external",
+        "https://www.vanguardjobs.com/job-search-results/"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Wellington Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.wellington.com/en/about-us/careers",
+        "https://www.wellington.com/en-us/institutional/about-wellington/careers",
+        "https://www.wellington.com/en/careers",
+        "https://wellington.wd5.myworkdayjobs.com/External"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "William Blair": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "http://www.uwblair.org/careers.html",
+        "https://www.williamblair.com/Careers.aspx",
+        "https://www.wallstreetcareers.com/jobs?employer_id=3498123"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Bank of America": {
       "careerPages": [
         "https://careers.bankofamerica.com/en-us/students",
         "https://careers.bankofamerica.com/en-us",
-        "https://ghr.wd1.myworkdayjobs.com/Lateral-US/"
+        "https://ghr.wd1.myworkdayjobs.com/Lateral-US/",
+        "https://careers.bankofamerica.com/en-us/job-search",
+        "https://careers.bankofamerica.com/en-us/job-search/q-banking"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Wells Fargo": {
       "careerPages": [
-        "https://www.wellsfargojobs.com/en/university-programs/"
+        "https://www.wellsfargojobs.com/en/university-programs/",
+        "https://www.wellsfargo.com/cib/careers/",
+        "https://www.wellsfargo.com/about/careers/",
+        "https://www.wellsfargo.com/com/careers/",
+        "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "U.S. Bank": {
       "careerPages": [
-        "https://careers.usbank.com/students"
+        "https://careers.usbank.com/students",
+        "https://careers.usbank.com/",
+        "https://careers.usbank.com/global/en/c/branch-banking-jobs",
+        "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Truist": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://truist.wd1.myworkdayjobs.com/Careers",
+        "https://truist.wd1.myworkdayjobs.com/LDP"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Capital One": {
       "careerPages": [
-        "https://www.capitalonecareers.com/students"
+        "https://www.capitalonecareers.com/students",
+        "https://www.capitalonecareers.com/get-ahead-with-early-career-programs-for-students",
+        "https://www.capitalonecareers.com/search-jobs",
+        "https://www.mycareeratcapitalone.com/wb/Welcome.aspx?w=ECA37C9C-5573-44C2-9FEF-466AECCACAB2"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "KeyBank": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://keybank.wd5.myworkdayjobs.com/External_Career_Site",
+        "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/5/refreshFacet/318c8bb6f553100021d223d9780d30be",
+        "https://keybank.wd5.myworkdayjobs.com/Scout"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Citizens Financial Group": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://jobs.citizensbank.com/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Fifth Third Bank": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://fifththird.wd5.myworkdayjobs.com/53careers",
+        "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Personal-Banker-Associate-I---Jacksonville-Area_R59861",
+        "https://www.53.com/content/fifth-third/en/careers/early-careers.html",
+        "https://www.53.com/content/fifth-third/en/careers.html"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Regions Bank": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.regions.com/about-regions/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "M&T Bank": {
       "careerPages": [
         "https://mtb.wd5.myworkdayjobs.com/MTB",
         "https://mtb.wd5.myworkdayjobs.com/Campus/"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Huntington Bank": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://huntington.wd12.myworkdayjobs.com/HNBcareers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Ally Financial": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.ally.com/about/careers/students/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Discover Financial Services": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://jobs.discover.com/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Synchrony": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://synchronyfinancial.wd5.myworkdayjobs.com/careers",
+        "https://synchronyfinancial.wd5.myworkdayjobs.com/University"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "American Express": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://careers.americanexpress.com/en/sites/CX_1/jobs?intlink=us-amex-career-en-us-GlobalStudentsPage-View-all-jobs",
+        "https://www.americanexpress.com/en-us/careers/",
+        "https://careers.americanexpress.com/en/",
+        "https://careers.americanexpress.com/en/sites/CX_1/jobs",
+        "https://www.americanexpress.com/en-us/account/login/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Charles Schwab": {
       "careerPages": [
-        "https://www.schwabjobs.com/students"
+        "https://www.schwabjobs.com/students",
+        "https://www.schwabjobs.com/search-jobs",
+        "https://www.aboutschwab.com/topic/careers",
+        "https://content.schwab.com/techcareers/"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "E*TRADE": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.morganstanley.com/careers/career-opportunities-search"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Edward Jones": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://careers.edwardjones.com/job-search-results/?location=United%20States&country=US&radius=25&units=km",
+        "https://careers.edwardjones.com/?codes=DIRECT",
+        "http://jobs.brassring.com/TGWebHost/home.aspx?partnerid=26235&siteid=5374",
+        "https://sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=26235&siteid=5374&PageType=searchResults&SearchType=linkquery&LinkID=480"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Raymond James": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers",
+        "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/",
+        "https://www.raymondjames.com/careers/students-and-recent-grads/full-time-opportunities",
+        "https://www.raymondjames.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "LPL Financial": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://lplfinancial.wd1.myworkdayjobs.com/External/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Interactive Brokers": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://job-boards.greenhouse.io/ibkr",
+        "https://job-boards.greenhouse.io/ibkr?error=true",
+        "https://www.interactivebrokers.com/en/general/about/careers-splash.php",
+        "https://investors.interactivebrokers.com/en/index.php?f=27520",
+        "https://brokerage.ibkr.com/en/general/about/careers-splash.php",
+        "https://www.interactivebrokers.co.uk/en/general/about/careers-splash.php"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Robinhood": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://careers.robinhood.com/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "SoFi": {
       "careerPages": [
         "https://jobs.lever.co/spotify",
         "https://jobs.lever.co/hive/",
-        "https://jobs.lever.co/soniresources/"
+        "https://jobs.lever.co/soniresources/",
+        "https://www.sofi.com/careers/teams/operations/?msockid=3034601ea79b6f2f27b5778ea64e6ef7"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Coinbase": {
       "careerPages": [
-        "https://www.coinbase.com/careers/positions"
+        "https://www.coinbase.com/careers/positions",
+        "https://www.coinbase.com/careers"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Stripe": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://stripe.com/jobs"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Plaid": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://jobs.ashbyhq.com/plaid",
+        "https://plaid.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Chime": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.chime.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Brex": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.brex.com/careers/",
+        "https://jobs.ashbyhq.com/brigit/aea09a0c-7146-4443-9b27-d16d022ca8e7/application?source=bpr11z37QL"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Ramp": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://jobs.ashbyhq.com/ramp/",
+        "https://ramp.com/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Affirm": {
       "careerPages": [
         "https://job-boards.greenhouse.io/affirm?error=true"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Upstart": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.upstart.com/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "PayPal": {
       "careerPages": [
-        "https://paypal.eightfold.ai/careers"
+        "https://paypal.eightfold.ai/careers",
+        "https://paypal.wd1.myworkdayjobs.com/jobs",
+        "https://paypal.wd1.myworkdayjobs.com/jobs/2/refreshFacet/318c8bb6f553100021d223d9780d30be"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Block": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://block.xyz/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Visa": {
       "careerPages": [
-        "https://usa.visa.com/careers.html"
+        "https://usa.visa.com/careers.html",
+        "https://corporate.visa.com/en/careers.html",
+        "https://www.visa.com/en-us/careers",
+        "https://visa.wd5.myworkdayjobs.com/Visa",
+        "https://careers.smartrecruiters.com/Visa"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Mastercard": {
       "careerPages": [
         "https://careers.mastercard.com/us/en/early-careers",
-        "https://careers.mastercard.com/"
+        "https://careers.mastercard.com/",
+        "https://careers.mastercard.com/us/en/student-fulltime-jobs",
+        "https://careers.mastercard.com/us/en/apply",
+        "https://careers.mastercard.com/us/en/st-louis-missouri"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Fiserv": {
       "careerPages": [
-        "https://careers.fiserv.com/"
+        "https://careers.fiserv.com/",
+        "https://careers.fiserv.com/us/en/search-results",
+        "https://fiserv.wd5.myworkdayjobs.com/EXT/",
+        "https://fiserv.wd5.myworkdayjobs.com/EXT/4/refreshFacet/318c8bb6f553100021d223d9780d30be"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "FIS": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://fis.wd5.myworkdayjobs.com/SearchJobs"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Global Payments": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://tsys.wd1.myworkdayjobs.com/TSYS",
+        "https://tsys.wd1.myworkdayjobs.com/TSYS/27/refreshFacet/318c8bb6f553100021d223d9780d30be"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "CME Group": {
       "careerPages": [
-        "https://www.cmegroup.com/careers.html"
+        "https://www.cmegroup.com/careers.html",
+        "https://www.cmegroup.com/careers/early-careers.html",
+        "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/",
+        "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/introduceYourself"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Cboe": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.cboe.com/about/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Nasdaq": {
       "careerPages": [
-        "https://www.nasdaq.com/about/careers"
+        "https://www.nasdaq.com/about/careers",
+        "https://www.nasdaq.com/topic/careers",
+        "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Intercontinental Exchange": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://careers.ice.com/",
+        "https://www.ice.com/careers",
+        "https://www.simplyhired.com/search?q=intercontinental%2520exchange&l=jacksonville%252c%2520fl"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "S&P Global": {
       "careerPages": [
-        "https://careers.spglobal.com/jobs"
+        "https://careers.spglobal.com/jobs",
+        "https://www.spglobal.com/en/explore-s-p-global/careers",
+        "https://www.spglobal.com/en/privacy/careers",
+        "https://www.spglobal.com/energy/en/overview/careers",
+        "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Moody's": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://careers.moodys.com/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Morningstar": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://morningstar.wd5.myworkdayjobs.com/Americas/",
+        "https://morningstar.wd5.myworkdayjobs.com/MorningstarDBRS",
+        "https://www.morningstar.com/company/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "MSCI": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.msci.com/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "FactSet": {
       "careerPages": [
-        "https://factset.wd108.myworkdayjobs.com/FactSetCareers"
+        "https://factset.wd108.myworkdayjobs.com/FactSetCareers",
+        "https://factset.wd108.myworkdayjobs.com/en-US/FactSetCareers/job/Implementation-Specialist_R29371",
+        "https://www.factset.com/careers"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Bloomberg": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site",
+        "https://www.bloomberg.com/company/early-careers/",
+        "https://www.bloomberg.com/company/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Franklin Templeton": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1",
+        "https://franklintempleton.wd5.myworkdayjobs.com/Jobs-WAM/",
+        "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Primary-External-1/introduceYourself"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "MFS Investment Management": {
       "careerPages": [
         "https://mfs.wd1.myworkdayjobs.com/MFS-Careers"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Nuveen": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://careers.tiaa.org/nuveen"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "J.P. Morgan Asset Management": {
       "careerPages": [
         "https://careers.jpmorgan.com/us/en/students/programs"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "BNY": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.bny.com/corporate/global/en/careers.html"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "BNY Mellon": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.bny.com/corporate/global/en/about-us/careers/students.html"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "State Street": {
       "careerPages": [
-        "https://statestreet.wd1.myworkdayjobs.com/Global"
+        "https://statestreet.wd1.myworkdayjobs.com/Global",
+        "https://careers.statestreet.com/global/en/state-street-early-careers",
+        "https://careers.statestreet.com/",
+        "https://careers.statestreet.com/global/en/search-results"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Prudential Financial": {
       "careerPages": [
         "https://pru.wd5.myworkdayjobs.com/Prudential_Careers"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "MetLife": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.metlife.com/about-us/our-purpose/our-people/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "New York Life": {
       "careerPages": [
-        "https://www.newyorklife.com/careers/students"
+        "https://www.newyorklife.com/careers/students",
+        "https://www.newyorklife.com/careers",
+        "https://careers.newyorklife.com/careers?location=US&pid=30259698&domain=newyorklife.com&sort_by=relevance"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Northwestern Mutual": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS",
+        "https://northwesternmutual.wd5.myworkdayjobs.com/en-US/CORPORATE-CAREERS/job/Life-Underwriting-Sr-Specialist---Remote_JR-41890",
+        "https://careers.northwesternmutual.com/",
+        "https://careers.northwesternmutual.com/corporate-careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "MassMutual": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://massmutual.wd1.myworkdayjobs.com/MMINDCareersite/",
+        "https://massmutual.wd1.myworkdayjobs.com/MMAscendCareers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Guardian Life": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Pacific Life": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers",
+        "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeReCareers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Lincoln Financial": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://jobs.lincolnfinancial.com/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Principal Financial Group": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.principal.com/about-us/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "The Hartford": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://thehartford.wd5.myworkdayjobs.com/Careers_External",
+        "https://www.thehartford.com/careers/early-career",
+        "https://www.thehartford.com/careers",
+        "https://www.jointhehartford.com/jobs/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "AIG": {
       "careerPages": [
         "https://aig.wd1.myworkdayjobs.com/aig"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Travelers": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://travelers.wd5.myworkdayjobs.com/External",
+        "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/Claim-Operations-Specialist_R-43543"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Chubb": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/pages/3001/?from=300&s=1"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Allstate": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://allstate.wd5.myworkdayjobs.com/allstate_careers",
+        "https://allstate.wd5.myworkdayjobs.com/Agent",
+        "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/GA---Atlanta/Licensed-Insurance-Sales-Representative_R28332"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "State Farm": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://jobs.statefarm.com/",
+        "https://jobs.statefarm.com/main/jobs",
+        "https://www.statefarm.com/careers",
+        "https://jobs.statefarm.com/career-areas"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Liberty Mutual": {
       "careerPages": [
-        "https://careers-libertymutual.icims.com/jobs/intro?mobile=true&width=1024&height=1115&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420"
+        "https://careers-libertymutual.icims.com/jobs/intro?mobile=true&width=1024&height=1115&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420",
+        "https://jobs.libertymutualgroup.com/careers/campus/internships/",
+        "https://www.libertymutualre.com/careers/early-careers-programme",
+        "https://www.naceweb.org/talent-acquisition/internships/liberty-mutual-implements-skills-based-hiring-approach-creating-career-paths-for-interns"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Nationwide": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career",
+        "https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Specialist-Technology-Engineer_92925-1"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Progressive": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.progressive.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Berkshire Hathaway": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.brkenergy.com/about-us/careers/",
+        "https://www.berkshirehathawayautomotive.com/careers/opportunities.htm"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Markel": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://markelcorp.wd5.myworkdayjobs.com/en-US/GlobalCareers/job/Markel-Early-Careers-Talent-Network---Post-Graduate_R0021253",
+        "https://markelcorp.wd5.myworkdayjobs.com/en-US/GlobalCareers/job/Markel-Early-Careers-Talent-Network---Internship_R0021252-1",
+        "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers",
+        "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Everest": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.everestglobal.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Arch Capital": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.archgroup.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "KKR": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.kkr.com/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Blackstone": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers",
+        "https://blackstone.wd1.myworkdayjobs.com/BX_External_Site"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Apollo Global Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://athene.wd5.myworkdayjobs.com/Apollo_Careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Carlyle": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.carlyle.com/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "TPG": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://job-boards.greenhouse.io/tpgcareers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Warburg Pincus": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://job-boards.greenhouse.io/warburgpincusllc/jobs/4922162008",
+        "https://warburgpincus.com/careers/",
+        "https://www.wallstreetcareers.com/companies/warburg-pincus-3264500"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "General Atlantic": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.generalatlantic.com/careers/"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Vista Equity Partners": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://careers2-vistaequitypartners.icims.com/jobs/intro",
+        "https://www.vistaequitypartners.com/careers/",
+        "https://vistaequitypartners.getro.com/jobs"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Thoma Bravo": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.wallstreetcareers.com/companies/thoma-bravo-3431118",
+        "https://growthequityinterviewguide.com/firms/thoma-bravo"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Brookfield Asset Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://www.brookfield.com/careers"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Blue Owl Capital": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://blueowl.wd1.myworkdayjobs.com/blueowl",
+        "https://www.blueowl.com/careers",
+        "https://inforcapital.com/jobs/company/blue-owl-capital/",
+        "https://www.wallstreetcareers.com/companies/blue-owl-capital-2436602"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "Oaktree Capital Management": {
-      "careerPages": [],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "careerPages": [
+        "https://oaktree.wd1.myworkdayjobs.com/Oaktree"
+      ],
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     },
     "TransMarket Group": {
       "careerPages": [
         "https://job-boards.greenhouse.io/transmarketgroup"
       ],
-      "updatedAt": "2026-06-15T21:53:57.694Z"
+      "updatedAt": "2026-07-13T03:39:16.432Z"
     }
   }
 }

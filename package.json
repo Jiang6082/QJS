@@ -4,11 +4,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "scan:v1": "powershell -NoProfile -ExecutionPolicy Bypass -File ./run-quant-scan.ps1 -Mode v1",
-    "scan:v2": "powershell -NoProfile -ExecutionPolicy Bypass -File ./run-quant-scan.ps1 -Mode v2",
-    "scan:broad": "powershell -NoProfile -ExecutionPolicy Bypass -File ./run-quant-scan.ps1 -Mode broad",
-    "scan:swe": "powershell -NoProfile -ExecutionPolicy Bypass -File ./run-quant-scan.ps1 -Mode swe",
-    "scan:all": "powershell -NoProfile -ExecutionPolicy Bypass -File ./run-quant-scan.ps1 -Mode all"
+    "scan:v1": "node ./run-quant-scan.mjs --mode=v1",
+    "scan:v2": "node ./run-quant-scan.mjs --mode=v2",
+    "scan:broad": "node ./run-quant-scan.mjs --mode=broad",
+    "scan:swe": "node ./run-quant-scan.mjs --mode=swe",
+    "scan:all": "node ./run-quant-scan.mjs --mode=all"
   },
   "engines": {
     "node": ">=18"

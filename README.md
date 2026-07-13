@@ -6,23 +6,23 @@ It scans known quant and financial-services companies, refreshes official ATS/ca
 
 ## Requirements
 
-- Windows PowerShell
 - Node.js 18+
-
-If you run this inside Codex, it will usually find Codex's bundled Node runtime automatically. If not, install Node from <https://nodejs.org/> or pass `-NodePath`.
 
 ## Run
 
 From the repo folder:
 
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -File .\run-quant-scan.ps1 -Mode all
+```bash
+npm run scan:all
 ```
 
-Or with npm:
+You can also run a specific mode:
 
-```powershell
-npm run scan:all
+```bash
+npm run scan:v1
+npm run scan:v2
+npm run scan:broad
+npm run scan:swe
 ```
 
 Modes:
@@ -63,10 +63,10 @@ git push -u origin main
 
 On the other laptop:
 
-```powershell
+```bash
 git clone https://github.com/jiang6082/QJS.git
 cd QJS
-powershell -NoProfile -ExecutionPolicy Bypass -File .\run-quant-scan.ps1 -Mode all
+npm run scan:all
 ```
 
 ## Notes

@@ -191,6 +191,7 @@ const officialDomains = {
   "Fiserv": ["fiserv.com"],
   "Goldman Sachs": ["goldmansachs.com", "higher.gs.com"],
   "Hudson River Trading": ["hudsonrivertrading.com"],
+  "Jane Street": ["janestreet.com"],
   "Intercontinental Exchange": ["ice.com"],
   "J.P. Morgan": ["jpmorgan.com", "careers.jpmorgan.com"],
   "J.P. Morgan Asset Management": ["jpmorgan.com", "careers.jpmorgan.com"],
@@ -232,6 +233,7 @@ const officialDomains = {
 };
 
 const seedCareerPages = {
+  "Jane Street": ["https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads"],
   "Qube Research & Technologies": ["https://www.qube-rt.com/careers/"],
   "TransMarket Group": ["https://job-boards.greenhouse.io/transmarketgroup"],
   "Teza Technologies": ["https://www.teza.com/careers/"],
@@ -432,11 +434,41 @@ const trustedCareerHosts = [
   "hiringthing.com",
 ];
 
+const genericCompanyTerms = new Set([
+  "group", "capital", "management", "asset", "assets", "financial", "finance",
+  "technologies", "technology", "partners", "markets", "trading", "investment",
+  "investments", "llc", "inc", "corp", "corporation", "company", "international",
+  "global", "research", "securities", "bank", "life", "insurance",
+]);
+
+function companyTokens(company) {
+  return company.toLowerCase()
+    .replace(/&/g, "and")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim()
+    .split(/\s+/)
+    .filter((token) => token.length > 1 && !genericCompanyTerms.has(token));
+}
+
+function isLikelyCompanyCareerHost(company, url) {
+  try {
+    const parsed = new URL(url);
+    const host = parsed.hostname.replace(/^www\./, "").toLowerCase();
+    const path = parsed.pathname.toLowerCase();
+    if (!/\b(career|careers|job|jobs|join|opportunities|students|campus|early-careers|open-roles)\b/.test(`${host} ${path}`)) return false;
+    const tokens = companyTokens(company);
+    return tokens.some((token) => host.includes(token));
+  } catch {
+    return false;
+  }
+}
+
 function isTrustedCareerPageUrl(company, url) {
   try {
     const host = new URL(url).hostname.replace(/^www\./, "").toLowerCase();
     return (officialDomains[company] || []).some((domain) => host.endsWith(domain))
-      || trustedCareerHosts.some((domain) => host.endsWith(domain));
+      || trustedCareerHosts.some((domain) => host.endsWith(domain))
+      || isLikelyCompanyCareerHost(company, url);
   } catch {
     return false;
   }
@@ -490,7 +522,7 @@ async function ensureCareerPageDb() {
   }), "career-pages");
 
   for (const company of companies) {
-    const existing = (db.companies[company]?.careerPages || []).filter((url) => isTrustedCareerPageUrl(company, url));
+    const existing = db.companies[company]?.careerPages || [];
     const seeded = seedCareerPages[company] || [];
     const found = discovered.find((entry) => entry.company === company)?.careerPages || [];
     db.companies[company] = {
@@ -523,11 +555,19 @@ function extractAtsTokens(text) {
   const greenhouse = new Set();
   const lever = new Set();
   const ashby = new Set();
+  const workday = new Map();
   for (const match of text.matchAll(/boards-api\.greenhouse\.io\/v1\/boards\/([^/"'\s?]+)\/jobs/gi)) greenhouse.add(match[1]);
   for (const match of text.matchAll(/(?:boards|job-boards)\.greenhouse\.io\/([^/"'\s?#]+)/gi)) greenhouse.add(match[1]);
   for (const match of text.matchAll(/api\.lever\.co\/v0\/postings\/([^/"'\s?]+)|jobs\.lever\.co\/([^/"'\s?#]+)/gi)) lever.add(match[1] || match[2]);
   for (const match of text.matchAll(/api\.ashbyhq\.com\/posting-api\/job-board\/([^/"'\s?]+)|jobs\.ashbyhq\.com\/([^/"'\s?#]+)/gi)) ashby.add(match[1] || match[2]);
-  return { greenhouse: [...greenhouse], lever: [...lever], ashby: [...ashby] };
+  for (const match of text.matchAll(/tenant:\s*"([^"]+)"[\s\S]*?siteId:\s*"([^"]+)"/gi)) {
+    workday.set(`${match[1]}/${match[2]}`, { tenant: match[1], site: match[2] });
+  }
+  for (const match of text.matchAll(/https?:\/\/([^/"'\s]+\.myworkdayjobs\.com)\/([^/"'\s?#]+)/gi)) {
+    const tenant = match[1].split(".")[0];
+    workday.set(`${tenant}/${match[2]}`, { tenant, site: match[2] });
+  }
+  return { greenhouse: [...greenhouse], lever: [...lever], ashby: [...ashby], workday: [...workday.values()] };
 }
 
 async function getGreenhouseBoard(company, token, careerPageUrl = "") {
@@ -594,6 +634,46 @@ async function getAshbyBoard(company, token, careerPageUrl = "") {
   return { source: `Ashby:${token}`, jobs };
 }
 
+async function getWorkdayBoard(company, siteInfo, careerPageUrl = "") {
+  let origin;
+  try {
+    origin = new URL(careerPageUrl).origin;
+  } catch {
+    return null;
+  }
+  const url = `${origin}/wday/cxs/${siteInfo.tenant}/${siteInfo.site}/jobs`;
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 12000);
+  try {
+    const res = await fetch(url, {
+      method: "POST",
+      signal: controller.signal,
+      headers: {
+        "accept": "application/json",
+        "content-type": "application/json",
+      },
+      body: JSON.stringify({ appliedFacets: {}, limit: 20, offset: 0, searchText: "" }),
+    });
+    if (!res.ok) return null;
+    const json = await res.json();
+    const jobs = (json.jobPostings || []).map((job) => ({
+      Company: company,
+      Title: job.title || "",
+      Department: "",
+      Location: job.locationsText || "",
+      URL: `${origin}/${siteInfo.site}${job.externalPath || ""}`,
+      Source: `Career page Workday:${siteInfo.tenant}/${siteInfo.site}`,
+      Status: "Confirmed official posting",
+      Notes: [careerPageUrl ? `career_page=${careerPageUrl}` : "", job.postedOn || "", ...(job.bulletFields || [])].filter(Boolean).join(" | "),
+    }));
+    return { source: `Workday:${siteInfo.tenant}/${siteInfo.site}`, jobs };
+  } catch {
+    return null;
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
 function relevantCareerJob(row) {
   const text = `${row.Title} ${row.Location} ${row.Notes}`.toLowerCase();
   const title = row.Title.toLowerCase();
@@ -619,6 +699,7 @@ async function scanCareerPage(company, pageUrl) {
     ...(await Promise.all(tokens.greenhouse.map((token) => getGreenhouseBoard(company, token, page.url)))),
     ...(await Promise.all(tokens.lever.map((token) => getLeverBoard(company, token, page.url)))),
     ...(await Promise.all(tokens.ashby.map((token) => getAshbyBoard(company, token, page.url)))),
+    ...(await Promise.all(tokens.workday.map((siteInfo) => getWorkdayBoard(company, siteInfo, page.url)))),
   ].filter(Boolean);
   const allJobs = boards.flatMap((board) => board.jobs);
   const rows = allJobs.filter(relevantCareerJob);
@@ -651,6 +732,74 @@ async function scanCareerPages(db) {
   }
   const results = await mapLimit(tasks, 6, async ({ company, pageUrl }) => scanCareerPage(company, pageUrl), "career-page-scan");
   return { rows: results.flatMap((result) => result.rows), tasks, audits: results.map((result) => result.audit) };
+}
+
+const janeStreetCityNames = {
+  NYC: "New York",
+  LDN: "London",
+  HKG: "Hong Kong",
+  AMS: "Amsterdam",
+  CHI: "Chicago",
+  SGP: "Singapore",
+  MUM: "Mumbai",
+  SHA: "Shanghai",
+  PHL: "Philadelphia",
+  SF: "San Francisco",
+  ATX: "Austin",
+  "NYC/HKG": "New York/Hong Kong",
+};
+
+function normalizeJaneStreetType(availability = "") {
+  const text = availability.toLowerCase();
+  if (text.includes("co-op")) return "Co-Op";
+  if (text.includes("industrial placement year")) return "Industrial Placement Year";
+  if (text.includes("full-time")) return availability;
+  return "Internship";
+}
+
+function relevantJaneStreetStudentJob(job) {
+  const roleText = `${job.position} ${job.department}`.toLowerCase();
+  return /\b(quant|quantitative|research|trading|trader|software|engineer|technology|network|machine learning|strategy|product|operations|tools|compilers|fpga)\b/.test(roleText);
+}
+
+async function getJaneStreetStudentRows() {
+  const [jobsRes, dirsRes] = await Promise.all([
+    fetchText("https://www.janestreet.com/jobs/main.json"),
+    fetchText("https://www.janestreet.com/static/position-directories.json"),
+  ]);
+  if (!jobsRes.ok || !dirsRes.ok) return [];
+
+  let jobs;
+  let directories;
+  try {
+    jobs = JSON.parse(jobsRes.text);
+    directories = JSON.parse(dirsRes.text);
+  } catch {
+    return [];
+  }
+
+  const directoryIds = new Set(directories.map(String));
+  return jobs
+    .filter((job) => directoryIds.has(String(job.id)))
+    .map((job) => ({
+      id: job.id,
+      position: decodeHtml(job.position || ""),
+      location: decodeHtml(job.city || ""),
+      type: normalizeJaneStreetType(decodeHtml(job.availability || "")),
+      department: decodeHtml(job.category || ""),
+      duration: decodeHtml(job.duration || ""),
+    }))
+    .filter((job) => ["Internship", "Co-Op", "Industrial Placement Year"].includes(job.type))
+    .filter(relevantJaneStreetStudentJob)
+    .map((job) => ({
+      Company: "Jane Street",
+      Title: job.position,
+      Location: janeStreetCityNames[job.location] || job.location,
+      URL: `https://www.janestreet.com/join-jane-street/position/${job.id}/`,
+      Source: "Official Jane Street jobs feed",
+      Status: "Confirmed official posting",
+      Notes: [job.type, job.duration, job.department].filter(Boolean).join("; "),
+    }));
 }
 
 function companyQueries(company) {
@@ -732,6 +881,7 @@ const searchedAt = new Date().toISOString();
 const careerPageDb = await ensureCareerPageDb();
 const careerPageScan = await scanCareerPages(careerPageDb);
 const careerPageRows = careerPageScan.rows;
+const janeStreetRows = await getJaneStreetStudentRows();
 const discoveredNested = await mapLimit(companies, 8, async (company) => {
   const companyHits = [];
   const seen = new Set();
@@ -975,7 +1125,7 @@ const manualLeads = [
 ];
 
 const rowsByUrl = new Map();
-for (const row of [...careerPageRows, ...baseRows, ...discoveredNested.flat(), ...manualLeads]) {
+for (const row of [...careerPageRows, ...janeStreetRows, ...baseRows, ...discoveredNested.flat(), ...manualLeads]) {
   if (!row.URL || rowsByUrl.has(row.URL)) continue;
   if (row.Company !== "AQR Capital Management" && /\bAQR\b|AQR Capital/i.test(`${row.Title} ${row.Notes} ${row.URL}`)) continue;
   if (row.Company !== "IMC Financial Markets" && /IMC Trading|www\.imc\.com/i.test(`${row.Title} ${row.Notes} ${row.URL}`)) continue;

@@ -433,11 +433,41 @@ const trustedCareerHosts = [
   "hiringthing.com",
 ];
 
+const genericCompanyTerms = new Set([
+  "group", "capital", "management", "asset", "assets", "financial", "finance",
+  "technologies", "technology", "partners", "markets", "trading", "investment",
+  "investments", "llc", "inc", "corp", "corporation", "company", "international",
+  "global", "research", "securities", "bank", "life", "insurance",
+]);
+
+function companyTokens(company) {
+  return company.toLowerCase()
+    .replace(/&/g, "and")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim()
+    .split(/\s+/)
+    .filter((token) => token.length > 1 && !genericCompanyTerms.has(token));
+}
+
+function isLikelyCompanyCareerHost(company, url) {
+  try {
+    const parsed = new URL(url);
+    const host = parsed.hostname.replace(/^www\./, "").toLowerCase();
+    const path = parsed.pathname.toLowerCase();
+    if (!/\b(career|careers|job|jobs|join|opportunities|students|campus|early-careers|open-roles)\b/.test(`${host} ${path}`)) return false;
+    const tokens = companyTokens(company);
+    return tokens.some((token) => host.includes(token));
+  } catch {
+    return false;
+  }
+}
+
 function isTrustedCareerPageUrl(company, url) {
   try {
     const host = new URL(url).hostname.replace(/^www\./, "").toLowerCase();
     return (officialDomains[company] || []).some((domain) => host.endsWith(domain))
-      || trustedCareerHosts.some((domain) => host.endsWith(domain));
+      || trustedCareerHosts.some((domain) => host.endsWith(domain))
+      || isLikelyCompanyCareerHost(company, url);
   } catch {
     return false;
   }
@@ -491,7 +521,7 @@ async function ensureCareerPageDb() {
   }), "career-pages");
 
   for (const company of companies) {
-    const existing = (db.companies[company]?.careerPages || []).filter((url) => isTrustedCareerPageUrl(company, url));
+    const existing = db.companies[company]?.careerPages || [];
     const seeded = seedCareerPages[company] || [];
     const found = discovered.find((entry) => entry.company === company)?.careerPages || [];
     db.companies[company] = {
@@ -524,11 +554,19 @@ function extractAtsTokens(text) {
   const greenhouse = new Set();
   const lever = new Set();
   const ashby = new Set();
+  const workday = new Map();
   for (const match of text.matchAll(/boards-api\.greenhouse\.io\/v1\/boards\/([^/"'\s?]+)\/jobs/gi)) greenhouse.add(match[1]);
   for (const match of text.matchAll(/(?:boards|job-boards)\.greenhouse\.io\/([^/"'\s?#]+)/gi)) greenhouse.add(match[1]);
   for (const match of text.matchAll(/api\.lever\.co\/v0\/postings\/([^/"'\s?]+)|jobs\.lever\.co\/([^/"'\s?#]+)/gi)) lever.add(match[1] || match[2]);
   for (const match of text.matchAll(/api\.ashbyhq\.com\/posting-api\/job-board\/([^/"'\s?]+)|jobs\.ashbyhq\.com\/([^/"'\s?#]+)/gi)) ashby.add(match[1] || match[2]);
-  return { greenhouse: [...greenhouse], lever: [...lever], ashby: [...ashby] };
+  for (const match of text.matchAll(/tenant:\s*"([^"]+)"[\s\S]*?siteId:\s*"([^"]+)"/gi)) {
+    workday.set(`${match[1]}/${match[2]}`, { tenant: match[1], site: match[2] });
+  }
+  for (const match of text.matchAll(/https?:\/\/([^/"'\s]+\.myworkdayjobs\.com)\/([^/"'\s?#]+)/gi)) {
+    const tenant = match[1].split(".")[0];
+    workday.set(`${tenant}/${match[2]}`, { tenant, site: match[2] });
+  }
+  return { greenhouse: [...greenhouse], lever: [...lever], ashby: [...ashby], workday: [...workday.values()] };
 }
 
 async function getGreenhouseBoard(company, token, careerPageUrl = "") {
@@ -595,6 +633,46 @@ async function getAshbyBoard(company, token, careerPageUrl = "") {
   return { source: `Ashby:${token}`, jobs };
 }
 
+async function getWorkdayBoard(company, siteInfo, careerPageUrl = "") {
+  let origin;
+  try {
+    origin = new URL(careerPageUrl).origin;
+  } catch {
+    return null;
+  }
+  const url = `${origin}/wday/cxs/${siteInfo.tenant}/${siteInfo.site}/jobs`;
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 12000);
+  try {
+    const res = await fetch(url, {
+      method: "POST",
+      signal: controller.signal,
+      headers: {
+        "accept": "application/json",
+        "content-type": "application/json",
+      },
+      body: JSON.stringify({ appliedFacets: {}, limit: 20, offset: 0, searchText: "" }),
+    });
+    if (!res.ok) return null;
+    const json = await res.json();
+    const jobs = (json.jobPostings || []).map((job) => ({
+      Company: company,
+      Title: job.title || "",
+      Department: "",
+      Location: job.locationsText || "",
+      URL: `${origin}/${siteInfo.site}${job.externalPath || ""}`,
+      Source: `Career page Workday:${siteInfo.tenant}/${siteInfo.site}`,
+      Status: "Confirmed official posting",
+      Notes: [careerPageUrl ? `career_page=${careerPageUrl}` : "", job.postedOn || "", ...(job.bulletFields || [])].filter(Boolean).join(" | "),
+    }));
+    return { source: `Workday:${siteInfo.tenant}/${siteInfo.site}`, jobs };
+  } catch {
+    return null;
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
 function relevantCareerJob(row) {
   const text = `${row.Title} ${row.Location} ${row.Notes}`.toLowerCase();
   const title = row.Title.toLowerCase();
@@ -623,6 +701,7 @@ async function scanCareerPage(company, pageUrl) {
     ...(await Promise.all(tokens.greenhouse.map((token) => getGreenhouseBoard(company, token, page.url)))),
     ...(await Promise.all(tokens.lever.map((token) => getLeverBoard(company, token, page.url)))),
     ...(await Promise.all(tokens.ashby.map((token) => getAshbyBoard(company, token, page.url)))),
+    ...(await Promise.all(tokens.workday.map((siteInfo) => getWorkdayBoard(company, siteInfo, page.url)))),
   ].filter(Boolean);
   const allJobs = boards.flatMap((board) => board.jobs);
   const rows = allJobs.filter(relevantCareerJob);
