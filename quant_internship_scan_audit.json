@@ -1,0 +1,1572 @@
+{
+  "scannedAt": "2026-07-22T04:56:15.247Z",
+  "companies": [
+    "Jane Street",
+    "Citadel",
+    "DRW",
+    "Point 72/Cubist",
+    "HRT",
+    "Five Rings",
+    "Arrowstreet",
+    "3red Partners",
+    "A Priori",
+    "Akuna",
+    "Albatross Labs",
+    "AlphaGrep",
+    "AlphaSimplex",
+    "Alphataraxia Management",
+    "Alyeska Investment Group",
+    "Ansatz Capital",
+    "Aquatic Capital",
+    "Aspect Capital",
+    "AXQ Capital",
+    "Balyasny Asset Management",
+    "Banyan Alpha Investment",
+    "Belvedere Trading",
+    "BlackEdge Capital",
+    "Bluefin Capital Management",
+    "Blueshift Asset Management",
+    "Boerboel Trading",
+    "Boulder Hill Capital Management",
+    "Brevan Howard",
+    "Bridgewater Associates",
+    "Cantor Fitzgerald",
+    "Capital Fund Management",
+    "Capital Markets Trading",
+    "Capstone",
+    "Capula",
+    "Caxton Associates",
+    "Centiva Capital",
+    "Chicago Trading Company",
+    "Consolidated Trading",
+    "CQS",
+    "Dark Forest",
+    "DE Shaw",
+    "Dolat Capital",
+    "Duality Group",
+    "DV Trading",
+    "Edgehog Trading",
+    "Edgestream Partners",
+    "Eisler Capital",
+    "Elk Capital Markets",
+    "Elequin Capital",
+    "Emergent Trading",
+    "Engineers Gate",
+    "Eqvilent",
+    "Ergoteles Capital",
+    "Eschaton Trading",
+    "Evergreen Statistical Trading",
+    "ExodusPoint",
+    "Florin Court Capital",
+    "Flow Traders",
+    "Freestone Grove Partners",
+    "G-Research",
+    "GAM Systematic",
+    "Garda Capital Partners",
+    "Gelber Group",
+    "Geneva Trading",
+    "Geode Capital Management",
+    "Graham Capital Management",
+    "Graviton Research Capital",
+    "Group One Trading",
+    "GSA Capital Partners",
+    "GTS",
+    "HAP Capital",
+    "Headlands Technologies",
+    "Hudson Bay Capital",
+    "Hudson River Trading",
+    "IMC Financial Markets",
+    "Jacobs Levy Equity Management",
+    "Jain Global",
+    "Jocassee Quantitative",
+    "Jump Trading",
+    "Kepos Capital",
+    "Kore Trading",
+    "Kula Investments",
+    "Laurion Capital Management",
+    "Lord Abbett",
+    "Lynx Asset Management",
+    "Mako",
+    "Man Group",
+    "Mana Partners",
+    "Marquette Partners",
+    "Marshall Wace",
+    "Maven Securities",
+    "Millburn",
+    "Monoceros",
+    "Nebula Research & Development",
+    "Old Mission Capital",
+    "Optiver",
+    "Paloma Partners",
+    "PanAgora",
+    "Parallax Volatility Advisers",
+    "PDT Partners",
+    "Peak6",
+    "PGIM Quant Solutions",
+    "Prime Trading",
+    "QMS Capital Management",
+    "Qsemble Capital Management",
+    "Quadeye",
+    "Quadrature",
+    "Quantbot Technologies",
+    "Quantbox Research",
+    "Quantitative Investment Management",
+    "Quantlab Financial",
+    "Quantumrock Capital",
+    "Qube Research & Technologies",
+    "QVR Advisors",
+    "Radix Trading",
+    "Renaissance Technologies",
+    "Rokos Capital Management",
+    "Rosetta Analytics",
+    "RSJ",
+    "Schonfeld Strategic Advisors",
+    "Segantii Capital Management",
+    "Sensato Investors",
+    "Seven Eight Capital",
+    "Spark Investment Management",
+    "Squarepoint Capital",
+    "Stevens Capital Management",
+    "Summit Securities Group",
+    "Sumo",
+    "Sunrise Futures",
+    "Susquehanna International Group",
+    "Systematica Investments",
+    "Tanius Technology",
+    "Teza Technologies",
+    "TGS Management Company",
+    "Tower Research Capital",
+    "Tradebot",
+    "Tradelink Holdings",
+    "TransMarket Group",
+    "Trexquant Investment",
+    "Two Sigma",
+    "Valkyrie Trading",
+    "Vatic Investments",
+    "Vector Trading",
+    "Verition Fund Management",
+    "Virtu Financial",
+    "Volant Trading",
+    "Voleon Group",
+    "Voloridge Investment Management",
+    "Weiss Asset Management",
+    "Musket",
+    "BP",
+    "Castleton Commodities International",
+    "Equinor",
+    "Gunvor",
+    "Shell",
+    "Talos",
+    "Volterra Technologies",
+    "Walleye Capital",
+    "WH Trading",
+    "Wincent",
+    "Winton Capital Management",
+    "Wintermute",
+    "Wolverine Trading",
+    "WorldQuant",
+    "Xantium",
+    "XR Trading",
+    "XTX Markets",
+    "Wizard Quant",
+    "Trillium"
+  ],
+  "companyAudits": [
+    {
+      "company": "Jane Street",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:janestreet",
+          "count": 222
+        },
+        {
+          "source": "Ashby:jane",
+          "count": 28
+        }
+      ],
+      "jobsSeen": 250,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Citadel",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "DRW",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Point 72/Cubist",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:point72",
+          "count": 232
+        },
+        {
+          "source": "Ashby:cubist",
+          "count": 1
+        },
+        {
+          "source": "Ashby:point",
+          "count": 0
+        }
+      ],
+      "jobsSeen": 233,
+      "relevantInternships": 7
+    },
+    {
+      "company": "HRT",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:wehrtyou",
+          "count": 74
+        },
+        {
+          "source": "Ashby:hrt",
+          "count": 0
+        }
+      ],
+      "jobsSeen": 74,
+      "relevantInternships": 2
+    },
+    {
+      "company": "Five Rings",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:fiveringsllc",
+          "count": 19
+        }
+      ],
+      "jobsSeen": 19,
+      "relevantInternships": 2
+    },
+    {
+      "company": "Arrowstreet",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "3red Partners",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:3redpartners",
+          "count": 8
+        }
+      ],
+      "jobsSeen": 8,
+      "relevantInternships": 0
+    },
+    {
+      "company": "A Priori",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Akuna",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:akunacapital",
+          "count": 37
+        }
+      ],
+      "jobsSeen": 37,
+      "relevantInternships": 8
+    },
+    {
+      "company": "Albatross Labs",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "AlphaGrep",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "AlphaSimplex",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Alphataraxia Management",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:alphataraxia",
+          "count": 0
+        }
+      ],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Alyeska Investment Group",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Ansatz Capital",
+      "resolvedBoards": [
+        {
+          "source": "Lever:ansatzcapital",
+          "count": 5
+        }
+      ],
+      "jobsSeen": 5,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Aquatic Capital",
+      "resolvedBoards": [
+        {
+          "source": "Ashby:aquatic",
+          "count": 0
+        }
+      ],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Aspect Capital",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "AXQ Capital",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:axq",
+          "count": 21
+        }
+      ],
+      "jobsSeen": 21,
+      "relevantInternships": 1
+    },
+    {
+      "company": "Balyasny Asset Management",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Banyan Alpha Investment",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Belvedere Trading",
+      "resolvedBoards": [
+        {
+          "source": "Lever:belvederetrading",
+          "count": 10
+        }
+      ],
+      "jobsSeen": 10,
+      "relevantInternships": 0
+    },
+    {
+      "company": "BlackEdge Capital",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:blackedgecapital",
+          "count": 5
+        }
+      ],
+      "jobsSeen": 5,
+      "relevantInternships": 1
+    },
+    {
+      "company": "Bluefin Capital Management",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Blueshift Asset Management",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:blueshift",
+          "count": 1
+        }
+      ],
+      "jobsSeen": 1,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Boerboel Trading",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:boerboeltrading",
+          "count": 2
+        }
+      ],
+      "jobsSeen": 2,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Boulder Hill Capital Management",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Brevan Howard",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Bridgewater Associates",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:bridgewater89",
+          "count": 22
+        }
+      ],
+      "jobsSeen": 22,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Cantor Fitzgerald",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Capital Fund Management",
+      "resolvedBoards": [
+        {
+          "source": "Lever:capital",
+          "count": 38
+        }
+      ],
+      "jobsSeen": 38,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Capital Markets Trading",
+      "resolvedBoards": [
+        {
+          "source": "Lever:capital",
+          "count": 38
+        }
+      ],
+      "jobsSeen": 38,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Capstone",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Capula",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Caxton Associates",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Centiva Capital",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Chicago Trading Company",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:chicagotrading",
+          "count": 23
+        },
+        {
+          "source": "Greenhouse:chicago",
+          "count": 1
+        }
+      ],
+      "jobsSeen": 24,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Consolidated Trading",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "CQS",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Dark Forest",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "DE Shaw",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Dolat Capital",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Duality Group",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "DV Trading",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:dvtrading",
+          "count": 56
+        }
+      ],
+      "jobsSeen": 56,
+      "relevantInternships": 1
+    },
+    {
+      "company": "Edgehog Trading",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:edgehog",
+          "count": 0
+        }
+      ],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Edgestream Partners",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:edgestream",
+          "count": 5
+        }
+      ],
+      "jobsSeen": 5,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Eisler Capital",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Elk Capital Markets",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Elequin Capital",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Emergent Trading",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Engineers Gate",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:engineersgate",
+          "count": 7
+        }
+      ],
+      "jobsSeen": 7,
+      "relevantInternships": 1
+    },
+    {
+      "company": "Eqvilent",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Ergoteles Capital",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Eschaton Trading",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Evergreen Statistical Trading",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:evergreenstatisticaltrading",
+          "count": 2
+        },
+        {
+          "source": "Greenhouse:evergreen",
+          "count": 0
+        }
+      ],
+      "jobsSeen": 2,
+      "relevantInternships": 0
+    },
+    {
+      "company": "ExodusPoint",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:exoduspoint",
+          "count": 2
+        }
+      ],
+      "jobsSeen": 2,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Florin Court Capital",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Flow Traders",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:flowtraders",
+          "count": 38
+        }
+      ],
+      "jobsSeen": 38,
+      "relevantInternships": 2
+    },
+    {
+      "company": "Freestone Grove Partners",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "G-Research",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "GAM Systematic",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Garda Capital Partners",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Gelber Group",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:gelbergroup",
+          "count": 18
+        }
+      ],
+      "jobsSeen": 18,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Geneva Trading",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:genevatrading",
+          "count": 14
+        }
+      ],
+      "jobsSeen": 14,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Geode Capital Management",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Graham Capital Management",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:grahamcapitalmanagement",
+          "count": 9
+        }
+      ],
+      "jobsSeen": 9,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Graviton Research Capital",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:gravitonresearchcapital",
+          "count": 19
+        }
+      ],
+      "jobsSeen": 19,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Group One Trading",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "GSA Capital Partners",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:gsacapital",
+          "count": 10
+        }
+      ],
+      "jobsSeen": 10,
+      "relevantInternships": 2
+    },
+    {
+      "company": "GTS",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "HAP Capital",
+      "resolvedBoards": [
+        {
+          "source": "Lever:hap-capital",
+          "count": 0
+        }
+      ],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Headlands Technologies",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Hudson Bay Capital",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Hudson River Trading",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:wehrtyou",
+          "count": 74
+        },
+        {
+          "source": "Ashby:hrt",
+          "count": 0
+        }
+      ],
+      "jobsSeen": 74,
+      "relevantInternships": 2
+    },
+    {
+      "company": "IMC Financial Markets",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:imc",
+          "count": 151
+        }
+      ],
+      "jobsSeen": 151,
+      "relevantInternships": 12
+    },
+    {
+      "company": "Jacobs Levy Equity Management",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Jain Global",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Jocassee Quantitative",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Jump Trading",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:jumptrading",
+          "count": 97
+        },
+        {
+          "source": "Ashby:jump",
+          "count": 4
+        }
+      ],
+      "jobsSeen": 101,
+      "relevantInternships": 21
+    },
+    {
+      "company": "Kepos Capital",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Kore Trading",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Kula Investments",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Laurion Capital Management",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:laurioncapitalmanagement",
+          "count": 0
+        }
+      ],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Lord Abbett",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Lynx Asset Management",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Mako",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:mako",
+          "count": 7
+        }
+      ],
+      "jobsSeen": 7,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Man Group",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:mangroup",
+          "count": 57
+        }
+      ],
+      "jobsSeen": 57,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Mana Partners",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Marquette Partners",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Marshall Wace",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:marshallwace",
+          "count": 1
+        }
+      ],
+      "jobsSeen": 1,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Maven Securities",
+      "resolvedBoards": [
+        {
+          "source": "Ashby:maven",
+          "count": 2
+        }
+      ],
+      "jobsSeen": 2,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Millburn",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Monoceros",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Nebula Research & Development",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Old Mission Capital",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:oldmissioncapital",
+          "count": 32
+        },
+        {
+          "source": "Ashby:old-mission-capital",
+          "count": 32
+        }
+      ],
+      "jobsSeen": 64,
+      "relevantInternships": 2
+    },
+    {
+      "company": "Optiver",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:optiverus",
+          "count": 192
+        },
+        {
+          "source": "Greenhouse:optiver",
+          "count": 0
+        }
+      ],
+      "jobsSeen": 192,
+      "relevantInternships": 8
+    },
+    {
+      "company": "Paloma Partners",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:palomapartners",
+          "count": 1
+        }
+      ],
+      "jobsSeen": 1,
+      "relevantInternships": 0
+    },
+    {
+      "company": "PanAgora",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Parallax Volatility Advisers",
+      "resolvedBoards": [
+        {
+          "source": "Ashby:parallax",
+          "count": 0
+        }
+      ],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "PDT Partners",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:pdtpartners",
+          "count": 12
+        }
+      ],
+      "jobsSeen": 12,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Peak6",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "PGIM Quant Solutions",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Prime Trading",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "QMS Capital Management",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Qsemble Capital Management",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quadeye",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quadrature",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quantbot Technologies",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:quantbot-technologies",
+          "count": 0
+        }
+      ],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quantbox Research",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quantitative Investment Management",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quantlab Financial",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quantumrock Capital",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Qube Research & Technologies",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:quberesearchandtechnologies",
+          "count": 214
+        }
+      ],
+      "jobsSeen": 214,
+      "relevantInternships": 7
+    },
+    {
+      "company": "QVR Advisors",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Radix Trading",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Renaissance Technologies",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Rokos Capital Management",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Rosetta Analytics",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "RSJ",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Schonfeld Strategic Advisors",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:schonfeld",
+          "count": 55
+        }
+      ],
+      "jobsSeen": 55,
+      "relevantInternships": 1
+    },
+    {
+      "company": "Segantii Capital Management",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Sensato Investors",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Seven Eight Capital",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Spark Investment Management",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Squarepoint Capital",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:squarepointcapital",
+          "count": 80
+        }
+      ],
+      "jobsSeen": 80,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Stevens Capital Management",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:scm",
+          "count": 29
+        }
+      ],
+      "jobsSeen": 29,
+      "relevantInternships": 2
+    },
+    {
+      "company": "Summit Securities Group",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Sumo",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Sunrise Futures",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:sunrise",
+          "count": 22
+        },
+        {
+          "source": "Ashby:sunrise",
+          "count": 12
+        }
+      ],
+      "jobsSeen": 34,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Susquehanna International Group",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Systematica Investments",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Tanius Technology",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:tanius",
+          "count": 8
+        }
+      ],
+      "jobsSeen": 8,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Teza Technologies",
+      "resolvedBoards": [
+        {
+          "source": "Ashby:teza-technologies",
+          "count": 12
+        }
+      ],
+      "jobsSeen": 12,
+      "relevantInternships": 0
+    },
+    {
+      "company": "TGS Management Company",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Tower Research Capital",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:towerresearchcapital",
+          "count": 79
+        }
+      ],
+      "jobsSeen": 79,
+      "relevantInternships": 3
+    },
+    {
+      "company": "Tradebot",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Tradelink Holdings",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "TransMarket Group",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:transmarketgroup",
+          "count": 15
+        }
+      ],
+      "jobsSeen": 15,
+      "relevantInternships": 2
+    },
+    {
+      "company": "Trexquant Investment",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Two Sigma",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Valkyrie Trading",
+      "resolvedBoards": [
+        {
+          "source": "Lever:valkyrietrading",
+          "count": 4
+        }
+      ],
+      "jobsSeen": 4,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Vatic Investments",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Vector Trading",
+      "resolvedBoards": [
+        {
+          "source": "Ashby:vector",
+          "count": 6
+        }
+      ],
+      "jobsSeen": 6,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Verition Fund Management",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Virtu Financial",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:virtu",
+          "count": 40
+        }
+      ],
+      "jobsSeen": 40,
+      "relevantInternships": 6
+    },
+    {
+      "company": "Volant Trading",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Voleon Group",
+      "resolvedBoards": [
+        {
+          "source": "Lever:voleon",
+          "count": 0
+        },
+        {
+          "source": "Ashby:voleon",
+          "count": 56
+        }
+      ],
+      "jobsSeen": 56,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Voloridge Investment Management",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:voloridgeinvestmentmanagement",
+          "count": 4
+        },
+        {
+          "source": "HiringThing:voloridge-investment-management",
+          "count": 0
+        }
+      ],
+      "jobsSeen": 4,
+      "relevantInternships": 2
+    },
+    {
+      "company": "Weiss Asset Management",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:weissassetmanagement",
+          "count": 1
+        }
+      ],
+      "jobsSeen": 1,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Musket",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "BP",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Castleton Commodities International",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Equinor",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Gunvor",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Shell",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Talos",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Volterra Technologies",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Walleye Capital",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:walleyecapital",
+          "count": 0
+        }
+      ],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "WH Trading",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Wincent",
+      "resolvedBoards": [
+        {
+          "source": "Ashby:wincent",
+          "count": 16
+        }
+      ],
+      "jobsSeen": 16,
+      "relevantInternships": 1
+    },
+    {
+      "company": "Winton Capital Management",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:winton",
+          "count": 9
+        }
+      ],
+      "jobsSeen": 9,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Wintermute",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Wolverine Trading",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "WorldQuant",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:worldquant",
+          "count": 100
+        }
+      ],
+      "jobsSeen": 100,
+      "relevantInternships": 6
+    },
+    {
+      "company": "Xantium",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:xantium",
+          "count": 7
+        }
+      ],
+      "jobsSeen": 7,
+      "relevantInternships": 0
+    },
+    {
+      "company": "XR Trading",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "XTX Markets",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Wizard Quant",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Trillium",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:trillium",
+          "count": 3
+        }
+      ],
+      "jobsSeen": 3,
+      "relevantInternships": 0
+    }
+  ]
+}

@@ -1,0 +1,4110 @@
+{
+  "generatedAt": "2026-07-22T04:59:11.984Z",
+  "scanStartedAt": "2026-07-22T04:56:19.892Z",
+  "sourceRosterEntries": 303,
+  "canonicalCompanies": 302,
+  "counts": {
+    "matching-role-found": 33,
+    "confirmed-no-open-postings": 2,
+    "confirmed-openings-no-matching-role": 49,
+    "could-not-fully-verify": 218
+  },
+  "companies": [
+    {
+      "company": "26 Miles Capital",
+      "sourceRosterNames": [
+        "26 Miles Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "ACT Group",
+      "sourceRosterNames": [
+        "ACT Group"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Acadian Asset Management",
+      "sourceRosterNames": [
+        "Acadian Asset Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.acadian-asset.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Albert Quant Trading Club",
+      "sourceRosterNames": [
+        "Albert Quant Trading Club"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "AlphaGrep",
+      "sourceRosterNames": [
+        "AlphaGrep"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.alpha-grep.com/careers/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Apolis SAM",
+      "sourceRosterNames": [
+        "Apolis SAM"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://apolisrises.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Arfima Trading",
+      "sourceRosterNames": [
+        "Arfima Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.arfima.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Aureas Finance",
+      "sourceRosterNames": [
+        "Aureas Finance"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "BD Energy",
+      "sourceRosterNames": [
+        "BD Energy"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 40,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Bastion Trading",
+      "sourceRosterNames": [
+        "Bastion Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://bastiontrading.com/careers/apply"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "BlackEdge Capital",
+      "sourceRosterNames": [
+        "BlackEdge Capital"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/blackedgecapital"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 5,
+      "relevantInternships": 1
+    },
+    {
+      "company": "Bracebridge Capital",
+      "sourceRosterNames": [
+        "Bracebridge Capital"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.bracebridgecapital.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 3,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Caladan",
+      "sourceRosterNames": [
+        "Caladan"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://caladan.xyz/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Cargill International SA",
+      "sourceRosterNames": [
+        "Cargill International SA"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.cargill.com/en"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Chicago Trading Company",
+      "sourceRosterNames": [
+        "Chicago Trading Company"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.chicagotrading.com/careers/",
+        "https://job-boards.greenhouse.io/ctccampusboard"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 3,
+      "relevantInternships": 3
+    },
+    {
+      "company": "Coding Test Firm",
+      "sourceRosterNames": [
+        "Coding Test Firm"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Crabel Capital Management",
+      "sourceRosterNames": [
+        "Crabel Capital Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://crabel.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "D. E. Shaw",
+      "sourceRosterNames": [
+        "D. E. Shaw"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.deshaw.com/careers?source=campus",
+        "https://www.deshaw.com/careers",
+        "https://www.deshawindia.com/careers"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "323 Trading",
+      "sourceRosterNames": [
+        "323 Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "AQR Capital Management",
+      "sourceRosterNames": [
+        "AQR Capital Management"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://careers.aqr.com/",
+        "https://www.aqr.com/Our-Firm/Careers",
+        "https://job-boards.greenhouse.io/aqr"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 45,
+      "relevantInternships": 7
+    },
+    {
+      "company": "Accent Groupe",
+      "sourceRosterNames": [
+        "Accent Groupe"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.accentgroupe.com/career"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Algorithmic Trading Group",
+      "sourceRosterNames": [
+        "Algorithmic Trading Group"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Amber Group",
+      "sourceRosterNames": [
+        "Amber Group"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.ambergroup.io/applyJob"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Aquatic Capital",
+      "sourceRosterNames": [
+        "Aquatic"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/aquaticcapitalmanagement"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 9,
+      "relevantInternships": 2
+    },
+    {
+      "company": "Armada Technologies",
+      "sourceRosterNames": [
+        "Armada Technologies"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Automaton Trading LLC",
+      "sourceRosterNames": [
+        "Automaton Trading LLC"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "BP Supply Trading & Shipping",
+      "sourceRosterNames": [
+        "BP Supply Trading & Shipping"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.bp.com/en/global/corporate/careers/students-and-graduates/career-areas-for-students/supply-trading-and-shipping.html"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Belvedere Trading",
+      "sourceRosterNames": [
+        "Belvedere Trading"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.belvederetrading.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 10,
+      "relevantInternships": 0
+    },
+    {
+      "company": "BlockTech",
+      "sourceRosterNames": [
+        "BlockTech"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.block-tech.io/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Brevan Howard",
+      "sourceRosterNames": [
+        "Brevan Howard"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967",
+        "https://brevanhoward.wd3.myworkdayjobs.com/wday/cxs/brevanhoward/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2025-Trading-Graduate-Program---Abu-Dhabi_JR100942",
+        "https://www.brevanhoward.com/careers/",
+        "https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/jobs"
+      ],
+      "livePages": 3,
+      "attemptedPages": 4,
+      "jobsSeen": 13,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Campbell and Company",
+      "sourceRosterNames": [
+        "Campbell and Company"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Cascade Systems",
+      "sourceRosterNames": [
+        "Cascade Systems"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://cascadesystems.net/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Chimera Securities",
+      "sourceRosterNames": [
+        "Chimera Securities"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.chimerasecurities.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Consolidated Trading",
+      "sourceRosterNames": [
+        "Consolidated Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Criterion Arbitrage & Trading",
+      "sourceRosterNames": [
+        "Criterion Arbitrage & Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.criterion-trading.nl/m/join.html"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "D2X",
+      "sourceRosterNames": [
+        "D2X"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://d2x.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "3Red Partners",
+      "sourceRosterNames": [
+        "3Red Partners"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.3redpartners.com/careers/",
+        "https://job-boards.greenhouse.io/3redpartners"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 8,
+      "relevantInternships": 0
+    },
+    {
+      "company": "AXQ Capital",
+      "sourceRosterNames": [
+        "AXQ Capital"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/axq"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 21,
+      "relevantInternships": 1
+    },
+    {
+      "company": "Ace Capital Saires",
+      "sourceRosterNames": [
+        "Ace Capital Saires"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.acehardware.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "All Options",
+      "sourceRosterNames": [
+        "All Options"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Amsterdam Investment Club",
+      "sourceRosterNames": [
+        "Amsterdam Investment Club"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.amsterdaminvestmentclub.com/pages/vacancy/equity-analyst"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Aquion",
+      "sourceRosterNames": [
+        "Aquion"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Aros Commodities",
+      "sourceRosterNames": [
+        "Aros Commodities"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Axinoss",
+      "sourceRosterNames": [
+        "Axinoss"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Balyasny Asset Management",
+      "sourceRosterNames": [
+        "Balyasny Asset Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.bamfunds.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Birkoa Capital Management",
+      "sourceRosterNames": [
+        "Birkoa Capital Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://birkoa.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Bondi Tech",
+      "sourceRosterNames": [
+        "Bondi Tech"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.bonditech.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Bridgewater Associates",
+      "sourceRosterNames": [
+        "Bridgewater Associates"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.bridgewater.com/working-at-bridgewater"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Capital Fund Management",
+      "sourceRosterNames": [
+        "Capital Fund Management (CFM)"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.cfm.com/careers/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Charlesworth Research",
+      "sourceRosterNames": [
+        "Charlesworth Research"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Citadel Securities",
+      "sourceRosterNames": [
+        "Citadel Securities"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.citadelsecurities.com/careers/",
+        "https://www.citadel.com/careers/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Contek (Contrarian Technologies)",
+      "sourceRosterNames": [
+        "Contek (Contrarian Technologies)"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Cross Options",
+      "sourceRosterNames": [
+        "Cross Options"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.crossoptions.net/join-us"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "DRW",
+      "sourceRosterNames": [
+        "DRW"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://drw.com/work-at-drw/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 176,
+      "relevantInternships": 16
+    },
+    {
+      "company": "ABC Arbitrage",
+      "sourceRosterNames": [
+        "ABC Arbitrage"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.abc-arbitrage.com/career/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Aarhus Trading",
+      "sourceRosterNames": [
+        "Aarhus Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Akuna Capital",
+      "sourceRosterNames": [
+        "Akuna Capital"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://akunacapital.com/careers/",
+        "https://job-boards.greenhouse.io/optionstrading201course/jobs/7394582"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 1,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Allston Trading",
+      "sourceRosterNames": [
+        "Allston Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Ansatz Capital",
+      "sourceRosterNames": [
+        "Ansatz Capital"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.lever.co/ansatzcapital?by=location"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 5,
+      "relevantInternships": 0
+    },
+    {
+      "company": "ArbitragePoint Trading",
+      "sourceRosterNames": [
+        "ArbitragePoint Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Arrowstreet Capital",
+      "sourceRosterNames": [
+        "Arrowstreet Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.arrowstreetcapital.com/professional-careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "B2C2",
+      "sourceRosterNames": [
+        "B2C2"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.b2c2.com/join-b2c2/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Barak Capital",
+      "sourceRosterNames": [
+        "Barak Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Black Eagle Financial Group",
+      "sourceRosterNames": [
+        "Black Eagle Financial Group"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://blackeaglefg.com/stock-market-job/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Boston Energy Trading and Marketing",
+      "sourceRosterNames": [
+        "Boston Energy Trading and Marketing"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.betm.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "CTS Global Equity Group",
+      "sourceRosterNames": [
+        "CTS Global Equity Group"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.ctsglobalgroup.com/",
+        "https://www.ctsglobalgroup.com/internship"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Capstone",
+      "sourceRosterNames": [
+        "Capstone Trading Inc."
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://capstonedc.com/about/careers/",
+        "https://www.capstone.jobs/",
+        "https://capstonedc.wd501.myworkdayjobs.com/Capstone"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 12,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Chengdu ZhaoYu Investment",
+      "sourceRosterNames": [
+        "Chengdu ZhaoYu Investment"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Clear Street",
+      "sourceRosterNames": [
+        "Clear Street"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/clearstreet?gh_src=bdd2c3261"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 33,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Cor Capital",
+      "sourceRosterNames": [
+        "Cor Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Cubist",
+      "sourceRosterNames": [
+        "Cubist (Point72)"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://careers.point72.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 232,
+      "relevantInternships": 8
+    },
+    {
+      "company": "DSV Fund",
+      "sourceRosterNames": [
+        "DSV Fund"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "DV Trading",
+      "sourceRosterNames": [
+        "DV Trading"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.dvtrading.co/careers/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Danske Commodities",
+      "sourceRosterNames": [
+        "Danske Commodities"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://danskecommodities.com/join-us"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Deutsche Bank",
+      "sourceRosterNames": [
+        "Deutsche Bank (quant/systematic)"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://db.wd3.myworkdayjobs.com/DBWebsite/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 40,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Domeyard LP",
+      "sourceRosterNames": [
+        "Domeyard LP"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.smartrecruiters.com/DomeyardLP?location=Boston&page=0&search="
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Eagle Seven",
+      "sourceRosterNames": [
+        "Eagle Seven"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.eagleseven.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Engineers Gate",
+      "sourceRosterNames": [
+        "Engineers Gate"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.eglp.com/careers/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Estee Advisors",
+      "sourceRosterNames": [
+        "Estee Advisors"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://esteeadvisors.com/careers.php"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "ExodusPoint",
+      "sourceRosterNames": [
+        "ExodusPoint Capital"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/exoduspoint"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 2,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Five Rings",
+      "sourceRosterNames": [
+        "Five Rings"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/fiveringsllc",
+        "https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008",
+        "https://fiveringsfinancial.com/join-our-team/",
+        "https://fiverings.com/careers/"
+      ],
+      "livePages": 4,
+      "attemptedPages": 4,
+      "jobsSeen": 19,
+      "relevantInternships": 1
+    },
+    {
+      "company": "Futures First",
+      "sourceRosterNames": [
+        "Futures First"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://futuresfirst.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "GSA Capital",
+      "sourceRosterNames": [
+        "GSA Capital"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.gsacapital.com/careers/",
+        "https://job-boards.greenhouse.io/gsacapital",
+        "https://www.gsacapital.com/join-us"
+      ],
+      "livePages": 2,
+      "attemptedPages": 3,
+      "jobsSeen": 10,
+      "relevantInternships": 2
+    },
+    {
+      "company": "Genk Capital",
+      "sourceRosterNames": [
+        "Genk Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Golden Meadow Investment",
+      "sourceRosterNames": [
+        "Golden Meadow Investment"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Gravity Team",
+      "sourceRosterNames": [
+        "Gravity Team"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.gravityteam.co/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "HAP Capital",
+      "sourceRosterNames": [
+        "HAP Capital"
+      ],
+      "status": "confirmed-no-open-postings",
+      "careerPages": [
+        "https://jobs.lever.co/hap-capital"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Hudson River Trading",
+      "sourceRosterNames": [
+        "Hudson River Trading"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.hudsonrivertrading.com/careers/",
+        "https://www.hudsonrivertrading.com/careers/job/"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 77,
+      "relevantInternships": 2
+    },
+    {
+      "company": "IV Capital",
+      "sourceRosterNames": [
+        "IV Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://iv-capital.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Integrated Quantitative Investments",
+      "sourceRosterNames": [
+        "Integrated Quantitative Investments"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Jane Street",
+      "sourceRosterNames": [
+        "Jane Street"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads",
+        "https://www.janestreet.com/join-jane-street/open-roles/",
+        "https://www.janestreet.com/join-jane-street/overview/",
+        "https://www.janestreet.com/join-jane-street/apply/8092062002/",
+        "https://job-boards.greenhouse.io/janestreet/jobs/7967227002"
+      ],
+      "livePages": 5,
+      "attemptedPages": 5,
+      "jobsSeen": 222,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Kershner Trading Group",
+      "sourceRosterNames": [
+        "Kershner Trading Group"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://kershnertrading.applicantstack.com/x/openings"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Kvantium Research",
+      "sourceRosterNames": [
+        "Kvantium Research"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "DWF Labs",
+      "sourceRosterNames": [
+        "DWF Labs"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.dwf-labs.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Deep Blue Capital",
+      "sourceRosterNames": [
+        "Deep Blue Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://deepbluecap.com/vacancies/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Dexterity Capital",
+      "sourceRosterNames": [
+        "Dexterity Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Domstad Traders",
+      "sourceRosterNames": [
+        "Domstad Traders"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Eclipse Trading",
+      "sourceRosterNames": [
+        "Eclipse Trading"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 18,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Enigma Quant Capital",
+      "sourceRosterNames": [
+        "Enigma Quant Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Ethflow",
+      "sourceRosterNames": [
+        "Ethflow"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Farrer Capital Management",
+      "sourceRosterNames": [
+        "Farrer Capital Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.farrercapital.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Flow Traders",
+      "sourceRosterNames": [
+        "Flow Traders"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.flowtraders.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 38,
+      "relevantInternships": 1
+    },
+    {
+      "company": "G-Research",
+      "sourceRosterNames": [
+        "G-Research"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.gresearch.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "GSR",
+      "sourceRosterNames": [
+        "GSR"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/gsrmarkets/jobs/4421987101"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 5,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Giant Steps Capital",
+      "sourceRosterNames": [
+        "Giant Steps Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Grace Hall Trading",
+      "sourceRosterNames": [
+        "Grace Hall Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Great Point Capital",
+      "sourceRosterNames": [
+        "Great Point Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.greatpointcapital.com/contact-apply"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "HBK Capital Management",
+      "sourceRosterNames": [
+        "HBK Capital Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.hbk.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Humbility",
+      "sourceRosterNames": [
+        "Humbility"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "InCommodities",
+      "sourceRosterNames": [
+        "InCommodities"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://incommodities.com/join-us"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Invemo Capital AG",
+      "sourceRosterNames": [
+        "Invemo Capital AG"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Jerpoint Capital",
+      "sourceRosterNames": [
+        "Jerpoint Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "KeyQuant",
+      "sourceRosterNames": [
+        "KeyQuant"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "League Trading",
+      "sourceRosterNames": [
+        "League Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Da Vinci Trading",
+      "sourceRosterNames": [
+        "Da Vinci Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://davincitrading.com/job/graduate-trader/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Deeter Analytics",
+      "sourceRosterNames": [
+        "Deeter Analytics"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.ashbyhq.com/deeter-analytics/27b65fa1-9629-4925-8a89-9c77bec491df"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 19,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Diameter Capital Partners",
+      "sourceRosterNames": [
+        "Diameter Capital Partners"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Dymon Asia",
+      "sourceRosterNames": [
+        "Dymon Asia"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.dymonasia.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Elliott Bay Energy Trading LLC",
+      "sourceRosterNames": [
+        "Elliott Bay Energy Trading LLC"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.elliott-turbo.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 40,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Entropy Trading Group",
+      "sourceRosterNames": [
+        "Entropy Trading Group"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Euclidean Technologies",
+      "sourceRosterNames": [
+        "Euclidean Technologies"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.euclidean.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Fenix One",
+      "sourceRosterNames": [
+        "Fenix One"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.fenix-one.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Forest Creek Capital",
+      "sourceRosterNames": [
+        "Forest Creek Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://forestcreekcap.com/job/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "GMO",
+      "sourceRosterNames": [
+        "GMO"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Gelber Group",
+      "sourceRosterNames": [
+        "Gelber Group"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.gelbergroup.com/careers/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Gift Street Capital",
+      "sourceRosterNames": [
+        "Gift Street Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Grasshopper",
+      "sourceRosterNames": [
+        "Grasshopper"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Group One Trading",
+      "sourceRosterNames": [
+        "Group One"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.group1.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Headlands Technologies",
+      "sourceRosterNames": [
+        "Headlands Technologies"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.headlandstech.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 7,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Hyperithm",
+      "sourceRosterNames": [
+        "Hyperithm"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://hyperithm.career.greetinghr.com/ko/open-positions"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "InCommodities Asset Management",
+      "sourceRosterNames": [
+        "InCommodities Asset Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://incommodities.com/join-us"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "J.E. Moody & Company LLC",
+      "sourceRosterNames": [
+        "J.E. Moody & Company LLC"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Jump Trading",
+      "sourceRosterNames": [
+        "Jump Trading"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.jumptrading.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Keyrock",
+      "sourceRosterNames": [
+        "Keyrock"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://keyrock.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 7,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Lehi Capital Corp",
+      "sourceRosterNames": [
+        "Lehi Capital Corp"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Daler Trading",
+      "sourceRosterNames": [
+        "Daler Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Delchain",
+      "sourceRosterNames": [
+        "Delchain"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://delchain.io/job-openings/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Dolat Capital",
+      "sourceRosterNames": [
+        "Dolat Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://dolatcapitalresearch.com/careers/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "ETS Asset Management Factory",
+      "sourceRosterNames": [
+        "ETS Asset Management Factory"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Elliott Management",
+      "sourceRosterNames": [
+        "Elliott Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://ellimgmt.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Epoch Capital",
+      "sourceRosterNames": [
+        "Epoch Capital"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/epochcapital"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 1,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Evergreen Statistical Trading",
+      "sourceRosterNames": [
+        "Evergreen Statistical Trading"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/evergreenstatisticaltrading/jobs/4136768009"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 2,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Final",
+      "sourceRosterNames": [
+        "Final"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Freepoint Commodities",
+      "sourceRosterNames": [
+        "Freepoint Commodities"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.freepoint.com/life-at-freepoint/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "GRW Partners",
+      "sourceRosterNames": [
+        "GRW Partners"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Geneva Trading",
+      "sourceRosterNames": [
+        "Geneva Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.genevatrading.com/careers/",
+        "https://job-boards.greenhouse.io/genevatrading"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 14,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Glencore",
+      "sourceRosterNames": [
+        "Glencore"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.glencore.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Graviton Research Capital",
+      "sourceRosterNames": [
+        "Graviton Research Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.gravitontrading.com/careers.html",
+        "https://apply.workable.com/gravitonresearch/"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Gunvor",
+      "sourceRosterNames": [
+        "Gunvor Group"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://gunvorgroup.com/careers/",
+        "https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers",
+        "https://gunvorgroup.com/careers/talent/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 31,
+      "relevantInternships": 0
+    },
+    {
+      "company": "High-Flyer",
+      "sourceRosterNames": [
+        "High-Flyer"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "IMC Trading",
+      "sourceRosterNames": [
+        "IMC Trading"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/imc/jobs/4597351101",
+        "https://www.imc.com/us/careers/",
+        "https://www.imc.com/ap/careers/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 151,
+      "relevantInternships": 12
+    },
+    {
+      "company": "Independent Trading Group (ITG)",
+      "sourceRosterNames": [
+        "Independent Trading Group (ITG)"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "JY Quantitative Management",
+      "sourceRosterNames": [
+        "JY Quantitative Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.jyquant.com/careersShow.php"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Kadima Asset Management",
+      "sourceRosterNames": [
+        "Kadima Asset Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.thetrustedinsight.com/investment-firm-profile/24692-kadima-asset-management/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Kronos Research",
+      "sourceRosterNames": [
+        "Kronos Research"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 3,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Lingjun Investment",
+      "sourceRosterNames": [
+        "Lingjun Investment"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Linitics",
+      "sourceRosterNames": [
+        "Linitics"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Lucida",
+      "sourceRosterNames": [
+        "Lucida"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Marquette Partners",
+      "sourceRosterNames": [
+        "Marquette Partners"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Maven Securities",
+      "sourceRosterNames": [
+        "Maven Securities"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.mavensecurities.com/careers/",
+        "https://www.mavensecurities.com/jobs/",
+        "https://maventrading.com/careers",
+        "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381"
+      ],
+      "livePages": 3,
+      "attemptedPages": 4,
+      "jobsSeen": 36,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Mercuria Energy Group",
+      "sourceRosterNames": [
+        "Mercuria Energy Group"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://mercuria.com/careers/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Minghong",
+      "sourceRosterNames": [
+        "Minghong"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://join.mhfunds.com"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Mingshi Investment Management",
+      "sourceRosterNames": [
+        "Mingshi Investment Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.mingshiim.com/join"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "NK Securities",
+      "sourceRosterNames": [
+        "NK Securities"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/nksecuritiesresearch?error=true"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 17,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Nitor Energy",
+      "sourceRosterNames": [
+        "Nitor Energy"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://nitorenergy.com/career/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Nyenburgh",
+      "sourceRosterNames": [
+        "Nyenburgh"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "OTC Flow",
+      "sourceRosterNames": [
+        "OTC Flow"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://otc-flow.webflow.io/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "One Eleven Capital",
+      "sourceRosterNames": [
+        "One Eleven Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "PDT Partners",
+      "sourceRosterNames": [
+        "PDT Partners"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/pdtpartners?error=true",
+        "https://job-boards.greenhouse.io/pdtpartners/jobs/3914106",
+        "https://www.pdtpartners.com/careers/"
+      ],
+      "livePages": 2,
+      "attemptedPages": 3,
+      "jobsSeen": 12,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Premonition",
+      "sourceRosterNames": [
+        "Premonition"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quadeye",
+      "sourceRosterNames": [
+        "Quadeye"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.quadeye.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quantbox Research",
+      "sourceRosterNames": [
+        "Quantbox Research"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quantrend Technology",
+      "sourceRosterNames": [
+        "Quantrend Technology"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Radix Trading",
+      "sourceRosterNames": [
+        "Radix Trading"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.radix-trading.com/careers/",
+        "https://www.radixeng.com/careers",
+        "https://job-boards.greenhouse.io/radixuniversity"
+      ],
+      "livePages": 2,
+      "attemptedPages": 3,
+      "jobsSeen": 8,
+      "relevantInternships": 1
+    },
+    {
+      "company": "SCALP Trade",
+      "sourceRosterNames": [
+        "SCALP Trade"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://scalptrade.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Saccade Capital",
+      "sourceRosterNames": [
+        "Saccade Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Schonfeld",
+      "sourceRosterNames": [
+        "Schonfeld"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/schonfeld?error=true",
+        "https://www.schonfeld.com/careers/"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 55,
+      "relevantInternships": 1
+    },
+    {
+      "company": "Silver Valley Management",
+      "sourceRosterNames": [
+        "Silver Valley Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Liquid Capital Group",
+      "sourceRosterNames": [
+        "Liquid Capital Group"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Mako Trading",
+      "sourceRosterNames": [
+        "Mako Trading"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.mako.com/opportunities",
+        "https://www.mako.com/early-careers"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 7,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Marshall Wace",
+      "sourceRosterNames": [
+        "Marshall Wace"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/mw-tech-grad",
+        "https://www.mwam.com/join-us/",
+        "https://us.mwam.com/join-us/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 2,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Maverick Derivatives",
+      "sourceRosterNames": [
+        "Maverick Derivatives"
+      ],
+      "status": "confirmed-no-open-postings",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/maverickderivatives?error=true"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Mesh Capital LLC",
+      "sourceRosterNames": [
+        "Mesh Capital LLC"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.meshcapital.com/Careers.html"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Minghong / Jupiter",
+      "sourceRosterNames": [
+        "Minghong / Jupiter"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Mirazur Capital SAM",
+      "sourceRosterNames": [
+        "Mirazur Capital SAM"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Nebula Research",
+      "sourceRosterNames": [
+        "Nebula Research"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Nomura Securities",
+      "sourceRosterNames": [
+        "Nomura Securities"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.nomura.com/americas/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "ORA Traders",
+      "sourceRosterNames": [
+        "ORA Traders"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "OTS Capital",
+      "sourceRosterNames": [
+        "OTS Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Open Futures Group",
+      "sourceRosterNames": [
+        "Open Futures Group"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Peak6",
+      "sourceRosterNames": [
+        "PEAK6"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://peak6group.wd1.myworkdayjobs.com/PEAK6"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 9,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Prime Trading",
+      "sourceRosterNames": [
+        "Prime Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quadrature",
+      "sourceRosterNames": [
+        "Quadrature"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/quadraturecapital?error=true"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 4,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quantique (QuantM3)",
+      "sourceRosterNames": [
+        "Quantique (QuantM3)"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Qube Research & Technologies",
+      "sourceRosterNames": [
+        "Qube Research & Technologies"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.qube-rt.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 214,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Rayleigh Research Oy",
+      "sourceRosterNames": [
+        "Rayleigh Research Oy"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Susquehanna International Group",
+      "sourceRosterNames": [
+        "SIG"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://careers.sig.com/",
+        "https://careers-sig.icims.com/jobs/intro",
+        "https://sig.com/careers/",
+        "https://careers-sig.icims.com/jobs/intro?mobile=true&needsRedirect=false"
+      ],
+      "livePages": 4,
+      "attemptedPages": 4,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Saichild Proprietary Trading",
+      "sourceRosterNames": [
+        "Saichild Proprietary Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.saichild.com/career"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Scientech Research Capital",
+      "sourceRosterNames": [
+        "Scientech Research Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Simplex Trading",
+      "sourceRosterNames": [
+        "Simplex Trading"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://simplextrading.com/careers/",
+        "https://job-boards.greenhouse.io/simplextrading"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 5,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Lone Pine Capital",
+      "sourceRosterNames": [
+        "Lone Pine Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Man Group",
+      "sourceRosterNames": [
+        "Man Group (Man AHL)"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://mangroupplc.wd3.myworkdayjobs.com/Man_Group_Careers",
+        "https://job-boards.eu.greenhouse.io/mangroup",
+        "https://www.man.com/careers"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 1,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Mathrix",
+      "sourceRosterNames": [
+        "Mathrix"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Mercuria",
+      "sourceRosterNames": [
+        "Mercuria"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://mercuria.com/careers/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Midpoint Markets",
+      "sourceRosterNames": [
+        "Midpoint Markets"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/midpointmarkets/jobs/4408679008"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 3,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Minghong Investment",
+      "sourceRosterNames": [
+        "Minghong Investment"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://join.mhfunds.com"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Morgan Stanley",
+      "sourceRosterNames": [
+        "Morgan Stanley"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.morganstanley.com/careers/career-opportunities-search",
+        "https://www.morganstanley.com/people-opportunities/students-graduates",
+        "https://www.morganstanley.com/careers/career-opportunities-search/",
+        "https://morganstanley.eightfold.ai/careers?source=mscom"
+      ],
+      "livePages": 4,
+      "attemptedPages": 4,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Nine Mile",
+      "sourceRosterNames": [
+        "Nine Mile"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.nmftrading.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Northpool",
+      "sourceRosterNames": [
+        "Northpool"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.northpool.nl/vacancies"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "OSF Management",
+      "sourceRosterNames": [
+        "OSF Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Old Growth Harbor LLC",
+      "sourceRosterNames": [
+        "Old Growth Harbor LLC"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Optica",
+      "sourceRosterNames": [
+        "Optica"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "PanAgora Asset Management",
+      "sourceRosterNames": [
+        "PanAgora Asset Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.panagora.com/careers-panagora-asset-management/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Priogen Energy",
+      "sourceRosterNames": [
+        "Priogen Energy"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://priogen.com/careers/home/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quadrature Capital",
+      "sourceRosterNames": [
+        "Quadrature Capital (QRT)"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/quadraturecapital?error=true"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 4,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quantlab",
+      "sourceRosterNames": [
+        "Quantlab"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.quantlab.com/careers?nl=1&p=jobs"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "RAON Trading",
+      "sourceRosterNames": [
+        "RAON Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Renaissance Technologies",
+      "sourceRosterNames": [
+        "Renaissance"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.rentec.com/Careers.action"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "SQM Technologies",
+      "sourceRosterNames": [
+        "SQM Technologies"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://sqmtechnologies.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Sarpen Quant Investments",
+      "sourceRosterNames": [
+        "Sarpen Quant Investments"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Seven Eight Capital",
+      "sourceRosterNames": [
+        "Seven Eight Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Sovereign Blue Capital",
+      "sourceRosterNames": [
+        "Sovereign Blue Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Los Angeles Capital Management",
+      "sourceRosterNames": [
+        "Los Angeles Capital Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Market Wizards",
+      "sourceRosterNames": [
+        "Market Wizards"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Matrix Executions",
+      "sourceRosterNames": [
+        "Matrix Executions"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Mercuria Energy America",
+      "sourceRosterNames": [
+        "Mercuria Energy America"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://mercuria.com/careers/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Millennium",
+      "sourceRosterNames": [
+        "Millennium"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://mlp.wd5.myworkdayjobs.com/mlpcareers",
+        "https://www.mlp.com/careers/"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Mingshi / Minghong",
+      "sourceRosterNames": [
+        "Mingshi / Minghong"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Murano Group",
+      "sourceRosterNames": [
+        "Murano Group"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Nino Options",
+      "sourceRosterNames": [
+        "Nino Options"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Numerai",
+      "sourceRosterNames": [
+        "Numerai"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "OSTC Ltd.",
+      "sourceRosterNames": [
+        "OSTC Ltd."
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Old Mission Capital",
+      "sourceRosterNames": [
+        "Old Mission Capital"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.oldmissioncapital.com/careers/",
+        "https://job-boards.greenhouse.io/oldmissioncapital"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 32,
+      "relevantInternships": 1
+    },
+    {
+      "company": "Optiver",
+      "sourceRosterNames": [
+        "Optiver"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://optiver.com/join-us/",
+        "https://optiver.com/join-us/jobs/",
+        "https://job-boards.greenhouse.io/optiverprivate",
+        "https://optiver.com/join-us/locations/shanghai/",
+        "https://optiver.com/join-us/students/programs/futurefocus/",
+        "https://optiver.com/working-at-optiver/career-opportunities/",
+        "https://optiver.com/",
+        "https://optiver.com/working-at-optiver/",
+        "https://prod-www.optiver.com/",
+        "https://optiver.com/join-us/jobs/institutional-sales-and-trading/new-york/us-options-sales-trader/",
+        "https://optiver.com/join-us/jobs/human-resources-and-recruiting/austin/",
+        "https://optiver.com/join-us/jobs/human-resources-and-recruiting/"
+      ],
+      "livePages": 12,
+      "attemptedPages": 12,
+      "jobsSeen": 8,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Plutus Research",
+      "sourceRosterNames": [
+        "Plutus Research"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://plutusresearch.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "QCP Capital",
+      "sourceRosterNames": [
+        "QCP Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.qcpgroup.com/career/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quant Matter",
+      "sourceRosterNames": [
+        "Quant Matter"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://quantmatter.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quantlane",
+      "sourceRosterNames": [
+        "Quantlane"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.lever.co/quantlane"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 2,
+      "relevantInternships": 0
+    },
+    {
+      "company": "RSJ Securities",
+      "sourceRosterNames": [
+        "RSJ Securities"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Revolution Capital Management",
+      "sourceRosterNames": [
+        "Revolution Capital Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "SQS Capital",
+      "sourceRosterNames": [
+        "SQS Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Savius",
+      "sourceRosterNames": [
+        "Savius"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Seven Points Capital",
+      "sourceRosterNames": [
+        "Seven Points Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://sevenpointscapital.pinpointhq.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Spatium Capital",
+      "sourceRosterNames": [
+        "Spatium Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Squarepoint Capital",
+      "sourceRosterNames": [
+        "Squarepoint Capital"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.squarepoint-capital.com/careers/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "T3 Trading Group",
+      "sourceRosterNames": [
+        "T3 Trading Group"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://t3trading.com/join-us/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "TSY Capital",
+      "sourceRosterNames": [
+        "TSY Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Tibra",
+      "sourceRosterNames": [
+        "Tibra"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.tibra.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Tradermath",
+      "sourceRosterNames": [
+        "Tradermath"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.tradermath.org/login",
+        "https://www.tradermath.org/subscriptions",
+        "https://www.tradermath.org/signup"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Trexquant",
+      "sourceRosterNames": [
+        "Trexquant"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.trexquant.com/careers/",
+        "https://trexquant.com/careers"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "UC Capital",
+      "sourceRosterNames": [
+        "UC Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.uccapital.com.tw/zh/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Uranus Research",
+      "sourceRosterNames": [
+        "Uranus Research"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Valkyrie Trading",
+      "sourceRosterNames": [
+        "Valkyrie Trading"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.valkyrietrading.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Viking Global Investors",
+      "sourceRosterNames": [
+        "Viking Global Investors"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/vikingglobalinvestors?error=true"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 3,
+      "relevantInternships": 0
+    },
+    {
+      "company": "WEBB Traders",
+      "sourceRosterNames": [
+        "WEBB Traders"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "http://www.webbtraders.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Waterfront International Ltd",
+      "sourceRosterNames": [
+        "Waterfront International Ltd"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/wil"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 3,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Winton Capital",
+      "sourceRosterNames": [
+        "Winton Group"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.winton.com/careers/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "XR Trading",
+      "sourceRosterNames": [
+        "XR Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://recruiting.paylocity.com/Recruiting/jobs/Apply/2303630"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Z.R.T.X.",
+      "sourceRosterNames": [
+        "Z.R.T.X."
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.zrtx.eu/EN/Jobs/Vacancy/job-opportunity-for-trader-Larnaca-Cyprus"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Stronghold Capital Management",
+      "sourceRosterNames": [
+        "Stronghold Capital Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.stronghold.capital/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "TCI Fund Management",
+      "sourceRosterNames": [
+        "TCI Fund Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Teesta Investment",
+      "sourceRosterNames": [
+        "Teesta Investment"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://teesta.co/join-us"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Tidal Energy Marketing",
+      "sourceRosterNames": [
+        "Tidal Energy Marketing"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.tidal-energy.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Trafigura",
+      "sourceRosterNames": [
+        "Trafigura",
+        "Trafigura (Trafigura Commodities)"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.trafigura.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 40,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Trillium",
+      "sourceRosterNames": [
+        "Trillium Trading"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.trlm.com/careers/",
+        "https://job-boards.greenhouse.io/trillium",
+        "https://www.trilliumhealthresources.org/explore-trillium/careers/internship-practicum",
+        "https://www.trilliumhealth.org/join-the-team",
+        "https://www.trilliumhealthresources.org/explore-trillium/careers"
+      ],
+      "livePages": 5,
+      "attemptedPages": 5,
+      "jobsSeen": 3,
+      "relevantInternships": 0
+    },
+    {
+      "company": "UTR8 Group",
+      "sourceRosterNames": [
+        "UTR8 Group"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://utr8-group.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "VICI Holdings",
+      "sourceRosterNames": [
+        "VICI Holdings"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Vatic Labs",
+      "sourceRosterNames": [
+        "Vatic Labs"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/vaticlabs/jobs/3137555"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 10,
+      "relevantInternships": 1
+    },
+    {
+      "company": "Vitol",
+      "sourceRosterNames": [
+        "Vitol"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.smartrecruiters.com/Vitol?oga=true"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "WH Trading",
+      "sourceRosterNames": [
+        "WH Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Whistler Trading",
+      "sourceRosterNames": [
+        "Whistler Trading"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/whistlertrading"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 6,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Wolverine Trading",
+      "sourceRosterNames": [
+        "Wolverine Trading"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.wolve.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "XTX Markets",
+      "sourceRosterNames": [
+        "XTX Markets"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.xtxmarkets.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 6,
+      "relevantInternships": 1
+    },
+    {
+      "company": "Z22 Technologies AG",
+      "sourceRosterNames": [
+        "Z22 Technologies AG"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.z22.ch/career"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Sumo",
+      "sourceRosterNames": [
+        "Sumo"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "TGS",
+      "sourceRosterNames": [
+        "TGS"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Teza Technologies",
+      "sourceRosterNames": [
+        "Teza Technologies"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.teza.com/careers/",
+        "https://jobs.ashbyhq.com/teza-technologies"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 12,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Tower Research Capital",
+      "sourceRosterNames": [
+        "Tower Research Capital"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.tower-research.com/open-positions/",
+        "https://job-boards.greenhouse.io/towerresearchcapital"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 79,
+      "relevantInternships": 3
+    },
+    {
+      "company": "Two Sigma",
+      "sourceRosterNames": [
+        "Two Sigma"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://careers.twosigma.com/",
+        "https://www.twosigma.com/careers/",
+        "https://www.twosigma.com/careers/internships/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Ubiquant",
+      "sourceRosterNames": [
+        "Ubiquant"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Virtu Financial",
+      "sourceRosterNames": [
+        "VIRTU Financial"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.virtu.com/careers/",
+        "https://job-boards.greenhouse.io/virtu"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 40,
+      "relevantInternships": 5
+    },
+    {
+      "company": "Verition Fund Management",
+      "sourceRosterNames": [
+        "Verition Fund Management"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.verition.com/careers/",
+        "https://www.verition.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "VivCourt Trading",
+      "sourceRosterNames": [
+        "VivCourt Trading"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.vivcourt.com/careers/trading-internship/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 1,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Walleye Capital",
+      "sourceRosterNames": [
+        "Walleye Capital"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/walleyecapital-external-students",
+        "https://walleyecapital.com/careers",
+        "https://job-boards.greenhouse.io/walleyecapital-external-fulltime"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 24,
+      "relevantInternships": 8
+    },
+    {
+      "company": "Wincent",
+      "sourceRosterNames": [
+        "Wincent"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.wincent.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Woorton",
+      "sourceRosterNames": [
+        "Woorton"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.woorton.com/about-us"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "XY Capital",
+      "sourceRosterNames": [
+        "XY Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/xycapital?error=true"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "iRage / iRage Capital",
+      "sourceRosterNames": [
+        "iRage / iRage Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Systematic Alpha Oy",
+      "sourceRosterNames": [
+        "Systematic Alpha Oy"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://systematicalpha.fi/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "TRV Trading Ltd",
+      "sourceRosterNames": [
+        "TRV Trading Ltd"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Voleon Group",
+      "sourceRosterNames": [
+        "The Voleon Group"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.ashbyhq.com/voleon",
+        "https://jobs.lever.co/voleon/",
+        "https://www.voleon.com/careers/"
+      ],
+      "livePages": 2,
+      "attemptedPages": 3,
+      "jobsSeen": 56,
+      "relevantInternships": 0
+    },
+    {
+      "company": "TradeLink",
+      "sourceRosterNames": [
+        "TradeLink"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.tradelink.co/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "TransMarket Group",
+      "sourceRosterNames": [
+        "TransMarket Group"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/transmarketgroup"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 15,
+      "relevantInternships": 2
+    },
+    {
+      "company": "UBS",
+      "sourceRosterNames": [
+        "UBS (Quant Solutions / Investments)"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.ubs.com/global/en/careers.html",
+        "https://www.ubs.com/global/en/careers/search-jobs.html",
+        "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=searchResults&SearchType=linkquery&LinkID=15231",
+        "https://www.ubs.com/global/en/careers/early-careers.html",
+        "https://www.ubs.com/global/en/careers/early-careers/faq.html"
+      ],
+      "livePages": 5,
+      "attemptedPages": 5,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Universa Investments",
+      "sourceRosterNames": [
+        "Universa Investments"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "VS Capital",
+      "sourceRosterNames": [
+        "VS Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Verma Research Capital",
+      "sourceRosterNames": [
+        "Verma Research Capital"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Voloridge",
+      "sourceRosterNames": [
+        "Voloridge Investment Management"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.voloridge.com/our-approach",
+        "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 4,
+      "relevantInternships": 2
+    },
+    {
+      "company": "Wallsoft Labs",
+      "sourceRosterNames": [
+        "Wallsoft Labs"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Wintermute",
+      "sourceRosterNames": [
+        "Wintermute"
+      ],
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://wintermute.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "WorldQuant",
+      "sourceRosterNames": [
+        "WorldQuant"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/worldquant",
+        "https://job-boards.greenhouse.io/worldquant?error=true",
+        "https://www.worldquant.com/careers/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 100,
+      "relevantInternships": 5
+    },
+    {
+      "company": "Xantium",
+      "sourceRosterNames": [
+        "Xantium"
+      ],
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/xantium?gh_src=Trackr"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 7,
+      "relevantInternships": 0
+    }
+  ]
+}

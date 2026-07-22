@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-07-22T04:59:12.088Z",
+  "previousScanAt": "2026-07-22T04:45:59.011Z",
+  "currentScanAt": "2026-07-22T04:56:19.892Z",
+  "previousRows": 247,
+  "currentRows": 250,
+  "added": [
+    {
+      "Company": "Chicago Trading Company",
+      "Title": "Quant Trading Internship - Summer 2027",
+      "Department": "Campus",
+      "Location": "Chicago, Illinois, United States",
+      "URL": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
+      "Source": "Career page Greenhouse:ctccampusboard",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.chicagotrading.com/careers/ | company_wrapper=https://www.chicagotrading.com/careers/job?gh_jid=4708188005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Chicago Trading Company (CTC) is a premier proprietary trading firm specializing in options market making. Our collaborative culture fuels innovation in quantitative research, systematic trading strategies, and cutting-edge trading technology. For over three decades CTC has provided critical liquidity across derivatives exchanges worldwide - making them fairer, more transparent, and more efficient. We strive to be the most innovative firm in the industry today, tomorrow, and long into the future while upholding ethical excellence. We believe that CTC makes a positive impact on the markets, the lives of our employees, and all the communities to which we belong. Started in 1995 by a...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Chicago Trading Company",
+      "Title": "Quant Trading Internship - Summer 2027",
+      "Department": "Campus",
+      "Location": "London, England, United Kingdom",
+      "URL": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005",
+      "Source": "Career page Greenhouse:ctccampusboard",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.chicagotrading.com/careers/ | company_wrapper=https://www.chicagotrading.com/careers/job?gh_jid=4709545005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Chicago Trading Company (CTC) is a premier proprietary trading firm specializing in options market making. Our collaborative culture fuels innovation in quantitative research, systematic trading strategies, and cutting-edge trading technology. For over three decades CTC has provided critical liquidity across derivatives exchanges worldwide - making them fairer, more transparent, and more efficient. We strive to be the most innovative firm in the industry today, tomorrow, and long into the future while upholding ethical excellence. We believe that CTC makes a positive impact on the markets, the lives of our employees, and all the communities to which we belong. Started in 1995 by a...",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Chicago Trading Company",
+      "Title": "Software Engineering Internship - Summer 2027",
+      "Department": "Campus",
+      "Location": "Chicago, Illinois, United States",
+      "URL": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
+      "Source": "Career page Greenhouse:ctccampusboard",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.chicagotrading.com/careers/ | company_wrapper=https://www.chicagotrading.com/careers/job?gh_jid=4708230005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Chicago Trading Company (CTC) is a premier proprietary trading firm specializing in options market making. Our collaborative culture fuels innovation in quantitative research, systematic trading strategies, and cutting-edge trading technology. For over three decades CTC has provided critical liquidity across derivatives exchanges worldwide - making them fairer, more transparent, and more efficient. We strive to be the most innovative firm in the industry today, tomorrow, and long into the future while upholding ethical excellence. We believe that CTC makes a positive impact on the markets, the lives of our employees, and all the communities to which we belong. Started in 1995 by a...",
+      "Region": "North America"
+    }
+  ],
+  "removed": []
+}

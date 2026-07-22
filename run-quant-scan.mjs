@@ -4,9 +4,11 @@ import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const validModes = new Set(["v1", "v2", "broad", "swe", "all"]);
-const modeArg = process.argv.find((arg) => arg.startsWith("--mode="));
-const positionalMode = process.argv.find((arg) => !arg.startsWith("-") && !arg.endsWith(".mjs"));
+const userArgs = process.argv.slice(2);
+const modeArg = userArgs.find((arg) => arg.startsWith("--mode="));
+const positionalMode = userArgs.find((arg) => !arg.startsWith("-"));
 const mode = modeArg ? modeArg.split("=")[1] : positionalMode || "all";
+const shouldPublish = userArgs.includes("--publish") || process.env.QJS_AUTO_PUBLISH === "1";
 
 if (!validModes.has(mode)) {
   console.error(`Invalid mode: ${mode}`);
@@ -18,9 +20,17 @@ const sourceDir = dirname(fileURLToPath(import.meta.url));
 const stateDir = resolve(sourceDir, ".scan-state");
 const previousRunFile = resolve(stateDir, "previous_scan_time.txt");
 const broadRawPath = resolve(sourceDir, "us_financial_services_internship_scan_raw.json");
+const quantV2RawPath = resolve(sourceDir, "quant_internship_roles_scan_v2_raw.json");
+const previousQuantV2RawPath = resolve(stateDir, "previous_quant_v2_raw.json");
 const currentRunStartedAt = new Date().toISOString();
 
 await fs.mkdir(stateDir, { recursive: true });
+
+if (["v2", "all"].includes(mode)) {
+  try {
+    await fs.copyFile(quantV2RawPath, previousQuantV2RawPath);
+  } catch {}
+}
 
 try {
   const raw = JSON.parse(await fs.readFile(broadRawPath, "utf8"));
@@ -59,6 +69,54 @@ for (const script of scripts) {
         reject(new Error(`${script} exited with code ${code}`));
       }
     });
+  });
+}
+
+if (["v2", "all"].includes(mode)) {
+  await new Promise((resolvePromise, reject) => {
+    const child = spawn(process.execPath, ["build_quant_roster_scan_audit.mjs"], {
+      cwd: sourceDir,
+      stdio: "inherit",
+    });
+    child.on("error", reject);
+    child.on("close", (code) => code === 0
+      ? resolvePromise()
+      : reject(new Error(`build_quant_roster_scan_audit.mjs exited with code ${code}`)));
+  });
+
+  await new Promise((resolvePromise, reject) => {
+    const child = spawn(process.execPath, ["build_new_quant_roles_report.mjs"], {
+      cwd: sourceDir,
+      stdio: "inherit",
+    });
+    child.on("error", reject);
+    child.on("close", (code) => code === 0
+      ? resolvePromise()
+      : reject(new Error(`build_new_quant_roles_report.mjs exited with code ${code}`)));
+  });
+
+  await new Promise((resolvePromise, reject) => {
+    const child = spawn(process.execPath, ["build_scan_dashboard.mjs"], {
+      cwd: sourceDir,
+      stdio: "inherit",
+    });
+    child.on("error", reject);
+    child.on("close", (code) => code === 0
+      ? resolvePromise()
+      : reject(new Error(`build_scan_dashboard.mjs exited with code ${code}`)));
+  });
+}
+
+if (shouldPublish) {
+  await new Promise((resolvePromise, reject) => {
+    const child = spawn(process.execPath, ["publish_scan_results.mjs"], {
+      cwd: sourceDir,
+      stdio: "inherit",
+    });
+    child.on("error", reject);
+    child.on("close", (code) => code === 0
+      ? resolvePromise()
+      : reject(new Error(`publish_scan_results.mjs exited with code ${code}`)));
   });
 }
 

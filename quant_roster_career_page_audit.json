@@ -1,0 +1,1981 @@
+{
+  "generatedAt": "2026-07-20T15:28:30.667Z",
+  "sourceRosterEntries": 303,
+  "canonicalCompanies": 302,
+  "verifiedCompanies": 188,
+  "unresolvedCompanies": 114,
+  "importedUrls": 0,
+  "removedBadUrls": 1,
+  "companies": [
+    {
+      "company": "26 Miles Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "ACT Group",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Acadian Asset Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.acadian-asset.com/careers"
+      ]
+    },
+    {
+      "company": "Albert Quant Trading Club",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "AlphaGrep",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.alpha-grep.com/careers/"
+      ]
+    },
+    {
+      "company": "Apolis SAM",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://apolisrises.com/careers/"
+      ]
+    },
+    {
+      "company": "Arfima Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.arfima.com/careers/"
+      ]
+    },
+    {
+      "company": "Aureas Finance",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "BD Energy",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA"
+      ]
+    },
+    {
+      "company": "Bastion Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://bastiontrading.com/careers/apply"
+      ]
+    },
+    {
+      "company": "BlackEdge Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/blackedgecapital"
+      ]
+    },
+    {
+      "company": "Bracebridge Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.bracebridgecapital.com/careers/"
+      ]
+    },
+    {
+      "company": "Caladan",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://caladan.xyz/careers/"
+      ]
+    },
+    {
+      "company": "Cargill International SA",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://careers.cargill.com/en"
+      ]
+    },
+    {
+      "company": "Chicago Trading Company",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.chicagotrading.com/careers/"
+      ]
+    },
+    {
+      "company": "Coding Test Firm",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Crabel Capital Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://crabel.com/careers/"
+      ]
+    },
+    {
+      "company": "D. E. Shaw",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.deshaw.com/careers?source=campus",
+        "https://www.deshaw.com/careers",
+        "https://www.deshawindia.com/careers"
+      ]
+    },
+    {
+      "company": "323 Trading",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "AQR Capital Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://careers.aqr.com/",
+        "https://www.aqr.com/Our-Firm/Careers",
+        "https://job-boards.greenhouse.io/aqr"
+      ]
+    },
+    {
+      "company": "Accent Groupe",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.accentgroupe.com/career"
+      ]
+    },
+    {
+      "company": "Algorithmic Trading Group",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Amber Group",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.ambergroup.io/applyJob"
+      ]
+    },
+    {
+      "company": "Aquatic Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/aquaticcapitalmanagement"
+      ]
+    },
+    {
+      "company": "Armada Technologies",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Automaton Trading LLC",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "BP Supply Trading & Shipping",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.bp.com/en/global/corporate/careers/students-and-graduates/career-areas-for-students/supply-trading-and-shipping.html"
+      ]
+    },
+    {
+      "company": "Belvedere Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.belvederetrading.com/careers/"
+      ]
+    },
+    {
+      "company": "BlockTech",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.block-tech.io/careers"
+      ]
+    },
+    {
+      "company": "Brevan Howard",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967",
+        "https://brevanhoward.wd3.myworkdayjobs.com/wday/cxs/brevanhoward/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2025-Trading-Graduate-Program---Abu-Dhabi_JR100942",
+        "https://www.brevanhoward.com/careers/",
+        "https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/jobs"
+      ]
+    },
+    {
+      "company": "Campbell and Company",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Cascade Systems",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://cascadesystems.net/careers/"
+      ]
+    },
+    {
+      "company": "Chimera Securities",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.chimerasecurities.com/careers"
+      ]
+    },
+    {
+      "company": "Consolidated Trading",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Criterion Arbitrage & Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.criterion-trading.nl/m/join.html"
+      ]
+    },
+    {
+      "company": "D2X",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://d2x.com/careers"
+      ]
+    },
+    {
+      "company": "3Red Partners",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.3redpartners.com/careers/",
+        "https://job-boards.greenhouse.io/3redpartners"
+      ]
+    },
+    {
+      "company": "AXQ Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/axq"
+      ]
+    },
+    {
+      "company": "Ace Capital Saires",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "All Options",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Amsterdam Investment Club",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.amsterdaminvestmentclub.com/pages/vacancy/equity-analyst"
+      ]
+    },
+    {
+      "company": "Aquion",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Aros Commodities",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Axinoss",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Balyasny Asset Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.bamfunds.com/careers/"
+      ]
+    },
+    {
+      "company": "Birkoa Capital Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://birkoa.com/careers"
+      ]
+    },
+    {
+      "company": "Bondi Tech",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.bonditech.com/careers"
+      ]
+    },
+    {
+      "company": "Bridgewater Associates",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.bridgewater.com/working-at-bridgewater"
+      ]
+    },
+    {
+      "company": "Capital Fund Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.cfm.com/careers/"
+      ]
+    },
+    {
+      "company": "Charlesworth Research",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Citadel Securities",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.citadelsecurities.com/careers/",
+        "https://www.citadel.com/careers/"
+      ]
+    },
+    {
+      "company": "Contek (Contrarian Technologies)",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Cross Options",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.crossoptions.net/join-us"
+      ]
+    },
+    {
+      "company": "DRW",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://drw.com/work-at-drw/"
+      ]
+    },
+    {
+      "company": "ABC Arbitrage",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.abc-arbitrage.com/career/"
+      ]
+    },
+    {
+      "company": "Aarhus Trading",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Akuna Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://akunacapital.com/careers/",
+        "https://job-boards.greenhouse.io/optionstrading201course/jobs/7394582"
+      ]
+    },
+    {
+      "company": "Allston Trading",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Ansatz Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://jobs.lever.co/ansatzcapital?by=location"
+      ]
+    },
+    {
+      "company": "ArbitragePoint Trading",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Arrowstreet Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.arrowstreetcapital.com/professional-careers/"
+      ]
+    },
+    {
+      "company": "B2C2",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.b2c2.com/join-b2c2/careers"
+      ]
+    },
+    {
+      "company": "Barak Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Black Eagle Financial Group",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://blackeaglefg.com/stock-market-job/"
+      ]
+    },
+    {
+      "company": "Boston Energy Trading and Marketing",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.betm.com/careers"
+      ]
+    },
+    {
+      "company": "CTS Global Equity Group",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.ctsglobalgroup.com/",
+        "https://www.ctsglobalgroup.com/internship"
+      ]
+    },
+    {
+      "company": "Capstone",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://capstonedc.com/about/careers/",
+        "https://www.capstone.jobs/",
+        "https://capstonedc.wd501.myworkdayjobs.com/Capstone"
+      ]
+    },
+    {
+      "company": "Chengdu ZhaoYu Investment",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Clear Street",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/clearstreet?gh_src=bdd2c3261"
+      ]
+    },
+    {
+      "company": "Cor Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Cubist",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://careers.point72.com/"
+      ]
+    },
+    {
+      "company": "DSV Fund",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "DV Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.dvtrading.co/careers/"
+      ]
+    },
+    {
+      "company": "Danske Commodities",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://danskecommodities.com/join-us"
+      ]
+    },
+    {
+      "company": "Deutsche Bank",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://db.wd3.myworkdayjobs.com/DBWebsite/"
+      ]
+    },
+    {
+      "company": "Domeyard LP",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://careers.smartrecruiters.com/DomeyardLP?location=Boston&page=0&search="
+      ]
+    },
+    {
+      "company": "Eagle Seven",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.eagleseven.com/"
+      ]
+    },
+    {
+      "company": "Engineers Gate",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.eglp.com/careers/"
+      ]
+    },
+    {
+      "company": "Estee Advisors",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://esteeadvisors.com/careers.php"
+      ]
+    },
+    {
+      "company": "ExodusPoint",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/exoduspoint"
+      ]
+    },
+    {
+      "company": "Five Rings",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/fiveringsllc",
+        "https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008",
+        "https://fiveringsfinancial.com/join-our-team/",
+        "https://fiverings.com/careers/"
+      ]
+    },
+    {
+      "company": "Futures First",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://futuresfirst.com/careers/"
+      ]
+    },
+    {
+      "company": "GSA Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.gsacapital.com/careers/",
+        "https://job-boards.greenhouse.io/gsacapital",
+        "https://www.gsacapital.com/join-us"
+      ]
+    },
+    {
+      "company": "Genk Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Golden Meadow Investment",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Gravity Team",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://careers.gravityteam.co/"
+      ]
+    },
+    {
+      "company": "HAP Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://jobs.lever.co/hap-capital"
+      ]
+    },
+    {
+      "company": "Hudson River Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.hudsonrivertrading.com/careers/",
+        "https://www.hudsonrivertrading.com/careers/job/"
+      ]
+    },
+    {
+      "company": "IV Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://iv-capital.com/careers/"
+      ]
+    },
+    {
+      "company": "Integrated Quantitative Investments",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Jane Street",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads",
+        "https://www.janestreet.com/join-jane-street/open-roles/",
+        "https://www.janestreet.com/join-jane-street/overview/",
+        "https://www.janestreet.com/join-jane-street/apply/8092062002/",
+        "https://job-boards.greenhouse.io/janestreet/jobs/7967227002"
+      ]
+    },
+    {
+      "company": "Kershner Trading Group",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://kershnertrading.applicantstack.com/x/openings"
+      ]
+    },
+    {
+      "company": "Kvantium Research",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "DWF Labs",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.dwf-labs.com/careers"
+      ]
+    },
+    {
+      "company": "Deep Blue Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://deepbluecap.com/vacancies/"
+      ]
+    },
+    {
+      "company": "Dexterity Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Domstad Traders",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Eclipse Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002"
+      ]
+    },
+    {
+      "company": "Enigma Quant Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Ethflow",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Farrer Capital Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.farrercapital.com/careers"
+      ]
+    },
+    {
+      "company": "Flow Traders",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.flowtraders.com/careers"
+      ]
+    },
+    {
+      "company": "G-Research",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.gresearch.com/careers/"
+      ]
+    },
+    {
+      "company": "GSR",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/gsrmarkets/jobs/4421987101"
+      ]
+    },
+    {
+      "company": "Giant Steps Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Grace Hall Trading",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Great Point Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.greatpointcapital.com/contact-apply"
+      ]
+    },
+    {
+      "company": "HBK Capital Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.hbk.com/careers"
+      ]
+    },
+    {
+      "company": "Humbility",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "InCommodities",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://incommodities.com/join-us"
+      ]
+    },
+    {
+      "company": "Invemo Capital AG",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Jerpoint Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "KeyQuant",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "League Trading",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Da Vinci Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://davincitrading.com/job/graduate-trader/"
+      ]
+    },
+    {
+      "company": "Deeter Analytics",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://jobs.ashbyhq.com/deeter-analytics/27b65fa1-9629-4925-8a89-9c77bec491df"
+      ]
+    },
+    {
+      "company": "Diameter Capital Partners",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Dymon Asia",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.dymonasia.com/"
+      ]
+    },
+    {
+      "company": "Elliott Bay Energy Trading LLC",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Entropy Trading Group",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Euclidean Technologies",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.euclidean.com/careers"
+      ]
+    },
+    {
+      "company": "Fenix One",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.fenix-one.com/careers"
+      ]
+    },
+    {
+      "company": "Forest Creek Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://forestcreekcap.com/job/"
+      ]
+    },
+    {
+      "company": "GMO",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Gelber Group",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.gelbergroup.com/careers/"
+      ]
+    },
+    {
+      "company": "Gift Street Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Grasshopper",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Group One Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.group1.com/careers/"
+      ]
+    },
+    {
+      "company": "Headlands Technologies",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.headlandstech.com/careers/"
+      ]
+    },
+    {
+      "company": "Hyperithm",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://hyperithm.career.greetinghr.com/ko/open-positions"
+      ]
+    },
+    {
+      "company": "InCommodities Asset Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://incommodities.com/join-us"
+      ]
+    },
+    {
+      "company": "J.E. Moody & Company LLC",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Jump Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.jumptrading.com/careers/"
+      ]
+    },
+    {
+      "company": "Keyrock",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://keyrock.com/careers/"
+      ]
+    },
+    {
+      "company": "Lehi Capital Corp",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Daler Trading",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Delchain",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://delchain.io/job-openings/"
+      ]
+    },
+    {
+      "company": "Dolat Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://dolatcapitalresearch.com/careers/"
+      ]
+    },
+    {
+      "company": "ETS Asset Management Factory",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Elliott Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://ellimgmt.com/careers/"
+      ]
+    },
+    {
+      "company": "Epoch Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/epochcapital"
+      ]
+    },
+    {
+      "company": "Evergreen Statistical Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/evergreenstatisticaltrading/jobs/4136768009"
+      ]
+    },
+    {
+      "company": "Final",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Freepoint Commodities",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.freepoint.com/life-at-freepoint/"
+      ]
+    },
+    {
+      "company": "GRW Partners",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Geneva Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.genevatrading.com/careers/",
+        "https://job-boards.greenhouse.io/genevatrading"
+      ]
+    },
+    {
+      "company": "Glencore",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.glencore.com/careers"
+      ]
+    },
+    {
+      "company": "Graviton Research Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.gravitontrading.com/careers.html",
+        "https://apply.workable.com/gravitonresearch/"
+      ]
+    },
+    {
+      "company": "Gunvor",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://gunvorgroup.com/careers/",
+        "https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers",
+        "https://gunvorgroup.com/careers/talent/"
+      ]
+    },
+    {
+      "company": "High-Flyer",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "IMC Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/imc/jobs/4597351101",
+        "https://www.imc.com/us/careers/",
+        "https://www.imc.com/ap/careers/"
+      ]
+    },
+    {
+      "company": "Independent Trading Group (ITG)",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "JY Quantitative Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.jyquant.com/careersShow.php"
+      ]
+    },
+    {
+      "company": "Kadima Asset Management",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Kronos Research",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us"
+      ]
+    },
+    {
+      "company": "Lingjun Investment",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Linitics",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Lucida",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Marquette Partners",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Maven Securities",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.mavensecurities.com/careers/",
+        "https://www.mavensecurities.com/jobs/",
+        "https://maventrading.com/careers",
+        "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381"
+      ]
+    },
+    {
+      "company": "Mercuria Energy Group",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://mercuria.com/careers/"
+      ]
+    },
+    {
+      "company": "Minghong",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://join.mhfunds.com"
+      ]
+    },
+    {
+      "company": "Mingshi Investment Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.mingshiim.com/join"
+      ]
+    },
+    {
+      "company": "NK Securities",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/nksecuritiesresearch?error=true"
+      ]
+    },
+    {
+      "company": "Nitor Energy",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://nitorenergy.com/career/"
+      ]
+    },
+    {
+      "company": "Nyenburgh",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "OTC Flow",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://otc-flow.webflow.io/careers"
+      ]
+    },
+    {
+      "company": "One Eleven Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "PDT Partners",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/pdtpartners?error=true",
+        "https://job-boards.greenhouse.io/pdtpartners/jobs/3914106",
+        "https://www.pdtpartners.com/careers/"
+      ]
+    },
+    {
+      "company": "Premonition",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Quadeye",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.quadeye.com/"
+      ]
+    },
+    {
+      "company": "Quantbox Research",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Quantrend Technology",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Radix Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.radix-trading.com/careers/",
+        "https://www.radixeng.com/careers",
+        "https://job-boards.greenhouse.io/radixuniversity"
+      ]
+    },
+    {
+      "company": "SCALP Trade",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://scalptrade.com/careers/"
+      ]
+    },
+    {
+      "company": "Saccade Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Schonfeld",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/schonfeld?error=true",
+        "https://www.schonfeld.com/careers/"
+      ]
+    },
+    {
+      "company": "Silver Valley Management",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Liquid Capital Group",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Mako Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.mako.com/opportunities",
+        "https://www.mako.com/early-careers"
+      ]
+    },
+    {
+      "company": "Marshall Wace",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/mw-tech-grad",
+        "https://www.mwam.com/join-us/",
+        "https://us.mwam.com/join-us/"
+      ]
+    },
+    {
+      "company": "Maverick Derivatives",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/maverickderivatives?error=true"
+      ]
+    },
+    {
+      "company": "Mesh Capital LLC",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.meshcapital.com/Careers.html"
+      ]
+    },
+    {
+      "company": "Minghong / Jupiter",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Mirazur Capital SAM",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Nebula Research",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Nomura Securities",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.nomura.com/americas/careers/"
+      ]
+    },
+    {
+      "company": "ORA Traders",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "OTS Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Open Futures Group",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Peak6",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://peak6group.wd1.myworkdayjobs.com/PEAK6"
+      ]
+    },
+    {
+      "company": "Prime Trading",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Quadrature",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/quadraturecapital?error=true"
+      ]
+    },
+    {
+      "company": "Quantique (QuantM3)",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Qube Research & Technologies",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.qube-rt.com/careers/"
+      ]
+    },
+    {
+      "company": "Rayleigh Research Oy",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Susquehanna International Group",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://careers.sig.com/",
+        "https://careers-sig.icims.com/jobs/intro",
+        "https://sig.com/careers/",
+        "https://careers-sig.icims.com/jobs/intro?mobile=true&needsRedirect=false"
+      ]
+    },
+    {
+      "company": "Saichild Proprietary Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.saichild.com/career"
+      ]
+    },
+    {
+      "company": "Scientech Research Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Simplex Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://simplextrading.com/careers/",
+        "https://job-boards.greenhouse.io/simplextrading"
+      ]
+    },
+    {
+      "company": "Lone Pine Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Man Group",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://mangroupplc.wd3.myworkdayjobs.com/Man_Group_Careers",
+        "https://job-boards.eu.greenhouse.io/mangroup",
+        "https://www.man.com/careers"
+      ]
+    },
+    {
+      "company": "Mathrix",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Mercuria",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://mercuria.com/careers/"
+      ]
+    },
+    {
+      "company": "Midpoint Markets",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/midpointmarkets/jobs/4408679008"
+      ]
+    },
+    {
+      "company": "Minghong Investment",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://join.mhfunds.com"
+      ]
+    },
+    {
+      "company": "Morgan Stanley",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.morganstanley.com/careers/career-opportunities-search",
+        "https://www.morganstanley.com/people-opportunities/students-graduates",
+        "https://www.morganstanley.com/careers/career-opportunities-search/",
+        "https://morganstanley.eightfold.ai/careers?source=mscom"
+      ]
+    },
+    {
+      "company": "Nine Mile",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.nmftrading.com/careers"
+      ]
+    },
+    {
+      "company": "Northpool",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.northpool.nl/vacancies"
+      ]
+    },
+    {
+      "company": "OSF Management",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Old Growth Harbor LLC",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Optica",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "PanAgora Asset Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.panagora.com/careers-panagora-asset-management/"
+      ]
+    },
+    {
+      "company": "Priogen Energy",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://priogen.com/careers/home/"
+      ]
+    },
+    {
+      "company": "Quadrature Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/quadraturecapital?error=true"
+      ]
+    },
+    {
+      "company": "Quantlab",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.quantlab.com/careers?nl=1&p=jobs"
+      ]
+    },
+    {
+      "company": "RAON Trading",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Renaissance Technologies",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.rentec.com/Careers.action"
+      ]
+    },
+    {
+      "company": "SQM Technologies",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://sqmtechnologies.com/careers"
+      ]
+    },
+    {
+      "company": "Sarpen Quant Investments",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Seven Eight Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Sovereign Blue Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Los Angeles Capital Management",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Market Wizards",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Matrix Executions",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Mercuria Energy America",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://mercuria.com/careers/"
+      ]
+    },
+    {
+      "company": "Millennium",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://mlp.wd5.myworkdayjobs.com/mlpcareers",
+        "https://www.mlp.com/careers/"
+      ]
+    },
+    {
+      "company": "Mingshi / Minghong",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Murano Group",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Nino Options",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Numerai",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "OSTC Ltd.",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Old Mission Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.oldmissioncapital.com/careers/",
+        "https://job-boards.greenhouse.io/oldmissioncapital"
+      ]
+    },
+    {
+      "company": "Optiver",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://optiver.com/join-us/",
+        "https://optiver.com/join-us/jobs/",
+        "https://job-boards.greenhouse.io/optiverprivate",
+        "https://optiver.com/join-us/locations/shanghai/",
+        "https://optiver.com/join-us/students/programs/futurefocus/",
+        "https://optiver.com/working-at-optiver/career-opportunities/",
+        "https://optiver.com/",
+        "https://optiver.com/working-at-optiver/",
+        "https://prod-www.optiver.com/",
+        "https://optiver.com/join-us/jobs/institutional-sales-and-trading/new-york/us-options-sales-trader/",
+        "https://optiver.com/join-us/jobs/human-resources-and-recruiting/austin/",
+        "https://optiver.com/join-us/jobs/human-resources-and-recruiting/"
+      ]
+    },
+    {
+      "company": "Plutus Research",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://plutusresearch.com/careers/"
+      ]
+    },
+    {
+      "company": "QCP Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.qcpgroup.com/career/"
+      ]
+    },
+    {
+      "company": "Quant Matter",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://quantmatter.com/careers/"
+      ]
+    },
+    {
+      "company": "Quantlane",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://jobs.lever.co/quantlane"
+      ]
+    },
+    {
+      "company": "RSJ Securities",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Revolution Capital Management",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "SQS Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Savius",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Seven Points Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://sevenpointscapital.pinpointhq.com/"
+      ]
+    },
+    {
+      "company": "Spatium Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Squarepoint Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.squarepoint-capital.com/careers/"
+      ]
+    },
+    {
+      "company": "T3 Trading Group",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://t3trading.com/join-us/"
+      ]
+    },
+    {
+      "company": "TSY Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Tibra",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.tibra.com/careers/"
+      ]
+    },
+    {
+      "company": "Tradermath",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Trexquant",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.trexquant.com/careers/",
+        "https://trexquant.com/careers"
+      ]
+    },
+    {
+      "company": "UC Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.uccapital.com.tw/zh/careers"
+      ]
+    },
+    {
+      "company": "Uranus Research",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Valkyrie Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.valkyrietrading.com/careers/"
+      ]
+    },
+    {
+      "company": "Viking Global Investors",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/vikingglobalinvestors?error=true"
+      ]
+    },
+    {
+      "company": "WEBB Traders",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "http://www.webbtraders.com/careers"
+      ]
+    },
+    {
+      "company": "Waterfront International Ltd",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/wil"
+      ]
+    },
+    {
+      "company": "Winton Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.winton.com/careers/"
+      ]
+    },
+    {
+      "company": "XR Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://recruiting.paylocity.com/Recruiting/jobs/Apply/2303630"
+      ]
+    },
+    {
+      "company": "Z.R.T.X.",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.zrtx.eu/EN/Jobs/Vacancy/job-opportunity-for-trader-Larnaca-Cyprus"
+      ]
+    },
+    {
+      "company": "Stronghold Capital Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.stronghold.capital/"
+      ]
+    },
+    {
+      "company": "TCI Fund Management",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Teesta Investment",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://teesta.co/join-us"
+      ]
+    },
+    {
+      "company": "Tidal Energy Marketing",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.tidal-energy.com/careers"
+      ]
+    },
+    {
+      "company": "Trafigura",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.trafigura.com/careers/"
+      ]
+    },
+    {
+      "company": "Trillium",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.trlm.com/careers/",
+        "https://job-boards.greenhouse.io/trillium",
+        "https://www.trilliumhealthresources.org/explore-trillium/careers/internship-practicum",
+        "https://www.trilliumhealth.org/join-the-team",
+        "https://www.trilliumhealthresources.org/explore-trillium/careers"
+      ]
+    },
+    {
+      "company": "UTR8 Group",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://utr8-group.com/careers/"
+      ]
+    },
+    {
+      "company": "VICI Holdings",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Vatic Labs",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/vaticlabs/jobs/3137555"
+      ]
+    },
+    {
+      "company": "Vitol",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://careers.smartrecruiters.com/Vitol?oga=true"
+      ]
+    },
+    {
+      "company": "WH Trading",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Whistler Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/whistlertrading"
+      ]
+    },
+    {
+      "company": "Wolverine Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.wolve.com/careers/"
+      ]
+    },
+    {
+      "company": "XTX Markets",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.xtxmarkets.com/careers/"
+      ]
+    },
+    {
+      "company": "Z22 Technologies AG",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.z22.ch/career"
+      ]
+    },
+    {
+      "company": "Sumo",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "TGS",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Teza Technologies",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.teza.com/careers/",
+        "https://jobs.ashbyhq.com/teza-technologies"
+      ]
+    },
+    {
+      "company": "Tower Research Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.tower-research.com/open-positions/",
+        "https://job-boards.greenhouse.io/towerresearchcapital"
+      ]
+    },
+    {
+      "company": "Two Sigma",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://careers.twosigma.com/",
+        "https://www.twosigma.com/careers/",
+        "https://www.twosigma.com/careers/internships/"
+      ]
+    },
+    {
+      "company": "Ubiquant",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Virtu Financial",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.virtu.com/careers/",
+        "https://job-boards.greenhouse.io/virtu"
+      ]
+    },
+    {
+      "company": "Verition Fund Management",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.verition.com/careers/",
+        "https://www.verition.com/careers"
+      ]
+    },
+    {
+      "company": "VivCourt Trading",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.vivcourt.com/careers/trading-internship/"
+      ]
+    },
+    {
+      "company": "Walleye Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/walleyecapital-external-students",
+        "https://walleyecapital.com/careers",
+        "https://job-boards.greenhouse.io/walleyecapital-external-fulltime"
+      ]
+    },
+    {
+      "company": "Wincent",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.wincent.com/careers/"
+      ]
+    },
+    {
+      "company": "Woorton",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.woorton.com/about-us"
+      ]
+    },
+    {
+      "company": "XY Capital",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/xycapital?error=true"
+      ]
+    },
+    {
+      "company": "iRage / iRage Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Systematic Alpha Oy",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://systematicalpha.fi/careers"
+      ]
+    },
+    {
+      "company": "TRV Trading Ltd",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Voleon Group",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://jobs.ashbyhq.com/voleon",
+        "https://jobs.lever.co/voleon/",
+        "https://www.voleon.com/careers/"
+      ]
+    },
+    {
+      "company": "TradeLink",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.tradelink.co/careers"
+      ]
+    },
+    {
+      "company": "TransMarket Group",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/transmarketgroup"
+      ]
+    },
+    {
+      "company": "UBS",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.ubs.com/global/en/careers.html",
+        "https://www.ubs.com/global/en/careers/search-jobs.html",
+        "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=searchResults&SearchType=linkquery&LinkID=15231",
+        "https://www.ubs.com/global/en/careers/early-careers.html",
+        "https://www.ubs.com/global/en/careers/early-careers/faq.html"
+      ]
+    },
+    {
+      "company": "Universa Investments",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "VS Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Verma Research Capital",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Voloridge",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://www.voloridge.com/our-approach",
+        "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement"
+      ]
+    },
+    {
+      "company": "Wallsoft Labs",
+      "status": "no-verified-public-page",
+      "careerPages": []
+    },
+    {
+      "company": "Wintermute",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://wintermute.com/careers/"
+      ]
+    },
+    {
+      "company": "WorldQuant",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/worldquant",
+        "https://job-boards.greenhouse.io/worldquant?error=true",
+        "https://www.worldquant.com/careers/"
+      ]
+    },
+    {
+      "company": "Xantium",
+      "status": "verified-page-saved",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/xantium?gh_src=Trackr"
+      ]
+    }
+  ]
+}

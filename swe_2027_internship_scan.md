@@ -1,0 +1,272 @@
+# 2027 SWE Internship Open Roles Scan
+
+Scanned: 2026-07-14T23:51:29.991Z
+Companies searched: 222
+Rows/leads retained: 32
+
+Scope: QJS company universe: original quant firms plus broader US financial services companies. The scan refreshes company career-page discovery every run, scans official career/ATS pages, then adds broader web-discovered postings. A retained row must look like a 2027-cycle internship and a software/technology/engineering role.
+
+Status guide:
+- Confirmed official posting: direct role from official ATS/careers page.
+- Likely official; verify application form: search result appears to be on an official company domain.
+- Aggregator/web lead; verify on official site: posting surfaced on a job board or aggregator and needs confirmation before applying.
+- Official program page: useful application timing/team information, not necessarily a specific open role.
+
+## Roles And Leads
+
+- **AQR Capital Management** - [2027 Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647) - Greenwich, CT - Confirmed official posting (Career page Greenhouse:aqr): career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=7926647 | internship timing: Summer | AQR Capital Management AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998. At AQR, our employees share a common spirit of academic excellence, intellectual honesty and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assumption. We recognize and respect the power of colla...
+- **AQR Capital Management** - [2027 Research and Portfolio Management Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) - Greenwich, CT - Confirmed official posting (Career page Greenhouse:aqr): career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=7957728 | internship timing: Summer | About AQR Capital Management AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998. At AQR, our employees share a common spirit of academic excellence, intellectual honesty and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assumption. We recognize and respect the power of...
+- **Aquatic Capital** - [Software Engineer, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) - Chicago - Confirmed official posting (Career page Greenhouse:aquaticcapitalmanagement): career_page=https://job-boards.greenhouse.io/aquaticcapitalmanagement | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8489233002 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Aquatic was founded with a shared passion for tackling some of the most complex challenges in one of the world’s most competitive arenas—global financial markets. From the very beginning, we have been driven by a deep commitment to applying cutting-edge scientific research and technological innovation to deliver unparalleled performance. Our journey is one of continuous growth and exploration, marked by a spirit of curiosity and relentless drive for excellence. As a Software Engineering Intern at Aquatic, you will join a fast-moving team building high-performance, distributed systems that power our research and trading infrastructure. You’ll work closely with experienc...
+- **Arrowstreet** - [Quantitative Developer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) - Boston - Confirmed official posting (Career page Workday:arrowstreetcapital/Campus_Careers): career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 4 Days Ago | R1506
+- **Barclays** - [2027 Technology Developer Summer Internship Programme Singapore](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Singapore_JR-0000121763) - Singapore, Marina Bay Financial Tower 2 - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 7 Days Ago | JR-0000121763
+- **DRW** - [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8038923) - Chicago - Confirmed official posting (Career page Greenhouse:drweng): career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8038923 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Exam...
+- **DRW** - [Quantitative Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) - Singapore - Confirmed official posting (Career page Greenhouse:drweng): career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7981754 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | DRW is a technology-driven, diversified principal trading firm. We trade our own capital at our own risk, across a broad range of asset classes, instruments and strategies, in financial markets around the world. As the markets have evolved over the past 25 years, so has DRW – maximizing opportunities to include real estate, cryptoassets and venture capital. With over 1,000 employees at our Chicago headquarters and offices around the world, we work together to solve complex problems, challenge consensus and deliver meaningful results. It’s a place of high expectations, deep curiosity and thoughtful collaboration. As a Quantitative Developer Intern , you will implement software solutions that use advanced...
+- **DRW** - [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) - Chicago - Confirmed official posting (Career page Greenhouse:drweng): career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...
+- **DRW** - [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364) - Amsterdam - Confirmed official posting (Career page Greenhouse:drweng): career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8020364 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Amsterdam. How you will make an impact… Design, develop test, and deploy propriet...
+- **DRW** - [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) - London - Confirmed official posting (Career page Greenhouse:drweng): career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7942281 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organised social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietar...
+- **DRW** - [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) - Montreal - Confirmed official posting (Career page Greenhouse:drweng): career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7991196 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will join one of our development teams supporting our network development initiatives or trading businesses. Depending on the team you join, you will build advanced trading, analysis and risk applications, or advanced monitoring and automation systems leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your internship. While your days will have you immersed in complex projects directly driving DRW's progress, your tim...
+- **DRW** - [Software Developer Intern (C++)](https://job-boards.greenhouse.io/drweng/jobs/8014910) - Singapore - Confirmed official posting (Career page Greenhouse:drweng): career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8014910 | internship timing not stated in title; graduation eligibility mentions: 2026, 2027 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern in our Singapore office, you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your internship. While your days will have you engrossed with complex quantitative trading projects, your evenings will be spent exploring the city with organized social events to truly discover what it’s like to live and work in Singapore. How you will make an impact… Design, develop test, and ...
+- **Five Rings** - [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) - New York - Confirmed official posting (Career page Greenhouse:fiveringsllc): career_page=https://job-boards.greenhouse.io/fiveringsllc | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=5349707008 | internship timing: Summer | About Five Rings Five Rings is a proprietary trading firm founded with a vision of combining strategy, innovation and technology to succeed in today’s global markets. With offices in New York, Boca Raton, London and Amsterdam, Five Rings trades in various domestic and international markets, both established and esoteric. Our team constantly seeks new opportunities, analyzes their risks and rewards, and creates strategies and tools to capitalize on them. We have an open culture and encourage the flow of knowledge and ideas between all areas of the firm. Interviews will begin in September 2026. About the Program Five Rings offers an intensive summer internship program. The program includes immersion in both hands-on projects and cl...
+- **Hudson River Trading** - [Algorithm Development (Quant Research) Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062) - New York, NY, United States; Singapore - Confirmed official posting (Career page Greenhouse:wehrtyou): career_page=https://www.hudsonrivertrading.com/careers/ | company_wrapper=https://www.hudsonrivertrading.com/careers/job?gh_jid=7964062 | internship timing: Summer 2027 | Hudson River Trading (HRT) is seeking exceptional full-time students to join our Algorithm Development Summer Internship Program. Algorithm Developers at HRT focus on the research and implementation of automated trading strategies. As an intern, you will have the opportunity to rotate between our high- and mid-frequency trading teams, as well as our machine learning teams. In close collaboration with full-time mentors, you will apply sophisticated quantitative modeling techniques to understand and predict market behavior and write software to improve our trading strategies. Ideal candidates are quantitatively-driven and practically-minded programmers, scientists, and mathematicians who are excited to solve the most chal...
+- **Hudson River Trading** - [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) - Austin, TX, United States; Chicago, Illinois, United States; New York, NY, United States; Singapore - Confirmed official posting (Career page Greenhouse:wehrtyou): career_page=https://www.hudsonrivertrading.com/careers/ | company_wrapper=https://www.hudsonrivertrading.com/careers/job?gh_jid=8052083 | internship timing: Summer 2027 | Hudson River Trading (HRT) is seeking highly motivated full-time students to join our Software Engineering Summer Internship Program. HRT brings together the sharpest minds across quantitative disciplines—math, computer science, physics, engineering, and more— within our world-class computing environment to rapidly scale solutions to the toughest problems in tech and trading. Our software engineers create and maintain technology and infrastructure that is integral to the success of our trading. Ideal candidates are smart programmers who love to code, are eager to learn, and can thrive in an entrepreneurial environment. What to Expect A hands-on introduction to all technical facets of software engineering in the algorith...
+- **IMC Trading** - [2027 - FPGA Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101) - Amsterdam, Netherlands; Mumbai, India - Confirmed official posting (Career page Greenhouse:imc): career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4860306101 | internship timing not stated in title | FPGA ENGINEERING INTERN Are you someone who is passionate about challenging the status quo? Do you enjoy the process of problem solving, a process where you recognize areas of improvement and iterate and innovate to improve? Does your curiosity and desire to learn drive you? If so, then join IMC as a Hardware Engineer Intern! At IMC, Hardware Engineers don’t just write code and design technology. They are responsible for spotting new opportunities, developing new technologies and solving problems. As a result, they deliver results and make a difference. IMC knows that having the best technology is what drives our business. Hardware development here is innovative, pragmatic and fun, even as complexity grows. WHAT YOU...
+- **IMC Trading** - [2027 - FPGA Intern - IIT Madras](https://job-boards.eu.greenhouse.io/imc/jobs/4918252101) - Amsterdam, Netherlands; Mumbai, India - Confirmed official posting (Career page Greenhouse:imc): career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4918252101 | internship timing not stated in title | FPGA ENGINEERING INTERN Are you someone who is passionate about challenging the status quo? Do you enjoy the process of problem solving, a process where you recognize areas of improvement and iterate and innovate to improve? Does your curiosity and desire to learn drive you? If so, then join IMC as a Hardware Engineer Intern! At IMC, Hardware Engineers don’t just write code and design technology. They are responsible for spotting new opportunities, developing new technologies and solving problems. As a result, they deliver results and make a difference. IMC knows that having the best technology is what drives our business. Hardware development here is innovative, pragmatic and fun, even as complexity grows. WHAT YOU...
+- **IMC Trading** - [2027 - Software Engineering Intern - BITS Pilani](https://job-boards.eu.greenhouse.io/imc/jobs/4917549101) - Mumbai, India - Confirmed official posting (Career page Greenhouse:imc): career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4917549101 | internship timing not stated in title | Software Engineering Intern Are you someone who is passionate about challenging the status quo? Do you enjoy the process of problem solving, a process where you recognize areas of improvement and iterate and innovate to improve? Does your curiosity and desire to learn drive you? ROLE OVERVIEW: If so, then join IMC as a Software Engineer Intern! At IMC, Software Engineers don’t just write software and design technology. They are responsible for spotting new opportunities, developing new technologies and solving problems. As a result, they deliver results and make a difference. IMC knows that having the best software is what drives our business. Software development here is innovative, pragmatic and fun, even as compl...
+- **IMC Trading** - [2027 - Software Engineering Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860319101) - Mumbai, India - Confirmed official posting (Career page Greenhouse:imc): career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4860319101 | internship timing not stated in title | Software Engineering Intern Are you someone who is passionate about challenging the status quo? Do you enjoy the process of problem solving, a process where you recognize areas of improvement and iterate and innovate to improve? Does your curiosity and desire to learn drive you? ROLE OVERVIEW: If so, then join IMC as a Software Engineer Intern! At IMC, Software Engineers don’t just write software and design technology. They are responsible for spotting new opportunities, developing new technologies and solving problems. As a result, they deliver results and make a difference. IMC knows that having the best software is what drives our business. Software development here is innovative, pragmatic and fun, even as compl...
+- **IMC Trading** - [2027 - Software Engineering Intern - IIT Delhi](https://job-boards.eu.greenhouse.io/imc/jobs/4917535101) - Mumbai, India - Confirmed official posting (Career page Greenhouse:imc): career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4917535101 | internship timing not stated in title | Software Engineering Intern Are you someone who is passionate about challenging the status quo? Do you enjoy the process of problem solving, a process where you recognize areas of improvement and iterate and innovate to improve? Does your curiosity and desire to learn drive you? ROLE OVERVIEW: If so, then join IMC as a Software Engineer Intern! At IMC, Software Engineers don’t just write software and design technology. They are responsible for spotting new opportunities, developing new technologies and solving problems. As a result, they deliver results and make a difference. IMC knows that having the best software is what drives our business. Software development here is innovative, pragmatic and fun, even as compl...
+- **IMC Trading** - [2027 - Software Engineering Intern - IIT Madras](https://job-boards.eu.greenhouse.io/imc/jobs/4917547101) - Mumbai, India - Confirmed official posting (Career page Greenhouse:imc): career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4917547101 | internship timing not stated in title | Software Engineering Intern Are you someone who is passionate about challenging the status quo? Do you enjoy the process of problem solving, a process where you recognize areas of improvement and iterate and innovate to improve? Does your curiosity and desire to learn drive you? ROLE OVERVIEW: If so, then join IMC as a Software Engineer Intern! At IMC, Software Engineers don’t just write software and design technology. They are responsible for spotting new opportunities, developing new technologies and solving problems. As a result, they deliver results and make a difference. IMC knows that having the best software is what drives our business. Software development here is innovative, pragmatic and fun, even as compl...
+- **IMC Trading** - [Machine Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) - Amsterdam, Netherlands - Confirmed official posting (Career page Greenhouse:imc): career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4912874101 | internship timing: Summer 2027; graduation eligibility mentions: 2028, 2027 | Our Machine Learning Internship is designed for curious, ambitious researchers who want to apply machine learning to complex, real-world problems. Over 10 weeks, you'll work alongside experienced researchers and mentors to develop models, analyze large-scale datasets, and contribute to research that informs IMC's trading strategies across global equities, futures, and options markets. You'll begin with a week of engaging, classroom-based learning in the proprietary trading landscape, then gain hands-on experience designing experiments, evaluating novel approaches, and tackling challenging problems in a collaborative, fast-paced environment where your work can have real-world imp...
+- **M&T Bank** - [2027 Technology Internship Program](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Internship-Program_R88052) - Buffalo, NY - Confirmed official posting (Career page Workday:mtb/Campus): career_page=https://mtb.wd5.myworkdayjobs.com/Campus/ | Posted Yesterday | R88052
+- **Point72** - [2027 Technology Development Intern – IIT Hyderabad](https://boards.greenhouse.io/point72/jobs/8617340002?gh_jid=8617340002) - India, Bengaluru - Confirmed official posting (Career page Greenhouse:point72): career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8617340002 | internship timing not stated in title | 2027 Technology Development Intern – IIT Hyderabad A CAREER WITH POINT72’S TECHNOLOGY TEAM As Point72 reimagines the future of investing, our Technology group is constantly improving our company’s IT infrastructure, positioning us at the forefront of a rapidly evolving technology landscape. We’re a team of experts experimenting, discovering new ways to harness the power of open source solutions, and embracing enterprise agile methodology. We encourage professional development to ensure you bring innovative ideas to our products while satisfying your own intellectual curiosity. ABOUT THE SOFTWARE ENGINEER INTERNSHIP The Software Engineer Internship at Point72 provides individuals interested in pursuing a career in Technology at an investmen...
+- **Point72** - [2027 Technology Development Intern – IIT Kanpur](https://boards.greenhouse.io/point72/jobs/8617343002?gh_jid=8617343002) - India, Bengaluru - Confirmed official posting (Career page Greenhouse:point72): career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8617343002 | internship timing not stated in title | 2027 Technology Development Intern – IIT Kanpur A CAREER WITH POINT72’S TECHNOLOGY TEAM As Point72 reimagines the future of investing, our Technology group is constantly improving our company’s IT infrastructure, positioning us at the forefront of a rapidly evolving technology landscape. We’re a team of experts experimenting, discovering new ways to harness the power of open source solutions, and embracing enterprise agile methodology. We encourage professional development to ensure you bring innovative ideas to our products while satisfying your own intellectual curiosity. ABOUT THE SOFTWARE ENGINEER INTERNSHIP The Software Engineer Internship at Point72 provides individuals interested in pursuing a career in Technology at an investment f...
+- **Point72** - [2027 Technology Development Intern – IIT Madras](https://boards.greenhouse.io/point72/jobs/8617339002?gh_jid=8617339002) - India, Bengaluru - Confirmed official posting (Career page Greenhouse:point72): career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8617339002 | internship timing not stated in title | 2027 Technology Development Intern – IIT Madras A CAREER WITH POINT72’S TECHNOLOGY TEAM As Point72 reimagines the future of investing, our Technology group is constantly improving our company’s IT infrastructure, positioning us at the forefront of a rapidly evolving technology landscape. We’re a team of experts experimenting, discovering new ways to harness the power of open source solutions, and embracing enterprise agile methodology. We encourage professional development to ensure you bring innovative ideas to our products while satisfying your own intellectual curiosity. ABOUT THE SOFTWARE ENGINEER INTERNSHIP The Software Engineer Internship at Point72 provides individuals interested in pursuing a career in Technology at an investment f...
+- **Ramp** - [Software Engineer Internship, Android](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b) - New York, NY (HQ) - Confirmed official posting (Career page Ashby:ramp): career_page=https://jobs.ashbyhq.com/ramp/ | internship timing not stated in title; graduation eligibility mentions: 2026, 2028 | About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We bel...
+- **Tower Research Capital** - [Quantitative Developer Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8044334) - New York, Chicago - Confirmed official posting (Career page Greenhouse:towerresearchcapital): career_page=https://tower-research.com/open-positions/ | company_wrapper=https://tower-research.com/open-positions/job?gh_jid=8044334 | internship timing: Summer 2027 | Tower Research Capital is a leading quantitative trading firm founded in 1998. Tower has built its business on a high-performance platform and independent trading teams. We have a 25+ year track record of innovation and a reputation for discovering unique market opportunities. Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization. Engineers thrive at Tower while developing electronic trading infrastructure at a world class level. Our engineers solve challenging problems in the realms of low-latency programming, FPGA technology, har...
+- **Walleye Capital** - [Quantic – Quantitative Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) - Boston, MA - Confirmed official posting (Career page Greenhouse:walleyecapital-external-students): career_page=https://walleyecapital.com/careers | company_wrapper=https://walleyecapital.com/job?gh_jid=4679168006 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Position : Quantic – Quantitative Developer Intern (Summer 2027) Location : Boston, MA Please apply to only one opportunity between the Quantitative Developer, Quantitative Researcher and PhD Quantitative Researcher positions with Quantic. If the team finds you could be a potential fit for the other, we will contact you. Firm Overview: Walleye Capital is a ~$16 billion+ multi-strategy investment firm headquartered in New York City, with over 350 employees across five main offices. Founded in 2005 as an options market maker, we have organically grown into a global investment firm specializing in Quant, Fundamental Equities, and Volatility strategies. Our Team Overview: Walleye Capital is seeking hi...
+- **Walleye Capital** - [Risk Technology Analyst Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006) - New York, New York - Confirmed official posting (Career page Greenhouse:walleyecapital-external-students): career_page=https://walleyecapital.com/careers | company_wrapper=https://walleyecapital.com/job?gh_jid=4679224006 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Position: Risk Technology Analyst Intern (Summer 2027) Location: New York, NY Firm Overview: Walleye Capital is a ~$16 billion+ multi-strategy investment firm headquartered in New York City, with over 350 employees across five main offices. Founded in 2005 as an options market maker, we have organically grown into a global investment firm specializing in Fundamental Equities, Quant, and Volatility strategies. At Walleye, we continuously innovate by focusing on three core principles: approach, platform, and people. Our approach is to allocate risk capital where we believe there is not only a compelling opportunity, but also a clear ability to define our tangible edge. We seek to leverage the mathem...
+- **Walleye Capital** - [Technology Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006) - New York, New York - Confirmed official posting (Career page Greenhouse:walleyecapital-external-students): career_page=https://walleyecapital.com/careers | company_wrapper=https://walleyecapital.com/job?gh_jid=4681002006 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Position: Technology Intern (Summer 2027) Location: New York, NY Firm Overview: Walleye Capital is a ~$16 billion+ multi-strategy investment firm headquartered in New York City, with over 350 employees across five main offices. Founded in 2005 as an options market maker, we have organically grown into a global investment firm specializing in Fundamental Equities, Quant, and Volatility strategies. At Walleye, we continuously innovate by focusing on three core principles: approach, platform, and people. Our approach is to allocate risk capital where we believe there is not only a compelling opportunity, but also a clear ability to define our tangible edge. We seek to leverage the mathematical benefi...
+- **Walleye Capital** - [Volatility Trading Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006) - New York, New York - Confirmed official posting (Career page Greenhouse:walleyecapital-external-students): career_page=https://walleyecapital.com/careers | company_wrapper=https://walleyecapital.com/job?gh_jid=4679434006 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Position: Volatility Trading Developer Intern (Summer 2027) Location: New York, NY Firm Overview: Walleye Capital is a ~$16 billion+ multi-strategy investment firm headquartered in New York City, with over 350 employees across five main offices. Founded in 2005 as an options market maker, we have organically grown into a global investment firm specializing in Fundamental Equities, Quant, and Volatility strategies. At Walleye, we continuously innovate by focusing on three core principles: approach, platform, and people. Our approach is to allocate risk capital where we believe there is not only a compelling opportunity, but also a clear ability to define our tangible edge. We seek to leverage the m...
+
+## Confirmed: Enumerated Source Reports No Open Postings
+
+A successfully enumerated official ATS/feed returned zero open postings.
+
+- Laurion Capital Management
+
+## Confirmed: Open Postings Exist, None Matched
+
+An enumerated official source returned open postings, but none matched this scan's internship scope.
+
+- 3Red Partners
+- AIG
+- AXQ Capital
+- Affirm
+- AllianceBernstein
+- Allstate
+- AlphaSimplex
+- Apollo Global Management
+- Arch Capital
+- Ares Management
+- Belvedere Trading
+- BlackRock
+- Blackstone
+- Blue Owl Capital
+- Brevan Howard
+- Brex
+- Bridgewater Associates
+- CME Group
+- Capital Fund Management
+- Capital Group
+- Chicago Trading Company
+- Connor Clark & Lunn
+- Cubist
+- DV Trading
+- Deutsche Bank
+- Dimensional Fund Advisors
+- Engineers Gate
+- Equinor
+- ExodusPoint
+- FIS
+- FactSet
+- Fidelity Investments
+- Fifth Third Bank
+- Flow Traders
+- Franklin Templeton
+- GSA Capital
+- Gelber Group
+- General Atlantic
+- Global Payments
+- Graham Capital Management
+- Guardian Life
+- Gunvor
+- Headlands Technologies
+- Invesco
+- Jane Street
+- Jump Trading
+- KeyBank
+- LPL Financial
+- MFS Investment Management
+- Macquarie
+- Man Group
+- Markel
+- Marshall Wace
+- MassMutual
+- Maven Securities
+- Morningstar
+- Nasdaq
+- Nationwide
+- Neuberger Berman
+- Northwestern Mutual
+- Oaktree Capital Management
+- Old Mission Capital
+- Optiver
+- PDT Partners
+- PGIM
+- PIMCO
+- Pacific Life
+- Peak6
+- Plaid
+- Qube Research & Technologies
+- Raymond James
+- Robinhood
+- Russell Investments
+- Schonfeld
+- Shell
+- SoFi
+- Squarepoint Capital
+- Stevens Capital Management
+- Synchrony
+- T. Rowe Price
+- TPG
+- Talos
+- Teza Technologies
+- The Hartford
+- TransMarket Group
+- Travelers
+- Trillium
+- Valkyrie Trading
+- Vanguard
+- Vatic Investments
+- Virtu Financial
+- Visa
+- Voleon Group
+- Warburg Pincus
+- Weiss Asset Management
+- Wellington Management
+- Wells Fargo
+- WorldQuant
+- XTX Markets
+
+## Unverified: Could Not Fully Enumerate
+
+The company was searched, but no official source was successfully enumerated; absence of a retained role is not evidence that none exists.
+
+- A Priori
+- Acadian Asset Management
+- Akuna Capital
+- Allianz Global Investors
+- Ally Financial
+- AlphaGrep
+- Alyeska Investment Group
+- American Express
+- Aspect Capital
+- BMO Capital Markets
+- BNP Paribas
+- BNY
+- BNY Mellon
+- BP
+- Baillie Gifford
+- Balyasny Asset Management
+- Bank of America
+- Berenberg
+- Berkshire Hathaway
+- Block
+- Bloomberg
+- BlueCove
+- Bluefin Capital Management
+- Brookfield Asset Management
+- Capital One
+- Capstone
+- Capula
+- Carlyle
+- Castleton Commodities International
+- Caxton Associates
+- Cboe
+- Centiva Capital
+- Charles Schwab
+- Chime
+- Chubb
+- Citadel
+- Citadel Securities
+- Citi
+- Citizens Financial Group
+- Coinbase
+- D. E. Shaw
+- Discover Financial Services
+- E*TRADE
+- Edward Jones
+- Ergoteles
+- Everest
+- Fiserv
+- G-Research
+- Garda Capital Partners
+- Geneva Trading
+- Geode Capital Management
+- Goldman Sachs
+- Graviton Research Capital
+- Group One Trading
+- HSBC
+- Huntington Bank
+- Interactive Brokers
+- Intercontinental Exchange
+- J.P. Morgan
+- J.P. Morgan Asset Management
+- Janus Henderson
+- KKR
+- Kepos Capital
+- Lazard Asset Management
+- Liberty Mutual
+- Lincoln Financial
+- MSCI
+- Mastercard
+- MetLife
+- Millennium
+- Moody's
+- Morgan Stanley
+- Musket
+- New York Life
+- Northern Trust Asset Management
+- Nuveen
+- PanAgora
+- PayPal
+- Principal Financial Group
+- Progressive
+- Prudential Financial
+- Putnam Investments
+- Radix Trading
+- Regions Bank
+- Renaissance Technologies
+- Research Affiliates
+- Robeco
+- S&P Global
+- Schroders
+- State Farm
+- State Street
+- State Street Global Advisors
+- Stripe
+- Susquehanna International Group
+- Systematica Investments
+- Thoma Bravo
+- Trexquant
+- Truist
+- Two Sigma
+- U.S. Bank
+- UBS
+- Upstart
+- Verition Fund Management
+- Vista Equity Partners
+- Voloridge
+- William Blair
+- Wintermute
+- Winton Capital
+- Wolverine Trading
