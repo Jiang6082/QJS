@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 
 const rosterPath = "quant_firm_roster.json";
 const seedsPath = "roster_career_page_seeds.json";
+const reviewedPath = "reviewed_career_pages.json";
 const dbPath = "company_career_pages.json";
 const auditJsonPath = "quant_roster_career_page_audit.json";
 const auditMarkdownPath = "quant_roster_career_page_audit.md";
@@ -75,8 +76,11 @@ function canonicalCompany(roster, company) {
   return roster.aliases?.[company] || company;
 }
 
+// Exact-match URLs confirmed dead/superseded during the reviewed audit; purged on import.
+const stalePages = new Set();
+
 function cleanPages(pages = []) {
-  return [...new Set(pages.filter((url) => /^https?:\/\//i.test(url) && !rejectedUrl.test(url)))];
+  return [...new Set(pages.filter((url) => /^https?:\/\//i.test(url) && !rejectedUrl.test(url) && !stalePages.has(url)))];
 }
 
 function markdownEscape(value) {
@@ -87,6 +91,13 @@ const roster = JSON.parse(await fs.readFile(rosterPath, "utf8"));
 const seeds = JSON.parse(await fs.readFile(seedsPath, "utf8"));
 const db = JSON.parse(await fs.readFile(dbPath, "utf8"));
 db.companies ||= {};
+
+// Reviewed official career/ATS pages verified live during the coverage-gap + stale-URL audit.
+let reviewed = { stalePages: [], companies: {} };
+try {
+  reviewed = JSON.parse(await fs.readFile(reviewedPath, "utf8"));
+} catch {}
+for (const url of reviewed.stalePages || []) stalePages.add(url);
 
 const importedAt = new Date().toISOString();
 let removedBadUrls = 0;
@@ -126,6 +137,20 @@ for (const [company, candidatePages] of Object.entries(supplementalPages)) {
     careerPages: merged,
     rosterDiscoveryStatus: "verified-page-saved",
     rosterResearchedAt: importedAt,
+    updatedAt: importedAt,
+  };
+}
+
+for (const [company, candidatePages] of Object.entries(reviewed.companies || {})) {
+  const record = db.companies[company] || {};
+  const existing = cleanPages(record.careerPages || []);
+  const merged = [...new Set([...existing, ...cleanPages(candidatePages)])];
+  importedUrls += merged.length - existing.length;
+  db.companies[company] = {
+    ...record,
+    careerPages: merged,
+    rosterDiscoveryStatus: merged.length ? "verified-page-saved" : "no-verified-public-page",
+    rosterResearchedAt: reviewed.generatedAt || importedAt,
     updatedAt: importedAt,
   };
 }

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-22T04:59:11.984Z",
-  "scanStartedAt": "2026-07-22T04:56:19.892Z",
+  "generatedAt": "2026-07-22T16:20:12.136Z",
+  "scanStartedAt": "2026-07-22T16:05:51.068Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
-    "matching-role-found": 33,
-    "confirmed-no-open-postings": 2,
-    "confirmed-openings-no-matching-role": 49,
-    "could-not-fully-verify": 218
+    "matching-role-found": 34,
+    "confirmed-no-open-postings": 3,
+    "confirmed-openings-no-matching-role": 52,
+    "could-not-fully-verify": 213
   },
   "companies": [
     {
@@ -16,9 +16,11 @@
         "26 Miles Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://26milescapital.com/openings/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -65,14 +67,15 @@
       "sourceRosterNames": [
         "AlphaGrep"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
-        "https://www.alpha-grep.com/careers/"
+        "https://www.alpha-grep.com/career/",
+        "https://job-boards.greenhouse.io/alphagrepsecurities"
       ],
-      "livePages": 0,
-      "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 22,
+      "relevantInternships": 3
     },
     {
       "company": "Apolis SAM",
@@ -261,9 +264,11 @@
         "323 Trading"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://323trading.nl/careers.html"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -303,9 +308,11 @@
         "Algorithmic Trading Group"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.algorithmictradinggroup.com/opportunities"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -368,7 +375,7 @@
       ],
       "status": "could-not-fully-verify",
       "careerPages": [
-        "https://www.bp.com/en/global/corporate/careers/students-and-graduates/career-areas-for-students/supply-trading-and-shipping.html"
+        "https://www.bp.com/en/global/bp-supply-trading-and-shipping/careers.html"
       ],
       "livePages": 0,
       "attemptedPages": 1,
@@ -413,10 +420,11 @@
         "https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967",
         "https://brevanhoward.wd3.myworkdayjobs.com/wday/cxs/brevanhoward/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2025-Trading-Graduate-Program---Abu-Dhabi_JR100942",
         "https://www.brevanhoward.com/careers/",
-        "https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/jobs"
+        "https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/jobs",
+        "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers"
       ],
-      "livePages": 3,
-      "attemptedPages": 4,
+      "livePages": 4,
+      "attemptedPages": 5,
       "jobsSeen": 13,
       "relevantInternships": 0
     },
@@ -426,9 +434,11 @@
         "Campbell and Company"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.campbell.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -510,7 +520,7 @@
         "https://www.3redpartners.com/careers/",
         "https://job-boards.greenhouse.io/3redpartners"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 8,
       "relevantInternships": 0
@@ -549,9 +559,11 @@
         "All Options"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.alloptions-international.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -587,9 +599,11 @@
         "Aros Commodities"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://cornerstonecapital.teamtailor.com/pages/careers-aros-commodities"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -668,9 +682,9 @@
       ],
       "status": "confirmed-openings-no-matching-role",
       "careerPages": [
-        "https://www.cfm.com/careers/"
+        "https://www.cfm.com/join-us/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -681,9 +695,11 @@
         "Charlesworth Research"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.charlesworthresearch.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -695,10 +711,12 @@
       "status": "matching-role-found",
       "careerPages": [
         "https://www.citadelsecurities.com/careers/",
-        "https://www.citadel.com/careers/"
+        "https://www.citadel.com/careers/",
+        "https://www.citadelsecurities.com/careers/open-opportunities/",
+        "https://www.citadelsecurities.com/careers/students/"
       ],
       "livePages": 0,
-      "attemptedPages": 2,
+      "attemptedPages": 4,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -708,9 +726,11 @@
         "Contek (Contrarian Technologies)"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://contek.io/#career"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -739,7 +759,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 176,
+      "jobsSeen": 177,
       "relevantInternships": 16
     },
     {
@@ -789,9 +809,11 @@
         "Allston Trading"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
+      "careerPages": [
+        "https://www.allstontrading.com/careers/"
+      ],
       "livePages": 0,
-      "attemptedPages": 0,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -855,9 +877,11 @@
         "Barak Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://barakmarketmaking.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -969,7 +993,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 232,
+      "jobsSeen": 231,
       "relevantInternships": 8
     },
     {
@@ -991,12 +1015,12 @@
       ],
       "status": "matching-role-found",
       "careerPages": [
-        "https://www.dvtrading.co/careers/"
+        "https://dvtrading.co/join-dv/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "jobsSeen": 56,
+      "relevantInternships": 1
     },
     {
       "company": "Danske Commodities",
@@ -1061,12 +1085,12 @@
       ],
       "status": "matching-role-found",
       "careerPages": [
-        "https://www.eglp.com/careers/"
+        "https://job-boards.greenhouse.io/engineersgate"
       ],
       "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "jobsSeen": 7,
+      "relevantInternships": 1
     },
     {
       "company": "Estee Advisors",
@@ -1093,7 +1117,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 2,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -1149,9 +1173,11 @@
         "Genk Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://join.genkcapital.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -1207,7 +1233,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 77,
+      "jobsSeen": 76,
       "relevantInternships": 2
     },
     {
@@ -1352,9 +1378,11 @@
         "Enigma Quant Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.enigmaquant.com/#careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -1395,8 +1423,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 38,
-      "relevantInternships": 1
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "G-Research",
@@ -1432,9 +1460,11 @@
         "Giant Steps Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
+      "careerPages": [
+        "https://www.gscap.com.br/carreiras"
+      ],
       "livePages": 0,
-      "attemptedPages": 0,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -1484,9 +1514,11 @@
         "Humbility"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://apply.workable.com/humbility/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -1510,9 +1542,11 @@
         "Invemo Capital AG"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://invemo.ch/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -1546,9 +1580,11 @@
         "League Trading"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.theleaguecorp.com/opportunities.php"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -1666,11 +1702,9 @@
         "Forest Creek Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [
-        "https://forestcreekcap.com/job/"
-      ],
+      "careerPages": [],
       "livePages": 0,
-      "attemptedPages": 1,
+      "attemptedPages": 0,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -1679,11 +1713,13 @@
       "sourceRosterNames": [
         "GMO"
       ],
-      "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
-      "jobsSeen": 0,
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.gmo.com/americas/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -1693,11 +1729,12 @@
       ],
       "status": "confirmed-openings-no-matching-role",
       "careerPages": [
-        "https://www.gelbergroup.com/careers/"
+        "https://www.gelbergroup.com/careers/",
+        "https://job-boards.greenhouse.io/gelbergroup"
       ],
-      "livePages": 0,
-      "attemptedPages": 1,
-      "jobsSeen": 0,
+      "livePages": 1,
+      "attemptedPages": 2,
+      "jobsSeen": 18,
       "relevantInternships": 0
     },
     {
@@ -1718,9 +1755,11 @@
         "Grasshopper"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://grasshopperasia.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -1786,9 +1825,11 @@
         "J.E. Moody & Company LLC"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "http://jemoody.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -1826,9 +1867,11 @@
         "Lehi Capital Corp"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://lehicap.com/colab"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -1865,9 +1908,9 @@
       ],
       "status": "could-not-fully-verify",
       "careerPages": [
-        "https://dolatcapitalresearch.com/careers/"
+        "https://dolatcapital.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2030,9 +2073,11 @@
         "High-Flyer"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.high-flyer.cn/en/join"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2049,8 +2094,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 151,
-      "relevantInternships": 12
+      "jobsSeen": 154,
+      "relevantInternships": 10
     },
     {
       "company": "Independent Trading Group (ITG)",
@@ -2070,11 +2115,9 @@
         "JY Quantitative Management"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [
-        "https://www.jyquant.com/careersShow.php"
-      ],
+      "careerPages": [],
       "livePages": 0,
-      "attemptedPages": 1,
+      "attemptedPages": 0,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2084,11 +2127,9 @@
         "Kadima Asset Management"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [
-        "https://www.thetrustedinsight.com/investment-firm-profile/24692-kadima-asset-management/"
-      ],
+      "careerPages": [],
       "livePages": 0,
-      "attemptedPages": 1,
+      "attemptedPages": 0,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2112,9 +2153,11 @@
         "Lingjun Investment"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.lingjuninvest.com/JoinUs?lang=en-us"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2148,9 +2191,11 @@
         "Marquette Partners"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "http://www.marquettepartnersholdingsllc.com/#careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2164,10 +2209,11 @@
         "https://www.mavensecurities.com/careers/",
         "https://www.mavensecurities.com/jobs/",
         "https://maventrading.com/careers",
-        "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381"
+        "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381",
+        "https://job-boards.greenhouse.io/mavensecuritiesholdingltd"
       ],
-      "livePages": 3,
-      "attemptedPages": 4,
+      "livePages": 4,
+      "attemptedPages": 5,
       "jobsSeen": 36,
       "relevantInternships": 0
     },
@@ -2180,7 +2226,7 @@
       "careerPages": [
         "https://mercuria.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2206,10 +2252,11 @@
       ],
       "status": "could-not-fully-verify",
       "careerPages": [
-        "https://www.mingshiim.com/join"
+        "https://www.mingshiim.com/join",
+        "https://en.mingshiim.com/join"
       ],
-      "livePages": 0,
-      "attemptedPages": 1,
+      "livePages": 2,
+      "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2273,9 +2320,11 @@
         "One Eleven Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.111cap.com/#career"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2288,10 +2337,12 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/pdtpartners?error=true",
         "https://job-boards.greenhouse.io/pdtpartners/jobs/3914106",
-        "https://www.pdtpartners.com/careers/"
+        "https://www.pdtpartners.com/careers/",
+        "https://pdtpartners.com/careers",
+        "https://job-boards.greenhouse.io/pdtpartners"
       ],
-      "livePages": 2,
-      "attemptedPages": 3,
+      "livePages": 4,
+      "attemptedPages": 5,
       "jobsSeen": 12,
       "relevantInternships": 0
     },
@@ -2327,9 +2378,11 @@
         "Quantbox Research"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://job-boards.eu.greenhouse.io/quantboxresearchpte"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2354,12 +2407,13 @@
       "careerPages": [
         "https://www.radix-trading.com/careers/",
         "https://www.radixeng.com/careers",
-        "https://job-boards.greenhouse.io/radixuniversity"
+        "https://job-boards.greenhouse.io/radixuniversity",
+        "https://job-boards.greenhouse.io/radixexperienced"
       ],
-      "livePages": 2,
-      "attemptedPages": 3,
-      "jobsSeen": 8,
-      "relevantInternships": 1
+      "livePages": 3,
+      "attemptedPages": 4,
+      "jobsSeen": 23,
+      "relevantInternships": 2
     },
     {
       "company": "SCALP Trade",
@@ -2399,7 +2453,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 55,
+      "jobsSeen": 56,
       "relevantInternships": 1
     },
     {
@@ -2491,9 +2545,11 @@
         "Minghong / Jupiter"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://join.mhfunds.com/index"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2541,9 +2597,11 @@
         "ORA Traders"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.oratraders.com/vacancies/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2565,9 +2623,11 @@
         "Open Futures Group"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://openfutures.in/index.php/career/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2634,7 +2694,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 214,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -2643,9 +2703,11 @@
         "Rayleigh Research Oy"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://rayleigh.re/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2686,9 +2748,11 @@
         "Scientech Research Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.scientechresearch.io/jobopenings"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2741,9 +2805,11 @@
         "Mathrix"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://mathrix.recruitee.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2756,7 +2822,7 @@
       "careerPages": [
         "https://mercuria.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2840,9 +2906,11 @@
         "OSF Management"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.osfmanagement.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2932,9 +3000,11 @@
         "RAON Trading"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.raontrading.net/#careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2984,9 +3054,11 @@
         "Seven Eight Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.seveneightcapital.com/join-us"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3008,9 +3080,11 @@
         "Los Angeles Capital Management"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://lacapm.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3020,9 +3094,11 @@
         "Market Wizards"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://marketwizards.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3032,9 +3108,11 @@
         "Matrix Executions"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://matrixexecutions.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3047,7 +3125,7 @@
       "careerPages": [
         "https://mercuria.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3073,9 +3151,12 @@
         "Mingshi / Minghong"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://join.mhfunds.com/index",
+        "https://www.mhfunds.com/"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3109,9 +3190,11 @@
         "Numerai"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://numer.ai/jobs"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3121,9 +3204,11 @@
         "OSTC Ltd."
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
+      "careerPages": [
+        "https://ostc.com/careers/"
+      ],
       "livePages": 0,
-      "attemptedPages": 0,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3137,7 +3222,7 @@
         "https://www.oldmissioncapital.com/careers/",
         "https://job-boards.greenhouse.io/oldmissioncapital"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 32,
       "relevantInternships": 1
@@ -3229,9 +3314,11 @@
         "RSJ Securities"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.rsj.com/en/career.html"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3304,9 +3391,9 @@
       ],
       "status": "confirmed-openings-no-matching-role",
       "careerPages": [
-        "https://www.squarepoint-capital.com/careers/"
+        "https://www.squarepoint-capital.com/open-opportunities"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3331,9 +3418,11 @@
         "TSY Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://tsycapital.com/career.html"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3402,9 +3491,11 @@
         "Uranus Research"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://en.uranus-research.com/talents"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3469,13 +3560,14 @@
       "sourceRosterNames": [
         "Winton Group"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
-        "https://www.winton.com/careers/"
+        "https://www.winton.com/opportunities",
+        "https://job-boards.eu.greenhouse.io/winton"
       ],
-      "livePages": 0,
-      "attemptedPages": 1,
-      "jobsSeen": 0,
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 9,
       "relevantInternships": 0
     },
     {
@@ -3499,10 +3591,11 @@
       ],
       "status": "could-not-fully-verify",
       "careerPages": [
-        "https://www.zrtx.eu/EN/Jobs/Vacancy/job-opportunity-for-trader-Larnaca-Cyprus"
+        "https://zrtx.eu/jobs",
+        "https://zrtx.eu/career"
       ],
-      "livePages": 0,
-      "attemptedPages": 1,
+      "livePages": 2,
+      "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3707,11 +3800,9 @@
         "Z22 Technologies AG"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [
-        "https://www.z22.ch/career"
-      ],
+      "careerPages": [],
       "livePages": 0,
-      "attemptedPages": 1,
+      "attemptedPages": 0,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3732,10 +3823,12 @@
       "sourceRosterNames": [
         "TGS"
       ],
-      "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "status": "confirmed-no-open-postings",
+      "careerPages": [
+        "https://www.tgsmc.com/join-our-team/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3766,7 +3859,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 79,
+      "jobsSeen": 78,
       "relevantInternships": 3
     },
     {
@@ -3817,14 +3910,15 @@
       "sourceRosterNames": [
         "Verition Fund Management"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.verition.com/careers/",
-        "https://www.verition.com/careers"
+        "https://www.verition.com/careers",
+        "https://www.verition.com/open-positions"
       ],
-      "livePages": 1,
-      "attemptedPages": 2,
-      "jobsSeen": 0,
+      "livePages": 2,
+      "attemptedPages": 3,
+      "jobsSeen": 19,
       "relevantInternships": 0
     },
     {
@@ -3892,10 +3986,11 @@
       ],
       "status": "could-not-fully-verify",
       "careerPages": [
-        "https://job-boards.greenhouse.io/xycapital?error=true"
+        "https://job-boards.greenhouse.io/xycapital?error=true",
+        "https://www.xycapitalgroup.com/careers/"
       ],
-      "livePages": 0,
-      "attemptedPages": 1,
+      "livePages": 1,
+      "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3905,9 +4000,11 @@
         "iRage / iRage Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://irage.in/recruitment.php"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3931,9 +4028,11 @@
         "TRV Trading Ltd"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.trvtradinggroup.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3946,10 +4045,11 @@
       "careerPages": [
         "https://jobs.ashbyhq.com/voleon",
         "https://jobs.lever.co/voleon/",
-        "https://www.voleon.com/careers/"
+        "https://www.voleon.com/careers/",
+        "https://www.voleon.com/jobs/"
       ],
-      "livePages": 2,
-      "attemptedPages": 3,
+      "livePages": 3,
+      "attemptedPages": 4,
       "jobsSeen": 56,
       "relevantInternships": 0
     },
@@ -3994,7 +4094,7 @@
         "https://www.ubs.com/global/en/careers/early-careers.html",
         "https://www.ubs.com/global/en/careers/early-careers/faq.html"
       ],
-      "livePages": 5,
+      "livePages": 4,
       "attemptedPages": 5,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4005,9 +4105,11 @@
         "Universa Investments"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://jobs.universalparks.com/universal-orlando-resort/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -4089,7 +4191,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 100,
+      "jobsSeen": 101,
       "relevantInternships": 5
     },
     {

@@ -1,33 +1,34 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-07-22T04:56:19.892Z
+Last updated: 2026-07-22T16:05:51.068Z
 
 ## Summary
 
 - Companies searched: 366
-- Career pages checked: 427
-- Current retained roles: 250
+- Career pages checked: 486
+- Current retained roles: 251
 - New stable job URLs since previous scan: 3
 - No longer present since previous scan: 0
-- Matching-role firms: 33
-- Confirmed no open postings: 2
-- Openings but no matching role: 49
-- Could not fully verify: 218
+- Matching-role firms: 34
+- Confirmed no open postings: 3
+- Openings but no matching role: 52
+- Could not fully verify: 213
 
 ## New Roles Since Previous Scan
 
-### North America (2)
-
-- **Chicago Trading Company** - [Quant Trading Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) - Chicago, Illinois, United States
-- **Chicago Trading Company** - [Software Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) - Chicago, Illinois, United States
-
-### Europe (1)
-
-- **Chicago Trading Company** - [Quant Trading Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005) - London, England, United Kingdom
-
-### Asia (0)
+### North America (0)
 
 _None._
+
+### Europe (0)
+
+_None._
+
+### Asia (3)
+
+- **AlphaGrep** - [Quantitative Developer Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002) - Mumbai
+- **AlphaGrep** - [Quantitative Trading Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622004002) - India
+- **AlphaGrep** - [Software Development Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622142002) - India
 
 ### Oceania (0)
 
