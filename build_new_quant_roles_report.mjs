@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 import { groupedRoleMarkdown, regionForLocation } from "./tools/regions.mjs";
 
 const previousPath = ".scan-state/previous_quant_v2_raw.json";
-const currentPath = "quant_internship_roles_scan_v2_raw.json";
+const currentPath = "data/quant_internship_roles_scan_v2_raw.json";
 
 function stableUrl(value = "") {
   try {
@@ -82,7 +82,7 @@ const report = {
   added: enrichedAdded,
   removed,
 };
-await fs.writeFile("new_quant_roles_since_last_run.json", `${JSON.stringify(report, null, 2)}\n`, "utf8");
+await fs.writeFile("data/new_quant_roles_since_last_run.json", `${JSON.stringify(report, null, 2)}\n`, "utf8");
 
 const markdown = [
   "# New Quant Roles Since Last Run",
@@ -102,7 +102,7 @@ const markdown = [
   removed.length ? removed.map((row) => `- **${row.Company}** - [${row.Title}](${row.URL})`).join("\n") : "_None._",
   "",
 ].join("\n");
-await fs.writeFile("new_quant_roles_since_last_run.md", markdown, "utf8");
+await fs.writeFile("reports/new_quant_roles_since_last_run.md", markdown, "utf8");
 
 const trackerMarkdown = [
   "# Current Quant Roles Not In Historical Tracker",
@@ -115,8 +115,8 @@ const trackerMarkdown = [
   "",
   ...groupedRoleMarkdown(notInTracker),
 ].join("\n");
-await fs.writeFile("current_quant_roles_not_in_tracker.md", trackerMarkdown, "utf8");
-await fs.writeFile("current_quant_roles_not_in_tracker.json", `${JSON.stringify({
+await fs.writeFile("reports/current_quant_roles_not_in_tracker.md", trackerMarkdown, "utf8");
+await fs.writeFile("data/current_quant_roles_not_in_tracker.json", `${JSON.stringify({
   generatedAt: report.generatedAt,
   currentScanAt: current.searchedAt,
   historicalTrackerUrls: trackerUrls.size,

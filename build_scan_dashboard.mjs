@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 
-const quantReportPath = "new_quant_roles_since_last_run.json";
-const quantRawPath = "quant_internship_roles_scan_v2_raw.json";
+const quantReportPath = "data/new_quant_roles_since_last_run.json";
+const quantRawPath = "data/quant_internship_roles_scan_v2_raw.json";
 
 function rowLink(row) {
   return `- **${row.Company}** - [${row.Title}](${row.URL}) - ${row.Location || "Location not listed"}`;
@@ -52,7 +52,7 @@ const report = await readJson(quantReportPath, {
   removed: [],
 });
 const raw = await readJson(quantRawPath, { rows: [], companies: [], careerPageScanTasks: [] });
-const audit = await readJson("quant_roster_scan_audit.json", { summary: {} });
+const audit = await readJson("data/quant_roster_scan_audit.json", { summary: {} });
 const auditCounts = audit.summary || audit.counts || {};
 
 const lines = [
@@ -81,11 +81,11 @@ const lines = [
   "",
   "## Full Reports",
   "",
-  "- [Current full quant role list](quant_internship_roles_scan_v2.md)",
-  "- [New quant roles since previous scan](new_quant_roles_since_last_run.md)",
-  "- [Current roles absent from older tracker](current_quant_roles_not_in_tracker.md)",
-  "- [Roster verification audit](quant_roster_scan_audit.md)",
-  "- [Current full quant role CSV](quant_internship_roles_scan_v2.csv)",
+  "- [Current full quant role list](reports/quant_internship_roles_scan_v2.md)",
+  "- [New quant roles since previous scan](reports/new_quant_roles_since_last_run.md)",
+  "- [Current roles absent from older tracker](reports/current_quant_roles_not_in_tracker.md)",
+  "- [Roster verification audit](reports/quant_roster_scan_audit.md)",
+  "- [Current full quant role CSV](reports/quant_internship_roles_scan_v2.csv)",
   "",
 ];
 

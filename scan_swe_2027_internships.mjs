@@ -1173,7 +1173,7 @@ for (const row of [...careerPageRows, ...baseRows, ...discoveredRows, ...manualL
 
 async function readKnownBoardCoverage() {
   try {
-    const audit = JSON.parse(await fs.readFile("quant_internship_scan_audit.json", "utf8"));
+    const audit = JSON.parse(await fs.readFile("data/quant_internship_scan_audit.json", "utf8"));
     return new Map((audit.companyAudits || [])
       .filter((entry) => (entry.resolvedBoards || []).length > 0)
       .map((entry) => [entry.company, entry.jobsSeen || 0]));
@@ -1238,10 +1238,10 @@ const md = [
   "",
 ].join("\n");
 
-await fs.writeFile("swe_2027_internship_scan.csv", csv, "utf8");
-await fs.writeFile("swe_2027_internship_scan.md", md, "utf8");
-await fs.writeFile("swe_2027_internship_scan_raw.json", JSON.stringify({ searchedAt, companies, careerPageDb, careerPageScanTasks: careerPageScan.tasks, careerPageScanAudits: careerPageScan.audits, careerPageRows, rows, companiesWithoutRows, confirmedNoOpenPostings, confirmedNoMatchingRoles, couldNotFullyVerify }, null, 2), "utf8");
-await fs.writeFile("swe_2027_internship_scan_audit.json", JSON.stringify({
+await fs.writeFile("reports/swe_2027_internship_scan.csv", csv, "utf8");
+await fs.writeFile("reports/swe_2027_internship_scan.md", md, "utf8");
+await fs.writeFile("data/swe_2027_internship_scan_raw.json", JSON.stringify({ searchedAt, companies, careerPageDb, careerPageScanTasks: careerPageScan.tasks, careerPageScanAudits: careerPageScan.audits, careerPageRows, rows, companiesWithoutRows, confirmedNoOpenPostings, confirmedNoMatchingRoles, couldNotFullyVerify }, null, 2), "utf8");
+await fs.writeFile("data/swe_2027_internship_scan_audit.json", JSON.stringify({
   searchedAt,
   companies,
   companiesWithoutKnownCareerPage: companies.filter((company) => !(careerPageDb.companies[company]?.careerPages || []).length),

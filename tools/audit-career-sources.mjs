@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 
 const root = new URL("../", import.meta.url);
 const db = JSON.parse(await fs.readFile(new URL("company_career_pages.json", root), "utf8"));
-const priorAudit = JSON.parse(await fs.readFile(new URL("us_financial_services_internship_scan_audit.json", root), "utf8"));
+const priorAudit = JSON.parse(await fs.readFile(new URL("data/us_financial_services_internship_scan_audit.json", root), "utf8"));
 
 const knownByCompany = new Map();
 for (const row of priorAudit.careerPageScanAudits || []) {
@@ -189,7 +189,7 @@ const companies = Object.keys(db.companies || {}).sort().map((company) => {
 });
 
 const generatedAt = new Date().toISOString();
-await fs.writeFile(new URL("career-source-audit.json", root), JSON.stringify({ generatedAt, companies, pages }, null, 2));
+await fs.writeFile(new URL("data/career-source-audit.json", root), JSON.stringify({ generatedAt, companies, pages }, null, 2));
 
 const unresolved = companies.filter((company) => company.priorJobsSeen === 0);
 const lines = [
@@ -207,7 +207,7 @@ for (const company of unresolved) {
   const detected = Object.entries(company.detected).filter(([, values]) => values.length).map(([kind, values]) => `${kind}=${values.join(",")}`).join("; ");
   lines.push(`- **${company.company}** - pages ${company.pagesOk}/${company.pages}; ${detected || "no supported or recognized ATS detected"}`);
 }
-await fs.writeFile(new URL("career-source-audit.md", root), `${lines.join("\n")}\n`);
+await fs.writeFile(new URL("reports/career-source-audit.md", root), `${lines.join("\n")}\n`);
 
 console.log(JSON.stringify({
   companies: companies.length,

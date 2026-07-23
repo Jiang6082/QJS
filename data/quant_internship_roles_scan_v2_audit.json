@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-07-23T14:45:51.978Z",
+  "searchedAt": "2026-07-23T15:22:48.772Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -1137,8 +1137,8 @@
       "company": "Aquatic Capital",
       "pageUrl": "https://job-boards.greenhouse.io/aquaticcapitalmanagement",
       "resolvedUrl": "https://job-boards.greenhouse.io/aquaticcapitalmanagement",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [
           "aquaticcapitalmanagement"
@@ -2876,14 +2876,8 @@
         "workday": []
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Greenhouse:pdtpartners",
-          "jobsSeen": 12,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 12,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3608,11 +3602,11 @@
       "boards": [
         {
           "source": "Greenhouse:virtu",
-          "jobsSeen": 42,
+          "jobsSeen": 43,
           "relevantInternships": 5
         }
       ],
-      "jobsSeen": 42,
+      "jobsSeen": 43,
       "relevantInternships": 5
     },
     {
@@ -3633,11 +3627,11 @@
       "boards": [
         {
           "source": "Greenhouse:virtu",
-          "jobsSeen": 42,
+          "jobsSeen": 43,
           "relevantInternships": 5
         }
       ],
-      "jobsSeen": 42,
+      "jobsSeen": 43,
       "relevantInternships": 5
     },
     {
@@ -3778,8 +3772,8 @@
       "company": "Walleye Capital",
       "pageUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students",
       "resolvedUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [
           "walleyecapital-external-students"
@@ -5156,11 +5150,11 @@
       "boards": [
         {
           "source": "Workday:blackrock/BlackRock_Professional",
-          "jobsSeen": 286,
+          "jobsSeen": 284,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 286,
+      "jobsSeen": 284,
       "relevantInternships": 0
     },
     {
@@ -5330,11 +5324,11 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1072,
+          "jobsSeen": 1076,
           "relevantInternships": 7
         }
       ],
-      "jobsSeen": 1072,
+      "jobsSeen": 1076,
       "relevantInternships": 7
     },
     {
@@ -5359,11 +5353,11 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1072,
+          "jobsSeen": 1076,
           "relevantInternships": 7
         }
       ],
-      "jobsSeen": 1072,
+      "jobsSeen": 1076,
       "relevantInternships": 7
     },
     {
@@ -5388,11 +5382,11 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1072,
+          "jobsSeen": 1076,
           "relevantInternships": 7
         }
       ],
-      "jobsSeen": 1072,
+      "jobsSeen": 1076,
       "relevantInternships": 7
     },
     {
@@ -5879,8 +5873,8 @@
       "company": "Fidelity Investments",
       "pageUrl": "https://jobs.fidelity.com/en/jobs/",
       "resolvedUrl": "https://jobs.fidelity.com/en/jobs/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],

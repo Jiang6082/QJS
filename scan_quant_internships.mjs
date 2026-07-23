@@ -538,10 +538,10 @@ const md = [
   ``,
 ].join("\n");
 
-await fs.writeFile("quant_internship_roles_scan.csv", csv, "utf8");
-await fs.writeFile("quant_internship_roles_scan.md", md, "utf8");
-await fs.writeFile("quant_internship_scan_raw.json", JSON.stringify({ scannedAt, results }, null, 2), "utf8");
-await fs.writeFile("quant_internship_scan_audit.json", JSON.stringify({
+await fs.writeFile("reports/quant_internship_roles_scan.csv", csv, "utf8");
+await fs.writeFile("reports/quant_internship_roles_scan.md", md, "utf8");
+await fs.writeFile("data/quant_internship_scan_raw.json", JSON.stringify({ scannedAt, results }, null, 2), "utf8");
+await fs.writeFile("data/quant_internship_scan_audit.json", JSON.stringify({
   scannedAt,
   companies,
   companyAudits: results.map((result) => ({

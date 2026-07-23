@@ -36,11 +36,13 @@ $NodePath = Resolve-Node -RequestedNodePath $NodePath
 
 $stateDir = Join-Path $SourceDir ".scan-state"
 New-Item -ItemType Directory -Force -Path $stateDir | Out-Null
+New-Item -ItemType Directory -Force -Path (Join-Path $SourceDir "reports") | Out-Null
+New-Item -ItemType Directory -Force -Path (Join-Path $SourceDir "data") | Out-Null
 
 $previousRunFile = Join-Path $stateDir "previous_scan_time.txt"
 $currentRunStartedAt = (Get-Date).ToUniversalTime().ToString("o")
-if (Test-Path -LiteralPath (Join-Path $SourceDir "us_financial_services_internship_scan_raw.json")) {
-  $raw = Get-Content -LiteralPath (Join-Path $SourceDir "us_financial_services_internship_scan_raw.json") -Raw | ConvertFrom-Json
+if (Test-Path -LiteralPath (Join-Path $SourceDir "data/us_financial_services_internship_scan_raw.json")) {
+  $raw = Get-Content -LiteralPath (Join-Path $SourceDir "data/us_financial_services_internship_scan_raw.json") -Raw | ConvertFrom-Json
   if ($raw.searchedAt) {
     Set-Content -LiteralPath $previousRunFile -Value $raw.searchedAt -NoNewline
   }

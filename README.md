@@ -372,17 +372,23 @@ npm run scan:v2:publish
 
 The publish step rebuilds `LATEST_QUANT_SCAN.md`, commits changed scanner files and reports, and pushes to `origin`. To publish already-generated local changes without scanning, run `npm run publish`.
 
-## Key Files
+## Repo Layout
+
+- **Root** — scanner scripts (`*.mjs`, `run-quant-scan.ps1`), seed inputs (`company_career_pages.json`, `quant_firm_roster.json`, ...), and the [LATEST_QUANT_SCAN.md](LATEST_QUANT_SCAN.md) dashboard.
+- **[reports/](reports/)** — human-readable generated reports (Markdown + CSV).
+- **[data/](data/)** — machine-readable raw/audit JSON artifacts.
+
+### Key Files
 
 | File | What it is |
 |------|-----------|
 | [LATEST_QUANT_SCAN.md](LATEST_QUANT_SCAN.md) | Latest scan summary + newest roles |
-| [new_quant_roles_since_last_run.md](new_quant_roles_since_last_run.md) | New stable job URLs, grouped by region |
-| [quant_internship_roles_scan_v2.md](quant_internship_roles_scan_v2.md) | Full current role list (detailed) |
-| [quant_internship_roles_scan_v2.csv](quant_internship_roles_scan_v2.csv) | Full current role list (spreadsheet) |
-| [current_quant_roles_not_in_tracker.md](current_quant_roles_not_in_tracker.md) | Current roles absent from the older application tracker |
-| [quant_roster_scan_audit.md](quant_roster_scan_audit.md) | 303-firm roster split into confirmed vs. unverifiable states |
+| [reports/new_quant_roles_since_last_run.md](reports/new_quant_roles_since_last_run.md) | New stable job URLs, grouped by region |
+| [reports/quant_internship_roles_scan_v2.md](reports/quant_internship_roles_scan_v2.md) | Full current role list (detailed) |
+| [reports/quant_internship_roles_scan_v2.csv](reports/quant_internship_roles_scan_v2.csv) | Full current role list (spreadsheet) |
+| [reports/current_quant_roles_not_in_tracker.md](reports/current_quant_roles_not_in_tracker.md) | Current roles absent from the older application tracker |
+| [reports/quant_roster_scan_audit.md](reports/quant_roster_scan_audit.md) | 303-firm roster split into confirmed vs. unverifiable states |
 | [company_career_pages.json](company_career_pages.json) | Seeded career-page database |
 | [quant_firm_roster.json](quant_firm_roster.json) | Complete 303-entry firm list + canonical aliases |
 
-Generated outputs are intentionally tracked so every clone shares the same baseline. The committed `quant_internship_roles_scan_v2_raw.json` is the cross-device baseline for the next comparison.
+Generated outputs are intentionally tracked so every clone shares the same baseline. The committed `data/quant_internship_roles_scan_v2_raw.json` is the cross-device baseline for the next comparison.

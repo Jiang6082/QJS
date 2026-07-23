@@ -1,13 +1,9 @@
 {
-  "scannedAt": "2026-07-23T14:45:36.386Z",
+  "scannedAt": "2026-07-23T15:22:31.925Z",
   "results": [
     {
       "company": "Jane Street",
       "boards": [
-        {
-          "source": "Greenhouse:janestreet",
-          "count": 220
-        },
         {
           "source": "Ashby:jane",
           "count": 27
@@ -482,7 +478,7 @@
       "boards": [
         {
           "source": "Greenhouse:chicagotrading",
-          "count": 23
+          "count": 24
         },
         {
           "source": "Greenhouse:chicago",
@@ -1853,7 +1849,7 @@
       "boards": [
         {
           "source": "Greenhouse:virtu",
-          "count": 42
+          "count": 43
         }
       ],
       "matches": [

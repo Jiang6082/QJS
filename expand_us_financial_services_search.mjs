@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 import { isKnownWrongCareerPage } from "./tools/career-source-guards.mjs";
 
-const baseCsvPath = "quant_internship_roles_scan.csv";
+const baseCsvPath = "reports/quant_internship_roles_scan.csv";
 const careerPageDbPath = "company_career_pages.json";
 const firmRoster = JSON.parse(await fs.readFile("quant_firm_roster.json", "utf8"));
 const rosterCompanies = firmRoster.companies.map((company) => firmRoster.aliases?.[company] || company);
@@ -1243,7 +1243,7 @@ for (const row of [...careerPageRows, ...janeStreetRows, ...baseRows, ...discove
 
 async function readKnownBoardCoverage() {
   try {
-    const audit = JSON.parse(await fs.readFile("quant_internship_scan_audit.json", "utf8"));
+    const audit = JSON.parse(await fs.readFile("data/quant_internship_scan_audit.json", "utf8"));
     return new Map((audit.companyAudits || [])
       .filter((entry) => (entry.resolvedBoards || []).length > 0)
       .map((entry) => [entry.company, entry.jobsSeen || 0]));
@@ -1308,10 +1308,10 @@ const md = [
   "",
 ].join("\n");
 
-await fs.writeFile("us_financial_services_internship_scan.csv", csv, "utf8");
-await fs.writeFile("us_financial_services_internship_scan.md", md, "utf8");
-await fs.writeFile("us_financial_services_internship_scan_raw.json", JSON.stringify({ searchedAt, companies, careerPageDb, careerPageScanTasks: careerPageScan.tasks, careerPageScanAudits: careerPageScan.audits, careerPageRows, rows, companiesWithoutRows, confirmedNoOpenPostings, confirmedNoMatchingRoles, couldNotFullyVerify }, null, 2), "utf8");
-await fs.writeFile("us_financial_services_internship_scan_audit.json", JSON.stringify({
+await fs.writeFile("reports/us_financial_services_internship_scan.csv", csv, "utf8");
+await fs.writeFile("reports/us_financial_services_internship_scan.md", md, "utf8");
+await fs.writeFile("data/us_financial_services_internship_scan_raw.json", JSON.stringify({ searchedAt, companies, careerPageDb, careerPageScanTasks: careerPageScan.tasks, careerPageScanAudits: careerPageScan.audits, careerPageRows, rows, companiesWithoutRows, confirmedNoOpenPostings, confirmedNoMatchingRoles, couldNotFullyVerify }, null, 2), "utf8");
+await fs.writeFile("data/us_financial_services_internship_scan_audit.json", JSON.stringify({
   searchedAt,
   companies,
   companiesWithoutKnownCareerPage: companies.filter((company) => !(careerPageDb.companies[company]?.careerPages || []).length),

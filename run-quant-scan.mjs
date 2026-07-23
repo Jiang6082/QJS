@@ -19,12 +19,14 @@ if (!validModes.has(mode)) {
 const sourceDir = dirname(fileURLToPath(import.meta.url));
 const stateDir = resolve(sourceDir, ".scan-state");
 const previousRunFile = resolve(stateDir, "previous_scan_time.txt");
-const broadRawPath = resolve(sourceDir, "us_financial_services_internship_scan_raw.json");
-const quantV2RawPath = resolve(sourceDir, "quant_internship_roles_scan_v2_raw.json");
+const broadRawPath = resolve(sourceDir, "data/us_financial_services_internship_scan_raw.json");
+const quantV2RawPath = resolve(sourceDir, "data/quant_internship_roles_scan_v2_raw.json");
 const previousQuantV2RawPath = resolve(stateDir, "previous_quant_v2_raw.json");
 const currentRunStartedAt = new Date().toISOString();
 
 await fs.mkdir(stateDir, { recursive: true });
+await fs.mkdir(resolve(sourceDir, "reports"), { recursive: true });
+await fs.mkdir(resolve(sourceDir, "data"), { recursive: true });
 
 if (["v2", "all"].includes(mode)) {
   try {

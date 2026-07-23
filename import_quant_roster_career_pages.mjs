@@ -4,8 +4,8 @@ const rosterPath = "quant_firm_roster.json";
 const seedsPath = "roster_career_page_seeds.json";
 const reviewedPath = "reviewed_career_pages.json";
 const dbPath = "company_career_pages.json";
-const auditJsonPath = "quant_roster_career_page_audit.json";
-const auditMarkdownPath = "quant_roster_career_page_audit.md";
+const auditJsonPath = "data/quant_roster_career_page_audit.json";
+const auditMarkdownPath = "reports/quant_roster_career_page_audit.md";
 
 // These search results are demonstrably for another organization, an aggregator,
 // or a document that mentions the firm instead of an official recruiting page.

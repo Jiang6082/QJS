@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T14:49:26.454Z",
-  "scanStartedAt": "2026-07-23T14:45:51.978Z",
+  "generatedAt": "2026-07-23T15:26:42.423Z",
+  "scanStartedAt": "2026-07-23T15:22:48.772Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
@@ -339,7 +339,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/aquaticcapitalmanagement"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 9,
       "relevantInternships": 2
@@ -3902,7 +3902,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 42,
+      "jobsSeen": 43,
       "relevantInternships": 5
     },
     {
@@ -3946,7 +3946,7 @@
         "https://walleyecapital.com/careers",
         "https://job-boards.greenhouse.io/walleyecapital-external-fulltime"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 24,
       "relevantInternships": 8

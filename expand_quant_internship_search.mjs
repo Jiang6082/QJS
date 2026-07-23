@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 import { groupedRoleMarkdown, regionForLocation } from "./tools/regions.mjs";
 import { isKnownWrongCareerPage } from "./tools/career-source-guards.mjs";
 
-const baseCsvPath = "quant_internship_roles_scan.csv";
+const baseCsvPath = "reports/quant_internship_roles_scan.csv";
 const careerPageDbPath = "company_career_pages.json";
 const firmRosterPath = "quant_firm_roster.json";
 const firmRoster = JSON.parse(await fs.readFile(firmRosterPath, "utf8"));
@@ -1210,7 +1210,7 @@ for (const row of [...careerPageRows, ...baseRows, ...manualLeads, ...discovered
 
 async function readKnownBoardCoverage() {
   try {
-    const audit = JSON.parse(await fs.readFile("quant_internship_scan_audit.json", "utf8"));
+    const audit = JSON.parse(await fs.readFile("data/quant_internship_scan_audit.json", "utf8"));
     return new Map((audit.companyAudits || [])
       .filter((entry) => (entry.resolvedBoards || []).length > 0)
       .map((entry) => [entry.company, entry.jobsSeen || 0]));
@@ -1275,10 +1275,10 @@ const md = [
   "",
 ].join("\n");
 
-await fs.writeFile("quant_internship_roles_scan_v2.csv", csv, "utf8");
-await fs.writeFile("quant_internship_roles_scan_v2.md", md, "utf8");
-await fs.writeFile("quant_internship_roles_scan_v2_raw.json", JSON.stringify({ searchedAt, companies, careerPageDb, careerPageScanTasks: careerPageScan.tasks, careerPageScanAudits: careerPageScan.audits, customSourceAudits, careerPageRows, rows, companiesWithoutRows, confirmedNoOpenPostings, confirmedNoMatchingRoles, couldNotFullyVerify }, null, 2), "utf8");
-await fs.writeFile("quant_internship_roles_scan_v2_audit.json", JSON.stringify({
+await fs.writeFile("reports/quant_internship_roles_scan_v2.csv", csv, "utf8");
+await fs.writeFile("reports/quant_internship_roles_scan_v2.md", md, "utf8");
+await fs.writeFile("data/quant_internship_roles_scan_v2_raw.json", JSON.stringify({ searchedAt, companies, careerPageDb, careerPageScanTasks: careerPageScan.tasks, careerPageScanAudits: careerPageScan.audits, customSourceAudits, careerPageRows, rows, companiesWithoutRows, confirmedNoOpenPostings, confirmedNoMatchingRoles, couldNotFullyVerify }, null, 2), "utf8");
+await fs.writeFile("data/quant_internship_roles_scan_v2_audit.json", JSON.stringify({
   searchedAt,
   companies,
   companiesWithoutKnownCareerPage: companies.filter((company) => !(careerPageDb.companies[company]?.careerPages || []).length),
