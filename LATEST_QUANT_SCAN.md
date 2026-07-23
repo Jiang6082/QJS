@@ -1,14 +1,14 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-07-23T15:22:48.772Z
+Last updated: 2026-07-23T21:04:40.981Z
 
 ## Summary
 
 - Companies searched: 366
 - Career pages checked: 486
-- Current retained roles: 256
-- New stable job URLs since previous scan: 0
-- No longer present since previous scan: 0
+- Current retained roles: 257
+- New stable job URLs since previous scan: 3
+- No longer present since previous scan: 2
 - Matching-role firms: 34
 - Confirmed no open postings: 3
 - Openings but no matching role: 52
@@ -48,13 +48,16 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (3)
 
-_None._
+- **T. Rowe Price** - [2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) - Baltimore, MD
+- **T. Rowe Price** - [2027 Quantitative Equity Investing Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) - Baltimore, MD
+- **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) - 2 Locations
 
 ## No Longer Present
 
-_None._
+- **IMC Trading** - [2027 - Quant Research Intern - IIT Delhi](https://job-boards.eu.greenhouse.io/imc/jobs/4917441101) - Amsterdam, Netherlands; Mumbai, India
+- **IMC Trading** - [2027 - Software Engineering Intern - IIT Delhi](https://job-boards.eu.greenhouse.io/imc/jobs/4917535101) - Mumbai, India
 
 ## Full Reports
 

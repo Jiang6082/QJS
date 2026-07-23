@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T15:26:42.423Z",
-  "scanStartedAt": "2026-07-23T15:22:48.772Z",
+  "generatedAt": "2026-07-23T21:08:30.733Z",
+  "scanStartedAt": "2026-07-23T21:04:40.981Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 45,
+      "jobsSeen": 46,
       "relevantInternships": 7
     },
     {
@@ -339,7 +339,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/aquaticcapitalmanagement"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 9,
       "relevantInternships": 2
@@ -1277,7 +1277,7 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 220,
+      "jobsSeen": 221,
       "relevantInternships": 0
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -2094,8 +2094,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 156,
-      "relevantInternships": 12
+      "jobsSeen": 154,
+      "relevantInternships": 10
     },
     {
       "company": "Independent Trading Group (ITG)",
@@ -2212,7 +2212,7 @@
         "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381",
         "https://job-boards.greenhouse.io/mavensecuritiesholdingltd"
       ],
-      "livePages": 4,
+      "livePages": 3,
       "attemptedPages": 5,
       "jobsSeen": 36,
       "relevantInternships": 0
@@ -2410,7 +2410,7 @@
         "https://job-boards.greenhouse.io/radixuniversity",
         "https://job-boards.greenhouse.io/radixexperienced"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 4,
       "jobsSeen": 23,
       "relevantInternships": 2
@@ -2666,7 +2666,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/quadraturecapital?error=true"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 4,
       "relevantInternships": 0
@@ -2694,7 +2694,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 210,
+      "jobsSeen": 209,
       "relevantInternships": 0
     },
     {
@@ -3791,7 +3791,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 6,
+      "jobsSeen": 5,
       "relevantInternships": 1
     },
     {
@@ -3903,7 +3903,7 @@
       "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 43,
-      "relevantInternships": 5
+      "relevantInternships": 6
     },
     {
       "company": "Verition Fund Management",
@@ -3918,7 +3918,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 32,
+      "jobsSeen": 34,
       "relevantInternships": 0
     },
     {
@@ -4050,7 +4050,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 56,
+      "jobsSeen": 57,
       "relevantInternships": 0
     },
     {
@@ -4189,7 +4189,7 @@
         "https://job-boards.greenhouse.io/worldquant?error=true",
         "https://www.worldquant.com/careers/"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 100,
       "relevantInternships": 5

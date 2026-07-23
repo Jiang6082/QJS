@@ -1,9 +1,66 @@
 {
-  "generatedAt": "2026-07-23T15:26:42.503Z",
-  "previousScanAt": "2026-07-23T14:45:51.978Z",
-  "currentScanAt": "2026-07-23T15:22:48.772Z",
+  "generatedAt": "2026-07-23T21:08:30.826Z",
+  "previousScanAt": "2026-07-23T15:22:48.772Z",
+  "currentScanAt": "2026-07-23T21:04:40.981Z",
   "previousRows": 256,
-  "currentRows": 256,
-  "added": [],
-  "removed": []
+  "currentRows": 257,
+  "added": [
+    {
+      "Company": "T. Rowe Price",
+      "Title": "2027 Global Trading Internship Program",
+      "Department": "",
+      "Location": "Baltimore, MD",
+      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
+      "Source": "Career page Workday:troweprice/TRowePrice",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted Today | 82718",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "T. Rowe Price",
+      "Title": "2027 Quantitative Equity Investing Internship Program",
+      "Department": "",
+      "Location": "Baltimore, MD",
+      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
+      "Source": "Career page Workday:troweprice/TRowePrice",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted Today | 82699",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "T. Rowe Price",
+      "Title": "2027 Technology and Data Internship",
+      "Department": "",
+      "Location": "2 Locations",
+      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677",
+      "Source": "Career page Workday:troweprice/TRowePrice",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted Today | 82677",
+      "Region": "Remote / Unspecified"
+    }
+  ],
+  "removed": [
+    {
+      "Company": "IMC Trading",
+      "Title": "2027 - Quant Research Intern - IIT Delhi",
+      "Department": "Screen & Quant Trading",
+      "Location": "Amsterdam, Netherlands; Mumbai, India",
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4917441101",
+      "Source": "Career page Greenhouse:imc",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4917441101 | internship timing not stated in title | Quant Research Intern ABOUT IMC: We’re a high-performance trading firm powered by technology, for those who want to be the best among the best. ABOUT THE ROLE: IMC is a leading global trading firm that combines technology, advanced quantitative research, and cutting-edge machine learning techniques to make markets more efficient. With a strong focus on innovation, we leverage mathematical models and high-performance computing to drive our trading decisions. As a Quant Research Intern, you’ll work at the intersection of data science, financial markets, and algorithmic trading solving real-world challenges that drive our trading strategies. This internship program offers a unique opportunity to gain hands-on experienc...",
+      "Region": "Global / Multiple Regions"
+    },
+    {
+      "Company": "IMC Trading",
+      "Title": "2027 - Software Engineering Intern - IIT Delhi",
+      "Department": "Development (Group)",
+      "Location": "Mumbai, India",
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4917535101",
+      "Source": "Career page Greenhouse:imc",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4917535101 | internship timing not stated in title | Software Engineering Intern Are you someone who is passionate about challenging the status quo? Do you enjoy the process of problem solving, a process where you recognize areas of improvement and iterate and innovate to improve? Does your curiosity and desire to learn drive you? ROLE OVERVIEW: If so, then join IMC as a Software Engineer Intern! At IMC, Software Engineers don’t just write software and design technology. They are responsible for spotting new opportunities, developing new technologies and solving problems. As a result, they deliver results and make a difference. IMC knows that having the best software is what drives our business. Software development here is innovative, pragmatic and fun, even as compl...",
+      "Region": "Asia"
+    }
+  ]
 }
