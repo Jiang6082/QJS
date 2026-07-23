@@ -1,13 +1,13 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-07-22T16:05:51.068Z
+Last updated: 2026-07-23T14:45:51.978Z
 
 ## Summary
 
 - Companies searched: 366
 - Career pages checked: 486
-- Current retained roles: 251
-- New stable job URLs since previous scan: 3
+- Current retained roles: 256
+- New stable job URLs since previous scan: 5
 - No longer present since previous scan: 0
 - Matching-role firms: 34
 - Confirmed no open postings: 3
@@ -16,19 +16,19 @@ Last updated: 2026-07-22T16:05:51.068Z
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (2)
 
-_None._
+- **Optiver** - [Institutional Trader Intern (2027 Start - Chicago)](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002) - Chicago, Illinois, United States
+- **Susquehanna International Group** - [Equity Analyst Internship: Summer 2027](https://careers.sig.com/jobs/11216?lang=en-us) - Chicago, Illinois
 
 ### Europe (0)
 
 _None._
 
-### Asia (3)
+### Asia (2)
 
-- **AlphaGrep** - [Quantitative Developer Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002) - Mumbai
-- **AlphaGrep** - [Quantitative Trading Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622004002) - India
-- **AlphaGrep** - [Software Development Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622142002) - India
+- **IMC Trading** - [2027 - Software Engineering Intern - IIT Delhi](https://job-boards.eu.greenhouse.io/imc/jobs/4917535101) - Mumbai, India
+- **Jane Street** - [Sales and Trading](https://www.janestreet.com/join-jane-street/position/8630687002/) - Hong Kong
 
 ### Oceania (0)
 
@@ -46,9 +46,9 @@ _None._
 
 _None._
 
-### Global / Multiple Regions (0)
+### Global / Multiple Regions (1)
 
-_None._
+- **IMC Trading** - [2027 - Quant Research Intern - IIT Delhi](https://job-boards.eu.greenhouse.io/imc/jobs/4917441101) - Amsterdam, Netherlands; Mumbai, India
 
 ### Remote / Unspecified (0)
 

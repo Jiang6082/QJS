@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T16:20:12.136Z",
-  "scanStartedAt": "2026-07-22T16:05:51.068Z",
+  "generatedAt": "2026-07-23T14:49:26.454Z",
+  "scanStartedAt": "2026-07-23T14:45:51.978Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
@@ -425,7 +425,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 13,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -520,7 +520,7 @@
         "https://www.3redpartners.com/careers/",
         "https://job-boards.greenhouse.io/3redpartners"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 8,
       "relevantInternships": 0
@@ -759,7 +759,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 177,
+      "jobsSeen": 176,
       "relevantInternships": 16
     },
     {
@@ -967,7 +967,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 33,
+      "jobsSeen": 34,
       "relevantInternships": 0
     },
     {
@@ -993,7 +993,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 231,
+      "jobsSeen": 229,
       "relevantInternships": 8
     },
     {
@@ -1019,7 +1019,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 56,
+      "jobsSeen": 58,
       "relevantInternships": 1
     },
     {
@@ -1087,7 +1087,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/engineersgate"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 7,
       "relevantInternships": 1
@@ -1117,7 +1117,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 76,
+      "jobsSeen": 77,
       "relevantInternships": 2
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 222,
+      "jobsSeen": 220,
       "relevantInternships": 0
     },
     {
@@ -1423,8 +1423,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "jobsSeen": 37,
+      "relevantInternships": 1
     },
     {
       "company": "G-Research",
@@ -1719,7 +1719,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {
@@ -2094,8 +2094,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 154,
-      "relevantInternships": 10
+      "jobsSeen": 156,
+      "relevantInternships": 12
     },
     {
       "company": "Independent Trading Group (ITG)",
@@ -2453,7 +2453,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 56,
+      "jobsSeen": 55,
       "relevantInternships": 1
     },
     {
@@ -2642,7 +2642,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantInternships": 0
     },
     {
@@ -2694,7 +2694,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 210,
       "relevantInternships": 0
     },
     {
@@ -3222,7 +3222,7 @@
         "https://www.oldmissioncapital.com/careers/",
         "https://job-boards.greenhouse.io/oldmissioncapital"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 32,
       "relevantInternships": 1
@@ -3249,8 +3249,8 @@
       ],
       "livePages": 12,
       "attemptedPages": 12,
-      "jobsSeen": 8,
-      "relevantInternships": 0
+      "jobsSeen": 11,
+      "relevantInternships": 1
     },
     {
       "company": "Plutus Research",
@@ -3844,7 +3844,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 12,
+      "jobsSeen": 11,
       "relevantInternships": 0
     },
     {
@@ -3902,7 +3902,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 40,
+      "jobsSeen": 42,
       "relevantInternships": 5
     },
     {
@@ -3918,7 +3918,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 19,
+      "jobsSeen": 32,
       "relevantInternships": 0
     },
     {
@@ -4094,7 +4094,7 @@
         "https://www.ubs.com/global/en/careers/early-careers.html",
         "https://www.ubs.com/global/en/careers/early-careers/faq.html"
       ],
-      "livePages": 4,
+      "livePages": 5,
       "attemptedPages": 5,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4191,7 +4191,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 101,
+      "jobsSeen": 100,
       "relevantInternships": 5
     },
     {
