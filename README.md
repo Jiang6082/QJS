@@ -2,7 +2,7 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-07-23 &nbsp;•&nbsp; **257 open roles** &nbsp;•&nbsp; **3 new today**
+> **Last scan:** 2026-07-24 &nbsp;•&nbsp; **261 open roles** &nbsp;•&nbsp; **4 new today**
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -10,28 +10,32 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-07-23_
+_Scan date: 2026-07-24_
 
-**3** new stable job postings since the previous scan:
+**4** new stable job postings since the previous scan:
+
+**North America**
+
+- **Trillium** — [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076003007?gh_jid=5076003007) — NYC
+- **Trillium** — [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) — Chicago
+- **Trillium** — [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076067007?gh_jid=5076067007) — Miami
 
 **Remote / Unspecified**
 
-- **T. Rowe Price** — [2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) — Baltimore, MD
-- **T. Rowe Price** — [2027 Quantitative Equity Investing Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) — Baltimore, MD
-- **T. Rowe Price** — [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) — 2 Locations
+- **Deutsche Bank** — [Internship - Technology Process Analysis (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474) — Milano Bicocca Calendario 3
 
 ---
 
 ## 📋 All Roles Available
 
-**257** open internship roles, grouped by region. Click a title to open the official posting.
+**261** open internship roles, grouped by region. Click a title to open the official posting.
 
-**Regions:** [North America (138)](#north-america) · [Europe (44)](#europe) · [Asia (56)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (9)](#global--multiple-regions) · [Remote / Unspecified (5)](#remote--unspecified)
+**Regions:** [North America (141)](#north-america) · [Europe (44)](#europe) · [Asia (56)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (9)](#global--multiple-regions) · [Remote / Unspecified (6)](#remote--unspecified)
 
 ### North America
 
 <details>
-<summary><strong>138 roles</strong> — click to expand</summary>
+<summary><strong>141 roles</strong> — click to expand</summary>
 
 - **Akuna** — [Hardware Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) — Chicago, IL
 - **Akuna** — [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) — Chicago, IL
@@ -78,8 +82,8 @@ _Scan date: 2026-07-23_
 - **DRW** — [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8038923) — Chicago
 - **DRW** — [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) — Chicago, New York City
 - **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) — Chicago, Illinois
-- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) — Chicago
 - **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) — Montreal
+- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) — Chicago
 - **DRW** — [Strategy Intern](https://job-boards.greenhouse.io/drweng/jobs/7992670) — Chicago, IL
 - **Five Rings** — [Summer Intern 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) — New York
 - **Five Rings** — [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) — New York
@@ -155,6 +159,9 @@ _Scan date: 2026-07-23_
 - **Tower Research Capital** — [Quantitative Trader Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) — New York, Chicago
 - **TransMarket Group** — [DevOps/SRE Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) — Chicago, Illinois, United States
 - **TransMarket Group** — [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) — Chicago, Illinois, United States
+- **Trillium** — [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076003007?gh_jid=5076003007) — NYC
+- **Trillium** — [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) — Chicago
+- **Trillium** — [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076067007?gh_jid=5076067007) — Miami
 - **Two Sigma** — [AI Research Scientist - Intern [2027 Summer]](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096) — United States - NY New York
 - **Two Sigma** — [Quantitative Researcher - Intern [2027 Summer]](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-2027-Summer/13945) — United States - NY New York
 - **Virtu Financial** — [2027 Internship - Quant Research (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) — New York
@@ -254,19 +261,19 @@ _Scan date: 2026-07-23_
 - **Goldman Sachs** — [2027 \| APEJ \| Singapore \| FICC and Equities (Sales and Trading) Quantitative Strats \| Summer Analyst](https://higher.gs.com/roles/170600) — Singapore
 - **IMC Trading** — [2027 - Software Engineering Intern - BITS Pilani](https://job-boards.eu.greenhouse.io/imc/jobs/4917549101) — Mumbai, India
 - **IMC Trading** — [2027 - Software Engineering Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860319101) — Mumbai, India
-- **Jane Street** — [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8377831002/) — Hong Kong
 - **Jane Street** — [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8641377002/) — Hong Kong
-- **Jane Street** — [Linux Engineer](https://www.janestreet.com/join-jane-street/position/8625946002/) — Hong Kong
+- **Jane Street** — [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8377831002/) — Hong Kong
 - **Jane Street** — [Linux Engineer](https://www.janestreet.com/join-jane-street/position/8377832002/) — Hong Kong
+- **Jane Street** — [Linux Engineer](https://www.janestreet.com/join-jane-street/position/8625946002/) — Hong Kong
 - **Jane Street** — [Machine Learning Researcher](https://www.janestreet.com/join-jane-street/position/8374335002/) — Hong Kong
 - **Jane Street** — [Quantitative Researcher](https://www.janestreet.com/join-jane-street/position/8623868002/) — Hong Kong
 - **Jane Street** — [Quantitative Researcher](https://www.janestreet.com/join-jane-street/position/8343131002/) — Hong Kong
 - **Jane Street** — [Quantitative Trader](https://www.janestreet.com/join-jane-street/position/7982986002/) — Hong Kong
 - **Jane Street** — [Quantitative Trader](https://www.janestreet.com/join-jane-street/position/8623733002/) — Hong Kong
 - **Jane Street** — [Sales and Trading](https://www.janestreet.com/join-jane-street/position/8630687002/) — Hong Kong
+- **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/7582902002/) — Hong Kong
 - **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/8632392002/) — Singapore
 - **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/8617298002/) — Hong Kong
-- **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/7582902002/) — Hong Kong
 - **Jane Street** — [Strategy and Product](https://www.janestreet.com/join-jane-street/position/8630713002/) — Hong Kong
 - **Jane Street** — [Strategy and Product](https://www.janestreet.com/join-jane-street/position/8370012002/) — Hong Kong
 - **Jane Street** — [Trading Desk Operations Engineer](https://www.janestreet.com/join-jane-street/position/8168747002/) — Hong Kong
@@ -331,8 +338,9 @@ _Scan date: 2026-07-23_
 ### Remote / Unspecified
 
 <details>
-<summary><strong>5 roles</strong> — click to expand</summary>
+<summary><strong>6 roles</strong> — click to expand</summary>
 
+- **Deutsche Bank** — [Internship - Technology Process Analysis (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474) — Milano Bicocca Calendario 3
 - **J.P. Morgan** — [Asset Management Summer Analyst Program](https://careers.jpmorgan.com/US/en/students/programs/asset-management-summer-analyst) — Varies by open location
 - **J.P. Morgan** — [Markets Summer Analyst Program](https://careers.jpmorgan.com/us/en/students/programs/markets-summer-analyst) — Varies by open location
 - **T. Rowe Price** — [2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) — Baltimore, MD

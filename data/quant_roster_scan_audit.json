@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-23T21:08:30.733Z",
-  "scanStartedAt": "2026-07-23T21:04:40.981Z",
+  "generatedAt": "2026-07-24T16:39:07.913Z",
+  "scanStartedAt": "2026-07-24T16:35:17.690Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
-    "matching-role-found": 34,
+    "matching-role-found": 36,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 52,
+    "confirmed-openings-no-matching-role": 50,
     "could-not-fully-verify": 213
   },
   "companies": [
@@ -759,7 +759,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 176,
+      "jobsSeen": 177,
       "relevantInternships": 16
     },
     {
@@ -993,7 +993,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 229,
+      "jobsSeen": 230,
       "relevantInternships": 8
     },
     {
@@ -1019,7 +1019,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 58,
+      "jobsSeen": 57,
       "relevantInternships": 1
     },
     {
@@ -1041,14 +1041,14 @@
       "sourceRosterNames": [
         "Deutsche Bank (quant/systematic)"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://db.wd3.myworkdayjobs.com/DBWebsite/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 40,
-      "relevantInternships": 0
+      "relevantInternships": 1
     },
     {
       "company": "Domeyard LP",
@@ -1423,7 +1423,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 37,
+      "jobsSeen": 38,
       "relevantInternships": 1
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 31,
+      "jobsSeen": 30,
       "relevantInternships": 0
     },
     {
@@ -2094,7 +2094,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 154,
+      "jobsSeen": 153,
       "relevantInternships": 10
     },
     {
@@ -2212,9 +2212,9 @@
         "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381",
         "https://job-boards.greenhouse.io/mavensecuritiesholdingltd"
       ],
-      "livePages": 3,
+      "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 36,
+      "jobsSeen": 35,
       "relevantInternships": 0
     },
     {
@@ -2410,7 +2410,7 @@
         "https://job-boards.greenhouse.io/radixuniversity",
         "https://job-boards.greenhouse.io/radixexperienced"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 4,
       "jobsSeen": 23,
       "relevantInternships": 2
@@ -2492,7 +2492,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantInternships": 0
     },
     {
@@ -2666,7 +2666,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/quadraturecapital?error=true"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 4,
       "relevantInternships": 0
@@ -2694,7 +2694,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 209,
+      "jobsSeen": 210,
       "relevantInternships": 0
     },
     {
@@ -3673,7 +3673,7 @@
       "sourceRosterNames": [
         "Trillium Trading"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.trlm.com/careers/",
         "https://job-boards.greenhouse.io/trillium",
@@ -3683,8 +3683,8 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 3,
-      "relevantInternships": 0
+      "jobsSeen": 6,
+      "relevantInternships": 3
     },
     {
       "company": "UTR8 Group",
@@ -3723,7 +3723,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 11,
       "relevantInternships": 1
     },
     {
@@ -3859,7 +3859,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 78,
+      "jobsSeen": 77,
       "relevantInternships": 3
     },
     {
@@ -4050,7 +4050,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 57,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -4189,7 +4189,7 @@
         "https://job-boards.greenhouse.io/worldquant?error=true",
         "https://www.worldquant.com/careers/"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 100,
       "relevantInternships": 5

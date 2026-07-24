@@ -1,24 +1,26 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-07-23T21:04:40.981Z
+Last updated: 2026-07-24T16:35:17.690Z
 
 ## Summary
 
 - Companies searched: 366
 - Career pages checked: 486
-- Current retained roles: 257
-- New stable job URLs since previous scan: 3
-- No longer present since previous scan: 2
-- Matching-role firms: 34
+- Current retained roles: 261
+- New stable job URLs since previous scan: 4
+- No longer present since previous scan: 0
+- Matching-role firms: 36
 - Confirmed no open postings: 3
-- Openings but no matching role: 52
+- Openings but no matching role: 50
 - Could not fully verify: 213
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (3)
 
-_None._
+- **Trillium** - [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076003007?gh_jid=5076003007) - NYC
+- **Trillium** - [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) - Chicago
+- **Trillium** - [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076067007?gh_jid=5076067007) - Miami
 
 ### Europe (0)
 
@@ -48,16 +50,13 @@ _None._
 
 _None._
 
-### Remote / Unspecified (3)
+### Remote / Unspecified (1)
 
-- **T. Rowe Price** - [2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) - Baltimore, MD
-- **T. Rowe Price** - [2027 Quantitative Equity Investing Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) - Baltimore, MD
-- **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) - 2 Locations
+- **Deutsche Bank** - [Internship - Technology Process Analysis (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474) - Milano Bicocca Calendario 3
 
 ## No Longer Present
 
-- **IMC Trading** - [2027 - Quant Research Intern - IIT Delhi](https://job-boards.eu.greenhouse.io/imc/jobs/4917441101) - Amsterdam, Netherlands; Mumbai, India
-- **IMC Trading** - [2027 - Software Engineering Intern - IIT Delhi](https://job-boards.eu.greenhouse.io/imc/jobs/4917535101) - Mumbai, India
+_None._
 
 ## Full Reports
 

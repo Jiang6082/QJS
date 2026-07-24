@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-23T21:04:21.251Z",
+  "scannedAt": "2026-07-24T16:35:02.995Z",
   "results": [
     {
       "company": "Jane Street",
@@ -30,7 +30,7 @@
       "boards": [
         {
           "source": "Greenhouse:point72",
-          "count": 229
+          "count": 230
         },
         {
           "source": "Ashby:cubist",
@@ -194,7 +194,7 @@
       "boards": [
         {
           "source": "Greenhouse:akunacapital",
-          "count": 36
+          "count": 34
         }
       ],
       "matches": [
@@ -427,7 +427,7 @@
       "boards": [
         {
           "source": "Greenhouse:bridgewater89",
-          "count": 20
+          "count": 22
         }
       ],
       "matches": []
@@ -442,7 +442,7 @@
       "boards": [
         {
           "source": "Lever:capital",
-          "count": 40
+          "count": 41
         }
       ],
       "matches": []
@@ -452,7 +452,7 @@
       "boards": [
         {
           "source": "Lever:capital",
-          "count": 40
+          "count": 41
         }
       ],
       "matches": []
@@ -526,7 +526,7 @@
       "boards": [
         {
           "source": "Greenhouse:dvtrading",
-          "count": 58
+          "count": 57
         }
       ],
       "matches": [
@@ -650,7 +650,7 @@
       "boards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 37
+          "count": 38
         }
       ],
       "matches": [
@@ -836,7 +836,7 @@
       "boards": [
         {
           "source": "Greenhouse:imc",
-          "count": 154
+          "count": 153
         }
       ],
       "matches": [
@@ -952,7 +952,7 @@
       "boards": [
         {
           "source": "Greenhouse:jumptrading",
-          "count": 95
+          "count": 96
         },
         {
           "source": "Ashby:jump",
@@ -1136,18 +1136,18 @@
           "source": "Greenhouse:jumptrading",
           "title": "Campus UI Software Engineer (Intern)",
           "department": "Core Development ",
-          "location": "London",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
-          "content": "Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply&nbsp;cutting edge&nbsp;research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by&nbsp;incenting&nbsp;collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. &nbsp; Core Development is a global team of technologists who&nbsp;architect, build and&nbsp;maintain&nbsp;our world-class trading platform. From&nbsp;optimizing&nbsp;our core trading engine to building custom hardware, we&nbsp;leverage&nbsp;software &amp; hardware engineering, data&nbsp;science&nbsp;and research, to deliver the infrastructure and tools that drive our trading and business needs. &nbsp; NOTE - We accept students needing placements or otherwise extended internships. We also allow internships to take place during a non-summer term (for example - the winter, spring, or fall months) if preferable when it makes sense.&nbsp; What you will do: Our Web Dev / UI software engineering internship is an intensive 10-week experience at Jump Trading. During your internship, you will use advanced Typescript, Python, and modern Web frameworks to build Web-based applications that interact with several components of our real-time trading platform. Our internship program is the primary way we identify top young software engineers for our core development team, and it’s a proven path for earning full-time or return internship opportunities at Jump Trading in London. You will take on projects working on production code and gain experience with our full-cycle process for development, testing, and release using Agile methodologies. May also include other duties as assigned or needed.&nbsp; Skills you will need: Hands-on experience and a high level of proficiency in one or more of the following: Web development using Python and Typescript&nbsp; Python development on Linux platform &nbsp; Strong understanding of data structures, algorithms, and threading models Ability to work with a team in a fast-paced environment, deploying new software daily Passion for solving complex problems and learning to build optimal solutions from scratch, instead of simply assembling things from existing libraries Interest in using knowledge from several areas -- such as hardware, networking, OS design -- to produce extremely high-performance software Reliable and predictable availability Also helpful, but not required: Comfort in React &nbsp; Claude Code in a real work environment &nbsp; Past internship or job experience in a software development role is a plus * No finance or economics study or work experience required INTERNATIONAL STUDENTS are encouraged to apply.&nbsp;"
+          "location": "Chicago",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+          "content": "Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. Core Development is a global team of technologists who lean into the cutting edge of agentic development to architect, build and maintain our world-class trading platform From optimizing our core trading engine to building custom hardware, we leverage the latest agentic tools to deliver the infrastructure that drives our trading and business needs. What You’ll Do: Our Web Dev / UI software engineering internship is an intensive 10-week experience at Jump Trading.&nbsp;&nbsp; During your internship, you will use advanced Typescript, Python, and modern Web frameworks to build Web-based applications that interact with several components of our real-time trading platform.&nbsp;&nbsp; Our internship program is the primary way we identify top young software engineers for our core development team, and it’s a proven path for earning full-time or return internship opportunities at Jump Trading in Chicago. You will take on projects working on production code and gain experience with our full-cycle process for development, testing, and release using Agile methodologies.&nbsp; Other duties as assigned or needed Skills You’ll Need: Hands-on experience and a high level of proficiency in one or more of the following:&nbsp;&nbsp; Web development using Python and Typescript&nbsp;&nbsp;&nbsp; Python development on Linux platform&nbsp;&nbsp;&nbsp; Strong understanding of data structures, algorithms, and threading models&nbsp;&nbsp;&nbsp; Ability to work with a team in a fast-paced environment, deploying new software daily&nbsp;&nbsp;&nbsp; Passion for solving complex problems and learning to build optimal solutions from scratch, instead of simply assembling things from existing libraries Interest in using knowledge from several areas -- such as hardware, networking, OS design -- to produce extremely high-performance software &nbsp;&nbsp; Reliable and predictable availability&nbsp;&nbsp; Also helpful, but not required:&nbsp;&nbsp;&nbsp; Comfort in React&nbsp; Claude code in a real work environment&nbsp; Past internship or job experience in a software development role is a plus&nbsp;&nbsp; * No finance or economics study or work experience required INTERNATIONAL STUDENTS are encouraged to apply. We accept students eligible for CPT/OPT and we sponsor work visas for full-time positions. The estimated base salary for this role is $250,000 per year."
         },
         {
           "company": "Jump Trading",
           "source": "Greenhouse:jumptrading",
           "title": "Campus UI Software Engineer (Intern)",
           "department": "Core Development ",
-          "location": "Chicago",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
-          "content": "Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. Core Development is a global team of technologists who lean into the cutting edge of agentic development to architect, build and maintain our world-class trading platform From optimizing our core trading engine to building custom hardware, we leverage the latest agentic tools to deliver the infrastructure that drives our trading and business needs. What You’ll Do: Our Web Dev / UI software engineering internship is an intensive 10-week experience at Jump Trading.&nbsp;&nbsp; During your internship, you will use advanced Typescript, Python, and modern Web frameworks to build Web-based applications that interact with several components of our real-time trading platform.&nbsp;&nbsp; Our internship program is the primary way we identify top young software engineers for our core development team, and it’s a proven path for earning full-time or return internship opportunities at Jump Trading in Chicago. You will take on projects working on production code and gain experience with our full-cycle process for development, testing, and release using Agile methodologies.&nbsp; Other duties as assigned or needed Skills You’ll Need: Hands-on experience and a high level of proficiency in one or more of the following:&nbsp;&nbsp; Web development using Python and Typescript&nbsp;&nbsp;&nbsp; Python development on Linux platform&nbsp;&nbsp;&nbsp; Strong understanding of data structures, algorithms, and threading models&nbsp;&nbsp;&nbsp; Ability to work with a team in a fast-paced environment, deploying new software daily&nbsp;&nbsp;&nbsp; Passion for solving complex problems and learning to build optimal solutions from scratch, instead of simply assembling things from existing libraries Interest in using knowledge from several areas -- such as hardware, networking, OS design -- to produce extremely high-performance software &nbsp;&nbsp; Reliable and predictable availability&nbsp;&nbsp; Also helpful, but not required:&nbsp;&nbsp;&nbsp; Comfort in React&nbsp; Claude code in a real work environment&nbsp; Past internship or job experience in a software development role is a plus&nbsp;&nbsp; * No finance or economics study or work experience required INTERNATIONAL STUDENTS are encouraged to apply. We accept students eligible for CPT/OPT and we sponsor work visas for full-time positions. The estimated base salary for this role is $250,000 per year."
+          "location": "London",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+          "content": "Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply&nbsp;cutting edge&nbsp;research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by&nbsp;incenting&nbsp;collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. &nbsp; Core Development is a global team of technologists who&nbsp;architect, build and&nbsp;maintain&nbsp;our world-class trading platform. From&nbsp;optimizing&nbsp;our core trading engine to building custom hardware, we&nbsp;leverage&nbsp;software &amp; hardware engineering, data&nbsp;science&nbsp;and research, to deliver the infrastructure and tools that drive our trading and business needs. &nbsp; NOTE - We accept students needing placements or otherwise extended internships. We also allow internships to take place during a non-summer term (for example - the winter, spring, or fall months) if preferable when it makes sense.&nbsp; What you will do: Our Web Dev / UI software engineering internship is an intensive 10-week experience at Jump Trading. During your internship, you will use advanced Typescript, Python, and modern Web frameworks to build Web-based applications that interact with several components of our real-time trading platform. Our internship program is the primary way we identify top young software engineers for our core development team, and it’s a proven path for earning full-time or return internship opportunities at Jump Trading in London. You will take on projects working on production code and gain experience with our full-cycle process for development, testing, and release using Agile methodologies. May also include other duties as assigned or needed.&nbsp; Skills you will need: Hands-on experience and a high level of proficiency in one or more of the following: Web development using Python and Typescript&nbsp; Python development on Linux platform &nbsp; Strong understanding of data structures, algorithms, and threading models Ability to work with a team in a fast-paced environment, deploying new software daily Passion for solving complex problems and learning to build optimal solutions from scratch, instead of simply assembling things from existing libraries Interest in using knowledge from several areas -- such as hardware, networking, OS design -- to produce extremely high-performance software Reliable and predictable availability Also helpful, but not required: Comfort in React &nbsp; Claude Code in a real work environment &nbsp; Past internship or job experience in a software development role is a plus * No finance or economics study or work experience required INTERNATIONAL STUDENTS are encouraged to apply.&nbsp;"
         }
       ]
     },
@@ -1191,7 +1191,7 @@
       "boards": [
         {
           "source": "Greenhouse:mako",
-          "count": 7
+          "count": 6
         }
       ],
       "matches": []
@@ -1201,7 +1201,7 @@
       "boards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 55
+          "count": 56
         }
       ],
       "matches": []
@@ -1289,7 +1289,7 @@
       "boards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 192
+          "count": 190
         },
         {
           "source": "Greenhouse:optiver",
@@ -1476,7 +1476,7 @@
       "boards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 209
+          "count": 210
         }
       ],
       "matches": [
@@ -1718,7 +1718,7 @@
       "boards": [
         {
           "source": "Greenhouse:towerresearchcapital",
-          "count": 78
+          "count": 77
         }
       ],
       "matches": [
@@ -1909,7 +1909,7 @@
         },
         {
           "source": "Ashby:voleon",
-          "count": 57
+          "count": 55
         }
       ],
       "matches": []
@@ -2147,10 +2147,38 @@
       "boards": [
         {
           "source": "Greenhouse:trillium",
-          "count": 3
+          "count": 6
         }
       ],
-      "matches": []
+      "matches": [
+        {
+          "company": "Trillium",
+          "source": "Greenhouse:trillium",
+          "title": "Summer 2027 Equity Trader Internship",
+          "department": "Trading",
+          "location": "NYC",
+          "url": "https://www.trlm.com/apply/5076003007?gh_jid=5076003007",
+          "content": "Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com *This position is open in any of our three locations: New York, NY | Chicago, IL | Miami, FL (please only apply to your top choice).* &nbsp; The Role : As an Equity Trader Intern, you will spend the summer learning about the markets and Trillium’s proprietary technology. Working closely with a designated mentor, you will research and enhance our existing trade strategies. You will develop a solid understanding of the US, Canadian, and OTC equity markets, along with the US options market, while strengthening your communication, quantitative, and analytical skills. Here, you’ll practice and grow your understanding of economics, risk assessment, and decision-making by placing simulated split-second buy and sell orders using our proprietary keyboard-based trading platform. Our intention is to set our interns up for success before graduation and thoughtfully challenge each to expand their knowledge of markets while providing exposure to manual trading. Interns who prove they are a great fit for Trillium during the internship may receive offers to become full-time equity traders after graduation. &nbsp; Compensation : This paid internship is six weeks (June-July, 2027) and pays $1,000/week (gross) &nbsp; Responsibilities : Researching market microstructure patterns for inefficiencies Collaboration on daily trade review Following industry and overall market news Working closely with a dedicated mentor Participating in group meetings hosted by senior traders Educational seminars to learn proprietary trading tools &nbsp; About You : You are an enthusiastic, motivated and proactive person who is eager to learn. The ideal candidate must have/be the following: Resourceful thought process, team-oriented mindset, entrepreneurial spirit, demonstrated through extracurricular activities and/or group projects, and record of academic achievement Analytically minded, intellectually curious, and have a strong interest in financial markets Must be competitive, adaptable, and persevering Preferred major(s) in economics, mathematics, business/business administration, finance, or adjacent fields Please note, Trillium will not sponsor applicants for work visas &nbsp; Job Requirements : The position is intended for rising seniors (Spring 2028 graduation) with a cumulative 3.5+ GPA. Students entering their senior year of undergraduate or final year of a master's program are encouraged to apply. &nbsp; &nbsp; Benefits and Perks : Catered lunch twice per week and Tuesday breakfast in-office Collaborative, inclusive, and dynamic work environment within a mission-driven company &nbsp; &nbsp; Trillium is an Equal Opportunity Employer.&nbsp; In order to provide equal employment and advancement opportunities to all individuals, employment decisions at Trillium are based on merit, qualifications, and the needs of the company.&nbsp; Trillium does not discriminate on the basis of race, creed, color, religion, sex, national origin, age, disability, predisposing genetic characteristics, ancestry, military status, family care status, marital status, sexual orientation, domestic violence victim status, gender identity or any other legally protected basis protected by applicable law. Applicants who are interested in applying for a position and require special assistance or a reasonable accommodation due to a disability should contact careers@trlm.com . &nbsp;"
+        },
+        {
+          "company": "Trillium",
+          "source": "Greenhouse:trillium",
+          "title": "Summer 2027 Equity Trader Internship",
+          "department": "Trading",
+          "location": "Chicago",
+          "url": "https://www.trlm.com/apply/5076017007?gh_jid=5076017007",
+          "content": "Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com &nbsp; *This position is open in any of our three locations: New York, NY | Chicago, IL | Miami, FL (please only apply to your top choice).* &nbsp; The Role : As an Equity Trader Intern, you will spend the summer learning about the markets and Trillium’s proprietary technology. Working closely with a designated mentor, you will research and enhance our existing trade strategies. You will develop a solid understanding of the US, Canadian, and OTC equity markets, along with the US options market, while strengthening your communication, quantitative, and analytical skills. Here, you’ll practice and grow your understanding of economics, risk assessment, and decision-making by placing simulated split-second buy and sell orders using our proprietary keyboard-based trading platform. Our intention is to set our interns up for success before graduation and thoughtfully challenge each to expand their knowledge of markets while providing exposure to manual trading. Interns who prove they are a great fit for Trillium during the internship may receive offers to become full-time equity traders after graduation. &nbsp; Compensation : This paid internship is six weeks (June-July, 2027) and pays $1,000/week (gross) &nbsp; Responsibilities : Researching market microstructure patterns for inefficiencies Collaboration on daily trade review Following industry and overall market news Working closely with a dedicated mentor Participating in group meetings hosted by senior traders Educational seminars to learn proprietary trading tools &nbsp; About You : You are an enthusiastic, motivated and proactive person who is eager to learn. The ideal candidate must have/be the following: Resourceful thought process, team-oriented mindset, entrepreneurial spirit, demonstrated through extracurricular activities and/or group projects, and record of academic achievement Analytically minded, intellectually curious, and have a strong interest in financial markets Must be competitive, adaptable, and persevering Preferred major(s) in economics, mathematics, business/business administration, finance, or adjacent fields Please note, Trillium will not sponsor applicants for work visas &nbsp; Job Requirements : The position is intended for rising seniors (Spring 2028 graduation) with a cumulative 3.5+ GPA. Students entering their senior year of undergraduate or final year of a master's program are encouraged to apply. &nbsp; &nbsp; Benefits and Perks : Catered lunch twice per week and Tuesday breakfast in-office Collaborative, inclusive, and dynamic work environment within a mission-driven company &nbsp; Trillium is an Equal Opportunity Employer.&nbsp; In order to provide equal employment and advancement opportunities to all individuals, employment decisions at Trillium are based on merit, qualifications, and the needs of the company.&nbsp; Trillium does not discriminate on the basis of race, creed, color, religion, sex, national origin, age, disability, predisposing genetic characteristics, ancestry, military status, family care status, marital status, sexual orientation, domestic violence victim status, gender identity or any other legally protected basis protected by applicable law. Applicants who are interested in applying for a position and require special assistance or a reasonable accommodation due to a disability should contact careers@trlm.com . &nbsp;"
+        },
+        {
+          "company": "Trillium",
+          "source": "Greenhouse:trillium",
+          "title": "Summer 2027 Equity Trader Internship",
+          "department": "Trading",
+          "location": "Miami",
+          "url": "https://www.trlm.com/apply/5076067007?gh_jid=5076067007",
+          "content": "Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com &nbsp; *This position is open in any of our three locations: New York, NY | Chicago, IL | Miami, FL (please only apply to your top choice).* &nbsp; The Role : As an Equity Trader Intern, you will spend the summer learning about the markets and Trillium’s proprietary technology. Working closely with a designated mentor, you will research and enhance our existing trade strategies. You will develop a solid understanding of the US, Canadian, and OTC equity markets, along with the US options market, while strengthening your communication, quantitative, and analytical skills. Here, you’ll practice and grow your understanding of economics, risk assessment, and decision-making by placing simulated split-second buy and sell orders using our proprietary keyboard-based trading platform. Our intention is to set our interns up for success before graduation and thoughtfully challenge each to expand their knowledge of markets while providing exposure to manual trading. Interns who prove they are a great fit for Trillium during the internship may receive offers to become full-time equity traders after graduation. &nbsp; Compensation : This paid internship is six weeks (June-July, 2027) and pays $1,000/week (gross) &nbsp; Responsibilities : Researching market microstructure patterns for inefficiencies Collaboration on daily trade review Following industry and overall market news Working closely with a dedicated mentor Participating in group meetings hosted by senior traders Educational seminars to learn proprietary trading tools &nbsp; About You : You are an enthusiastic, motivated and proactive person who is eager to learn. The ideal candidate must have/be the following: Resourceful thought process, team-oriented mindset, entrepreneurial spirit, demonstrated through extracurricular activities and/or group projects, and record of academic achievement Analytically minded, intellectually curious, and have a strong interest in financial markets Must be competitive, adaptable, and persevering Preferred major(s) in economics, mathematics, business/business administration, finance, or adjacent fields Please note, Trillium will not sponsor applicants for work visas &nbsp; Job Requirements : The position is intended for rising seniors (Spring 2028 graduation) with a cumulative 3.5+ GPA. Students entering their senior year of undergraduate or final year of a master's program are encouraged to apply. &nbsp; &nbsp; Benefits and Perks : Catered lunch twice per week and Tuesday breakfast in-office Collaborative, inclusive, and dynamic work environment within a mission-driven company &nbsp; Trillium is an Equal Opportunity Employer.&nbsp; In order to provide equal employment and advancement opportunities to all individuals, employment decisions at Trillium are based on merit, qualifications, and the needs of the company.&nbsp; Trillium does not discriminate on the basis of race, creed, color, religion, sex, national origin, age, disability, predisposing genetic characteristics, ancestry, military status, family care status, marital status, sexual orientation, domestic violence victim status, gender identity or any other legally protected basis protected by applicable law. Applicants who are interested in applying for a position and require special assistance or a reasonable accommodation due to a disability should contact careers@trlm.com . &nbsp;"
+        }
+      ]
     }
   ]
 }

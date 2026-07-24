@@ -1,8 +1,8 @@
 # Quant Internship Open Roles Scan
 
-Scanned: 2026-07-23T21:04:21.251Z
+Scanned: 2026-07-24T16:35:02.995Z
 Companies deduplicated: 169
-Open relevant roles found: 124
+Open relevant roles found: 127
 
 Criteria used: open ATS posting, internship/co-op wording, quant/trading/software/developer/research/engineering/strategy domain, excluding obvious new-grad/full-time/PhD-only roles. Graduation years are eligibility metadata, not internship timing.
 
@@ -83,8 +83,8 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8007788) — Chicago (Greenhouse:jumptrading; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8000323) — London; Amsterdam (Greenhouse:jumptrading; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus Trading Team Software Engineer  (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) — Hong Kong (Greenhouse:jumptrading; internship timing not stated in title; graduation eligibility mentions: 2026, 2027; undergrad/BS/MS language found)
-- **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943) — London (Greenhouse:jumptrading; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003019) — Chicago (Greenhouse:jumptrading; internship timing not stated in title; undergrad/BS/MS language found)
+- **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943) — London (Greenhouse:jumptrading; internship timing not stated in title; undergrad/BS/MS language found)
 - **Old Mission Capital** — [Software Engineer – 2027 Internship Program (June Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) — Chicago, IL, United States (Greenhouse:oldmissioncapital; internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **Old Mission Capital** — [Software Engineer – 2027 Internship Program (June Start)](https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6) — Chicago, IL (Ashby:old-mission-capital; internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **Optiver** — [FPGA Engineer Intern (Summer 2027 - Austin)](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) — Austin, Texas, United States (Greenhouse:optiverus; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
@@ -117,6 +117,9 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Tower Research Capital** — [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) — Singapore (Greenhouse:towerresearchcapital; internship timing not stated in title; undergrad/BS/MS language found)
 - **TransMarket Group** — [DevOps/SRE Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) — Chicago, Illinois, United States (Greenhouse:transmarketgroup; internship timing not stated in title; undergrad/BS/MS language found)
 - **TransMarket Group** — [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) — Chicago, Illinois, United States (Greenhouse:transmarketgroup; internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
+- **Trillium** — [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076003007?gh_jid=5076003007) — NYC (Greenhouse:trillium; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
+- **Trillium** — [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) — Chicago (Greenhouse:trillium; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
+- **Trillium** — [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076067007?gh_jid=5076067007) — Miami (Greenhouse:trillium; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **Virtu Financial** — [2027 Internship - Quant Research (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) — New York (Greenhouse:virtu; internship timing not stated in title; undergrad/BS/MS language found)
 - **Virtu Financial** — [2027 Internship - Quantitative Strategist and Research Intern](https://job-boards.greenhouse.io/virtu/jobs/8631180002) — Dublin, Ireland (Greenhouse:virtu; internship timing not stated in title; undergrad/BS/MS language found)
 - **Virtu Financial** — [2027 Internship - Quantitative Trading ](https://job-boards.greenhouse.io/virtu/jobs/8547254002) — Dublin, Ireland (Greenhouse:virtu; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
@@ -157,10 +160,10 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Boerboel Trading** — checked Greenhouse:boerboeltrading (2)
 - **Boulder Hill Capital Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Brevan Howard** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Bridgewater Associates** — checked Greenhouse:bridgewater89 (20)
+- **Bridgewater Associates** — checked Greenhouse:bridgewater89 (22)
 - **Cantor Fitzgerald** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Capital Fund Management** — checked Lever:capital (40)
-- **Capital Markets Trading** — checked Lever:capital (40)
+- **Capital Fund Management** — checked Lever:capital (41)
+- **Capital Markets Trading** — checked Lever:capital (41)
 - **Capstone** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Capula** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Caxton Associates** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -206,8 +209,8 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Laurion Capital Management** — checked Greenhouse:laurioncapitalmanagement (0)
 - **Lord Abbett** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Lynx Asset Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Mako** — checked Greenhouse:mako (7)
-- **Man Group** — checked Greenhouse:mangroup (55)
+- **Mako** — checked Greenhouse:mako (6)
+- **Man Group** — checked Greenhouse:mangroup (56)
 - **Mana Partners** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Marquette Partners** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Marshall Wace** — checked Greenhouse:marshallwace (1)
@@ -259,7 +262,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Vector Trading** — checked Ashby:vector (6)
 - **Verition Fund Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Volant Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Voleon Group** — checked Lever:voleon (0); Ashby:voleon (57)
+- **Voleon Group** — checked Lever:voleon (0); Ashby:voleon (55)
 - **Weiss Asset Management** — checked Greenhouse:weissassetmanagement (1)
 - **Musket** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **BP** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -278,4 +281,3 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **XR Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **XTX Markets** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Wizard Quant** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Trillium** — checked Greenhouse:trillium (3)
