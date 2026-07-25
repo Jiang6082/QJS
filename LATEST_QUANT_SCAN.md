@@ -1,26 +1,24 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-07-25T01:44:19.392Z
+Last updated: 2026-07-25T15:31:56.923Z
 
 ## Summary
 
 - Companies searched: 366
 - Career pages checked: 486
-- Current retained roles: 264
-- New stable job URLs since previous scan: 3
+- Current retained roles: 265
+- New stable job URLs since previous scan: 1
 - No longer present since previous scan: 0
-- Matching-role firms: 37
+- Matching-role firms: 38
 - Confirmed no open postings: 3
 - Openings but no matching role: 49
-- Could not fully verify: 213
+- Could not fully verify: 212
 
 ## New Roles Since Previous Scan
 
-### North America (3)
+### North America (0)
 
-- **BlackEdge Capital** - [Quantitative Developer Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) - Chicago
-- **PDT Partners** - [Summer 2027 Software Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) - New York, NY
-- **PDT Partners** - [Summer 2027 Systems Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) - New York, NY
+_None._
 
 ### Europe (0)
 
@@ -50,9 +48,9 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **Da Vinci Trading** - [Quant Trading Intern (May 2027) - Da Vinci Trading | Built In](https://builtin.com/job/quant-trading-intern-may-2027/8098013) - Location not listed
 
 ## No Longer Present
 

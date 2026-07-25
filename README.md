@@ -2,7 +2,7 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-07-25 &nbsp;•&nbsp; **264 open roles** &nbsp;•&nbsp; **3 new today**
+> **Last scan:** 2026-07-25 &nbsp;•&nbsp; **265 open roles** &nbsp;•&nbsp; **1 new today**
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -12,21 +12,19 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 _Scan date: 2026-07-25_
 
-**3** new stable job postings since the previous scan:
+**1** new stable job posting since the previous scan:
 
-**North America**
+**Remote / Unspecified**
 
-- **BlackEdge Capital** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) — Chicago
-- **PDT Partners** — [Summer 2027 Software Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) — New York, NY
-- **PDT Partners** — [Summer 2027 Systems Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) — New York, NY
+- **Da Vinci Trading** — [Quant Trading Intern (May 2027) - Da Vinci Trading \| Built In](https://builtin.com/job/quant-trading-intern-may-2027/8098013)
 
 ---
 
 ## 📋 All Roles Available
 
-**264** open internship roles, grouped by region. Click a title to open the official posting.
+**265** open internship roles, grouped by region. Click a title to open the official posting.
 
-**Regions:** [North America (144)](#north-america) · [Europe (44)](#europe) · [Asia (56)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (9)](#global--multiple-regions) · [Remote / Unspecified (6)](#remote--unspecified)
+**Regions:** [North America (144)](#north-america) · [Europe (44)](#europe) · [Asia (56)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (9)](#global--multiple-regions) · [Remote / Unspecified (7)](#remote--unspecified)
 
 ### North America
 
@@ -337,8 +335,9 @@ _Scan date: 2026-07-25_
 ### Remote / Unspecified
 
 <details>
-<summary><strong>6 roles</strong> — click to expand</summary>
+<summary><strong>7 roles</strong> — click to expand</summary>
 
+- **Da Vinci Trading** — [Quant Trading Intern (May 2027) - Da Vinci Trading \| Built In](https://builtin.com/job/quant-trading-intern-may-2027/8098013)
 - **Deutsche Bank** — [Internship - Technology Process Analysis (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474) — Milano Bicocca Calendario 3
 - **J.P. Morgan** — [Asset Management Summer Analyst Program](https://careers.jpmorgan.com/US/en/students/programs/asset-management-summer-analyst) — Varies by open location
 - **J.P. Morgan** — [Markets Summer Analyst Program](https://careers.jpmorgan.com/us/en/students/programs/markets-summer-analyst) — Varies by open location

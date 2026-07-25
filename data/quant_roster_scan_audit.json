@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-25T01:48:02.267Z",
-  "scanStartedAt": "2026-07-25T01:44:19.392Z",
+  "generatedAt": "2026-07-25T15:35:28.569Z",
+  "scanStartedAt": "2026-07-25T15:31:56.923Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
-    "matching-role-found": 37,
+    "matching-role-found": 38,
     "confirmed-no-open-postings": 3,
     "confirmed-openings-no-matching-role": 49,
-    "could-not-fully-verify": 213
+    "could-not-fully-verify": 212
   },
   "companies": [
     {
@@ -894,7 +894,7 @@
       "careerPages": [
         "https://blackeaglefg.com/stock-market-job/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1593,7 +1593,7 @@
       "sourceRosterNames": [
         "Da Vinci Trading"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://davincitrading.com/job/graduate-trader/"
       ],
@@ -2064,7 +2064,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 29,
+      "jobsSeen": 28,
       "relevantInternships": 0
     },
     {
@@ -2410,7 +2410,7 @@
         "https://job-boards.greenhouse.io/radixuniversity",
         "https://job-boards.greenhouse.io/radixexperienced"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 4,
       "jobsSeen": 23,
       "relevantInternships": 2

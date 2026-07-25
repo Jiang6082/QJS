@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-25T01:44:13.600Z",
+  "scannedAt": "2026-07-25T15:31:42.720Z",
   "results": [
     {
       "company": "Jane Street",
@@ -1210,7 +1210,7 @@
       "boards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 56
+          "count": 57
         }
       ],
       "matches": []

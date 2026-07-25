@@ -1,6 +1,6 @@
 # Quant Internship Open Roles Scan
 
-Scanned: 2026-07-25T01:44:13.600Z
+Scanned: 2026-07-25T15:31:42.720Z
 Companies deduplicated: 169
 Open relevant roles found: 130
 
@@ -213,7 +213,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Lord Abbett** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Lynx Asset Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Mako** — checked Greenhouse:mako (6)
-- **Man Group** — checked Greenhouse:mangroup (56)
+- **Man Group** — checked Greenhouse:mangroup (57)
 - **Mana Partners** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Marquette Partners** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Marshall Wace** — checked Greenhouse:marshallwace (1)
