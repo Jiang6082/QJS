@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-24T16:39:07.913Z",
-  "scanStartedAt": "2026-07-24T16:35:17.690Z",
+  "generatedAt": "2026-07-25T01:48:02.267Z",
+  "scanStartedAt": "2026-07-25T01:44:19.392Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
-    "matching-role-found": 36,
+    "matching-role-found": 37,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 50,
+    "confirmed-openings-no-matching-role": 49,
     "could-not-fully-verify": 213
   },
   "companies": [
@@ -156,8 +156,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 5,
-      "relevantInternships": 1
+      "jobsSeen": 7,
+      "relevantInternships": 2
     },
     {
       "company": "Bracebridge Capital",
@@ -759,7 +759,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 177,
+      "jobsSeen": 178,
       "relevantInternships": 16
     },
     {
@@ -941,7 +941,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 12,
+      "jobsSeen": 11,
       "relevantInternships": 0
     },
     {
@@ -993,7 +993,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 230,
+      "jobsSeen": 231,
       "relevantInternships": 8
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 30,
+      "jobsSeen": 29,
       "relevantInternships": 0
     },
     {
@@ -2333,7 +2333,7 @@
       "sourceRosterNames": [
         "PDT Partners"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://job-boards.greenhouse.io/pdtpartners?error=true",
         "https://job-boards.greenhouse.io/pdtpartners/jobs/3914106",
@@ -2343,8 +2343,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 12,
-      "relevantInternships": 0
+      "jobsSeen": 14,
+      "relevantInternships": 2
     },
     {
       "company": "Premonition",
@@ -2453,7 +2453,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 55,
+      "jobsSeen": 56,
       "relevantInternships": 1
     },
     {
@@ -3946,7 +3946,7 @@
         "https://walleyecapital.com/careers",
         "https://job-boards.greenhouse.io/walleyecapital-external-fulltime"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 24,
       "relevantInternships": 8
@@ -4149,7 +4149,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 4,
+      "jobsSeen": 6,
       "relevantInternships": 2
     },
     {
@@ -4191,7 +4191,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 100,
+      "jobsSeen": 99,
       "relevantInternships": 5
     },
     {

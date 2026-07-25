@@ -1,26 +1,26 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-07-24T16:35:17.690Z
+Last updated: 2026-07-25T01:44:19.392Z
 
 ## Summary
 
 - Companies searched: 366
 - Career pages checked: 486
-- Current retained roles: 261
-- New stable job URLs since previous scan: 4
+- Current retained roles: 264
+- New stable job URLs since previous scan: 3
 - No longer present since previous scan: 0
-- Matching-role firms: 36
+- Matching-role firms: 37
 - Confirmed no open postings: 3
-- Openings but no matching role: 50
+- Openings but no matching role: 49
 - Could not fully verify: 213
 
 ## New Roles Since Previous Scan
 
 ### North America (3)
 
-- **Trillium** - [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076003007?gh_jid=5076003007) - NYC
-- **Trillium** - [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) - Chicago
-- **Trillium** - [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076067007?gh_jid=5076067007) - Miami
+- **BlackEdge Capital** - [Quantitative Developer Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) - Chicago
+- **PDT Partners** - [Summer 2027 Software Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) - New York, NY
+- **PDT Partners** - [Summer 2027 Systems Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) - New York, NY
 
 ### Europe (0)
 
@@ -50,9 +50,9 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **Deutsche Bank** - [Internship - Technology Process Analysis (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474) - Milano Bicocca Calendario 3
+_None._
 
 ## No Longer Present
 

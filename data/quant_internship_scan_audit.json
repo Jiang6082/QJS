@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-24T16:35:02.995Z",
+  "scannedAt": "2026-07-25T01:44:13.600Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -204,7 +204,7 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:point72",
-          "count": 230
+          "count": 231
         },
         {
           "source": "Ashby:cubist",
@@ -215,7 +215,7 @@
           "count": 0
         }
       ],
-      "jobsSeen": 231,
+      "jobsSeen": 232,
       "relevantInternships": 7
     },
     {
@@ -380,11 +380,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:blackedgecapital",
-          "count": 5
+          "count": 7
         }
       ],
-      "jobsSeen": 5,
-      "relevantInternships": 1
+      "jobsSeen": 7,
+      "relevantInternships": 2
     },
     {
       "company": "Bluefin Capital Management",
@@ -431,10 +431,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:bridgewater89",
-          "count": 22
+          "count": 19
         }
       ],
-      "jobsSeen": 22,
+      "jobsSeen": 19,
       "relevantInternships": 0
     },
     {
@@ -448,10 +448,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 41
+          "count": 40
         }
       ],
-      "jobsSeen": 41,
+      "jobsSeen": 40,
       "relevantInternships": 0
     },
     {
@@ -459,10 +459,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 41
+          "count": 40
         }
       ],
-      "jobsSeen": 41,
+      "jobsSeen": 40,
       "relevantInternships": 0
     },
     {
@@ -838,14 +838,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:jumptrading",
-          "count": 96
+          "count": 97
         },
         {
           "source": "Ashby:jump",
           "count": 3
         }
       ],
-      "jobsSeen": 99,
+      "jobsSeen": 100,
       "relevantInternships": 21
     },
     {
@@ -1026,11 +1026,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:pdtpartners",
-          "count": 12
+          "count": 14
         }
       ],
-      "jobsSeen": 12,
-      "relevantInternships": 0
+      "jobsSeen": 14,
+      "relevantInternships": 2
     },
     {
       "company": "Peak6",
@@ -1161,10 +1161,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:schonfeld",
-          "count": 55
+          "count": 56
         }
       ],
-      "jobsSeen": 55,
+      "jobsSeen": 56,
       "relevantInternships": 1
     },
     {
@@ -1230,14 +1230,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:sunrise",
-          "count": 21
+          "count": 20
         },
         {
           "source": "Ashby:sunrise",
           "count": 13
         }
       ],
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -1397,14 +1397,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:voloridgeinvestmentmanagement",
-          "count": 4
+          "count": 6
         },
         {
           "source": "HiringThing:voloridge-investment-management",
           "count": 0
         }
       ],
-      "jobsSeen": 4,
+      "jobsSeen": 6,
       "relevantInternships": 2
     },
     {
@@ -1522,10 +1522,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:worldquant",
-          "count": 100
+          "count": 99
         }
       ],
-      "jobsSeen": 100,
+      "jobsSeen": 99,
       "relevantInternships": 6
     },
     {
