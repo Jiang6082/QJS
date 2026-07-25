@@ -1,6 +1,6 @@
 # Quant Internship Open Roles Scan
 
-Scanned: 2026-07-25T15:31:42.720Z
+Scanned: 2026-07-25T15:41:53.949Z
 Companies deduplicated: 169
 Open relevant roles found: 130
 

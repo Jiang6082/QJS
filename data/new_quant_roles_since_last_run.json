@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-07-25T15:35:28.647Z",
-  "previousScanAt": "2026-07-25T01:44:19.392Z",
-  "currentScanAt": "2026-07-25T15:31:56.923Z",
-  "previousRows": 264,
-  "currentRows": 265,
-  "added": [
+  "generatedAt": "2026-07-25T15:45:45.428Z",
+  "previousScanAt": "2026-07-25T15:31:56.923Z",
+  "currentScanAt": "2026-07-25T15:41:58.537Z",
+  "previousRows": 265,
+  "currentRows": 264,
+  "added": [],
+  "removed": [
     {
       "Company": "Da Vinci Trading",
       "Title": "Quant Trading Intern (May 2027) - Da Vinci Trading | Built In",
@@ -15,6 +16,5 @@
       "Notes": "Mar 4, 2026 &#0183;&#32;Da Vinci Trading is hiring for a Quant Trading Intern (May 2027) in Amsterdam, NLD. Find more details about the job and how to apply at Built In.",
       "Region": "Remote / Unspecified"
     }
-  ],
-  "removed": []
+  ]
 }

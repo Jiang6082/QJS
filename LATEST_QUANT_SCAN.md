@@ -1,18 +1,18 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-07-25T15:31:56.923Z
+Last updated: 2026-07-25T15:41:58.537Z
 
 ## Summary
 
 - Companies searched: 366
 - Career pages checked: 486
-- Current retained roles: 265
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 0
-- Matching-role firms: 38
+- Current retained roles: 264
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 1
+- Matching-role firms: 37
 - Confirmed no open postings: 3
 - Openings but no matching role: 49
-- Could not fully verify: 212
+- Could not fully verify: 213
 
 ## New Roles Since Previous Scan
 
@@ -48,13 +48,13 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **Da Vinci Trading** - [Quant Trading Intern (May 2027) - Da Vinci Trading | Built In](https://builtin.com/job/quant-trading-intern-may-2027/8098013) - Location not listed
+_None._
 
 ## No Longer Present
 
-_None._
+- **Da Vinci Trading** - [Quant Trading Intern (May 2027) - Da Vinci Trading | Built In](https://builtin.com/job/quant-trading-intern-may-2027/8098013) - Location not listed
 
 ## Full Reports
 

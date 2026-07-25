@@ -1,8 +1,8 @@
 # Quant Internship Open Roles Scan v2
 
-Scanned: 2026-07-25T15:31:56.923Z
+Scanned: 2026-07-25T15:41:58.537Z
 Companies searched: 366
-Rows/leads retained: 265
+Rows/leads retained: 264
 
 Scope: original quant company list plus adjacent systematic/quant asset managers, large asset managers, and bank strats/quant-style programs. Target roles include quant, trading, research, software, engineering, and strategy internships. The scan checks saved company career pages first, then official ATS findings from v1, then broader web-discovered postings.
 
@@ -298,9 +298,8 @@ _None._
 - **Point72** - [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) - London, Paris, Hong Kong, Tokyo - Confirmed official posting (Career page Greenhouse:point72): career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=7297657002 | internship timing not stated in title | Job Description This is an opportunity for students and researchers of advanced data modeling and statistical learning methods to apply these techniques to market prediction and systematic trading. Job Responsibilities Pre-process (validate, clean, normalize, reduce dimension) very large data sets for model estimation and event studies Identify features and relationships useful for the predictive modeling of market dynamics Desirable Candidates Undergraduate, MS, or PhD candidates in finance, computer science, mathematics, physics, or other quantitative discipline Programming in any of the following: C++, Java, C#, MATLAB, R, Python, or Perl Strong analytical and quantitative skills Demonstrated interest in financial markets and systematic...
 - **Point72** - [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) - New York, London, or Paris - Confirmed official posting (Career page Greenhouse:point72): career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=7297666002 | internship timing not stated in title | Job Description We are seeking a small number of highly talented interns to assist in the development, optimization, and monitoring of our production trading platform and research infrastructure. Interns will work on small, highly collaborative teams. Desirable Candidates Undergraduate or graduate candidates in computer science or engineering Significant experience in Python, C++, C, or Java Serious interest in systems programming (e.g. Linux kernel development, compilers, embedded systems, networking, file systems, debuggers) In-depth understanding of how userland programs run on Linux and interact with the kernel Some basic knowledge of Git, databases (e.g. MySQL), and web development frameworks is a plus Clear, concise, and proactive co...
 
-### Remote / Unspecified (7)
+### Remote / Unspecified (6)
 
-- **Da Vinci Trading** - [Quant Trading Intern (May 2027) - Da Vinci Trading | Built In](https://builtin.com/job/quant-trading-intern-may-2027/8098013) - Aggregator/web lead; verify on official site (Web-discovered posting/lead): Mar 4, 2026 &#0183;&#32;Da Vinci Trading is hiring for a Quant Trading Intern (May 2027) in Amsterdam, NLD. Find more details about the job and how to apply at Built In.
 - **Deutsche Bank** - [Internship - Technology Process Analysis (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474) - Milano Bicocca Calendario 3 - Confirmed official posting (Career page Workday:db/DBWebsite): career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Yesterday | R0429474
 - **J.P. Morgan** - [Asset Management Summer Analyst Program](https://careers.jpmorgan.com/US/en/students/programs/asset-management-summer-analyst) - Varies by open location - Official broad program; check currently open locations (Official program page): JPM page says interns research, analyze, and develop investment strategies and models; useful for quant asset-management track.
 - **J.P. Morgan** - [Markets Summer Analyst Program](https://careers.jpmorgan.com/us/en/students/programs/markets-summer-analyst) - Varies by open location - Official broad program; check currently open locations (Official program page): JPM page describes work on market strategies, complex mathematical models, machine learning techniques, and trading simulations.
@@ -462,6 +461,7 @@ The company was searched, but no official source was successfully enumerated; ab
 - D2X
 - DSV Fund
 - DWF Labs
+- Da Vinci Trading
 - Daler Trading
 - Danske Commodities
 - Deep Blue Capital

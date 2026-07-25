@@ -383,7 +383,7 @@ function isRelevantResult(title, snippet, url) {
   if (negativeSignal.test(text) && !/\bBS\/MS|Bachelor|undergrad|undergraduate|master/i.test(text)) return false;
   if (/linkedin\.com/i.test(url) && !/linkedin\.com\/jobs\//i.test(url)) return false;
   if (nonSoftwareSignal.test(text) && !/\bsoftware|developer|engineer|technology|swe|programming|platform|backend|frontend|full[- ]stack|infrastructure|sre|devops|machine learning engineer|data engineer|fpga/i.test(text)) return false;
-  if (/reddit\.com|wikipedia\.org|\.edu(?:\/|$)|pdf$|youtube\.com|facebook\.com|wallstreetoasis\.com|thewallstreetquants\.com/i.test(url)) return false;
+  if (/reddit\.com|wikipedia\.org|\.edu(?:\/|$)|pdf$|youtube\.com|facebook\.com|wallstreetoasis\.com|thewallstreetquants\.com|builtin\.com/i.test(url)) return false;
   if (/\binterview\b/i.test(title) || /\bjobs$/i.test(title) || /search job openings/i.test(text) || /hedge funds hiring graduates and interns/i.test(title)) return false;
   return true;
 }

@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-07-25T15:31:56.923Z",
+  "searchedAt": "2026-07-25T15:41:58.537Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -2281,14 +2281,8 @@
         "workday": []
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Greenhouse:mw-tech-grad",
-          "jobsSeen": 2,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 2,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -2953,8 +2947,8 @@
       "company": "Radix Trading",
       "pageUrl": "https://www.radixeng.com/careers",
       "resolvedUrl": "https://www.radixeng.com/careers",
-      "pageOk": false,
-      "pageStatus": 429,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -6759,7 +6753,7 @@
     {
       "company": "Putnam Investments",
       "pageUrl": "https://www.putnam.com/careers/",
-      "resolvedUrl": "https://www.franklintempletoncareers.com/",
+      "resolvedUrl": "https://www.putnam.com/careers/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -6768,7 +6762,9 @@
         "ashby": [],
         "workday": []
       },
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "oracle"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -8071,8 +8067,8 @@
       "company": "Black Eagle Financial Group",
       "pageUrl": "https://blackeaglefg.com/stock-market-job/",
       "resolvedUrl": "https://blackeaglefg.com/stock-market-job/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],

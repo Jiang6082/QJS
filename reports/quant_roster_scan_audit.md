@@ -1,10 +1,10 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-07-25T15:31:56.923Z
+Scan started: 2026-07-25T15:41:58.537Z
 Source roster entries: 303
 Canonical companies after aliases: 302
 
-## Matching Roles Found (38)
+## Matching Roles Found (37)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -25,12 +25,11 @@ Canonical companies after aliases: 302
 | Hudson River Trading | 2/2 pages live | [link](https://www.hudsonrivertrading.com/careers/) [link](https://www.hudsonrivertrading.com/careers/job/) |
 | Jane Street | 5/5 pages live | [link](https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads) [link](https://www.janestreet.com/join-jane-street/open-roles/) [link](https://www.janestreet.com/join-jane-street/overview/) [link](https://www.janestreet.com/join-jane-street/apply/8092062002/) [link](https://job-boards.greenhouse.io/janestreet/jobs/7967227002) |
 | Flow Traders | 1/1 pages live | [link](https://www.flowtraders.com/careers) |
-| Da Vinci Trading | 1/1 pages live | [link](https://davincitrading.com/job/graduate-trader/) |
 | Group One Trading | 1/1 pages live | [link](https://www.group1.com/careers/) |
 | Jump Trading | 1/1 pages live | [link](https://www.jumptrading.com/careers/) |
 | IMC Trading | 3/3 pages live | [link](https://job-boards.greenhouse.io/imc/jobs/4597351101) [link](https://www.imc.com/us/careers/) [link](https://www.imc.com/ap/careers/) |
 | PDT Partners | 4/5 pages live | [link](https://job-boards.greenhouse.io/pdtpartners?error=true) [link](https://job-boards.greenhouse.io/pdtpartners/jobs/3914106) [link](https://www.pdtpartners.com/careers/) [link](https://pdtpartners.com/careers) [link](https://job-boards.greenhouse.io/pdtpartners) |
-| Radix Trading | 2/4 pages live | [link](https://www.radix-trading.com/careers/) [link](https://www.radixeng.com/careers) [link](https://job-boards.greenhouse.io/radixuniversity) [link](https://job-boards.greenhouse.io/radixexperienced) |
+| Radix Trading | 3/4 pages live | [link](https://www.radix-trading.com/careers/) [link](https://www.radixeng.com/careers) [link](https://job-boards.greenhouse.io/radixuniversity) [link](https://job-boards.greenhouse.io/radixexperienced) |
 | Schonfeld | 2/2 pages live | [link](https://job-boards.greenhouse.io/schonfeld?error=true) [link](https://www.schonfeld.com/careers/) |
 | Susquehanna International Group | 4/4 pages live | [link](https://careers.sig.com/) [link](https://careers-sig.icims.com/jobs/intro) [link](https://sig.com/careers/) [link](https://careers-sig.icims.com/jobs/intro?mobile=true&needsRedirect=false) |
 | Morgan Stanley | 4/4 pages live | [link](https://www.morganstanley.com/careers/career-opportunities-search) [link](https://www.morganstanley.com/people-opportunities/students-graduates) [link](https://www.morganstanley.com/careers/career-opportunities-search/) [link](https://morganstanley.eightfold.ai/careers?source=mscom) |
@@ -109,7 +108,7 @@ Canonical companies after aliases: 302
 | Voleon Group | 3/4 pages live | [link](https://jobs.ashbyhq.com/voleon) [link](https://jobs.lever.co/voleon/) [link](https://www.voleon.com/careers/) [link](https://www.voleon.com/jobs/) |
 | Xantium | 1/1 pages live | [link](https://job-boards.greenhouse.io/xantium?gh_src=Trackr) |
 
-## Could Not Fully Verify (212)
+## Could Not Fully Verify (213)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -158,7 +157,7 @@ Canonical companies after aliases: 302
 | Arrowstreet Capital | 1/1 pages live | [link](https://www.arrowstreetcapital.com/professional-careers/) |
 | B2C2 | 1/1 pages live | [link](https://www.b2c2.com/join-b2c2/careers) |
 | Barak Capital | 1/1 pages live | [link](https://barakmarketmaking.com/careers/) |
-| Black Eagle Financial Group | 0/1 pages live | [link](https://blackeaglefg.com/stock-market-job/) |
+| Black Eagle Financial Group | 1/1 pages live | [link](https://blackeaglefg.com/stock-market-job/) |
 | Boston Energy Trading and Marketing | 1/1 pages live | [link](https://www.betm.com/careers) |
 | CTS Global Equity Group | 2/2 pages live | [link](https://www.ctsglobalgroup.com/) [link](https://www.ctsglobalgroup.com/internship) |
 | Capstone | 3/3 pages live | [link](https://capstonedc.com/about/careers/) [link](https://www.capstone.jobs/) [link](https://capstonedc.wd501.myworkdayjobs.com/Capstone) |
@@ -195,6 +194,7 @@ Canonical companies after aliases: 302
 | Jerpoint Capital | no saved page attempted | none |
 | KeyQuant | no saved page attempted | none |
 | League Trading | 1/1 pages live | [link](https://www.theleaguecorp.com/opportunities.php) |
+| Da Vinci Trading | 1/1 pages live | [link](https://davincitrading.com/job/graduate-trader/) |
 | Diameter Capital Partners | no saved page attempted | none |
 | Dymon Asia | 1/1 pages live | [link](https://www.dymonasia.com/) |
 | Entropy Trading Group | no saved page attempted | none |

@@ -1,11 +1,11 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-07-25T01:44:19.392Z
-Current scan: 2026-07-25T15:31:56.923Z
-Previous rows: 264
-Current rows: 265
-New stable job URLs: 1
-No longer present: 0
+Previous scan: 2026-07-25T15:31:56.923Z
+Current scan: 2026-07-25T15:41:58.537Z
+Previous rows: 265
+Current rows: 264
+New stable job URLs: 0
+No longer present: 1
 
 ## New Roles By Region
 
@@ -41,10 +41,10 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **Da Vinci Trading** - [Quant Trading Intern (May 2027) - Da Vinci Trading | Built In](https://builtin.com/job/quant-trading-intern-may-2027/8098013) - Aggregator/web lead; verify on official site (Web-discovered posting/lead): Mar 4, 2026 &#0183;&#32;Da Vinci Trading is hiring for a Quant Trading Intern (May 2027) in Amsterdam, NLD. Find more details about the job and how to apply at Built In.
+_None._
 
 ## No Longer Present
 
-_None._
+- **Da Vinci Trading** - [Quant Trading Intern (May 2027) - Da Vinci Trading | Built In](https://builtin.com/job/quant-trading-intern-may-2027/8098013)
