@@ -104,6 +104,79 @@ const markdown = [
 ].join("\n");
 await fs.writeFile("reports/new_quant_roles_since_last_run.md", markdown, "utf8");
 
+// --- Persistent closed/removed-role archive ---
+// Each role that disappears between two scans is recorded once (keyed by URL),
+// with the last scan that still saw it open and the scan that first saw it gone.
+// The true close time lies between those two timestamps.
+const closedHistoryPath = "data/closed_roles_history.json";
+let closedHistory = [];
+try {
+  const parsed = JSON.parse(await fs.readFile(closedHistoryPath, "utf8"));
+  if (Array.isArray(parsed)) closedHistory = parsed;
+} catch {}
+const closedByUrl = new Map(closedHistory.map((entry) => [stableUrl(entry.URL), entry]));
+
+// Annotate any previously-closed role that is open again in the current scan.
+for (const row of current.rows || []) {
+  const entry = closedByUrl.get(stableUrl(row.URL));
+  if (entry && !entry.reopenedAt) entry.reopenedAt = current.searchedAt;
+}
+
+// Record newly-detected closures (first time we see a given URL disappear).
+let newlyClosed = 0;
+for (const row of removed) {
+  const key = stableUrl(row.URL);
+  if (closedByUrl.has(key)) continue;
+  const entry = {
+    Company: row.Company,
+    Title: row.Title,
+    Location: row.Location || "",
+    Region: row.Region || regionForLocation(row.Location),
+    URL: row.URL,
+    Source: row.Source || "",
+    Status: row.Status || "",
+    lastSeenOpenAt: previous.searchedAt,
+    detectedClosedAt: current.searchedAt,
+  };
+  closedHistory.push(entry);
+  closedByUrl.set(key, entry);
+  newlyClosed += 1;
+}
+
+// Most-recently-closed first.
+closedHistory.sort((a, b) => String(b.detectedClosedAt).localeCompare(String(a.detectedClosedAt)));
+await fs.writeFile(closedHistoryPath, `${JSON.stringify(closedHistory, null, 2)}\n`, "utf8");
+
+const closedByDay = new Map();
+for (const entry of closedHistory) {
+  const day = String(entry.detectedClosedAt).slice(0, 10) || "unknown";
+  if (!closedByDay.has(day)) closedByDay.set(day, []);
+  closedByDay.get(day).push(entry);
+}
+const closedDays = [...closedByDay.keys()].sort((a, b) => b.localeCompare(a));
+const closedMarkdown = [
+  "# Closed / Removed Roles History",
+  "",
+  `Total closures recorded: ${closedHistory.length}`,
+  `Last updated: ${current.searchedAt}`,
+  "",
+  "Each role below was present in an earlier scan and absent in a later one. \"Detected closed\" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.",
+  "",
+  "## Closures By Date Detected",
+  "",
+  ...closedDays.flatMap((day) => [
+    `### ${day} (${closedByDay.get(day).length})`,
+    "",
+    ...closedByDay.get(day).map((entry) => {
+      const loc = entry.Location ? ` - ${entry.Location}` : "";
+      const reopened = entry.reopenedAt ? ` — _reopened ${String(entry.reopenedAt).slice(0, 10)}_` : "";
+      return `- **${entry.Company}** - [${entry.Title}](${entry.URL})${loc}${reopened}`;
+    }),
+    "",
+  ]),
+].join("\n");
+await fs.writeFile("reports/closed_roles_history.md", closedMarkdown, "utf8");
+
 const trackerMarkdown = [
   "# Current Quant Roles Not In Historical Tracker",
   "",
@@ -124,3 +197,4 @@ await fs.writeFile("data/current_quant_roles_not_in_tracker.json", `${JSON.strin
 }, null, 2)}\n`, "utf8");
 
 console.log(`new-role report: previous=${report.previousRows} current=${report.currentRows} added=${added.length} removed=${removed.length} notInHistoricalTracker=${notInTracker.length}`);
+console.log(`closed-role archive: total=${closedHistory.length} newlyClosed=${newlyClosed}`);
