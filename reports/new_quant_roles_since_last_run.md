@@ -1,11 +1,11 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-07-25T15:31:56.923Z
-Current scan: 2026-07-25T15:41:58.537Z
-Previous rows: 265
-Current rows: 264
+Previous scan: 2026-07-25T18:16:34.334Z
+Current scan: 2026-07-26T15:38:23.331Z
+Previous rows: 264
+Current rows: 258
 New stable job URLs: 0
-No longer present: 1
+No longer present: 6
 
 ## New Roles By Region
 
@@ -47,4 +47,9 @@ _None._
 
 ## No Longer Present
 
-- **Da Vinci Trading** - [Quant Trading Intern (May 2027) - Da Vinci Trading | Built In](https://builtin.com/job/quant-trading-intern-may-2027/8098013)
+- **IMC Trading** - [2027 - FPGA Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101)
+- **IMC Trading** - [2027 - Quant Research Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860277101)
+- **IMC Trading** - [2027 - Software Engineering Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860319101)
+- **T. Rowe Price** - [2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718)
+- **T. Rowe Price** - [2027 Quantitative Equity Investing Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699)
+- **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677)

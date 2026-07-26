@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-25T15:41:53.949Z",
+  "scannedAt": "2026-07-26T15:38:16.458Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -809,11 +809,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 153
+          "count": 150
         }
       ],
-      "jobsSeen": 153,
-      "relevantInternships": 10
+      "jobsSeen": 150,
+      "relevantInternships": 7
     },
     {
       "company": "Jacobs Levy Equity Management",

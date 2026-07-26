@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-07-25T15:41:58.537Z",
+  "searchedAt": "2026-07-26T15:38:23.331Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -375,7 +375,6 @@
     "Albert Quant Trading Club",
     "Aureas Finance",
     "Coding Test Firm",
-    "Armada Technologies",
     "Automaton Trading LLC",
     "Consolidated Trading",
     "Aquion",
@@ -2109,12 +2108,12 @@
       "boards": [
         {
           "source": "Greenhouse:imc",
-          "jobsSeen": 153,
-          "relevantInternships": 10
+          "jobsSeen": 150,
+          "relevantInternships": 7
         }
       ],
-      "jobsSeen": 153,
-      "relevantInternships": 10
+      "jobsSeen": 150,
+      "relevantInternships": 7
     },
     {
       "company": "IMC Trading",
@@ -2281,8 +2280,14 @@
         "workday": []
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Greenhouse:mw-tech-grad",
+          "jobsSeen": 2,
+          "relevantInternships": 0
+        }
+      ],
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -2905,25 +2910,17 @@
       "company": "Qube Research & Technologies",
       "pageUrl": "https://www.qube-rt.com/careers/",
       "resolvedUrl": "https://www.qube-rt.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
-        "greenhouse": [
-          "quberesearchandtechnologies"
-        ],
+        "greenhouse": [],
         "lever": [],
         "ashby": [],
         "workday": []
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Greenhouse:quberesearchandtechnologies",
-          "jobsSeen": 210,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 210,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3437,8 +3434,8 @@
       "company": "Valkyrie Trading",
       "pageUrl": "https://www.valkyrietrading.com/careers/",
       "resolvedUrl": "https://www.valkyrietrading.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -5142,11 +5139,11 @@
       "boards": [
         {
           "source": "Workday:blackrock/BlackRock_Professional",
-          "jobsSeen": 272,
+          "jobsSeen": 270,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 272,
+      "jobsSeen": 270,
       "relevantInternships": 0
     },
     {
@@ -5316,11 +5313,11 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1036,
+          "jobsSeen": 1028,
           "relevantInternships": 7
         }
       ],
-      "jobsSeen": 1036,
+      "jobsSeen": 1028,
       "relevantInternships": 7
     },
     {
@@ -5345,11 +5342,11 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1036,
+          "jobsSeen": 1028,
           "relevantInternships": 7
         }
       ],
-      "jobsSeen": 1036,
+      "jobsSeen": 1028,
       "relevantInternships": 7
     },
     {
@@ -5374,11 +5371,11 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1036,
+          "jobsSeen": 1028,
           "relevantInternships": 7
         }
       ],
-      "jobsSeen": 1036,
+      "jobsSeen": 1028,
       "relevantInternships": 7
     },
     {
@@ -6383,11 +6380,11 @@
       "boards": [
         {
           "source": "Workday:mq/CareersatMQ",
-          "jobsSeen": 22,
+          "jobsSeen": 19,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 22,
+      "jobsSeen": 19,
       "relevantInternships": 0
     },
     {
@@ -6753,7 +6750,7 @@
     {
       "company": "Putnam Investments",
       "pageUrl": "https://www.putnam.com/careers/",
-      "resolvedUrl": "https://www.putnam.com/careers/",
+      "resolvedUrl": "https://www.franklintempletoncareers.com/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -6762,9 +6759,7 @@
         "ashby": [],
         "workday": []
       },
-      "unsupportedAts": [
-        "oracle"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -6920,11 +6915,11 @@
         {
           "source": "Workday:troweprice/TRowePrice",
           "jobsSeen": 40,
-          "relevantInternships": 3
+          "relevantInternships": 0
         }
       ],
       "jobsSeen": 40,
-      "relevantInternships": 3
+      "relevantInternships": 0
     },
     {
       "company": "T. Rowe Price",
@@ -6953,11 +6948,11 @@
         {
           "source": "Workday:troweprice/TRowePrice",
           "jobsSeen": 40,
-          "relevantInternships": 3
+          "relevantInternships": 0
         }
       ],
       "jobsSeen": 40,
-      "relevantInternships": 3
+      "relevantInternships": 0
     },
     {
       "company": "T. Rowe Price",
@@ -6987,7 +6982,7 @@
         {
           "source": "Workday:troweprice/TRowePrice",
           "jobsSeen": 40,
-          "relevantInternships": 3
+          "relevantInternships": 0
         },
         {
           "source": "Workday:troweprice/TRowePriceInternational",
@@ -6996,7 +6991,7 @@
         }
       ],
       "jobsSeen": 69,
-      "relevantInternships": 3
+      "relevantInternships": 0
     },
     {
       "company": "T. Rowe Price",
@@ -7026,7 +7021,7 @@
         {
           "source": "Workday:troweprice/TRowePrice",
           "jobsSeen": 40,
-          "relevantInternships": 3
+          "relevantInternships": 0
         },
         {
           "source": "Workday:troweprice/TRowePriceInternational",
@@ -7035,7 +7030,7 @@
         }
       ],
       "jobsSeen": 69,
-      "relevantInternships": 3
+      "relevantInternships": 0
     },
     {
       "company": "UBS",
@@ -7662,6 +7657,23 @@
         "lever": [
           "v0"
         ],
+        "ashby": [],
+        "workday": []
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Armada Technologies",
+      "pageUrl": "http://www.armadausa.com/careers",
+      "resolvedUrl": "https://www.armadausa.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [],
+        "lever": [],
         "ashby": [],
         "workday": []
       },
@@ -8357,8 +8369,8 @@
       "company": "Deep Blue Capital",
       "pageUrl": "https://deepbluecap.com/vacancies/",
       "resolvedUrl": "https://deepbluecap.com/vacancies/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -8581,8 +8593,8 @@
       "company": "Da Vinci Trading",
       "pageUrl": "https://davincitrading.com/job/graduate-trader/",
       "resolvedUrl": "https://davincitrading.com/job/graduate-trader/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -9841,8 +9853,8 @@
       "company": "Matrix Executions",
       "pageUrl": "https://matrixexecutions.com/careers/",
       "resolvedUrl": "https://matrixexecutions.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],

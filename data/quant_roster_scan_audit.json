@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T15:45:45.342Z",
-  "scanStartedAt": "2026-07-25T15:41:58.537Z",
+  "generatedAt": "2026-07-26T15:42:03.713Z",
+  "scanStartedAt": "2026-07-26T15:38:23.331Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
@@ -350,9 +350,11 @@
         "Armada Technologies"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "http://www.armadausa.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -1329,7 +1331,7 @@
       "careerPages": [
         "https://deepbluecap.com/vacancies/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1597,7 +1599,7 @@
       "careerPages": [
         "https://davincitrading.com/job/graduate-trader/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2094,8 +2096,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 153,
-      "relevantInternships": 10
+      "jobsSeen": 150,
+      "relevantInternships": 7
     },
     {
       "company": "Independent Trading Group (ITG)",
@@ -2508,7 +2510,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 0,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -2692,9 +2694,9 @@
       "careerPages": [
         "https://www.qube-rt.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 210,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3111,7 +3113,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3508,7 +3510,7 @@
       "careerPages": [
         "https://www.valkyrietrading.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
