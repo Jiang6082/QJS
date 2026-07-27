@@ -1,14 +1,14 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-07-26T15:38:23.331Z
+Last updated: 2026-07-27T14:00:48.434Z
 
 ## Summary
 
 - Companies searched: 366
 - Career pages checked: 487
-- Current retained roles: 258
-- New stable job URLs since previous scan: 0
-- No longer present since previous scan: 6
+- Current retained roles: 257
+- New stable job URLs since previous scan: 1
+- No longer present since previous scan: 2
 - Matching-role firms: 37
 - Confirmed no open postings: 3
 - Openings but no matching role: 49
@@ -44,9 +44,9 @@ _None._
 
 _None._
 
-### Global / Multiple Regions (0)
+### Global / Multiple Regions (1)
 
-_None._
+- **Squarepoint Capital** - [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) - London, Paris, New York, Singapore, Hong Kong
 
 ### Remote / Unspecified (0)
 
@@ -54,12 +54,8 @@ _None._
 
 ## No Longer Present
 
-- **IMC Trading** - [2027 - FPGA Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101) - Amsterdam, Netherlands; Mumbai, India
-- **IMC Trading** - [2027 - Quant Research Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860277101) - Amsterdam, Netherlands; Mumbai, India
-- **IMC Trading** - [2027 - Software Engineering Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860319101) - Mumbai, India
-- **T. Rowe Price** - [2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) - Baltimore, MD
-- **T. Rowe Price** - [2027 Quantitative Equity Investing Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) - Baltimore, MD
-- **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) - 2 Locations
+- **Connor Clark & Lunn** - [Intern, Portfolio Compliance](https://job-boards.greenhouse.io/cclfg/jobs/4233121009) - Gurugram, Haryana, India
+- **Deutsche Bank** - [Internship - Technology Process Analysis (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474) - Milano Bicocca Calendario 3
 
 ## Full Reports
 

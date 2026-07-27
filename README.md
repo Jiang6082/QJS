@@ -2,7 +2,7 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-07-26 &nbsp;•&nbsp; **258 open roles** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **8 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-07-27 &nbsp;•&nbsp; **257 open roles** &nbsp;•&nbsp; **1 new today** &nbsp;•&nbsp; **10 closed** ([history](reports/closed_roles_history.md))
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -10,17 +10,21 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-07-26_
+_Scan date: 2026-07-27_
 
-_No new roles detected in the latest scan._
+**1** new stable job posting since the previous scan:
+
+**Global / Multiple Regions**
+
+- **Squarepoint Capital** — [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) — London, Paris, New York, Singapore, Hong Kong
 
 ---
 
 ## 📋 All Roles Available
 
-**258** open internship roles, grouped by region. Click a title to open the official posting.
+**257** open internship roles, grouped by region. Click a title to open the official posting.
 
-**Regions:** [North America (144)](#north-america) · [Europe (44)](#europe) · [Asia (55)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (7)](#global--multiple-regions) · [Remote / Unspecified (3)](#remote--unspecified)
+**Regions:** [North America (144)](#north-america) · [Europe (44)](#europe) · [Asia (54)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (8)](#global--multiple-regions) · [Remote / Unspecified (2)](#remote--unspecified)
 
 ### North America
 
@@ -229,7 +233,7 @@ _No new roles detected in the latest scan._
 ### Asia
 
 <details>
-<summary><strong>55 roles</strong> — click to expand</summary>
+<summary><strong>54 roles</strong> — click to expand</summary>
 
 - **AlphaGrep** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002) — Mumbai
 - **AlphaGrep** — [Quantitative Trading Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622004002) — India
@@ -243,7 +247,6 @@ _No new roles detected in the latest scan._
 - **Barclays** — [Sales, Trading and Structuring Summer Internship Programme 2027 Singapore](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Singapore_JR-0000117562) — Singapore, Marina Bay Financial Tower 2
 - **Citadel** — [Quantitative Research Analyst Intern - BS/MS (Asia)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) — Hong Kong, Singapore
 - **Citadel Securities** — [Quantitative Research Analyst Intern - BS/MS (Asia)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) — Hong Kong, Singapore
-- **Connor Clark & Lunn** — [Intern, Portfolio Compliance](https://job-boards.greenhouse.io/cclfg/jobs/4233121009) — Gurugram, Haryana, India
 - **DRW** — [Quantitative Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) — Singapore
 - **DRW** — [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/8014915) — Singapore
 - **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/8014919) — Singapore
@@ -313,7 +316,7 @@ _No new roles detected in the latest scan._
 ### Global / Multiple Regions
 
 <details>
-<summary><strong>7 roles</strong> — click to expand</summary>
+<summary><strong>8 roles</strong> — click to expand</summary>
 
 - **Aquatic Capital** — [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London
 - **Capula** — [2027 Trading and Research Summer Internship](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/) — London / New York / Singapore / Hong Kong
@@ -322,15 +325,15 @@ _No new roles detected in the latest scan._
 - **Hudson River Trading** — [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) — Austin, TX, United States; Chicago, Illinois, United States; New York, NY, United States; Singapore
 - **Point72** — [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) — London, Paris, Hong Kong, Tokyo
 - **Point72** — [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) — New York, London, or Paris
+- **Squarepoint Capital** — [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) — London, Paris, New York, Singapore, Hong Kong
 
 </details>
 
 ### Remote / Unspecified
 
 <details>
-<summary><strong>3 roles</strong> — click to expand</summary>
+<summary><strong>2 roles</strong> — click to expand</summary>
 
-- **Deutsche Bank** — [Internship - Technology Process Analysis (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474) — Milano Bicocca Calendario 3
 - **J.P. Morgan** — [Asset Management Summer Analyst Program](https://careers.jpmorgan.com/US/en/students/programs/asset-management-summer-analyst) — Varies by open location
 - **J.P. Morgan** — [Markets Summer Analyst Program](https://careers.jpmorgan.com/us/en/students/programs/markets-summer-analyst) — Varies by open location
 
@@ -376,7 +379,7 @@ The publish step rebuilds `LATEST_QUANT_SCAN.md`, commits changed scanner files 
 | [reports/quant_internship_roles_scan_v2.csv](reports/quant_internship_roles_scan_v2.csv) | Full current role list (spreadsheet) |
 | [reports/current_quant_roles_not_in_tracker.md](reports/current_quant_roles_not_in_tracker.md) | Current roles absent from the older application tracker |
 | [reports/quant_roster_scan_audit.md](reports/quant_roster_scan_audit.md) | 303-firm roster split into confirmed vs. unverifiable states |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (8 so far) |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (10 so far) |
 | [company_career_pages.json](company_career_pages.json) | Seeded career-page database |
 | [quant_firm_roster.json](quant_firm_roster.json) | Complete 303-entry firm list + canonical aliases |
 

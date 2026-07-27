@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-26T15:38:16.458Z",
+  "scannedAt": "2026-07-27T14:00:20.872Z",
   "results": [
     {
       "company": "Jane Street",
@@ -451,7 +451,7 @@
       "boards": [
         {
           "source": "Lever:capital",
-          "count": 40
+          "count": 43
         }
       ],
       "matches": []
@@ -461,7 +461,7 @@
       "boards": [
         {
           "source": "Lever:capital",
-          "count": 40
+          "count": 43
         }
       ],
       "matches": []
@@ -595,7 +595,7 @@
       "boards": [
         {
           "source": "Greenhouse:engineersgate",
-          "count": 7
+          "count": 8
         }
       ],
       "matches": [
@@ -659,7 +659,7 @@
       "boards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 38
+          "count": 39
         }
       ],
       "matches": [
@@ -845,7 +845,7 @@
       "boards": [
         {
           "source": "Greenhouse:imc",
-          "count": 150
+          "count": 149
         }
       ],
       "matches": [
@@ -1477,7 +1477,7 @@
       "boards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 210
+          "count": 209
         }
       ],
       "matches": [
@@ -1581,7 +1581,7 @@
       "boards": [
         {
           "source": "Greenhouse:schonfeld",
-          "count": 56
+          "count": 55
         }
       ],
       "matches": [
@@ -1621,10 +1621,20 @@
       "boards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 83
+          "count": 84
         }
       ],
-      "matches": []
+      "matches": [
+        {
+          "company": "Squarepoint Capital",
+          "source": "Greenhouse:squarepointcapital",
+          "title": "Intern Quant Researcher",
+          "department": "Investment",
+          "location": "London, Paris, New York, Singapore, Hong Kong",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
+          "content": "Please only apply to the one job you feel best fits your skillset and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.&nbsp; &nbsp; Overview of Intern Quant Researcher Position: Research and implement strategies within the firm’s automated trading framework. Analyze large data sets using advanced statistical methods to identify trading opportunities. Develop a strong understanding of market structure of various exchanges and asset classes. Typical Day of Intern Quant Researcher: Primary focus throughout the day is on researching and implementing trading ideas. Skill Set Required For Position: Quantitative background - includes degrees in Mathematics, Statistics, Econometrics, Financial Engineering, Operations Research, Computer Science and Physics. Programming proficiency with at least one major programming or scripting language (e.g. C++, Java, Python). Strong communication skills and ability to work well with colleagues across multiple regions. Ability to work well under pressure. &nbsp; The minimum base salary for this role is $150,000 if located in New York. &nbsp;This expectation is based on available information at the time of posting. &nbsp;This role may be eligible for discretionary bonuses, which could constitute a significant portion of total compensation.&nbsp; This role may also be eligible for benefits, such as health, dental, and other wellness plans, as well as 401(k) contributions.&nbsp; Successful candidates’ compensation and benefits will be determined in consideration of various factors. &nbsp; #LI-DNP"
+        }
+      ]
     },
     {
       "company": "Stevens Capital Management",
@@ -1719,7 +1729,7 @@
       "boards": [
         {
           "source": "Greenhouse:towerresearchcapital",
-          "count": 77
+          "count": 76
         }
       ],
       "matches": [

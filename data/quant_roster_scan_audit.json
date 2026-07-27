@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T15:42:03.713Z",
-  "scanStartedAt": "2026-07-26T15:38:23.331Z",
+  "generatedAt": "2026-07-27T14:05:12.668Z",
+  "scanStartedAt": "2026-07-27T14:00:48.434Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
@@ -1043,14 +1043,14 @@
       "sourceRosterNames": [
         "Deutsche Bank (quant/systematic)"
       ],
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://db.wd3.myworkdayjobs.com/DBWebsite/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 40,
-      "relevantInternships": 1
+      "relevantInternships": 0
     },
     {
       "company": "Domeyard LP",
@@ -1091,7 +1091,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 1
     },
     {
@@ -1425,7 +1425,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 38,
+      "jobsSeen": 39,
       "relevantInternships": 1
     },
     {
@@ -1451,7 +1451,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/gsrmarkets/jobs/4421987101"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 5,
       "relevantInternships": 0
@@ -1774,7 +1774,7 @@
       "careerPages": [
         "https://www.group1.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1860,7 +1860,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantInternships": 0
     },
     {
@@ -2096,7 +2096,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 150,
+      "jobsSeen": 149,
       "relevantInternships": 7
     },
     {
@@ -2455,7 +2455,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 56,
+      "jobsSeen": 55,
       "relevantInternships": 1
     },
     {
@@ -2911,7 +2911,7 @@
       "careerPages": [
         "https://www.osfmanagement.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3391,7 +3391,7 @@
       "sourceRosterNames": [
         "Squarepoint Capital"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.squarepoint-capital.com/open-opportunities"
       ],
@@ -3861,7 +3861,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 77,
+      "jobsSeen": 76,
       "relevantInternships": 3
     },
     {
@@ -3920,7 +3920,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 34,
+      "jobsSeen": 32,
       "relevantInternships": 0
     },
     {

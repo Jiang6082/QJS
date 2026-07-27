@@ -1,5 +1,27 @@
 [
   {
+    "Company": "Connor Clark & Lunn",
+    "Title": "Intern, Portfolio Compliance",
+    "Location": "Gurugram, Haryana, India",
+    "Region": "Asia",
+    "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4233121009",
+    "Source": "Career page Greenhouse:cclfg",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-27T00:45:29.857Z",
+    "detectedClosedAt": "2026-07-27T14:00:48.434Z"
+  },
+  {
+    "Company": "Deutsche Bank",
+    "Title": "Internship - Technology Process Analysis (f/m/x)",
+    "Location": "Milano Bicocca Calendario 3",
+    "Region": "Remote / Unspecified",
+    "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474",
+    "Source": "Career page Workday:db/DBWebsite",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-27T00:45:29.857Z",
+    "detectedClosedAt": "2026-07-27T14:00:48.434Z"
+  },
+  {
     "Company": "IMC Trading",
     "Title": "2027 - FPGA Intern - IIT Bombay",
     "Location": "Amsterdam, Netherlands; Mumbai, India",

@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-26T15:38:16.458Z",
+  "scannedAt": "2026-07-27T14:00:20.872Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -448,10 +448,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 40
+          "count": 43
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 43,
       "relevantInternships": 0
     },
     {
@@ -459,10 +459,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 40
+          "count": 43
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 43,
       "relevantInternships": 0
     },
     {
@@ -602,10 +602,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:engineersgate",
-          "count": 7
+          "count": 8
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 1
     },
     {
@@ -663,10 +663,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 38
+          "count": 39
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 39,
       "relevantInternships": 2
     },
     {
@@ -809,10 +809,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 150
+          "count": 149
         }
       ],
-      "jobsSeen": 150,
+      "jobsSeen": 149,
       "relevantInternships": 7
     },
     {
@@ -1114,10 +1114,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 210
+          "count": 209
         }
       ],
-      "jobsSeen": 210,
+      "jobsSeen": 209,
       "relevantInternships": 7
     },
     {
@@ -1161,10 +1161,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:schonfeld",
-          "count": 56
+          "count": 55
         }
       ],
-      "jobsSeen": 56,
+      "jobsSeen": 55,
       "relevantInternships": 1
     },
     {
@@ -1196,11 +1196,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 83
+          "count": 84
         }
       ],
-      "jobsSeen": 83,
-      "relevantInternships": 0
+      "jobsSeen": 84,
+      "relevantInternships": 1
     },
     {
       "company": "Stevens Capital Management",
@@ -1285,10 +1285,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:towerresearchcapital",
-          "count": 77
+          "count": 76
         }
       ],
-      "jobsSeen": 77,
+      "jobsSeen": 76,
       "relevantInternships": 3
     },
     {

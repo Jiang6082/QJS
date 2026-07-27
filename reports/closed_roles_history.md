@@ -1,11 +1,16 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 8
-Last updated: 2026-07-26T15:38:23.331Z
+Total closures recorded: 10
+Last updated: 2026-07-27T14:00:48.434Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-07-27 (2)
+
+- **Connor Clark & Lunn** - [Intern, Portfolio Compliance](https://job-boards.greenhouse.io/cclfg/jobs/4233121009) - Gurugram, Haryana, India
+- **Deutsche Bank** - [Internship - Technology Process Analysis (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474) - Milano Bicocca Calendario 3
 
 ### 2026-07-26 (6)
 
