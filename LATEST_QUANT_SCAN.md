@@ -1,6 +1,6 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-07-28T03:53:31.527Z
+Last updated: 2026-07-28T16:40:43.388Z
 
 ## Summary
 
@@ -8,11 +8,11 @@ Last updated: 2026-07-28T03:53:31.527Z
 - Career pages checked: 488
 - Current retained roles: 256
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 1
+- No longer present since previous scan: 0
 - Matching-role firms: 37
 - Confirmed no open postings: 3
-- Openings but no matching role: 48
-- Could not fully verify: 214
+- Openings but no matching role: 49
+- Could not fully verify: 213
 
 ## New Roles Since Previous Scan
 
@@ -54,7 +54,7 @@ _None._
 
 ## No Longer Present
 
-- **Flow Traders** - [Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/7100637) - Hong Kong
+_None._
 
 ## Full Reports
 

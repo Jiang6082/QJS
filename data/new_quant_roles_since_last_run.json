@@ -1,20 +1,9 @@
 {
-  "generatedAt": "2026-07-28T03:57:16.565Z",
-  "previousScanAt": "2026-07-27T17:17:37.434Z",
-  "currentScanAt": "2026-07-28T03:53:31.527Z",
-  "previousRows": 257,
+  "generatedAt": "2026-07-28T16:44:39.722Z",
+  "previousScanAt": "2026-07-28T16:03:45.856Z",
+  "currentScanAt": "2026-07-28T16:40:43.388Z",
+  "previousRows": 256,
   "currentRows": 256,
   "added": [],
-  "removed": [
-    {
-      "Company": "Flow Traders",
-      "Title": "Trading Intern",
-      "Location": "Hong Kong",
-      "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/7100637",
-      "Source": "Greenhouse:flowtraders",
-      "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2026, 2027; undergrad/BS/MS language found",
-      "Region": "Asia"
-    }
-  ]
+  "removed": []
 }

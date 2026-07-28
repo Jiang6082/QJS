@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-07-28T03:53:31.527Z
+Scan started: 2026-07-28T16:40:43.388Z
 Source roster entries: 303
 Canonical companies after aliases: 302
 
@@ -8,7 +8,7 @@ Canonical companies after aliases: 302
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
-| AlphaGrep | 1/2 pages live | [link](https://www.alpha-grep.com/career/) [link](https://job-boards.greenhouse.io/alphagrepsecurities) |
+| AlphaGrep | 2/2 pages live | [link](https://www.alpha-grep.com/career/) [link](https://job-boards.greenhouse.io/alphagrepsecurities) |
 | BlackEdge Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/blackedgecapital) |
 | Chicago Trading Company | 2/2 pages live | [link](https://www.chicagotrading.com/careers/) [link](https://job-boards.greenhouse.io/ctccampusboard) |
 | D. E. Shaw | 3/3 pages live | [link](https://www.deshaw.com/careers?source=campus) [link](https://www.deshaw.com/careers) [link](https://www.deshawindia.com/careers) |
@@ -54,7 +54,7 @@ Canonical companies after aliases: 302
 | Maverick Derivatives | 1/1 pages live | [link](https://job-boards.greenhouse.io/maverickderivatives?error=true) |
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
 
-## Confirmed Openings, No Matching Role (48)
+## Confirmed Openings, No Matching Role (49)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -68,6 +68,7 @@ Canonical companies after aliases: 302
 | Akuna Capital | 2/2 pages live | [link](https://akunacapital.com/careers/) [link](https://job-boards.greenhouse.io/optionstrading201course/jobs/7394582) |
 | Ansatz Capital | 1/1 pages live | [link](https://jobs.lever.co/ansatzcapital?by=location) |
 | Clear Street | 1/1 pages live | [link](https://job-boards.greenhouse.io/clearstreet?gh_src=bdd2c3261) |
+| Cubist | 1/1 pages live | [link](https://careers.point72.com/) |
 | Deutsche Bank | 1/1 pages live | [link](https://db.wd3.myworkdayjobs.com/DBWebsite/) |
 | ExodusPoint | 1/1 pages live | [link](https://job-boards.greenhouse.io/exoduspoint) |
 | Eclipse Trading | 1/1 pages live | [link](https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002) |
@@ -107,7 +108,7 @@ Canonical companies after aliases: 302
 | Voleon Group | 3/4 pages live | [link](https://jobs.ashbyhq.com/voleon) [link](https://jobs.lever.co/voleon/) [link](https://www.voleon.com/careers/) [link](https://www.voleon.com/jobs/) |
 | Xantium | 1/1 pages live | [link](https://job-boards.greenhouse.io/xantium?gh_src=Trackr) |
 
-## Could Not Fully Verify (214)
+## Could Not Fully Verify (213)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -162,7 +163,6 @@ Canonical companies after aliases: 302
 | Capstone | 3/3 pages live | [link](https://capstonedc.com/about/careers/) [link](https://www.capstone.jobs/) [link](https://capstonedc.wd501.myworkdayjobs.com/Capstone) |
 | Chengdu ZhaoYu Investment | no saved page attempted | none |
 | Cor Capital | no saved page attempted | none |
-| Cubist | 1/1 pages live | [link](https://careers.point72.com/) |
 | DSV Fund | no saved page attempted | none |
 | Danske Commodities | 1/1 pages live | [link](https://danskecommodities.com/join-us) |
 | Domeyard LP | 1/1 pages live | [link](https://careers.smartrecruiters.com/DomeyardLP?location=Boston&page=0&search=) |
@@ -196,7 +196,7 @@ Canonical companies after aliases: 302
 | League Trading | 1/1 pages live | [link](https://www.theleaguecorp.com/opportunities.php) |
 | Da Vinci Trading | 0/1 pages live | [link](https://davincitrading.com/job/graduate-trader/) |
 | Diameter Capital Partners | no saved page attempted | none |
-| Dymon Asia | 0/1 pages live | [link](https://www.dymonasia.com/) |
+| Dymon Asia | 1/1 pages live | [link](https://www.dymonasia.com/) |
 | Entropy Trading Group | no saved page attempted | none |
 | Euclidean Technologies | 1/1 pages live | [link](https://www.euclidean.com/careers) |
 | Fenix One | 1/1 pages live | [link](https://www.fenix-one.com/careers) |
@@ -274,7 +274,7 @@ Canonical companies after aliases: 302
 | Sovereign Blue Capital | no saved page attempted | none |
 | Los Angeles Capital Management | 1/1 pages live | [link](https://lacapm.com/careers) |
 | Market Wizards | 1/1 pages live | [link](https://marketwizards.com/careers/) |
-| Matrix Executions | 0/1 pages live | [link](https://matrixexecutions.com/careers/) |
+| Matrix Executions | 1/1 pages live | [link](https://matrixexecutions.com/careers/) |
 | Mercuria Energy America | 1/1 pages live | [link](https://mercuria.com/careers/) |
 | Millennium | 2/2 pages live | [link](https://mlp.wd5.myworkdayjobs.com/mlpcareers) [link](https://www.mlp.com/careers/) |
 | Mingshi / Minghong | 2/2 pages live | [link](https://join.mhfunds.com/index) [link](https://www.mhfunds.com/) |

@@ -4,14 +4,14 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "scan:v1": "node ./run-quant-scan.mjs --mode=v1",
-    "scan:v2": "node ./run-quant-scan.mjs --mode=v2",
-    "scan:v2:publish": "node ./run-quant-scan.mjs --mode=v2 --publish",
-    "scan:broad": "node ./run-quant-scan.mjs --mode=broad",
-    "scan:swe": "node ./run-quant-scan.mjs --mode=swe",
-    "scan:all": "node ./run-quant-scan.mjs --mode=all",
-    "scan:all:publish": "node ./run-quant-scan.mjs --mode=all --publish",
-    "publish": "node ./publish_scan_results.mjs"
+    "scan:v1": "node ./scripts/run-quant-scan.mjs --mode=v1",
+    "scan:v2": "node ./scripts/run-quant-scan.mjs --mode=v2",
+    "scan:v2:publish": "node ./scripts/run-quant-scan.mjs --mode=v2 --publish",
+    "scan:broad": "node ./scripts/run-quant-scan.mjs --mode=broad",
+    "scan:swe": "node ./scripts/run-quant-scan.mjs --mode=swe",
+    "scan:all": "node ./scripts/run-quant-scan.mjs --mode=all",
+    "scan:all:publish": "node ./scripts/run-quant-scan.mjs --mode=all --publish",
+    "publish": "node ./scripts/publish_scan_results.mjs"
   },
   "engines": {
     "node": ">=18"

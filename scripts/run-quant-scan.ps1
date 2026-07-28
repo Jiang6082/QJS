@@ -31,18 +31,19 @@ if (-not (Test-Path -LiteralPath $SourceDir)) {
   throw "SourceDir not found: $SourceDir"
 }
 
-$SourceDir = (Resolve-Path -LiteralPath $SourceDir).Path
+$ScriptDir = (Resolve-Path -LiteralPath $SourceDir).Path
+$RootDir = Split-Path -Parent $ScriptDir
 $NodePath = Resolve-Node -RequestedNodePath $NodePath
 
-$stateDir = Join-Path $SourceDir ".scan-state"
+$stateDir = Join-Path $RootDir ".scan-state"
 New-Item -ItemType Directory -Force -Path $stateDir | Out-Null
-New-Item -ItemType Directory -Force -Path (Join-Path $SourceDir "reports") | Out-Null
-New-Item -ItemType Directory -Force -Path (Join-Path $SourceDir "data") | Out-Null
+New-Item -ItemType Directory -Force -Path (Join-Path $RootDir "reports") | Out-Null
+New-Item -ItemType Directory -Force -Path (Join-Path $RootDir "data") | Out-Null
 
 $previousRunFile = Join-Path $stateDir "previous_scan_time.txt"
 $currentRunStartedAt = (Get-Date).ToUniversalTime().ToString("o")
-if (Test-Path -LiteralPath (Join-Path $SourceDir "data/us_financial_services_internship_scan_raw.json")) {
-  $raw = Get-Content -LiteralPath (Join-Path $SourceDir "data/us_financial_services_internship_scan_raw.json") -Raw | ConvertFrom-Json
+if (Test-Path -LiteralPath (Join-Path $RootDir "data/us_financial_services_internship_scan_raw.json")) {
+  $raw = Get-Content -LiteralPath (Join-Path $RootDir "data/us_financial_services_internship_scan_raw.json") -Raw | ConvertFrom-Json
   if ($raw.searchedAt) {
     Set-Content -LiteralPath $previousRunFile -Value $raw.searchedAt -NoNewline
   }
@@ -50,25 +51,25 @@ if (Test-Path -LiteralPath (Join-Path $SourceDir "data/us_financial_services_int
   Set-Content -LiteralPath $previousRunFile -Value $currentRunStartedAt -NoNewline
 }
 
-Push-Location -LiteralPath $SourceDir
+Push-Location -LiteralPath $RootDir
 try {
   Write-Host "Using Node: $NodePath"
   Write-Host "Running scan mode: $Mode"
 
   if ($Mode -eq "v1" -or $Mode -eq "v2" -or $Mode -eq "broad" -or $Mode -eq "all") {
-    & $NodePath ".\scan_quant_internships.mjs"
+    & $NodePath (Join-Path $ScriptDir "scan_quant_internships.mjs")
   }
 
   if ($Mode -eq "v2" -or $Mode -eq "all") {
-    & $NodePath ".\expand_quant_internship_search.mjs"
+    & $NodePath (Join-Path $ScriptDir "expand_quant_internship_search.mjs")
   }
 
   if ($Mode -eq "broad" -or $Mode -eq "all") {
-    & $NodePath ".\expand_us_financial_services_search.mjs"
+    & $NodePath (Join-Path $ScriptDir "expand_us_financial_services_search.mjs")
   }
 
   if ($Mode -eq "swe" -or $Mode -eq "all") {
-    & $NodePath ".\scan_swe_2027_internships.mjs"
+    & $NodePath (Join-Path $ScriptDir "scan_swe_2027_internships.mjs")
   }
 } finally {
   Pop-Location
@@ -76,6 +77,6 @@ try {
 
 Write-Host ""
 Write-Host "Done. Generated CSV, Markdown, raw JSON, and audit JSON files in:"
-Write-Host $SourceDir
+Write-Host $RootDir
 Write-Host "Previous run timestamp saved at:"
 Write-Host $previousRunFile

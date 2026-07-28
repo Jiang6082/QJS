@@ -1,9 +1,9 @@
 import fs from "node:fs/promises";
 
-const rosterPath = "quant_firm_roster.json";
-const seedsPath = "roster_career_page_seeds.json";
-const reviewedPath = "reviewed_career_pages.json";
-const dbPath = "company_career_pages.json";
+const rosterPath = "inputs/quant_firm_roster.json";
+const seedsPath = "inputs/roster_career_page_seeds.json";
+const reviewedPath = "inputs/reviewed_career_pages.json";
+const dbPath = "inputs/company_career_pages.json";
 const auditJsonPath = "data/quant_roster_career_page_audit.json";
 const auditMarkdownPath = "reports/quant_roster_career_page_audit.md";
 

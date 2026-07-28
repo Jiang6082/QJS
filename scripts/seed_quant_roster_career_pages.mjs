@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 
-const rosterPath = "quant_firm_roster.json";
-const dbPath = "company_career_pages.json";
+const rosterPath = "inputs/quant_firm_roster.json";
+const dbPath = "inputs/company_career_pages.json";
 const concurrency = 4;
 const blockedHosts = /(?:linkedin|indeed|glassdoor|ziprecruiter|levels\.fyi|builtin|simplify|tealhq|openquant|efinancialcareers|prosple|jobright|wayup|talent\.com|jooble|careerjet|jobrapido|grabjobs|whatjobs|adzuna|reddit|crunchbase|zoominfo|facebook|instagram|trustedinsight|eujobs|businesstoday)/i;
 const trustedAtsHosts = /(?:greenhouse\.io|lever\.co|ashbyhq\.com|myworkdayjobs\.com|workdayjobs\.com|icims\.com|workable\.com|hiringthing\.com|smartrecruiters\.com|jobvite\.com|applicantpro\.com|eightfold\.ai|tal\.net)$/i;

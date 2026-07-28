@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 
-const roster = JSON.parse(await fs.readFile("quant_firm_roster.json", "utf8"));
-const db = JSON.parse(await fs.readFile("company_career_pages.json", "utf8"));
+const roster = JSON.parse(await fs.readFile("inputs/quant_firm_roster.json", "utf8"));
+const db = JSON.parse(await fs.readFile("inputs/company_career_pages.json", "utf8"));
 const scan = JSON.parse(await fs.readFile("data/quant_internship_roles_scan_v2_raw.json", "utf8"));
 
 const outputJson = "data/quant_roster_scan_audit.json";

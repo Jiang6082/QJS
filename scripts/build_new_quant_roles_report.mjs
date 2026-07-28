@@ -1,5 +1,5 @@
 import fs from "node:fs/promises";
-import { groupedRoleMarkdown, regionForLocation } from "./tools/regions.mjs";
+import { groupedRoleMarkdown, regionForLocation } from "../tools/regions.mjs";
 
 const previousPath = ".scan-state/previous_quant_v2_raw.json";
 const currentPath = "data/quant_internship_roles_scan_v2_raw.json";
@@ -51,7 +51,7 @@ function parseCsv(text = "") {
 
 async function historicalTrackerUrls() {
   const urls = new Set();
-  for (const path of ["internship_tracker.csv", "new_internships_since_june_2026.csv"]) {
+  for (const path of ["inputs/internship_tracker.csv", "inputs/new_internships_since_june_2026.csv"]) {
     try {
       const rows = parseCsv(await fs.readFile(path, "utf8"));
       for (const row of rows) if (row.URL) urls.add(stableUrl(row.URL));

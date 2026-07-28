@@ -157,9 +157,9 @@ _No new roles detected in the latest scan._
 - **Trillium** — [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076067007?gh_jid=5076067007) — Miami
 - **Two Sigma** — [AI Research Scientist - Intern [2027 Summer]](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096) — United States - NY New York
 - **Two Sigma** — [Quantitative Researcher - Intern [2027 Summer]](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-2027-Summer/13945) — United States - NY New York
-- **Virtu Financial** — [2027 Internship - Quant Research (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) — New York
+- **Virtu Financial** — [2027 Internship - Quantitative Researcher (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) — New York
+- **Virtu Financial** — [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) — Austin, TX; Chicago; New York
 - **Virtu Financial** — [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) — Austin, TX; New York
-- **Virtu Financial** — [Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) — Austin, TX; Chicago; New York
 - **Voloridge** — [Quantitative Developer Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) — Jupiter, FL
 - **Voloridge** — [Quantitative Research Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) — Jupiter, FL
 - **Walleye Capital** — [Central Equity Quant Research (CEQR) Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006) — New York, New York
@@ -218,7 +218,7 @@ _No new roles detected in the latest scan._
 - **Susquehanna International Group** — [Quantitative Systematic Trading Internship: Summer 2027](https://careers.sig.com/jobs/10841?lang=en-us) — Dublin, Ireland
 - **Susquehanna International Group** — [Quantitative Trading Internship: Summer 2027](https://careers.sig.com/jobs/11005?lang=en-us) — London, United Kingdom
 - **Susquehanna International Group** — [Quantitative Trading Internship: Summer 2027](https://careers.sig.com/jobs/10839?lang=en-us) — Dublin, Ireland
-- **Virtu Financial** — [2027 Internship - Quantitative Strategist and Research Intern](https://job-boards.greenhouse.io/virtu/jobs/8631180002) — Dublin, Ireland
+- **Virtu Financial** — [2027 Internship - Quantitative Researcher (Master or PhD)](https://job-boards.greenhouse.io/virtu/jobs/8631180002) — Dublin, Ireland
 - **Virtu Financial** — [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002) — Dublin, Ireland
 - **Virtu Financial** — [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) — Dublin, Ireland
 - **Wincent** — [Quantitative Research Internship - Quant Research/Trading - Starting Summer 2027](https://jobs.ashbyhq.com/wincent/984bf12c-8d80-431f-9789-04a9739cfc99) — Bratislava
@@ -360,9 +360,12 @@ The publish step rebuilds `LATEST_QUANT_SCAN.md`, commits changed scanner files 
 
 ## Repo Layout
 
-- **Root** — scanner scripts (`*.mjs`, `run-quant-scan.ps1`), seed inputs (`company_career_pages.json`, `quant_firm_roster.json`, ...), and the [LATEST_QUANT_SCAN.md](LATEST_QUANT_SCAN.md) dashboard.
+- **Root** — just `README.md`, the [LATEST_QUANT_SCAN.md](LATEST_QUANT_SCAN.md) dashboard, `package.json`, and `.gitignore`.
+- **[scripts/](scripts/)** — all scanner code (`*.mjs` and `run-quant-scan.ps1`).
+- **[inputs/](inputs/)** — hand-maintained source data (career-page database, firm roster, trackers).
 - **[reports/](reports/)** — human-readable generated reports (Markdown + CSV).
 - **[data/](data/)** — machine-readable raw/audit JSON artifacts.
+- **[tools/](tools/)** — shared helper modules and optional discovery scripts.
 
 ### Key Files
 
@@ -375,7 +378,7 @@ The publish step rebuilds `LATEST_QUANT_SCAN.md`, commits changed scanner files 
 | [reports/current_quant_roles_not_in_tracker.md](reports/current_quant_roles_not_in_tracker.md) | Current roles absent from the older application tracker |
 | [reports/quant_roster_scan_audit.md](reports/quant_roster_scan_audit.md) | 303-firm roster split into confirmed vs. unverifiable states |
 | [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (11 so far) |
-| [company_career_pages.json](company_career_pages.json) | Seeded career-page database |
-| [quant_firm_roster.json](quant_firm_roster.json) | Complete 303-entry firm list + canonical aliases |
+| [inputs/company_career_pages.json](inputs/company_career_pages.json) | Seeded career-page database |
+| [inputs/quant_firm_roster.json](inputs/quant_firm_roster.json) | Complete 303-entry firm list + canonical aliases |
 
 Generated outputs are intentionally tracked so every clone shares the same baseline. The committed `data/quant_internship_roles_scan_v2_raw.json` is the cross-device baseline for the next comparison.

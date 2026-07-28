@@ -1,9 +1,11 @@
 import fs from "node:fs/promises";
-import { isKnownWrongCareerPage } from "./tools/career-source-guards.mjs";
+import { groupedRoleMarkdown, regionForLocation } from "../tools/regions.mjs";
+import { isKnownWrongCareerPage } from "../tools/career-source-guards.mjs";
 
 const baseCsvPath = "reports/quant_internship_roles_scan.csv";
-const careerPageDbPath = "company_career_pages.json";
-const firmRoster = JSON.parse(await fs.readFile("quant_firm_roster.json", "utf8"));
+const careerPageDbPath = "inputs/company_career_pages.json";
+const firmRosterPath = "inputs/quant_firm_roster.json";
+const firmRoster = JSON.parse(await fs.readFile(firmRosterPath, "utf8"));
 const rosterCompanies = firmRoster.companies.map((company) => firmRoster.aliases?.[company] || company);
 
 const expandedCompanies = [
@@ -52,99 +54,6 @@ const expandedCompanies = [
   "William Blair",
 ];
 
-const broadFinancialServicesCompanies = [
-  "Bank of America",
-  "Wells Fargo",
-  "U.S. Bank",
-  "Truist",
-  "Capital One",
-  "KeyBank",
-  "Citizens Financial Group",
-  "Fifth Third Bank",
-  "Regions Bank",
-  "M&T Bank",
-  "Huntington Bank",
-  "Ally Financial",
-  "Discover Financial Services",
-  "Synchrony",
-  "American Express",
-  "Charles Schwab",
-  "E*TRADE",
-  "Edward Jones",
-  "Raymond James",
-  "LPL Financial",
-  "Interactive Brokers",
-  "Robinhood",
-  "SoFi",
-  "Coinbase",
-  "Stripe",
-  "Plaid",
-  "Chime",
-  "Brex",
-  "Ramp",
-  "Affirm",
-  "Upstart",
-  "PayPal",
-  "Block",
-  "Visa",
-  "Mastercard",
-  "Fiserv",
-  "FIS",
-  "Global Payments",
-  "CME Group",
-  "Cboe",
-  "Nasdaq",
-  "Intercontinental Exchange",
-  "S&P Global",
-  "Moody's",
-  "Morningstar",
-  "MSCI",
-  "FactSet",
-  "Bloomberg",
-  "Franklin Templeton",
-  "MFS Investment Management",
-  "Nuveen",
-  "J.P. Morgan Asset Management",
-  "BNY",
-  "BNY Mellon",
-  "State Street",
-  "Prudential Financial",
-  "MetLife",
-  "New York Life",
-  "Northwestern Mutual",
-  "MassMutual",
-  "Guardian Life",
-  "Pacific Life",
-  "Lincoln Financial",
-  "Principal Financial Group",
-  "The Hartford",
-  "AIG",
-  "Travelers",
-  "Chubb",
-  "Allstate",
-  "State Farm",
-  "Liberty Mutual",
-  "Nationwide",
-  "Progressive",
-  "Berkshire Hathaway",
-  "Markel",
-  "Everest",
-  "Arch Capital",
-  "KKR",
-  "Blackstone",
-  "Apollo Global Management",
-  "Carlyle",
-  "TPG",
-  "Warburg Pincus",
-  "General Atlantic",
-  "Vista Equity Partners",
-  "Thoma Bravo",
-  "Ares Management",
-  "Brookfield Asset Management",
-  "Blue Owl Capital",
-  "Oaktree Capital Management",
-];
-
 const originalCompanies = [
   "Jane Street", "Citadel", "Citadel Securities", "DRW", "Point72", "Cubist", "Hudson River Trading",
   "Five Rings", "Arrowstreet", "3Red Partners", "A Priori", "Akuna Capital", "AlphaGrep", "AlphaSimplex",
@@ -166,62 +75,39 @@ const originalCompanies = [
   "Weiss Asset Management", "Musket", "BP", "Castleton Commodities International", "Equinor", "Gunvor", "Shell", "Talos",
 ];
 
-const companies = [...new Set([...originalCompanies, ...expandedCompanies, ...broadFinancialServicesCompanies, ...rosterCompanies])];
+const companies = [...new Set([...originalCompanies, ...expandedCompanies, ...rosterCompanies])];
 
 const officialDomains = {
   "AQR Capital Management": ["aqr.com", "careers.aqr.com"],
   "Acadian Asset Management": ["acadian-asset.com"],
   AllianceBernstein: ["alliancebernstein.com"],
-  "American Express": ["americanexpress.com"],
-  "Bank of America": ["bankofamerica.com", "careers.bankofamerica.com"],
   BlackRock: ["blackrock.com", "blackrock.tal.net"],
   BlueCove: ["bluecove.com"],
-  BNY: ["bnymellon.com", "bnymellon.eightfold.ai"],
-  "BNY Mellon": ["bnymellon.com", "bnymellon.eightfold.ai"],
   "BNP Paribas": ["group.bnpparibas", "bnpparibas.com"],
   Barclays: ["search.jobs.barclays", "barclays.com"],
   "Bridgewater Associates": ["bridgewater.com"],
-  "Capital One": ["capitalonecareers.com", "capitalone.com"],
-  "Charles Schwab": ["schwabjobs.com", "schwab.com"],
+  Capula: ["capula.com", "apply.workable.com"],
   Citi: ["jobs.citi.com"],
-  "CME Group": ["cmegroup.com"],
-  "Coinbase": ["coinbase.com", "greenhouse.io"],
   "D. E. Shaw": ["deshaw.com", "campus.deshaw.com"],
   "DE Shaw": ["deshaw.com", "campus.deshaw.com"],
   "Dimensional Fund Advisors": ["dimensional.com"],
-  "Discover Financial Services": ["discover.com", "myworkdayjobs.com"],
   "Fidelity Investments": ["fidelity.com", "jobs.fidelity.com"],
-  "Fiserv": ["fiserv.com"],
   "Goldman Sachs": ["goldmansachs.com", "higher.gs.com"],
   "Hudson River Trading": ["hudsonrivertrading.com"],
   "Jane Street": ["janestreet.com"],
-  "Intercontinental Exchange": ["ice.com"],
   "J.P. Morgan": ["jpmorgan.com", "careers.jpmorgan.com"],
-  "J.P. Morgan Asset Management": ["jpmorgan.com", "careers.jpmorgan.com"],
-  "Mastercard": ["mastercard.com"],
-  "MetLife": ["metlife.com"],
   "Morgan Stanley": ["morganstanley.com"],
-  Nasdaq: ["nasdaq.com"],
-  "New York Life": ["newyorklife.com"],
   Optiver: ["optiver.com"],
-  PayPal: ["paypal.com"],
   PGIM: ["pgim.com"],
   PIMCO: ["pimco.com"],
-  "Prudential Financial": ["prudential.com", "pru.wd5.myworkdayjobs.com"],
   Robeco: ["robeco.com"],
-  "S&P Global": ["spglobal.com"],
-  "State Farm": ["statefarm.com"],
   "State Street Global Advisors": ["statestreet.com"],
-  "State Street": ["statestreet.com"],
   "Susquehanna International Group": ["sig.com", "careers.sig.com"],
   "Teza Technologies": ["teza.com"],
-  Visa: ["visa.com"],
   UBS: ["ubs.com"],
-  "U.S. Bank": ["usbank.com"],
   Vanguard: ["vanguardjobs.com", "vanguard.com"],
   "Walleye Capital": ["walleyecapital.com", "job-boards.greenhouse.io"],
   "Wellington Management": ["wellington.com"],
-  "Wells Fargo": ["wellsfargo.com"],
   Voloridge: ["voloridge.com", "voloridge-investment-management.hiringthing.com"],
   Point72: ["point72.com", "careers.point72.com", "boards.greenhouse.io", "job-boards.greenhouse.io"],
   "Weiss Asset Management": ["weissasset.com", "boards.greenhouse.io"],
@@ -238,35 +124,19 @@ const officialDomains = {
 
 const seedCareerPages = {
   "Jane Street": ["https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads"],
+  "Chicago Trading Company": ["https://job-boards.greenhouse.io/ctccampusboard"],
   "Qube Research & Technologies": ["https://www.qube-rt.com/careers/"],
   "Radix Trading": ["https://job-boards.greenhouse.io/radixuniversity"],
   "TransMarket Group": ["https://job-boards.greenhouse.io/transmarketgroup"],
   "Teza Technologies": ["https://www.teza.com/careers/"],
+  Voloridge: ["https://job-boards.greenhouse.io/voloridgeinvestmentmanagement"],
   "Walleye Capital": ["https://job-boards.greenhouse.io/walleyecapital-external-students"],
-  "Bank of America": ["https://careers.bankofamerica.com/en-us/students"],
-  BlackRock: ["https://careers.blackrock.com/early-careers"],
-  "Capital One": ["https://www.capitalonecareers.com/students"],
-  "Charles Schwab": ["https://www.schwabjobs.com/students"],
-  "CME Group": ["https://www.cmegroup.com/careers.html"],
-  Coinbase: ["https://www.coinbase.com/careers/positions"],
-  "D. E. Shaw": ["https://www.deshaw.com/careers?source=campus"],
-  "DE Shaw": ["https://www.deshaw.com/careers?source=campus"],
-  "Fidelity Investments": ["https://jobs.fidelity.com/students"],
-  "Goldman Sachs": ["https://www.goldmansachs.com/careers/students/programs/"],
-  "J.P. Morgan": ["https://careers.jpmorgan.com/us/en/students/programs"],
-  "J.P. Morgan Asset Management": ["https://careers.jpmorgan.com/us/en/students/programs"],
-  Mastercard: ["https://careers.mastercard.com/us/en/early-careers"],
-  "Morgan Stanley": ["https://www.morganstanley.com/careers/career-opportunities-search"],
-  Nasdaq: ["https://www.nasdaq.com/about/careers"],
-  "New York Life": ["https://www.newyorklife.com/careers/students"],
-  PayPal: ["https://paypal.eightfold.ai/careers"],
-  "Prudential Financial": ["https://pru.wd5.myworkdayjobs.com/Prudential_Careers"],
-  "S&P Global": ["https://careers.spglobal.com/jobs"],
-  "State Street": ["https://statestreet.wd1.myworkdayjobs.com/Global"],
-  "U.S. Bank": ["https://careers.usbank.com/students"],
-  Visa: ["https://usa.visa.com/careers.html"],
-  Vanguard: ["https://www.vanguardjobs.com/students-and-recent-graduates/"],
-  "Wells Fargo": ["https://www.wellsfargojobs.com/en/university-programs/"],
+};
+
+const seedAtsTokens = {
+  "Chicago Trading Company": { greenhouse: ["ctccampusboard"] },
+  "Hudson River Trading": { greenhouse: ["wehrtyou"] },
+  "Stevens Capital Management": { greenhouse: ["scm"] },
 };
 
 const aggregatorDomains = [
@@ -292,12 +162,18 @@ const aggregatorDomains = [
   "icims.com",
 ];
 
-const roleSignal = /\b(quant|quantitative|systematic|alpha|research|portfolio|trading|trader|strat|strategy|developer|software|engineer|machine learning|data science|risk|implementation|model|analytics|investment|investing|asset management|wealth management|markets|capital markets|banking|finance|financial|fixed income|equity|equities|credit|actuarial|underwriting|treasury)\b/i;
+const roleSignal = /\b(quant|quantitative|systematic|alpha|research|portfolio|trading|trader|strats?|strategy|strategic|developer|software|engineer|machine learning|data science|risk|implementation|model|analytics)\b/i;
 const internSignal = /\b(intern|internship|summer analyst|summer associate|co-?op|industrial placement)\b/i;
 const yearSignal = /\b(2026|2027|summer)\b/i;
 const negativeSignal = /\b(new grad|new graduate|graduate programme|graduate program|full[- ]time|experienced|senior|principal|director|vp|vice president|phd intern|ph\.d\. intern|doctoral|postdoc|mba)\b/i;
-const nonTargetInternshipTiming = /\b(?:(?:spring|summer|fall|autumn|winter|january|february|march|april|may|june|july|august|september|october|november|december)\s*202[56]|202[56]\s*(?:spring|summer|fall|autumn|winter)|intern(?:ship)?\D{0,15}202[56]|202[56]\D{0,15}intern(?:ship)?)\b/i;
-const veryBroadFinance = /\b(audit|accounting|tax|human resources|marketing|sales intern|business development|compliance|legal)\b/i;
+const veryBroadFinance = /\b(investment banking|wealth management|audit|accounting|tax|human resources|marketing|sales intern|business development|compliance)\b/i;
+const nonTargetInternshipTiming = /\b(?:(?:spring|summer|fall|autumn|winter|january|february|march|april|may|june|july|august|september|october|november|december)\s*202[0-6]|202[0-6]\s*(?:spring|summer|fall|autumn|winter))\b/i;
+const stalePostingDate = /\b(?:datePosted=202[0-5]|(?:jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|sep(?:tember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\s+\d{1,2},\s+202[0-5])\b/i;
+
+function hasNonTargetInternshipTiming(title = "", notes = "") {
+  if (nonTargetInternshipTiming.test(`${title} ${notes}`)) return true;
+  return /\b202[0-6]\b/.test(title) && internSignal.test(title);
+}
 
 function decodeHtml(value = "") {
   return value
@@ -382,10 +258,10 @@ function classifySource(company, url) {
 function isRelevantResult(title, snippet, url) {
   const text = `${title} ${snippet} ${url}`;
   if (!internSignal.test(text) || !roleSignal.test(text)) return false;
-  if (nonTargetInternshipTiming.test(title)) return false;
+  if (hasNonTargetInternshipTiming(title, snippet) || stalePostingDate.test(snippet)) return false;
   if (negativeSignal.test(text) && !/\bBS\/MS|Bachelor|undergrad|undergraduate|master/i.test(text)) return false;
+  if (veryBroadFinance.test(text) && !/\bquant|systematic|research|portfolio implementation|trading|risk|strats?|strategy|strategic|analytics|model|developer|software|machine learning/i.test(text)) return false;
   if (/linkedin\.com/i.test(url) && !/linkedin\.com\/jobs\//i.test(url)) return false;
-  if (veryBroadFinance.test(text) && !/\bquant|systematic|research|portfolio implementation|trading|risk|strat|analytics|model|developer|software|machine learning/i.test(text)) return false;
   if (/reddit\.com|wikipedia\.org|\.edu(?:\/|$)|pdf$|youtube\.com|facebook\.com|wallstreetoasis\.com|thewallstreetquants\.com|builtin\.com/i.test(url)) return false;
   if (/\binterview\b/i.test(title) || /\bjobs$/i.test(title) || /search job openings/i.test(text) || /hedge funds hiring graduates and interns/i.test(title)) return false;
   return true;
@@ -526,6 +402,8 @@ async function ensureCareerPageDb() {
   db.companies ||= {};
   const discoveredAt = new Date().toISOString();
 
+  // Saved pages are visited every run. Discovery is only needed until a company has
+  // at least one page; this keeps the expanded roster practical without weakening scans.
   const companiesNeedingDiscovery = companies.filter((company) => !(db.companies[company]?.careerPages || []).length);
   const discovered = await mapLimit(companiesNeedingDiscovery, 6, async (company) => ({
     company,
@@ -767,12 +645,14 @@ function relevantCareerJob(row) {
   const text = `${row.Title} ${row.Location} ${row.Notes}`.toLowerCase();
   const title = row.Title.toLowerCase();
   const roleText = `${row.Title} ${row.Department || ""}`.toLowerCase();
-  const isIntern = /\b(intern|internship|summer analyst|summer associate|co-?op|industrial placement)\b/.test(title);
-  const hasDomain = /\b(quant|quantitative|systematic|alpha|research|portfolio|trading|trader|strat|strategy|developer|software|engineer|technology|devops|site reliability|sre|infrastructure|investment|investing|asset management|wealth management|markets|capital markets|banking|finance|financial|fixed income|equity|equities|credit|data science|machine learning|risk|implementation|model|analytics|actuarial|underwriting|treasury|fpga)\b/.test(roleText) || /c\+\+/i.test(roleText);
+  const isIntern = /\b(intern|internship|summer analyst|summer associate|co-?op|industrial placement)\b/.test(title)
+    || /^(?:internship|co-op|industrial placement year)\b/i.test((row.Notes || "").trim());
+  const hasDomain = /\b(quant|quantitative|systematic|alpha|research|portfolio|trading|trader|strats?|strategy|strategic|developer|software|engineer|technology|devops|site reliability|sre|infrastructure|data science|machine learning|risk|implementation|model|analytics|fpga)\b/.test(roleText) || /c\+\+/i.test(roleText);
   const blockedEducation = /\b(phd|ph\.d|doctoral|doctorate|postdoc|postdoctoral|mba)\b/.test(title) && !/\b(bs|bachelor|undergrad|undergraduate|master|ms)\b/.test(text);
   const blockedFullTime = /\b(new grad|new graduate|graduate programme|graduate program|full[- ]time|experienced|senior|principal|director|vp|vice president|recruiter|recruitment)\b/.test(title) || (/\bgraduate\b/.test(title) && !/\bintern/.test(title));
-  const blockedTiming = nonTargetInternshipTiming.test(`${row.Title} ${row.Notes || ""}`);
-  return isIntern && hasDomain && !blockedEducation && !blockedFullTime && !blockedTiming;
+  const blockedTiming = hasNonTargetInternshipTiming(row.Title, row.Notes || "");
+  const staleWebLead = /web-discovered|aggregator/i.test(`${row.Source} ${row.Status}`) && stalePostingDate.test(row.Notes || "");
+  return isIntern && hasDomain && !blockedEducation && !blockedFullTime && !blockedTiming && !staleWebLead;
 }
 
 async function scanCareerPage(company, pageUrl) {
@@ -786,6 +666,10 @@ async function scanCareerPage(company, pageUrl) {
   }
   const tokens = extractAtsTokens(searchable);
   const unsupportedAts = detectUnsupportedAts(searchable);
+  const seededTokens = seedAtsTokens[company] || {};
+  tokens.greenhouse = [...new Set([...tokens.greenhouse, ...(seededTokens.greenhouse || [])])];
+  tokens.lever = [...new Set([...tokens.lever, ...(seededTokens.lever || [])])];
+  tokens.ashby = [...new Set([...tokens.ashby, ...(seededTokens.ashby || [])])];
   const boards = [
     ...(await Promise.all(tokens.greenhouse.map((token) => getGreenhouseBoard(company, token, page.url)))),
     ...(await Promise.all(tokens.lever.map((token) => getLeverBoard(company, token, page.url)))),
@@ -853,7 +737,7 @@ function normalizeJaneStreetType(availability = "") {
 
 function relevantJaneStreetStudentJob(job) {
   const roleText = `${job.position} ${job.department}`.toLowerCase();
-  return /\b(quant|quantitative|research|trading|trader|software|engineer|technology|network|machine learning|strategy|product|operations|tools|compilers|fpga)\b/.test(roleText);
+  return /\b(quant|quantitative|research|trading|trader|software|engineer|technology|network|machine learning|strats?|strategy|strategic|product|operations|tools|compilers|fpga)\b/.test(roleText);
 }
 
 async function getJaneStreetStudentRows() {
@@ -896,14 +780,126 @@ async function getJaneStreetStudentRows() {
     }));
 }
 
+async function getDeshawInternRows() {
+  const careerPageUrl = "https://www.deshaw.com/careers/internships";
+  const page = await fetchText(careerPageUrl);
+  if (!page.ok) return [];
+
+  const cardPattern = /<div class="job"[^>]*>[\s\S]*?<p class="category">([\s\S]*?)<\/p>[\s\S]*?<span class="location">([\s\S]*?)<\/span>[\s\S]*?<a[^>]+href="(\/careers\/[^\"]+)"[\s\S]*?<span class="job-display-name">([\s\S]*?)<\/span>/gi;
+  const rowsByUrl = new Map();
+  for (const match of page.text.matchAll(cardPattern)) {
+    const row = {
+      Company: "D. E. Shaw",
+      Title: stripHtml(match[4]),
+      Department: stripHtml(match[1]),
+      Location: stripHtml(match[2]),
+      URL: new URL(match[3], page.url).href,
+      Source: "Official D. E. Shaw internships page",
+      Status: "Confirmed official posting",
+      Notes: `career_page=${careerPageUrl}`,
+    };
+    if (relevantCareerJob(row)) rowsByUrl.set(row.URL, row);
+  }
+
+  return mapLimit([...rowsByUrl.values()], 4, async (row) => {
+    const detail = await fetchText(row.URL);
+    const detailText = detail.ok ? stripHtml(detail.text) : "";
+    return {
+      ...row,
+      Notes: [
+        row.Notes,
+        `department=${row.Department}`,
+        timingMetadata(row.Title, detail.text),
+        detail.ok ? "official detail page checked" : "official detail page could not be fetched",
+        detailText.slice(0, 600),
+      ].filter(Boolean).join(" | "),
+    };
+  }, "deshaw-detail");
+}
+
+async function getTwoSigmaInternRows() {
+  const careerPageUrl = "https://careers.twosigma.com/careers/OpenRoles/";
+  const rowsByUrl = new Map();
+
+  for (let offset = 0; offset < 300; offset += 10) {
+    const pageUrl = `${careerPageUrl}?jobRecordsPerPage=10&jobOffset=${offset}`;
+    const page = await fetchText(pageUrl);
+    if (!page.ok) break;
+
+    const cards = [...page.text.matchAll(/<article class="article article--result"[^>]*>([\s\S]*?)<\/article>/gi)];
+    for (const card of cards) {
+      const link = card[1].match(/<a class="link" href="([^"]+)">([\s\S]*?)<\/a>/i);
+      if (!link) continue;
+      const fields = [...card[1].matchAll(/<span class="paragraph_inner-span">([\s\S]*?)<\/span>/gi)].map((match) => stripHtml(match[1]));
+      const row = {
+        Company: "Two Sigma",
+        Title: stripHtml(link[2]),
+        Department: fields[1] || "",
+        Location: fields[0] || "",
+        URL: decodeHtml(link[1]),
+        Source: "Official Two Sigma careers portal",
+        Status: "Confirmed official posting",
+        Notes: [`career_page=${careerPageUrl}`, fields[1] ? `function=${fields[1]}` : "", fields[2] ? `experience=${fields[2]}` : ""].filter(Boolean).join(" | "),
+      };
+      if (relevantCareerJob(row)) rowsByUrl.set(row.URL, row);
+    }
+
+    if (cards.length < 10) break;
+  }
+
+  return mapLimit([...rowsByUrl.values()], 4, async (row) => {
+    const detail = await fetchText(row.URL);
+    const detailText = detail.ok ? stripHtml(detail.text) : "";
+    return {
+      ...row,
+      Notes: [
+        row.Notes,
+        timingMetadata(row.Title, detail.text),
+        detail.ok ? "official detail page checked" : "official detail page could not be fetched",
+        detailText.slice(0, 600),
+      ].filter(Boolean).join(" | "),
+    };
+  }, "two-sigma-detail");
+}
+
+async function getSigInternRows() {
+  const jobs = [];
+  const limit = 100;
+  for (let page = 1; ; page++) {
+    const response = await fetchText(`https://careers.sig.com/api/jobs?limit=${limit}&page=${page}`);
+    if (!response.ok) break;
+    let payload;
+    try { payload = JSON.parse(response.text); } catch { break; }
+    jobs.push(...(payload.jobs || []).map((entry) => entry.data || {}).filter((job) => job.slug));
+    if (jobs.length >= (payload.totalCount || jobs.length) || (payload.jobs || []).length < limit) break;
+  }
+
+  return jobs.map((job) => ({
+    Company: "Susquehanna International Group",
+    Title: job.title || "",
+    Department: [...(job.tags1 || []), ...(job.tags2 || [])].join(", "),
+    Location: job.full_location || [job.city, job.state, job.country].filter(Boolean).join(", "),
+    URL: `https://careers.sig.com/jobs/${job.slug}?lang=${job.language || "en-us"}`,
+    Source: "Official SIG jobs API",
+    Status: "Confirmed official posting",
+    Notes: [
+      job.posted_date ? `posted=${job.posted_date}` : "",
+      ...(job.tags3 || []),
+      timingMetadata(job.title || "", job.description || ""),
+      stripHtml(job.description || ""),
+    ].filter(Boolean).join(" | "),
+  })).filter(relevantCareerJob);
+}
+
 function companyQueries(company) {
   const quoted = `"${company}"`;
   return [
-    `${quoted} 2027 summer internship finance analyst`,
-    `${quoted} 2027 summer analyst investment markets risk`,
-    `${quoted} 2027 internship asset management trading research`,
-    `${quoted} 2027 software data science intern financial services`,
-    `${quoted} careers students summer 2027 internship`,
+    `${quoted} 2027 internship quantitative research summer analyst`,
+    `${quoted} 2027 summer analyst quant portfolio trading research`,
+    `${quoted} 2026 2027 software developer intern trading quantitative`,
+    `${quoted} careers intern quantitative research portfolio implementation`,
+    `${quoted} 2027 summer strategy intern strategic initiatives`,
+    `${quoted} careers "strategy intern" "summer analyst"`,
   ];
 }
 
@@ -974,8 +970,17 @@ const baseRows = (await readBaseCsv()).map((row) => ({
 const searchedAt = new Date().toISOString();
 const careerPageDb = await ensureCareerPageDb();
 const careerPageScan = await scanCareerPages(careerPageDb);
-const careerPageRows = careerPageScan.rows;
 const janeStreetRows = await getJaneStreetStudentRows();
+const deshawRows = await getDeshawInternRows();
+const twoSigmaRows = await getTwoSigmaInternRows();
+const sigRows = await getSigInternRows();
+const customSourceAudits = [
+  { company: "Jane Street", source: "Official jobs feed", jobsRetained: janeStreetRows.length },
+  { company: "D. E. Shaw", source: "Official internships page", jobsRetained: deshawRows.length },
+  { company: "Two Sigma", source: "Official paginated careers portal", jobsRetained: twoSigmaRows.length },
+  { company: "Susquehanna International Group", source: "Official paginated jobs API", jobsRetained: sigRows.length },
+];
+const careerPageRows = [...careerPageScan.rows, ...janeStreetRows, ...deshawRows, ...twoSigmaRows, ...sigRows];
 const discoveredNested = await mapLimit(companies, 8, async (company) => {
   const companyHits = [];
   const seen = new Set();
@@ -1003,6 +1008,7 @@ const discoveredNested = await mapLimit(companies, 8, async (company) => {
       }
 
       const sourceType = classifySource(company, url);
+      if (sourceType !== "Official posting/page" && !/\b2027\b/.test(`${title} ${notes}`)) continue;
       const confidence = sourceType === "Official posting/page" ? "Likely official; verify application form" : "Aggregator/web lead; verify on official site";
       companyHits.push({
         Company: company,
@@ -1019,6 +1025,51 @@ const discoveredNested = await mapLimit(companies, 8, async (company) => {
 }, "search");
 
 const manualLeads = [
+  {
+    Company: "Citadel",
+    Title: "International Equities Associate - Intern (Europe)",
+    Location: "London",
+    URL: "https://www.citadel.com/careers/details/international-equities-associate-intern-europe/",
+    Source: "Official Citadel careers posting",
+    Status: "Confirmed official posting",
+    Notes: "Live official application; summer internship in long-short equities investing.",
+  },
+  {
+    Company: "Citadel Securities",
+    Title: "Sector Data Analyst - Intern (Europe)",
+    Location: "London",
+    URL: "https://www.citadelsecurities.com/careers/details/sector-data-analyst-intern-europe/",
+    Source: "Official Citadel Securities careers posting",
+    Status: "Confirmed official posting",
+    Notes: "Live official application; June-August is the signature internship window, with other timing sometimes available.",
+  },
+  {
+    Company: "Capula",
+    Title: "2027 Trading and Research Summer Internship",
+    Location: "London / New York / Singapore / Hong Kong",
+    URL: "https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/",
+    Source: "Official Workable posting",
+    Status: "Confirmed official posting",
+    Notes: "Ten-week internship from June to August 2027; students graduating in 2027 or 2028.",
+  },
+  {
+    Company: "Group One Trading",
+    Title: "Trading Analyst Intern",
+    Location: "Chicago, IL",
+    URL: "https://group1.applicantpro.com/jobs/3859850",
+    Source: "Official ApplicantPro posting",
+    Status: "Confirmed official posting",
+    Notes: "Summer internship from June through August 2027; applicant must remain an active college student in Fall 2027.",
+  },
+  {
+    Company: "Morgan Stanley",
+    Title: "2027 Institutional Equity Division Quantitative Finance Summer Analyst / Associate Program",
+    Location: "Hong Kong",
+    URL: "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5ae2f1abc6f7/candidate/so/pm/1/pl/1/opp/21270-2027-Institutional-Equity-Division-Quantitative-Finance-Summer-Analyst-Associate-Program-Hong-Kong/en-GB",
+    Source: "Official Morgan Stanley campus posting",
+    Status: "Confirmed official posting",
+    Notes: "Ten-week Summer 2027 program; application deadlines listed as August 16 and September 27, 2026.",
+  },
   {
     Company: "AQR Capital Management",
     Title: "AQR internship program page",
@@ -1118,127 +1169,43 @@ const manualLeads = [
     Status: "Official broad program; check currently open locations",
     Notes: "JPM page says interns research, analyze, and develop investment strategies and models; useful for quant asset-management track.",
   },
-  {
-    Company: "Bank of America",
-    Title: "Global Risk Summer 2027 Analyst",
-    Location: "Charlotte, NC; New York; additional locations",
-    URL: "https://careers.bankofamerica.com/en-us/students/job-detail/14334/-global-risk-summer-2027-analyst-multiple-locations",
-    Source: "Official careers page",
-    Status: "Confirmed official posting",
-    Notes: "Official Bank of America student posting; 10-week Global Risk Development Summer Analyst Program.",
-  },
-  {
-    Company: "Bank of America",
-    Title: "Corporate Audit Summer 2027 Analyst",
-    Location: "Charlotte, NC; Dallas, TX; Pennington, NJ; additional locations",
-    URL: "https://careers.bankofamerica.com/en-us/students/job-detail/14335/corporate-audit-summer-2027-analyst-multiple-locations",
-    Source: "Official careers page",
-    Status: "Confirmed official posting",
-    Notes: "Official Bank of America student posting; 10-week Corporate Audit Summer Analyst Program.",
-  },
-  {
-    Company: "Citi",
-    Title: "Markets - Sales and Trading, Summer Analyst, New York City - US, 2027",
-    Location: "New York, NY",
-    URL: "https://jobs.citi.com/job/new-york/markets-sales-and-trading-summer-analyst-new-york-city-us-2027/287/89809477504",
-    Source: "Official careers page",
-    Status: "Confirmed official posting",
-    Notes: "Official Citi careers page for 2027 Markets summer analyst role.",
-  },
-  {
-    Company: "Goldman Sachs",
-    Title: "2027 Summer Analyst Program - Americas",
-    Location: "Americas",
-    URL: "https://www.goldmansachs.com/careers/students/programs-and-internships/americas/2027-summer-analyst-program",
-    Source: "Official program page",
-    Status: "Official broad program; select division/location in application",
-    Notes: "Official Goldman Sachs program page says applications are open for Summer 2027.",
-  },
-  {
-    Company: "Wells Fargo",
-    Title: "2027 Summer Internship, Early Careers - Corporate Banking",
-    Location: "Charlotte, NC; New York, NY",
-    URL: "https://www.wellsfargojobs.com/fr/jobs/r-512832/2027-summer-internship-early-careers-corporate-banking/",
-    Source: "Official careers page",
-    Status: "Confirmed official posting",
-    Notes: "Official Wells Fargo early careers posting for 2027 Corporate Banking summer analyst internship.",
-  },
-  {
-    Company: "Wells Fargo",
-    Title: "2027 CIB Markets - Summer Internship, Early Careers",
-    Location: "Charlotte, NC; Houston, TX; New York, NY; California posting also available",
-    URL: "https://www.wellsfargojobs.com/en/university-programs/",
-    Source: "Official early careers page",
-    Status: "Official broad program; check currently open locations",
-    Notes: "Wells Fargo early careers page lists 2027 CIB Markets and other Summer 2027 internships.",
-  },
-  {
-    Company: "Wells Fargo",
-    Title: "2027 Summer Internship, Early Careers - CIB Commercial Real Estate",
-    Location: "New York, NY; Charlotte, NC; Chicago, IL; Dallas, TX",
-    URL: "https://www.wellsfargojobs.com/fr/jobs/r-511357/2027-summer-internship-early-careers-cib-commercial-real-estate/",
-    Source: "Official careers page",
-    Status: "Confirmed official posting",
-    Notes: "Official Wells Fargo early careers posting for 2027 Commercial Real Estate summer analyst internship.",
-  },
-  {
-    Company: "Wells Fargo",
-    Title: "2027 Summer Internship, Early Careers - Investment Banking (Houston)",
-    Location: "Houston, TX",
-    URL: "https://www.wellsfargojobs.com/fr-ca/jobs/r-507805/2027-summer-internship-early-careers-investment-banking-houston/",
-    Source: "Official careers page",
-    Status: "Confirmed official posting",
-    Notes: "Official Wells Fargo early careers posting for 2027 Investment Banking summer analyst internship.",
-  },
-  {
-    Company: "Wells Fargo",
-    Title: "2027 Summer Internship, Early Careers - Corporate & Investment Banking COO",
-    Location: "Charlotte, NC",
-    URL: "https://www.wellsfargojobs.com/en/jobs/r-548718/2027-summer-internship-early-careers-corporate-investment-banking-chief-operating-office-coo/",
-    Source: "Official careers page",
-    Status: "Confirmed official posting",
-    Notes: "Official Wells Fargo early careers posting, published June 2026.",
-  },
-  {
-    Company: "Blackstone",
-    Title: "Summer Internship Program",
-    Location: "Varies by group/location",
-    URL: "https://www.blackstone.com/careers/students/",
-    Source: "Official internship page",
-    Status: "Official program page; check open positions",
-    Notes: "Official Blackstone students page describes Summer Analyst and Associate internship timelines and applications.",
-  },
-  {
-    Company: "New York Life",
-    Title: "Student Internships",
-    Location: "Varies by internship track",
-    URL: "https://www.newyorklife.com/careers/corporate/internships",
-    Source: "Official internship page",
-    Status: "Official program page; check current openings",
-    Notes: "Official New York Life internships page lists actuarial, finance, investments, AI/data, technology, and related internship tracks.",
-  },
 ];
 
 const rowsByUrl = new Map();
+const officialIdentities = new Set();
 const officialTitleIdentities = new Set();
-const companiesWithEnumeratedRows = new Set([...careerPageRows, ...janeStreetRows, ...baseRows].map((row) => row.Company));
-const discoveredRows = discoveredNested.flat().filter((row) => !companiesWithEnumeratedRows.has(row.Company));
-for (const row of [...careerPageRows, ...janeStreetRows, ...baseRows, ...discoveredRows, ...manualLeads]) {
+const companiesWithEnumeratedRows = new Set([...careerPageRows, ...baseRows].map((row) => row.Company));
+const companiesWithEnumeratedSources = new Set([
+  ...companiesWithEnumeratedRows,
+  ...careerPageScan.audits.filter((audit) => audit.boards.length > 0).map((audit) => audit.company),
+  ...customSourceAudits.map((audit) => audit.company),
+]);
+const discoveredCandidates = discoveredNested.flat().filter((row) => !companiesWithEnumeratedSources.has(row.Company));
+const companiesWithOfficialDiscoveredRows = new Set(discoveredCandidates
+  .filter((row) => row.Source === "Official posting/page")
+  .map((row) => row.Company));
+const discoveredRows = discoveredCandidates.filter((row) => row.Source === "Official posting/page" || !companiesWithOfficialDiscoveredRows.has(row.Company));
+const manualLeadUrls = new Set(manualLeads.map((row) => row.URL.toLowerCase().replace(/\/$/, "")));
+for (const row of [...careerPageRows, ...baseRows, ...manualLeads, ...discoveredRows]) {
   if (!row.URL) continue;
   const urlKey = row.URL.toLowerCase();
   if (rowsByUrl.has(urlKey)) continue;
-  if (!relevantCareerJob(row)) continue;
+  if (!manualLeadUrls.has(urlKey.replace(/\/$/, "")) && !relevantCareerJob(row)) continue;
   if (row.Company !== "AQR Capital Management" && /\bAQR\b|AQR Capital/i.test(`${row.Title} ${row.Notes} ${row.URL}`)) continue;
   if (row.Company !== "IMC Financial Markets" && /IMC Trading|www\.imc\.com/i.test(`${row.Title} ${row.Notes} ${row.URL}`)) continue;
   if (row.Company !== "J.P. Morgan" && /jpmorgan|jpmorganchase/i.test(`${row.Title} ${row.Notes} ${row.URL}`)) continue;
   row.Title = row.Title.replace(/\s+null$/i, "").trim();
+  const identityKey = `${row.Company}\n${row.Title}\n${row.Location}`.toLowerCase();
   const titleIdentityKey = `${row.Company}\n${row.Title}`.toLowerCase();
   const isOfficial = /official|career page/i.test(`${row.Source} ${row.Status}`) && !/aggregator|web lead/i.test(`${row.Source} ${row.Status}`);
   if (!isOfficial && companiesWithEnumeratedRows.has(row.Company)) continue;
-  if (!isOfficial && officialTitleIdentities.has(titleIdentityKey)) continue;
+  if (!isOfficial && (officialIdentities.has(identityKey) || officialTitleIdentities.has(titleIdentityKey))) continue;
   if (row.Notes?.length > 900) row.Notes = `${row.Notes.slice(0, 900)}...`;
   rowsByUrl.set(urlKey, row);
-  if (isOfficial) officialTitleIdentities.add(titleIdentityKey);
+  if (isOfficial) {
+    officialIdentities.add(identityKey);
+    officialTitleIdentities.add(titleIdentityKey);
+  }
 }
 
 async function readKnownBoardCoverage() {
@@ -1253,6 +1220,7 @@ async function readKnownBoardCoverage() {
 }
 
 const rows = [...rowsByUrl.values()].sort((a, b) => a.Company.localeCompare(b.Company) || a.Title.localeCompare(b.Title));
+for (const row of rows) row.Region = regionForLocation(row.Location);
 const companiesWithoutRows = companies.filter((company) => !rows.some((row) => row.Company === company)).sort();
 const enumeratedCoverage = await readKnownBoardCoverage();
 for (const audit of careerPageScan.audits) {
@@ -1265,18 +1233,18 @@ const confirmedNoOpenPostings = companiesWithoutRows.filter((company) => enumera
 const confirmedNoMatchingRoles = companiesWithoutRows.filter((company) => (enumeratedCoverage.get(company) || 0) > 0 && !companiesWithUnsupportedAts.has(company));
 const couldNotFullyVerify = companiesWithoutRows.filter((company) => !enumeratedCoverage.has(company) || companiesWithUnsupportedAts.has(company));
 const csv = [
-  ["Company", "Title", "Location", "URL", "Source", "Status", "Notes"].map(csvEscape).join(","),
-  ...rows.map((row) => ["Company", "Title", "Location", "URL", "Source", "Status", "Notes"].map((key) => csvEscape(row[key])).join(",")),
+  ["Company", "Title", "Location", "Region", "URL", "Source", "Status", "Notes"].map(csvEscape).join(","),
+  ...rows.map((row) => ["Company", "Title", "Location", "Region", "URL", "Source", "Status", "Notes"].map((key) => csvEscape(row[key])).join(",")),
 ].join("\n");
 
 const md = [
-  "# US Financial Services Internship Open Roles Scan",
+  "# Quant Internship Open Roles Scan v2",
   "",
   `Scanned: ${searchedAt}`,
   `Companies searched: ${companies.length}`,
   `Rows/leads retained: ${rows.length}`,
   "",
-  "Scope: original quant company list plus broader US financial services companies: banks, asset managers, insurers, brokerages, exchanges, payments/fintech, market data, private equity, and alternatives. The scan refreshes company career-page discovery every run, scans known official career/ATS pages, then adds broader web-discovered postings.",
+  "Scope: original quant company list plus adjacent systematic/quant asset managers, large asset managers, and bank strats/quant-style programs. Target roles include quant, trading, research, software, engineering, and strategy internships. The scan checks saved company career pages first, then official ATS findings from v1, then broader web-discovered postings.",
   "",
   "Status guide:",
   "- Confirmed official posting: direct role from official ATS/careers page.",
@@ -1284,10 +1252,9 @@ const md = [
   "- Aggregator/web lead; verify on official site: posting surfaced on a job board or aggregator and needs confirmation before applying.",
   "- Official program page: useful application timing/team information, not necessarily a specific open role.",
   "",
-  "## Roles And Leads",
+  "## Roles And Leads By Region",
   "",
-  rows.map((row) => `- **${row.Company}** — [${row.Title}](${row.URL})${row.Location ? ` — ${row.Location}` : ""} — ${row.Status} (${row.Source})${row.Notes ? `: ${row.Notes}` : ""}`).join("\n"),
-  "",
+  ...groupedRoleMarkdown(rows),
   "## Confirmed: Enumerated Source Reports No Open Postings",
   "",
   "A successfully enumerated official ATS/feed returned zero open postings.",
@@ -1308,15 +1275,16 @@ const md = [
   "",
 ].join("\n");
 
-await fs.writeFile("reports/us_financial_services_internship_scan.csv", csv, "utf8");
-await fs.writeFile("reports/us_financial_services_internship_scan.md", md, "utf8");
-await fs.writeFile("data/us_financial_services_internship_scan_raw.json", JSON.stringify({ searchedAt, companies, careerPageDb, careerPageScanTasks: careerPageScan.tasks, careerPageScanAudits: careerPageScan.audits, careerPageRows, rows, companiesWithoutRows, confirmedNoOpenPostings, confirmedNoMatchingRoles, couldNotFullyVerify }, null, 2), "utf8");
-await fs.writeFile("data/us_financial_services_internship_scan_audit.json", JSON.stringify({
+await fs.writeFile("reports/quant_internship_roles_scan_v2.csv", csv, "utf8");
+await fs.writeFile("reports/quant_internship_roles_scan_v2.md", md, "utf8");
+await fs.writeFile("data/quant_internship_roles_scan_v2_raw.json", JSON.stringify({ searchedAt, companies, careerPageDb, careerPageScanTasks: careerPageScan.tasks, careerPageScanAudits: careerPageScan.audits, customSourceAudits, careerPageRows, rows, companiesWithoutRows, confirmedNoOpenPostings, confirmedNoMatchingRoles, couldNotFullyVerify }, null, 2), "utf8");
+await fs.writeFile("data/quant_internship_roles_scan_v2_audit.json", JSON.stringify({
   searchedAt,
   companies,
   companiesWithoutKnownCareerPage: companies.filter((company) => !(careerPageDb.companies[company]?.careerPages || []).length),
   careerPageScanAudits: careerPageScan.audits,
+  customSourceAudits,
 }, null, 2), "utf8");
 
 console.log(`companies=${companies.length} careerPages=${careerPageScan.tasks.length} careerPageRows=${careerPageRows.length} rows=${rows.length}`);
-console.log("wrote us_financial_services_internship_scan.csv, us_financial_services_internship_scan.md, us_financial_services_internship_scan_raw.json, us_financial_services_internship_scan_audit.json");
+console.log("wrote quant_internship_roles_scan_v2.csv, quant_internship_roles_scan_v2.md, quant_internship_roles_scan_v2_raw.json, quant_internship_roles_scan_v2_audit.json");

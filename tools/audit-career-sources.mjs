@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 
 const root = new URL("../", import.meta.url);
-const db = JSON.parse(await fs.readFile(new URL("company_career_pages.json", root), "utf8"));
+const db = JSON.parse(await fs.readFile(new URL("inputs/company_career_pages.json", root), "utf8"));
 const priorAudit = JSON.parse(await fs.readFile(new URL("data/us_financial_services_internship_scan_audit.json", root), "utf8"));
 
 const knownByCompany = new Map();

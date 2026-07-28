@@ -1,9 +1,9 @@
 import fs from "node:fs/promises";
-import { isKnownWrongCareerPage } from "./tools/career-source-guards.mjs";
+import { isKnownWrongCareerPage } from "../tools/career-source-guards.mjs";
 
-const baseCsvPath = "swe_2027_internship_scan_base.csv";
-const careerPageDbPath = "company_career_pages.json";
-const firmRoster = JSON.parse(await fs.readFile("quant_firm_roster.json", "utf8"));
+const baseCsvPath = "inputs/swe_2027_internship_scan_base.csv";
+const careerPageDbPath = "inputs/company_career_pages.json";
+const firmRoster = JSON.parse(await fs.readFile("inputs/quant_firm_roster.json", "utf8"));
 const rosterCompanies = firmRoster.companies.map((company) => firmRoster.aliases?.[company] || company);
 
 const expandedCompanies = [

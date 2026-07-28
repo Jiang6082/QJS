@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-28T03:57:16.448Z",
-  "scanStartedAt": "2026-07-28T03:53:31.527Z",
+  "generatedAt": "2026-07-28T16:44:39.609Z",
+  "scanStartedAt": "2026-07-28T16:40:43.388Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
     "matching-role-found": 37,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 48,
-    "could-not-fully-verify": 214
+    "confirmed-openings-no-matching-role": 49,
+    "could-not-fully-verify": 213
   },
   "companies": [
     {
@@ -72,7 +72,7 @@
         "https://www.alpha-grep.com/career/",
         "https://job-boards.greenhouse.io/alphagrepsecurities"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 22,
       "relevantInternships": 3
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 46,
+      "jobsSeen": 47,
       "relevantInternships": 7
     },
     {
@@ -761,7 +761,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 178,
+      "jobsSeen": 179,
       "relevantInternships": 16
     },
     {
@@ -989,14 +989,14 @@
       "sourceRosterNames": [
         "Cubist (Point72)"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://careers.point72.com/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "jobsSeen": 228,
+      "relevantInternships": 8
     },
     {
       "company": "DSV Fund",
@@ -1235,7 +1235,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 77,
+      "jobsSeen": 74,
       "relevantInternships": 2
     },
     {
@@ -1639,7 +1639,7 @@
       "careerPages": [
         "https://www.dymonasia.com/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2021,7 +2021,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -2345,7 +2345,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 14,
+      "jobsSeen": 10,
       "relevantInternships": 2
     },
     {
@@ -3113,7 +3113,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3795,7 +3795,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 5,
+      "jobsSeen": 6,
       "relevantInternships": 1
     },
     {
@@ -3863,7 +3863,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 76,
+      "jobsSeen": 74,
       "relevantInternships": 3
     },
     {

@@ -1,11 +1,11 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-07-27T17:17:37.434Z
-Current scan: 2026-07-28T03:53:31.527Z
-Previous rows: 257
+Previous scan: 2026-07-28T16:03:45.856Z
+Current scan: 2026-07-28T16:40:43.388Z
+Previous rows: 256
 Current rows: 256
 New stable job URLs: 0
-No longer present: 1
+No longer present: 0
 
 ## New Roles By Region
 
@@ -47,4 +47,4 @@ _None._
 
 ## No Longer Present
 
-- **Flow Traders** - [Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/7100637)
+_None._
