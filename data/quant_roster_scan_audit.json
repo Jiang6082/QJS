@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-27T14:05:12.668Z",
-  "scanStartedAt": "2026-07-27T14:00:48.434Z",
+  "generatedAt": "2026-07-28T03:57:16.448Z",
+  "scanStartedAt": "2026-07-28T03:53:31.527Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
     "matching-role-found": 37,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 49,
-    "could-not-fully-verify": 213
+    "confirmed-openings-no-matching-role": 48,
+    "could-not-fully-verify": 214
   },
   "companies": [
     {
@@ -72,7 +72,7 @@
         "https://www.alpha-grep.com/career/",
         "https://job-boards.greenhouse.io/alphagrepsecurities"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 22,
       "relevantInternships": 3
@@ -969,7 +969,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 34,
+      "jobsSeen": 35,
       "relevantInternships": 0
     },
     {
@@ -989,14 +989,14 @@
       "sourceRosterNames": [
         "Cubist (Point72)"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://careers.point72.com/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 231,
-      "relevantInternships": 8
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "DSV Fund",
@@ -1425,7 +1425,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 39,
+      "jobsSeen": 37,
       "relevantInternships": 1
     },
     {
@@ -1451,7 +1451,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/gsrmarkets/jobs/4421987101"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 5,
       "relevantInternships": 0
@@ -1639,7 +1639,7 @@
       "careerPages": [
         "https://www.dymonasia.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1774,7 +1774,7 @@
       "careerPages": [
         "https://www.group1.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2096,7 +2096,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 149,
+      "jobsSeen": 147,
       "relevantInternships": 7
     },
     {
@@ -2644,7 +2644,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantInternships": 0
     },
     {
@@ -3354,9 +3354,11 @@
         "Savius"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://app.savius.com/login"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -4052,7 +4054,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 55,
+      "jobsSeen": 56,
       "relevantInternships": 0
     },
     {
@@ -4193,7 +4195,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 99,
+      "jobsSeen": 100,
       "relevantInternships": 5
     },
     {

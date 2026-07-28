@@ -1,18 +1,18 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-07-27T14:00:48.434Z
+Last updated: 2026-07-28T03:53:31.527Z
 
 ## Summary
 
 - Companies searched: 366
-- Career pages checked: 487
-- Current retained roles: 257
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 2
+- Career pages checked: 488
+- Current retained roles: 256
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 1
 - Matching-role firms: 37
 - Confirmed no open postings: 3
-- Openings but no matching role: 49
-- Could not fully verify: 213
+- Openings but no matching role: 48
+- Could not fully verify: 214
 
 ## New Roles Since Previous Scan
 
@@ -44,9 +44,9 @@ _None._
 
 _None._
 
-### Global / Multiple Regions (1)
+### Global / Multiple Regions (0)
 
-- **Squarepoint Capital** - [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) - London, Paris, New York, Singapore, Hong Kong
+_None._
 
 ### Remote / Unspecified (0)
 
@@ -54,8 +54,7 @@ _None._
 
 ## No Longer Present
 
-- **Connor Clark & Lunn** - [Intern, Portfolio Compliance](https://job-boards.greenhouse.io/cclfg/jobs/4233121009) - Gurugram, Haryana, India
-- **Deutsche Bank** - [Internship - Technology Process Analysis (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474) - Milano Bicocca Calendario 3
+- **Flow Traders** - [Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/7100637) - Hong Kong
 
 ## Full Reports
 

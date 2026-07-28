@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-27T14:00:20.872Z",
+  "scannedAt": "2026-07-28T03:53:25.238Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -181,10 +181,10 @@
         },
         {
           "source": "Ashby:jane",
-          "count": 26
+          "count": 24
         }
       ],
-      "jobsSeen": 247,
+      "jobsSeen": 245,
       "relevantInternships": 0
     },
     {
@@ -204,7 +204,7 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:point72",
-          "count": 231
+          "count": 229
         },
         {
           "source": "Ashby:cubist",
@@ -215,7 +215,7 @@
           "count": 0
         }
       ],
-      "jobsSeen": 232,
+      "jobsSeen": 230,
       "relevantInternships": 7
     },
     {
@@ -272,10 +272,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:akunacapital",
-          "count": 34
+          "count": 33
         }
       ],
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantInternships": 8
     },
     {
@@ -431,10 +431,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:bridgewater89",
-          "count": 19
+          "count": 21
         }
       ],
-      "jobsSeen": 19,
+      "jobsSeen": 21,
       "relevantInternships": 0
     },
     {
@@ -663,11 +663,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 39
+          "count": 37
         }
       ],
-      "jobsSeen": 39,
-      "relevantInternships": 2
+      "jobsSeen": 37,
+      "relevantInternships": 1
     },
     {
       "company": "Freestone Grove Partners",
@@ -809,10 +809,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 149
+          "count": 147
         }
       ],
-      "jobsSeen": 149,
+      "jobsSeen": 147,
       "relevantInternships": 7
     },
     {
@@ -838,14 +838,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:jumptrading",
-          "count": 97
+          "count": 100
         },
         {
           "source": "Ashby:jump",
           "count": 3
         }
       ],
-      "jobsSeen": 100,
+      "jobsSeen": 103,
       "relevantInternships": 21
     },
     {
@@ -905,10 +905,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 57
+          "count": 58
         }
       ],
-      "jobsSeen": 57,
+      "jobsSeen": 58,
       "relevantInternships": 0
     },
     {
@@ -983,14 +983,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 190
+          "count": 185
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 190,
+      "jobsSeen": 185,
       "relevantInternships": 8
     },
     {
@@ -1114,10 +1114,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 209
+          "count": 208
         }
       ],
-      "jobsSeen": 209,
+      "jobsSeen": 208,
       "relevantInternships": 7
     },
     {
@@ -1196,10 +1196,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 84
+          "count": 86
         }
       ],
-      "jobsSeen": 84,
+      "jobsSeen": 86,
       "relevantInternships": 1
     },
     {
@@ -1386,10 +1386,10 @@
         },
         {
           "source": "Ashby:voleon",
-          "count": 55
+          "count": 56
         }
       ],
-      "jobsSeen": 55,
+      "jobsSeen": 56,
       "relevantInternships": 0
     },
     {
@@ -1522,10 +1522,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:worldquant",
-          "count": 99
+          "count": 100
         }
       ],
-      "jobsSeen": 99,
+      "jobsSeen": 100,
       "relevantInternships": 6
     },
     {

@@ -2,7 +2,7 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-07-27 &nbsp;•&nbsp; **257 open roles** &nbsp;•&nbsp; **1 new today** &nbsp;•&nbsp; **10 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-07-28 &nbsp;•&nbsp; **256 open roles** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **11 closed** ([history](reports/closed_roles_history.md))
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -10,21 +10,17 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-07-27_
+_Scan date: 2026-07-28_
 
-**1** new stable job posting since the previous scan:
-
-**Global / Multiple Regions**
-
-- **Squarepoint Capital** — [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) — London, Paris, New York, Singapore, Hong Kong
+_No new roles detected in the latest scan._
 
 ---
 
 ## 📋 All Roles Available
 
-**257** open internship roles, grouped by region. Click a title to open the official posting.
+**256** open internship roles, grouped by region. Click a title to open the official posting.
 
-**Regions:** [North America (144)](#north-america) · [Europe (44)](#europe) · [Asia (54)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (8)](#global--multiple-regions) · [Remote / Unspecified (2)](#remote--unspecified)
+**Regions:** [North America (144)](#north-america) · [Europe (44)](#europe) · [Asia (53)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (8)](#global--multiple-regions) · [Remote / Unspecified (2)](#remote--unspecified)
 
 ### North America
 
@@ -233,7 +229,7 @@ _Scan date: 2026-07-27_
 ### Asia
 
 <details>
-<summary><strong>54 roles</strong> — click to expand</summary>
+<summary><strong>53 roles</strong> — click to expand</summary>
 
 - **AlphaGrep** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002) — Mumbai
 - **AlphaGrep** — [Quantitative Trading Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622004002) — India
@@ -253,7 +249,6 @@ _Scan date: 2026-07-27_
 - **DRW** — [Software Developer Intern (C++)](https://job-boards.greenhouse.io/drweng/jobs/8014910) — Singapore
 - **DV Trading** — [2027 Summer Internship - Trading (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4691295005) — Hong Kong
 - **Engineers Gate** — [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/7946542) — Hong Kong
-- **Flow Traders** — [Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/7100637) — Hong Kong
 - **Goldman Sachs** — [2027 \| APEJ \| Singapore \| FICC and Equities (Sales and Trading) Quantitative Strats \| Summer Analyst](https://higher.gs.com/roles/170600) — Singapore
 - **IMC Trading** — [2027 - Software Engineering Intern - BITS Pilani](https://job-boards.eu.greenhouse.io/imc/jobs/4917549101) — Mumbai, India
 - **Jane Street** — [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8641377002/) — Hong Kong
@@ -277,8 +272,8 @@ _Scan date: 2026-07-27_
 - **Morgan Stanley** — [2027 Institutional Equity Division Quantitative Finance Summer Analyst / Associate Program](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5ae2f1abc6f7/candidate/so/pm/1/pl/1/opp/21270-2027-Institutional-Equity-Division-Quantitative-Finance-Summer-Analyst-Associate-Program-Hong-Kong/en-GB) — Hong Kong
 - **Optiver** — [Quantitative Trading Internship (Singapore) - 2027](https://www.optiver.com/join-us/jobs/8642260002/?gh_jid=8642260002) — Singapore
 - **Optiver** — [Quantitative Trading Internship (Taiwan) - 2027](https://www.optiver.com/join-us/jobs/8011956002/?gh_jid=8011956002) — Taipei, Taiwan
-- **Point72** — [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) — Hong Kong
 - **Point72** — [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) — Singapore
+- **Point72** — [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) — Hong Kong
 - **Schonfeld** — [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) — Hong Kong, Hong Kong
 - **Susquehanna International Group** — [Quantitative Research Internship - Master's: Summer 2027](https://careers.sig.com/jobs/11121?lang=en-us) — Hong Kong, Hong Kong
 - **Susquehanna International Group** — [Quantitative Strategy Developer Internship: Summer 2027](https://careers.sig.com/jobs/11170?lang=en-us) — Hong Kong, Hong Kong
@@ -379,7 +374,7 @@ The publish step rebuilds `LATEST_QUANT_SCAN.md`, commits changed scanner files 
 | [reports/quant_internship_roles_scan_v2.csv](reports/quant_internship_roles_scan_v2.csv) | Full current role list (spreadsheet) |
 | [reports/current_quant_roles_not_in_tracker.md](reports/current_quant_roles_not_in_tracker.md) | Current roles absent from the older application tracker |
 | [reports/quant_roster_scan_audit.md](reports/quant_roster_scan_audit.md) | 303-firm roster split into confirmed vs. unverifiable states |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (10 so far) |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (11 so far) |
 | [company_career_pages.json](company_career_pages.json) | Seeded career-page database |
 | [quant_firm_roster.json](quant_firm_roster.json) | Complete 303-entry firm list + canonical aliases |
 

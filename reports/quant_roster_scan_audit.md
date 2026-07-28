@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-07-27T14:00:48.434Z
+Scan started: 2026-07-28T03:53:31.527Z
 Source roster entries: 303
 Canonical companies after aliases: 302
 
@@ -8,7 +8,7 @@ Canonical companies after aliases: 302
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
-| AlphaGrep | 2/2 pages live | [link](https://www.alpha-grep.com/career/) [link](https://job-boards.greenhouse.io/alphagrepsecurities) |
+| AlphaGrep | 1/2 pages live | [link](https://www.alpha-grep.com/career/) [link](https://job-boards.greenhouse.io/alphagrepsecurities) |
 | BlackEdge Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/blackedgecapital) |
 | Chicago Trading Company | 2/2 pages live | [link](https://www.chicagotrading.com/careers/) [link](https://job-boards.greenhouse.io/ctccampusboard) |
 | D. E. Shaw | 3/3 pages live | [link](https://www.deshaw.com/careers?source=campus) [link](https://www.deshaw.com/careers) [link](https://www.deshawindia.com/careers) |
@@ -24,7 +24,7 @@ Canonical companies after aliases: 302
 | Hudson River Trading | 2/2 pages live | [link](https://www.hudsonrivertrading.com/careers/) [link](https://www.hudsonrivertrading.com/careers/job/) |
 | Jane Street | 5/5 pages live | [link](https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads) [link](https://www.janestreet.com/join-jane-street/open-roles/) [link](https://www.janestreet.com/join-jane-street/overview/) [link](https://www.janestreet.com/join-jane-street/apply/8092062002/) [link](https://job-boards.greenhouse.io/janestreet/jobs/7967227002) |
 | Flow Traders | 1/1 pages live | [link](https://www.flowtraders.com/careers) |
-| Group One Trading | 0/1 pages live | [link](https://www.group1.com/careers/) |
+| Group One Trading | 1/1 pages live | [link](https://www.group1.com/careers/) |
 | Jump Trading | 1/1 pages live | [link](https://www.jumptrading.com/careers/) |
 | IMC Trading | 3/3 pages live | [link](https://job-boards.greenhouse.io/imc/jobs/4597351101) [link](https://www.imc.com/us/careers/) [link](https://www.imc.com/ap/careers/) |
 | PDT Partners | 4/5 pages live | [link](https://job-boards.greenhouse.io/pdtpartners?error=true) [link](https://job-boards.greenhouse.io/pdtpartners/jobs/3914106) [link](https://www.pdtpartners.com/careers/) [link](https://pdtpartners.com/careers) [link](https://job-boards.greenhouse.io/pdtpartners) |
@@ -54,7 +54,7 @@ Canonical companies after aliases: 302
 | Maverick Derivatives | 1/1 pages live | [link](https://job-boards.greenhouse.io/maverickderivatives?error=true) |
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
 
-## Confirmed Openings, No Matching Role (49)
+## Confirmed Openings, No Matching Role (48)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -68,11 +68,10 @@ Canonical companies after aliases: 302
 | Akuna Capital | 2/2 pages live | [link](https://akunacapital.com/careers/) [link](https://job-boards.greenhouse.io/optionstrading201course/jobs/7394582) |
 | Ansatz Capital | 1/1 pages live | [link](https://jobs.lever.co/ansatzcapital?by=location) |
 | Clear Street | 1/1 pages live | [link](https://job-boards.greenhouse.io/clearstreet?gh_src=bdd2c3261) |
-| Cubist | 1/1 pages live | [link](https://careers.point72.com/) |
 | Deutsche Bank | 1/1 pages live | [link](https://db.wd3.myworkdayjobs.com/DBWebsite/) |
 | ExodusPoint | 1/1 pages live | [link](https://job-boards.greenhouse.io/exoduspoint) |
 | Eclipse Trading | 1/1 pages live | [link](https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002) |
-| GSR | 0/1 pages live | [link](https://job-boards.greenhouse.io/gsrmarkets/jobs/4421987101) |
+| GSR | 1/1 pages live | [link](https://job-boards.greenhouse.io/gsrmarkets/jobs/4421987101) |
 | Deeter Analytics | 1/1 pages live | [link](https://jobs.ashbyhq.com/deeter-analytics/27b65fa1-9629-4925-8a89-9c77bec491df) |
 | Elliott Bay Energy Trading LLC | 1/1 pages live | [link](https://www.elliott-turbo.com/careers) |
 | GMO | 1/1 pages live | [link](https://www.gmo.com/americas/careers/) |
@@ -108,7 +107,7 @@ Canonical companies after aliases: 302
 | Voleon Group | 3/4 pages live | [link](https://jobs.ashbyhq.com/voleon) [link](https://jobs.lever.co/voleon/) [link](https://www.voleon.com/careers/) [link](https://www.voleon.com/jobs/) |
 | Xantium | 1/1 pages live | [link](https://job-boards.greenhouse.io/xantium?gh_src=Trackr) |
 
-## Could Not Fully Verify (213)
+## Could Not Fully Verify (214)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -163,6 +162,7 @@ Canonical companies after aliases: 302
 | Capstone | 3/3 pages live | [link](https://capstonedc.com/about/careers/) [link](https://www.capstone.jobs/) [link](https://capstonedc.wd501.myworkdayjobs.com/Capstone) |
 | Chengdu ZhaoYu Investment | no saved page attempted | none |
 | Cor Capital | no saved page attempted | none |
+| Cubist | 1/1 pages live | [link](https://careers.point72.com/) |
 | DSV Fund | no saved page attempted | none |
 | Danske Commodities | 1/1 pages live | [link](https://danskecommodities.com/join-us) |
 | Domeyard LP | 1/1 pages live | [link](https://careers.smartrecruiters.com/DomeyardLP?location=Boston&page=0&search=) |
@@ -196,7 +196,7 @@ Canonical companies after aliases: 302
 | League Trading | 1/1 pages live | [link](https://www.theleaguecorp.com/opportunities.php) |
 | Da Vinci Trading | 0/1 pages live | [link](https://davincitrading.com/job/graduate-trader/) |
 | Diameter Capital Partners | no saved page attempted | none |
-| Dymon Asia | 1/1 pages live | [link](https://www.dymonasia.com/) |
+| Dymon Asia | 0/1 pages live | [link](https://www.dymonasia.com/) |
 | Entropy Trading Group | no saved page attempted | none |
 | Euclidean Technologies | 1/1 pages live | [link](https://www.euclidean.com/careers) |
 | Fenix One | 1/1 pages live | [link](https://www.fenix-one.com/careers) |
@@ -288,7 +288,7 @@ Canonical companies after aliases: 302
 | RSJ Securities | 1/1 pages live | [link](https://www.rsj.com/en/career.html) |
 | Revolution Capital Management | no saved page attempted | none |
 | SQS Capital | no saved page attempted | none |
-| Savius | no saved page attempted | none |
+| Savius | 1/1 pages live | [link](https://app.savius.com/login) |
 | Seven Points Capital | 1/1 pages live | [link](https://sevenpointscapital.pinpointhq.com/) |
 | Spatium Capital | no saved page attempted | none |
 | T3 Trading Group | 1/1 pages live | [link](https://t3trading.com/join-us/) |

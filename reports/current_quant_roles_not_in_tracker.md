@@ -1,6 +1,6 @@
 # Current Quant Roles Not In Historical Tracker
 
-Current scan: 2026-07-27T14:00:48.434Z
+Current scan: 2026-07-28T03:53:31.527Z
 Historical tracker URLs: 176
 Current roles absent from tracker: 141
 

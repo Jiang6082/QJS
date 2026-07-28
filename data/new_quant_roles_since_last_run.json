@@ -1,43 +1,20 @@
 {
-  "generatedAt": "2026-07-27T14:05:12.752Z",
-  "previousScanAt": "2026-07-27T00:45:29.857Z",
-  "currentScanAt": "2026-07-27T14:00:48.434Z",
-  "previousRows": 258,
-  "currentRows": 257,
-  "added": [
-    {
-      "Company": "Squarepoint Capital",
-      "Title": "Intern Quant Researcher",
-      "Location": "London, Paris, New York, Singapore, Hong Kong",
-      "URL": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
-      "Source": "Greenhouse:squarepointcapital",
-      "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title",
-      "Region": "Global / Multiple Regions"
-    }
-  ],
+  "generatedAt": "2026-07-28T03:57:16.565Z",
+  "previousScanAt": "2026-07-27T17:17:37.434Z",
+  "currentScanAt": "2026-07-28T03:53:31.527Z",
+  "previousRows": 257,
+  "currentRows": 256,
+  "added": [],
   "removed": [
     {
-      "Company": "Connor Clark & Lunn",
-      "Title": "Intern, Portfolio Compliance",
-      "Department": "Portfolio Compliance ",
-      "Location": "Gurugram, Haryana, India",
-      "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4233121009",
-      "Source": "Career page Greenhouse:cclfg",
+      "Company": "Flow Traders",
+      "Title": "Trading Intern",
+      "Location": "Hong Kong",
+      "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/7100637",
+      "Source": "Greenhouse:flowtraders",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://job-boards.greenhouse.io/cclfg | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4233121009 | internship timing not stated in title | We are looking for an Intern to join our Portfolio Compliance Team at Connor, Clark & Lunn Financial Group in Gurugram, India. Compliance plays a critical role in the investment process and in this position, you will have the opportunity to work alongside our institutional portfolio managers and affiliate compliance officers. The role of compliance continues to evolve in complexity and importance. This is a fantastic opportunity to be part of a growing team whose scope and visibility continues to increase! What You Will Do: Using Charles River to monitor post-trade compliance rules across all asset classes and security types. These compliance rules are derived from client mandates, global regulations, industry best practices...",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2026, 2027; undergrad/BS/MS language found",
       "Region": "Asia"
-    },
-    {
-      "Company": "Deutsche Bank",
-      "Title": "Internship - Technology Process Analysis (f/m/x)",
-      "Department": "",
-      "Location": "Milano Bicocca Calendario 3",
-      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474",
-      "Source": "Career page Workday:db/DBWebsite",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted 2 Days Ago | R0429474",
-      "Region": "Remote / Unspecified"
     }
   ]
 }
