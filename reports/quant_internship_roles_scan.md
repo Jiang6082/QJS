@@ -1,8 +1,8 @@
 # Quant Internship Open Roles Scan
 
-Scanned: 2026-07-29T01:13:26.623Z
+Scanned: 2026-07-29T14:58:35.183Z
 Companies deduplicated: 169
-Open relevant roles found: 126
+Open relevant roles found: 128
 
 Criteria used: open ATS posting, internship/co-op wording, quant/trading/software/developer/research/engineering/strategy domain, excluding obvious new-grad/full-time/PhD-only roles. Graduation years are eligibility metadata, not internship timing.
 
@@ -102,15 +102,17 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Point 72/Cubist** — [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) — New York, London, or Paris (Greenhouse:point72; internship timing not stated in title; undergrad/BS/MS language found)
 - **Point 72/Cubist** — [Summer 2027 Quantitative Research Internship](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) — New York (Greenhouse:point72; internship timing: Summer 2027; undergrad/BS/MS language found)
 - **Qube Research & Technologies** — [2026 - Internship, Data Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8078338002) — Paris, London (Greenhouse:quberesearchandtechnologies; internship timing not stated in title; undergrad/BS/MS language found)
-- **Qube Research & Technologies** — [2026 - Internship, Quantitative Developer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8068131002) — London (Greenhouse:quberesearchandtechnologies; internship timing not stated in title; undergrad/BS/MS language found)
 - **Qube Research & Technologies** — [2026 - Internship, Quantitative Developer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8169041002) — Zurich (Greenhouse:quberesearchandtechnologies; internship timing not stated in title; undergrad/BS/MS language found)
+- **Qube Research & Technologies** — [2026 - Internship, Quantitative Developer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8068131002) — London (Greenhouse:quberesearchandtechnologies; internship timing not stated in title; undergrad/BS/MS language found)
 - **Qube Research & Technologies** — [2026 - Internship, Quantitative Research/Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8052341002) — Aarhus, Dubai, Geneva, London, Paris, Zurich, Budapest (Greenhouse:quberesearchandtechnologies; internship timing not stated in title; undergrad/BS/MS language found)
 - **Qube Research & Technologies** — [2026 Internship - Software Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8562105002) — London (Greenhouse:quberesearchandtechnologies; internship timing not stated in title; graduation eligibility mentions: 2025, 2026; undergrad/BS/MS language found)
 - **Qube Research & Technologies** — [2026 Internship/Graduate - Quantitative Research/Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8021267002) — Hong Kong, Singapore, Shanghai (Greenhouse:quberesearchandtechnologies; internship timing not stated in title; undergrad/BS/MS language found)
 - **Qube Research & Technologies** — [2026 Internship/Graduate - Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8084644002) — Hong Kong/Singapore (Greenhouse:quberesearchandtechnologies; internship timing not stated in title; undergrad/BS/MS language found)
 - **Schonfeld Strategic Advisors** — [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) — Hong Kong, Hong Kong (Greenhouse:schonfeld; internship timing not stated in title)
+- **Squarepoint Capital** — [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) — London, Paris, New York, Singapore, Hong Kong (Greenhouse:squarepointcapital; internship timing not stated in title)
 - **Stevens Capital Management** — [Developer Internship](https://job-boards.greenhouse.io/scm/jobs/721888) — Radnor, PA (Greenhouse:scm; internship timing not stated in title; undergrad/BS/MS language found)
 - **Stevens Capital Management** — [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895) — Radnor, PA (Greenhouse:scm; internship timing not stated in title; undergrad/BS/MS language found)
+- **Tower Research Capital** — [Intern](https://www.tower-research.com/open-positions/?gh_jid=8091833) — Gift City (Greenhouse:towerresearchcapital; internship timing not stated in title; undergrad/BS/MS language found)
 - **Tower Research Capital** — [Quantitative Developer Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8044334) — New York, Chicago (Greenhouse:towerresearchcapital; internship timing: Summer 2027; undergrad/BS/MS language found)
 - **Tower Research Capital** — [Quantitative Trader Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) — New York, Chicago (Greenhouse:towerresearchcapital; internship timing: Summer 2027; undergrad/BS/MS language found)
 - **Tower Research Capital** — [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) — Singapore (Greenhouse:towerresearchcapital; internship timing not stated in title; undergrad/BS/MS language found)
@@ -123,8 +125,8 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Virtu Financial** — [2027 Internship - Quantitative Researcher (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) — New York (Greenhouse:virtu; internship timing not stated in title; undergrad/BS/MS language found)
 - **Virtu Financial** — [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) — Austin, TX; Chicago; New York (Greenhouse:virtu; internship timing not stated in title; undergrad/BS/MS language found)
 - **Virtu Financial** — [2027 Internship - Quantitative Trading ](https://job-boards.greenhouse.io/virtu/jobs/8547254002) — Dublin, Ireland (Greenhouse:virtu; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
-- **Virtu Financial** — [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) — Dublin, Ireland (Greenhouse:virtu; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **Virtu Financial** — [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) — Austin, TX; New York (Greenhouse:virtu; internship timing not stated in title; undergrad/BS/MS language found)
+- **Virtu Financial** — [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) — Dublin, Ireland (Greenhouse:virtu; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **Voloridge Investment Management** — [Quantitative Developer Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) — Jupiter, FL (Greenhouse:voloridgeinvestmentmanagement; internship timing not stated in title; undergrad/BS/MS language found)
 - **Voloridge Investment Management** — [Quantitative Research Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) — Jupiter, FL (Greenhouse:voloridgeinvestmentmanagement; internship timing not stated in title; undergrad/BS/MS language found)
 - **Wincent** — [Quantitative Research Internship - Quant Research/Trading - Starting Summer 2027](https://jobs.ashbyhq.com/wincent/984bf12c-8d80-431f-9789-04a9739cfc99) — Bratislava (Ashby:wincent; internship timing: Summer 2027; undergrad/BS/MS language found)
@@ -132,8 +134,8 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **WorldQuant** — [Quantitative Research Intern](https://job-boards.greenhouse.io/worldquant/jobs/4084570006) — Beijing OR Shanghai (Greenhouse:worldquant; internship timing not stated in title; graduation eligibility mentions: 2026, 2027; undergrad/BS/MS language found)
 - **WorldQuant** — [Quantitative Research Intern (July/August to December 2026)](https://job-boards.greenhouse.io/worldquant/jobs/4314066006) — Singapore (Greenhouse:worldquant; internship timing not stated in title; undergrad/BS/MS language found)
 - **WorldQuant** — [Quantitative Research Intern (LLMs & AI Agents)](https://job-boards.greenhouse.io/worldquant/jobs/4434997006) — Hanoi or Ho Chi Minh City (Greenhouse:worldquant; internship timing not stated in title; undergrad/BS/MS language found)
-- **WorldQuant** — [Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4652485006) — Hanoi (Greenhouse:worldquant; internship timing not stated in title; undergrad/BS/MS language found)
 - **WorldQuant** — [Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4655484006) — Budapest (Greenhouse:worldquant; internship timing not stated in title; undergrad/BS/MS language found)
+- **WorldQuant** — [Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4652485006) — Hanoi (Greenhouse:worldquant; internship timing not stated in title; undergrad/BS/MS language found)
 
 ## Companies With No Matching Internship Found In Checked ATS Boards
 
@@ -159,10 +161,10 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Boerboel Trading** — checked Greenhouse:boerboeltrading (2)
 - **Boulder Hill Capital Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Brevan Howard** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Bridgewater Associates** — checked Greenhouse:bridgewater89 (23)
+- **Bridgewater Associates** — checked Greenhouse:bridgewater89 (22)
 - **Cantor Fitzgerald** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Capital Fund Management** — checked Lever:capital (40)
-- **Capital Markets Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
+- **Capital Fund Management** — checked Lever:capital (39)
+- **Capital Markets Trading** — checked Lever:capital (39)
 - **Capstone** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Capula** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Caxton Associates** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -208,7 +210,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Laurion Capital Management** — checked Greenhouse:laurioncapitalmanagement (0)
 - **Lord Abbett** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Lynx Asset Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Mako** — checked Greenhouse:mako (6)
+- **Mako** — checked Greenhouse:mako (7)
 - **Man Group** — checked Greenhouse:mangroup (55)
 - **Mana Partners** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Marquette Partners** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -242,7 +244,6 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Sensato Investors** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Seven Eight Capital** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Spark Investment Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Squarepoint Capital** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Summit Securities Group** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Sumo** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Sunrise Futures** — checked Greenhouse:sunrise (19); Ashby:sunrise (13)

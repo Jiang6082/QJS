@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-29T01:13:26.623Z",
+  "scannedAt": "2026-07-29T14:58:35.183Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -431,10 +431,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:bridgewater89",
-          "count": 23
+          "count": 22
         }
       ],
-      "jobsSeen": 23,
+      "jobsSeen": 22,
       "relevantInternships": 0
     },
     {
@@ -448,16 +448,21 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 40
+          "count": 39
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 39,
       "relevantInternships": 0
     },
     {
       "company": "Capital Markets Trading",
-      "resolvedBoards": [],
-      "jobsSeen": 0,
+      "resolvedBoards": [
+        {
+          "source": "Lever:capital",
+          "count": 39
+        }
+      ],
+      "jobsSeen": 39,
       "relevantInternships": 0
     },
     {
@@ -540,10 +545,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:dvtrading",
-          "count": 56
+          "count": 55
         }
       ],
-      "jobsSeen": 56,
+      "jobsSeen": 55,
       "relevantInternships": 1
     },
     {
@@ -658,10 +663,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 38
+          "count": 39
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 39,
       "relevantInternships": 1
     },
     {
@@ -804,10 +809,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 147
+          "count": 148
         }
       ],
-      "jobsSeen": 147,
+      "jobsSeen": 148,
       "relevantInternships": 7
     },
     {
@@ -889,10 +894,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mako",
-          "count": 6
+          "count": 7
         }
       ],
-      "jobsSeen": 6,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {
@@ -978,14 +983,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 185
+          "count": 184
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 185,
+      "jobsSeen": 184,
       "relevantInternships": 8
     },
     {
@@ -1109,10 +1114,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 202
+          "count": 200
         }
       ],
-      "jobsSeen": 202,
+      "jobsSeen": 200,
       "relevantInternships": 7
     },
     {
@@ -1156,10 +1161,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:schonfeld",
-          "count": 54
+          "count": 56
         }
       ],
-      "jobsSeen": 54,
+      "jobsSeen": 56,
       "relevantInternships": 1
     },
     {
@@ -1188,9 +1193,14 @@
     },
     {
       "company": "Squarepoint Capital",
-      "resolvedBoards": [],
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:squarepointcapital",
+          "count": 88
+        }
+      ],
+      "jobsSeen": 88,
+      "relevantInternships": 1
     },
     {
       "company": "Stevens Capital Management",
@@ -1275,11 +1285,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:towerresearchcapital",
-          "count": 74
+          "count": 75
         }
       ],
-      "jobsSeen": 74,
-      "relevantInternships": 3
+      "jobsSeen": 75,
+      "relevantInternships": 4
     },
     {
       "company": "Tradebot",
@@ -1355,10 +1365,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:virtu",
-          "count": 43
+          "count": 42
         }
       ],
-      "jobsSeen": 43,
+      "jobsSeen": 42,
       "relevantInternships": 6
     },
     {
@@ -1512,10 +1522,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:worldquant",
-          "count": 100
+          "count": 99
         }
       ],
-      "jobsSeen": 100,
+      "jobsSeen": 99,
       "relevantInternships": 6
     },
     {

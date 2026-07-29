@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-07-29T01:19:40.980Z",
-  "previousScanAt": "2026-07-28T16:40:43.388Z",
-  "currentScanAt": "2026-07-29T01:13:51.385Z",
-  "previousRows": 256,
-  "currentRows": 255,
-  "added": [],
-  "removed": [
+  "generatedAt": "2026-07-29T15:03:03.908Z",
+  "previousScanAt": "2026-07-29T01:13:51.385Z",
+  "currentScanAt": "2026-07-29T14:58:48.979Z",
+  "previousRows": 255,
+  "currentRows": 257,
+  "added": [
     {
       "Company": "Squarepoint Capital",
       "Title": "Intern Quant Researcher",
@@ -16,5 +15,6 @@
       "Notes": "internship timing not stated in title",
       "Region": "Global / Multiple Regions"
     }
-  ]
+  ],
+  "removed": []
 }

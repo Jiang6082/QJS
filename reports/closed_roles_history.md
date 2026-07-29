@@ -1,7 +1,7 @@
 # Closed / Removed Roles History
 
 Total closures recorded: 12
-Last updated: 2026-07-29T01:13:51.385Z
+Last updated: 2026-07-29T14:58:48.979Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
@@ -9,7 +9,7 @@ Each role below was present in an earlier scan and absent in a later one. "Detec
 
 ### 2026-07-29 (1)
 
-- **Squarepoint Capital** - [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) - London, Paris, New York, Singapore, Hong Kong
+- **Squarepoint Capital** - [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) - London, Paris, New York, Singapore, Hong Kong — _reopened 2026-07-29_
 
 ### 2026-07-28 (1)
 

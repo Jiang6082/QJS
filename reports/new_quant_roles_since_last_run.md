@@ -1,11 +1,11 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-07-28T16:40:43.388Z
-Current scan: 2026-07-29T01:13:51.385Z
-Previous rows: 256
-Current rows: 255
-New stable job URLs: 0
-No longer present: 1
+Previous scan: 2026-07-29T01:13:51.385Z
+Current scan: 2026-07-29T14:58:48.979Z
+Previous rows: 255
+Current rows: 257
+New stable job URLs: 1
+No longer present: 0
 
 ## New Roles By Region
 
@@ -37,9 +37,9 @@ _None._
 
 _None._
 
-### Global / Multiple Regions (0)
+### Global / Multiple Regions (1)
 
-_None._
+- **Squarepoint Capital** - [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) - London, Paris, New York, Singapore, Hong Kong - Confirmed official posting (Greenhouse:squarepointcapital): internship timing not stated in title
 
 ### Remote / Unspecified (0)
 
@@ -47,4 +47,4 @@ _None._
 
 ## No Longer Present
 
-- **Squarepoint Capital** - [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853)
+_None._
