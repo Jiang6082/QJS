@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T15:03:03.908Z",
+  "generatedAt": "2026-07-29T15:42:30.674Z",
   "previousScanAt": "2026-07-29T01:13:51.385Z",
   "currentScanAt": "2026-07-29T14:58:48.979Z",
   "previousRows": 255,
@@ -14,6 +14,17 @@
       "Status": "Confirmed official posting",
       "Notes": "internship timing not stated in title",
       "Region": "Global / Multiple Regions"
+    },
+    {
+      "Company": "Tower Research Capital",
+      "Title": "Intern",
+      "Department": "Risk & Trading Supervision",
+      "Location": "Gift City",
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8091833",
+      "Source": "Career page Greenhouse:towerresearchcapital",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://tower-research.com/open-positions/ | company_wrapper=https://tower-research.com/open-positions/job?gh_jid=8091833 | internship timing not stated in title | Tower Research Capital is a leading quantitative trading firm founded in 1998. Tower has built its business on a high-performance platform and independent trading teams. We have a 25+ year track record of innovation and a reputation for discovering unique market opportunities. Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization. Engineers thrive at Tower while developing electronic trading infrastructure at a world class level. Our engineers solve challenging problems in the realms of low-latency programming, FPGA technolo...",
+      "Region": "Remote / Unspecified"
     }
   ],
   "removed": []

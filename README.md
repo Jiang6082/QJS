@@ -2,7 +2,7 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-07-29 &nbsp;•&nbsp; **257 open roles** &nbsp;•&nbsp; **1 new today** &nbsp;•&nbsp; **12 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-07-29 &nbsp;•&nbsp; **257 open roles** &nbsp;•&nbsp; **2 new today** &nbsp;•&nbsp; **12 closed** ([history](reports/closed_roles_history.md))
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -12,11 +12,15 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 _Scan date: 2026-07-29_
 
-**1** new stable job posting since the previous scan:
+**2** new stable job postings since the previous scan:
 
 **Global / Multiple Regions**
 
 - **Squarepoint Capital** — [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) — London, Paris, New York, Singapore, Hong Kong
+
+**Remote / Unspecified**
+
+- **Tower Research Capital** — [Intern](https://www.tower-research.com/open-positions/?gh_jid=8091833) — Gift City
 
 ---
 

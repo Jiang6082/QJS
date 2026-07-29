@@ -4,7 +4,32 @@ import { groupedRoleMarkdown, regionForLocation } from "../tools/regions.mjs";
 const previousPath = ".scan-state/previous_quant_v2_raw.json";
 const currentPath = "data/quant_internship_roles_scan_v2_raw.json";
 
+// Query params that are pure tracking noise and never identify a job posting.
+// Everything else (gh_jid, id, jobId, gh_src, ...) is kept, so distinct jobs on
+// the same board path stay distinct instead of collapsing to one key.
+const TRACKING_PARAMS = new Set([
+  "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
+  "gclid", "fbclid", "mc_cid", "mc_eid", "ref", "source", "src", "trk", "_ga",
+]);
+
 function stableUrl(value = "") {
+  try {
+    const url = new URL(value);
+    url.hash = "";
+    for (const key of [...url.searchParams.keys()]) {
+      if (TRACKING_PARAMS.has(key.toLowerCase())) url.searchParams.delete(key);
+    }
+    url.searchParams.sort();
+    return url.toString().replace(/\/$/, "").toLowerCase();
+  } catch {
+    return value.toLowerCase().replace(/#.*$/, "").replace(/\/$/, "");
+  }
+}
+
+// Looser key that drops the entire query string. Used only for matching against
+// the older application tracker, whose entries are sometimes base career-page
+// links rather than specific job URLs, so a path-level match is intended there.
+function looseUrl(value = "") {
   try {
     const url = new URL(value);
     url.hash = "";
@@ -54,7 +79,7 @@ async function historicalTrackerUrls() {
   for (const path of ["inputs/internship_tracker.csv", "inputs/new_internships_since_june_2026.csv"]) {
     try {
       const rows = parseCsv(await fs.readFile(path, "utf8"));
-      for (const row of rows) if (row.URL) urls.add(stableUrl(row.URL));
+      for (const row of rows) if (row.URL) urls.add(looseUrl(row.URL));
     } catch {}
   }
   return urls;
@@ -71,7 +96,7 @@ const added = (current.rows || []).filter((row) => !previousUrls.has(stableUrl(r
 const removed = (previous.rows || []).filter((row) => !currentUrls.has(stableUrl(row.URL)));
 const enrichedAdded = added.map((row) => ({ ...row, Region: regionForLocation(row.Location) }));
 const trackerUrls = await historicalTrackerUrls();
-const notInTracker = (current.rows || []).filter((row) => !trackerUrls.has(stableUrl(row.URL)));
+const notInTracker = (current.rows || []).filter((row) => !trackerUrls.has(looseUrl(row.URL)));
 
 const report = {
   generatedAt: new Date().toISOString(),
