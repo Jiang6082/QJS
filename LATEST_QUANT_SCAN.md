@@ -1,18 +1,18 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-07-28T16:40:43.388Z
+Last updated: 2026-07-29T01:13:51.385Z
 
 ## Summary
 
 - Companies searched: 366
 - Career pages checked: 488
-- Current retained roles: 256
+- Current retained roles: 255
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 0
-- Matching-role firms: 37
+- No longer present since previous scan: 1
+- Matching-role firms: 36
 - Confirmed no open postings: 3
-- Openings but no matching role: 49
-- Could not fully verify: 213
+- Openings but no matching role: 48
+- Could not fully verify: 215
 
 ## New Roles Since Previous Scan
 
@@ -54,7 +54,7 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Squarepoint Capital** - [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) - London, Paris, New York, Singapore, Hong Kong
 
 ## Full Reports
 

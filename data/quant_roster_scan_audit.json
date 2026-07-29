@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-28T16:44:39.609Z",
-  "scanStartedAt": "2026-07-28T16:40:43.388Z",
+  "generatedAt": "2026-07-29T01:19:40.871Z",
+  "scanStartedAt": "2026-07-29T01:13:51.385Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
-    "matching-role-found": 37,
+    "matching-role-found": 36,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 49,
-    "could-not-fully-verify": 213
+    "confirmed-openings-no-matching-role": 48,
+    "could-not-fully-verify": 215
   },
   "companies": [
     {
@@ -100,7 +100,7 @@
       "careerPages": [
         "https://www.arfima.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 47,
+      "jobsSeen": 48,
       "relevantInternships": 7
     },
     {
@@ -538,8 +538,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 21,
-      "relevantInternships": 1
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Ace Capital Saires",
@@ -761,7 +761,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 179,
+      "jobsSeen": 176,
       "relevantInternships": 16
     },
     {
@@ -969,7 +969,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 35,
+      "jobsSeen": 34,
       "relevantInternships": 0
     },
     {
@@ -989,14 +989,14 @@
       "sourceRosterNames": [
         "Cubist (Point72)"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://careers.point72.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 228,
-      "relevantInternships": 8
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "DSV Fund",
@@ -1021,7 +1021,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 57,
+      "jobsSeen": 56,
       "relevantInternships": 1
     },
     {
@@ -1235,7 +1235,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 74,
+      "jobsSeen": 78,
       "relevantInternships": 2
     },
     {
@@ -1425,7 +1425,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 37,
+      "jobsSeen": 38,
       "relevantInternships": 1
     },
     {
@@ -1721,7 +1721,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -1734,7 +1734,7 @@
         "https://www.gelbergroup.com/careers/",
         "https://job-boards.greenhouse.io/gelbergroup"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 18,
       "relevantInternships": 0
@@ -1774,7 +1774,7 @@
       "careerPages": [
         "https://www.group1.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2455,7 +2455,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 55,
+      "jobsSeen": 54,
       "relevantInternships": 1
     },
     {
@@ -3113,7 +3113,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3226,7 +3226,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 32,
+      "jobsSeen": 33,
       "relevantInternships": 1
     },
     {
@@ -3393,7 +3393,7 @@
       "sourceRosterNames": [
         "Squarepoint Capital"
       ],
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.squarepoint-capital.com/open-opportunities"
       ],
@@ -4098,7 +4098,7 @@
         "https://www.ubs.com/global/en/careers/early-careers.html",
         "https://www.ubs.com/global/en/careers/early-careers/faq.html"
       ],
-      "livePages": 5,
+      "livePages": 4,
       "attemptedPages": 5,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4153,7 +4153,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 6,
+      "jobsSeen": 7,
       "relevantInternships": 2
     },
     {

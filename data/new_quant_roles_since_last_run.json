@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-07-28T16:44:39.722Z",
-  "previousScanAt": "2026-07-28T16:03:45.856Z",
-  "currentScanAt": "2026-07-28T16:40:43.388Z",
+  "generatedAt": "2026-07-29T01:19:40.980Z",
+  "previousScanAt": "2026-07-28T16:40:43.388Z",
+  "currentScanAt": "2026-07-29T01:13:51.385Z",
   "previousRows": 256,
-  "currentRows": 256,
+  "currentRows": 255,
   "added": [],
-  "removed": []
+  "removed": [
+    {
+      "Company": "Squarepoint Capital",
+      "Title": "Intern Quant Researcher",
+      "Location": "London, Paris, New York, Singapore, Hong Kong",
+      "URL": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
+      "Source": "Greenhouse:squarepointcapital",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title",
+      "Region": "Global / Multiple Regions"
+    }
+  ]
 }
