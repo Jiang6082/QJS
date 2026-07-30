@@ -1,15 +1,15 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-07-29T14:58:48.979Z
+Scan started: 2026-07-30T15:21:50.529Z
 Source roster entries: 303
 Canonical companies after aliases: 302
 
-## Matching Roles Found (37)
+## Matching Roles Found (38)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
 | AlphaGrep | 2/2 pages live | [link](https://www.alpha-grep.com/career/) [link](https://job-boards.greenhouse.io/alphagrepsecurities) |
-| BlackEdge Capital | 0/1 pages live | [link](https://job-boards.greenhouse.io/blackedgecapital) |
+| BlackEdge Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/blackedgecapital) |
 | Chicago Trading Company | 2/2 pages live | [link](https://www.chicagotrading.com/careers/) [link](https://job-boards.greenhouse.io/ctccampusboard) |
 | D. E. Shaw | 3/3 pages live | [link](https://www.deshaw.com/careers?source=campus) [link](https://www.deshaw.com/careers) [link](https://www.deshawindia.com/careers) |
 | AQR Capital Management | 3/3 pages live | [link](https://careers.aqr.com/) [link](https://www.aqr.com/Our-Firm/Careers) [link](https://job-boards.greenhouse.io/aqr) |
@@ -18,6 +18,7 @@ Canonical companies after aliases: 302
 | Citadel Securities | 0/4 pages live | [link](https://www.citadelsecurities.com/careers/) [link](https://www.citadel.com/careers/) [link](https://www.citadelsecurities.com/careers/open-opportunities/) [link](https://www.citadelsecurities.com/careers/students/) |
 | DRW | 1/1 pages live | [link](https://drw.com/work-at-drw/) |
 | DV Trading | 1/1 pages live | [link](https://dvtrading.co/join-dv/) |
+| Deutsche Bank | 1/1 pages live | [link](https://db.wd3.myworkdayjobs.com/DBWebsite/) |
 | Engineers Gate | 1/1 pages live | [link](https://job-boards.greenhouse.io/engineersgate) |
 | Five Rings | 4/4 pages live | [link](https://job-boards.greenhouse.io/fiveringsllc) [link](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008) [link](https://fiveringsfinancial.com/join-our-team/) [link](https://fiverings.com/careers/) |
 | GSA Capital | 2/3 pages live | [link](https://www.gsacapital.com/careers/) [link](https://job-boards.greenhouse.io/gsacapital) [link](https://www.gsacapital.com/join-us) |
@@ -28,7 +29,7 @@ Canonical companies after aliases: 302
 | Jump Trading | 1/1 pages live | [link](https://www.jumptrading.com/careers/) |
 | IMC Trading | 3/3 pages live | [link](https://job-boards.greenhouse.io/imc/jobs/4597351101) [link](https://www.imc.com/us/careers/) [link](https://www.imc.com/ap/careers/) |
 | PDT Partners | 4/5 pages live | [link](https://job-boards.greenhouse.io/pdtpartners?error=true) [link](https://job-boards.greenhouse.io/pdtpartners/jobs/3914106) [link](https://www.pdtpartners.com/careers/) [link](https://pdtpartners.com/careers) [link](https://job-boards.greenhouse.io/pdtpartners) |
-| Radix Trading | 2/4 pages live | [link](https://www.radix-trading.com/careers/) [link](https://www.radixeng.com/careers) [link](https://job-boards.greenhouse.io/radixuniversity) [link](https://job-boards.greenhouse.io/radixexperienced) |
+| Radix Trading | 3/4 pages live | [link](https://www.radix-trading.com/careers/) [link](https://www.radixeng.com/careers) [link](https://job-boards.greenhouse.io/radixuniversity) [link](https://job-boards.greenhouse.io/radixexperienced) |
 | Schonfeld | 2/2 pages live | [link](https://job-boards.greenhouse.io/schonfeld?error=true) [link](https://www.schonfeld.com/careers/) |
 | Susquehanna International Group | 4/4 pages live | [link](https://careers.sig.com/) [link](https://careers-sig.icims.com/jobs/intro) [link](https://sig.com/careers/) [link](https://careers-sig.icims.com/jobs/intro?mobile=true&needsRedirect=false) |
 | Morgan Stanley | 4/4 pages live | [link](https://www.morganstanley.com/careers/career-opportunities-search) [link](https://www.morganstanley.com/people-opportunities/students-graduates) [link](https://www.morganstanley.com/careers/career-opportunities-search/) [link](https://morganstanley.eightfold.ai/careers?source=mscom) |
@@ -54,7 +55,7 @@ Canonical companies after aliases: 302
 | Maverick Derivatives | 1/1 pages live | [link](https://job-boards.greenhouse.io/maverickderivatives?error=true) |
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
 
-## Confirmed Openings, No Matching Role (49)
+## Confirmed Openings, No Matching Role (48)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -62,14 +63,13 @@ Canonical companies after aliases: 302
 | Bracebridge Capital | 1/1 pages live | [link](https://www.bracebridgecapital.com/careers/) |
 | Belvedere Trading | 1/1 pages live | [link](https://www.belvederetrading.com/careers/) |
 | Brevan Howard | 4/5 pages live | [link](https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967) [link](https://brevanhoward.wd3.myworkdayjobs.com/wday/cxs/brevanhoward/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2025-Trading-Graduate-Program---Abu-Dhabi_JR100942) [link](https://www.brevanhoward.com/careers/) [link](https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/jobs) [link](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers) |
-| 3Red Partners | 1/2 pages live | [link](https://www.3redpartners.com/careers/) [link](https://job-boards.greenhouse.io/3redpartners) |
+| 3Red Partners | 2/2 pages live | [link](https://www.3redpartners.com/careers/) [link](https://job-boards.greenhouse.io/3redpartners) |
 | Bridgewater Associates | 1/1 pages live | [link](https://www.bridgewater.com/working-at-bridgewater) |
 | Capital Fund Management | 1/1 pages live | [link](https://www.cfm.com/join-us/) |
 | Akuna Capital | 2/2 pages live | [link](https://akunacapital.com/careers/) [link](https://job-boards.greenhouse.io/optionstrading201course/jobs/7394582) |
 | Ansatz Capital | 1/1 pages live | [link](https://jobs.lever.co/ansatzcapital?by=location) |
 | Clear Street | 1/1 pages live | [link](https://job-boards.greenhouse.io/clearstreet?gh_src=bdd2c3261) |
 | Cubist | 1/1 pages live | [link](https://careers.point72.com/) |
-| Deutsche Bank | 1/1 pages live | [link](https://db.wd3.myworkdayjobs.com/DBWebsite/) |
 | ExodusPoint | 1/1 pages live | [link](https://job-boards.greenhouse.io/exoduspoint) |
 | Eclipse Trading | 1/1 pages live | [link](https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002) |
 | GSR | 1/1 pages live | [link](https://job-boards.greenhouse.io/gsrmarkets/jobs/4421987101) |

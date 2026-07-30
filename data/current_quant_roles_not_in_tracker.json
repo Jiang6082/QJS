@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T15:42:30.674Z",
-  "currentScanAt": "2026-07-29T14:58:48.979Z",
+  "generatedAt": "2026-07-30T15:25:53.755Z",
+  "currentScanAt": "2026-07-30T15:21:50.529Z",
   "historicalTrackerUrls": 176,
   "roles": [
     {
@@ -195,13 +195,24 @@
     },
     {
       "Company": "Barclays",
+      "Title": "2027 Technology Developer Summer Internship Programme India",
+      "Department": "",
+      "Location": "",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000124913",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Barclays",
       "Title": "2027 Technology Developer Summer Internship Programme Singapore",
       "Department": "",
       "Location": "Singapore, Marina Bay Financial Tower 2",
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Singapore_JR-0000121763",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 22 Days Ago | JR-0000121763",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 23 Days Ago | JR-0000121763",
       "Region": "Asia"
     },
     {
@@ -212,7 +223,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Electronic-Trading-Associate-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117566",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 28 Days Ago | JR-0000117566",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 29 Days Ago | JR-0000117566",
       "Region": "Asia"
     },
     {
@@ -223,7 +234,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Hong-Kong_JR-0000117565",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 28 Days Ago | JR-0000117565",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 29 Days Ago | JR-0000117565",
       "Region": "Asia"
     },
     {
@@ -234,7 +245,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Singapore_JR-0000117563",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 28 Days Ago | JR-0000117563",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 29 Days Ago | JR-0000117563",
       "Region": "Asia"
     },
     {
@@ -245,7 +256,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Research-Analyst-Summer-Internship-Programme-2027-Singapore_JR-0000119610",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 28 Days Ago | JR-0000119610",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 29 Days Ago | JR-0000119610",
       "Region": "Asia"
     },
     {
@@ -256,7 +267,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117559",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 28 Days Ago | JR-0000117559",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 29 Days Ago | JR-0000117559",
       "Region": "Asia"
     },
     {
@@ -267,7 +278,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Singapore_JR-0000117562",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 28 Days Ago | JR-0000117562",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 29 Days Ago | JR-0000117562",
       "Region": "Asia"
     },
     {
@@ -585,6 +596,28 @@
       "Region": "Europe"
     },
     {
+      "Company": "Deutsche Bank",
+      "Title": "DWS Investment Risk Intern",
+      "Department": "",
+      "Location": "Luxembourg 2 Blvd K. Adenauer",
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Investment-Risk-Intern_R0445580-1",
+      "Source": "Career page Workday:db/DBWebsite",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0445580",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Deutsche Bank",
+      "Title": "Internship - Implementation Support - Corporate Bank Milan (f/m/x)",
+      "Department": "",
+      "Location": "Milano Bicocca Calendario 3",
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Implementation-Support---Corporate-Bank-Milan--f-m-x-_R0442822",
+      "Source": "Career page Workday:db/DBWebsite",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0442822",
+      "Region": "Remote / Unspecified"
+    },
+    {
       "Company": "DRW",
       "Title": "AI/ML Research Intern",
       "Department": "Campus",
@@ -593,6 +626,17 @@
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7991171 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As an AI/ML Research Intern , you will be an integral member of a team of experienced technologists, quantitative researchers, and traders. You will collaborate closely with other researchers to solve challenging AI and machine learning problems. Your projects will vary depending on priorities at the start of your employment and could include solving forecasting problems or developing large language models (LLMs). We are looking for individuals eager to learn new AI technologies, create innovative solutions, and choose the right tools to directly impact our business. You will be surrounded by cutting-e...",
+      "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "FPGA Intern",
+      "Department": "Campus",
+      "Location": "Chicago",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8038923 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Exam...",
       "Region": "North America"
     },
     {
@@ -608,17 +652,6 @@
     },
     {
       "Company": "DRW",
-      "Title": "FPGA Intern",
-      "Department": "Campus",
-      "Location": "Chicago",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8038923 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Exam...",
-      "Region": "North America"
-    },
-    {
-      "Company": "DRW",
       "Title": "Quantitative Developer Intern (Python)",
       "Department": "Campus Software Engineering",
       "Location": "Singapore",
@@ -631,17 +664,6 @@
     {
       "Company": "DRW",
       "Title": "Quantitative Research Intern",
-      "Department": "Campus Quantitative Research",
-      "Location": "Chicago, New York City",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7818540 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse backgrounds, who are passionate about c...",
-      "Region": "North America"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Quantitative Research Intern",
       "Department": "Campus",
       "Location": "London",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
@@ -649,6 +671,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7957756 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse backgrounds, who are passionate about c...",
       "Region": "Europe"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Quantitative Research Intern",
+      "Department": "Campus Quantitative Research",
+      "Location": "Chicago, New York City",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7818540 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse backgrounds, who are passionate about c...",
+      "Region": "North America"
     },
     {
       "Company": "DRW",
@@ -697,17 +730,6 @@
     {
       "Company": "DRW",
       "Title": "Software Developer Intern",
-      "Department": "Campus Software Engineering",
-      "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7942281 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organised social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietar...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Software Developer Intern",
       "Department": "Campus",
       "Location": "Chicago",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
@@ -737,6 +759,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7991196 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will join one of our development teams supporting our network development initiatives or trading businesses. Depending on the team you join, you will build advanced trading, analysis and risk applications, or advanced monitoring and automation systems leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your internship. While your days will have you immersed in complex projects directly driving DRW's progress, your tim...",
       "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Software Developer Intern",
+      "Department": "Campus Software Engineering",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7942281 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organised social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietar...",
+      "Region": "Europe"
     },
     {
       "Company": "DRW",
@@ -836,22 +869,22 @@
     {
       "Company": "Jane Street",
       "Title": "Linux Engineer",
-      "Location": "New York",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8626260002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Technology",
-      "Region": "North America"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Linux Engineer",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Technology",
       "Region": "Asia"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Linux Engineer",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8626260002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Technology",
+      "Region": "North America"
     },
     {
       "Company": "Jane Street",
@@ -1378,6 +1411,17 @@
     },
     {
       "Company": "Susquehanna International Group",
+      "Title": "Trading Operations Analyst Internship: Summer 2027",
+      "Department": "Operations, Interns + Co-ops",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://careers.sig.com/jobs/11244?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-07-30T03:33:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028, 2027 | Overview Susquehanna is looking for highly motivated full-time students for our 10-week Trading Operations summer internship program based at our US Headquarters. This program offers students currently enrolled at universities in Hong Kong or Singapore the opportunity to intern in the US with the intention of long-term placement in our Hong Kong office. Trading Operations sits at the intersection of trading, technology, and external counterparties - providing you with the opportunity to build meaningful relationships and contribute to impactful projects that drive our success. Throughout your internship, you’ll work closely with our core team and rotate across different trading desks such as Options, ETF, Treasury and Equity Finance, gaining hands-on experienc...",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Susquehanna International Group",
       "Title": "Trading System Engineering Internship: Summer 2027",
       "Department": "Technology - Software Engineering, Interns + Co-ops",
       "Location": "Hong Kong, Hong Kong",
@@ -1477,6 +1521,17 @@
     },
     {
       "Company": "Virtu Financial",
+      "Title": "2027 Internship - Quantitative Strategist",
+      "Department": "Internships",
+      "Location": "Singapore",
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/7617953002",
+      "Source": "Career page Greenhouse:virtu",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=7617953002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Virtu Financial",
       "Title": "2027 Internship - Quantitative Trading",
       "Department": "Internships",
       "Location": "Austin, TX; Chicago; New York",
@@ -1485,6 +1540,28 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8624408002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
       "Region": "North America"
+    },
+    {
+      "Company": "Virtu Financial",
+      "Title": "2027 Internship - Quantitative Trading",
+      "Department": "Internships",
+      "Location": "Singapore",
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/5208637002",
+      "Source": "Career page Greenhouse:virtu",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=5208637002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. W...",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Virtu Financial",
+      "Title": "2027 Internship - Software Engineer",
+      "Department": "Internships",
+      "Location": "Dublin, Ireland",
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8551566002",
+      "Source": "Career page Greenhouse:virtu",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8551566002 | internship timing not stated in title; graduation eligibility mentions: 2028 | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up with the stability of a disciplined financial services firm. We are a flat organisation and encourage our people to innovate and lean on their team...",
+      "Region": "Europe"
     },
     {
       "Company": "Virtu Financial",
@@ -1499,14 +1576,35 @@
     },
     {
       "Company": "Virtu Financial",
-      "Title": "2027 Internship - Software Engineer",
+      "Title": "2027 Internship – Core Operations Engineer",
       "Department": "Internships",
-      "Location": "Dublin, Ireland",
-      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8551566002",
+      "Location": "Singapore",
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/6329460002",
       "Source": "Career page Greenhouse:virtu",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8551566002 | internship timing not stated in title; graduation eligibility mentions: 2028 | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up with the stability of a disciplined financial services firm. We are a flat organisation and encourage our people to innovate and lean on their team...",
-      "Region": "Europe"
+      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=6329460002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Virtu Financial",
+      "Title": "2027 Internship – Software Engineer",
+      "Department": "Internships",
+      "Location": "Singapore",
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/5513756002",
+      "Source": "Career page Greenhouse:virtu",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=5513756002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
+      "Region": "Asia"
+    },
+    {
+      "Company": "WorldQuant",
+      "Title": "Quant Developer Intern",
+      "Location": "Singapore",
+      "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4572988006",
+      "Source": "Greenhouse:worldquant",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
+      "Region": "Asia"
     }
   ]
 }

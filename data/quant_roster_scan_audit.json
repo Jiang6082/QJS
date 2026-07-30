@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-29T15:03:03.809Z",
-  "scanStartedAt": "2026-07-29T14:58:48.979Z",
+  "generatedAt": "2026-07-30T15:25:53.667Z",
+  "scanStartedAt": "2026-07-30T15:21:50.529Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
-    "matching-role-found": 37,
+    "matching-role-found": 38,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 49,
+    "confirmed-openings-no-matching-role": 48,
     "could-not-fully-verify": 213
   },
   "companies": [
@@ -74,7 +74,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 22,
+      "jobsSeen": 18,
       "relevantInternships": 3
     },
     {
@@ -154,7 +154,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/blackedgecapital"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 7,
       "relevantInternships": 2
@@ -427,7 +427,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantInternships": 0
     },
     {
@@ -522,7 +522,7 @@
         "https://www.3redpartners.com/careers/",
         "https://job-boards.greenhouse.io/3redpartners"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 8,
       "relevantInternships": 0
@@ -761,7 +761,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 176,
+      "jobsSeen": 177,
       "relevantInternships": 16
     },
     {
@@ -995,7 +995,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 228,
+      "jobsSeen": 231,
       "relevantInternships": 8
     },
     {
@@ -1023,7 +1023,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 54,
+      "jobsSeen": 56,
       "relevantInternships": 1
     },
     {
@@ -1045,14 +1045,14 @@
       "sourceRosterNames": [
         "Deutsche Bank (quant/systematic)"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://db.wd3.myworkdayjobs.com/DBWebsite/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 40,
-      "relevantInternships": 0
+      "relevantInternships": 2
     },
     {
       "company": "Domeyard LP",
@@ -1281,7 +1281,7 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 221,
+      "jobsSeen": 220,
       "relevantInternships": 0
     },
     {
@@ -1427,7 +1427,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 39,
+      "jobsSeen": 40,
       "relevantInternships": 1
     },
     {
@@ -2068,7 +2068,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 27,
+      "jobsSeen": 29,
       "relevantInternships": 0
     },
     {
@@ -2098,7 +2098,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 148,
+      "jobsSeen": 149,
       "relevantInternships": 7
     },
     {
@@ -2414,7 +2414,7 @@
         "https://job-boards.greenhouse.io/radixuniversity",
         "https://job-boards.greenhouse.io/radixexperienced"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 4,
       "jobsSeen": 23,
       "relevantInternships": 2
@@ -2457,7 +2457,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 56,
+      "jobsSeen": 57,
       "relevantInternships": 1
     },
     {
@@ -3573,7 +3573,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantInternships": 0
     },
     {
@@ -3908,8 +3908,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 42,
-      "relevantInternships": 6
+      "jobsSeen": 47,
+      "relevantInternships": 10
     },
     {
       "company": "Verition Fund Management",
@@ -3924,7 +3924,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 31,
+      "jobsSeen": 32,
       "relevantInternships": 0
     },
     {
@@ -3954,7 +3954,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 15,
+      "jobsSeen": 24,
       "relevantInternships": 8
     },
     {
@@ -4056,7 +4056,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 56,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -4197,8 +4197,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 99,
-      "relevantInternships": 5
+      "jobsSeen": 101,
+      "relevantInternships": 6
     },
     {
       "company": "Xantium",

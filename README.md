@@ -2,7 +2,7 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-07-29 &nbsp;•&nbsp; **257 open roles** &nbsp;•&nbsp; **2 new today** &nbsp;•&nbsp; **12 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-07-30 &nbsp;•&nbsp; **267 open roles** &nbsp;•&nbsp; **10 new today** &nbsp;•&nbsp; **12 closed** ([history](reports/closed_roles_history.md))
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -10,25 +10,33 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-07-29_
+_Scan date: 2026-07-30_
 
-**2** new stable job postings since the previous scan:
+**10** new stable job postings since the previous scan:
 
-**Global / Multiple Regions**
+**Asia**
 
-- **Squarepoint Capital** — [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) — London, Paris, New York, Singapore, Hong Kong
+- **Susquehanna International Group** — [Trading Operations Analyst Internship: Summer 2027](https://careers.sig.com/jobs/11244?lang=en-us) — Hong Kong, Hong Kong
+- **Virtu Financial** — [2027 Internship - Quantitative Strategist](https://job-boards.greenhouse.io/virtu/jobs/7617953002) — Singapore
+- **Virtu Financial** — [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/5208637002) — Singapore
+- **Virtu Financial** — [2027 Internship – Core Operations Engineer](https://job-boards.greenhouse.io/virtu/jobs/6329460002) — Singapore
+- **Virtu Financial** — [2027 Internship – Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/5513756002) — Singapore
+- **WorldQuant** — [Quant Developer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4572988006) — Singapore
+- **WorldQuant** — [Quantitative Research Intern](https://job-boards.greenhouse.io/worldquant/jobs/4314066006) — Singapore
 
 **Remote / Unspecified**
 
-- **Tower Research Capital** — [Intern](https://www.tower-research.com/open-positions/?gh_jid=8091833) — Gift City
+- **Barclays** — [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913)
+- **Deutsche Bank** — [DWS Investment Risk Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Investment-Risk-Intern_R0445580-1) — Luxembourg 2 Blvd K. Adenauer
+- **Deutsche Bank** — [Internship - Implementation Support - Corporate Bank Milan (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Implementation-Support---Corporate-Bank-Milan--f-m-x-_R0442822) — Milano Bicocca Calendario 3
 
 ---
 
 ## 📋 All Roles Available
 
-**257** open internship roles, grouped by region. Click a title to open the official posting.
+**267** open internship roles, grouped by region. Click a title to open the official posting.
 
-**Regions:** [North America (144)](#north-america) · [Europe (44)](#europe) · [Asia (53)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (8)](#global--multiple-regions) · [Remote / Unspecified (3)](#remote--unspecified)
+**Regions:** [North America (144)](#north-america) · [Europe (44)](#europe) · [Asia (60)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (8)](#global--multiple-regions) · [Remote / Unspecified (6)](#remote--unspecified)
 
 ### North America
 
@@ -203,8 +211,8 @@ _Scan date: 2026-07-29_
 - **DRW** — [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8070392) — London
 - **DRW** — [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7957756) — London
 - **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243) — London
-- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) — London
 - **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364) — Amsterdam
+- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) — London
 - **GSA Capital** — [Software Developer - Intern](https://www.gsacapital.com/careers/gh/?gh_jid=8570668002) — London
 - **IMC Trading** — [Machine Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) — Amsterdam, Netherlands
 - **Jane Street** — [Tools & Compilers Research and Development](https://www.janestreet.com/join-jane-street/position/5866838002/) — London
@@ -237,7 +245,7 @@ _Scan date: 2026-07-29_
 ### Asia
 
 <details>
-<summary><strong>53 roles</strong> — click to expand</summary>
+<summary><strong>60 roles</strong> — click to expand</summary>
 
 - **AlphaGrep** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002) — Mumbai
 - **AlphaGrep** — [Quantitative Trading Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622004002) — India
@@ -264,8 +272,8 @@ _Scan date: 2026-07-29_
 - **Jane Street** — [Linux Engineer](https://www.janestreet.com/join-jane-street/position/8377832002/) — Hong Kong
 - **Jane Street** — [Linux Engineer](https://www.janestreet.com/join-jane-street/position/8625946002/) — Hong Kong
 - **Jane Street** — [Machine Learning Researcher](https://www.janestreet.com/join-jane-street/position/8374335002/) — Hong Kong
-- **Jane Street** — [Quantitative Researcher](https://www.janestreet.com/join-jane-street/position/8623868002/) — Hong Kong
 - **Jane Street** — [Quantitative Researcher](https://www.janestreet.com/join-jane-street/position/8343131002/) — Hong Kong
+- **Jane Street** — [Quantitative Researcher](https://www.janestreet.com/join-jane-street/position/8623868002/) — Hong Kong
 - **Jane Street** — [Quantitative Trader](https://www.janestreet.com/join-jane-street/position/7982986002/) — Hong Kong
 - **Jane Street** — [Quantitative Trader](https://www.janestreet.com/join-jane-street/position/8623733002/) — Hong Kong
 - **Jane Street** — [Sales and Trading](https://www.janestreet.com/join-jane-street/position/8630687002/) — Hong Kong
@@ -286,10 +294,17 @@ _Scan date: 2026-07-29_
 - **Susquehanna International Group** — [Quantitative Research Internship - Master's: Summer 2027](https://careers.sig.com/jobs/11121?lang=en-us) — Hong Kong, Hong Kong
 - **Susquehanna International Group** — [Quantitative Strategy Developer Internship: Summer 2027](https://careers.sig.com/jobs/11170?lang=en-us) — Hong Kong, Hong Kong
 - **Susquehanna International Group** — [Quantitative Systematic Trading Internship - Master's: Summer 2027](https://careers.sig.com/jobs/11122?lang=en-us) — Hong Kong, Hong Kong
+- **Susquehanna International Group** — [Trading Operations Analyst Internship: Summer 2027](https://careers.sig.com/jobs/11244?lang=en-us) — Hong Kong, Hong Kong
 - **Susquehanna International Group** — [Trading System Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11169?lang=en-us) — Hong Kong, Hong Kong
 - **Tower Research Capital** — [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) — Singapore
+- **Virtu Financial** — [2027 Internship - Quantitative Strategist](https://job-boards.greenhouse.io/virtu/jobs/7617953002) — Singapore
+- **Virtu Financial** — [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/5208637002) — Singapore
+- **Virtu Financial** — [2027 Internship – Core Operations Engineer](https://job-boards.greenhouse.io/virtu/jobs/6329460002) — Singapore
+- **Virtu Financial** — [2027 Internship – Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/5513756002) — Singapore
 - **WorldQuant** — [Data Science Intern](https://job-boards.greenhouse.io/worldquant/jobs/4069460006) — Beijing OR Shanghai
+- **WorldQuant** — [Quant Developer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4572988006) — Singapore
 - **WorldQuant** — [Quantitative Research Intern](https://job-boards.greenhouse.io/worldquant/jobs/4084570006) — Beijing OR Shanghai
+- **WorldQuant** — [Quantitative Research Intern](https://job-boards.greenhouse.io/worldquant/jobs/4314066006) — Singapore
 - **WorldQuant** — [Quantitative Research Intern (LLMs & AI Agents)](https://job-boards.greenhouse.io/worldquant/jobs/4434997006) — Hanoi or Ho Chi Minh City
 - **WorldQuant** — [Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4652485006) — Hanoi
 
@@ -335,11 +350,14 @@ _Scan date: 2026-07-29_
 ### Remote / Unspecified
 
 <details>
-<summary><strong>3 roles</strong> — click to expand</summary>
+<summary><strong>6 roles</strong> — click to expand</summary>
 
+- **Barclays** — [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913)
+- **Deutsche Bank** — [DWS Investment Risk Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Investment-Risk-Intern_R0445580-1) — Luxembourg 2 Blvd K. Adenauer
+- **Deutsche Bank** — [Internship - Implementation Support - Corporate Bank Milan (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Implementation-Support---Corporate-Bank-Milan--f-m-x-_R0442822) — Milano Bicocca Calendario 3
 - **J.P. Morgan** — [Asset Management Summer Analyst Program](https://careers.jpmorgan.com/US/en/students/programs/asset-management-summer-analyst) — Varies by open location
 - **J.P. Morgan** — [Markets Summer Analyst Program](https://careers.jpmorgan.com/us/en/students/programs/markets-summer-analyst) — Varies by open location
-- **Tower Research Capital** — [Intern](https://www.tower-research.com/open-positions/?gh_jid=8091833) — Gift City
+- **Tower Research Capital** — [Junior Executive Trader Intern](https://www.tower-research.com/open-positions/?gh_jid=8091833) — Gift City
 
 </details>
 
