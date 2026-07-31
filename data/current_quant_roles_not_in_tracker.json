@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-31T01:10:26.089Z",
-  "currentScanAt": "2026-07-31T01:06:04.648Z",
+  "generatedAt": "2026-07-31T13:24:37.914Z",
+  "currentScanAt": "2026-07-31T13:20:58.559Z",
   "historicalTrackerUrls": 176,
   "roles": [
     {
@@ -195,13 +195,24 @@
     },
     {
       "Company": "Barclays",
+      "Title": "2027 Technology Developer Summer Internship Programme India",
+      "Department": "",
+      "Location": "",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000124913",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Barclays",
       "Title": "2027 Technology Developer Summer Internship Programme Singapore",
       "Department": "",
       "Location": "Singapore, Marina Bay Financial Tower 2",
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Singapore_JR-0000121763",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 23 Days Ago | JR-0000121763",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 24 Days Ago | JR-0000121763",
       "Region": "Asia"
     },
     {
@@ -212,7 +223,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Electronic-Trading-Associate-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117566",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 29 Days Ago | JR-0000117566",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 30 Days Ago | JR-0000117566",
       "Region": "Asia"
     },
     {
@@ -223,7 +234,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Hong-Kong_JR-0000117565",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 29 Days Ago | JR-0000117565",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 30 Days Ago | JR-0000117565",
       "Region": "Asia"
     },
     {
@@ -234,7 +245,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Singapore_JR-0000117563",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 29 Days Ago | JR-0000117563",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 30 Days Ago | JR-0000117563",
       "Region": "Asia"
     },
     {
@@ -245,7 +256,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Research-Analyst-Summer-Internship-Programme-2027-Singapore_JR-0000119610",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 29 Days Ago | JR-0000119610",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 30 Days Ago | JR-0000119610",
       "Region": "Asia"
     },
     {
@@ -256,7 +267,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117559",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 29 Days Ago | JR-0000117559",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 30 Days Ago | JR-0000117559",
       "Region": "Asia"
     },
     {
@@ -267,7 +278,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Singapore_JR-0000117562",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 29 Days Ago | JR-0000117562",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 30 Days Ago | JR-0000117562",
       "Region": "Asia"
     },
     {
@@ -585,28 +596,6 @@
       "Region": "Europe"
     },
     {
-      "Company": "Deutsche Bank",
-      "Title": "DWS Investment Risk Intern",
-      "Department": "",
-      "Location": "Luxembourg 2 Blvd K. Adenauer",
-      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Investment-Risk-Intern_R0445580-1",
-      "Source": "Career page Workday:db/DBWebsite",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0445580",
-      "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "Deutsche Bank",
-      "Title": "Internship - Implementation Support - Corporate Bank Milan (f/m/x)",
-      "Department": "",
-      "Location": "Milano Bicocca Calendario 3",
-      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Implementation-Support---Corporate-Bank-Milan--f-m-x-_R0442822",
-      "Source": "Career page Workday:db/DBWebsite",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0442822",
-      "Region": "Remote / Unspecified"
-    },
-    {
       "Company": "DRW",
       "Title": "AI/ML Research Intern",
       "Department": "Campus",
@@ -697,6 +686,17 @@
     {
       "Company": "DRW",
       "Title": "Quantitative Trading Analyst Intern",
+      "Department": "Campus Trading Analyst",
+      "Location": "Chicago, Illinois",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7668776 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Trading Analyst Intern , you will gain exposure to the dynamic worlds of trading and technology in order to learn what it takes to become a successful and sustainable trader. You will work on a small team to combine the disciplines of technology, research and risk management to identify optimal trading and investment strategies within the regulatory framework through a series of project based assignments. At the conclusion of 10 weeks, you will have the opportunity to present your results to senior leadership at DRW. While your days will have you engrossed with complex quantitative tr...",
+      "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Quantitative Trading Analyst Intern",
       "Department": "Campus",
       "Location": "London",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
@@ -709,23 +709,34 @@
       "Company": "DRW",
       "Title": "Quantitative Trading Analyst Intern",
       "Department": "Campus Trading Analyst",
-      "Location": "Chicago, Illinois",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7668776 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Trading Analyst Intern , you will gain exposure to the dynamic worlds of trading and technology in order to learn what it takes to become a successful and sustainable trader. You will work on a small team to combine the disciplines of technology, research and risk management to identify optimal trading and investment strategies within the regulatory framework through a series of project based assignments. At the conclusion of 10 weeks, you will have the opportunity to present your results to senior leadership at DRW. While your days will have you engrossed with complex quantitative tr...",
-      "Region": "North America"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Quantitative Trading Analyst Intern",
-      "Department": "Campus Trading Analyst",
       "Location": "Singapore",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/8014919",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8014919 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Trading Analyst Intern , you will gain exposure to the dynamic worlds of trading and technology in order to learn what it takes to become a successful and sustainable trader. You will work on a small team to combine the disciplines of technology, research and risk management to identify optimal trading and investment strategies within the regulatory framework through a series of project based assignments. At the conclusion of 10 weeks, you will have the opportunity to present your results to senior leadership at DRW. While your days will have you engrossed with complex quantitative tr...",
       "Region": "Asia"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Software Developer Intern",
+      "Department": "Campus Software Engineering",
+      "Location": "Amsterdam",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8020364 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Amsterdam. How you will make an impact… Design, develop test, and deploy propriet...",
+      "Region": "Europe"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Software Developer Intern",
+      "Department": "Campus",
+      "Location": "Chicago",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...",
+      "Region": "North America"
     },
     {
       "Company": "DRW",
@@ -747,28 +758,6 @@
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7942281 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organised social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietar...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Software Developer Intern",
-      "Department": "Campus",
-      "Location": "Chicago",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...",
-      "Region": "North America"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Software Developer Intern",
-      "Department": "Campus Software Engineering",
-      "Location": "Amsterdam",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8020364 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Amsterdam. How you will make an impact… Design, develop test, and deploy propriet...",
       "Region": "Europe"
     },
     {
@@ -869,22 +858,22 @@
     {
       "Company": "Jane Street",
       "Title": "Linux Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Technology",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Linux Engineer",
       "Location": "New York",
       "URL": "https://www.janestreet.com/join-jane-street/position/8626260002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Technology",
       "Region": "North America"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Linux Engineer",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Technology",
+      "Region": "Asia"
     },
     {
       "Company": "Jane Street",

@@ -1,5 +1,38 @@
 [
   {
+    "Company": "Deutsche Bank",
+    "Title": "DWS Investment Risk Intern",
+    "Location": "Luxembourg 2 Blvd K. Adenauer",
+    "Region": "Remote / Unspecified",
+    "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Investment-Risk-Intern_R0445580-1",
+    "Source": "Career page Workday:db/DBWebsite",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-31T01:06:04.648Z",
+    "detectedClosedAt": "2026-07-31T13:20:58.559Z"
+  },
+  {
+    "Company": "Deutsche Bank",
+    "Title": "Internship - Implementation Support - Corporate Bank Milan (f/m/x)",
+    "Location": "Milano Bicocca Calendario 3",
+    "Region": "Remote / Unspecified",
+    "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Implementation-Support---Corporate-Bank-Milan--f-m-x-_R0442822",
+    "Source": "Career page Workday:db/DBWebsite",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-31T01:06:04.648Z",
+    "detectedClosedAt": "2026-07-31T13:20:58.559Z"
+  },
+  {
+    "Company": "Jane Street",
+    "Title": "Strategy and Product",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.janestreet.com/join-jane-street/position/8370012002/",
+    "Source": "Official Jane Street jobs feed",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-31T01:06:04.648Z",
+    "detectedClosedAt": "2026-07-31T13:20:58.559Z"
+  },
+  {
     "Company": "Aquatic Capital",
     "Title": "Quantitative Researcher, Intern (Summer 2027)",
     "Location": "Chicago; London",
@@ -8,7 +41,8 @@
     "Source": "Career page Greenhouse:aquaticcapitalmanagement",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-30T15:21:50.529Z",
-    "detectedClosedAt": "2026-07-31T01:06:04.648Z"
+    "detectedClosedAt": "2026-07-31T01:06:04.648Z",
+    "reopenedAt": "2026-07-31T13:20:58.559Z"
   },
   {
     "Company": "Aquatic Capital",
@@ -19,7 +53,8 @@
     "Source": "Career page Greenhouse:aquaticcapitalmanagement",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-30T15:21:50.529Z",
-    "detectedClosedAt": "2026-07-31T01:06:04.648Z"
+    "detectedClosedAt": "2026-07-31T01:06:04.648Z",
+    "reopenedAt": "2026-07-31T13:20:58.559Z"
   },
   {
     "Company": "Barclays",
@@ -30,7 +65,8 @@
     "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-30T15:21:50.529Z",
-    "detectedClosedAt": "2026-07-31T01:06:04.648Z"
+    "detectedClosedAt": "2026-07-31T01:06:04.648Z",
+    "reopenedAt": "2026-07-31T13:20:58.559Z"
   },
   {
     "Company": "Squarepoint Capital",

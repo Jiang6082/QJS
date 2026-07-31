@@ -1,23 +1,10 @@
 {
-  "generatedAt": "2026-07-31T01:10:26.089Z",
-  "previousScanAt": "2026-07-30T15:21:50.529Z",
-  "currentScanAt": "2026-07-31T01:06:04.648Z",
-  "previousRows": 267,
+  "generatedAt": "2026-07-31T13:24:37.914Z",
+  "previousScanAt": "2026-07-31T01:06:04.648Z",
+  "currentScanAt": "2026-07-31T13:20:58.559Z",
+  "previousRows": 265,
   "currentRows": 265,
   "added": [
-    {
-      "Company": "DRW",
-      "Title": "Platform Engineer Intern",
-      "Department": "Campus",
-      "Location": "Chicago",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7997729",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7997729 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Platform Engineer Intern , you will be part of our advanced technology team focused on maintaining and improving the reliability and efficiency of our platform, including underlying systems at DRW. The platform engineer intern will work under the guidance of senior technologists to ensure our systems are highly reliable and scalable during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will ma...",
-      "Region": "North America"
-    }
-  ],
-  "removed": [
     {
       "Company": "Aquatic Capital",
       "Title": "Quantitative Researcher, Intern (Summer 2027)",
@@ -50,6 +37,40 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000124913",
       "Region": "Remote / Unspecified"
+    }
+  ],
+  "removed": [
+    {
+      "Company": "Deutsche Bank",
+      "Title": "DWS Investment Risk Intern",
+      "Department": "",
+      "Location": "Luxembourg 2 Blvd K. Adenauer",
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Investment-Risk-Intern_R0445580-1",
+      "Source": "Career page Workday:db/DBWebsite",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0445580",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Deutsche Bank",
+      "Title": "Internship - Implementation Support - Corporate Bank Milan (f/m/x)",
+      "Department": "",
+      "Location": "Milano Bicocca Calendario 3",
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Implementation-Support---Corporate-Bank-Milan--f-m-x-_R0442822",
+      "Source": "Career page Workday:db/DBWebsite",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0442822",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Strategy and Product",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8370012002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; December-February; Strategy and Product",
+      "Region": "Asia"
     }
   ]
 }

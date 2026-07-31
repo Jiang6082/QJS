@@ -1,24 +1,24 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-07-31T01:06:04.648Z
+Last updated: 2026-07-31T13:20:58.559Z
 
 ## Summary
 
 - Companies searched: 366
 - Career pages checked: 489
 - Current retained roles: 265
-- New stable job URLs since previous scan: 1
+- New stable job URLs since previous scan: 3
 - No longer present since previous scan: 3
 - Matching-role firms: 37
-- Confirmed no open postings: 4
-- Openings but no matching role: 48
+- Confirmed no open postings: 3
+- Openings but no matching role: 49
 - Could not fully verify: 213
 
 ## New Roles Since Previous Scan
 
 ### North America (1)
 
-- **DRW** - [Platform Engineer Intern](https://job-boards.greenhouse.io/drweng/jobs/7997729) - Chicago
+- **Aquatic Capital** - [Software Engineer, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) - Chicago
 
 ### Europe (0)
 
@@ -44,19 +44,19 @@ _None._
 
 _None._
 
-### Global / Multiple Regions (0)
+### Global / Multiple Regions (1)
 
-_None._
+- **Aquatic Capital** - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) - Chicago; London
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **Barclays** - [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913) - Location not listed
 
 ## No Longer Present
 
-- **Aquatic Capital** - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) - Chicago; London
-- **Aquatic Capital** - [Software Engineer, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) - Chicago
-- **Barclays** - [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913) - Location not listed
+- **Deutsche Bank** - [DWS Investment Risk Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Investment-Risk-Intern_R0445580-1) - Luxembourg 2 Blvd K. Adenauer
+- **Deutsche Bank** - [Internship - Implementation Support - Corporate Bank Milan (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Implementation-Support---Corporate-Bank-Milan--f-m-x-_R0442822) - Milano Bicocca Calendario 3
+- **Jane Street** - [Strategy and Product](https://www.janestreet.com/join-jane-street/position/8370012002/) - Hong Kong
 
 ## Full Reports
 

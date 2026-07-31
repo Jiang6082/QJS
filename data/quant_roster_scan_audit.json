@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-31T01:10:25.989Z",
-  "scanStartedAt": "2026-07-31T01:06:04.648Z",
+  "generatedAt": "2026-07-31T13:24:37.820Z",
+  "scanStartedAt": "2026-07-31T13:20:58.559Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
     "matching-role-found": 37,
-    "confirmed-no-open-postings": 4,
-    "confirmed-openings-no-matching-role": 48,
+    "confirmed-no-open-postings": 3,
+    "confirmed-openings-no-matching-role": 49,
     "could-not-fully-verify": 213
   },
   "companies": [
@@ -335,14 +335,14 @@
       "sourceRosterNames": [
         "Aquatic"
       ],
-      "status": "confirmed-no-open-postings",
+      "status": "matching-role-found",
       "careerPages": [
         "https://job-boards.greenhouse.io/aquaticcapitalmanagement"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "jobsSeen": 9,
+      "relevantInternships": 2
     },
     {
       "company": "Armada Technologies",
@@ -427,7 +427,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 16,
+      "jobsSeen": 12,
       "relevantInternships": 0
     },
     {
@@ -761,7 +761,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 178,
+      "jobsSeen": 176,
       "relevantInternships": 17
     },
     {
@@ -995,7 +995,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 233,
+      "jobsSeen": 231,
       "relevantInternships": 8
     },
     {
@@ -1045,14 +1045,14 @@
       "sourceRosterNames": [
         "Deutsche Bank (quant/systematic)"
       ],
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://db.wd3.myworkdayjobs.com/DBWebsite/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 40,
-      "relevantInternships": 2
+      "relevantInternships": 0
     },
     {
       "company": "Domeyard LP",
@@ -1237,7 +1237,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 80,
+      "jobsSeen": 79,
       "relevantInternships": 2
     },
     {
@@ -1281,7 +1281,7 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 220,
+      "jobsSeen": 219,
       "relevantInternships": 0
     },
     {
@@ -1373,7 +1373,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 18,
+      "jobsSeen": 17,
       "relevantInternships": 0
     },
     {
@@ -1427,7 +1427,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 40,
+      "jobsSeen": 37,
       "relevantInternships": 1
     },
     {
@@ -2068,7 +2068,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 29,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -2512,7 +2512,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 2,
+      "jobsSeen": 4,
       "relevantInternships": 0
     },
     {
@@ -3952,7 +3952,7 @@
         "https://walleyecapital.com/careers",
         "https://job-boards.greenhouse.io/walleyecapital-external-fulltime"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 25,
       "relevantInternships": 8
@@ -4197,7 +4197,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 101,
+      "jobsSeen": 102,
       "relevantInternships": 6
     },
     {

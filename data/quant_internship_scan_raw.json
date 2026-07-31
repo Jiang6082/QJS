@@ -1,12 +1,12 @@
 {
-  "scannedAt": "2026-07-31T01:05:37.535Z",
+  "scannedAt": "2026-07-31T13:20:52.205Z",
   "results": [
     {
       "company": "Jane Street",
       "boards": [
         {
           "source": "Greenhouse:janestreet",
-          "count": 220
+          "count": 219
         },
         {
           "source": "Ashby:jane",
@@ -30,7 +30,7 @@
       "boards": [
         {
           "source": "Greenhouse:point72",
-          "count": 233
+          "count": 231
         },
         {
           "source": "Ashby:cubist",
@@ -112,7 +112,7 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 77
+          "count": 76
         },
         {
           "source": "Ashby:hrt",
@@ -451,7 +451,7 @@
       "boards": [
         {
           "source": "Lever:capital",
-          "count": 41
+          "count": 42
         }
       ],
       "matches": []
@@ -461,7 +461,7 @@
       "boards": [
         {
           "source": "Lever:capital",
-          "count": 41
+          "count": 42
         }
       ],
       "matches": []
@@ -659,7 +659,7 @@
       "boards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 40
+          "count": 37
         }
       ],
       "matches": [
@@ -803,7 +803,7 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 77
+          "count": 76
         },
         {
           "source": "Ashby:hrt",
@@ -1174,7 +1174,7 @@
       "boards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 56
+          "count": 57
         }
       ],
       "matches": []
@@ -1262,7 +1262,7 @@
       "boards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 182
+          "count": 181
         },
         {
           "source": "Greenhouse:optiver",
@@ -1468,7 +1468,7 @@
       "boards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 198
+          "count": 199
         }
       ],
       "matches": [
@@ -1504,18 +1504,18 @@
           "source": "Greenhouse:quberesearchandtechnologies",
           "title": "2026 - Internship, Quantitative Developer",
           "department": "Internship - Technology",
-          "location": "Zurich",
-          "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8169041002",
-          "content": "Programme duration: from 5 to 6 months, starting in 2026. &nbsp; Who qualifies : Final year students completing a Bachelor's, or Master's. &nbsp; Qube Research &amp; Technologies (QRT) is a global quantitative and systematic investment manager, operating in all liquid asset classes across the world. We are a technology and data driven group implementing a scientific approach to investing. Combining data, research, technology, and trading expertise has shaped our collaborative mindset which enables us to solve the most complex challenges. QRT’s culture of innovation continuously drives our ambition to deliver high quality returns for our investors. &nbsp; Over the years, QRT has invested in a global research and execution platform which has been deployed to cover all geographies and asset classes. This platform covers a broad spectrum from high to low frequency trading systems. We thrive at the intersection of cutting-edge technology, smart automation, and scalable processes, enabling us to move fast, think big, and deliver at scale. &nbsp; We are committed to identifying and developing exceptional talent, and are inviting a new cohort of outstanding individuals to join us in the year ahead.&nbsp;Our internship offers a stimulating, intellectually rigorous, and high-performance environment, where collaboration is key to success.&nbsp;You will work alongside and be mentored by industry-leading professionals, gaining invaluable experience and positioning yourself for the opportunity to secure a full-time graduate role upon successful completion of the program. &nbsp; &nbsp; Your future role at QRT &nbsp; &nbsp; Throughout the recruitment process, we will work to align your skills, interests, and potential with the teams where you can make the greatest impact. &nbsp; As a Quantitative Developer at QRT, you will contribute to the engineering solutions that power our world-class quantitative research and trading, building the tools, platforms, and infrastructure that enable researchers and traders to operate at their best. You will be tackling projects that demand both technical depth and creativity. &nbsp; Examples of the projects you may work on include: &nbsp; &nbsp; Research Enablement &amp; Platform Engineering &nbsp; Develop and optimize the platforms that power quantitative research across the firm. This may include scalable APIs, machine learning and data pipelines, orchestration frameworks, and shared infrastructure that accelerates research and experimentation. Collaborate closely with researchers to create efficient, reliable, and standardized environments for innovation. &nbsp; Tooling &amp; Workflow Automation &nbsp; Design and deliver internal tools used directly by traders and researchers on discretionary desks. Projects may involve streamlining workflows, improving data accessibility, and supporting real-time decision-making - all within the high-intensity environment of front-office operations. Work interactively with users to deliver intuitive, high-impact solutions. &nbsp; Monitoring &amp; Analytics Tools &nbsp; Build tools and dashboards to support the firm’s risk and oversight functions, enabling performance evaluation, risk monitoring, and investment oversight. Combine strong data processing and visualization skills with scalable infrastructure, and explore opportunities to integrate applied machine learning for deeper insights. &nbsp; &nbsp; Your present skillset &nbsp; Strong core computer science foundations, including algorithms, data structures, parallel programming, and object-oriented programming (OOP). &nbsp; Ability to write production-grade Python - reusable, type-hinted modules with proper packaging and dependency management, not one-off scripts. Genuine interest in software engineering, infrastructure, distributetes systems or data engineering within a low-latency environment. Interest in high performance distributed systems. Excellent communication and analytical skills - you may interact directly with Traders and Researchers. Drive for rapid autonomy and the ability to work in a fast-paced, high-performance setting. &nbsp; Rigorous and structured approach to problem-solving. &nbsp; Preferred qualifications (a plus): &nbsp; Knowledge of databases such as SQL or NoSQL. &nbsp; Experience in front-end development. &nbsp; Interest in financial markets and/or algorithmic trading. &nbsp; &nbsp; Interview Process &nbsp; Application - Submit your application online. We review applications on a rolling basis, so we recommend applying early to maximize your chances. &nbsp; Technical Assessment - Selected candidates will be invited to complete a coding challenge designed to evaluate core technical and problem-solving skills. &nbsp; Interviews - Shortlisted applicants will proceed to interviews, conducted either on-site or via Microsoft Teams. These will assess both your technical expertise and your alignment with our culture and values. &nbsp; &nbsp; QRT is an equal opportunity employer. We welcome diversity as essential to our success. QRT empowers employees to work openly and respectfully to achieve collective success. In addition to professional achievement, we are offering initiatives and programs to enable employees achieve a healthy work-life balance. &nbsp;"
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8068131002",
+          "content": "Programme duration: from 5 to 6 months, starting in 2026. &nbsp; Who qualifies : Penultimate or final year students completing a Bachelor's, Master's. &nbsp; Qube Research &amp; Technologies (QRT) is a global quantitative and systematic investment manager, operating in all liquid asset classes across the world. We are a technology and data driven group implementing a scientific approach to investing. Combining data, research, technology, and trading expertise has shaped our collaborative mindset which enables us to solve the most complex challenges. QRT’s culture of innovation continuously drives our ambition to deliver high quality returns for our investors. &nbsp; Over the years, QRT has invested in a global research and execution platform which has been deployed to cover all geographies and asset classes. This platform covers a broad spectrum from high to low frequency trading systems. We thrive at the intersection of cutting-edge technology, smart automation, and scalable processes, enabling us to move fast, think big, and deliver at scale. &nbsp; We are committed to identifying and developing exceptional talent, and are inviting a new cohort of outstanding individuals to join us in the year ahead.&nbsp;Our internship offers a stimulating, intellectually rigorous, and high-performance environment, where collaboration is key to success.&nbsp;You will work alongside and be mentored by industry-leading professionals, gaining invaluable experience and positioning yourself for the opportunity to secure a full-time graduate role upon successful completion of the program. &nbsp; &nbsp; Your future role at QRT &nbsp; Throughout the recruitment process, we will work to align your skills, interests, and potential with the teams where you can make the greatest impact. &nbsp; As a Quantitative Developer at QRT, you will contribute to the engineering solutions that power our world-class quantitative research and trading, building the tools, platforms, and infrastructure that enable researchers and traders to operate at their best. You will be tackling projects that demand both technical depth and creativity. &nbsp; Examples of the projects you may work on include: &nbsp; Trading Infrastructure &amp; Low-Latency &nbsp; Build and optimize the high-performance systems that power QRT’s real-time trading. Contribute to low-latency infrastructure, execution logic, and live monitoring tools — where engineering performance directly impacts trading outcomes. These roles involve hands-on development in C++ or .NET, close to production and tightly integrated with live strategies. &nbsp; Research Enablement &amp; Platform Engineering &nbsp; Develop and optimize the platforms that power quantitative research across the firm. This may include scalable APIs, machine learning and data pipelines, orchestration frameworks, and shared infrastructure that accelerates research and experimentation. Collaborate closely with researchers to create efficient, reliable, and standardized environments for innovation. &nbsp; Tooling &amp; Workflow Automation &nbsp; Design and deliver internal tools used directly by traders and researchers on discretionary desks. Projects may involve streamlining workflows, improving data accessibility, and supporting real-time decision-making - all within the high-intensity environment of front-office operations. Work interactively with users to deliver intuitive, high-impact solutions. &nbsp; Monitoring &amp; Analytics Tools &nbsp; Build tools and dashboards to support the firm’s risk and oversight functions, enabling performance evaluation, risk monitoring, and investment oversight. Combine strong data processing and visualization skills with scalable infrastructure, and explore opportunities to integrate applied machine learning for deeper insights. &nbsp; Core Trading Systems (London only) &nbsp; Build and maintain the infrastructure supporting the development, testing, and deployment of trading signals in production. This includes tooling for signal generation, model evaluation, data ingestion, and analytics - enabling systematic trading teams to iterate, validate, and implement live trading logic efficiently and reliably. &nbsp; &nbsp; Your present skillset &nbsp; Strong core computer science foundations, including algorithms, data structures, parallel programming, and object-oriented programming (OOP). &nbsp; Genuine interest in software engineering, infrastructure, or data engineering within a low-latency environment, working in C++, C#, or Python. &nbsp; Interest to build expertise in high-performance, real-time trading systems &nbsp; Excellent communication and analytical skills – you will interact directly with Traders and Researchers &nbsp; Drive for rapid autonomy and the ability to work in a fast-paced, high-performance setting. &nbsp; Rigorous and structured approach to problem-solving. &nbsp; Preferred qualifications (a plus): &nbsp; Knowledge of databases such as SQL or NoSQL. &nbsp; Experience in front-end development. &nbsp; Interest in financial markets and/or algorithmic trading. &nbsp; &nbsp; Interview Process &nbsp; Application - Submit your application online. We review applications on a rolling basis, so we recommend applying early to maximize your chances. &nbsp; Technical Assessment - Selected candidates will be invited to complete a coding challenge designed to evaluate core technical and problem-solving skills. &nbsp; Interviews - Shortlisted applicants will proceed to interviews, conducted either on-site or via Microsoft Teams. These will assess both your technical expertise and your alignment with our culture and values. &nbsp; &nbsp; QRT is an equal opportunity employer. We welcome diversity as essential to our success. QRT empowers employees to work openly and respectfully to achieve collective success. In addition to professional achievement, we are offering initiatives and programs to enable employees achieve a healthy work-life balance. &nbsp;"
         },
         {
           "company": "Qube Research & Technologies",
           "source": "Greenhouse:quberesearchandtechnologies",
           "title": "2026 - Internship, Quantitative Developer",
           "department": "Internship - Technology",
-          "location": "London",
-          "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8068131002",
-          "content": "Programme duration: from 5 to 6 months, starting in 2026. &nbsp; Who qualifies : Penultimate or final year students completing a Bachelor's, Master's. &nbsp; Qube Research &amp; Technologies (QRT) is a global quantitative and systematic investment manager, operating in all liquid asset classes across the world. We are a technology and data driven group implementing a scientific approach to investing. Combining data, research, technology, and trading expertise has shaped our collaborative mindset which enables us to solve the most complex challenges. QRT’s culture of innovation continuously drives our ambition to deliver high quality returns for our investors. &nbsp; Over the years, QRT has invested in a global research and execution platform which has been deployed to cover all geographies and asset classes. This platform covers a broad spectrum from high to low frequency trading systems. We thrive at the intersection of cutting-edge technology, smart automation, and scalable processes, enabling us to move fast, think big, and deliver at scale. &nbsp; We are committed to identifying and developing exceptional talent, and are inviting a new cohort of outstanding individuals to join us in the year ahead.&nbsp;Our internship offers a stimulating, intellectually rigorous, and high-performance environment, where collaboration is key to success.&nbsp;You will work alongside and be mentored by industry-leading professionals, gaining invaluable experience and positioning yourself for the opportunity to secure a full-time graduate role upon successful completion of the program. &nbsp; &nbsp; Your future role at QRT &nbsp; Throughout the recruitment process, we will work to align your skills, interests, and potential with the teams where you can make the greatest impact. &nbsp; As a Quantitative Developer at QRT, you will contribute to the engineering solutions that power our world-class quantitative research and trading, building the tools, platforms, and infrastructure that enable researchers and traders to operate at their best. You will be tackling projects that demand both technical depth and creativity. &nbsp; Examples of the projects you may work on include: &nbsp; Trading Infrastructure &amp; Low-Latency &nbsp; Build and optimize the high-performance systems that power QRT’s real-time trading. Contribute to low-latency infrastructure, execution logic, and live monitoring tools — where engineering performance directly impacts trading outcomes. These roles involve hands-on development in C++ or .NET, close to production and tightly integrated with live strategies. &nbsp; Research Enablement &amp; Platform Engineering &nbsp; Develop and optimize the platforms that power quantitative research across the firm. This may include scalable APIs, machine learning and data pipelines, orchestration frameworks, and shared infrastructure that accelerates research and experimentation. Collaborate closely with researchers to create efficient, reliable, and standardized environments for innovation. &nbsp; Tooling &amp; Workflow Automation &nbsp; Design and deliver internal tools used directly by traders and researchers on discretionary desks. Projects may involve streamlining workflows, improving data accessibility, and supporting real-time decision-making - all within the high-intensity environment of front-office operations. Work interactively with users to deliver intuitive, high-impact solutions. &nbsp; Monitoring &amp; Analytics Tools &nbsp; Build tools and dashboards to support the firm’s risk and oversight functions, enabling performance evaluation, risk monitoring, and investment oversight. Combine strong data processing and visualization skills with scalable infrastructure, and explore opportunities to integrate applied machine learning for deeper insights. &nbsp; Core Trading Systems (London only) &nbsp; Build and maintain the infrastructure supporting the development, testing, and deployment of trading signals in production. This includes tooling for signal generation, model evaluation, data ingestion, and analytics - enabling systematic trading teams to iterate, validate, and implement live trading logic efficiently and reliably. &nbsp; &nbsp; Your present skillset &nbsp; Strong core computer science foundations, including algorithms, data structures, parallel programming, and object-oriented programming (OOP). &nbsp; Genuine interest in software engineering, infrastructure, or data engineering within a low-latency environment, working in C++, C#, or Python. &nbsp; Interest to build expertise in high-performance, real-time trading systems &nbsp; Excellent communication and analytical skills – you will interact directly with Traders and Researchers &nbsp; Drive for rapid autonomy and the ability to work in a fast-paced, high-performance setting. &nbsp; Rigorous and structured approach to problem-solving. &nbsp; Preferred qualifications (a plus): &nbsp; Knowledge of databases such as SQL or NoSQL. &nbsp; Experience in front-end development. &nbsp; Interest in financial markets and/or algorithmic trading. &nbsp; &nbsp; Interview Process &nbsp; Application - Submit your application online. We review applications on a rolling basis, so we recommend applying early to maximize your chances. &nbsp; Technical Assessment - Selected candidates will be invited to complete a coding challenge designed to evaluate core technical and problem-solving skills. &nbsp; Interviews - Shortlisted applicants will proceed to interviews, conducted either on-site or via Microsoft Teams. These will assess both your technical expertise and your alignment with our culture and values. &nbsp; &nbsp; QRT is an equal opportunity employer. We welcome diversity as essential to our success. QRT empowers employees to work openly and respectfully to achieve collective success. In addition to professional achievement, we are offering initiatives and programs to enable employees achieve a healthy work-life balance. &nbsp;"
+          "location": "Zurich",
+          "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8169041002",
+          "content": "Programme duration: from 5 to 6 months, starting in 2026. &nbsp; Who qualifies : Final year students completing a Bachelor's, or Master's. &nbsp; Qube Research &amp; Technologies (QRT) is a global quantitative and systematic investment manager, operating in all liquid asset classes across the world. We are a technology and data driven group implementing a scientific approach to investing. Combining data, research, technology, and trading expertise has shaped our collaborative mindset which enables us to solve the most complex challenges. QRT’s culture of innovation continuously drives our ambition to deliver high quality returns for our investors. &nbsp; Over the years, QRT has invested in a global research and execution platform which has been deployed to cover all geographies and asset classes. This platform covers a broad spectrum from high to low frequency trading systems. We thrive at the intersection of cutting-edge technology, smart automation, and scalable processes, enabling us to move fast, think big, and deliver at scale. &nbsp; We are committed to identifying and developing exceptional talent, and are inviting a new cohort of outstanding individuals to join us in the year ahead.&nbsp;Our internship offers a stimulating, intellectually rigorous, and high-performance environment, where collaboration is key to success.&nbsp;You will work alongside and be mentored by industry-leading professionals, gaining invaluable experience and positioning yourself for the opportunity to secure a full-time graduate role upon successful completion of the program. &nbsp; &nbsp; Your future role at QRT &nbsp; &nbsp; Throughout the recruitment process, we will work to align your skills, interests, and potential with the teams where you can make the greatest impact. &nbsp; As a Quantitative Developer at QRT, you will contribute to the engineering solutions that power our world-class quantitative research and trading, building the tools, platforms, and infrastructure that enable researchers and traders to operate at their best. You will be tackling projects that demand both technical depth and creativity. &nbsp; Examples of the projects you may work on include: &nbsp; &nbsp; Research Enablement &amp; Platform Engineering &nbsp; Develop and optimize the platforms that power quantitative research across the firm. This may include scalable APIs, machine learning and data pipelines, orchestration frameworks, and shared infrastructure that accelerates research and experimentation. Collaborate closely with researchers to create efficient, reliable, and standardized environments for innovation. &nbsp; Tooling &amp; Workflow Automation &nbsp; Design and deliver internal tools used directly by traders and researchers on discretionary desks. Projects may involve streamlining workflows, improving data accessibility, and supporting real-time decision-making - all within the high-intensity environment of front-office operations. Work interactively with users to deliver intuitive, high-impact solutions. &nbsp; Monitoring &amp; Analytics Tools &nbsp; Build tools and dashboards to support the firm’s risk and oversight functions, enabling performance evaluation, risk monitoring, and investment oversight. Combine strong data processing and visualization skills with scalable infrastructure, and explore opportunities to integrate applied machine learning for deeper insights. &nbsp; &nbsp; Your present skillset &nbsp; Strong core computer science foundations, including algorithms, data structures, parallel programming, and object-oriented programming (OOP). &nbsp; Ability to write production-grade Python - reusable, type-hinted modules with proper packaging and dependency management, not one-off scripts. Genuine interest in software engineering, infrastructure, distributetes systems or data engineering within a low-latency environment. Interest in high performance distributed systems. Excellent communication and analytical skills - you may interact directly with Traders and Researchers. Drive for rapid autonomy and the ability to work in a fast-paced, high-performance setting. &nbsp; Rigorous and structured approach to problem-solving. &nbsp; Preferred qualifications (a plus): &nbsp; Knowledge of databases such as SQL or NoSQL. &nbsp; Experience in front-end development. &nbsp; Interest in financial markets and/or algorithmic trading. &nbsp; &nbsp; Interview Process &nbsp; Application - Submit your application online. We review applications on a rolling basis, so we recommend applying early to maximize your chances. &nbsp; Technical Assessment - Selected candidates will be invited to complete a coding challenge designed to evaluate core technical and problem-solving skills. &nbsp; Interviews - Shortlisted applicants will proceed to interviews, conducted either on-site or via Microsoft Teams. These will assess both your technical expertise and your alignment with our culture and values. &nbsp; &nbsp; QRT is an equal opportunity employer. We welcome diversity as essential to our success. QRT empowers employees to work openly and respectfully to achieve collective success. In addition to professional achievement, we are offering initiatives and programs to enable employees achieve a healthy work-life balance. &nbsp;"
         },
         {
           "company": "Qube Research & Technologies",
@@ -1727,7 +1727,7 @@
         {
           "company": "Tower Research Capital",
           "source": "Greenhouse:towerresearchcapital",
-          "title": "Junior Executive Trader Intern",
+          "title": "Junior Execution Trader Intern",
           "department": "Risk & Trading Supervision",
           "location": "Gift City",
           "url": "https://www.tower-research.com/open-positions/?gh_jid=8091833",
@@ -2104,7 +2104,7 @@
       "boards": [
         {
           "source": "Greenhouse:worldquant",
-          "count": 101
+          "count": 102
         }
       ],
       "matches": [

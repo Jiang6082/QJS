@@ -1,17 +1,20 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 15
-Last updated: 2026-07-31T01:06:04.648Z
+Total closures recorded: 18
+Last updated: 2026-07-31T13:20:58.559Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
 
-### 2026-07-31 (3)
+### 2026-07-31 (6)
 
-- **Aquatic Capital** - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) - Chicago; London
-- **Aquatic Capital** - [Software Engineer, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) - Chicago
-- **Barclays** - [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913)
+- **Deutsche Bank** - [DWS Investment Risk Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Investment-Risk-Intern_R0445580-1) - Luxembourg 2 Blvd K. Adenauer
+- **Deutsche Bank** - [Internship - Implementation Support - Corporate Bank Milan (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Implementation-Support---Corporate-Bank-Milan--f-m-x-_R0442822) - Milano Bicocca Calendario 3
+- **Jane Street** - [Strategy and Product](https://www.janestreet.com/join-jane-street/position/8370012002/) - Hong Kong
+- **Aquatic Capital** - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) - Chicago; London — _reopened 2026-07-31_
+- **Aquatic Capital** - [Software Engineer, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) - Chicago — _reopened 2026-07-31_
+- **Barclays** - [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913) — _reopened 2026-07-31_
 
 ### 2026-07-29 (1)
 
