@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-30T15:25:53.667Z",
-  "scanStartedAt": "2026-07-30T15:21:50.529Z",
+  "generatedAt": "2026-07-31T01:10:25.989Z",
+  "scanStartedAt": "2026-07-31T01:06:04.648Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
-    "matching-role-found": 38,
-    "confirmed-no-open-postings": 3,
+    "matching-role-found": 37,
+    "confirmed-no-open-postings": 4,
     "confirmed-openings-no-matching-role": 48,
     "could-not-fully-verify": 213
   },
@@ -170,7 +170,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantInternships": 0
     },
     {
@@ -335,14 +335,14 @@
       "sourceRosterNames": [
         "Aquatic"
       ],
-      "status": "matching-role-found",
+      "status": "confirmed-no-open-postings",
       "careerPages": [
         "https://job-boards.greenhouse.io/aquaticcapitalmanagement"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
-      "relevantInternships": 2
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Armada Technologies",
@@ -761,8 +761,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 177,
-      "relevantInternships": 16
+      "jobsSeen": 178,
+      "relevantInternships": 17
     },
     {
       "company": "ABC Arbitrage",
@@ -995,7 +995,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 231,
+      "jobsSeen": 233,
       "relevantInternships": 8
     },
     {
@@ -1237,7 +1237,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 78,
+      "jobsSeen": 80,
       "relevantInternships": 2
     },
     {
@@ -3115,7 +3115,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3228,7 +3228,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 33,
+      "jobsSeen": 34,
       "relevantInternships": 1
     },
     {
@@ -3689,7 +3689,7 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 6,
+      "jobsSeen": 9,
       "relevantInternships": 3
     },
     {
@@ -3865,7 +3865,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 75,
+      "jobsSeen": 74,
       "relevantInternships": 4
     },
     {
@@ -3952,9 +3952,9 @@
         "https://walleyecapital.com/careers",
         "https://job-boards.greenhouse.io/walleyecapital-external-fulltime"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 24,
+      "jobsSeen": 25,
       "relevantInternships": 8
     },
     {
@@ -4056,7 +4056,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 55,
+      "jobsSeen": 54,
       "relevantInternships": 0
     },
     {

@@ -1,11 +1,17 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 12
-Last updated: 2026-07-30T15:21:50.529Z
+Total closures recorded: 15
+Last updated: 2026-07-31T01:06:04.648Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-07-31 (3)
+
+- **Aquatic Capital** - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) - Chicago; London
+- **Aquatic Capital** - [Software Engineer, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) - Chicago
+- **Barclays** - [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913)
 
 ### 2026-07-29 (1)
 

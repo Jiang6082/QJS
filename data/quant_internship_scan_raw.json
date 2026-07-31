@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-30T15:21:34.892Z",
+  "scannedAt": "2026-07-31T01:05:37.535Z",
   "results": [
     {
       "company": "Jane Street",
@@ -30,7 +30,7 @@
       "boards": [
         {
           "source": "Greenhouse:point72",
-          "count": 231
+          "count": 233
         },
         {
           "source": "Ashby:cubist",
@@ -47,8 +47,8 @@
           "source": "Greenhouse:point72",
           "title": "Cubist Quantitative Researcher Intern",
           "department": "Quant Management",
-          "location": "Singapore",
-          "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+          "location": "Hong Kong",
+          "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
           "content": "ABOUT CUBIST&nbsp; Cubist Systematic Strategies, an affiliate of Point72, deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources. ROLE Quantitative alpha research requires mastery of multiple domains. The best research requires original research ideas, good intuition, strong data analysis skills, and good research planning. Our research directly drives our investment decisions. This role is highly selective. We have a long history of training extraordinarily talented academic researchers to succeed in the investment services industry. Prior experience in the financial services industry is not required. RESPONSIBILITIES Provide research assistance to full-time researchers Assist with data collection and preliminary analysis Follow, digest, analyze and improve upon the latest academic research DESIRABLE CANDIDATES Ph.D. candidates in finance, economics, mathematics, statistics, physics, computer science, or other quantitative discipline. Programming in any of the following: R, Python, or C++. Experience with SQL. Solid research experience in the field of the candidate’s specialty. Strong analytical and quantitative skills. Detail-oriented. Demonstrated ability to learn and apply new methodologies to real life problems. Willingness to take ownership of his/her work. Ability to work both independently and collaboratively within a team. Strong desire to deliver high quality results in a timely fashion. Prior experience in the financial services industry is not required.&nbsp;"
         },
         {
@@ -56,8 +56,8 @@
           "source": "Greenhouse:point72",
           "title": "Cubist Quantitative Researcher Intern",
           "department": "Quant Management",
-          "location": "Hong Kong",
-          "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+          "location": "Singapore",
+          "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
           "content": "ABOUT CUBIST&nbsp; Cubist Systematic Strategies, an affiliate of Point72, deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources. ROLE Quantitative alpha research requires mastery of multiple domains. The best research requires original research ideas, good intuition, strong data analysis skills, and good research planning. Our research directly drives our investment decisions. This role is highly selective. We have a long history of training extraordinarily talented academic researchers to succeed in the investment services industry. Prior experience in the financial services industry is not required. RESPONSIBILITIES Provide research assistance to full-time researchers Assist with data collection and preliminary analysis Follow, digest, analyze and improve upon the latest academic research DESIRABLE CANDIDATES Ph.D. candidates in finance, economics, mathematics, statistics, physics, computer science, or other quantitative discipline. Programming in any of the following: R, Python, or C++. Experience with SQL. Solid research experience in the field of the candidate’s specialty. Strong analytical and quantitative skills. Detail-oriented. Demonstrated ability to learn and apply new methodologies to real life problems. Willingness to take ownership of his/her work. Ability to work both independently and collaboratively within a team. Strong desire to deliver high quality results in a timely fashion. Prior experience in the financial services industry is not required.&nbsp;"
         },
         {
@@ -112,7 +112,7 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 75
+          "count": 77
         },
         {
           "source": "Ashby:hrt",
@@ -194,7 +194,7 @@
       "boards": [
         {
           "source": "Greenhouse:akunacapital",
-          "count": 33
+          "count": 34
         }
       ],
       "matches": [
@@ -803,7 +803,7 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 75
+          "count": 77
         },
         {
           "source": "Ashby:hrt",
@@ -1229,11 +1229,11 @@
       "boards": [
         {
           "source": "Greenhouse:oldmissioncapital",
-          "count": 33
+          "count": 34
         },
         {
           "source": "Ashby:old-mission-capital",
-          "count": 33
+          "count": 34
         }
       ],
       "matches": [
@@ -1262,7 +1262,7 @@
       "boards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 180
+          "count": 182
         },
         {
           "source": "Greenhouse:optiver",
@@ -1468,7 +1468,7 @@
       "boards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 199
+          "count": 198
         }
       ],
       "matches": [
@@ -1671,7 +1671,7 @@
       "boards": [
         {
           "source": "Greenhouse:sunrise",
-          "count": 19
+          "count": 18
         },
         {
           "source": "Ashby:sunrise",
@@ -1720,7 +1720,7 @@
       "boards": [
         {
           "source": "Greenhouse:towerresearchcapital",
-          "count": 75
+          "count": 74
         }
       ],
       "matches": [
@@ -1816,7 +1816,7 @@
       "boards": [
         {
           "source": "Lever:valkyrietrading",
-          "count": 4
+          "count": 5
         }
       ],
       "matches": []
@@ -1956,7 +1956,7 @@
         },
         {
           "source": "Ashby:voleon",
-          "count": 55
+          "count": 54
         }
       ],
       "matches": []
@@ -2203,10 +2203,19 @@
       "boards": [
         {
           "source": "Greenhouse:trillium",
-          "count": 6
+          "count": 9
         }
       ],
       "matches": [
+        {
+          "company": "Trillium",
+          "source": "Greenhouse:trillium",
+          "title": "Summer 2027 Equity Trader Internship",
+          "department": "Trading",
+          "location": "Miami",
+          "url": "https://www.trlm.com/apply/5076067007?gh_jid=5076067007",
+          "content": "Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com &nbsp; *This position is open in any of our three locations: New York, NY | Chicago, IL | Miami, FL (please only apply to your top choice).* &nbsp; The Role : As an Equity Trader Intern, you will spend the summer learning about the markets and Trillium’s proprietary technology. Working closely with a designated mentor, you will research and enhance our existing trade strategies. You will develop a solid understanding of the US, Canadian, and OTC equity markets, along with the US options market, while strengthening your communication, quantitative, and analytical skills. Here, you’ll practice and grow your understanding of economics, risk assessment, and decision-making by placing simulated split-second buy and sell orders using our proprietary keyboard-based trading platform. Our intention is to set our interns up for success before graduation and thoughtfully challenge each to expand their knowledge of markets while providing exposure to manual trading. Interns who prove they are a great fit for Trillium during the internship may receive offers to become full-time equity traders after graduation. &nbsp; Compensation : This paid internship is six weeks (June-July, 2027) and pays $1,000/week (gross) &nbsp; Responsibilities : Researching market microstructure patterns for inefficiencies Collaboration on daily trade review Following industry and overall market news Working closely with a dedicated mentor Participating in group meetings hosted by senior traders Educational seminars to learn proprietary trading tools &nbsp; About You : You are an enthusiastic, motivated and proactive person who is eager to learn. The ideal candidate must have/be the following: Resourceful thought process, team-oriented mindset, entrepreneurial spirit, demonstrated through extracurricular activities and/or group projects, and record of academic achievement Analytically minded, intellectually curious, and have a strong interest in financial markets Must be competitive, adaptable, and persevering Preferred major(s) in economics, mathematics, business/business administration, finance, or adjacent fields Please note, Trillium will not sponsor applicants for work visas &nbsp; Job Requirements : The position is intended for rising seniors (Spring 2028 graduation) with a cumulative 3.5+ GPA. Students entering their senior year of undergraduate or final year of a master's program are encouraged to apply. &nbsp; &nbsp; Benefits and Perks : Catered lunch twice per week and Tuesday breakfast in-office Collaborative, inclusive, and dynamic work environment within a mission-driven company &nbsp; Trillium is an Equal Opportunity Employer.&nbsp; In order to provide equal employment and advancement opportunities to all individuals, employment decisions at Trillium are based on merit, qualifications, and the needs of the company.&nbsp; Trillium does not discriminate on the basis of race, creed, color, religion, sex, national origin, age, disability, predisposing genetic characteristics, ancestry, military status, family care status, marital status, sexual orientation, domestic violence victim status, gender identity or any other legally protected basis protected by applicable law. Applicants who are interested in applying for a position and require special assistance or a reasonable accommodation due to a disability should contact careers@trlm.com . &nbsp;"
+        },
         {
           "company": "Trillium",
           "source": "Greenhouse:trillium",
@@ -2223,15 +2232,6 @@
           "department": "Trading",
           "location": "Chicago",
           "url": "https://www.trlm.com/apply/5076017007?gh_jid=5076017007",
-          "content": "Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com &nbsp; *This position is open in any of our three locations: New York, NY | Chicago, IL | Miami, FL (please only apply to your top choice).* &nbsp; The Role : As an Equity Trader Intern, you will spend the summer learning about the markets and Trillium’s proprietary technology. Working closely with a designated mentor, you will research and enhance our existing trade strategies. You will develop a solid understanding of the US, Canadian, and OTC equity markets, along with the US options market, while strengthening your communication, quantitative, and analytical skills. Here, you’ll practice and grow your understanding of economics, risk assessment, and decision-making by placing simulated split-second buy and sell orders using our proprietary keyboard-based trading platform. Our intention is to set our interns up for success before graduation and thoughtfully challenge each to expand their knowledge of markets while providing exposure to manual trading. Interns who prove they are a great fit for Trillium during the internship may receive offers to become full-time equity traders after graduation. &nbsp; Compensation : This paid internship is six weeks (June-July, 2027) and pays $1,000/week (gross) &nbsp; Responsibilities : Researching market microstructure patterns for inefficiencies Collaboration on daily trade review Following industry and overall market news Working closely with a dedicated mentor Participating in group meetings hosted by senior traders Educational seminars to learn proprietary trading tools &nbsp; About You : You are an enthusiastic, motivated and proactive person who is eager to learn. The ideal candidate must have/be the following: Resourceful thought process, team-oriented mindset, entrepreneurial spirit, demonstrated through extracurricular activities and/or group projects, and record of academic achievement Analytically minded, intellectually curious, and have a strong interest in financial markets Must be competitive, adaptable, and persevering Preferred major(s) in economics, mathematics, business/business administration, finance, or adjacent fields Please note, Trillium will not sponsor applicants for work visas &nbsp; Job Requirements : The position is intended for rising seniors (Spring 2028 graduation) with a cumulative 3.5+ GPA. Students entering their senior year of undergraduate or final year of a master's program are encouraged to apply. &nbsp; &nbsp; Benefits and Perks : Catered lunch twice per week and Tuesday breakfast in-office Collaborative, inclusive, and dynamic work environment within a mission-driven company &nbsp; Trillium is an Equal Opportunity Employer.&nbsp; In order to provide equal employment and advancement opportunities to all individuals, employment decisions at Trillium are based on merit, qualifications, and the needs of the company.&nbsp; Trillium does not discriminate on the basis of race, creed, color, religion, sex, national origin, age, disability, predisposing genetic characteristics, ancestry, military status, family care status, marital status, sexual orientation, domestic violence victim status, gender identity or any other legally protected basis protected by applicable law. Applicants who are interested in applying for a position and require special assistance or a reasonable accommodation due to a disability should contact careers@trlm.com . &nbsp;"
-        },
-        {
-          "company": "Trillium",
-          "source": "Greenhouse:trillium",
-          "title": "Summer 2027 Equity Trader Internship",
-          "department": "Trading",
-          "location": "Miami",
-          "url": "https://www.trlm.com/apply/5076067007?gh_jid=5076067007",
           "content": "Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com &nbsp; *This position is open in any of our three locations: New York, NY | Chicago, IL | Miami, FL (please only apply to your top choice).* &nbsp; The Role : As an Equity Trader Intern, you will spend the summer learning about the markets and Trillium’s proprietary technology. Working closely with a designated mentor, you will research and enhance our existing trade strategies. You will develop a solid understanding of the US, Canadian, and OTC equity markets, along with the US options market, while strengthening your communication, quantitative, and analytical skills. Here, you’ll practice and grow your understanding of economics, risk assessment, and decision-making by placing simulated split-second buy and sell orders using our proprietary keyboard-based trading platform. Our intention is to set our interns up for success before graduation and thoughtfully challenge each to expand their knowledge of markets while providing exposure to manual trading. Interns who prove they are a great fit for Trillium during the internship may receive offers to become full-time equity traders after graduation. &nbsp; Compensation : This paid internship is six weeks (June-July, 2027) and pays $1,000/week (gross) &nbsp; Responsibilities : Researching market microstructure patterns for inefficiencies Collaboration on daily trade review Following industry and overall market news Working closely with a dedicated mentor Participating in group meetings hosted by senior traders Educational seminars to learn proprietary trading tools &nbsp; About You : You are an enthusiastic, motivated and proactive person who is eager to learn. The ideal candidate must have/be the following: Resourceful thought process, team-oriented mindset, entrepreneurial spirit, demonstrated through extracurricular activities and/or group projects, and record of academic achievement Analytically minded, intellectually curious, and have a strong interest in financial markets Must be competitive, adaptable, and persevering Preferred major(s) in economics, mathematics, business/business administration, finance, or adjacent fields Please note, Trillium will not sponsor applicants for work visas &nbsp; Job Requirements : The position is intended for rising seniors (Spring 2028 graduation) with a cumulative 3.5+ GPA. Students entering their senior year of undergraduate or final year of a master's program are encouraged to apply. &nbsp; &nbsp; Benefits and Perks : Catered lunch twice per week and Tuesday breakfast in-office Collaborative, inclusive, and dynamic work environment within a mission-driven company &nbsp; Trillium is an Equal Opportunity Employer.&nbsp; In order to provide equal employment and advancement opportunities to all individuals, employment decisions at Trillium are based on merit, qualifications, and the needs of the company.&nbsp; Trillium does not discriminate on the basis of race, creed, color, religion, sex, national origin, age, disability, predisposing genetic characteristics, ancestry, military status, family care status, marital status, sexual orientation, domestic violence victim status, gender identity or any other legally protected basis protected by applicable law. Applicants who are interested in applying for a position and require special assistance or a reasonable accommodation due to a disability should contact careers@trlm.com . &nbsp;"
         }
       ]

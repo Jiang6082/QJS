@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-30T15:21:34.892Z",
+  "scannedAt": "2026-07-31T01:05:37.535Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -204,7 +204,7 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:point72",
-          "count": 231
+          "count": 233
         },
         {
           "source": "Ashby:cubist",
@@ -215,7 +215,7 @@
           "count": 0
         }
       ],
-      "jobsSeen": 232,
+      "jobsSeen": 234,
       "relevantInternships": 7
     },
     {
@@ -223,14 +223,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 75
+          "count": 77
         },
         {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 75,
+      "jobsSeen": 77,
       "relevantInternships": 2
     },
     {
@@ -272,10 +272,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:akunacapital",
-          "count": 33
+          "count": 34
         }
       ],
-      "jobsSeen": 33,
+      "jobsSeen": 34,
       "relevantInternships": 8
     },
     {
@@ -794,14 +794,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 75
+          "count": 77
         },
         {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 75,
+      "jobsSeen": 77,
       "relevantInternships": 2
     },
     {
@@ -968,14 +968,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:oldmissioncapital",
-          "count": 33
+          "count": 34
         },
         {
           "source": "Ashby:old-mission-capital",
-          "count": 33
+          "count": 34
         }
       ],
-      "jobsSeen": 66,
+      "jobsSeen": 68,
       "relevantInternships": 2
     },
     {
@@ -983,14 +983,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 180
+          "count": 182
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 180,
+      "jobsSeen": 182,
       "relevantInternships": 8
     },
     {
@@ -1114,10 +1114,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 199
+          "count": 198
         }
       ],
-      "jobsSeen": 199,
+      "jobsSeen": 198,
       "relevantInternships": 7
     },
     {
@@ -1230,14 +1230,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:sunrise",
-          "count": 19
+          "count": 18
         },
         {
           "source": "Ashby:sunrise",
           "count": 13
         }
       ],
-      "jobsSeen": 32,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -1285,10 +1285,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:towerresearchcapital",
-          "count": 75
+          "count": 74
         }
       ],
-      "jobsSeen": 75,
+      "jobsSeen": 74,
       "relevantInternships": 4
     },
     {
@@ -1331,10 +1331,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:valkyrietrading",
-          "count": 4
+          "count": 5
         }
       ],
-      "jobsSeen": 4,
+      "jobsSeen": 5,
       "relevantInternships": 0
     },
     {
@@ -1386,10 +1386,10 @@
         },
         {
           "source": "Ashby:voleon",
-          "count": 55
+          "count": 54
         }
       ],
-      "jobsSeen": 55,
+      "jobsSeen": 54,
       "relevantInternships": 0
     },
     {
@@ -1562,10 +1562,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:trillium",
-          "count": 6
+          "count": 9
         }
       ],
-      "jobsSeen": 6,
+      "jobsSeen": 9,
       "relevantInternships": 3
     }
   ]

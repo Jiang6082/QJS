@@ -1,10 +1,45 @@
 {
-  "generatedAt": "2026-07-30T15:25:53.755Z",
-  "previousScanAt": "2026-07-30T01:37:31.687Z",
-  "currentScanAt": "2026-07-30T15:21:50.529Z",
-  "previousRows": 257,
-  "currentRows": 267,
+  "generatedAt": "2026-07-31T01:10:26.089Z",
+  "previousScanAt": "2026-07-30T15:21:50.529Z",
+  "currentScanAt": "2026-07-31T01:06:04.648Z",
+  "previousRows": 267,
+  "currentRows": 265,
   "added": [
+    {
+      "Company": "DRW",
+      "Title": "Platform Engineer Intern",
+      "Department": "Campus",
+      "Location": "Chicago",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7997729",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7997729 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Platform Engineer Intern , you will be part of our advanced technology team focused on maintaining and improving the reliability and efficiency of our platform, including underlying systems at DRW. The platform engineer intern will work under the guidance of senior technologists to ensure our systems are highly reliable and scalable during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will ma...",
+      "Region": "North America"
+    }
+  ],
+  "removed": [
+    {
+      "Company": "Aquatic Capital",
+      "Title": "Quantitative Researcher, Intern (Summer 2027)",
+      "Department": "Research",
+      "Location": "Chicago; London",
+      "URL": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002",
+      "Source": "Career page Greenhouse:aquaticcapitalmanagement",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://job-boards.greenhouse.io/aquaticcapitalmanagement | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8489186002 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Aquatic was founded with a shared passion for tackling some of the most complex challenges in one of the world’s most competitive arenas—global financial markets. From the very beginning, we have been driven by a deep commitment to applying cutting-edge scientific research and technological innovation to deliver unparalleled performance. Our journey is one of continuous growth and exploration, marked by a spirit of curiosity and relentless drive for excellence. As a Quantitative Research Intern, you will collaborate closely with a team to develop and implement quantitative trading signals, models, and strategies. Our role offers the opportunity to design, implement, an...",
+      "Region": "Global / Multiple Regions"
+    },
+    {
+      "Company": "Aquatic Capital",
+      "Title": "Software Engineer, Intern (Summer 2027)",
+      "Department": "Technology",
+      "Location": "Chicago",
+      "URL": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
+      "Source": "Career page Greenhouse:aquaticcapitalmanagement",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://job-boards.greenhouse.io/aquaticcapitalmanagement | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8489233002 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Aquatic was founded with a shared passion for tackling some of the most complex challenges in one of the world’s most competitive arenas—global financial markets. From the very beginning, we have been driven by a deep commitment to applying cutting-edge scientific research and technological innovation to deliver unparalleled performance. Our journey is one of continuous growth and exploration, marked by a spirit of curiosity and relentless drive for excellence. As a Software Engineering Intern at Aquatic, you will join a fast-moving team building high-performance, distributed systems that power our research and trading infrastructure. You’ll work closely with experienc...",
+      "Region": "North America"
+    },
     {
       "Company": "Barclays",
       "Title": "2027 Technology Developer Summer Internship Programme India",
@@ -15,105 +50,6 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000124913",
       "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "Deutsche Bank",
-      "Title": "DWS Investment Risk Intern",
-      "Department": "",
-      "Location": "Luxembourg 2 Blvd K. Adenauer",
-      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Investment-Risk-Intern_R0445580-1",
-      "Source": "Career page Workday:db/DBWebsite",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0445580",
-      "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "Deutsche Bank",
-      "Title": "Internship - Implementation Support - Corporate Bank Milan (f/m/x)",
-      "Department": "",
-      "Location": "Milano Bicocca Calendario 3",
-      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Implementation-Support---Corporate-Bank-Milan--f-m-x-_R0442822",
-      "Source": "Career page Workday:db/DBWebsite",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0442822",
-      "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "Susquehanna International Group",
-      "Title": "Trading Operations Analyst Internship: Summer 2027",
-      "Department": "Operations, Interns + Co-ops",
-      "Location": "Hong Kong, Hong Kong",
-      "URL": "https://careers.sig.com/jobs/11244?lang=en-us",
-      "Source": "Official SIG jobs API",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-07-30T03:33:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028, 2027 | Overview Susquehanna is looking for highly motivated full-time students for our 10-week Trading Operations summer internship program based at our US Headquarters. This program offers students currently enrolled at universities in Hong Kong or Singapore the opportunity to intern in the US with the intention of long-term placement in our Hong Kong office. Trading Operations sits at the intersection of trading, technology, and external counterparties - providing you with the opportunity to build meaningful relationships and contribute to impactful projects that drive our success. Throughout your internship, you’ll work closely with our core team and rotate across different trading desks such as Options, ETF, Treasury and Equity Finance, gaining hands-on experienc...",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Virtu Financial",
-      "Title": "2027 Internship - Quantitative Strategist",
-      "Department": "Internships",
-      "Location": "Singapore",
-      "URL": "https://job-boards.greenhouse.io/virtu/jobs/7617953002",
-      "Source": "Career page Greenhouse:virtu",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=7617953002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Virtu Financial",
-      "Title": "2027 Internship - Quantitative Trading",
-      "Department": "Internships",
-      "Location": "Singapore",
-      "URL": "https://job-boards.greenhouse.io/virtu/jobs/5208637002",
-      "Source": "Career page Greenhouse:virtu",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=5208637002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. W...",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Virtu Financial",
-      "Title": "2027 Internship – Core Operations Engineer",
-      "Department": "Internships",
-      "Location": "Singapore",
-      "URL": "https://job-boards.greenhouse.io/virtu/jobs/6329460002",
-      "Source": "Career page Greenhouse:virtu",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=6329460002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Virtu Financial",
-      "Title": "2027 Internship – Software Engineer",
-      "Department": "Internships",
-      "Location": "Singapore",
-      "URL": "https://job-boards.greenhouse.io/virtu/jobs/5513756002",
-      "Source": "Career page Greenhouse:virtu",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=5513756002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
-      "Region": "Asia"
-    },
-    {
-      "Company": "WorldQuant",
-      "Title": "Quant Developer Intern",
-      "Location": "Singapore",
-      "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4572988006",
-      "Source": "Greenhouse:worldquant",
-      "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
-      "Region": "Asia"
-    },
-    {
-      "Company": "WorldQuant",
-      "Title": "Quantitative Research Intern",
-      "Department": "Research",
-      "Location": "Singapore",
-      "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4314066006",
-      "Source": "Career page Greenhouse:worldquant",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://job-boards.greenhouse.io/worldquant | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4314066006 | internship timing not stated in title | WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform. WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Employees are encouraged to challenge conventio...",
-      "Region": "Asia"
     }
-  ],
-  "removed": []
+  ]
 }
