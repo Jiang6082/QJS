@@ -245,6 +245,13 @@ const hiringThingBoards = {
   "Voloridge Investment Management": "voloridge-investment-management",
 };
 
+// Trakstar Hire (formerly Recruiterbox) boards. Value is the subdomain:
+// "sunrisefutures" => sunrisefutures.hire.trakstar.com. The hosted board is
+// server-rendered, so we parse its job cards directly (the JSON API is auth-gated).
+const trakstarBoards = {
+  "Sunrise Futures": "sunrisefutures",
+};
+
 function generatedTokens(name) {
   const base = name.toLowerCase().replace(/&/g, "and");
   const words = base.replace(/[^a-z0-9]+/g, " ").trim().split(/\s+/).filter(Boolean);
@@ -352,6 +359,28 @@ async function getHiringThing(company, token) {
   return { source: `HiringThing:${token}`, count: jobs.length, jobs };
 }
 
+async function getTrakstar(company, sub) {
+  const res = await fetchText(`https://${sub}.hire.trakstar.com/`);
+  if (!res.ok) return null;
+  const jobs = [];
+  const cards = [...res.text.matchAll(/js-careers-page-job-list-item"[\s\S]*?data-href="\/jobs\/([a-z0-9]+)\/?"([\s\S]*?)(?=js-careers-page-job-list-item|$)/gi)];
+  for (const [, id, block] of cards) {
+    const titleMatch = block.match(/js-job-list-opening-name[^>]*>([\s\S]*?)<\/h3>/i);
+    const title = titleMatch ? stripHtml(titleMatch[1]) : "";
+    if (!title) continue;
+    const locMatch = block.replace(/<[^>]+>/g, " ").match(/([A-Z][A-Za-z.\-\/ ]+,\s*[A-Z][A-Za-z.\-\/ ]+(?:,\s*United States)?)/);
+    jobs.push({
+      company,
+      source: `Trakstar:${sub}`,
+      title,
+      location: locMatch ? locMatch[1].replace(/\s+,/g, ",").replace(/\s+/g, " ").trim() : "",
+      url: `https://${sub}.hire.trakstar.com/jobs/${id}/`,
+      content: "",
+    });
+  }
+  return { source: `Trakstar:${sub}`, count: jobs.length, jobs };
+}
+
 async function getGreenhouse(company, token) {
   const url = `https://boards-api.greenhouse.io/v1/boards/${token}/jobs?content=true`;
   const res = await fetchText(url);
@@ -415,6 +444,7 @@ async function scanCompany(company) {
     checks.push(getGreenhouse(company, token), getLever(company, token), getAshby(company, token));
   }
   if (hiringThingBoards[company]) checks.push(getHiringThing(company, hiringThingBoards[company]));
+  if (trakstarBoards[company]) checks.push(getTrakstar(company, trakstarBoards[company]));
   const boards = (await Promise.all(checks)).filter(Boolean);
   const seenUrl = new Set();
   const matches = [];
