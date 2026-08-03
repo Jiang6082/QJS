@@ -39,6 +39,7 @@ const expandedCompanies = [
   "Morgan Stanley",
   "Neuberger Berman",
   "Northern Trust Asset Management",
+  "Western Asset Management",
   "PGIM",
   "PIMCO",
   "Putnam Investments",

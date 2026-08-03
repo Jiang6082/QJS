@@ -42,6 +42,8 @@ const expandedCompanies = [
   "Morgan Stanley",
   "Neuberger Berman",
   "Northern Trust Asset Management",
+  "Western Asset Management",
+  "Avant",
   "PGIM",
   "PIMCO",
   "Putnam Investments",
@@ -278,6 +280,13 @@ const seedCareerPages = {
   Visa: ["https://usa.visa.com/careers.html"],
   Vanguard: ["https://www.vanguardjobs.com/students-and-recent-graduates/"],
   "Wells Fargo": ["https://www.wellsfargojobs.com/en/university-programs/"],
+  // Western Asset (Franklin Templeton subsidiary) posts on a WAM-branded
+  // Workday site; careers.westernasset.com redirects here.
+  "Western Asset Management": ["https://franklintempleton.wd5.myworkdayjobs.com/Jobs-WAM"],
+  // Northern Trust's real board (was previously undetected as a JS SPA).
+  "Northern Trust Asset Management": ["https://ntrs.wd1.myworkdayjobs.com/northerntrust"],
+  // Avant (consumer-lending fintech) — SWE/data roles on Workday.
+  Avant: ["https://avant.wd503.myworkdayjobs.com/External_Careers"],
 };
 
 const aggregatorDomains = [
