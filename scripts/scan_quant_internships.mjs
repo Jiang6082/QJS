@@ -174,6 +174,11 @@ XR Trading
 XTX Markets
 Wizard Quant
 Trillium
+DL Trading
+BlueCrest Capital Management
+Da Vinci Derivatives
+B2C2
+Keyrock
 `;
 
 const companies = [...new Set(rawCompanies.split(/\n+/).map((s) => s.trim()).filter(Boolean))];
@@ -205,7 +210,12 @@ const customTokens = {
   "Jump Trading": ["jumptrading", "jump-trading"],
   Mako: ["mako", "mako-trading", "makotrading"],
   "Man Group": ["mangroup", "man-group"],
-  "Maven Securities": ["mavensecurities", "maven-securities"],
+  "Maven Securities": ["mavensecuritiesholdingltd", "mavensecurities", "maven-securities"],
+  "DL Trading": ["confidentialsportstradingfirm"],
+  "BlueCrest Capital Management": ["bluecrestcapitalmanagement"],
+  "Da Vinci Derivatives": ["davinciderivatives"],
+  B2C2: ["b2c2"],
+  Keyrock: ["keyrock"],
   "Old Mission Capital": ["oldmissioncapital", "old-mission"],
   Optiver: ["optiverus", "optiver"],
   "PDT Partners": ["pdtpartners", "pdt"],
@@ -278,8 +288,12 @@ function relevant(job) {
   const titleLower = title.toLowerCase();
   const roleText = `${title} ${job.department || ""}`.toLowerCase();
 
-  const isInternTitle = /\b(intern|internship|co-?op|summer analyst)\b/.test(titleLower);
+  const isInternTitle = /\b(interns?|internships?|co-?op|summer analyst)\b/.test(titleLower);
   const hasDomain = /\b(quant|quantitative|trading|trader|research|software|developer|development|engineer|technology|devops|site reliability|sre|infrastructure|data science|machine learning|strats?|strategy|strategic|fpga)\b/.test(roleText) || /c\+\+/i.test(roleText);
+  // This scanner only holds quant/trading firms, so a generic umbrella listing
+  // like "Internships" / "Summer Internship Programme" is inherently relevant
+  // even without a domain keyword in the title.
+  const isGenericInternProgram = /^(20\d{2}\s+)?(summer\s+|winter\s+|spring\s+|off[- ]?cycle\s+)?internships?(\s+(programme|program|scheme))?$/i.test(titleLower.trim());
   const isUndergradBlocked =
     (/\b(phd|ph\.d|doctoral|doctorate|mba)\b/.test(titleLower) && !/\b(bs|bachelor|undergraduate|master|ms)\b/.test(text)) ||
     /must be working towards a phd|phd candidates|postdocs|postdoctoral/.test(text);
@@ -287,7 +301,7 @@ function relevant(job) {
   const isRecruitingEvent = /\b(networking event|recruiting event|information session|info session|career fair|conference|talent community)\b/.test(titleLower);
   const internshipGraduateCombo = /\binternship\/graduate\b/.test(titleLower);
 
-  return isInternTitle && hasDomain && !isUndergradBlocked && !isRecruitingEvent && (!isFullTimeOnly || internshipGraduateCombo);
+  return isInternTitle && (hasDomain || isGenericInternProgram) && !isUndergradBlocked && !isRecruitingEvent && (!isFullTimeOnly || internshipGraduateCombo);
 }
 
 async function fetchText(url) {

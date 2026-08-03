@@ -1,0 +1,29 @@
+{
+  "note": "Firms whose careers sites can't be scripted into the main scanner (anti-bot SPAs or dead origins). A daily agent renders each URL in a browser, reads role titles via the selector, diffs against snapshots/<key>.json, and reports new roles.",
+  "sites": [
+    {
+      "key": "citadel-securities",
+      "firm": "Citadel Securities",
+      "url": "https://www.citadelsecurities.com/careers/open-opportunities/",
+      "selector": "a[href*='/careers/details/']",
+      "reason": "Cloudflare anti-bot (403 to Node), roles render client-side via WP AJAX",
+      "emeaRelevant": true
+    },
+    {
+      "key": "citadel",
+      "firm": "Citadel",
+      "url": "https://www.citadel.com/careers/open-opportunities/",
+      "selector": "a[href*='/careers/details/']",
+      "reason": "Cloudflare anti-bot (403 to Node), roles render client-side via WP AJAX",
+      "emeaRelevant": true
+    },
+    {
+      "key": "dv-trading",
+      "firm": "DV Trading",
+      "url": "https://www.dvtrading.co/careers",
+      "selector": "a[href*='job'], a[href*='career']",
+      "reason": "Origin returns 526 (invalid SSL) even in-browser; retry daily in case it recovers",
+      "emeaRelevant": false
+    }
+  ]
+}

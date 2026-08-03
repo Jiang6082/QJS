@@ -7,6 +7,11 @@ const firmRoster = JSON.parse(await fs.readFile("inputs/quant_firm_roster.json",
 const rosterCompanies = firmRoster.companies.map((company) => firmRoster.aliases?.[company] || company);
 
 const expandedCompanies = [
+  "DL Trading",
+  "BlueCrest Capital Management",
+  "Da Vinci Derivatives",
+  "B2C2",
+  "Keyrock",
   "AQR Capital Management",
   "Acadian Asset Management",
   "AllianceBernstein",
@@ -237,6 +242,12 @@ const officialDomains = {
 };
 
 const seedCareerPages = {
+  "DL Trading": ["https://job-boards.greenhouse.io/confidentialsportstradingfirm"],
+  "Maven Securities": ["https://job-boards.greenhouse.io/mavensecuritiesholdingltd"],
+  "BlueCrest Capital Management": ["https://job-boards.greenhouse.io/bluecrestcapitalmanagement"],
+  "Da Vinci Derivatives": ["https://job-boards.greenhouse.io/davinciderivatives"],
+  B2C2: ["https://job-boards.greenhouse.io/b2c2"],
+  Keyrock: ["https://jobs.ashbyhq.com/keyrock"],
   "Jane Street": ["https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads"],
   "Qube Research & Technologies": ["https://www.qube-rt.com/careers/"],
   "Radix Trading": ["https://job-boards.greenhouse.io/radixuniversity"],
@@ -293,7 +304,7 @@ const aggregatorDomains = [
 ];
 
 const roleSignal = /\b(quant|quantitative|systematic|alpha|research|portfolio|trading|trader|strat|strategy|developer|software|engineer|machine learning|data science|risk|implementation|model|analytics|investment|investing|asset management|wealth management|markets|capital markets|banking|finance|financial|fixed income|equity|equities|credit|actuarial|underwriting|treasury)\b/i;
-const internSignal = /\b(intern|internship|summer analyst|summer associate|co-?op|industrial placement)\b/i;
+const internSignal = /\b(interns?|internships?|summer analyst|summer associate|co-?op|industrial placement)\b/i;
 const yearSignal = /\b(2026|2027|summer)\b/i;
 const negativeSignal = /\b(new grad|new graduate|graduate programme|graduate program|full[- ]time|experienced|senior|principal|director|vp|vice president|phd intern|ph\.d\. intern|doctoral|postdoc|mba)\b/i;
 const nonTargetInternshipTiming = /\b(?:(?:spring|summer|fall|autumn|winter|january|february|march|april|may|june|july|august|september|october|november|december)\s*202[56]|202[56]\s*(?:spring|summer|fall|autumn|winter)|intern(?:ship)?\D{0,15}202[56]|202[56]\D{0,15}intern(?:ship)?)\b/i;
@@ -767,7 +778,7 @@ function relevantCareerJob(row) {
   const text = `${row.Title} ${row.Location} ${row.Notes}`.toLowerCase();
   const title = row.Title.toLowerCase();
   const roleText = `${row.Title} ${row.Department || ""}`.toLowerCase();
-  const isIntern = /\b(intern|internship|summer analyst|summer associate|co-?op|industrial placement)\b/.test(title);
+  const isIntern = /\b(interns?|internships?|summer analyst|summer associate|co-?op|industrial placement)\b/.test(title);
   const hasDomain = /\b(quant|quantitative|systematic|alpha|research|portfolio|trading|trader|strat|strategy|developer|software|engineer|technology|devops|site reliability|sre|infrastructure|investment|investing|asset management|wealth management|markets|capital markets|banking|finance|financial|fixed income|equity|equities|credit|data science|machine learning|risk|implementation|model|analytics|actuarial|underwriting|treasury|fpga)\b/.test(roleText) || /c\+\+/i.test(roleText);
   const blockedEducation = /\b(phd|ph\.d|doctoral|doctorate|postdoc|postdoctoral|mba)\b/.test(title) && !/\b(bs|bachelor|undergrad|undergraduate|master|ms)\b/.test(text);
   const blockedFullTime = /\b(new grad|new graduate|graduate programme|graduate program|full[- ]time|experienced|senior|principal|director|vp|vice president|recruiter|recruitment)\b/.test(title) || (/\bgraduate\b/.test(title) && !/\bintern/.test(title));
