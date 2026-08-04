@@ -15,10 +15,10 @@ const until = arg("until", new Date().toISOString().slice(0, 10));
 const inWindow = (iso) => { if (!iso) return false; const d = iso.slice(0, 10); return d >= since && d <= until; };
 
 const files = [
-  "quant_internship_scan_raw.json",
-  "quant_internship_roles_scan_v2_raw.json",
-  "us_financial_services_internship_scan_raw.json",
-  "swe_2027_internship_scan_raw.json",
+  "data/quant_internship_scan_raw.json",
+  "data/quant_internship_roles_scan_v2_raw.json",
+  "data/us_financial_services_internship_scan_raw.json",
+  "data/swe_2027_internship_scan_raw.json",
 ];
 const rows = [];
 for (const f of files) {

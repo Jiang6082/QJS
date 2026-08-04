@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-04T15:09:04.228Z",
+  "scannedAt": "2026-08-04T23:37:53.544Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -186,10 +186,10 @@
         },
         {
           "source": "Ashby:jane",
-          "count": 26
+          "count": 25
         }
       ],
-      "jobsSeen": 251,
+      "jobsSeen": 250,
       "relevantInternships": 0
     },
     {
@@ -209,7 +209,7 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:point72",
-          "count": 231
+          "count": 232
         },
         {
           "source": "Ashby:cubist",
@@ -220,7 +220,7 @@
           "count": 0
         }
       ],
-      "jobsSeen": 232,
+      "jobsSeen": 233,
       "relevantInternships": 7
     },
     {
@@ -277,10 +277,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:akunacapital",
-          "count": 34
+          "count": 33
         }
       ],
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantInternships": 8
     },
     {
@@ -436,10 +436,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:bridgewater89",
-          "count": 17
+          "count": 18
         }
       ],
-      "jobsSeen": 17,
+      "jobsSeen": 18,
       "relevantInternships": 0
     },
     {
@@ -550,11 +550,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:dvtrading",
-          "count": 53
+          "count": 55
         }
       ],
-      "jobsSeen": 53,
-      "relevantInternships": 1
+      "jobsSeen": 55,
+      "relevantInternships": 2
     },
     {
       "company": "Edgehog Trading",
@@ -814,10 +814,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 156
+          "count": 158
         }
       ],
-      "jobsSeen": 156,
+      "jobsSeen": 158,
       "relevantInternships": 11
     },
     {
@@ -948,10 +948,10 @@
         },
         {
           "source": "Ashby:maven",
-          "count": 2
+          "count": 0
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 38,
       "relevantInternships": 1
     },
     {
@@ -1123,11 +1123,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 198
+          "count": 197
         }
       ],
-      "jobsSeen": 198,
-      "relevantInternships": 7
+      "jobsSeen": 197,
+      "relevantInternships": 6
     },
     {
       "company": "QVR Advisors",
@@ -1239,7 +1239,7 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:sunrise",
-          "count": 19
+          "count": 18
         },
         {
           "source": "Ashby:sunrise",
@@ -1250,7 +1250,7 @@
           "count": 5
         }
       ],
-      "jobsSeen": 37,
+      "jobsSeen": 36,
       "relevantInternships": 0
     },
     {
@@ -1375,14 +1375,9 @@
     },
     {
       "company": "Virtu Financial",
-      "resolvedBoards": [
-        {
-          "source": "Greenhouse:virtu",
-          "count": 48
-        }
-      ],
-      "jobsSeen": 48,
-      "relevantInternships": 12
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Volant Trading",
@@ -1399,10 +1394,10 @@
         },
         {
           "source": "Ashby:voleon",
-          "count": 54
+          "count": 57
         }
       ],
-      "jobsSeen": 54,
+      "jobsSeen": 57,
       "relevantInternships": 0
     },
     {
@@ -1410,14 +1405,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:voloridgeinvestmentmanagement",
-          "count": 7
+          "count": 6
         },
         {
           "source": "HiringThing:voloridge-investment-management",
           "count": 0
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantInternships": 2
     },
     {
@@ -1535,10 +1530,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:worldquant",
-          "count": 102
+          "count": 101
         }
       ],
-      "jobsSeen": 102,
+      "jobsSeen": 101,
       "relevantInternships": 7
     },
     {

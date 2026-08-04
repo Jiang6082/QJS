@@ -1,14 +1,14 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-08-04T15:09:23.315Z
+Last updated: 2026-08-04T23:38:20.713Z
 
 ## Summary
 
 - Companies searched: 367
 - Career pages checked: 493
-- Current retained roles: 283
+- Current retained roles: 284
 - New stable job URLs since previous scan: 2
-- No longer present since previous scan: 0
+- No longer present since previous scan: 1
 - Matching-role firms: 38
 - Confirmed no open postings: 3
 - Openings but no matching role: 48
@@ -16,17 +16,18 @@ Last updated: 2026-08-04T15:09:23.315Z
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (2)
 
-_None._
+- **DV Trading** - [Quantitative Risk Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) - Chicago
+- **Walleye Capital** - [Quantic – Quantitative Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) - Boston, MA
 
 ### Europe (0)
 
 _None._
 
-### Asia (1)
+### Asia (0)
 
-- **Flow Traders** - [Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8102618) - Hong Kong
+_None._
 
 ### Oceania (0)
 
@@ -48,13 +49,13 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **Barclays** - [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913) - Location not listed
+_None._
 
 ## No Longer Present
 
-_None._
+- **Barclays** - [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913) - Location not listed
 
 ## Full Reports
 

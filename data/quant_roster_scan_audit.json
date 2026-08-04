@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T15:21:46.851Z",
-  "scanStartedAt": "2026-08-04T15:09:23.315Z",
+  "generatedAt": "2026-08-04T23:42:23.947Z",
+  "scanStartedAt": "2026-08-04T23:38:20.713Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
@@ -72,7 +72,7 @@
         "https://www.alpha-grep.com/career/",
         "https://job-boards.greenhouse.io/alphagrepsecurities"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 17,
       "relevantInternships": 1
@@ -883,7 +883,7 @@
       "careerPages": [
         "https://barakmarketmaking.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -970,7 +970,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 27,
+      "jobsSeen": 26,
       "relevantInternships": 0
     },
     {
@@ -996,7 +996,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 231,
+      "jobsSeen": 232,
       "relevantInternships": 8
     },
     {
@@ -1024,8 +1024,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 53,
-      "relevantInternships": 1
+      "jobsSeen": 55,
+      "relevantInternships": 2
     },
     {
       "company": "Danske Commodities",
@@ -1137,7 +1137,7 @@
         "https://fiveringsfinancial.com/join-our-team/",
         "https://fiverings.com/careers/"
       ],
-      "livePages": 4,
+      "livePages": 3,
       "attemptedPages": 4,
       "jobsSeen": 18,
       "relevantInternships": 1
@@ -1386,7 +1386,7 @@
       "careerPages": [
         "https://www.enigmaquant.com/#careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2070,7 +2070,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 31,
+      "jobsSeen": 30,
       "relevantInternships": 0
     },
     {
@@ -2100,7 +2100,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 156,
+      "jobsSeen": 158,
       "relevantInternships": 11
     },
     {
@@ -2232,7 +2232,7 @@
       "careerPages": [
         "https://mercuria.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2261,7 +2261,7 @@
         "https://www.mingshiim.com/join",
         "https://en.mingshiim.com/join"
       ],
-      "livePages": 0,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2347,7 +2347,7 @@
         "https://pdtpartners.com/careers",
         "https://job-boards.greenhouse.io/pdtpartners"
       ],
-      "livePages": 3,
+      "livePages": 4,
       "attemptedPages": 5,
       "jobsSeen": 10,
       "relevantInternships": 2
@@ -2828,7 +2828,7 @@
       "careerPages": [
         "https://mercuria.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3089,7 +3089,7 @@
       "careerPages": [
         "https://lacapm.com/careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3131,7 +3131,7 @@
       "careerPages": [
         "https://mercuria.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3956,8 +3956,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 16,
-      "relevantInternships": 1
+      "jobsSeen": 17,
+      "relevantInternships": 2
     },
     {
       "company": "Wincent",
@@ -4058,7 +4058,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 54,
+      "jobsSeen": 57,
       "relevantInternships": 0
     },
     {
@@ -4155,9 +4155,9 @@
         "https://www.voloridge.com/our-approach",
         "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantInternships": 2
     },
     {
@@ -4199,7 +4199,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 102,
+      "jobsSeen": 101,
       "relevantInternships": 6
     },
     {

@@ -2,8 +2,8 @@ import fs from "node:fs/promises";
 
 const scannerPath = new URL("../expand_us_financial_services_search.mjs", import.meta.url);
 const dbPath = new URL("../inputs/company_career_pages.json", import.meta.url);
-const outJsonPath = new URL("../discovered-career-pages.json", import.meta.url);
-const outCsvPath = new URL("../discovered-career-pages.csv", import.meta.url);
+const outJsonPath = new URL("../data/discovered-career-pages.json", import.meta.url);
+const outCsvPath = new URL("../data/discovered-career-pages.csv", import.meta.url);
 
 const scannerText = await fs.readFile(scannerPath, "utf8");
 
