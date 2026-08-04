@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T00:12:39.875Z",
-  "currentScanAt": "2026-08-04T00:01:47.770Z",
+  "generatedAt": "2026-08-04T15:21:46.901Z",
+  "currentScanAt": "2026-08-04T15:09:23.315Z",
   "historicalTrackerUrls": 176,
   "roles": [
     {
@@ -173,13 +173,24 @@
     },
     {
       "Company": "Barclays",
+      "Title": "2027 Technology Developer Summer Internship Programme India",
+      "Department": "",
+      "Location": "",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000124913",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Barclays",
       "Title": "2027 Technology Developer Summer Internship Programme Singapore",
       "Department": "",
       "Location": "Singapore, Marina Bay Financial Tower 2",
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Singapore_JR-0000121763",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 27 Days Ago | JR-0000121763",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 28 Days Ago | JR-0000121763",
       "Region": "Asia"
     },
     {
@@ -799,6 +810,17 @@
       "Status": "Confirmed official posting",
       "Notes": "internship timing: Summer",
       "Region": "North America"
+    },
+    {
+      "Company": "Flow Traders",
+      "Title": "Trading Intern",
+      "Department": "Trading",
+      "Location": "Hong Kong",
+      "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/8102618",
+      "Source": "Career page Greenhouse:flowtraders",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.flowtraders.com/careers | company_wrapper=https://www.flowtraders.com/job?gh_jid=8102618 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Flow Traders is looking for entrepreneurial, competitive, and analytical students to join our Trading department as an Intern. What better way to find out if a career in Trading is something for you, than by experiencing it yourself as a Trading Intern! You will get a 360-degree view of our role in the financial markets, how our Traders seize opportunities, and how they work together as a team to optimize and improve their trading desk. This Trading internship is about immersing yourself in the financial markets and experiencing trading up close. You do not need to have a financial background; we will teach you all you need to know. Experience with a scientific programming language or excel ...",
+      "Region": "Asia"
     },
     {
       "Company": "Group One Trading",
