@@ -1,10 +1,10 @@
 # Quant Internship Open Roles Scan
 
-Scanned: 2026-08-04T00:01:38.761Z
-Companies deduplicated: 174
-Open relevant roles found: 150
+Scanned: 2026-08-03T20:45:22.605Z
+Companies deduplicated: 183
+Open relevant roles found: 164
 
-Criteria used: open ATS posting, internship/co-op wording, quant/trading/software/developer/research/engineering/strategy domain, excluding obvious new-grad/full-time/PhD-only roles. Graduation years are eligibility metadata, not internship timing.
+Criteria used: open ATS posting, internship/co-op wording, quant/trading/software/developer/research/engineering domain, excluding obvious new-grad/full-time/PhD-only roles. Graduation years are eligibility metadata, not internship timing.
 
 ## Open Relevant Roles
 
@@ -19,31 +19,22 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **AXQ Capital** — [Quantitative Research Intern ](https://job-boards.greenhouse.io/axq/jobs/5575450004) — New York (Greenhouse:axq; internship timing not stated in title; undergrad/BS/MS language found)
 - **BlackEdge Capital** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) — Chicago (Greenhouse:blackedgecapital; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **BlackEdge Capital** — [Quantitative Trader Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005) — Chicago (Greenhouse:blackedgecapital; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
-- **Citadel** — [International Equities Associate - Intern (Europe)](https://www.citadel.com/careers/details/international-equities-associate-intern-europe/) — London (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel** — [Investment & Trading - Intern (Europe)](https://www.citadel.com/careers/details/investment-trading-intern-europe/) — London, Paris (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel** — [Quantitative Research Analyst - Intern (US)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) — Greenwich, Miami, New York (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel** — [Quantitative Research Analyst Intern - BS/MS (Asia)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) — Hong Kong, Singapore (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel** — [Quantitative Research Analyst Intern - BS/MS (Europe)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) — London, Paris, Zurich (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel** — [Quantitative Trader: Equity Quantitative Research - Intern (US)](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) — Greenwich, Miami, New York (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel** — [Software Engineer - Intern (Europe)](https://www.citadel.com/careers/details/software-engineer-intern-europe/) — London (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel** — [Software Engineer - Intern (US)](https://www.citadel.com/careers/details/software-engineer-intern-us/) — Greenwich, Houston, Miami, New York (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel** — [Trader: Fixed Income & Macro - Intern (US)](https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/) — Greenwich, Miami, New York (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [Credit & Rates Rotational Trader - Intern (US)](https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/) — New York (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [Designated Market Maker (DMM) Trader - Intern (US)](https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/) — New York (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [FPGA Engineer - Intern (Australia)](https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-australia/) — Sydney (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [FPGA Engineer - Intern (US)](https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/) — Miami, New York (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [Quantitative Research Analyst - Intern (US)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/) — Miami, New York (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [Quantitative Research Analyst Intern - BS/MS (Asia)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) — Hong Kong, Singapore (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [Quantitative Research Analyst Intern - BS/MS (Australia)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-australia/) — Sydney (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [Quantitative Research Analyst Intern - BS/MS (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) — London, Paris, Zurich (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [Quantitative Trader - Intern (US)](https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/) — Miami, New York (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [Quantitative Trading - Intern (Australia)](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-australia/) — Sydney (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [Quantitative Trading - Intern (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/) — London, Paris (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [Rates Trading - Intern (Europe)](https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/) — London, Paris (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [Sector Data Analyst - Intern (Europe)](https://www.citadelsecurities.com/careers/details/sector-data-analyst-intern-europe/) — London (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [Software Engineer - Intern (Australia)](https://www.citadelsecurities.com/careers/details/software-engineer-intern-australia/) — Sydney (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [Software Engineer - Intern (US)](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) — Miami, New York (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
-- **Citadel Securities** — [Software Engineer - Intern (US)](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us-2/) — London (Official careers page (browser-audited 2026-07-14); internship timing not stated in title)
+- **Capula** — [2027 Trading and Research Summer Internship](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/) — London, England, United Kingdom (Workable:capula-investment-management-ltd; internship timing: Summer)
+- **Citadel** — [Quantitative Research Analyst Intern - BS/MS (Asia)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) — Hong Kong, Singapore (Official careers page; internship timing not stated in title; undergrad/BS/MS language found)
+- **Citadel** — [Quantitative Research Analyst Intern - BS/MS (Europe)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) — London, Paris, Zurich (Official careers page; internship timing not stated in title; undergrad/BS/MS language found)
+- **Citadel** — [Quantitative Research Analyst Intern - BS/MS (US)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/) — Greenwich, Miami, New York (Official careers page; internship timing not stated in title; undergrad/BS/MS language found)
+- **Citadel** — [Software Engineer - Intern (Asia)](https://www.citadel.com/careers/details/software-engineer-intern-asia/) — Singapore (Official careers page; internship timing not stated in title; undergrad/BS/MS language found)
+- **Citadel** — [Software Engineer - Intern (Australia)](https://www.citadel.com/careers/details/software-engineer-intern-australia/) — Brisbane (Official careers page; internship timing not stated in title; undergrad/BS/MS language found)
+- **Citadel** — [Software Engineer - Intern (Europe)](https://www.citadel.com/careers/details/software-engineer-intern-europe/) — London (Official careers page; internship timing not stated in title)
+- **Citadel Securities** — [FPGA Engineer - Intern (Australia)](https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-australia/) — Sydney (Official careers page; internship timing not stated in title; undergrad/BS/MS language found)
+- **Citadel Securities** — [Quantitative Research Analyst Intern - BS/MS (Asia)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) — Hong Kong, Singapore (Official careers page; internship timing not stated in title; undergrad/BS/MS language found)
+- **Citadel Securities** — [Quantitative Research Analyst Intern - BS/MS (Australia)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-australia/) — Sydney (Official careers page; internship timing not stated in title; undergrad/BS/MS language found)
+- **Citadel Securities** — [Quantitative Research Analyst Intern - BS/MS (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) — London, Paris, Zurich (Official careers page; internship timing not stated in title; undergrad/BS/MS language found)
+- **Citadel Securities** — [Quantitative Research Analyst Intern - BS/MS (US)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/) — Miami, New York (Official careers page; internship timing not stated in title; undergrad/BS/MS language found)
+- **Citadel Securities** — [Quantitative Trading - Intern (Australia)](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-australia/) — Sydney (Official careers page; internship timing not stated in title)
+- **Citadel Securities** — [Software Engineer - Intern (Asia)](https://www.citadelsecurities.com/careers/details/software-engineer-intern-asia/) — Hong Kong, Singapore (Official careers page; internship timing not stated in title; undergrad/BS/MS language found)
+- **Citadel Securities** — [Software Engineer - Intern (Australia)](https://www.citadelsecurities.com/careers/details/software-engineer-intern-australia/) — Sydney (Official careers page; internship timing not stated in title; undergrad/BS/MS language found)
+- **Citadel Securities** — [Software Engineer - Intern (Europe)](https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/) — London (Official careers page; internship timing not stated in title; undergrad/BS/MS language found)
 - **Da Vinci Derivatives** — [Quant Trading Intern](https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101) — Amsterdam, North Holland, Netherlands (Greenhouse:davinciderivatives; internship timing not stated in title; graduation eligibility mentions: 2028)
 - **DE Shaw** — [Proprietary Trading Intern (New York) - Summer 2027](https://www.deshaw.com/careers/Proprietary-Trading-Intern-New-York-Summer-2027-5731) — New York (Official careers page; internship timing: Summer 2027)
 - **DL Trading** — [Quantitative Developer Internship - 2027](https://www.dltrading.io/careers?gh_jid=7814660003) — Chicago, Illinois, United States (Greenhouse:confidentialsportstradingfirm; internship timing not stated in title; undergrad/BS/MS language found)
@@ -55,8 +46,6 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Flow Traders** — [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) — New York (Greenhouse:flowtraders; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **GSA Capital Partners** — [Quantitative Researcher - Intern](https://www.gsacapital.com/careers/gh/?gh_jid=8570661002) — London, New York (Greenhouse:gsacapital; internship timing not stated in title)
 - **GSA Capital Partners** — [Software Developer - Intern](https://www.gsacapital.com/careers/gh/?gh_jid=8570668002) — London (Greenhouse:gsacapital; internship timing not stated in title)
-- **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062) — London, United Kingdom; New York, NY, United States; Singapore (Greenhouse:wehrtyou; internship timing: Summer 2027; undergrad/BS/MS language found)
-- **Hudson River Trading** — [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) — Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore (Greenhouse:wehrtyou; internship timing: Summer 2027; undergrad/BS/MS language found)
 - **IMC Financial Markets** — [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) — Amsterdam, Netherlands (Greenhouse:imc; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **IMC Financial Markets** — [Hardware Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) — Chicago, United States (Greenhouse:imc; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **IMC Financial Markets** — [Machine Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) — Amsterdam, Netherlands (Greenhouse:imc; internship timing: Summer 2027; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found)
@@ -95,6 +84,10 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943) — London (Greenhouse:jumptrading; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003019) — Chicago (Greenhouse:jumptrading; internship timing not stated in title; undergrad/BS/MS language found)
 - **Maven Securities** — [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) — London (Greenhouse:mavensecuritiesholdingltd; internship timing not stated in title; undergrad/BS/MS language found)
+- **Millennium** — [2027 Data & Research Strategy Intern, New York](https://mlp.eightfold.ai/careers/job/755957778836) — New York, New York, United States of America (Eightfold:campusjobs.mlp.com; internship timing not stated in title)
+- **Millennium** — [2027 Quantitative Developer Intern, New York](https://mlp.eightfold.ai/careers/job/755957819661) — New York, New York, United States of America (Eightfold:campusjobs.mlp.com; internship timing not stated in title)
+- **Millennium** — [2027 Quantitative Researcher Intern, Miami](https://mlp.eightfold.ai/careers/job/755957778853) — Miami, Florida, United States of America (Eightfold:campusjobs.mlp.com; internship timing not stated in title)
+- **Millennium** — [2027 Quantitative Researcher Intern, New York](https://mlp.eightfold.ai/careers/job/755957778843) — New York, New York, United States of America (Eightfold:campusjobs.mlp.com; internship timing not stated in title)
 - **Old Mission Capital** — [Software Engineer – 2027 Internship Program (June Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) — Chicago, IL, United States (Greenhouse:oldmissioncapital; internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **Old Mission Capital** — [Software Engineer – 2027 Internship Program (June Start)](https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6) — Chicago, IL (Ashby:old-mission-capital; internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **Optiver** — [FPGA Engineer Intern (Summer 2027 - Austin)](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) — Austin, Texas, United States (Greenhouse:optiverus; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
@@ -114,6 +107,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Point 72/Cubist** — [Quantitative Research Intern (NLP)](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) — New York (Greenhouse:point72; internship timing not stated in title; undergrad/BS/MS language found)
 - **Point 72/Cubist** — [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) — New York, London, or Paris (Greenhouse:point72; internship timing not stated in title; undergrad/BS/MS language found)
 - **Point 72/Cubist** — [Summer 2027 Quantitative Research Internship](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) — New York (Greenhouse:point72; internship timing: Summer 2027; undergrad/BS/MS language found)
+- **Quadrature Capital** — [Internships](https://job-boards.greenhouse.io/quadraturecapital/jobs/4255974) — London, New York (Greenhouse:quadraturecapital; internship timing not stated in title; undergrad/BS/MS language found)
 - **Qube Research & Technologies** — [2026 - Internship, Data Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8078338002) — Paris, London (Greenhouse:quberesearchandtechnologies; internship timing not stated in title; undergrad/BS/MS language found)
 - **Qube Research & Technologies** — [2026 - Internship, Quantitative Developer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8169041002) — Zurich (Greenhouse:quberesearchandtechnologies; internship timing not stated in title; undergrad/BS/MS language found)
 - **Qube Research & Technologies** — [2026 - Internship, Quantitative Developer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8068131002) — London (Greenhouse:quberesearchandtechnologies; internship timing not stated in title; undergrad/BS/MS language found)
@@ -124,8 +118,28 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Schonfeld Strategic Advisors** — [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) — Hong Kong, Hong Kong (Greenhouse:schonfeld; internship timing not stated in title)
 - **Squarepoint Capital** — [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) — London, Paris, New York, Singapore, Hong Kong (Greenhouse:squarepointcapital; internship timing not stated in title)
 - **Squarepoint Capital** — [Intern Software Developer - Singapore - 2027](https://www.squarepoint-capital.com/open-opportunities?id=6201998&gh_jid=6201998) — Singapore  (Greenhouse:squarepointcapital; internship timing not stated in title; undergrad/BS/MS language found)
-- **Stevens Capital Management** — [Developer Internship](https://job-boards.greenhouse.io/scm/jobs/721888) — Radnor, PA (Greenhouse:scm; internship timing not stated in title; undergrad/BS/MS language found)
-- **Stevens Capital Management** — [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895) — Radnor, PA (Greenhouse:scm; internship timing not stated in title; undergrad/BS/MS language found)
+- **Susquehanna International Group** — [Equity Research Analyst Internship: Summer 2027](https://careers-sig.icims.com/jobs/10876/equity-research-analyst-internship%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Equity Research Internship: Summer 2027](https://careers-sig.icims.com/jobs/11085/equity-research-internship%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Research Internship - Master's: Summer 2027](https://careers-sig.icims.com/jobs/11121/quantitative-research-internship---master%27s%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Research Internship – Master's: Summer 2027](https://careers-sig.icims.com/jobs/10819/quantitative-research-internship-%e2%80%93-master%27s%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Research Internship – Master's: Summer 2027](https://careers-sig.icims.com/jobs/10820/quantitative-research-internship-%e2%80%93-master%27s%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Research Internship: Summer 2027](https://careers-sig.icims.com/jobs/10843/quantitative-research-internship%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Research Internship: Summer 2027](https://careers-sig.icims.com/jobs/11007/quantitative-research-internship%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Strategy Developer Internship: Summer 2027](https://careers-sig.icims.com/jobs/10838/quantitative-strategy-developer-internship%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027; undergrad/BS/MS language found)
+- **Susquehanna International Group** — [Quantitative Strategy Developer Internship: Summer 2027](https://careers-sig.icims.com/jobs/11170/quantitative-strategy-developer-internship%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027; undergrad/BS/MS language found)
+- **Susquehanna International Group** — [Quantitative Strategy Developer Internship: Summer 2027](https://careers.sig.com/global-campus/jobs/10838?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania (Official careers page; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Systematic Trading Internship - Master's: Summer 2027](https://careers-sig.icims.com/jobs/11122/quantitative-systematic-trading-internship---master%27s%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Systematic Trading Internship – Master's: Summer 2027](https://careers-sig.icims.com/jobs/10823/quantitative-systematic-trading-internship-%e2%80%93-master%27s%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Systematic Trading Internship – Master's: Summer 2027](https://careers-sig.icims.com/jobs/10824/quantitative-systematic-trading-internship-%e2%80%93-master%27s%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Systematic Trading Internship: Summer 2027](https://careers-sig.icims.com/jobs/10841/quantitative-systematic-trading-internship%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Systematic Trading Internship: Summer 2027](https://careers-sig.icims.com/jobs/11006/quantitative-systematic-trading-internship%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027; undergrad/BS/MS language found)
+- **Susquehanna International Group** — [Quantitative Trader Internship: Summer 2027](https://careers-sig.icims.com/jobs/10717/quantitative-trader-internship%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Trader Internship: Summer 2027](https://careers-sig.icims.com/jobs/10718/quantitative-trader-internship%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Trader Internship: Summer 2027](https://careers-sig.icims.com/jobs/10849/quantitative-trader-internship%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10717?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania (Official careers page; internship timing: Summer 2027)
+- **Susquehanna International Group** — [Quantitative Trading Internship: Summer 2027](https://careers-sig.icims.com/jobs/10839/quantitative-trading-internship%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027; undergrad/BS/MS language found)
+- **Susquehanna International Group** — [Quantitative Trading Internship: Summer 2027](https://careers-sig.icims.com/jobs/11005/quantitative-trading-internship%3a-summer-2027/job) — Location not listed (iCIMS:careers-sig; internship timing: Summer 2027; undergrad/BS/MS language found)
+- **Susquehanna International Group** — [Trading System Engineering Internship: Summer 2027](https://careers.sig.com/technology-software-engineering/jobs/10837?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania (Official careers page; internship timing: Summer 2027)
 - **Tower Research Capital** — [Junior Execution Trader Intern](https://www.tower-research.com/open-positions/?gh_jid=8091833) — Gift City (Greenhouse:towerresearchcapital; internship timing not stated in title; undergrad/BS/MS language found)
 - **Tower Research Capital** — [Quantitative Developer Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8044334) — New York, Chicago (Greenhouse:towerresearchcapital; internship timing: Summer 2027; undergrad/BS/MS language found)
 - **Tower Research Capital** — [Quantitative Trader Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) — New York, Chicago (Greenhouse:towerresearchcapital; internship timing: Summer 2027; undergrad/BS/MS language found)
@@ -163,7 +177,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 
 - **Jane Street** — checked Greenhouse:janestreet (225); Ashby:jane (26)
 - **DRW** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **HRT** — checked Greenhouse:wehrtyou (72); Ashby:hrt (0)
+- **HRT** — checked Ashby:hrt (0)
 - **Arrowstreet** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **3red Partners** — checked Greenhouse:3redpartners (8)
 - **A Priori** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -188,7 +202,6 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Capital Fund Management** — checked Lever:capital (41)
 - **Capital Markets Trading** — checked Lever:capital (41)
 - **Capstone** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Capula** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Caxton Associates** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Centiva Capital** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Chicago Trading Company** — checked Greenhouse:chicagotrading (23); Greenhouse:chicago (1)
@@ -217,12 +230,13 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Geneva Trading** — checked Greenhouse:genevatrading (13)
 - **Geode Capital Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Graham Capital Management** — checked Greenhouse:grahamcapitalmanagement (9)
-- **Graviton Research Capital** — checked Greenhouse:gravitonresearchcapital (20)
+- **Graviton Research Capital** — checked Greenhouse:gravitonresearchcapital (20); Workable:gravitonresearch (0)
 - **Group One Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **GTS** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **HAP Capital** — checked Lever:hap-capital (0)
 - **Headlands Technologies** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Hudson Bay Capital** — no public Greenhouse/Lever/Ashby board discovered by slug scan
+- **Hudson River Trading** — checked Ashby:hrt (0)
 - **Jacobs Levy Equity Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Jain Global** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Jocassee Quantitative** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -265,10 +279,10 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Sensato Investors** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Seven Eight Capital** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Spark Investment Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
+- **Stevens Capital Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Summit Securities Group** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Sumo** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Sunrise Futures** — checked Greenhouse:sunrise (19); Ashby:sunrise (13); Trakstar:sunrisefutures (5)
-- **Susquehanna International Group** — no public Greenhouse/Lever/Ashby board discovered by slug scan
+- **Sunrise Futures** — checked Greenhouse:sunrise (19); Ashby:sunrise (13)
 - **Systematica Investments** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Tanius Technology** — checked Greenhouse:tanius (8)
 - **Teza Technologies** — checked Ashby:teza-technologies (11)
@@ -302,5 +316,12 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **XTX Markets** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Wizard Quant** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **BlueCrest Capital Management** — checked Greenhouse:bluecrestcapitalmanagement (5)
+- **ExodusPoint Capital Management** — checked Greenhouse:exoduspoint (2)
 - **B2C2** — checked Greenhouse:b2c2 (5)
 - **Keyrock** — checked Ashby:keyrock (5)
+- **Webb Traders** — no public Greenhouse/Lever/Ashby board discovered by slug scan
+- **All Options** — no public Greenhouse/Lever/Ashby board discovered by slug scan
+- **OSTC** — no public Greenhouse/Lever/Ashby board discovered by slug scan
+- **GSR** — no public Greenhouse/Lever/Ashby board discovered by slug scan
+- **Portofino Technologies** — no public Greenhouse/Lever/Ashby board discovered by slug scan
+- **Cantab Capital Partners** — no public Greenhouse/Lever/Ashby board discovered by slug scan

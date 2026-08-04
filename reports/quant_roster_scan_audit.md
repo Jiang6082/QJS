@@ -1,10 +1,10 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-07-31T13:20:58.559Z
+Scan started: 2026-08-04T00:01:47.770Z
 Source roster entries: 303
 Canonical companies after aliases: 302
 
-## Matching Roles Found (37)
+## Matching Roles Found (38)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -22,11 +22,12 @@ Canonical companies after aliases: 302
 | Five Rings | 4/4 pages live | [link](https://job-boards.greenhouse.io/fiveringsllc) [link](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008) [link](https://fiveringsfinancial.com/join-our-team/) [link](https://fiverings.com/careers/) |
 | GSA Capital | 2/3 pages live | [link](https://www.gsacapital.com/careers/) [link](https://job-boards.greenhouse.io/gsacapital) [link](https://www.gsacapital.com/join-us) |
 | Hudson River Trading | 2/2 pages live | [link](https://www.hudsonrivertrading.com/careers/) [link](https://www.hudsonrivertrading.com/careers/job/) |
-| Jane Street | 5/5 pages live | [link](https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads) [link](https://www.janestreet.com/join-jane-street/open-roles/) [link](https://www.janestreet.com/join-jane-street/overview/) [link](https://www.janestreet.com/join-jane-street/apply/8092062002/) [link](https://job-boards.greenhouse.io/janestreet/jobs/7967227002) |
+| Jane Street | 4/5 pages live | [link](https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads) [link](https://www.janestreet.com/join-jane-street/open-roles/) [link](https://www.janestreet.com/join-jane-street/overview/) [link](https://www.janestreet.com/join-jane-street/apply/8092062002/) [link](https://job-boards.greenhouse.io/janestreet/jobs/7967227002) |
 | Flow Traders | 1/1 pages live | [link](https://www.flowtraders.com/careers) |
 | Group One Trading | 1/1 pages live | [link](https://www.group1.com/careers/) |
 | Jump Trading | 1/1 pages live | [link](https://www.jumptrading.com/careers/) |
 | IMC Trading | 3/3 pages live | [link](https://job-boards.greenhouse.io/imc/jobs/4597351101) [link](https://www.imc.com/us/careers/) [link](https://www.imc.com/ap/careers/) |
+| Maven Securities | 4/5 pages live | [link](https://www.mavensecurities.com/careers/) [link](https://www.mavensecurities.com/jobs/) [link](https://maventrading.com/careers) [link](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381) [link](https://job-boards.greenhouse.io/mavensecuritiesholdingltd) |
 | PDT Partners | 4/5 pages live | [link](https://job-boards.greenhouse.io/pdtpartners?error=true) [link](https://job-boards.greenhouse.io/pdtpartners/jobs/3914106) [link](https://www.pdtpartners.com/careers/) [link](https://pdtpartners.com/careers) [link](https://job-boards.greenhouse.io/pdtpartners) |
 | Radix Trading | 3/4 pages live | [link](https://www.radix-trading.com/careers/) [link](https://www.radixeng.com/careers) [link](https://job-boards.greenhouse.io/radixuniversity) [link](https://job-boards.greenhouse.io/radixexperienced) |
 | Schonfeld | 2/2 pages live | [link](https://job-boards.greenhouse.io/schonfeld?error=true) [link](https://www.schonfeld.com/careers/) |
@@ -50,11 +51,11 @@ Canonical companies after aliases: 302
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
-| HAP Capital | 1/1 pages live | [link](https://jobs.lever.co/hap-capital) |
+| HAP Capital | 0/1 pages live | [link](https://jobs.lever.co/hap-capital) |
 | Maverick Derivatives | 1/1 pages live | [link](https://job-boards.greenhouse.io/maverickderivatives?error=true) |
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
 
-## Confirmed Openings, No Matching Role (49)
+## Confirmed Openings, No Matching Role (48)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -78,19 +79,18 @@ Canonical companies after aliases: 302
 | GMO | 1/1 pages live | [link](https://www.gmo.com/americas/careers/) |
 | Gelber Group | 2/2 pages live | [link](https://www.gelbergroup.com/careers/) [link](https://job-boards.greenhouse.io/gelbergroup) |
 | Headlands Technologies | 1/1 pages live | [link](https://www.headlandstech.com/careers/) |
-| Keyrock | 1/1 pages live | [link](https://keyrock.com/careers/) |
+| Keyrock | 2/2 pages live | [link](https://keyrock.com/careers/) [link](https://jobs.ashbyhq.com/keyrock) |
 | Epoch Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/epochcapital) |
 | Evergreen Statistical Trading | 1/1 pages live | [link](https://job-boards.greenhouse.io/evergreenstatisticaltrading/jobs/4136768009) |
 | Gunvor | 3/3 pages live | [link](https://gunvorgroup.com/careers/) [link](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers) [link](https://gunvorgroup.com/careers/talent/) |
 | Kronos Research | 1/1 pages live | [link](https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us) |
-| Maven Securities | 4/5 pages live | [link](https://www.mavensecurities.com/careers/) [link](https://www.mavensecurities.com/jobs/) [link](https://maventrading.com/careers) [link](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381) [link](https://job-boards.greenhouse.io/mavensecuritiesholdingltd) |
 | NK Securities | 1/1 pages live | [link](https://job-boards.greenhouse.io/nksecuritiesresearch?error=true) |
 | Mako Trading | 2/2 pages live | [link](https://www.mako.com/opportunities) [link](https://www.mako.com/early-careers) |
 | Marshall Wace | 3/3 pages live | [link](https://job-boards.greenhouse.io/mw-tech-grad) [link](https://www.mwam.com/join-us/) [link](https://us.mwam.com/join-us/) |
 | Peak6 | 1/1 pages live | [link](https://peak6group.wd1.myworkdayjobs.com/PEAK6) |
 | Quadrature | 1/1 pages live | [link](https://job-boards.greenhouse.io/quadraturecapital?error=true) |
 | Qube Research & Technologies | 0/1 pages live | [link](https://www.qube-rt.com/careers/) |
-| Simplex Trading | 2/2 pages live | [link](https://simplextrading.com/careers/) [link](https://job-boards.greenhouse.io/simplextrading) |
+| Simplex Trading | 1/2 pages live | [link](https://simplextrading.com/careers/) [link](https://job-boards.greenhouse.io/simplextrading) |
 | Man Group | 3/3 pages live | [link](https://mangroupplc.wd3.myworkdayjobs.com/Man_Group_Careers) [link](https://job-boards.eu.greenhouse.io/mangroup) [link](https://www.man.com/careers) |
 | Midpoint Markets | 1/1 pages live | [link](https://job-boards.greenhouse.io/midpointmarkets/jobs/4408679008) |
 | Quadrature Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/quadraturecapital?error=true) |
@@ -155,8 +155,8 @@ Canonical companies after aliases: 302
 | Allston Trading | 0/1 pages live | [link](https://www.allstontrading.com/careers/) |
 | ArbitragePoint Trading | no saved page attempted | none |
 | Arrowstreet Capital | 1/1 pages live | [link](https://www.arrowstreetcapital.com/professional-careers/) |
-| B2C2 | 1/1 pages live | [link](https://www.b2c2.com/join-b2c2/careers) |
-| Barak Capital | 1/1 pages live | [link](https://barakmarketmaking.com/careers/) |
+| B2C2 | 2/2 pages live | [link](https://www.b2c2.com/join-b2c2/careers) [link](https://job-boards.greenhouse.io/b2c2) |
+| Barak Capital | 0/1 pages live | [link](https://barakmarketmaking.com/careers/) |
 | Black Eagle Financial Group | 1/1 pages live | [link](https://blackeaglefg.com/stock-market-job/) |
 | Boston Energy Trading and Marketing | 1/1 pages live | [link](https://www.betm.com/careers) |
 | CTS Global Equity Group | 2/2 pages live | [link](https://www.ctsglobalgroup.com/) [link](https://www.ctsglobalgroup.com/internship) |
@@ -226,9 +226,9 @@ Canonical companies after aliases: 302
 | Linitics | no saved page attempted | none |
 | Lucida | no saved page attempted | none |
 | Marquette Partners | 1/1 pages live | [link](http://www.marquettepartnersholdingsllc.com/#careers) |
-| Mercuria Energy Group | 1/1 pages live | [link](https://mercuria.com/careers/) |
+| Mercuria Energy Group | 0/1 pages live | [link](https://mercuria.com/careers/) |
 | Minghong | 1/1 pages live | [link](https://join.mhfunds.com) |
-| Mingshi Investment Management | 2/2 pages live | [link](https://www.mingshiim.com/join) [link](https://en.mingshiim.com/join) |
+| Mingshi Investment Management | 0/2 pages live | [link](https://www.mingshiim.com/join) [link](https://en.mingshiim.com/join) |
 | Nitor Energy | 1/1 pages live | [link](https://nitorenergy.com/career/) |
 | Nyenburgh | no saved page attempted | none |
 | OTC Flow | 1/1 pages live | [link](https://otc-flow.webflow.io/careers) |
@@ -256,7 +256,7 @@ Canonical companies after aliases: 302
 | Scientech Research Capital | 1/1 pages live | [link](https://www.scientechresearch.io/jobopenings) |
 | Lone Pine Capital | no saved page attempted | none |
 | Mathrix | 1/1 pages live | [link](https://mathrix.recruitee.com/) |
-| Mercuria | 1/1 pages live | [link](https://mercuria.com/careers/) |
+| Mercuria | 0/1 pages live | [link](https://mercuria.com/careers/) |
 | Minghong Investment | 1/1 pages live | [link](https://join.mhfunds.com) |
 | Nine Mile | 1/1 pages live | [link](https://www.nmftrading.com/careers) |
 | Northpool | 1/1 pages live | [link](https://www.northpool.nl/vacancies) |
@@ -275,7 +275,7 @@ Canonical companies after aliases: 302
 | Los Angeles Capital Management | 1/1 pages live | [link](https://lacapm.com/careers) |
 | Market Wizards | 1/1 pages live | [link](https://marketwizards.com/careers/) |
 | Matrix Executions | 0/1 pages live | [link](https://matrixexecutions.com/careers/) |
-| Mercuria Energy America | 1/1 pages live | [link](https://mercuria.com/careers/) |
+| Mercuria Energy America | 0/1 pages live | [link](https://mercuria.com/careers/) |
 | Millennium | 2/2 pages live | [link](https://mlp.wd5.myworkdayjobs.com/mlpcareers) [link](https://www.mlp.com/careers/) |
 | Mingshi / Minghong | 2/2 pages live | [link](https://join.mhfunds.com/index) [link](https://www.mhfunds.com/) |
 | Murano Group | no saved page attempted | none |

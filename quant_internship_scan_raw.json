@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-04T00:01:38.761Z",
+  "scannedAt": "2026-08-03T20:45:22.605Z",
   "results": [
     {
       "company": "Jane Street",
@@ -111,34 +111,11 @@
       "company": "HRT",
       "boards": [
         {
-          "source": "Greenhouse:wehrtyou",
-          "count": 72
-        },
-        {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "matches": [
-        {
-          "company": "HRT",
-          "source": "Greenhouse:wehrtyou",
-          "title": "Algorithm Development (Quant Research & Trading) Internship – Summer 2027",
-          "department": "Campus",
-          "location": "London, United Kingdom; New York, NY, United States; Singapore",
-          "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
-          "content": "We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application. Hudson River Trading (HRT) is seeking exceptional full-time students to join our Algorithm Development Summer Internship Program. Algorithm Developers at HRT focus on the research and implementation of automated trading strategies. As an intern, you will have the opportunity to rotate between our high- and mid-frequency trading teams, as well as our machine learning teams. In close collaboration with full-time mentors, you will apply sophisticated quantitative modeling techniques to understand and predict market behavior and write software to improve our trading strategies. Ideal candidates are quantitatively-driven and practically-minded programmers, scientists, and mathematicians who are excited to solve the most challenging problems in our field. What to Expect Leverage our proprietary infrastructure (Python/C++) in conjunction with third-party tools to conduct quantitative research and data analysis Use machine learning and time series techniques to derive novel insights on market behavior from large and complex datasets Work on impactful projects in close collaboration with experienced researchers, traders, and developers Utilize our world-class compute cluster to run simulations and crunch data Build predictive models for financial markets using a combination of market and non-market data Attend and participate in Tech Talks that provide an overview of markets and HRT’s trading philosophy Enjoy a curriculum of speakers, trading games, mentorships, and social events throughout the summer Qualifications You are a full-time undergraduate or master’s student in a quantitative discipline (math, physics, computer science, statistics, or a related program) Experience programming in Python is a must; C++ is desired for those interested in low-latency trading Experience with statistical analysis, numerical programming, or machine learning in Python, Pandas/Numpy, R, and/or MATLAB A passion for applying quantitative models and technology toward solving real-world problems Strong communication skills We offer a weekly base salary offer in addition to a competitive signing bonus, company-paid housing, meals, and other perks. New York: Weekly base salary of 5,800 USD Singapore: Weekly base salary of 7,650 SGD London: Weekly base salary of 4,350 GBP Culture Hudson River Trading (HRT) brings a scientific approach to trading financial products. We have built one of the world's most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading. At HRT we welcome a variety of expertise: mathematics and computer science, physics and engineering, media and tech. We’re a community of self-starters who are motivated by the excitement of being at the cutting edge of automation in every part of our organization—from trading, to business operations, to recruiting and beyond. We value openness and transparency, and celebrate great ideas from HRT veterans and new hires alike. At HRT we’re friends and colleagues – whether we are sharing a meal, playing the latest board game, or writing elegant code. We embrace a culture of togetherness that extends far beyond the walls of our office. Feel like you belong at HRT? Our goal is to find the best people and bring them together to do great work in a place where everyone is valued. HRT is proud of our diverse staff; we have offices all over the globe and benefit from our varied and unique perspectives. HRT is an equal opportunity employer; so whoever you are we’d love to get to know you. Please be advised: Use of AI tools during interviews or assessments is strictly prohibited, unless otherwise instructed or agreed upon. We employ various methods to evaluate the authenticity of candidate responses. If we determine that AI assistance was used during any stage of the hiring process, we reserve the right to immediately disqualify your candidacy or rescind any job offers extended."
-        },
-        {
-          "company": "HRT",
-          "source": "Greenhouse:wehrtyou",
-          "title": "Software Engineering Internship (C++ or Python) – Summer 2027",
-          "department": "Campus",
-          "location": "Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore",
-          "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083",
-          "content": "We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application. Hudson River Trading (HRT) is seeking highly motivated full-time students to join our Software Engineering Summer Internship Program. HRT brings together the sharpest minds across quantitative disciplines—math, computer science, physics, engineering, and more— within our world-class computing environment to rapidly scale solutions to the toughest problems in tech and trading. Our software engineers create and maintain technology and infrastructure that is integral to the success of our trading. Ideal candidates are smart programmers who love to code, are eager to learn, and can thrive in an entrepreneurial environment. What to Expect A hands-on introduction to all technical facets of software engineering in the algorithmic trading industry Independent programming projects in Python, C, or C++, depending on the needs of the projectStructured and hands-on trainings, with quick transition into real projects within the first week Opportunities to learn all about HRT's research and trading infrastructure, even in areas you may not be working in directly Technical project work and mentorship, with the opportunity to gain a deeper understanding of global financial markets Plenty of opportunities to connect with fellow interns, participate in team events, and explore the unique culture, food, and experiences that make each HRT office location and cities special. Qualifications You are a full-time undergraduate student studying computer science or a related field Programming experience in Python, C or C++ is required A passion for technology and writing code that is elegant, readable, and efficient Exceptional problem solving skills Strong communication skills Knowledge of trading and/or financial markets is not required for this position We offer a weekly base salary offer in addition to a competitive signing bonus, company-paid housing, meals, and other perks. New York: Weekly base salary of 5,800 USD Singapore: Weekly base salary of 7,650 SGD London: Weekly base salary of 4,350 GBP Culture Hudson River Trading (HRT) brings a scientific approach to trading financial products. We have built one of the world's most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading. At HRT we welcome a variety of expertise: mathematics and computer science, physics and engineering, media and tech. We’re a community of self-starters who are motivated by the excitement of being at the cutting edge of automation in every part of our organization—from trading, to business operations, to recruiting and beyond. We value openness and transparency, and celebrate great ideas from HRT veterans and new hires alike. At HRT we’re friends and colleagues – whether we are sharing a meal, playing the latest board game, or writing elegant code. We embrace a culture of togetherness that extends far beyond the walls of our office. Feel like you belong at HRT? Our goal is to find the best people and bring them together to do great work in a place where everyone is valued. HRT is proud of our diverse staff; we have offices all over the globe and benefit from our varied and unique perspectives. HRT is an equal opportunity employer; so whoever you are we’d love to get to know you. Please be advised: Use of AI tools during interviews or assessments is strictly prohibited, unless otherwise instructed or agreed upon. We employ various methods to evaluate the authenticity of candidate responses. If we determine that AI assistance was used during any stage of the hiring process, we reserve the right to immediately disqualify your candidacy or rescind any job offers extended."
-        }
-      ]
+      "matches": []
     },
     {
       "company": "Five Rings",
@@ -473,8 +450,25 @@
     },
     {
       "company": "Capula",
-      "boards": [],
-      "matches": []
+      "boards": [
+        {
+          "source": "Workable:capula-investment-management-ltd",
+          "count": 8
+        }
+      ],
+      "matches": [
+        {
+          "company": "Capula",
+          "source": "Workable:capula-investment-management-ltd",
+          "title": "2027 Trading and Research Summer Internship",
+          "department": [
+            "Trading"
+          ],
+          "location": "London, England, United Kingdom",
+          "url": "https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/",
+          "content": ""
+        }
+      ]
     },
     {
       "company": "Caxton Associates",
@@ -735,6 +729,10 @@
         {
           "source": "Greenhouse:gravitonresearchcapital",
           "count": 20
+        },
+        {
+          "source": "Workable:gravitonresearch",
+          "count": 0
         }
       ],
       "matches": []
@@ -802,34 +800,11 @@
       "company": "Hudson River Trading",
       "boards": [
         {
-          "source": "Greenhouse:wehrtyou",
-          "count": 72
-        },
-        {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "matches": [
-        {
-          "company": "Hudson River Trading",
-          "source": "Greenhouse:wehrtyou",
-          "title": "Algorithm Development (Quant Research & Trading) Internship – Summer 2027",
-          "department": "Campus",
-          "location": "London, United Kingdom; New York, NY, United States; Singapore",
-          "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
-          "content": "We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application. Hudson River Trading (HRT) is seeking exceptional full-time students to join our Algorithm Development Summer Internship Program. Algorithm Developers at HRT focus on the research and implementation of automated trading strategies. As an intern, you will have the opportunity to rotate between our high- and mid-frequency trading teams, as well as our machine learning teams. In close collaboration with full-time mentors, you will apply sophisticated quantitative modeling techniques to understand and predict market behavior and write software to improve our trading strategies. Ideal candidates are quantitatively-driven and practically-minded programmers, scientists, and mathematicians who are excited to solve the most challenging problems in our field. What to Expect Leverage our proprietary infrastructure (Python/C++) in conjunction with third-party tools to conduct quantitative research and data analysis Use machine learning and time series techniques to derive novel insights on market behavior from large and complex datasets Work on impactful projects in close collaboration with experienced researchers, traders, and developers Utilize our world-class compute cluster to run simulations and crunch data Build predictive models for financial markets using a combination of market and non-market data Attend and participate in Tech Talks that provide an overview of markets and HRT’s trading philosophy Enjoy a curriculum of speakers, trading games, mentorships, and social events throughout the summer Qualifications You are a full-time undergraduate or master’s student in a quantitative discipline (math, physics, computer science, statistics, or a related program) Experience programming in Python is a must; C++ is desired for those interested in low-latency trading Experience with statistical analysis, numerical programming, or machine learning in Python, Pandas/Numpy, R, and/or MATLAB A passion for applying quantitative models and technology toward solving real-world problems Strong communication skills We offer a weekly base salary offer in addition to a competitive signing bonus, company-paid housing, meals, and other perks. New York: Weekly base salary of 5,800 USD Singapore: Weekly base salary of 7,650 SGD London: Weekly base salary of 4,350 GBP Culture Hudson River Trading (HRT) brings a scientific approach to trading financial products. We have built one of the world's most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading. At HRT we welcome a variety of expertise: mathematics and computer science, physics and engineering, media and tech. We’re a community of self-starters who are motivated by the excitement of being at the cutting edge of automation in every part of our organization—from trading, to business operations, to recruiting and beyond. We value openness and transparency, and celebrate great ideas from HRT veterans and new hires alike. At HRT we’re friends and colleagues – whether we are sharing a meal, playing the latest board game, or writing elegant code. We embrace a culture of togetherness that extends far beyond the walls of our office. Feel like you belong at HRT? Our goal is to find the best people and bring them together to do great work in a place where everyone is valued. HRT is proud of our diverse staff; we have offices all over the globe and benefit from our varied and unique perspectives. HRT is an equal opportunity employer; so whoever you are we’d love to get to know you. Please be advised: Use of AI tools during interviews or assessments is strictly prohibited, unless otherwise instructed or agreed upon. We employ various methods to evaluate the authenticity of candidate responses. If we determine that AI assistance was used during any stage of the hiring process, we reserve the right to immediately disqualify your candidacy or rescind any job offers extended."
-        },
-        {
-          "company": "Hudson River Trading",
-          "source": "Greenhouse:wehrtyou",
-          "title": "Software Engineering Internship (C++ or Python) – Summer 2027",
-          "department": "Campus",
-          "location": "Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore",
-          "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083",
-          "content": "We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application. Hudson River Trading (HRT) is seeking highly motivated full-time students to join our Software Engineering Summer Internship Program. HRT brings together the sharpest minds across quantitative disciplines—math, computer science, physics, engineering, and more— within our world-class computing environment to rapidly scale solutions to the toughest problems in tech and trading. Our software engineers create and maintain technology and infrastructure that is integral to the success of our trading. Ideal candidates are smart programmers who love to code, are eager to learn, and can thrive in an entrepreneurial environment. What to Expect A hands-on introduction to all technical facets of software engineering in the algorithmic trading industry Independent programming projects in Python, C, or C++, depending on the needs of the projectStructured and hands-on trainings, with quick transition into real projects within the first week Opportunities to learn all about HRT's research and trading infrastructure, even in areas you may not be working in directly Technical project work and mentorship, with the opportunity to gain a deeper understanding of global financial markets Plenty of opportunities to connect with fellow interns, participate in team events, and explore the unique culture, food, and experiences that make each HRT office location and cities special. Qualifications You are a full-time undergraduate student studying computer science or a related field Programming experience in Python, C or C++ is required A passion for technology and writing code that is elegant, readable, and efficient Exceptional problem solving skills Strong communication skills Knowledge of trading and/or financial markets is not required for this position We offer a weekly base salary offer in addition to a competitive signing bonus, company-paid housing, meals, and other perks. New York: Weekly base salary of 5,800 USD Singapore: Weekly base salary of 7,650 SGD London: Weekly base salary of 4,350 GBP Culture Hudson River Trading (HRT) brings a scientific approach to trading financial products. We have built one of the world's most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading. At HRT we welcome a variety of expertise: mathematics and computer science, physics and engineering, media and tech. We’re a community of self-starters who are motivated by the excitement of being at the cutting edge of automation in every part of our organization—from trading, to business operations, to recruiting and beyond. We value openness and transparency, and celebrate great ideas from HRT veterans and new hires alike. At HRT we’re friends and colleagues – whether we are sharing a meal, playing the latest board game, or writing elegant code. We embrace a culture of togetherness that extends far beyond the walls of our office. Feel like you belong at HRT? Our goal is to find the best people and bring them together to do great work in a place where everyone is valued. HRT is proud of our diverse staff; we have offices all over the globe and benefit from our varied and unique perspectives. HRT is an equal opportunity employer; so whoever you are we’d love to get to know you. Please be advised: Use of AI tools during interviews or assessments is strictly prohibited, unless otherwise instructed or agreed upon. We employ various methods to evaluate the authenticity of candidate responses. If we determine that AI assistance was used during any stage of the hiring process, we reserve the right to immediately disqualify your candidacy or rescind any job offers extended."
-        }
-      ]
+      "matches": []
     },
     {
       "company": "IMC Financial Markets",
@@ -1465,6 +1440,53 @@
       "matches": []
     },
     {
+      "company": "Millennium",
+      "boards": [
+        {
+          "source": "Eightfold:campusjobs.mlp.com",
+          "count": 10
+        }
+      ],
+      "matches": [
+        {
+          "company": "Millennium",
+          "source": "Eightfold:campusjobs.mlp.com",
+          "title": "2027 Quantitative Developer Intern, New York",
+          "department": "Trading",
+          "location": "New York, New York, United States of America",
+          "url": "https://mlp.eightfold.ai/careers/job/755957819661",
+          "content": ""
+        },
+        {
+          "company": "Millennium",
+          "source": "Eightfold:campusjobs.mlp.com",
+          "title": "2027 Data & Research Strategy Intern, New York",
+          "department": "Execution Services",
+          "location": "New York, New York, United States of America",
+          "url": "https://mlp.eightfold.ai/careers/job/755957778836",
+          "content": ""
+        },
+        {
+          "company": "Millennium",
+          "source": "Eightfold:campusjobs.mlp.com",
+          "title": "2027 Quantitative Researcher Intern, New York",
+          "department": "Trading",
+          "location": "New York, New York, United States of America",
+          "url": "https://mlp.eightfold.ai/careers/job/755957778843",
+          "content": ""
+        },
+        {
+          "company": "Millennium",
+          "source": "Eightfold:campusjobs.mlp.com",
+          "title": "2027 Quantitative Researcher Intern, Miami",
+          "department": "Trading",
+          "location": "Miami, Florida, United States of America",
+          "url": "https://mlp.eightfold.ai/careers/job/755957778853",
+          "content": ""
+        }
+      ]
+    },
+    {
       "company": "PDT Partners",
       "boards": [
         {
@@ -1733,32 +1755,8 @@
     },
     {
       "company": "Stevens Capital Management",
-      "boards": [
-        {
-          "source": "Greenhouse:scm",
-          "count": 29
-        }
-      ],
-      "matches": [
-        {
-          "company": "Stevens Capital Management",
-          "source": "Greenhouse:scm",
-          "title": "Developer Internship",
-          "department": "Software Engineering",
-          "location": "Radnor, PA",
-          "url": "https://job-boards.greenhouse.io/scm/jobs/721888",
-          "content": "SCM is committed to a workplace that values and promotes diversity, inclusion and equal employment opportunity by ensuring that all employees are valued, heard, engaged and involved at work and have full opportunities to collaborate, contribute and grow professionally. We're seeking highly motivated students who possess strong technical skills and the ability to work in a fast-paced collaborative environment. &nbsp; Primary Responsibilities: Develop new software and enhance existing systems. Create tools to process, store and analyze quote, trade and financial data. Work closely with our traders, quantitative research analysts, implementation programmers and other groups to provide software solutions. &nbsp; Requirements: Pursuing an undergraduate or graduate level degree in Computer Science or Mathematics. C++ and/or Java programming knowledge or experience in a Linux environment preferred. Excellent academic record. Strong problem solving skills. Knowledge of shell scripts and other languages including Perl, Bash or CSH is a plus. Knowledge of relational databases including Sybase, SQL Server and Oracle is a plus. &nbsp;"
-        },
-        {
-          "company": "Stevens Capital Management",
-          "source": "Greenhouse:scm",
-          "title": "Quantitative Research Analyst Internship",
-          "department": "Quantitative Research",
-          "location": "Radnor, PA",
-          "url": "https://job-boards.greenhouse.io/scm/jobs/721895",
-          "content": "SCM is committed to a workplace that values and promotes diversity, inclusion and equal employment opportunity by ensuring that all employees are valued, heard, engaged and involved at work and have full opportunities to collaborate, contribute and grow professionally. We're seeking exceptionally motivated students with a strong interest in the financial markets to contribute to our empirical research process.&nbsp; The range of research ideas to investigate is open-ended and will depend on a candidate's background and strengths. Opportunities, including full-time summer internships and part-time work throughout the school year, are available for qualified students at each of the undergraduate, masters and PhD levels. &nbsp; Primary Responsibilities: Read and analyze academic research or other source material pertaining to anomalies in the global financial markets. Build data sets and conduct statistical analysis on the data. &nbsp; Requirements: Substantial progress toward a degree (graduate level preferred) in a quantitative discipline (e.g. statistics, econometrics, mathematics, engineering, physics or computer science) or finance (with extensive coursework in quantitative disciplines).&nbsp; Programming experience, ideally including R, C++ and/or Python. Experience with regression analysis. Strong interest in learning how to build, organize and analyze large data sets. Strong organizational and communication skills. &nbsp;"
-        }
-      ]
+      "boards": [],
+      "matches": []
     },
     {
       "company": "Summit Securities Group",
@@ -1780,18 +1778,191 @@
         {
           "source": "Ashby:sunrise",
           "count": 13
-        },
-        {
-          "source": "Trakstar:sunrisefutures",
-          "count": 5
         }
       ],
       "matches": []
     },
     {
       "company": "Susquehanna International Group",
-      "boards": [],
-      "matches": []
+      "boards": [
+        {
+          "source": "iCIMS:careers-sig",
+          "count": 200
+        }
+      ],
+      "matches": [
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Equity Research Analyst Internship: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/10876/equity-research-analyst-internship%3a-summer-2027/job",
+          "content": "Title Equity Research Analyst Internship: Summer 2027 When breaking news changes the game, what trade do you recommend in the next 10 seconds? We rely on our Equity Research analysts to be on the front lines of market information to translate it into trading ideas. As an Equity Research intern, you will be responsible for finding opportunities that other market participants may not be capitalizing on, either by discovering new information or considering existing knowledge from a different perspective. You will be embedded in our buy-side strategy-focused trading desk monitoring your own basket of stocks ranging across various sectors such as Macro, Index,... Experience Level Interns + Co-ops Job Category Equity Research"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Equity Research Internship: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/11085/equity-research-internship%3a-summer-2027/job",
+          "content": "Title Equity Research Internship: Summer 2027 When breaking news changes the game, what trade do you recommend in the next 10 seconds? We rely on our Equity Research analysts to be on the front lines of market information to translate it into trading ideas. As an Equity Research intern, you will be responsible for finding opportunities that other market participants may not be capitalizing on, either by discovering new information or considering existing knowledge from a different perspective. You will be embedded in our buy-side strategy-focused trading desk monitoring your own basket of stocks ranging across various sectors such as Macro, Index,... Experience Level Interns + Co-ops Job Category Equity Research"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Research Internship - Master's: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/11121/quantitative-research-internship---master%27s%3a-summer-2027/job",
+          "content": "Title Quantitative Research Internship - Master's: Summer 2027 As a Quantitative Research Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. You will have the opportunity to build alphas on an actual trading strategy. Successful intern candidates will participate in a U.S. based internship with full-time placement in our Hong Kong office upon graduation. Visa sponsorship is available for this position. Experience Level Interns + Co-ops Job Category Quantitative Research"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Research Internship – Master's: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/10819/quantitative-research-internship-%e2%80%93-master%27s%3a-summer-2027/job",
+          "content": "Title Quantitative Research Internship &ndash; Master's: Summer 2027 As a Quantitative Research Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. You will have the opportunity to build alphas on an actual trading strategy. What you can expect - Modelling. Apply probability theory, statistical analysis, and machine learning techniques to predict market behavior and generate alphas - Experience Level Interns + Co-ops Job Category Quantitative Research"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Research Internship – Master's: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/10820/quantitative-research-internship-%e2%80%93-master%27s%3a-summer-2027/job",
+          "content": "Title Quantitative Research Internship &ndash; Master's: Summer 2027 As a Quantitative Research Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. You will have the opportunity to build alphas on an actual trading strategy. What you can expect - Modelling. Apply probability theory, statistical analysis, and machine learning techniques to predict market behavior and generate alphas - Execution. Create strategies to execute on modelling ideas under simulated competition - Evaluation.... Experience Level Interns + Co-ops Job Category Quantitative Research"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Research Internship: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/10843/quantitative-research-internship%3a-summer-2027/job",
+          "content": "Title Quantitative Research Internship: Summer 2027 At Susquehanna, quantitative researchers drive innovation from the centre of our trading floor. Leveraging expertise in probability, statistics, numerical analysis, stochastic optimisation, and machine learning, they play a pivotal role in developing and refining our trading strategies. Experience Level Interns + Co-ops Job Category Quantitative Research"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Research Internship: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/11007/quantitative-research-internship%3a-summer-2027/job",
+          "content": "Title Quantitative Research Internship: Summer 2027 At Susquehanna, quantitative researchers drive innovation from the centre of our trading floor. Leveraging expertise in probability, statistics, numerical analysis, stochastic optimisation, and machine learning, they play a pivotal role in developing and refining our trading strategies. We are looking for PhD and research master&rsquo;s students in their penultimate year of study to join our 10-week quantitative research summer internship. Run by a team of dedicated senior traders and quantitative researchers, our education programme is widely recognised as being the... Experience Level Interns + Co-ops Job Category Quantitative Research"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Strategy Developer Internship: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/10838/quantitative-strategy-developer-internship%3a-summer-2027/job",
+          "content": "Title Quantitative Strategy Developer Internship: Summer 2027 Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into financial markets and Susquehanna&rsquo;s approach to trading. You will also work on challenging projects for our trading strategy development teams in spaces such as signal creation and detection, quantitative strategy analysis, and low latency C++ strategy development. Additionally, you&rsquo;ll have the opportunity to work on projects side by... Experience Level Interns + Co-ops Job Category Technology - Software Engineering"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Strategy Developer Internship: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/11170/quantitative-strategy-developer-internship%3a-summer-2027/job",
+          "content": "Title Quantitative Strategy Developer Internship: Summer 2027 Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based at our US Headquarters. This program offers students currently enrolled at universities in Hong Kong or Singapore the opportunity to intern in the US with the intention of long-term placement in our Hong Kong office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into financial markets and... Experience Level Interns + Co-ops Job Category Technology - Software Engineering"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Systematic Trading Internship - Master's: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/11122/quantitative-systematic-trading-internship---master%27s%3a-summer-2027/job",
+          "content": "Title Quantitative Systematic Trading Internship - Master's: Summer 2027 As a Quantitative Systematic Trading Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. You will have the opportunity to build alphas on an actual trading strategy. Successful intern candidates will participate in a U.S. based internship with full-time placement in our Hong Kong office upon graduation. Visa sponsorship is available for this position Experience Level Interns + Co-ops Job Category Quantitative Trading + Strategy"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Systematic Trading Internship – Master's: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/10823/quantitative-systematic-trading-internship-%e2%80%93-master%27s%3a-summer-2027/job",
+          "content": "Title Quantitative Systematic Trading Internship &ndash; Master's: Summer 2027 As a quantitative Systematic Trading Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. You will have the opportunity to build alphas on an actual trading strategy. What you can expect - Modelling. Apply probability theory, statistical analysis, and machine learning techniques to predict market behavior and generate alphas - Execution. Create strategies to execute on modelling ideas under simulated competition - Evaluation. Backtest... Experience Level Interns + Co-ops Job Category Quantitative Trading + Strategy"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Systematic Trading Internship – Master's: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/10824/quantitative-systematic-trading-internship-%e2%80%93-master%27s%3a-summer-2027/job",
+          "content": "Title Quantitative Systematic Trading Internship &ndash; Master's: Summer 2027 As a Quantitative Systematic Trading Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. You will have the opportunity to build alphas on an actual trading strategy. What you can expect - Modelling. Apply probability theory, statistical analysis, and machine learning techniques to predict market behavior and generate alphas - Execution. Create strategies to execute on modelling ideas under simulated competition - Evaluation.... Experience Level Interns + Co-ops Job Category Quantitative Trading + Strategy"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Systematic Trading Internship: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/10841/quantitative-systematic-trading-internship%3a-summer-2027/job",
+          "content": "Title Quantitative Systematic Trading Internship: Summer 2027 Quantitative systematic traders represent a true hybrid of our core disciplines: trading, technology, and quantitative research. Drawing on their technical proficiency, research experience, and understanding of trading, quantitative systematic traders&rsquo; work involves Experience Level Interns + Co-ops Job Category Quantitative Trading + Strategy"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Systematic Trading Internship: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/11006/quantitative-systematic-trading-internship%3a-summer-2027/job",
+          "content": "Title Quantitative Systematic Trading Internship: Summer 2027 Quantitative systematic traders represent a true hybrid of our core disciplines: trading, technology, and quantitative research. Drawing on their technical proficiency, research experience, and understanding of trading, quantitative systematic traders&rsquo; work involves identifying trading signals, developing strategies, and collaborating extensively with members of the trading, quantitative research, and technology teams. Our quantitative systematic trading summer internship runs for 10 weeks. Managed by a team of dedicated senior traders and quantitative researchers,... Experience Level Interns + Co-ops Job Category Quantitative Trading + Strategy"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Trader Internship: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/10717/quantitative-trader-internship%3a-summer-2027/job",
+          "content": "Title Quantitative Trader Internship: Summer 2027 Susquehanna&rsquo;s trading internship provides a distinctive opportunity to learn about quantitative trading. Splitting their day between working on a trading desk and education in a classroom setting, interns receive the best preparation possible for careers in quant trading. During their time on the trading floor, interns will be fully embedded within a trading desk, working side by side with an experienced trader who will serve as a mentor. While in education, interns will receive industry-leading training in options theory and decision science from traders fully dedicated to trader development. Students with a STEM background can leverage their quantitative skills and learn how... Experience Level Interns + Co-ops Job Category Quantitative Trading + Strategy"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Trader Internship: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/10718/quantitative-trader-internship%3a-summer-2027/job",
+          "content": "Title Quantitative Trader Internship: Summer 2027 Susquehanna&rsquo;s trading internship provides a distinctive opportunity to learn about quantitative trading. Splitting their day between working on a trading desk and education in a classroom setting, interns receive the best preparation possible for careers in quant trading. During their time on the trading floor, interns will be fully embedded within a trading desk, working side by side with an experienced trader who will serve as a mentor. While in education, interns will receive industry-leading training in options theory and decision science from traders fully dedicated to trader development. Students with a STEM background can leverage their quantitative skills and learn how... Experience Level Interns + Co-ops Job Category Quantitative Trading + Strategy"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Trader Internship: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/10849/quantitative-trader-internship%3a-summer-2027/job",
+          "content": "Title Quantitative Trader Internship: Summer 2027 Susquehanna&rsquo;s trading internship provides a distinctive opportunity to learn about quantitative trading. Splitting their day between working on a trading desk and education in a classroom setting, interns receive the best preparation possible for careers in quant trading. During their time on the trading floor, interns will be fully embedded within a trading desk, working side by side with an experienced trader who will serve as a mentor. While in education, interns will receive industry-leading training in options theory and decision science from traders fully dedicated to trader development. Students with a STEM background can leverage their quantitative skills and learn how... Experience Level Interns + Co-ops Job Category Quantitative Trading + Strategy"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Trading Internship: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/10839/quantitative-trading-internship%3a-summer-2027/job",
+          "content": "Title Quantitative Trading Internship: Summer 2027 Susquehanna&rsquo;s 10-week quantitative trading internship offers a rare insight into working at one of the world&rsquo;s leading quantitative trading firms. Designed for intellectually curious and driven individuals with strong quantitative skillsets, our internship combines rigorous classroom-based education with real-world trading experience. Experience Level Interns + Co-ops Job Category Quantitative Trading + Strategy"
+        },
+        {
+          "company": "Susquehanna International Group",
+          "source": "iCIMS:careers-sig",
+          "title": "Quantitative Trading Internship: Summer 2027",
+          "department": "",
+          "location": "",
+          "url": "https://careers-sig.icims.com/jobs/11005/quantitative-trading-internship%3a-summer-2027/job",
+          "content": "Title Quantitative Trading Internship: Summer 2027 Susquehanna&rsquo;s 10-week quantitative trading internship offers a rare insight into working at one of the world&rsquo;s leading quantitative trading firms. Designed for intellectually curious and driven individuals with strong quantitative skillsets, our internship combines rigorous classroom-based education with real-world trading experience. Run by a team of dedicated senior traders, our education programme is widely recognised as being the best in the industry. Our classroom-based education covers topics such as ETF and options trading, game theory, and programming. Don&rsquo;t worry if you... Experience Level Interns + Co-ops Job Category Quantitative Trading + Strategy"
+        }
+      ]
     },
     {
       "company": "Systematica Investments",
@@ -2411,6 +2582,36 @@
       "matches": []
     },
     {
+      "company": "ExodusPoint Capital Management",
+      "boards": [
+        {
+          "source": "Greenhouse:exoduspoint",
+          "count": 2
+        }
+      ],
+      "matches": []
+    },
+    {
+      "company": "Quadrature Capital",
+      "boards": [
+        {
+          "source": "Greenhouse:quadraturecapital",
+          "count": 4
+        }
+      ],
+      "matches": [
+        {
+          "company": "Quadrature Capital",
+          "source": "Greenhouse:quadraturecapital",
+          "title": "Internships",
+          "department": "Internships",
+          "location": "London, New York",
+          "url": "https://job-boards.greenhouse.io/quadraturecapital/jobs/4255974",
+          "content": "We offer students from a variety of different backgrounds the chance to apply their skills and curiosity to real-world, interesting problems We believe that the learning and insights you gather through education set the tone for your early career and help you figure out what you want to do. We offer London and New York based, competitively paid summer internships to University students from across the globe.&nbsp; Internships We offer 11-week internships to undergraduate and postgrad students each summer. Our interns are introduced to the way we work and mentored closely during their time with us, delivering work that has real-world results. We proactively look for people that might not have considered a career in quantitative finance, so if you don’t have experience with markets or our industry don’t worry! Please note that programming experience is a must if you are applying to our Quant Developer internship. This is a paid internship and we provide accommodation in fully serviced apartments. PLEASE NOTE : Our internship application process runs from August until December. If you send us your details outside of this time, your profile will be saved on our system, but we won't be actively monitoring applications.&nbsp;"
+        }
+      ]
+    },
+    {
       "company": "Da Vinci Derivatives",
       "boards": [
         {
@@ -2448,6 +2649,36 @@
           "count": 5
         }
       ],
+      "matches": []
+    },
+    {
+      "company": "Webb Traders",
+      "boards": [],
+      "matches": []
+    },
+    {
+      "company": "All Options",
+      "boards": [],
+      "matches": []
+    },
+    {
+      "company": "OSTC",
+      "boards": [],
+      "matches": []
+    },
+    {
+      "company": "GSR",
+      "boards": [],
+      "matches": []
+    },
+    {
+      "company": "Portofino Technologies",
+      "boards": [],
+      "matches": []
+    },
+    {
+      "company": "Cantab Capital Partners",
+      "boards": [],
       "matches": []
     }
   ]

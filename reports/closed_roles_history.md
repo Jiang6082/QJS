@@ -1,11 +1,24 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 18
-Last updated: 2026-07-31T13:20:58.559Z
+Total closures recorded: 28
+Last updated: 2026-08-04T00:01:47.770Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-08-04 (10)
+
+- **AlphaGrep** - [Quantitative Trading Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622004002) - India
+- **AlphaGrep** - [Software Development Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622142002) - India
+- **IMC Trading** - [2027 - Software Engineering Intern - BITS Pilani](https://job-boards.eu.greenhouse.io/imc/jobs/4917549101) - Mumbai, India
+- **Walleye Capital** - [Central Equity Quant Research (CEQR) Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006) - New York, New York
+- **Walleye Capital** - [Investment Data Science Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006) - New York, New York
+- **Walleye Capital** - [Quantic - Quantitative Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006) - Boston, MA
+- **Walleye Capital** - [Quantic – Quantitative Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) - Boston, MA
+- **Walleye Capital** - [Risk Technology Analyst Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006) - New York, New York
+- **Walleye Capital** - [Technology Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006) - New York, New York
+- **Walleye Capital** - [Volatility Trading Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006) - New York, New York
 
 ### 2026-07-31 (6)
 

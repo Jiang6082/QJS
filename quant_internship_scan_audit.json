@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-04T00:01:38.761Z",
+  "scannedAt": "2026-08-03T20:45:22.605Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -100,6 +100,7 @@
     "Paloma Partners",
     "PanAgora",
     "Parallax Volatility Advisers",
+    "Millennium",
     "PDT Partners",
     "Peak6",
     "PGIM Quant Solutions",
@@ -172,9 +173,17 @@
     "Trillium",
     "DL Trading",
     "BlueCrest Capital Management",
+    "ExodusPoint Capital Management",
+    "Quadrature Capital",
     "Da Vinci Derivatives",
     "B2C2",
-    "Keyrock"
+    "Keyrock",
+    "Webb Traders",
+    "All Options",
+    "OSTC",
+    "GSR",
+    "Portofino Technologies",
+    "Cantab Capital Partners"
   ],
   "companyAudits": [
     {
@@ -227,16 +236,12 @@
       "company": "HRT",
       "resolvedBoards": [
         {
-          "source": "Greenhouse:wehrtyou",
-          "count": 72
-        },
-        {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 72,
-      "relevantInternships": 2
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Five Rings",
@@ -478,9 +483,14 @@
     },
     {
       "company": "Capula",
-      "resolvedBoards": [],
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "resolvedBoards": [
+        {
+          "source": "Workable:capula-investment-management-ltd",
+          "count": 8
+        }
+      ],
+      "jobsSeen": 8,
+      "relevantInternships": 1
     },
     {
       "company": "Caxton Associates",
@@ -743,6 +753,10 @@
         {
           "source": "Greenhouse:gravitonresearchcapital",
           "count": 20
+        },
+        {
+          "source": "Workable:gravitonresearch",
+          "count": 0
         }
       ],
       "jobsSeen": 20,
@@ -798,16 +812,12 @@
       "company": "Hudson River Trading",
       "resolvedBoards": [
         {
-          "source": "Greenhouse:wehrtyou",
-          "count": 72
-        },
-        {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 72,
-      "relevantInternships": 2
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "IMC Financial Markets",
@@ -1031,6 +1041,17 @@
       "relevantInternships": 0
     },
     {
+      "company": "Millennium",
+      "resolvedBoards": [
+        {
+          "source": "Eightfold:campusjobs.mlp.com",
+          "count": 10
+        }
+      ],
+      "jobsSeen": 10,
+      "relevantInternships": 4
+    },
+    {
       "company": "PDT Partners",
       "resolvedBoards": [
         {
@@ -1213,14 +1234,9 @@
     },
     {
       "company": "Stevens Capital Management",
-      "resolvedBoards": [
-        {
-          "source": "Greenhouse:scm",
-          "count": 29
-        }
-      ],
-      "jobsSeen": 29,
-      "relevantInternships": 2
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Summit Securities Group",
@@ -1244,20 +1260,21 @@
         {
           "source": "Ashby:sunrise",
           "count": 13
-        },
-        {
-          "source": "Trakstar:sunrisefutures",
-          "count": 5
         }
       ],
-      "jobsSeen": 37,
+      "jobsSeen": 32,
       "relevantInternships": 0
     },
     {
       "company": "Susquehanna International Group",
-      "resolvedBoards": [],
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "resolvedBoards": [
+        {
+          "source": "iCIMS:careers-sig",
+          "count": 200
+        }
+      ],
+      "jobsSeen": 200,
+      "relevantInternships": 19
     },
     {
       "company": "Systematica Investments",
@@ -1604,6 +1621,28 @@
       "relevantInternships": 0
     },
     {
+      "company": "ExodusPoint Capital Management",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:exoduspoint",
+          "count": 2
+        }
+      ],
+      "jobsSeen": 2,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Quadrature Capital",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:quadraturecapital",
+          "count": 4
+        }
+      ],
+      "jobsSeen": 4,
+      "relevantInternships": 1
+    },
+    {
       "company": "Da Vinci Derivatives",
       "resolvedBoards": [
         {
@@ -1634,6 +1673,42 @@
         }
       ],
       "jobsSeen": 5,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Webb Traders",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "All Options",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "OSTC",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "GSR",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Portofino Technologies",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Cantab Capital Partners",
+      "resolvedBoards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     }
   ]

@@ -1,5 +1,115 @@
 [
   {
+    "Company": "AlphaGrep",
+    "Title": "Quantitative Trading Intern",
+    "Location": "India",
+    "Region": "Asia",
+    "URL": "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622004002",
+    "Source": "Career page Greenhouse:alphagrepsecurities",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+  },
+  {
+    "Company": "AlphaGrep",
+    "Title": "Software Development Intern",
+    "Location": "India",
+    "Region": "Asia",
+    "URL": "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622142002",
+    "Source": "Career page Greenhouse:alphagrepsecurities",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+  },
+  {
+    "Company": "IMC Trading",
+    "Title": "2027 - Software Engineering Intern - BITS Pilani",
+    "Location": "Mumbai, India",
+    "Region": "Asia",
+    "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4917549101",
+    "Source": "Career page Greenhouse:imc",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+  },
+  {
+    "Company": "Walleye Capital",
+    "Title": "Central Equity Quant Research (CEQR) Intern (Summer 2027)",
+    "Location": "New York, New York",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006",
+    "Source": "Career page Greenhouse:walleyecapital-external-students",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+  },
+  {
+    "Company": "Walleye Capital",
+    "Title": "Investment Data Science Intern (Summer 2027)",
+    "Location": "New York, New York",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
+    "Source": "Career page Greenhouse:walleyecapital-external-students",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+  },
+  {
+    "Company": "Walleye Capital",
+    "Title": "Quantic - Quantitative Researcher Intern (Summer 2027)",
+    "Location": "Boston, MA",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006",
+    "Source": "Career page Greenhouse:walleyecapital-external-students",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+  },
+  {
+    "Company": "Walleye Capital",
+    "Title": "Quantic – Quantitative Developer Intern (Summer 2027)",
+    "Location": "Boston, MA",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+    "Source": "Career page Greenhouse:walleyecapital-external-students",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+  },
+  {
+    "Company": "Walleye Capital",
+    "Title": "Risk Technology Analyst Intern (Summer 2027)",
+    "Location": "New York, New York",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006",
+    "Source": "Career page Greenhouse:walleyecapital-external-students",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+  },
+  {
+    "Company": "Walleye Capital",
+    "Title": "Technology Intern (Summer 2027)",
+    "Location": "New York, New York",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006",
+    "Source": "Career page Greenhouse:walleyecapital-external-students",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+  },
+  {
+    "Company": "Walleye Capital",
+    "Title": "Volatility Trading Developer Intern (Summer 2027)",
+    "Location": "New York, New York",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006",
+    "Source": "Career page Greenhouse:walleyecapital-external-students",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+  },
+  {
     "Company": "Deutsche Bank",
     "Title": "DWS Investment Risk Intern",
     "Location": "Luxembourg 2 Blvd K. Adenauer",
