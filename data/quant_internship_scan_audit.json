@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-04T23:37:53.544Z",
+  "scannedAt": "2026-08-05T00:18:28.656Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -1239,7 +1239,7 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:sunrise",
-          "count": 18
+          "count": 17
         },
         {
           "source": "Ashby:sunrise",
@@ -1250,7 +1250,7 @@
           "count": 5
         }
       ],
-      "jobsSeen": 36,
+      "jobsSeen": 35,
       "relevantInternships": 0
     },
     {
@@ -1375,9 +1375,14 @@
     },
     {
       "company": "Virtu Financial",
-      "resolvedBoards": [],
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:virtu",
+          "count": 48
+        }
+      ],
+      "jobsSeen": 48,
+      "relevantInternships": 12
     },
     {
       "company": "Volant Trading",

@@ -1,6 +1,6 @@
 # Quant Internship Open Roles Scan v2
 
-Scanned: 2026-08-04T23:38:20.713Z
+Scanned: 2026-08-05T00:18:37.459Z
 Companies searched: 367
 Rows/leads retained: 284
 

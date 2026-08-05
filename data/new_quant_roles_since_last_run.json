@@ -1,44 +1,9 @@
 {
-  "generatedAt": "2026-08-04T23:42:24.053Z",
-  "previousScanAt": "2026-08-04T15:09:23.315Z",
-  "currentScanAt": "2026-08-04T23:38:20.713Z",
-  "previousRows": 283,
+  "generatedAt": "2026-08-05T00:22:30.661Z",
+  "previousScanAt": "2026-08-04T23:38:20.713Z",
+  "currentScanAt": "2026-08-05T00:18:37.459Z",
+  "previousRows": 284,
   "currentRows": 284,
-  "added": [
-    {
-      "Company": "DV Trading",
-      "Title": "Quantitative Risk Intern - Summer 2027",
-      "Department": "Campus ",
-      "Location": "Chicago",
-      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005",
-      "Source": "Career page Greenhouse:dvtrading",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719118005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded 20 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America, Europe and Asia. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. Responsibilities: Build and execute advanced quantitative risk monitori...",
-      "Region": "North America"
-    },
-    {
-      "Company": "Walleye Capital",
-      "Title": "Quantic – Quantitative Developer Intern (Summer 2027)",
-      "Department": "Quantic",
-      "Location": "Boston, MA",
-      "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "Source": "Career page Greenhouse:walleyecapital-external-students",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://job-boards.greenhouse.io/walleyecapital-external-students | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4679168006 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Position : Quantic – Quantitative Developer Intern (Summer 2027) Location : Boston, MA Please apply to only one opportunity between the Quantitative Developer, Quantitative Researcher and PhD Quantitative Researcher positions with Quantic. If the team finds you could be a potential fit for the other, we will contact you. Firm Overview: Walleye Capital is a ~$16 billion+ multi-strategy investment firm headquartered in New York City, with over 350 employees across five main offices. Founded in 2005 as an options market maker, we have organically grown into a global investment firm specializing in Quant, Fundamental Equities, and Volatility strategies. Our Team Ov...",
-      "Region": "North America"
-    }
-  ],
-  "removed": [
-    {
-      "Company": "Barclays",
-      "Title": "2027 Technology Developer Summer Internship Programme India",
-      "Department": "",
-      "Location": "",
-      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913",
-      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000124913",
-      "Region": "Remote / Unspecified"
-    }
-  ]
+  "added": [],
+  "removed": []
 }

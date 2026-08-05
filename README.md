@@ -2,7 +2,7 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-08-04 &nbsp;•&nbsp; **284 open roles** &nbsp;•&nbsp; **2 new today** &nbsp;•&nbsp; **28 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-08-05 &nbsp;•&nbsp; **284 open roles** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **28 closed** ([history](reports/closed_roles_history.md))
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -10,14 +10,9 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-08-04_
+_Scan date: 2026-08-05_
 
-**2** new stable job postings since the previous scan:
-
-**North America**
-
-- **DV Trading** — [Quantitative Risk Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) — Chicago
-- **Walleye Capital** — [Quantic – Quantitative Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) — Boston, MA
+_No new roles detected in the latest scan._
 
 ---
 
@@ -389,14 +384,14 @@ git pull
 npm run scan:v2:publish
 ```
 
-The publish step rebuilds `LATEST_QUANT_SCAN.md`, commits changed scanner files and reports, and pushes to `origin`. To publish already-generated local changes without scanning, run `npm run publish`.
+Every `v2`/`all` run rebuilds [reports/LATEST_QUANT_SCAN.md](reports/LATEST_QUANT_SCAN.md) and this README. The publish step then commits the changed scanner files and reports and pushes to `origin`. To publish already-generated local changes without scanning, run `npm run publish`.
 
 ## Repo Layout
 
-- **Root** — just `README.md`, the [LATEST_QUANT_SCAN.md](LATEST_QUANT_SCAN.md) dashboard, `package.json`, and `.gitignore`.
+- **Root** — only `README.md`, `package.json`, and `.gitignore`.
 - **[scripts/](scripts/)** — all scanner code (`*.mjs` and `run-quant-scan.ps1`).
 - **[inputs/](inputs/)** — hand-maintained source data (career-page database, firm roster, trackers).
-- **[reports/](reports/)** — human-readable generated reports (Markdown + CSV).
+- **[reports/](reports/)** — human-readable generated reports incl. the [LATEST_QUANT_SCAN.md](reports/LATEST_QUANT_SCAN.md) dashboard.
 - **[data/](data/)** — machine-readable raw/audit JSON artifacts.
 - **[tools/](tools/)** — shared helper modules and optional discovery scripts.
 
@@ -404,7 +399,7 @@ The publish step rebuilds `LATEST_QUANT_SCAN.md`, commits changed scanner files 
 
 | File | What it is |
 |------|-----------|
-| [LATEST_QUANT_SCAN.md](LATEST_QUANT_SCAN.md) | Latest scan summary + newest roles |
+| [reports/LATEST_QUANT_SCAN.md](reports/LATEST_QUANT_SCAN.md) | Latest scan summary + newest roles |
 | [reports/new_quant_roles_since_last_run.md](reports/new_quant_roles_since_last_run.md) | New stable job URLs, grouped by region |
 | [reports/quant_internship_roles_scan_v2.md](reports/quant_internship_roles_scan_v2.md) | Full current role list (detailed) |
 | [reports/quant_internship_roles_scan_v2.csv](reports/quant_internship_roles_scan_v2.csv) | Full current role list (spreadsheet) |

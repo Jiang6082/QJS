@@ -12,7 +12,8 @@
     "scan:all": "node ./scripts/run-quant-scan.mjs --mode=all",
     "scan:all:publish": "node ./scripts/run-quant-scan.mjs --mode=all --publish",
     "publish": "node ./scripts/publish_scan_results.mjs",
-    "report:new": "node ./scripts/report-new-roles.mjs"
+    "report:new": "node ./scripts/report-new-roles.mjs",
+    "readme": "node ./scripts/build-readme.mjs"
   },
   "engines": {
     "node": ">=18"

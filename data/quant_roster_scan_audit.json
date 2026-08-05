@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T23:42:23.947Z",
-  "scanStartedAt": "2026-08-04T23:38:20.713Z",
+  "generatedAt": "2026-08-05T00:22:30.558Z",
+  "scanStartedAt": "2026-08-05T00:18:37.459Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
@@ -644,7 +644,7 @@
       "careerPages": [
         "https://birkoa.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1137,7 +1137,7 @@
         "https://fiveringsfinancial.com/join-our-team/",
         "https://fiverings.com/careers/"
       ],
-      "livePages": 3,
+      "livePages": 4,
       "attemptedPages": 4,
       "jobsSeen": 18,
       "relevantInternships": 1
@@ -2148,7 +2148,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 3,
       "relevantInternships": 0
