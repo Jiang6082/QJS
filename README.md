@@ -2,7 +2,7 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-08-05 &nbsp;•&nbsp; **284 open roles** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **28 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-08-05 &nbsp;•&nbsp; **285 open roles** &nbsp;•&nbsp; **1 new today** &nbsp;•&nbsp; **28 closed** ([history](reports/closed_roles_history.md))
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -12,15 +12,19 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 _Scan date: 2026-08-05_
 
-_No new roles detected in the latest scan._
+**1** new stable job posting since the previous scan:
+
+**Remote / Unspecified**
+
+- **Barclays** — [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913)
 
 ---
 
 ## 📋 All Roles Available
 
-**284** open internship roles, grouped by region. Click a title to open the official posting.
+**285** open internship roles, grouped by region. Click a title to open the official posting.
 
-**Regions:** [North America (145)](#north-america) · [Europe (60)](#europe) · [Asia (63)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (8)](#global--multiple-regions) · [Remote / Unspecified (3)](#remote--unspecified)
+**Regions:** [North America (145)](#north-america) · [Europe (60)](#europe) · [Asia (63)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (8)](#global--multiple-regions) · [Remote / Unspecified (4)](#remote--unspecified)
 
 ### North America
 
@@ -354,8 +358,9 @@ _No new roles detected in the latest scan._
 ### Remote / Unspecified
 
 <details>
-<summary><strong>3 roles</strong> — click to expand</summary>
+<summary><strong>4 roles</strong> — click to expand</summary>
 
+- **Barclays** — [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913)
 - **J.P. Morgan** — [Asset Management Summer Analyst Program](https://careers.jpmorgan.com/US/en/students/programs/asset-management-summer-analyst) — Varies by open location
 - **J.P. Morgan** — [Markets Summer Analyst Program](https://careers.jpmorgan.com/us/en/students/programs/markets-summer-analyst) — Varies by open location
 - **Tower Research Capital** — [Junior Execution Trader Intern](https://www.tower-research.com/open-positions/?gh_jid=8091833) — Gift City

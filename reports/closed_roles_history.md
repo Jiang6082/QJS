@@ -1,7 +1,7 @@
 # Closed / Removed Roles History
 
 Total closures recorded: 28
-Last updated: 2026-08-05T00:18:37.459Z
+Last updated: 2026-08-05T13:26:02.975Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 

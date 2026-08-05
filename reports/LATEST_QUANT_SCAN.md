@@ -1,18 +1,18 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-08-05T00:18:37.459Z
+Last updated: 2026-08-05T13:26:02.975Z
 
 ## Summary
 
 - Companies searched: 367
 - Career pages checked: 493
-- Current retained roles: 284
-- New stable job URLs since previous scan: 0
+- Current retained roles: 285
+- New stable job URLs since previous scan: 1
 - No longer present since previous scan: 0
 - Matching-role firms: 38
 - Confirmed no open postings: 3
-- Openings but no matching role: 48
-- Could not fully verify: 213
+- Openings but no matching role: 47
+- Could not fully verify: 214
 
 ## New Roles Since Previous Scan
 
@@ -48,9 +48,9 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **Barclays** - [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913) - Location not listed
 
 ## No Longer Present
 

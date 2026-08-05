@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-05T00:22:30.558Z",
-  "scanStartedAt": "2026-08-05T00:18:37.459Z",
+  "generatedAt": "2026-08-05T13:29:50.149Z",
+  "scanStartedAt": "2026-08-05T13:26:02.975Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
     "matching-role-found": 38,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 48,
-    "could-not-fully-verify": 213
+    "confirmed-openings-no-matching-role": 47,
+    "could-not-fully-verify": 214
   },
   "companies": [
     {
@@ -74,7 +74,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantInternships": 1
     },
     {
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 49,
+      "jobsSeen": 48,
       "relevantInternships": 7
     },
     {
@@ -427,7 +427,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -644,7 +644,7 @@
       "careerPages": [
         "https://birkoa.com/careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -761,7 +761,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 179,
+      "jobsSeen": 178,
       "relevantInternships": 17
     },
     {
@@ -996,7 +996,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 232,
+      "jobsSeen": 233,
       "relevantInternships": 8
     },
     {
@@ -1386,7 +1386,7 @@
       "careerPages": [
         "https://www.enigmaquant.com/#careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1952,13 +1952,13 @@
       "sourceRosterNames": [
         "Epoch Capital"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://job-boards.greenhouse.io/epochcapital"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -2100,7 +2100,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 158,
+      "jobsSeen": 159,
       "relevantInternships": 11
     },
     {
@@ -2148,7 +2148,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 3,
       "relevantInternships": 0
@@ -2842,7 +2842,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/midpointmarkets/jobs/4408679008"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 3,
       "relevantInternships": 0
@@ -3867,7 +3867,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 75,
+      "jobsSeen": 74,
       "relevantInternships": 4
     },
     {
