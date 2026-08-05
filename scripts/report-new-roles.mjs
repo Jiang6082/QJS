@@ -24,9 +24,11 @@ const rows = [];
 for (const f of files) {
   try {
     const j = JSON.parse(fs.readFileSync(f, "utf8"));
+    const scanAt = j.searchedAt || j.scannedAt || null;
     (j.rows || j.matches || []).forEach((r) => rows.push({
       Company: r.Company || r.company, Title: r.Title || r.title,
       Location: r.Location || r.location, URL: (r.URL || r.url || "").trim(), Source: r.Source || r.source || "",
+      Notes: r.Notes || r.notes || "", scanAt,
     }));
   } catch { /* output missing — skip */ }
 }
@@ -50,6 +52,27 @@ for (const tok of gh) { const j = await jget(`https://boards-api.greenhouse.io/v
 for (const host of ef) { const j = await jget(`https://${host}/api/apply/v2/jobs?domain=${host.includes("mlp") ? "mlp.com" : host.split(".").slice(-2).join(".")}&start=0&num=100&sort_by=relevance`); for (const p of (j?.positions || [])) { const d = p.t_create ? new Date(p.t_create * 1000).toISOString() : null; if (p.canonicalPositionUrl) dateByUrl.set(p.canonicalPositionUrl, d); if (p.id) dateById.set(String(p.id), d); } }
 for (const acc of wk) { const j = await jget(`https://apply.workable.com/api/v3/accounts/${acc}/jobs`, { method: "POST", headers: { "content-type": "application/json" }, body: "{}" }); for (const job of (j?.results || [])) { if (job.published) dateByUrl.set(`https://apply.workable.com/${acc}/j/${job.shortcode}/`, job.published); } }
 for (const tok of ash) { const j = await jget(`https://api.ashbyhq.com/posting-api/job-board/${tok}`); for (const job of (j?.jobs || [])) { const d = job.publishedAt || job.updatedAt; if (job.jobUrl) dateByUrl.set(job.jobUrl, d); } }
+
+// Workday boards expose only a relative "Posted Today / N Days Ago" string, which
+// the scan captures in Notes. Re-anchor it to that file's scan time to get an
+// absolute date (day granularity; "30+ Days Ago" is a floor, always pre-window).
+function workdayDate(notes, scanAtIso) {
+  if (!notes || !scanAtIso) return null;
+  const m = notes.match(/Posted\s+(Today|Yesterday|(\d+)\+?\s+Days?\s+Ago)/i);
+  if (!m) return null;
+  const base = new Date(scanAtIso);
+  if (Number.isNaN(base.getTime())) return null;
+  const daysAgo = /Today/i.test(m[1]) ? 0 : /Yesterday/i.test(m[1]) ? 1 : Number(m[2]);
+  base.setUTCDate(base.getUTCDate() - daysAgo);
+  return base.toISOString();
+}
+for (const r of uniq) {
+  if (dateByUrl.has(r.URL)) continue;
+  if (/myworkdayjobs|Workday/i.test(`${r.URL} ${r.Source}`)) {
+    const d = workdayDate(r.Notes, r.scanAt);
+    if (d) dateByUrl.set(r.URL, d);
+  }
+}
 
 const released = [];
 for (const r of uniq) {
