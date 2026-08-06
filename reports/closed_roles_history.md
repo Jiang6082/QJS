@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 28
-Last updated: 2026-08-06T02:41:12.076Z
+Total closures recorded: 29
+Last updated: 2026-08-06T15:41:47.671Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-08-06 (1)
+
+- **Old Mission Capital** - [Compliance and Risk Co-Op](https://www.oldmissioncapital.com/careers/?gh_jid=7828063003) - Chicago, IL, United States
 
 ### 2026-08-04 (10)
 

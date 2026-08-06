@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-08-06T02:41:12.076Z",
+  "searchedAt": "2026-08-06T15:41:47.671Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -370,7 +370,7 @@
     "Xantium"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-08-06T02:41:12.078Z",
+    "generatedAt": "2026-08-06T15:41:47.674Z",
     "companies": {
       "Jane Street": {
         "careerPages": [
@@ -380,7 +380,7 @@
           "https://www.janestreet.com/join-jane-street/apply/8092062002/",
           "https://job-boards.greenhouse.io/janestreet/jobs/7967227002"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -388,7 +388,7 @@
         "careerPages": [
           "https://www.citadel.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Citadel Securities": {
         "careerPages": [
@@ -397,7 +397,7 @@
           "https://www.citadelsecurities.com/careers/open-opportunities/",
           "https://www.citadelsecurities.com/careers/students/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -405,7 +405,7 @@
         "careerPages": [
           "https://drw.com/work-at-drw/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -413,13 +413,13 @@
         "careerPages": [
           "https://careers.point72.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Cubist": {
         "careerPages": [
           "https://careers.point72.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -428,7 +428,7 @@
           "https://www.hudsonrivertrading.com/careers/",
           "https://www.hudsonrivertrading.com/careers/job/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -439,7 +439,7 @@
           "https://fiveringsfinancial.com/join-our-team/",
           "https://fiverings.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -448,14 +448,14 @@
           "https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet",
           "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "3Red Partners": {
         "careerPages": [
           "https://www.3redpartners.com/careers/",
           "https://job-boards.greenhouse.io/3redpartners"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -463,14 +463,14 @@
         "careerPages": [
           "https://www.aprioriinvestments.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Akuna Capital": {
         "careerPages": [
           "https://akunacapital.com/careers/",
           "https://job-boards.greenhouse.io/optionstrading201course/jobs/7394582"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -479,7 +479,7 @@
           "https://www.alpha-grep.com/career/",
           "https://job-boards.greenhouse.io/alphagrepsecurities"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -489,17 +489,17 @@
           "https://www.alphasimplex.com/contact-us",
           "https://virtus.wd5.myworkdayjobs.com/VirtusCareers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Alyeska Investment Group": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Aquatic Capital": {
         "careerPages": [
           "https://job-boards.greenhouse.io/aquaticcapitalmanagement"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -507,7 +507,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/axq"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -515,7 +515,7 @@
         "careerPages": [
           "https://www.bamfunds.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -523,7 +523,7 @@
         "careerPages": [
           "https://www.belvederetrading.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -531,7 +531,7 @@
         "careerPages": [
           "https://www.bluefintrading.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Brevan Howard": {
         "careerPages": [
@@ -541,7 +541,7 @@
           "https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/jobs",
           "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -549,7 +549,7 @@
         "careerPages": [
           "https://www.bridgewater.com/working-at-bridgewater"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -557,7 +557,7 @@
         "careerPages": [
           "https://www.cfm.com/join-us/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -567,7 +567,7 @@
           "https://www.capstone.jobs/",
           "https://capstonedc.wd501.myworkdayjobs.com/Capstone"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -575,24 +575,24 @@
         "careerPages": [
           "https://www.capulaglobal.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Caxton Associates": {
         "careerPages": [
           "https://www.caxton.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Centiva Capital": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Chicago Trading Company": {
         "careerPages": [
           "https://www.chicagotrading.com/careers/",
           "https://job-boards.greenhouse.io/ctccampusboard"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -602,7 +602,7 @@
           "https://www.deshaw.com/careers",
           "https://www.deshawindia.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -610,7 +610,7 @@
         "careerPages": [
           "https://dvtrading.co/join-dv/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -618,7 +618,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/engineersgate"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -626,13 +626,13 @@
         "careerPages": [
           "https://www.ergoteles.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "ExodusPoint": {
         "careerPages": [
           "https://job-boards.greenhouse.io/exoduspoint"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -640,7 +640,7 @@
         "careerPages": [
           "https://www.flowtraders.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -648,7 +648,7 @@
         "careerPages": [
           "https://www.gresearch.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -657,14 +657,14 @@
           "https://www.gardacp.com/careers/",
           "https://jobs.garda.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Gelber Group": {
         "careerPages": [
           "https://www.gelbergroup.com/careers/",
           "https://job-boards.greenhouse.io/gelbergroup"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -673,7 +673,7 @@
           "https://www.genevatrading.com/careers/",
           "https://job-boards.greenhouse.io/genevatrading"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -682,20 +682,20 @@
           "https://www.geodecapital.com/careers/",
           "https://www.geodecapital.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Graham Capital Management": {
         "careerPages": [
           "https://www.grahamcapital.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Graviton Research Capital": {
         "careerPages": [
           "https://www.gravitontrading.com/careers.html",
           "https://apply.workable.com/gravitonresearch/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -703,7 +703,7 @@
         "careerPages": [
           "https://www.group1.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -713,7 +713,7 @@
           "https://job-boards.greenhouse.io/gsacapital",
           "https://www.gsacapital.com/join-us"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -721,7 +721,7 @@
         "careerPages": [
           "https://www.headlandstech.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -731,7 +731,7 @@
           "https://www.imc.com/us/careers/",
           "https://www.imc.com/ap/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -739,7 +739,7 @@
         "careerPages": [
           "https://www.jumptrading.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -747,13 +747,13 @@
         "careerPages": [
           "https://www.keposcapital.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Laurion Capital Management": {
         "careerPages": [
           "https://www.laurioncap.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Man Group": {
         "careerPages": [
@@ -761,7 +761,7 @@
           "https://job-boards.eu.greenhouse.io/mangroup",
           "https://www.man.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -771,7 +771,7 @@
           "https://www.mwam.com/join-us/",
           "https://us.mwam.com/join-us/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -783,7 +783,7 @@
           "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381",
           "https://job-boards.greenhouse.io/mavensecuritiesholdingltd"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -792,7 +792,7 @@
           "https://mlp.wd5.myworkdayjobs.com/mlpcareers",
           "https://www.mlp.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -801,7 +801,7 @@
           "https://www.oldmissioncapital.com/careers/",
           "https://job-boards.greenhouse.io/oldmissioncapital"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -820,7 +820,7 @@
           "https://optiver.com/join-us/jobs/human-resources-and-recruiting/austin/",
           "https://optiver.com/join-us/jobs/human-resources-and-recruiting/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -828,7 +828,7 @@
         "careerPages": [
           "https://www.panagora.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "PDT Partners": {
         "careerPages": [
@@ -838,7 +838,7 @@
           "https://pdtpartners.com/careers",
           "https://job-boards.greenhouse.io/pdtpartners"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -846,7 +846,7 @@
         "careerPages": [
           "https://peak6group.wd1.myworkdayjobs.com/PEAK6"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -854,7 +854,7 @@
         "careerPages": [
           "https://www.qube-rt.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -865,7 +865,7 @@
           "https://job-boards.greenhouse.io/radixuniversity",
           "https://job-boards.greenhouse.io/radixexperienced"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -873,7 +873,7 @@
         "careerPages": [
           "https://www.rentec.com/Careers.action"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -882,7 +882,7 @@
           "https://job-boards.greenhouse.io/schonfeld?error=true",
           "https://www.schonfeld.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -890,7 +890,7 @@
         "careerPages": [
           "https://www.squarepoint-capital.com/open-opportunities"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -899,7 +899,7 @@
           "https://www.scm-lp.com/careers/",
           "https://job-boards.greenhouse.io/scm"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Susquehanna International Group": {
         "careerPages": [
@@ -908,7 +908,7 @@
           "https://sig.com/careers/",
           "https://careers-sig.icims.com/jobs/intro?mobile=true&needsRedirect=false"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -916,14 +916,14 @@
         "careerPages": [
           "https://www.systematica.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Teza Technologies": {
         "careerPages": [
           "https://www.teza.com/careers/",
           "https://jobs.ashbyhq.com/teza-technologies"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -932,7 +932,7 @@
           "https://www.tower-research.com/open-positions/",
           "https://job-boards.greenhouse.io/towerresearchcapital"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -941,7 +941,7 @@
           "https://www.trexquant.com/careers/",
           "https://trexquant.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -951,7 +951,7 @@
           "https://www.twosigma.com/careers/",
           "https://www.twosigma.com/careers/internships/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -959,7 +959,7 @@
         "careerPages": [
           "https://www.valkyrietrading.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -969,7 +969,7 @@
           "https://job-boards.greenhouse.io/vaticlabs",
           "https://www.vatic.gg/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Verition Fund Management": {
         "careerPages": [
@@ -977,7 +977,7 @@
           "https://www.verition.com/careers",
           "https://www.verition.com/open-positions"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -986,7 +986,7 @@
           "https://www.virtu.com/careers/",
           "https://job-boards.greenhouse.io/virtu"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -997,7 +997,7 @@
           "https://www.voleon.com/careers/",
           "https://www.voleon.com/jobs/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -1006,7 +1006,7 @@
           "https://www.voloridge.com/our-approach",
           "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -1016,7 +1016,7 @@
           "https://walleyecapital.com/careers",
           "https://job-boards.greenhouse.io/walleyecapital-external-fulltime"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -1025,7 +1025,7 @@
           "https://www.winton.com/opportunities",
           "https://job-boards.eu.greenhouse.io/winton"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -1033,7 +1033,7 @@
         "careerPages": [
           "https://wintermute.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -1041,7 +1041,7 @@
         "careerPages": [
           "https://www.wolve.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -1051,7 +1051,7 @@
           "https://job-boards.greenhouse.io/worldquant?error=true",
           "https://www.worldquant.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -1059,7 +1059,7 @@
         "careerPages": [
           "https://www.xtxmarkets.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -1071,7 +1071,7 @@
           "https://www.trilliumhealth.org/join-the-team",
           "https://www.trilliumhealthresources.org/explore-trillium/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -1079,13 +1079,13 @@
         "careerPages": [
           "https://www.weissasset.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Musket": {
         "careerPages": [
           "https://jobs.loves.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "BP": {
         "careerPages": [
@@ -1094,13 +1094,13 @@
           "https://careers.bp.com/listing",
           "https://bpinternational.wd3.myworkdayjobs.com/bpCareers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Castleton Commodities International": {
         "careerPages": [
           "https://www.cci.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Equinor": {
         "careerPages": [
@@ -1109,7 +1109,7 @@
           "https://www.equinor.com/careers",
           "https://www.equinor.com/careers/professionals"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Gunvor": {
         "careerPages": [
@@ -1117,7 +1117,7 @@
           "https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers",
           "https://gunvorgroup.com/careers/talent/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -1128,14 +1128,14 @@
           "https://www.shell.com/careers/about-careers-at-shell.html",
           "https://www.shell.ca/en_ca/careers.html"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Talos": {
         "careerPages": [
           "https://www.talos.com/careers/",
           "https://jobs.ashbyhq.com/Talos-Trading"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "AQR Capital Management": {
         "careerPages": [
@@ -1143,7 +1143,7 @@
           "https://www.aqr.com/Our-Firm/Careers",
           "https://job-boards.greenhouse.io/aqr"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -1151,7 +1151,7 @@
         "careerPages": [
           "https://www.acadian-asset.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -1161,13 +1161,13 @@
           "https://www.alliancebernstein.com/corporate/en/careers/students.html",
           "https://www.alliancebernstein.com/corporate/en/careers.html"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Allianz Global Investors": {
         "careerPages": [
           "https://careers.allianz.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Ares Management": {
         "careerPages": [
@@ -1176,13 +1176,13 @@
           "https://ares.com/us/careers",
           "https://www.arescorporation.com/open-jobs/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Aspect Capital": {
         "careerPages": [
           "https://www.aspectcapital.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Baillie Gifford": {
         "careerPages": [
@@ -1192,7 +1192,7 @@
           "https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordCareers",
           "https://www.bailliegifford.com/en/uk/individual-investors/careers/working-at-baillie-gifford/continue-to-workday/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "BlackRock": {
         "careerPages": [
@@ -1202,13 +1202,13 @@
           "https://careers.blackrock.com/search-jobs",
           "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "BlueCove": {
         "careerPages": [
           "https://www.bluecove.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "BNP Paribas": {
         "careerPages": [
@@ -1217,14 +1217,14 @@
           "https://careers.bnpparibas.co.uk/",
           "https://careers.bnpparibas.co.uk/search-experienced-hire-jobs/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "BMO Capital Markets": {
         "careerPages": [
           "https://jobs.bmo.com/ca/en/capital-markets",
           "https://bmo.wd3.myworkdayjobs.com/External"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Barclays": {
         "careerPages": [
@@ -1232,7 +1232,7 @@
           "https://search.jobs.barclays/search-jobs/",
           "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Berenberg": {
         "careerPages": [
@@ -1240,13 +1240,13 @@
           "https://careers.berenberg.com/",
           "https://careers.berenberg.com/professional-roles/berenberg-capital-markets"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Capital Group": {
         "careerPages": [
           "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Citi": {
         "careerPages": [
@@ -1258,20 +1258,20 @@
           "https://www.citi-us.com/careers",
           "https://jobs.citi.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7b"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Connor Clark & Lunn": {
         "careerPages": [
           "https://job-boards.greenhouse.io/cclfg",
           "https://job-boards.greenhouse.io/cclim"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Deutsche Bank": {
         "careerPages": [
           "https://db.wd3.myworkdayjobs.com/DBWebsite/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -1282,7 +1282,7 @@
           "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers",
           "https://careers.dimensional.com/internships"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Fidelity Investments": {
         "careerPages": [
@@ -1293,7 +1293,7 @@
           "https://fil.wd3.myworkdayjobs.com/001",
           "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Goldman Sachs": {
         "careerPages": [
@@ -1305,13 +1305,13 @@
           "https://www.goldmansachs.com/careers/apply/",
           "https://higher.gs.com/roles/152632"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "HSBC": {
         "careerPages": [
           "https://www.hsbc.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Invesco": {
         "careerPages": [
@@ -1319,7 +1319,7 @@
           "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Division-Associate_R-5554",
           "https://careers.invesco.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "J.P. Morgan": {
         "careerPages": [
@@ -1327,7 +1327,7 @@
           "https://privatebank.jpmorgan.com/nam/en/about-us/private-bank-careers",
           "https://www.jpmorganchase.com/careers/explore-opportunities"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Janus Henderson": {
         "careerPages": [
@@ -1336,20 +1336,20 @@
           "https://www.jhetf.com/careers/",
           "https://www.janusresearch.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Lazard Asset Management": {
         "careerPages": [
           "https://lazard-careers.tal.net/candidate",
           "https://www.lazard.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Macquarie": {
         "careerPages": [
           "https://mq.wd3.myworkdayjobs.com/CareersatMQ"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Morgan Stanley": {
         "careerPages": [
@@ -1358,7 +1358,7 @@
           "https://www.morganstanley.com/careers/career-opportunities-search/",
           "https://morganstanley.eightfold.ai/careers?source=mscom"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -1367,14 +1367,14 @@
           "https://nb.wd1.myworkdayjobs.com/NBCareers",
           "https://nb.wd1.myworkdayjobs.com/PWM"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Northern Trust Asset Management": {
         "careerPages": [
           "https://www.northerntrust.com/united-states/careers",
           "https://ntrs.wd1.myworkdayjobs.com/northerntrust"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "PGIM": {
         "careerPages": [
@@ -1384,7 +1384,7 @@
           "https://pru.wd5.myworkdayjobs.com/Careers",
           "https://www.pgim.com/us/en/individual/about-us/overview"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "PIMCO": {
         "careerPages": [
@@ -1392,44 +1392,44 @@
           "https://www.pimco.com/us/en/about-us/careers/professionals",
           "https://pimco.wd1.myworkdayjobs.com/pimco-careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Putnam Investments": {
         "careerPages": [
           "https://www.putnam.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Research Affiliates": {
         "careerPages": [
           "https://www.researchaffiliates.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Robeco": {
         "careerPages": [
           "https://www.robeco.com/en-int/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Russell Investments": {
         "careerPages": [
           "https://russellinvestments.com/us/careers",
           "https://russell.wd5.myworkdayjobs.com/russellinvestments"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Schroders": {
         "careerPages": [
           "https://www.schroders.com/en/global/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "State Street Global Advisors": {
         "careerPages": [
           "https://www.statestreet.com/us/en/asset-manager/about/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "T. Rowe Price": {
         "careerPages": [
@@ -1438,7 +1438,7 @@
           "https://www.troweprice.com/en/us/careers",
           "https://www.troweprice.com/en/us/careers/career-pathways/internships"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "UBS": {
         "careerPages": [
@@ -1448,7 +1448,7 @@
           "https://www.ubs.com/global/en/careers/early-careers.html",
           "https://www.ubs.com/global/en/careers/early-careers/faq.html"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -1460,7 +1460,7 @@
           "https://www.vanguardjobs.com/home-us/?source=Corporate_Website",
           "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/0/refreshFacet/318c8bb6f553100021d223d9780d30be"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Wellington Management": {
         "careerPages": [
@@ -1469,13 +1469,13 @@
           "https://www.wellington.com/en/careers",
           "https://wellington.wd5.myworkdayjobs.com/External"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "William Blair": {
         "careerPages": [
           "https://www.williamblair.com/Careers.aspx"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Bank of America": {
         "careerPages": [
@@ -2136,7 +2136,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/transmarketgroup"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2144,19 +2144,19 @@
         "careerPages": [
           "https://26milescapital.com/openings/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "ACT Group": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "Albert Quant Trading Club": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2164,7 +2164,7 @@
         "careerPages": [
           "https://apolisrises.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2172,13 +2172,13 @@
         "careerPages": [
           "https://www.arfima.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Aureas Finance": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2186,7 +2186,7 @@
         "careerPages": [
           "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2194,7 +2194,7 @@
         "careerPages": [
           "https://bastiontrading.com/careers/apply"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2202,7 +2202,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/blackedgecapital"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2210,7 +2210,7 @@
         "careerPages": [
           "https://www.bracebridgecapital.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2218,7 +2218,7 @@
         "careerPages": [
           "https://caladan.xyz/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
@@ -2226,13 +2226,13 @@
         "careerPages": [
           "https://careers.cargill.com/en"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Coding Test Firm": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2240,7 +2240,7 @@
         "careerPages": [
           "https://crabel.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2248,7 +2248,7 @@
         "careerPages": [
           "https://323trading.nl/careers.html"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -2256,7 +2256,7 @@
         "careerPages": [
           "https://www.accentgroupe.com/career"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2264,7 +2264,7 @@
         "careerPages": [
           "https://www.algorithmictradinggroup.com/opportunities"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -2272,7 +2272,7 @@
         "careerPages": [
           "https://www.ambergroup.io/applyJob"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2280,13 +2280,13 @@
         "careerPages": [
           "http://www.armadausa.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "Automaton Trading LLC": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2294,7 +2294,7 @@
         "careerPages": [
           "https://www.bp.com/en/global/bp-supply-trading-and-shipping/careers.html"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -2302,7 +2302,7 @@
         "careerPages": [
           "https://www.block-tech.io/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2310,7 +2310,7 @@
         "careerPages": [
           "https://www.campbell.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -2318,7 +2318,7 @@
         "careerPages": [
           "https://cascadesystems.net/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2326,13 +2326,13 @@
         "careerPages": [
           "https://www.chimerasecurities.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Consolidated Trading": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2340,7 +2340,7 @@
         "careerPages": [
           "https://www.criterion-trading.nl/m/join.html"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2348,7 +2348,7 @@
         "careerPages": [
           "https://d2x.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
@@ -2356,7 +2356,7 @@
         "careerPages": [
           "https://careers.acehardware.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2364,7 +2364,7 @@
         "careerPages": [
           "https://www.alloptions-international.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -2372,13 +2372,13 @@
         "careerPages": [
           "https://www.amsterdaminvestmentclub.com/pages/vacancy/equity-analyst"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Aquion": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2386,13 +2386,13 @@
         "careerPages": [
           "https://cornerstonecapital.teamtailor.com/pages/careers-aros-commodities"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Axinoss": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2400,7 +2400,7 @@
         "careerPages": [
           "https://birkoa.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2408,7 +2408,7 @@
         "careerPages": [
           "https://www.bonditech.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2416,7 +2416,7 @@
         "careerPages": [
           "https://www.charlesworthresearch.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -2424,7 +2424,7 @@
         "careerPages": [
           "https://contek.io/#career"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -2432,7 +2432,7 @@
         "careerPages": [
           "https://www.crossoptions.net/join-us"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
@@ -2440,13 +2440,13 @@
         "careerPages": [
           "https://www.abc-arbitrage.com/career/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Aarhus Trading": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2454,7 +2454,7 @@
         "careerPages": [
           "https://www.allstontrading.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -2462,13 +2462,13 @@
         "careerPages": [
           "https://jobs.lever.co/ansatzcapital?by=location"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "ArbitragePoint Trading": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2476,7 +2476,7 @@
         "careerPages": [
           "https://www.arrowstreetcapital.com/professional-careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2485,7 +2485,7 @@
           "https://www.b2c2.com/join-b2c2/careers",
           "https://job-boards.greenhouse.io/b2c2"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2493,7 +2493,7 @@
         "careerPages": [
           "https://barakmarketmaking.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -2501,7 +2501,7 @@
         "careerPages": [
           "https://blackeaglefg.com/stock-market-job/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2509,7 +2509,7 @@
         "careerPages": [
           "https://www.betm.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2518,13 +2518,13 @@
           "https://www.ctsglobalgroup.com/",
           "https://www.ctsglobalgroup.com/internship"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
       "Chengdu ZhaoYu Investment": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2532,13 +2532,13 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/clearstreet?gh_src=bdd2c3261"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Cor Capital": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2546,7 +2546,7 @@
         "careerPages": [
           "https://www.dsv.com/en/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2554,7 +2554,7 @@
         "careerPages": [
           "https://danskecommodities.com/join-us"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2562,7 +2562,7 @@
         "careerPages": [
           "https://careers.smartrecruiters.com/DomeyardLP?location=Boston&page=0&search="
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2570,7 +2570,7 @@
         "careerPages": [
           "https://www.eagleseven.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
@@ -2578,7 +2578,7 @@
         "careerPages": [
           "https://esteeadvisors.com/careers.php"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2586,7 +2586,7 @@
         "careerPages": [
           "https://futuresfirst.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2594,13 +2594,13 @@
         "careerPages": [
           "https://join.genkcapital.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Golden Meadow Investment": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2608,7 +2608,7 @@
         "careerPages": [
           "https://careers.gravityteam.co/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2616,7 +2616,7 @@
         "careerPages": [
           "https://jobs.lever.co/hap-capital"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2624,13 +2624,13 @@
         "careerPages": [
           "https://iv-capital.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Integrated Quantitative Investments": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2638,13 +2638,13 @@
         "careerPages": [
           "https://kershnertrading.applicantstack.com/x/openings"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
       "Kvantium Research": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2652,7 +2652,7 @@
         "careerPages": [
           "https://www.dwf-labs.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2660,19 +2660,19 @@
         "careerPages": [
           "https://deepbluecap.com/vacancies/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Dexterity Capital": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "Domstad Traders": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2680,7 +2680,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2688,13 +2688,13 @@
         "careerPages": [
           "https://www.enigmaquant.com/#careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Ethflow": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2702,7 +2702,7 @@
         "careerPages": [
           "https://www.farrercapital.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2710,7 +2710,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/gsrmarkets/jobs/4421987101"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2718,13 +2718,13 @@
         "careerPages": [
           "https://www.gscap.com.br/carreiras"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Grace Hall Trading": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2732,7 +2732,7 @@
         "careerPages": [
           "https://www.greatpointcapital.com/contact-apply"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
@@ -2740,7 +2740,7 @@
         "careerPages": [
           "https://www.hbk.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
@@ -2748,7 +2748,7 @@
         "careerPages": [
           "https://apply.workable.com/humbility/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -2756,7 +2756,7 @@
         "careerPages": [
           "https://incommodities.com/join-us"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2764,19 +2764,19 @@
         "careerPages": [
           "https://invemo.ch/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Jerpoint Capital": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "KeyQuant": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2784,7 +2784,7 @@
         "careerPages": [
           "https://www.theleaguecorp.com/opportunities.php"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -2792,7 +2792,7 @@
         "careerPages": [
           "https://davincitrading.com/job/graduate-trader/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2800,13 +2800,13 @@
         "careerPages": [
           "https://jobs.ashbyhq.com/deeter-analytics/27b65fa1-9629-4925-8a89-9c77bec491df"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Diameter Capital Partners": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2814,7 +2814,7 @@
         "careerPages": [
           "https://www.dymonasia.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2822,13 +2822,13 @@
         "careerPages": [
           "https://www.elliott-turbo.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "Entropy Trading Group": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2836,7 +2836,7 @@
         "careerPages": [
           "https://www.euclidean.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2844,13 +2844,13 @@
         "careerPages": [
           "https://www.fenix-one.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Forest Creek Capital": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2858,13 +2858,13 @@
         "careerPages": [
           "https://www.gmo.com/americas/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Gift Street Capital": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2872,7 +2872,7 @@
         "careerPages": [
           "https://grasshopperasia.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -2880,7 +2880,7 @@
         "careerPages": [
           "https://hyperithm.career.greetinghr.com/ko/open-positions"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2888,7 +2888,7 @@
         "careerPages": [
           "https://incommodities.com/join-us"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2896,7 +2896,7 @@
         "careerPages": [
           "http://jemoody.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -2905,7 +2905,7 @@
           "https://keyrock.com/careers/",
           "https://jobs.ashbyhq.com/keyrock"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2913,13 +2913,13 @@
         "careerPages": [
           "https://lehicap.com/colab"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Daler Trading": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2927,7 +2927,7 @@
         "careerPages": [
           "https://delchain.io/job-openings/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2935,13 +2935,13 @@
         "careerPages": [
           "https://dolatcapital.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "ETS Asset Management Factory": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2949,7 +2949,7 @@
         "careerPages": [
           "https://ellimgmt.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2957,7 +2957,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/epochcapital"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -2965,13 +2965,13 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/evergreenstatisticaltrading/jobs/4136768009"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Final": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2979,13 +2979,13 @@
         "careerPages": [
           "https://www.freepoint.com/life-at-freepoint/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
       "GRW Partners": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -2993,7 +2993,7 @@
         "careerPages": [
           "https://www.glencore.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3001,25 +3001,25 @@
         "careerPages": [
           "https://www.high-flyer.cn/en/join"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Independent Trading Group (ITG)": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "JY Quantitative Management": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Kadima Asset Management": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3027,7 +3027,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3035,19 +3035,19 @@
         "careerPages": [
           "https://www.lingjuninvest.com/JoinUs?lang=en-us"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Linitics": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "Lucida": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3055,7 +3055,7 @@
         "careerPages": [
           "http://www.marquettepartnersholdingsllc.com/#careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3063,7 +3063,7 @@
         "careerPages": [
           "https://mercuria.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3071,7 +3071,7 @@
         "careerPages": [
           "https://join.mhfunds.com"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3080,7 +3080,7 @@
           "https://www.mingshiim.com/join",
           "https://en.mingshiim.com/join"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3088,7 +3088,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/nksecuritiesresearch?error=true"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3096,13 +3096,13 @@
         "careerPages": [
           "https://nitorenergy.com/career/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Nyenburgh": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3110,7 +3110,7 @@
         "careerPages": [
           "https://otc-flow.webflow.io/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3118,13 +3118,13 @@
         "careerPages": [
           "https://www.111cap.com/#career"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Premonition": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3132,7 +3132,7 @@
         "careerPages": [
           "https://www.quadeye.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3140,13 +3140,13 @@
         "careerPages": [
           "https://job-boards.eu.greenhouse.io/quantboxresearchpte"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Quantrend Technology": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3154,25 +3154,25 @@
         "careerPages": [
           "https://scalptrade.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Saccade Capital": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "Silver Valley Management": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "Liquid Capital Group": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3181,7 +3181,7 @@
           "https://www.mako.com/opportunities",
           "https://www.mako.com/early-careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
@@ -3189,7 +3189,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/maverickderivatives?error=true"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3197,7 +3197,7 @@
         "careerPages": [
           "https://www.meshcapital.com/Careers.html"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3205,19 +3205,19 @@
         "careerPages": [
           "https://join.mhfunds.com/index"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Mirazur Capital SAM": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "Nebula Research": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3225,7 +3225,7 @@
         "careerPages": [
           "https://www.nomura.com/americas/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3233,13 +3233,13 @@
         "careerPages": [
           "https://www.oratraders.com/vacancies/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "OTS Capital": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3247,13 +3247,13 @@
         "careerPages": [
           "https://openfutures.in/index.php/career/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Prime Trading": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3261,13 +3261,13 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/quadraturecapital?error=true"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Quantique (QuantM3)": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3275,7 +3275,7 @@
         "careerPages": [
           "https://rayleigh.re/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3283,7 +3283,7 @@
         "careerPages": [
           "https://www.saichild.com/career"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3291,7 +3291,7 @@
         "careerPages": [
           "https://www.scientechresearch.io/jobopenings"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3300,13 +3300,13 @@
           "https://simplextrading.com/careers/",
           "https://job-boards.greenhouse.io/simplextrading"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
       "Lone Pine Capital": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3314,7 +3314,7 @@
         "careerPages": [
           "https://mathrix.recruitee.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3322,7 +3322,7 @@
         "careerPages": [
           "https://mercuria.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3330,7 +3330,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/midpointmarkets/jobs/4408679008"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3338,7 +3338,7 @@
         "careerPages": [
           "https://join.mhfunds.com"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3346,7 +3346,7 @@
         "careerPages": [
           "https://www.nmftrading.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
@@ -3354,7 +3354,7 @@
         "careerPages": [
           "https://www.northpool.nl/vacancies"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3362,19 +3362,19 @@
         "careerPages": [
           "https://www.osfmanagement.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Old Growth Harbor LLC": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "Optica": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3382,7 +3382,7 @@
         "careerPages": [
           "https://www.panagora.com/careers-panagora-asset-management/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3390,7 +3390,7 @@
         "careerPages": [
           "https://priogen.com/careers/home/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3398,7 +3398,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/quadraturecapital?error=true"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3406,7 +3406,7 @@
         "careerPages": [
           "https://www.quantlab.com/careers?nl=1&p=jobs"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3414,7 +3414,7 @@
         "careerPages": [
           "https://www.raontrading.net/#careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3422,13 +3422,13 @@
         "careerPages": [
           "https://sqmtechnologies.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Sarpen Quant Investments": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3436,13 +3436,13 @@
         "careerPages": [
           "https://www.seveneightcapital.com/join-us"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Sovereign Blue Capital": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3450,7 +3450,7 @@
         "careerPages": [
           "https://lacapm.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3458,7 +3458,7 @@
         "careerPages": [
           "https://marketwizards.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3466,7 +3466,7 @@
         "careerPages": [
           "https://matrixexecutions.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3474,7 +3474,7 @@
         "careerPages": [
           "https://mercuria.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3483,19 +3483,19 @@
           "https://join.mhfunds.com/index",
           "https://www.mhfunds.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Murano Group": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "Nino Options": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3503,7 +3503,7 @@
         "careerPages": [
           "https://numer.ai/jobs"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3511,7 +3511,7 @@
         "careerPages": [
           "https://ostc.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3519,7 +3519,7 @@
         "careerPages": [
           "https://plutusresearch.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3527,7 +3527,7 @@
         "careerPages": [
           "https://www.qcpgroup.com/career/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
@@ -3535,7 +3535,7 @@
         "careerPages": [
           "https://quantmatter.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3543,7 +3543,7 @@
         "careerPages": [
           "https://jobs.lever.co/quantlane"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3551,19 +3551,19 @@
         "careerPages": [
           "https://www.rsj.com/en/career.html"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Revolution Capital Management": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "SQS Capital": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3571,7 +3571,7 @@
         "careerPages": [
           "https://app.savius.com/login"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3579,13 +3579,13 @@
         "careerPages": [
           "https://sevenpointscapital.pinpointhq.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
       "Spatium Capital": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3593,7 +3593,7 @@
         "careerPages": [
           "https://t3trading.com/join-us/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3601,7 +3601,7 @@
         "careerPages": [
           "https://tsycapital.com/career.html"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3609,7 +3609,7 @@
         "careerPages": [
           "https://www.tibra.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3619,7 +3619,7 @@
           "https://www.tradermath.org/subscriptions",
           "https://www.tradermath.org/signup"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3627,7 +3627,7 @@
         "careerPages": [
           "https://www.uccapital.com.tw/zh/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3635,7 +3635,7 @@
         "careerPages": [
           "https://en.uranus-research.com/talents"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3643,7 +3643,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/vikingglobalinvestors?error=true"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3651,7 +3651,7 @@
         "careerPages": [
           "http://www.webbtraders.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3659,7 +3659,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/wil"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3667,7 +3667,7 @@
         "careerPages": [
           "https://recruiting.paylocity.com/Recruiting/jobs/Apply/2303630"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3676,7 +3676,7 @@
           "https://zrtx.eu/jobs",
           "https://zrtx.eu/career"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3684,13 +3684,17 @@
         "careerPages": [
           "https://www.stronghold.capital/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
       "TCI Fund Management": {
-        "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "careerPages": [
+          "https://boards.greenhouse.io/twosixtechnologies/jobs/4465276004",
+          "https://boards.greenhouse.io/tekion/jobs/6263631003",
+          "https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007"
+        ],
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3698,7 +3702,7 @@
         "careerPages": [
           "https://teesta.co/join-us"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3706,7 +3710,7 @@
         "careerPages": [
           "https://www.tidal-energy.com/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3714,7 +3718,7 @@
         "careerPages": [
           "https://www.trafigura.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3722,13 +3726,13 @@
         "careerPages": [
           "https://utr8-group.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "VICI Holdings": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3736,7 +3740,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/vaticlabs/jobs/3137555"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3744,13 +3748,13 @@
         "careerPages": [
           "https://careers.smartrecruiters.com/Vitol?oga=true"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "WH Trading": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3758,19 +3762,19 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/whistlertrading"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Z22 Technologies AG": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
       "Sumo": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3778,13 +3782,13 @@
         "careerPages": [
           "https://www.tgsmc.com/join-our-team/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
       "Ubiquant": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3792,7 +3796,7 @@
         "careerPages": [
           "https://www.vivcourt.com/careers/trading-internship/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3800,7 +3804,7 @@
         "careerPages": [
           "https://www.wincent.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3808,7 +3812,7 @@
         "careerPages": [
           "https://www.woorton.com/about-us"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
@@ -3817,7 +3821,7 @@
           "https://job-boards.greenhouse.io/xycapital?error=true",
           "https://www.xycapitalgroup.com/careers/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3825,7 +3829,7 @@
         "careerPages": [
           "https://irage.in/recruitment.php"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3833,7 +3837,7 @@
         "careerPages": [
           "https://systematicalpha.fi/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22T16:05:16.966Z"
       },
@@ -3841,7 +3845,7 @@
         "careerPages": [
           "https://www.trvtradinggroup.com/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-22"
       },
@@ -3849,7 +3853,7 @@
         "careerPages": [
           "https://www.tradelink.co/careers"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3857,25 +3861,25 @@
         "careerPages": [
           "https://jobs.universalparks.com/universal-orlando-resort/"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "VS Capital": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "Verma Research Capital": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
       "Wallsoft Labs": {
         "careerPages": [],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "no-verified-public-page",
         "rosterResearchedAt": "2026-07-20T15:03:38.755Z"
       },
@@ -3883,7 +3887,7 @@
         "careerPages": [
           "https://job-boards.greenhouse.io/xantium?gh_src=Trackr"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z",
+        "updatedAt": "2026-08-06T15:41:47.674Z",
         "rosterDiscoveryStatus": "verified-page-saved",
         "rosterResearchedAt": "2026-07-20T15:08:18.703Z"
       },
@@ -3909,7 +3913,7 @@
         "careerPages": [
           "https://franklintempleton.wd5.myworkdayjobs.com/Jobs-WAM"
         ],
-        "updatedAt": "2026-08-06T02:41:12.078Z"
+        "updatedAt": "2026-08-06T15:41:47.674Z"
       },
       "Avant": {
         "careerPages": [
@@ -5817,6 +5821,18 @@
       "pageUrl": "https://www.stronghold.capital/"
     },
     {
+      "company": "TCI Fund Management",
+      "pageUrl": "https://boards.greenhouse.io/twosixtechnologies/jobs/4465276004"
+    },
+    {
+      "company": "TCI Fund Management",
+      "pageUrl": "https://boards.greenhouse.io/tekion/jobs/6263631003"
+    },
+    {
+      "company": "TCI Fund Management",
+      "pageUrl": "https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007"
+    },
+    {
       "company": "Teesta Investment",
       "pageUrl": "https://teesta.co/join-us"
     },
@@ -6058,7 +6074,7 @@
     {
       "company": "Citadel Securities",
       "pageUrl": "https://www.citadelsecurities.com/careers/students/",
-      "resolvedUrl": "https://www.citadelsecurities.com/careers/students/",
+      "resolvedUrl": "https://www.citadelsecurities.com/careers/programs-and-events/",
       "pageOk": false,
       "pageStatus": 403,
       "atsTokens": {
@@ -6091,7 +6107,7 @@
       "boards": [
         {
           "source": "Greenhouse:drweng",
-          "jobsSeen": 163,
+          "jobsSeen": 162,
           "relevantInternships": 17
         },
         {
@@ -6100,7 +6116,7 @@
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 179,
+      "jobsSeen": 178,
       "relevantInternships": 17
     },
     {
@@ -6172,7 +6188,7 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "jobsSeen": 71,
+          "jobsSeen": 70,
           "relevantInternships": 2
         },
         {
@@ -6181,7 +6197,7 @@
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 74,
+      "jobsSeen": 73,
       "relevantInternships": 2
     },
     {
@@ -6202,11 +6218,11 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "jobsSeen": 71,
+          "jobsSeen": 70,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 71,
+      "jobsSeen": 70,
       "relevantInternships": 2
     },
     {
@@ -6622,11 +6638,11 @@
       "boards": [
         {
           "source": "Greenhouse:axq",
-          "jobsSeen": 19,
+          "jobsSeen": 20,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 19,
+      "jobsSeen": 20,
       "relevantInternships": 1
     },
     {
@@ -6874,11 +6890,11 @@
       "boards": [
         {
           "source": "Workday:capstonedc/Capstone",
-          "jobsSeen": 11,
+          "jobsSeen": 12,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantInternships": 0
     },
     {
@@ -6922,11 +6938,11 @@
       "boards": [
         {
           "source": "Workday:capstonedc/Capstone",
-          "jobsSeen": 11,
+          "jobsSeen": 12,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantInternships": 0
     },
     {
@@ -7178,11 +7194,11 @@
       "boards": [
         {
           "source": "Greenhouse:flowtraders",
-          "jobsSeen": 38,
+          "jobsSeen": 41,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 41,
       "relevantInternships": 2
     },
     {
@@ -7571,11 +7587,11 @@
       "boards": [
         {
           "source": "Greenhouse:imc",
-          "jobsSeen": 161,
+          "jobsSeen": 164,
           "relevantInternships": 11
         }
       ],
-      "jobsSeen": 161,
+      "jobsSeen": 164,
       "relevantInternships": 11
     },
     {
@@ -7963,11 +7979,11 @@
         {
           "source": "Greenhouse:oldmissioncapital",
           "jobsSeen": 34,
-          "relevantInternships": 2
+          "relevantInternships": 1
         }
       ],
       "jobsSeen": 34,
-      "relevantInternships": 2
+      "relevantInternships": 1
     },
     {
       "company": "Old Mission Capital",
@@ -7988,11 +8004,11 @@
         {
           "source": "Greenhouse:oldmissioncapital",
           "jobsSeen": 34,
-          "relevantInternships": 2
+          "relevantInternships": 1
         }
       ],
       "jobsSeen": 34,
-      "relevantInternships": 2
+      "relevantInternships": 1
     },
     {
       "company": "Optiver",
@@ -9054,11 +9070,11 @@
       "boards": [
         {
           "source": "Greenhouse:virtu",
-          "jobsSeen": 48,
+          "jobsSeen": 46,
           "relevantInternships": 12
         }
       ],
-      "jobsSeen": 48,
+      "jobsSeen": 46,
       "relevantInternships": 12
     },
     {
@@ -9079,11 +9095,11 @@
       "boards": [
         {
           "source": "Greenhouse:virtu",
-          "jobsSeen": 48,
+          "jobsSeen": 46,
           "relevantInternships": 12
         }
       ],
-      "jobsSeen": 48,
+      "jobsSeen": 46,
       "relevantInternships": 12
     },
     {
@@ -9291,14 +9307,8 @@
         "workday": []
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Greenhouse:walleyecapital-external-fulltime",
-          "jobsSeen": 10,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 10,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -9395,11 +9405,11 @@
       "boards": [
         {
           "source": "Greenhouse:worldquant",
-          "jobsSeen": 102,
+          "jobsSeen": 101,
           "relevantInternships": 6
         }
       ],
-      "jobsSeen": 102,
+      "jobsSeen": 101,
       "relevantInternships": 6
     },
     {
@@ -9420,11 +9430,11 @@
       "boards": [
         {
           "source": "Greenhouse:worldquant",
-          "jobsSeen": 102,
+          "jobsSeen": 101,
           "relevantInternships": 6
         }
       ],
-      "jobsSeen": 102,
+      "jobsSeen": 101,
       "relevantInternships": 6
     },
     {
@@ -9920,11 +9930,11 @@
       "boards": [
         {
           "source": "Workday:gunvor/Gunvor_Careers",
-          "jobsSeen": 32,
+          "jobsSeen": 33,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 32,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -9949,11 +9959,11 @@
       "boards": [
         {
           "source": "Workday:gunvor/Gunvor_Careers",
-          "jobsSeen": 32,
+          "jobsSeen": 33,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 32,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -9978,11 +9988,11 @@
       "boards": [
         {
           "source": "Workday:gunvor/Gunvor_Careers",
-          "jobsSeen": 32,
+          "jobsSeen": 33,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 32,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -10602,11 +10612,11 @@
       "boards": [
         {
           "source": "Workday:blackrock/BlackRock_Professional",
-          "jobsSeen": 274,
+          "jobsSeen": 285,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 274,
+      "jobsSeen": 285,
       "relevantInternships": 0
     },
     {
@@ -10776,12 +10786,12 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1047,
-          "relevantInternships": 7
+          "jobsSeen": 1115,
+          "relevantInternships": 8
         }
       ],
-      "jobsSeen": 1047,
-      "relevantInternships": 7
+      "jobsSeen": 1115,
+      "relevantInternships": 8
     },
     {
       "company": "Barclays",
@@ -10805,12 +10815,12 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1047,
-          "relevantInternships": 7
+          "jobsSeen": 1115,
+          "relevantInternships": 8
         }
       ],
-      "jobsSeen": 1047,
-      "relevantInternships": 7
+      "jobsSeen": 1115,
+      "relevantInternships": 8
     },
     {
       "company": "Barclays",
@@ -10834,12 +10844,12 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1047,
-          "relevantInternships": 7
+          "jobsSeen": 1115,
+          "relevantInternships": 8
         }
       ],
-      "jobsSeen": 1047,
-      "relevantInternships": 7
+      "jobsSeen": 1115,
+      "relevantInternships": 8
     },
     {
       "company": "Berenberg",
@@ -11587,12 +11597,12 @@
       "boards": [
         {
           "source": "Workday:invesco/IVZ",
-          "jobsSeen": 226,
-          "relevantInternships": 0
+          "jobsSeen": 232,
+          "relevantInternships": 1
         }
       ],
-      "jobsSeen": 226,
-      "relevantInternships": 0
+      "jobsSeen": 232,
+      "relevantInternships": 1
     },
     {
       "company": "Invesco",
@@ -11620,12 +11630,12 @@
       "boards": [
         {
           "source": "Workday:invesco/IVZ",
-          "jobsSeen": 226,
-          "relevantInternships": 0
+          "jobsSeen": 232,
+          "relevantInternships": 1
         }
       ],
-      "jobsSeen": 226,
-      "relevantInternships": 0
+      "jobsSeen": 232,
+      "relevantInternships": 1
     },
     {
       "company": "Invesco",
@@ -11649,12 +11659,12 @@
       "boards": [
         {
           "source": "Workday:invesco/IVZ",
-          "jobsSeen": 226,
-          "relevantInternships": 0
+          "jobsSeen": 232,
+          "relevantInternships": 1
         }
       ],
-      "jobsSeen": 226,
-      "relevantInternships": 0
+      "jobsSeen": 232,
+      "relevantInternships": 1
     },
     {
       "company": "J.P. Morgan",
@@ -11843,11 +11853,11 @@
       "boards": [
         {
           "source": "Workday:mq/CareersatMQ",
-          "jobsSeen": 30,
+          "jobsSeen": 28,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 30,
+      "jobsSeen": 28,
       "relevantInternships": 0
     },
     {
@@ -12436,11 +12446,11 @@
         {
           "source": "Workday:troweprice/TRowePrice",
           "jobsSeen": 40,
-          "relevantInternships": 2
+          "relevantInternships": 0
         }
       ],
       "jobsSeen": 40,
-      "relevantInternships": 2
+      "relevantInternships": 0
     },
     {
       "company": "T. Rowe Price",
@@ -12469,11 +12479,11 @@
         {
           "source": "Workday:troweprice/TRowePrice",
           "jobsSeen": 40,
-          "relevantInternships": 2
+          "relevantInternships": 0
         }
       ],
       "jobsSeen": 40,
-      "relevantInternships": 2
+      "relevantInternships": 0
     },
     {
       "company": "T. Rowe Price",
@@ -12503,7 +12513,7 @@
         {
           "source": "Workday:troweprice/TRowePrice",
           "jobsSeen": 40,
-          "relevantInternships": 2
+          "relevantInternships": 0
         },
         {
           "source": "Workday:troweprice/TRowePriceInternational",
@@ -12512,7 +12522,7 @@
         }
       ],
       "jobsSeen": 72,
-      "relevantInternships": 2
+      "relevantInternships": 0
     },
     {
       "company": "T. Rowe Price",
@@ -12542,7 +12552,7 @@
         {
           "source": "Workday:troweprice/TRowePrice",
           "jobsSeen": 40,
-          "relevantInternships": 2
+          "relevantInternships": 0
         },
         {
           "source": "Workday:troweprice/TRowePriceInternational",
@@ -12551,7 +12561,7 @@
         }
       ],
       "jobsSeen": 72,
-      "relevantInternships": 2
+      "relevantInternships": 0
     },
     {
       "company": "UBS",
@@ -13707,11 +13717,11 @@
       "boards": [
         {
           "source": "Greenhouse:clearstreet",
-          "jobsSeen": 27,
+          "jobsSeen": 28,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 27,
+      "jobsSeen": 28,
       "relevantInternships": 0
     },
     {
@@ -14309,11 +14319,11 @@
       "boards": [
         {
           "source": "Lever:gmo",
-          "jobsSeen": 9,
+          "jobsSeen": 10,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantInternships": 0
     },
     {
@@ -15027,8 +15037,8 @@
       "company": "Quadrature",
       "pageUrl": "https://job-boards.greenhouse.io/quadraturecapital?error=true",
       "resolvedUrl": "https://job-boards.greenhouse.io/quadraturecapital?error=true",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [
           "quadraturecapital"
@@ -15950,6 +15960,75 @@
       "relevantInternships": 0
     },
     {
+      "company": "TCI Fund Management",
+      "pageUrl": "https://boards.greenhouse.io/twosixtechnologies/jobs/4465276004",
+      "resolvedUrl": "https://job-boards.greenhouse.io/twosixtechnologies?error=true",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "twosixtechnologies"
+        ],
+        "lever": [],
+        "ashby": [],
+        "workday": []
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Greenhouse:twosixtechnologies",
+          "jobsSeen": 56,
+          "relevantInternships": 0
+        }
+      ],
+      "jobsSeen": 56,
+      "relevantInternships": 0
+    },
+    {
+      "company": "TCI Fund Management",
+      "pageUrl": "https://boards.greenhouse.io/tekion/jobs/6263631003",
+      "resolvedUrl": "https://job-boards.greenhouse.io/tekion?error=true",
+      "pageOk": false,
+      "pageStatus": 404,
+      "atsTokens": {
+        "greenhouse": [
+          "tekion"
+        ],
+        "lever": [],
+        "ashby": [],
+        "workday": []
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "TCI Fund Management",
+      "pageUrl": "https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007",
+      "resolvedUrl": "https://job-boards.greenhouse.io/eikontherapeutics?error=true",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "eikontherapeutics"
+        ],
+        "lever": [],
+        "ashby": [],
+        "workday": []
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Greenhouse:eikontherapeutics",
+          "jobsSeen": 18,
+          "relevantInternships": 0
+        }
+      ],
+      "jobsSeen": 18,
+      "relevantInternships": 0
+    },
+    {
       "company": "Teesta Investment",
       "pageUrl": "https://teesta.co/join-us",
       "resolvedUrl": "https://teesta.co/join-us",
@@ -16371,23 +16450,23 @@
       "Company": "DRW",
       "Title": "FPGA Intern",
       "Department": "Campus",
-      "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8070392 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Examp...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DRW",
-      "Title": "FPGA Intern",
-      "Department": "Campus",
       "Location": "Chicago",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8038923 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Exam...",
       "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "FPGA Intern",
+      "Department": "Campus",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8070392 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Examp...",
+      "Region": "Europe"
     },
     {
       "Company": "DRW",
@@ -16414,17 +16493,6 @@
     {
       "Company": "DRW",
       "Title": "Quantitative Research Intern",
-      "Department": "Campus",
-      "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7957756 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse backgrounds, who are passionate about c...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Quantitative Research Intern",
       "Department": "Campus Quantitative Research",
       "Location": "Chicago, New York City",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
@@ -16432,6 +16500,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7818540 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse backgrounds, who are passionate about c...",
       "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Quantitative Research Intern",
+      "Department": "Campus",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7957756 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse backgrounds, who are passionate about c...",
+      "Region": "Europe"
     },
     {
       "Company": "DRW",
@@ -16491,17 +16570,6 @@
     {
       "Company": "DRW",
       "Title": "Software Developer Intern",
-      "Department": "Campus",
-      "Location": "Chicago",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...",
-      "Region": "North America"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Software Developer Intern",
       "Department": "Campus Software Engineering",
       "Location": "London",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
@@ -16509,6 +16577,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7942281 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organised social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietar...",
       "Region": "Europe"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Software Developer Intern",
+      "Department": "Campus",
+      "Location": "Chicago",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...",
+      "Region": "North America"
     },
     {
       "Company": "DRW",
@@ -16792,7 +16871,7 @@
       "URL": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
       "Source": "Career page Workday:arrowstreetcapital/Campus_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 20 Days Ago | R1505",
+      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 21 Days Ago | R1505",
       "Region": "North America"
     },
     {
@@ -16803,7 +16882,7 @@
       "URL": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
       "Source": "Career page Workday:arrowstreetcapital/Campus_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 26 Days Ago | R1506",
+      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 27 Days Ago | R1506",
       "Region": "North America"
     },
     {
@@ -17210,17 +17289,6 @@
     },
     {
       "Company": "Old Mission Capital",
-      "Title": "Compliance and Risk Co-Op",
-      "Department": "Compliance",
-      "Location": "Chicago, IL, United States",
-      "URL": "https://www.oldmissioncapital.com/careers/?gh_jid=7828063003",
-      "Source": "Career page Greenhouse:oldmissioncapital",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.oldmissioncapital.com/careers/ | company_wrapper=https://www.oldmissioncapital.com/careers/job?gh_jid=7828063003 | internship timing not stated in title | Old Mission is a global proprietary trading firm that leverages state-of-the-art technology and research to identify and execute profitable trading strategies across multiple asset classes around the world. Our offices in Chicago, New York, and London are all composed of naturally-curious individuals who thrive in a team environment and constantly strive for improvement. Old Mission does not seek capital from outside investors, allowing us the flexibility to aggressively invest in our team members and keep them engaged in the firm’s growth. About This Role Old Mission, a global trading firm, is looking for a Co-Op student to join our Compliance Team in Chicago, IL (15–25 hours/week, flexible). You'll work as a c...",
-      "Region": "North America"
-    },
-    {
-      "Company": "Old Mission Capital",
       "Title": "Software Engineer – 2027 Internship Program (June Start)",
       "Department": "University",
       "Location": "Chicago, IL, United States",
@@ -17229,16 +17297,6 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.oldmissioncapital.com/careers/ | company_wrapper=https://www.oldmissioncapital.com/careers/job?gh_jid=7796180003 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Old Mission is a global proprietary trading firm that leverages state-of-the-art technology and research to identify and execute profitable trading strategies across multiple asset classes around the world. Our offices in Chicago, New York, and London are all composed of naturally-curious individuals who thrive in a team environment and constantly strive for improvement. Old Mission does not seek capital from outside investors, allowing us the flexibility to aggressively invest in our team members and keep them engaged in the firm’s growth. About the Position Our internship program is geared for current students who want to work alongside our talented software enginee...",
       "Region": "North America"
-    },
-    {
-      "Company": "Old Mission Capital",
-      "Title": "Compliance and Risk Co-Op",
-      "Department": "Compliance",
-      "Location": "Chicago, IL, United States",
-      "URL": "https://www.oldmissioncapital.com/careers/?gh_jid=7828063003",
-      "Source": "Career page Greenhouse:oldmissioncapital",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.oldmissioncapital.com/careers/ | company_wrapper=https://www.oldmissioncapital.com/careers/job?gh_jid=7828063003 | internship timing not stated in title | Old Mission is a global proprietary trading firm that leverages state-of-the-art technology and research to identify and execute profitable trading strategies across multiple asset classes around the world. Our offices in Chicago, New York, and London are all composed of naturally-curious individuals who thrive in a team environment and constantly strive for improvement. Old Mission does not seek capital from outside investors, allowing us the flexibility to aggressively invest in our team members and keep them engaged in the firm’s growth. About This Role Old Mission, a global trading firm, is looking for a Co-Op student to join our Compliance Team in Chicago, IL (15–25 hours/week, flexible). You'll work as a compliance generalist, supporting surveillance, research, and administrative work across the Firm's compliance program. Beyond day-to-day tasks and project work, you'll get direct mentorship from senior Compliance team members and exposure to our Operations and Risk teams giving you a real, ground-level view of how compliance functions inside a large trading firm. This is a term-renewable position with potential for full-time hire. What You'll Do Research new trading initiatives to help the Compliance Team map out a compliant path forward Work with external databases including FINRA's Central Registration Depository (CRD) and My Compliance Office Support daily surveillance reviews of the Firm's options, futures, and equity trading activity Help manage critical daily functions like CAT (Consolidated Audit Trail) reporting and exchange symbol registrations Assist in reviewing existing compliance practices against regulatory requirements and industry best practices What We're Looking For Rising senior based in Chicago, studying business, finance, economics, or a related field Interested in a long-term career in Compliance, Risk, or Operations at a trading firm Able to balance coursework with work obligations Some familiarity with large data sets and programming languages Strong written and verbal communication skills Basic understanding of exchange/OTC trading and market making Highly organized with strong attention to detail, comfortable in a fast-paced environment Works well both independently and on a team Comfortable with Microsoft Office Nice to Have Completed the SIE (Securities Industry Essentials) exam Prior internship experience in the industry Experience with Python or SQL Benefits and Perks Fully paid Medical, Dental, Vision, Disability, and Life Insurance Fully stocked kitchen; free breakfast and lunch every day on-site Tuition Reimbursement Program 401(k) with employer match Paid Vacation, Sick, and Parental leaves Commuter and Flexible Spending Programs Pay Range $30/hr. ($62,400 annually based on a 40-hour work week). Compensation is determined based on experience, skills, and qualifications relative to role requirements. This position is classified as non-exempt and is eligible for overtime pay in accordance with the Fair Labor Standards Act and Illinois state wage and hour law. Old Mission is not accepting unsolicited resumes from any staffing/search firms. All resumes submitted by staffing/search firms to any employee at Old Mission via-email, the Internet or directly without a valid signed search agreement will be deemed the sole property of Old Mission, and no fee will be paid in the event the candidate is hired by Old Mission."
     },
     {
       "Company": "Old Mission Capital",
@@ -17877,7 +17935,7 @@
       "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4084570006",
       "Source": "Career page Greenhouse:worldquant",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://job-boards.greenhouse.io/worldquant | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4084570006 | internship timing not stated in title; graduation eligibility mentions: 2026, 2027 | WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform. WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Em...",
+      "Notes": "career_page=https://job-boards.greenhouse.io/worldquant | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4084570006 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform. WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Em...",
       "Region": "Asia"
     },
     {
@@ -17942,7 +18000,7 @@
       "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4084570006",
       "Source": "Career page Greenhouse:worldquant",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://job-boards.greenhouse.io/worldquant?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4084570006 | internship timing not stated in title; graduation eligibility mentions: 2026, 2027 | WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform. WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Employees are encouraged to challenge conventional thinking and possess an attitude of continuous improvement. Our goal is to hire the best and the brightest. We value intellectual horsepower first and foremost, and people who demonstrate an outstanding talent. There is no roadmap to future success, so we need people who can help us build it. THE ROLE 岗位职责: WorldQuant is seeking exceptional individuals to join the firm as a Quantitative Research Intern. While prior finance experience is not required, a successful candidate must possess a strong interest in learning about finance and global markets. Have a strong understanding of the investment research process to build computer-based models that seek to predict the movements of the global financial markets. 根据对投资研究流程的深入理解，创建寻求预测全球金融市场走势的基于计算机的模型 Analyze and apply various types of data to the financial markets through rigorous exploration and unconstrained thinking 大胆猜想，严谨探索，不断寻求新方式分析多种类型的数据并将其应用于金融市场 WHAT WE OFFER 你将会获得: Top performers during internship may be eligible for a full-time offer 优秀的实习生可能获得全职offer Competitive internship compensation 有竞争力的实习薪资 Join our established mentoring program and receive one-on-one guidance by an accomplished advisor during the internship 完善的导师培训机制、一对一师从资深从业者 Develop a global vision with opportunities to exchange ideas with various teams in WorldQuant global offices. 国际化视野，与WorldQuant 全球各地多个团队共事、交流 Flexibility of self-managed work progress, comfortable working environment, and rich employee activities 灵活自主安排工作进度，舒适的办公环境及丰富的员工活动 WHAT YOU'LL BRING 你需要具备: Pursuing a B.S., M.S. or Ph.D. degree from a leading university in related fields (e.g. Electrical Engineering, Physics, Computer Science, Mathematics, Financial Engineering, Big Data) 正在攻读相关领域的本科、硕士或博士学位（例如电子工程，物理，计算机科学，数学，金融工程, 大数据等） Candidates should be graduating in late 2026 or 2027 候选人需于2026年底或2027年毕业 Demonstrated ability of at least one programming language, e.g. C++, python, etc.; familiar with systems like Linux/Unix 熟练掌握至少一种编程语言，如C++、python等； 熟悉Linux/Unix等操作系统 Good English reading and writing skills 良好的英语读写能力 If any issues encountered accessing the online application webpage or if you have any questions, please mail your latest CV to or contact us at WQChinaIntern@worldquant.com 如无法浏览在线申请网页或您有任何疑问，请将您的简历或问题发送至 WQChinaIntern@worldquant.com The position is based in our research office in Beijing or Shanghai . 预期工作地点为 北京 或 上海 的研究办公室。 By submitting this application, you acknowledge and consent to terms of the WorldQuant Privacy Policy. The privacy policy offers an explanation of how and why your data will be collected, how it will be used and disclosed, how it will be retained and secured, and what legal rights are associated with that data (including the rights of access, correction, and deletion). The policy also describes legal and contractual limitations on these rights. The specific rights and obligations of individuals living and working in different areas may vary by jurisdiction. Copyright © 2025 WorldQuant, LLC. All Rights Reserved. WorldQuant is an equal opportunity employer and does not discriminate in hiring on the basis of race, color, creed, religion, sex, sexual orientation or preference, age, marital status, citizenship, national origin, disability, military status, genetic predisposition or carrier status, or any other protected characteristic as established by applicable law."
+      "Notes": "career_page=https://job-boards.greenhouse.io/worldquant?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4084570006 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform. WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Employees are encouraged to challenge conventional thinking and possess an attitude of continuous improvement. Our goal is to hire the best and the brightest. We value intellectual horsepower first and foremost, and people who demonstrate an outstanding talent. There is no roadmap to future success, so we need people who can help us build it. THE ROLE 岗位职责: WorldQuant is seeking exceptional individuals to join the firm as a Quantitative Research Intern. While prior finance experience is not required, a successful candidate must possess a strong interest in learning about finance and global markets. Have a strong understanding of the investment research process to build computer-based models that seek to predict the movements of the global financial markets. 根据对投资研究流程的深入理解，创建寻求预测全球金融市场走势的基于计算机的模型 Analyze and apply various types of data to the financial markets through rigorous exploration and unconstrained thinking 大胆猜想，严谨探索，不断寻求新方式分析多种类型的数据并将其应用于金融市场 WHAT WE OFFER 你将会获得: Top performers during internship may be eligible for a full-time offer 优秀的实习生可能获得全职offer Competitive internship compensation 有竞争力的实习薪资 Join our established mentoring program and receive one-on-one guidance by an accomplished advisor during the internship 完善的导师培训机制、一对一师从资深从业者 Develop a global vision with opportunities to exchange ideas with various teams in WorldQuant global offices. 国际化视野，与WorldQuant 全球各地多个团队共事、交流 Flexibility of self-managed work progress, comfortable working environment, and rich employee activities 灵活自主安排工作进度，舒适的办公环境及丰富的员工活动 WHAT YOU'LL BRING 你需要具备: Pursuing a B.S., M.S. or Ph.D. degree from a leading university in related fields (e.g. Electrical Engineering, Physics, Computer Science, Mathematics, Financial Engineering, Big Data) 正在攻读相关领域的本科、硕士或博士学位（例如电子工程，物理，计算机科学，数学，金融工程, 大数据等） Candidates should be graduating in late 2027 or 2028 候选人需于2027年底或2028年毕业 Demonstrated ability of at least one programming language, e.g. C++, python, etc.; familiar with systems like Linux/Unix 熟练掌握至少一种编程语言，如C++、python等； 熟悉Linux/Unix等操作系统 Good English reading and writing skills 良好的英语读写能力 If any issues encountered accessing the online application webpage or if you have any questions, please mail your latest CV to or contact us at WQChinaIntern@worldquant.com 如无法浏览在线申请网页或您有任何疑问，请将您的简历或问题发送至 WQChinaIntern@worldquant.com The position is based in our research office in Beijing or Shanghai . 预期工作地点为 北京 或 上海 的研究办公室。 By submitting this application, you acknowledge and consent to terms of the WorldQuant Privacy Policy. The privacy policy offers an explanation of how and why your data will be collected, how it will be used and disclosed, how it will be retained and secured, and what legal rights are associated with that data (including the rights of access, correction, and deletion). The policy also describes legal and contractual limitations on these rights. The specific rights and obligations of individuals living and working in different areas may vary by jurisdiction. Copyright © 2025 WorldQuant, LLC. All Rights Reserved. WorldQuant is an equal opportunity employer and does not discriminate in hiring on the basis of race, color, creed, religion, sex, sexual orientation or preference, age, marital status, citizenship, national origin, disability, military status, genetic predisposition or carrier status, or any other protected characteristic as established by applicable law."
     },
     {
       "Company": "WorldQuant",
@@ -18240,13 +18298,24 @@
     },
     {
       "Company": "Barclays",
+      "Title": "2027 Technology Developer Summer Internship Programme India",
+      "Department": "",
+      "Location": "",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000124913",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Barclays",
       "Title": "2027 Technology Developer Summer Internship Programme Singapore",
       "Department": "",
       "Location": "Singapore, Marina Bay Financial Tower 2",
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Singapore_JR-0000121763",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 29 Days Ago | JR-0000121763",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 30 Days Ago | JR-0000121763",
       "Region": "Asia"
     },
     {
@@ -18317,13 +18386,23 @@
     },
     {
       "Company": "Barclays",
+      "Title": "2027 Technology Developer Summer Internship Programme India",
+      "Department": "",
+      "Location": "",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/ | Posted Today | JR-0000124913"
+    },
+    {
+      "Company": "Barclays",
       "Title": "2027 Technology Developer Summer Internship Programme Singapore",
       "Department": "",
       "Location": "Singapore, Marina Bay Financial Tower 2",
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Singapore_JR-0000121763",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/ | Posted 29 Days Ago | JR-0000121763"
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/ | Posted 30 Days Ago | JR-0000121763"
     },
     {
       "Company": "Barclays",
@@ -18387,13 +18466,23 @@
     },
     {
       "Company": "Barclays",
+      "Title": "2027 Technology Developer Summer Internship Programme India",
+      "Department": "",
+      "Location": "",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays | Posted Today | JR-0000124913"
+    },
+    {
+      "Company": "Barclays",
       "Title": "2027 Technology Developer Summer Internship Programme Singapore",
       "Department": "",
       "Location": "Singapore, Marina Bay Financial Tower 2",
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Singapore_JR-0000121763",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays | Posted 29 Days Ago | JR-0000121763"
+      "Notes": "career_page=https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays | Posted 30 Days Ago | JR-0000121763"
     },
     {
       "Company": "Barclays",
@@ -18456,86 +18545,35 @@
       "Notes": "career_page=https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays | Posted 30+ Days Ago | JR-0000117562"
     },
     {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Global Trading Internship Program",
+      "Company": "Invesco",
+      "Title": "Early Career Intern - Investments (Risk)",
       "Department": "",
-      "Location": "Baltimore, MD",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
-      "Source": "Career page Workday:troweprice/TRowePrice",
+      "Location": "New York, New York",
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
+      "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted Today | 82718",
-      "Region": "Remote / Unspecified"
+      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Today | R-15052",
+      "Region": "North America"
     },
     {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Quantitative Equity Investing Internship Program",
+      "Company": "Invesco",
+      "Title": "Early Career Intern - Investments (Risk)",
       "Department": "",
-      "Location": "Baltimore, MD",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
-      "Source": "Career page Workday:troweprice/TRowePrice",
+      "Location": "New York, New York",
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
+      "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted Today | 82699",
-      "Region": "Remote / Unspecified"
+      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Division-Associate_R-5554 | Posted Today | R-15052"
     },
     {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Global Trading Internship Program",
+      "Company": "Invesco",
+      "Title": "Early Career Intern - Investments (Risk)",
       "Department": "",
-      "Location": "Baltimore, MD",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
-      "Source": "Career page Workday:troweprice/TRowePrice",
+      "Location": "New York, New York",
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
+      "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Associate-Analyst---T-Rowe-Price-Associates_68533 | Posted Today | 82718"
-    },
-    {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Quantitative Equity Investing Internship Program",
-      "Department": "",
-      "Location": "Baltimore, MD",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
-      "Source": "Career page Workday:troweprice/TRowePrice",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Associate-Analyst---T-Rowe-Price-Associates_68533 | Posted Today | 82699"
-    },
-    {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Global Trading Internship Program",
-      "Department": "",
-      "Location": "Baltimore, MD",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
-      "Source": "Career page Workday:troweprice/TRowePrice",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.troweprice.com/en/us/careers | Posted Today | 82718"
-    },
-    {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Quantitative Equity Investing Internship Program",
-      "Department": "",
-      "Location": "Baltimore, MD",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
-      "Source": "Career page Workday:troweprice/TRowePrice",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.troweprice.com/en/us/careers | Posted Today | 82699"
-    },
-    {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Global Trading Internship Program",
-      "Department": "",
-      "Location": "Baltimore, MD",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
-      "Source": "Career page Workday:troweprice/TRowePrice",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.troweprice.com/en/us/careers/career-pathways/internships | Posted Today | 82718"
-    },
-    {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Quantitative Equity Investing Internship Program",
-      "Department": "",
-      "Location": "Baltimore, MD",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
-      "Source": "Career page Workday:troweprice/TRowePrice",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.troweprice.com/en/us/careers/career-pathways/internships | Posted Today | 82699"
+      "Notes": "career_page=https://careers.invesco.com/ | Posted Today | R-15052"
     },
     {
       "Company": "BlackEdge Capital",
@@ -19690,7 +19728,7 @@
       "URL": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
       "Source": "Career page Workday:arrowstreetcapital/Campus_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 26 Days Ago | R1506",
+      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 27 Days Ago | R1506",
       "Region": "North America"
     },
     {
@@ -19701,7 +19739,7 @@
       "URL": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
       "Source": "Career page Workday:arrowstreetcapital/Campus_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 20 Days Ago | R1505",
+      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 21 Days Ago | R1505",
       "Region": "North America"
     },
     {
@@ -19717,13 +19755,24 @@
     },
     {
       "Company": "Barclays",
+      "Title": "2027 Technology Developer Summer Internship Programme India",
+      "Department": "",
+      "Location": "",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000124913",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Barclays",
       "Title": "2027 Technology Developer Summer Internship Programme Singapore",
       "Department": "",
       "Location": "Singapore, Marina Bay Financial Tower 2",
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Singapore_JR-0000121763",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 29 Days Ago | JR-0000121763",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 30 Days Ago | JR-0000121763",
       "Region": "Asia"
     },
     {
@@ -20272,23 +20321,23 @@
       "Company": "DRW",
       "Title": "FPGA Intern",
       "Department": "Campus",
-      "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8070392 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Examp...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DRW",
-      "Title": "FPGA Intern",
-      "Department": "Campus",
       "Location": "Chicago",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8038923 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Exam...",
       "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "FPGA Intern",
+      "Department": "Campus",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8070392 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Examp...",
+      "Region": "Europe"
     },
     {
       "Company": "DRW",
@@ -20315,17 +20364,6 @@
     {
       "Company": "DRW",
       "Title": "Quantitative Research Intern",
-      "Department": "Campus",
-      "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7957756 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse backgrounds, who are passionate about c...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Quantitative Research Intern",
       "Department": "Campus Quantitative Research",
       "Location": "Chicago, New York City",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
@@ -20333,6 +20371,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7818540 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse backgrounds, who are passionate about c...",
       "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Quantitative Research Intern",
+      "Department": "Campus",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7957756 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse backgrounds, who are passionate about c...",
+      "Region": "Europe"
     },
     {
       "Company": "DRW",
@@ -20392,17 +20441,6 @@
     {
       "Company": "DRW",
       "Title": "Software Developer Intern",
-      "Department": "Campus",
-      "Location": "Chicago",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...",
-      "Region": "North America"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Software Developer Intern",
       "Department": "Campus Software Engineering",
       "Location": "London",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
@@ -20410,6 +20448,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7942281 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organised social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietar...",
       "Region": "Europe"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Software Developer Intern",
+      "Department": "Campus",
+      "Location": "Chicago",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...",
+      "Region": "North America"
     },
     {
       "Company": "DRW",
@@ -20709,6 +20758,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4939846101 | internship timing not stated in title; graduation eligibility mentions: 2028 | Our summer internship programme in Amsterdam is your chance to experience life as a trader at IMC. As a Trader Intern, you will delve into the proprietary trading landscape during the first week of engaging and challenging classroom-based learning. You will have the opportunity hone your skills and apply what you’ve learned with a meaningful project and weekly trading challenges. Throughout the summer, you will receive comprehensive support from dedicated internship trainers, and mentors to guide you in your work and professional development. In our collaborative office environment, you will build a valuable network of IMC traders, researchers, analysts, and engineers. You will...",
       "Region": "Europe"
+    },
+    {
+      "Company": "Invesco",
+      "Title": "Early Career Intern - Investments (Risk)",
+      "Department": "",
+      "Location": "New York, New York",
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
+      "Source": "Career page Workday:invesco/IVZ",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Today | R-15052",
+      "Region": "North America"
     },
     {
       "Company": "J.P. Morgan",
@@ -21444,17 +21504,6 @@
     },
     {
       "Company": "Old Mission Capital",
-      "Title": "Compliance and Risk Co-Op",
-      "Department": "Compliance",
-      "Location": "Chicago, IL, United States",
-      "URL": "https://www.oldmissioncapital.com/careers/?gh_jid=7828063003",
-      "Source": "Career page Greenhouse:oldmissioncapital",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.oldmissioncapital.com/careers/ | company_wrapper=https://www.oldmissioncapital.com/careers/job?gh_jid=7828063003 | internship timing not stated in title | Old Mission is a global proprietary trading firm that leverages state-of-the-art technology and research to identify and execute profitable trading strategies across multiple asset classes around the world. Our offices in Chicago, New York, and London are all composed of naturally-curious individuals who thrive in a team environment and constantly strive for improvement. Old Mission does not seek capital from outside investors, allowing us the flexibility to aggressively invest in our team members and keep them engaged in the firm’s growth. About This Role Old Mission, a global trading firm, is looking for a Co-Op student to join our Compliance Team in Chicago, IL (15–25 hours/week, flexible). You'll work as a c...",
-      "Region": "North America"
-    },
-    {
-      "Company": "Old Mission Capital",
       "Title": "Software Engineer – 2027 Internship Program (June Start)",
       "Department": "University",
       "Location": "Chicago, IL, United States",
@@ -21508,8 +21557,8 @@
     {
       "Company": "Optiver",
       "Title": "Quantitative Intern (Summer 2027)",
-      "Location": "Austin, Texas, United States",
-      "URL": "https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002",
+      "Location": "Chicago, Illinois, United States",
+      "URL": "https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002",
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Notes": "internship timing: Summer 2027; graduation eligibility mentions: 2027, 2029; undergrad/BS/MS language found",
@@ -21518,8 +21567,8 @@
     {
       "Company": "Optiver",
       "Title": "Quantitative Intern (Summer 2027)",
-      "Location": "Chicago, Illinois, United States",
-      "URL": "https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002",
+      "Location": "Austin, Texas, United States",
+      "URL": "https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002",
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Notes": "internship timing: Summer 2027; graduation eligibility mentions: 2027, 2029; undergrad/BS/MS language found",
@@ -22101,28 +22150,6 @@
       "Region": "North America"
     },
     {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Global Trading Internship Program",
-      "Department": "",
-      "Location": "Baltimore, MD",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
-      "Source": "Career page Workday:troweprice/TRowePrice",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted Today | 82718",
-      "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Quantitative Equity Investing Internship Program",
-      "Department": "",
-      "Location": "Baltimore, MD",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
-      "Source": "Career page Workday:troweprice/TRowePrice",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted Today | 82699",
-      "Region": "Remote / Unspecified"
-    },
-    {
       "Company": "Tower Research Capital",
       "Title": "Junior Execution Trader Intern",
       "Department": "Risk & Trading Supervision",
@@ -22480,7 +22507,7 @@
       "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4084570006",
       "Source": "Career page Greenhouse:worldquant",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://job-boards.greenhouse.io/worldquant | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4084570006 | internship timing not stated in title; graduation eligibility mentions: 2026, 2027 | WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform. WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Em...",
+      "Notes": "career_page=https://job-boards.greenhouse.io/worldquant | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4084570006 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform. WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Em...",
       "Region": "Asia"
     },
     {
@@ -22693,7 +22720,6 @@
     "Independent Trading Group (ITG)",
     "Integrated Quantitative Investments",
     "Invemo Capital AG",
-    "Invesco",
     "J.E. Moody & Company LLC",
     "JY Quantitative Management",
     "Janus Henderson",
@@ -22808,6 +22834,7 @@
     "Sumo",
     "Systematic Alpha Oy",
     "Systematica Investments",
+    "T. Rowe Price",
     "T3 Trading Group",
     "TCI Fund Management",
     "TGS",
@@ -22899,7 +22926,6 @@
     "Graham Capital Management",
     "Gunvor",
     "Headlands Technologies",
-    "Invesco",
     "Keyrock",
     "Kronos Research",
     "Macquarie",
@@ -22920,6 +22946,8 @@
     "Russell Investments",
     "Shell",
     "Simplex Trading",
+    "T. Rowe Price",
+    "TCI Fund Management",
     "Talos",
     "Teza Technologies",
     "Trafigura",
@@ -23151,7 +23179,6 @@
     "Systematic Alpha Oy",
     "Systematica Investments",
     "T3 Trading Group",
-    "TCI Fund Management",
     "TRV Trading Ltd",
     "TSY Capital",
     "Teesta Investment",

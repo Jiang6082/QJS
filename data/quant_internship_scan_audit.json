@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-06T02:41:07.068Z",
+  "scannedAt": "2026-08-06T15:41:32.552Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -228,14 +228,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 71
+          "count": 70
         },
         {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 71,
+      "jobsSeen": 70,
       "relevantInternships": 2
     },
     {
@@ -351,10 +351,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:axq",
-          "count": 19
+          "count": 20
         }
       ],
-      "jobsSeen": 19,
+      "jobsSeen": 20,
       "relevantInternships": 1
     },
     {
@@ -453,10 +453,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 44
+          "count": 43
         }
       ],
-      "jobsSeen": 44,
+      "jobsSeen": 43,
       "relevantInternships": 0
     },
     {
@@ -464,10 +464,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 44
+          "count": 43
         }
       ],
-      "jobsSeen": 44,
+      "jobsSeen": 43,
       "relevantInternships": 0
     },
     {
@@ -668,10 +668,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 38
+          "count": 41
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 41,
       "relevantInternships": 2
     },
     {
@@ -799,14 +799,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 71
+          "count": 70
         },
         {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 71,
+      "jobsSeen": 70,
       "relevantInternships": 2
     },
     {
@@ -814,10 +814,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 161
+          "count": 164
         }
       ],
-      "jobsSeen": 161,
+      "jobsSeen": 164,
       "relevantInternships": 11
     },
     {
@@ -992,14 +992,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 175
+          "count": 178
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 175,
+      "jobsSeen": 178,
       "relevantInternships": 9
     },
     {
@@ -1123,10 +1123,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 193
+          "count": 194
         }
       ],
-      "jobsSeen": 193,
+      "jobsSeen": 194,
       "relevantInternships": 5
     },
     {
@@ -1378,10 +1378,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:virtu",
-          "count": 48
+          "count": 46
         }
       ],
-      "jobsSeen": 48,
+      "jobsSeen": 46,
       "relevantInternships": 12
     },
     {
@@ -1535,10 +1535,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:worldquant",
-          "count": 102
+          "count": 101
         }
       ],
-      "jobsSeen": 102,
+      "jobsSeen": 101,
       "relevantInternships": 7
     },
     {

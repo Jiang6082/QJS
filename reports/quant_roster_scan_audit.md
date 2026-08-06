@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-08-06T02:41:12.076Z
+Scan started: 2026-08-06T15:41:47.671Z
 Source roster entries: 303
 Canonical companies after aliases: 302
 
@@ -55,7 +55,7 @@ Canonical companies after aliases: 302
 | Maverick Derivatives | 1/1 pages live | [link](https://job-boards.greenhouse.io/maverickderivatives?error=true) |
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
 
-## Confirmed Openings, No Matching Role (48)
+## Confirmed Openings, No Matching Role (49)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -88,7 +88,7 @@ Canonical companies after aliases: 302
 | Mako Trading | 2/2 pages live | [link](https://www.mako.com/opportunities) [link](https://www.mako.com/early-careers) |
 | Marshall Wace | 3/3 pages live | [link](https://job-boards.greenhouse.io/mw-tech-grad) [link](https://www.mwam.com/join-us/) [link](https://us.mwam.com/join-us/) |
 | Peak6 | 1/1 pages live | [link](https://peak6group.wd1.myworkdayjobs.com/PEAK6) |
-| Quadrature | 1/1 pages live | [link](https://job-boards.greenhouse.io/quadraturecapital?error=true) |
+| Quadrature | 0/1 pages live | [link](https://job-boards.greenhouse.io/quadraturecapital?error=true) |
 | Qube Research & Technologies | 0/1 pages live | [link](https://www.qube-rt.com/careers/) |
 | Simplex Trading | 2/2 pages live | [link](https://simplextrading.com/careers/) [link](https://job-boards.greenhouse.io/simplextrading) |
 | Man Group | 3/3 pages live | [link](https://mangroupplc.wd3.myworkdayjobs.com/Man_Group_Careers) [link](https://job-boards.eu.greenhouse.io/mangroup) [link](https://www.man.com/careers) |
@@ -99,6 +99,7 @@ Canonical companies after aliases: 302
 | Viking Global Investors | 1/1 pages live | [link](https://job-boards.greenhouse.io/vikingglobalinvestors?error=true) |
 | Waterfront International Ltd | 1/1 pages live | [link](https://job-boards.greenhouse.io/wil) |
 | Winton Capital | 2/2 pages live | [link](https://www.winton.com/opportunities) [link](https://job-boards.eu.greenhouse.io/winton) |
+| TCI Fund Management | 2/3 pages live | [link](https://boards.greenhouse.io/twosixtechnologies/jobs/4465276004) [link](https://boards.greenhouse.io/tekion/jobs/6263631003) [link](https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007) |
 | Trafigura | 1/1 pages live | [link](https://www.trafigura.com/careers/) |
 | Vatic Labs | 1/1 pages live | [link](https://job-boards.greenhouse.io/vaticlabs/jobs/3137555) |
 | Whistler Trading | 1/1 pages live | [link](https://job-boards.greenhouse.io/whistlertrading) |
@@ -108,7 +109,7 @@ Canonical companies after aliases: 302
 | Voleon Group | 3/4 pages live | [link](https://jobs.ashbyhq.com/voleon) [link](https://jobs.lever.co/voleon/) [link](https://www.voleon.com/careers/) [link](https://www.voleon.com/jobs/) |
 | Xantium | 1/1 pages live | [link](https://job-boards.greenhouse.io/xantium?gh_src=Trackr) |
 
-## Could Not Fully Verify (213)
+## Could Not Fully Verify (212)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -302,7 +303,6 @@ Canonical companies after aliases: 302
 | XR Trading | 1/1 pages live | [link](https://recruiting.paylocity.com/Recruiting/jobs/Apply/2303630) |
 | Z.R.T.X. | 2/2 pages live | [link](https://zrtx.eu/jobs) [link](https://zrtx.eu/career) |
 | Stronghold Capital Management | 1/1 pages live | [link](https://www.stronghold.capital/) |
-| TCI Fund Management | no saved page attempted | none |
 | Teesta Investment | 1/1 pages live | [link](https://teesta.co/join-us) |
 | Tidal Energy Marketing | 1/1 pages live | [link](https://www.tidal-energy.com/careers) |
 | UTR8 Group | 1/1 pages live | [link](https://utr8-group.com/careers/) |

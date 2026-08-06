@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-06T02:44:46.442Z",
-  "scanStartedAt": "2026-08-06T02:41:12.076Z",
+  "generatedAt": "2026-08-06T15:45:43.248Z",
+  "scanStartedAt": "2026-08-06T15:41:47.671Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
     "matching-role-found": 38,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 48,
-    "could-not-fully-verify": 213
+    "confirmed-openings-no-matching-role": 49,
+    "could-not-fully-verify": 212
   },
   "companies": [
     {
@@ -538,7 +538,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 19,
+      "jobsSeen": 20,
       "relevantInternships": 1
     },
     {
@@ -761,7 +761,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 179,
+      "jobsSeen": 178,
       "relevantInternships": 17
     },
     {
@@ -944,7 +944,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantInternships": 0
     },
     {
@@ -970,7 +970,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 27,
+      "jobsSeen": 28,
       "relevantInternships": 0
     },
     {
@@ -1238,7 +1238,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 74,
+      "jobsSeen": 73,
       "relevantInternships": 2
     },
     {
@@ -1428,7 +1428,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 38,
+      "jobsSeen": 41,
       "relevantInternships": 2
     },
     {
@@ -1724,7 +1724,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantInternships": 0
     },
     {
@@ -2070,7 +2070,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 32,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -2100,7 +2100,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 161,
+      "jobsSeen": 164,
       "relevantInternships": 11
     },
     {
@@ -2672,7 +2672,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/quadraturecapital?error=true"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 4,
       "relevantInternships": 0
@@ -3231,7 +3231,7 @@
       "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 34,
-      "relevantInternships": 2
+      "relevantInternships": 1
     },
     {
       "company": "Optiver",
@@ -3626,11 +3626,15 @@
       "sourceRosterNames": [
         "TCI Fund Management"
       ],
-      "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
-      "jobsSeen": 0,
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://boards.greenhouse.io/twosixtechnologies/jobs/4465276004",
+        "https://boards.greenhouse.io/tekion/jobs/6263631003",
+        "https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007"
+      ],
+      "livePages": 2,
+      "attemptedPages": 3,
+      "jobsSeen": 56,
       "relevantInternships": 0
     },
     {
@@ -3910,7 +3914,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 48,
+      "jobsSeen": 46,
       "relevantInternships": 12
     },
     {
@@ -4199,7 +4203,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 102,
+      "jobsSeen": 101,
       "relevantInternships": 6
     },
     {

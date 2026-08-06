@@ -1,27 +1,24 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-08-06T02:41:12.076Z
+Last updated: 2026-08-06T15:41:47.671Z
 
 ## Summary
 
 - Companies searched: 367
-- Career pages checked: 493
-- Current retained roles: 290
-- New stable job URLs since previous scan: 6
-- No longer present since previous scan: 1
+- Career pages checked: 496
+- Current retained roles: 289
+- New stable job URLs since previous scan: 2
+- No longer present since previous scan: 3
 - Matching-role firms: 38
 - Confirmed no open postings: 3
-- Openings but no matching role: 48
-- Could not fully verify: 213
+- Openings but no matching role: 49
+- Could not fully verify: 212
 
 ## New Roles Since Previous Scan
 
-### North America (4)
+### North America (1)
 
-- **Maven Securities** - [Trader Summer Internship Chicago 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) - Chicago
-- **Old Mission Capital** - [Compliance and Risk Co-Op](https://www.oldmissioncapital.com/careers/?gh_jid=7828063003) - Chicago, IL, United States
-- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) - Austin, Texas, United States
-- **Susquehanna International Group** - [Derivatives Sales Trader Intern: Summer 2027](https://careers.sig.com/jobs/10626?lang=en-us) - New York, New York
+- **Invesco** - [Early Career Intern - Investments (Risk)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1) - New York, New York
 
 ### Europe (0)
 
@@ -51,14 +48,15 @@ _None._
 
 _None._
 
-### Remote / Unspecified (2)
+### Remote / Unspecified (1)
 
-- **T. Rowe Price** - [2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) - Baltimore, MD
-- **T. Rowe Price** - [2027 Quantitative Equity Investing Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) - Baltimore, MD
+- **Barclays** - [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913) - Location not listed
 
 ## No Longer Present
 
-- **Barclays** - [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913) - Location not listed
+- **Old Mission Capital** - [Compliance and Risk Co-Op](https://www.oldmissioncapital.com/careers/?gh_jid=7828063003) - Chicago, IL, United States
+- **T. Rowe Price** - [2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) - Baltimore, MD
+- **T. Rowe Price** - [2027 Quantitative Equity Investing Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) - Baltimore, MD
 
 ## Full Reports
 
