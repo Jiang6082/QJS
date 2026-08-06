@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-08-05T13:26:02.975Z
+Scan started: 2026-08-06T02:41:12.076Z
 Source roster entries: 303
 Canonical companies after aliases: 302
 
@@ -55,7 +55,7 @@ Canonical companies after aliases: 302
 | Maverick Derivatives | 1/1 pages live | [link](https://job-boards.greenhouse.io/maverickderivatives?error=true) |
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
 
-## Confirmed Openings, No Matching Role (47)
+## Confirmed Openings, No Matching Role (48)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -80,6 +80,7 @@ Canonical companies after aliases: 302
 | Gelber Group | 2/2 pages live | [link](https://www.gelbergroup.com/careers/) [link](https://job-boards.greenhouse.io/gelbergroup) |
 | Headlands Technologies | 1/1 pages live | [link](https://www.headlandstech.com/careers/) |
 | Keyrock | 2/2 pages live | [link](https://keyrock.com/careers/) [link](https://jobs.ashbyhq.com/keyrock) |
+| Epoch Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/epochcapital) |
 | Evergreen Statistical Trading | 1/1 pages live | [link](https://job-boards.greenhouse.io/evergreenstatisticaltrading/jobs/4136768009) |
 | Gunvor | 3/3 pages live | [link](https://gunvorgroup.com/careers/) [link](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers) [link](https://gunvorgroup.com/careers/talent/) |
 | Kronos Research | 1/1 pages live | [link](https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us) |
@@ -91,7 +92,7 @@ Canonical companies after aliases: 302
 | Qube Research & Technologies | 0/1 pages live | [link](https://www.qube-rt.com/careers/) |
 | Simplex Trading | 2/2 pages live | [link](https://simplextrading.com/careers/) [link](https://job-boards.greenhouse.io/simplextrading) |
 | Man Group | 3/3 pages live | [link](https://mangroupplc.wd3.myworkdayjobs.com/Man_Group_Careers) [link](https://job-boards.eu.greenhouse.io/mangroup) [link](https://www.man.com/careers) |
-| Midpoint Markets | 0/1 pages live | [link](https://job-boards.greenhouse.io/midpointmarkets/jobs/4408679008) |
+| Midpoint Markets | 1/1 pages live | [link](https://job-boards.greenhouse.io/midpointmarkets/jobs/4408679008) |
 | Quadrature Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/quadraturecapital?error=true) |
 | Quantlane | 1/1 pages live | [link](https://jobs.lever.co/quantlane) |
 | Valkyrie Trading | 0/1 pages live | [link](https://www.valkyrietrading.com/careers/) |
@@ -107,7 +108,7 @@ Canonical companies after aliases: 302
 | Voleon Group | 3/4 pages live | [link](https://jobs.ashbyhq.com/voleon) [link](https://jobs.lever.co/voleon/) [link](https://www.voleon.com/careers/) [link](https://www.voleon.com/jobs/) |
 | Xantium | 1/1 pages live | [link](https://job-boards.greenhouse.io/xantium?gh_src=Trackr) |
 
-## Could Not Fully Verify (214)
+## Could Not Fully Verify (213)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -179,7 +180,7 @@ Canonical companies after aliases: 302
 | Deep Blue Capital | 0/1 pages live | [link](https://deepbluecap.com/vacancies/) |
 | Dexterity Capital | no saved page attempted | none |
 | Domstad Traders | no saved page attempted | none |
-| Enigma Quant Capital | 0/1 pages live | [link](https://www.enigmaquant.com/#careers) |
+| Enigma Quant Capital | 1/1 pages live | [link](https://www.enigmaquant.com/#careers) |
 | Ethflow | no saved page attempted | none |
 | Farrer Capital Management | 1/1 pages live | [link](https://www.farrercapital.com/careers) |
 | G-Research | 1/1 pages live | [link](https://www.gresearch.com/careers/) |
@@ -211,7 +212,6 @@ Canonical companies after aliases: 302
 | Dolat Capital | 1/1 pages live | [link](https://dolatcapital.com/careers/) |
 | ETS Asset Management Factory | no saved page attempted | none |
 | Elliott Management | 1/1 pages live | [link](https://ellimgmt.com/careers/) |
-| Epoch Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/epochcapital) |
 | Final | no saved page attempted | none |
 | Freepoint Commodities | 1/1 pages live | [link](https://www.freepoint.com/life-at-freepoint/) |
 | GRW Partners | no saved page attempted | none |

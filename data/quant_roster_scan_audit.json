@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-05T13:29:50.149Z",
-  "scanStartedAt": "2026-08-05T13:26:02.975Z",
+  "generatedAt": "2026-08-06T02:44:46.442Z",
+  "scanStartedAt": "2026-08-06T02:41:12.076Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
     "matching-role-found": 38,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 47,
-    "could-not-fully-verify": 214
+    "confirmed-openings-no-matching-role": 48,
+    "could-not-fully-verify": 213
   },
   "companies": [
     {
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 48,
+      "jobsSeen": 46,
       "relevantInternships": 7
     },
     {
@@ -761,7 +761,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 178,
+      "jobsSeen": 179,
       "relevantInternships": 17
     },
     {
@@ -970,7 +970,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 26,
+      "jobsSeen": 27,
       "relevantInternships": 0
     },
     {
@@ -996,7 +996,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 233,
+      "jobsSeen": 231,
       "relevantInternships": 8
     },
     {
@@ -1238,7 +1238,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 75,
+      "jobsSeen": 74,
       "relevantInternships": 2
     },
     {
@@ -1386,7 +1386,7 @@
       "careerPages": [
         "https://www.enigmaquant.com/#careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1952,13 +1952,13 @@
       "sourceRosterNames": [
         "Epoch Capital"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://job-boards.greenhouse.io/epochcapital"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 1,
       "relevantInternships": 0
     },
     {
@@ -2070,7 +2070,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 30,
+      "jobsSeen": 32,
       "relevantInternships": 0
     },
     {
@@ -2100,7 +2100,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 159,
+      "jobsSeen": 161,
       "relevantInternships": 11
     },
     {
@@ -2220,8 +2220,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 38,
-      "relevantInternships": 1
+      "jobsSeen": 39,
+      "relevantInternships": 2
     },
     {
       "company": "Mercuria Energy Group",
@@ -2842,7 +2842,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/midpointmarkets/jobs/4408679008"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 3,
       "relevantInternships": 0
@@ -3231,7 +3231,7 @@
       "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 34,
-      "relevantInternships": 1
+      "relevantInternships": 2
     },
     {
       "company": "Optiver",
@@ -3731,7 +3731,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantInternships": 1
     },
     {
@@ -3926,7 +3926,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 31,
+      "jobsSeen": 32,
       "relevantInternships": 0
     },
     {
@@ -4199,7 +4199,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 101,
+      "jobsSeen": 102,
       "relevantInternships": 6
     },
     {

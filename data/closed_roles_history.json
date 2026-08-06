@@ -270,7 +270,8 @@
     "Status": "",
     "lastSeenOpenAt": "2026-07-25T18:16:34.334Z",
     "detectedClosedAt": "2026-07-26T15:38:23.331Z",
-    "backfilled": true
+    "backfilled": true,
+    "reopenedAt": "2026-08-06T02:41:12.076Z"
   },
   {
     "Company": "T. Rowe Price",
@@ -282,7 +283,8 @@
     "Status": "",
     "lastSeenOpenAt": "2026-07-25T18:16:34.334Z",
     "detectedClosedAt": "2026-07-26T15:38:23.331Z",
-    "backfilled": true
+    "backfilled": true,
+    "reopenedAt": "2026-08-06T02:41:12.076Z"
   },
   {
     "Company": "T. Rowe Price",

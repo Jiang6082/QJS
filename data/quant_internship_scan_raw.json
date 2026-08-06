@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-05T13:25:46.653Z",
+  "scannedAt": "2026-08-06T02:41:07.068Z",
   "results": [
     {
       "company": "Jane Street",
@@ -30,11 +30,11 @@
       "boards": [
         {
           "source": "Greenhouse:point72",
-          "count": 233
+          "count": 231
         },
         {
           "source": "Ashby:cubist",
-          "count": 1
+          "count": 0
         },
         {
           "source": "Ashby:point",
@@ -112,7 +112,7 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 72
+          "count": 71
         },
         {
           "source": "Ashby:hrt",
@@ -451,7 +451,7 @@
       "boards": [
         {
           "source": "Lever:capital",
-          "count": 42
+          "count": 44
         }
       ],
       "matches": []
@@ -461,7 +461,7 @@
       "boards": [
         {
           "source": "Lever:capital",
-          "count": 42
+          "count": 44
         }
       ],
       "matches": []
@@ -821,7 +821,7 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 72
+          "count": 71
         },
         {
           "source": "Ashby:hrt",
@@ -854,7 +854,7 @@
       "boards": [
         {
           "source": "Greenhouse:imc",
-          "count": 159
+          "count": 161
         }
       ],
       "matches": [
@@ -979,7 +979,7 @@
       "boards": [
         {
           "source": "Greenhouse:jumptrading",
-          "count": 106
+          "count": 105
         },
         {
           "source": "Ashby:jump",
@@ -1138,7 +1138,7 @@
           "department": "Front Office ",
           "location": "Chicago; New York",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
-          "content": "Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. Our trading teams are each comprised of a dynamic group of traders, quantitative researchers, and engineers who work together to examine the global markets, seeking to understand the complexities of various traded products and exchanges. They leverage their impeccable statistical analysis and data mining skills, using the results of their research to make forecasts and develop profitable predictive trading models. About the Role: The quant trading internship is an intensive 10-week program focused on enhancing your trading aptitude and understanding of financial markets, as well as helping you experience what it’s like to be a full-time quant trader at Jump. At Jump, our people contribute to trading teams in the following roles, or a blend of all three: quant trader, quant researcher, and quant developer. During our internship you will get training in all of these areas, with a focus in trading and financial markets. Topics include trading strategies and intuition, market mechanics, statistics, and our research process for signal generation. You will have the opportunity to work with our trading teams on meaningful projects with real impact while receiving daily 1:1 mentorship from experienced quant traders, researchers, and developers. You will also participate in mock trading sessions, poker training, and other modules designed to improve probabilistic thinking, risk-taking, and trader mindset. Other duties as assigned or needed. Who Should Apply? We are seeking the sharpest analytical minds from top undergraduate and graduate programs.&nbsp; Ideal candidates will have: Outstanding skills in probabilistic thinking and mathematical reasoning Competitive spirit and uncommon drive to learn and improve Programming experience Appetite for risk-taking Demonstrated interest in financial markets Reliable and predictable availability required. INTERNATIONAL STUDENTS are encouraged to apply."
+          "content": "Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. Our trading teams are each comprised of a dynamic group of traders, quantitative researchers, and engineers who work together to examine the global markets, seeking to understand the complexities of various traded products and exchanges. They leverage their impeccable statistical analysis and data mining skills, using the results of their research to make forecasts and develop profitable predictive trading models. About the Role: The quant trading internship is an intensive 10-week program focused on enhancing your trading aptitude and understanding of financial markets, as well as helping you experience what it’s like to be a full-time quant trader at Jump. At Jump, our people contribute to trading teams in the following roles, or a blend of all three: quant trader, quant researcher, and quant developer. During our internship you will get training in all of these areas, with a focus in trading and financial markets. Topics include trading strategies and intuition, market mechanics, statistics, and our research process for signal generation. You will have the opportunity to work with our trading teams on meaningful projects with real impact while receiving daily 1:1 mentorship from experienced quant traders, researchers, and developers. You will also participate in mock trading sessions, poker training, and other modules designed to improve probabilistic thinking, risk-taking, and trader mindset. Other duties as assigned or needed. Who Should Apply? We are seeking the sharpest analytical minds from top undergraduate and graduate programs.&nbsp; Ideal candidates will have: Outstanding skills in probabilistic thinking and mathematical reasoning Competitive spirit and uncommon drive to learn and improve Programming experience Appetite for risk-taking Demonstrated interest in financial markets Reliable and predictable availability required. INTERNATIONAL STUDENTS are encouraged to apply. The estimated base salary for this role is $300,000 per year."
         },
         {
           "company": "Jump Trading",
@@ -1303,7 +1303,7 @@
       "boards": [
         {
           "source": "Greenhouse:mavensecuritiesholdingltd",
-          "count": 38
+          "count": 39
         },
         {
           "source": "Ashby:maven",
@@ -1319,6 +1319,15 @@
           "location": "London",
           "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552",
           "content": "Maven Securities is a leading proprietary trading firm that leverages sophisticated technology and quantitative analysis to trade in global financial markets. We specialise in options and derivatives market making, where your skills can be directly applied to have a real impact. &nbsp; THE ROLE As a Quantitative Trader Intern, you’ll engage in an intensive 6-month training programme focused on options market making. You’ll collaborate closely with traders and researchers to solve meaningful research challenges and develop your expertise in quantitative methods across our market-making desks. Upon successfully completing the internship, you will be eligible for consideration for a full time position. As a Quant Trader Intern, your responsibilities will include: Solving quantitative research problems such as volatility modelling, alpha generation and validation Creating visualisation tools using Python or AI-assisted code Completing a structured research project under the mentorship of traders and quants Shadowing our Options Market Making desks &nbsp; WHAT ARE WE LOOKING FOR Background in Applied Mathematics, Financial Engineering, Physics, or a similar quantitative discipline Proficient in programming with at least one language (preferably Python however C++ or C# is advantageous too) Quick and creative problem-solver, able to tackle new or unfamiliar challenges independently Strong communicator with the ability to present research findings clearly and effectively Self-starter with a keen interest in refining current trading strategies and uncovering new opportunities Familiarity with financial markets is a plus, though not essential Professional-level fluency in English &nbsp; WHAT WE CAN OFFER YOU: A fast-growing global firm with plenty of opportunities to have a significant impact Flat hierarchal environment and informal dress code Competitive compensation package On-site private gym with instructor-led classes including boxing, yoga, and more Monthly company events and social activities Flexible start date: January 2027 or July 2027 &nbsp; PLEASE NOTE We only accept one application per candidate per recruitment cycle Visa sponsorship is available for this role and will be discussed with eligible candidates at later stages of the process For more information on our assessment process and commonly asked questions, please visit the Emerging Talent page on Maven’s website"
+        },
+        {
+          "company": "Maven Securities",
+          "source": "Greenhouse:mavensecuritiesholdingltd",
+          "title": "Trader Summer Internship Chicago 2027",
+          "department": "Emerging Talent",
+          "location": "Chicago",
+          "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
+          "content": "Summer Trader Internship Chicago 2027 Maven Securities is a leading proprietary trading firm that leverages sophisticated technology and quantitative analysis to trade in global financial markets. We specialize in options and derivatives market making, where your skills can be directly applied to have a real impact. At Maven, we believe exceptional careers are built deliberately. Our summer internship is designed for a small number of high-potential students each year, combining structured training and practical exposure. We don’t hire large classes with the expectation that only a few will succeed, we invest in every individual who joins the program.&nbsp; Program details Location: Chicago&nbsp; Program start date: June 2027 Total compensation: $110k - $120k&nbsp; Join a structured 9-week training internship in our Chicago office, designed to give you a practical introduction to options market making. The program starts with options theory and progresses into trading simulation and mock trading, helping you build the core foundations of a Trader. You’ll also gain exposure to different desks through shadowing and project work.&nbsp; Throughout the internship, you’ll be assessed on your performance and development. Successful interns may be considered for a place on our Graduate Trader Program the following year.&nbsp; What you will be doing Learn the foundations of options market making Build your understanding of pricing, probability and risk Apply your learning through trading simulation, mock trading and classroom-based training sessions Gain exposure to the tools, systems and desk environments used by our Traders How and what you will learn Progress through a structured internship program with clear learning milestones.&nbsp; Build your foundation through theory-led training, including options theory, delivered by Maven’s in-house trainers Develop practical trading skills through simulation and mock trading sessions, building your understanding of screen and broker trading Take part in additional sessions such as macroeconomics, technical training and desk shadowing to further develop your learning Receive ongoing feedback and check-ins from the Trading and Emerging Talent teams Who you are: Key criteria A penultimate year undergraduate or master’s student&nbsp; Strong numeracy skills and a solid understanding of probability and statistics A genuine interest in financial markets and a curiosity to learn A willingness to adopt and utilise emerging AI technologies We’re looking for someone who is An entrepreneurial thinker with the ability to generate ideas, take initiative and drive innovation A critical problem solver and decision maker who can analyze situations, think clearly and make effective decisions An agile learner who is able to quickly acquire knowledge, take on feedback, adapt and apply insights across different contexts Able to synthesize information , resolve conflicting inputs, see the bigger picture, and translate complex information into actionable recommendations Collaborative and influential , able to build trust, work effectively with others and positively impact the team Results-focused and accountable , taking ownership and delivering outcomes reliably Why Maven? Dedicated In-House Trainers : Learn through a training program designed and delivered by Maven’s Traders, built specifically for the Summer Trader Internship. Our tailored curriculums are led by in-house experts and clever both technical and professional skills, as well as guidance on how to adopt AI best practices, which are integral to Maven’s strategy and daily operations Accelerate Your Career : Over 9 weeks, you’ll build your understanding of options market making through focused training, simulation, desk shadowing and project work. Jump-start your Maven career by being considered for a full-time Graduate Trader role&nbsp; Proven Pathways : Benefit from our structured pipeline programs that set you up for success from day one. Around a quarter of our workforce joined Maven through an Emerging Talent Program, including more than 50 of our current Traders Supported to Succeed : We are committed to fostering an inclusive workplace where everyone can perform at your best. We offer recruitment support where needed, and employee resource groups that help build community across the firm Grow with Guidance :Enjoy regular feedback, structured review points, and informal off-desk chats. Everyone in our Emerging Talent Programs is also paired with a Maven buddy for practical advice and day-to-day support Make a Real Impact, Fast : From the start of the internship, you’ll be immersed in a simulated trading environment and learn directly from Traders. Throughout, you’ll gain practical insight into how our desks operate and have the opportunity to demonstrate your potential for the Graduate Trader Program Please note: We accept one application per candidate, per recruitment cycle Visa sponsorship is available for selected roles, please see our FAQ page for details Maven is an equal opportunity employer. We encourage applications from candidates of all backgrounds, and do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status, or any other basis protected by applicable law. Benefits at Maven As an intern joining Maven, you’ll be eligible for a range of benefits, including: Daily breakfast items in the office and a lunch allowance during the program, plus snacks and drinks throughout the day Frequent cohort-specific and office-wide social events, from welcome dinners and summer parties to company sports leagues and boat tours! Wellbeing support, including access to our Employee Assistance Program Wellness benefits, including free use of the building gym and access to ClassPass Work in a forward-thinking environment where AI is integral to our strategy and daily operations&nbsp;&nbsp;"
         }
       ]
     },
@@ -1400,6 +1409,15 @@
           "location": "Chicago, Illinois, United States",
           "url": "https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002",
           "content": "As an FPGA Engineer Intern, you’ll work side-by-side with your mentor and teammates to build real-world applications that power a global trading firm. Your projects will be scoped based on your team’s real needs — not hypothetical tasks — and your mentor will be fully invested in helping you build high-quality solutions designed to last. You’ll contribute to meaningful projects focusing on nanosecond response times, highly parallelized algorithms, and customized low-level networking. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. This opportunity is also available in our Austin office —&nbsp; learn more and apply. What you’ll do: Our internship is designed for fast thinkers with a critical mindset and a drive to solve tough problems. You’ll experience what it’s like to be a full-time engineer at a leading trading firm – working on projects that blend cutting-edge FPGA technology with real-world trading strategies, directly contributing to the efficiency and performance of our trading systems. Mentored by Optiver engineers, our program gives you the opportunity to: Accelerate network infrastructure and trading system components with high-speed hardware designs. Research new low-latency techniques and platforms and identify opportunities for integration with our trading system. Collaborate in a multidisciplinary team of traders, software developers, and infrastructure engineers. Leverage the best hardware available or build in-house versions to ensure our FPGAs can interface with cutting-edge server hardware.&nbsp; What you’ll get: You’ll join a culture of collaboration and excellence, surrounded by curious thinkers and creative problem-solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, collectively tackling some of the toughest challenges in the financial markets. In addition, you’ll receive: The opportunity to work alongside best-in-class professionals from over 40 different countries A highly-competitive internship compensation package Optiver-covered flights, living accommodations, and commuting stipends Extensive office perks, including breakfast, lunch and snacks, regular social events, clubs, sporting leagues and more Who you are: A student pursuing a bachelor’s, master’s, or PhD in Computer Engineering, Electrical Engineering, or another related field On track to graduate between December 2027 to June 2028, with junior standing or higher A student with strong engineering instincts and hands-on experience in digital design with FPGAs or ASICs Experienced in writing hardware in VHDL, Verilog, or System Verilog Passionate for writing clean code, well-architected systems, and continuous improvement A collaborative teammate comfortable working with developers, traders and business teams Who we are: Optiver is a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians, and traders work side by side to develop, test, and scale ideas that shape how we understand and trade global markets. Powered by a global platform built for rapid experimentation and iteration, we combine the scientific rigor of a research institution with the pace of a technology company.&nbsp; Our differences are our edge. Optiver does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, or other legally protected characteristics. Optiver is supportive of US immigration sponsorship for this role. Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed any portion of an online assessment or interviewed for an FPGA Engineer graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply to after the 8-month cool off period. &nbsp; Below is the expected compensation for this position. This is a good-faith estimate of the base pay scale and sign-on bonus for this position and offers will ultimately be determined based on experience, education, skill set, and performance in the interview process. This position will also be eligible for the benefits listed above. Base Salary Range $80,000 &mdash; $80,000 USD"
+        },
+        {
+          "company": "Optiver",
+          "source": "Greenhouse:optiverus",
+          "title": "Quantitative Intern (Summer 2027)",
+          "department": "Quantitative Traders",
+          "location": "Austin, Texas, United States",
+          "url": "https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002",
+          "content": "As a Quantitative Intern at Optiver, you'll work alongside traders, researchers, and engineers to solve complex problems in global financial markets. You'll learn how quantitative research, data, technology, and AI-enabled tools come together to identify opportunities, test ideas, and drive decision-making in rapidly evolving markets. Through &nbsp;hands-on project work, mentorship, and training led by Optiver's dedicated Education team,&nbsp;you'll&nbsp;build the foundation needed to make an impact. &nbsp; As part of the interview process,&nbsp; we'll &nbsp;assess your strengths, interests, and skills to&nbsp; determine &nbsp;the best fit, and you may be&nbsp; considered for &nbsp;either a Quant Trading or Quant Research internship offer. &nbsp; What You'll Do:&nbsp; &nbsp; Our internship is designed for curious problem-solvers who enjoy&nbsp;continuously&nbsp;learning. Through a combination of structured education, market simulations, and exposure to modern research and AI tools,&nbsp;you'll&nbsp;develop the skills needed to apply quantitative thinking to real-world challenges. &nbsp; You'll&nbsp;have the opportunity to: &nbsp; D evelop a deeper understanding of financial markets, quantitative trading, and the research and technology that power them. &nbsp; Analyze complex datasets, investigate market behavior, and uncover insights that inform decision-making. &nbsp; Apply your quantitative and programming skills to solve&nbsp;real&nbsp;trading challenges and build impactful tools. &nbsp; Strengthen your decision-making skills through live market simulations and hands-on experience. &nbsp; Explore how AI tools can accelerate research, experimentation, and quantitative decision-making &nbsp; Learn directly from experienced traders and researchers in a collaborative, high-performance environment. &nbsp; What You'll Get: &nbsp; You'll&nbsp;join a culture of collaboration and excellence, surrounded by curious thinkers and creative problem-solvers. Motivated by a passion for continuous improvement,&nbsp;you'll&nbsp;thrive in a supportive, high-performing environment alongside talented colleagues, collectively tackling some of the toughest challenges in the financial markets. &nbsp; In addition,&nbsp;you'll&nbsp;receive: &nbsp; The opportunity to work alongside best-in-class professionals from over 40 different countries. &nbsp; The opportunity to earn a return internship or full-time offer in Chicago, Austin, New York City, or Amsterdam based on performance. &nbsp; A highly competitive internship compensation package. &nbsp; Optiver-covered flights, living accommodations, and commuting stipends. &nbsp; Extensive office&nbsp;perks, including breakfast, lunch,&nbsp;snacks, regular social events, clubs, sporting leagues, and more. &nbsp; Who You Are: &nbsp; Currently pursuing a&nbsp;Bachelor's or&nbsp;Master's&nbsp;degree in&nbsp;a STEM&nbsp;field. &nbsp; Expected graduation between December 2027 and June 2029,&nbsp; with sophomore standing or higher.&nbsp; &nbsp; Available to intern during Summer 2027. &nbsp; Open to full-time opportunities upon graduation. &nbsp; Strong quantitative, analytical, and logical reasoning skills. &nbsp; Solid foundation in mathematics, probability, and statistics. &nbsp; Experience with programming or scripting in Python or another language. &nbsp; Strong interest in financial markets, quantitative research, and decision-making. &nbsp; Excited to work in a fast-paced, collaborative environment. &nbsp; Fluent in English with strong written and verbal communication skills. &nbsp; Who We Are: Optiver is a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians, and traders work side by side to develop, test, and scale ideas that shape how we understand and trade global markets. Powered by a global platform built for rapid experimentation and iteration, we combine the scientific rigor of a research institution with the pace of a technology company. &nbsp; Our differences are our edge. Optiver does not discriminate&nbsp;on the basis of&nbsp;race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, or other legally protected characteristics. &nbsp; Optiver is supportive of US immigration sponsorship for this role. &nbsp; &nbsp; Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed an online assessment or interviewed for a quantitative graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply to after the 8-month cool off period."
         },
         {
           "company": "Optiver",
@@ -1707,7 +1725,7 @@
       "boards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 89
+          "count": 87
         }
       ],
       "matches": [
@@ -1775,11 +1793,11 @@
       "boards": [
         {
           "source": "Greenhouse:sunrise",
-          "count": 17
+          "count": 18
         },
         {
           "source": "Ashby:sunrise",
-          "count": 14
+          "count": 13
         },
         {
           "source": "Trakstar:sunrisefutures",
@@ -2134,7 +2152,7 @@
       "boards": [
         {
           "source": "Greenhouse:weissassetmanagement",
-          "count": 1
+          "count": 2
         }
       ],
       "matches": []
@@ -2239,7 +2257,7 @@
       "boards": [
         {
           "source": "Greenhouse:worldquant",
-          "count": 101
+          "count": 102
         }
       ],
       "matches": [
