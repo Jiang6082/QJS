@@ -1,8 +1,8 @@
 # Quant Internship Open Roles Scan
 
-Scanned: 2026-08-07T21:30:08.643Z
+Scanned: 2026-08-07T23:51:45.481Z
 Companies deduplicated: 174
-Open relevant roles found: 153
+Open relevant roles found: 157
 
 Criteria used: open ATS posting, internship/co-op wording, quant/trading/software/developer/research/engineering/strategy domain, excluding obvious new-grad/full-time/PhD-only roles. Graduation years are eligibility metadata, not internship timing.
 
@@ -131,6 +131,10 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Squarepoint Capital** — [Intern Software Developer - Singapore - 2027](https://www.squarepoint-capital.com/open-opportunities?id=6201998&gh_jid=6201998) — Singapore  (Greenhouse:squarepointcapital; internship timing not stated in title; undergrad/BS/MS language found)
 - **Stevens Capital Management** — [Developer Internship](https://job-boards.greenhouse.io/scm/jobs/721888) — Radnor, PA (Greenhouse:scm; internship timing not stated in title; undergrad/BS/MS language found)
 - **Stevens Capital Management** — [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895) — Radnor, PA (Greenhouse:scm; internship timing not stated in title; undergrad/BS/MS language found)
+- **Tower Research Capital** — [Junior Execution Trader Intern](https://www.tower-research.com/open-positions/?gh_jid=8091833) — Gift City (Greenhouse:towerresearchcapital; internship timing not stated in title; undergrad/BS/MS language found)
+- **Tower Research Capital** — [Quantitative Developer Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8044334) — New York, Chicago (Greenhouse:towerresearchcapital; internship timing: Summer 2027; undergrad/BS/MS language found)
+- **Tower Research Capital** — [Quantitative Trader Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) — New York, Chicago (Greenhouse:towerresearchcapital; internship timing: Summer 2027; undergrad/BS/MS language found)
+- **Tower Research Capital** — [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) — Singapore (Greenhouse:towerresearchcapital; internship timing not stated in title; undergrad/BS/MS language found)
 - **TransMarket Group** — [Algorithmic Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151581007?gh_jid=5151581007) — Chicago, Illinois, United States (Greenhouse:transmarketgroup; internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **TransMarket Group** — [DevOps/SRE Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) — Chicago, Illinois, United States (Greenhouse:transmarketgroup; internship timing not stated in title; undergrad/BS/MS language found)
 - **TransMarket Group** — [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) — Chicago, Illinois, United States (Greenhouse:transmarketgroup; internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
@@ -173,7 +177,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Albatross Labs** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **AlphaGrep** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **AlphaSimplex** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Alphataraxia Management** — checked Greenhouse:alphataraxia (1)
+- **Alphataraxia Management** — checked Greenhouse:alphataraxia (0)
 - **Alyeska Investment Group** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Ansatz Capital** — checked Lever:ansatzcapital (5)
 - **Aquatic Capital** — checked Ashby:aquatic (0)
@@ -275,7 +279,6 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Tanius Technology** — checked Greenhouse:tanius (8)
 - **Teza Technologies** — checked Ashby:teza-technologies (11)
 - **TGS Management Company** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Tower Research Capital** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Tradebot** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Tradelink Holdings** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Trexquant Investment** — no public Greenhouse/Lever/Ashby board discovered by slug scan

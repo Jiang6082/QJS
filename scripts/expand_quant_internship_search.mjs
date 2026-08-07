@@ -138,6 +138,7 @@ const seedAtsTokens = {
   "Chicago Trading Company": { greenhouse: ["ctccampusboard"] },
   "Hudson River Trading": { greenhouse: ["wehrtyou"] },
   "Stevens Capital Management": { greenhouse: ["scm"] },
+  "RRS Group": { smartrecruiters: ["RRSGroup"] },
 };
 
 const aggregatorDomains = [
@@ -489,6 +490,7 @@ function extractAtsTokens(text) {
   const greenhouse = new Set();
   const lever = new Set();
   const ashby = new Set();
+  const smartrecruiters = new Set();
   const workday = new Map();
   for (const match of text.matchAll(/(?:boards-api|api)\.greenhouse\.io\/v1\/boards\/([^/"'\s?]+)\/jobs/gi)) greenhouse.add(match[1]);
   for (const match of text.matchAll(/(?:boards|job-boards)\.greenhouse\.io\/embed\/[^?"'\s]*\?[^"'\s]*?\bfor=([^&"'\s\\]+)/gi)) greenhouse.add(match[1]);
@@ -505,6 +507,9 @@ function extractAtsTokens(text) {
   if (/ashby/i.test(text)) {
     for (const match of text.matchAll(/ashbySlug\s*[:=]\s*["']([a-z0-9_-]+)["']/gi)) ashby.add(match[1]);
   }
+  for (const match of text.matchAll(/(?:jobs|careers)\.smartrecruiters\.com\/([A-Za-z0-9_-]+)|api\.smartrecruiters\.com\/v1\/companies\/([^/"'\s?]+)\/postings/gi)) {
+    smartrecruiters.add(match[1] || match[2]);
+  }
   for (const match of text.matchAll(/tenant:\s*"([^"]+)"[\s\S]*?siteId:\s*"([^"]+)"/gi)) {
     workday.set(`${match[1]}/${match[2]}`, { tenant: match[1], site: match[2] });
   }
@@ -512,7 +517,7 @@ function extractAtsTokens(text) {
     const tenant = match[1].split(".")[0];
     workday.set(`${tenant}/${match[2]}`, { tenant, site: match[2], origin: `https://${match[1]}` });
   }
-  return { greenhouse: [...greenhouse], lever: [...lever], ashby: [...ashby], workday: [...workday.values()] };
+  return { greenhouse: [...greenhouse], lever: [...lever], ashby: [...ashby], smartrecruiters: [...smartrecruiters], workday: [...workday.values()] };
 }
 
 function detectUnsupportedAts(text) {
@@ -553,6 +558,39 @@ async function getGreenhouseBoard(company, token, careerPageUrl = "") {
     ].filter(Boolean).join(" | "),
   }));
   return { source: `Greenhouse:${token}`, jobs };
+}
+
+async function getSmartRecruitersBoard(company, token, careerPageUrl = "") {
+  const postings = [];
+  for (let offset = 0; offset < 400; offset += 100) {
+    const res = await fetchText(`https://api.smartrecruiters.com/v1/companies/${token}/postings?limit=100&offset=${offset}`);
+    if (!res.ok) break;
+    let json;
+    try { json = JSON.parse(res.text); } catch { break; }
+    const page = json.content || [];
+    postings.push(...page);
+    if (page.length < 100 || postings.length >= (json.totalFound || postings.length)) break;
+  }
+  if (!postings.length) return null;
+  const jobs = postings.map((job) => {
+    const loc = job.location || {};
+    const location = loc.remote ? "Remote" : [loc.city, loc.region, loc.country].filter(Boolean).join(", ");
+    return {
+      Company: company,
+      Title: job.name || "",
+      Department: job.department?.label || job.function?.label || "",
+      Location: location,
+      URL: `https://jobs.smartrecruiters.com/${token}/${job.id}`,
+      Source: `Career page SmartRecruiters:${token}`,
+      Status: "Confirmed official posting",
+      Notes: [
+        careerPageUrl ? `career_page=${careerPageUrl}` : "",
+        job.releasedDate ? `released=${job.releasedDate}` : "",
+        timingMetadata(job.name || "", job.jobAd?.sections?.jobDescription?.text || ""),
+      ].filter(Boolean).join(" | "),
+    };
+  });
+  return { source: `SmartRecruiters:${token}`, jobs };
 }
 
 async function getLeverBoard(company, token, careerPageUrl = "") {
@@ -671,10 +709,12 @@ async function scanCareerPage(company, pageUrl) {
   tokens.greenhouse = [...new Set([...tokens.greenhouse, ...(seededTokens.greenhouse || [])])];
   tokens.lever = [...new Set([...tokens.lever, ...(seededTokens.lever || [])])];
   tokens.ashby = [...new Set([...tokens.ashby, ...(seededTokens.ashby || [])])];
+  tokens.smartrecruiters = [...new Set([...(tokens.smartrecruiters || []), ...(seededTokens.smartrecruiters || [])])];
   const boards = [
     ...(await Promise.all(tokens.greenhouse.map((token) => getGreenhouseBoard(company, token, page.url)))),
     ...(await Promise.all(tokens.lever.map((token) => getLeverBoard(company, token, page.url)))),
     ...(await Promise.all(tokens.ashby.map((token) => getAshbyBoard(company, token, page.url)))),
+    ...(await Promise.all(tokens.smartrecruiters.map((token) => getSmartRecruitersBoard(company, token, page.url)))),
     ...(await Promise.all(tokens.workday
       .filter((siteInfo) => isPlausibleWorkdaySite(company, siteInfo, page.url))
       .map((siteInfo) => getWorkdayBoard(company, siteInfo, page.url)))),

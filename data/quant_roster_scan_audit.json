@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-07T21:34:23.104Z",
-  "scanStartedAt": "2026-08-07T21:30:42.775Z",
-  "sourceRosterEntries": 303,
-  "canonicalCompanies": 302,
+  "generatedAt": "2026-08-07T23:55:29.381Z",
+  "scanStartedAt": "2026-08-07T23:51:50.203Z",
+  "sourceRosterEntries": 305,
+  "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 39,
+    "matching-role-found": 41,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 48,
-    "could-not-fully-verify": 212
+    "confirmed-openings-no-matching-role": 50,
+    "could-not-fully-verify": 210
   },
   "companies": [
     {
@@ -761,7 +761,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 179,
+      "jobsSeen": 181,
       "relevantInternships": 17
     },
     {
@@ -1060,13 +1060,13 @@
       "sourceRosterNames": [
         "Domeyard LP"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://careers.smartrecruiters.com/DomeyardLP?location=Boston&page=0&search="
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 10,
       "relevantInternships": 0
     },
     {
@@ -3117,7 +3117,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3743,13 +3743,13 @@
       "sourceRosterNames": [
         "Vitol"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://careers.smartrecruiters.com/Vitol?oga=true"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 34,
       "relevantInternships": 0
     },
     {
@@ -3773,7 +3773,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/whistlertrading"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 6,
       "relevantInternships": 0
@@ -4219,6 +4219,37 @@
       "attemptedPages": 1,
       "jobsSeen": 6,
       "relevantInternships": 0
+    },
+    {
+      "company": "Morningstar",
+      "sourceRosterNames": [
+        "Morningstar"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://morningstar.wd5.myworkdayjobs.com/morningstar",
+        "https://morningstar.wd5.myworkdayjobs.com/Americas/",
+        "https://morningstar.wd5.myworkdayjobs.com/MorningstarDBRS",
+        "https://www.morningstar.com/company/careers"
+      ],
+      "livePages": 4,
+      "attemptedPages": 4,
+      "jobsSeen": 40,
+      "relevantInternships": 1
+    },
+    {
+      "company": "RRS Group",
+      "sourceRosterNames": [
+        "RRS Group"
+      ],
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://jobs.smartrecruiters.com/RRSGroup"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 8,
+      "relevantInternships": 1
     }
   ]
 }

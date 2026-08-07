@@ -1,77 +1,32 @@
 {
-  "generatedAt": "2026-08-07T21:34:23.205Z",
-  "previousScanAt": "2026-08-07T13:08:31.588Z",
-  "currentScanAt": "2026-08-07T21:30:42.775Z",
-  "previousRows": 288,
-  "currentRows": 292,
+  "generatedAt": "2026-08-07T23:55:29.529Z",
+  "previousScanAt": "2026-08-07T23:45:37.960Z",
+  "currentScanAt": "2026-08-07T23:51:50.203Z",
+  "previousRows": 292,
+  "currentRows": 294,
   "added": [
     {
-      "Company": "Belvedere Trading",
-      "Title": "Quantitative Trading Intern - Summer 2027",
-      "Department": "Campus - Quantitative Trading",
-      "Location": "Chicago, Illinois",
-      "URL": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab",
-      "Source": "Career page Lever:belvederetrading",
+      "Company": "Morningstar",
+      "Title": "Morningstar Internship Program- Quantitative Research Intern 2027",
+      "Department": "",
+      "Location": "Chicago",
+      "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027_REQ-057999",
+      "Source": "Career page Workday:morningstar/morningstar",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.belvederetrading.com/new-graduates-campus-recruiting | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. High-performan...",
+      "Notes": "career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted 2 Days Ago | REQ-057999",
       "Region": "North America"
     },
     {
-      "Company": "Belvedere Trading",
-      "Title": "Quantitative Trading Intern - Winter Quarter 2027",
-      "Department": "Campus - Quantitative Trading",
-      "Location": "Chicago, Illinois",
-      "URL": "https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0",
-      "Source": "Career page Lever:belvederetrading",
+      "Company": "RRS Group",
+      "Title": "2027 Software Engineer Intern - Placement Year",
+      "Department": "Engineering",
+      "Location": "Remote",
+      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000130592319",
+      "Source": "Career page SmartRecruiters:RRSGroup",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.belvederetrading.com/new-graduates-campus-recruiting | internship timing: Winter; graduation eligibility mentions: 2027, 2028 | Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. High-performance pr...",
-      "Region": "North America"
-    },
-    {
-      "Company": "Belvedere Trading",
-      "Title": "Software Engineer Intern - Summer 2027",
-      "Department": "Campus",
-      "Location": "Chicago, Illinois",
-      "URL": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
-      "Source": "Career page Lever:belvederetrading",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.belvederetrading.com/new-graduates-campus-recruiting | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. High-performan...",
-      "Region": "North America"
-    },
-    {
-      "Company": "Trillium",
-      "Title": "IT Support Intern - Summer 2027",
-      "Department": "Technology",
-      "Location": "NYC",
-      "URL": "https://www.trlm.com/apply/5207070007?gh_jid=5207070007",
-      "Source": "Career page Greenhouse:trillium",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.trlm.com/careers-trader/ | company_wrapper=https://www.trlm.com/careers-trader/job?gh_jid=5207070007 | internship timing: Summer 2027 | Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com The Role Trillium is seeking a motivated, ...",
-      "Region": "North America"
-    },
-    {
-      "Company": "Trillium",
-      "Title": "Software Engineer Intern - Summer 2027",
-      "Department": "Technology",
-      "Location": "NYC",
-      "URL": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007",
-      "Source": "Career page Greenhouse:trillium",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.trlm.com/careers-trader/ | company_wrapper=https://www.trlm.com/careers-trader/job?gh_jid=5207089007 | internship timing: Summer 2027 | Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com The Role Trillium Labs is seeking a Softwa...",
-      "Region": "North America"
+      "Notes": "career_page=https://www.myrrsgroup.org/careers/ | released=2026-06-05T21:04:32.486Z | internship timing not stated in title",
+      "Region": "Remote / Unspecified"
     }
   ],
-  "removed": [
-    {
-      "Company": "Susquehanna International Group",
-      "Title": "Derivatives Sales Trader Intern: Summer 2027",
-      "Department": "Institutional Sales, Interns + Co-ops",
-      "Location": "New York, New York",
-      "URL": "https://careers.sig.com/jobs/10626?lang=en-us",
-      "Source": "Official SIG jobs API",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-08-05T17:21:00+0000 | Flexible Start | internship timing: Summer 2027 | Overview Susquehanna Financial Group, LLLP (SFG) integrates expertise in trading, research, and sales to provide value to our client base of mutual funds, hedge funds, and pension/endowment funds. As an intern in SFG’s Derivatives Sales Program, you will learn how to engage with our clients, execute order flow, and deliver market-based insights through hands on collaboration with our derivatives strategy, market intelligence, and equity research teams. During the ten-week internship you will be introduced to the financial markets through practical experience on the trading desk and formal classroom education. What we're looking for Intention to graduate with a bachelor’s or master’s degree within one year of the internship program Exceptional quantitative and analytical skills Strong communication skills ...",
-      "Region": "North America"
-    }
-  ]
+  "removed": []
 }

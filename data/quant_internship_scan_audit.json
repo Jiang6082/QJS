@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-07T21:30:08.643Z",
+  "scannedAt": "2026-08-07T23:51:45.481Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -306,10 +306,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:alphataraxia",
-          "count": 1
+          "count": 0
         }
       ],
-      "jobsSeen": 1,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -1295,9 +1295,14 @@
     },
     {
       "company": "Tower Research Capital",
-      "resolvedBoards": [],
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:towerresearchcapital",
+          "count": 72
+        }
+      ],
+      "jobsSeen": 72,
+      "relevantInternships": 4
     },
     {
       "company": "Tradebot",

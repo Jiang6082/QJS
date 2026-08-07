@@ -1,28 +1,24 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-08-07T21:30:42.775Z
+Last updated: 2026-08-07T23:51:50.203Z
 
 ## Summary
 
-- Companies searched: 367
-- Career pages checked: 496
-- Current retained roles: 292
-- New stable job URLs since previous scan: 5
-- No longer present since previous scan: 1
-- Matching-role firms: 39
+- Companies searched: 369
+- Career pages checked: 501
+- Current retained roles: 294
+- New stable job URLs since previous scan: 2
+- No longer present since previous scan: 0
+- Matching-role firms: 41
 - Confirmed no open postings: 3
-- Openings but no matching role: 48
-- Could not fully verify: 212
+- Openings but no matching role: 50
+- Could not fully verify: 210
 
 ## New Roles Since Previous Scan
 
-### North America (5)
+### North America (1)
 
-- **Belvedere Trading** - [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) - Chicago, Illinois
-- **Belvedere Trading** - [Quantitative Trading Intern - Winter Quarter 2027](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) - Chicago, Illinois
-- **Belvedere Trading** - [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) - Chicago, Illinois
-- **Trillium** - [IT Support Intern - Summer 2027](https://www.trlm.com/apply/5207070007?gh_jid=5207070007) - NYC
-- **Trillium** - [Software Engineer Intern - Summer 2027](https://www.trlm.com/apply/5207089007?gh_jid=5207089007) - NYC
+- **Morningstar** - [Morningstar Internship Program- Quantitative Research Intern 2027](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027_REQ-057999) - Chicago
 
 ### Europe (0)
 
@@ -52,13 +48,13 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **RRS Group** - [2027 Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000130592319) - Remote
 
 ## No Longer Present
 
-- **Susquehanna International Group** - [Derivatives Sales Trader Intern: Summer 2027](https://careers.sig.com/jobs/10626?lang=en-us) - New York, New York
+_None._
 
 ## Full Reports
 
