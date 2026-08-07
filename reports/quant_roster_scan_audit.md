@@ -1,10 +1,10 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-08-06T15:41:47.671Z
+Scan started: 2026-08-07T21:30:42.775Z
 Source roster entries: 303
 Canonical companies after aliases: 302
 
-## Matching Roles Found (38)
+## Matching Roles Found (39)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -14,6 +14,7 @@ Canonical companies after aliases: 302
 | D. E. Shaw | 3/3 pages live | [link](https://www.deshaw.com/careers?source=campus) [link](https://www.deshaw.com/careers) [link](https://www.deshawindia.com/careers) |
 | AQR Capital Management | 3/3 pages live | [link](https://careers.aqr.com/) [link](https://www.aqr.com/Our-Firm/Careers) [link](https://job-boards.greenhouse.io/aqr) |
 | Aquatic Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/aquaticcapitalmanagement) |
+| Belvedere Trading | 1/1 pages live | [link](https://www.belvederetrading.com/careers/) |
 | AXQ Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/axq) |
 | Citadel Securities | 0/4 pages live | [link](https://www.citadelsecurities.com/careers/) [link](https://www.citadel.com/careers/) [link](https://www.citadelsecurities.com/careers/open-opportunities/) [link](https://www.citadelsecurities.com/careers/students/) |
 | DRW | 1/1 pages live | [link](https://drw.com/work-at-drw/) |
@@ -55,13 +56,12 @@ Canonical companies after aliases: 302
 | Maverick Derivatives | 1/1 pages live | [link](https://job-boards.greenhouse.io/maverickderivatives?error=true) |
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
 
-## Confirmed Openings, No Matching Role (49)
+## Confirmed Openings, No Matching Role (48)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
 | BD Energy | 1/1 pages live | [link](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA) |
 | Bracebridge Capital | 1/1 pages live | [link](https://www.bracebridgecapital.com/careers/) |
-| Belvedere Trading | 1/1 pages live | [link](https://www.belvederetrading.com/careers/) |
 | Brevan Howard | 4/5 pages live | [link](https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967) [link](https://brevanhoward.wd3.myworkdayjobs.com/wday/cxs/brevanhoward/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2025-Trading-Graduate-Program---Abu-Dhabi_JR100942) [link](https://www.brevanhoward.com/careers/) [link](https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/jobs) [link](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers) |
 | 3Red Partners | 2/2 pages live | [link](https://www.3redpartners.com/careers/) [link](https://job-boards.greenhouse.io/3redpartners) |
 | Bridgewater Associates | 1/1 pages live | [link](https://www.bridgewater.com/working-at-bridgewater) |
@@ -88,7 +88,7 @@ Canonical companies after aliases: 302
 | Mako Trading | 2/2 pages live | [link](https://www.mako.com/opportunities) [link](https://www.mako.com/early-careers) |
 | Marshall Wace | 3/3 pages live | [link](https://job-boards.greenhouse.io/mw-tech-grad) [link](https://www.mwam.com/join-us/) [link](https://us.mwam.com/join-us/) |
 | Peak6 | 1/1 pages live | [link](https://peak6group.wd1.myworkdayjobs.com/PEAK6) |
-| Quadrature | 0/1 pages live | [link](https://job-boards.greenhouse.io/quadraturecapital?error=true) |
+| Quadrature | 1/1 pages live | [link](https://job-boards.greenhouse.io/quadraturecapital?error=true) |
 | Qube Research & Technologies | 0/1 pages live | [link](https://www.qube-rt.com/careers/) |
 | Simplex Trading | 2/2 pages live | [link](https://simplextrading.com/careers/) [link](https://job-boards.greenhouse.io/simplextrading) |
 | Man Group | 3/3 pages live | [link](https://mangroupplc.wd3.myworkdayjobs.com/Man_Group_Careers) [link](https://job-boards.eu.greenhouse.io/mangroup) [link](https://www.man.com/careers) |
@@ -102,7 +102,7 @@ Canonical companies after aliases: 302
 | TCI Fund Management | 2/3 pages live | [link](https://boards.greenhouse.io/twosixtechnologies/jobs/4465276004) [link](https://boards.greenhouse.io/tekion/jobs/6263631003) [link](https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007) |
 | Trafigura | 1/1 pages live | [link](https://www.trafigura.com/careers/) |
 | Vatic Labs | 1/1 pages live | [link](https://job-boards.greenhouse.io/vaticlabs/jobs/3137555) |
-| Whistler Trading | 1/1 pages live | [link](https://job-boards.greenhouse.io/whistlertrading) |
+| Whistler Trading | 0/1 pages live | [link](https://job-boards.greenhouse.io/whistlertrading) |
 | Teza Technologies | 2/2 pages live | [link](https://www.teza.com/careers/) [link](https://jobs.ashbyhq.com/teza-technologies) |
 | Verition Fund Management | 2/3 pages live | [link](https://www.verition.com/careers/) [link](https://www.verition.com/careers) [link](https://www.verition.com/open-positions) |
 | VivCourt Trading | 1/1 pages live | [link](https://www.vivcourt.com/careers/trading-internship/) |

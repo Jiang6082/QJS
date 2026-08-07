@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-06T15:45:43.248Z",
-  "scanStartedAt": "2026-08-06T15:41:47.671Z",
+  "generatedAt": "2026-08-07T21:34:23.104Z",
+  "scanStartedAt": "2026-08-07T21:30:42.775Z",
   "sourceRosterEntries": 303,
   "canonicalCompanies": 302,
   "counts": {
-    "matching-role-found": 38,
+    "matching-role-found": 39,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 49,
+    "confirmed-openings-no-matching-role": 48,
     "could-not-fully-verify": 212
   },
   "companies": [
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 46,
+      "jobsSeen": 47,
       "relevantInternships": 7
     },
     {
@@ -389,14 +389,14 @@
       "sourceRosterNames": [
         "Belvedere Trading"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.belvederetrading.com/careers/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
-      "relevantInternships": 0
+      "jobsSeen": 15,
+      "relevantInternships": 3
     },
     {
       "company": "BlockTech",
@@ -538,7 +538,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 20,
+      "jobsSeen": 21,
       "relevantInternships": 1
     },
     {
@@ -761,7 +761,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 178,
+      "jobsSeen": 179,
       "relevantInternships": 17
     },
     {
@@ -944,7 +944,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 12,
+      "jobsSeen": 11,
       "relevantInternships": 0
     },
     {
@@ -1024,7 +1024,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 55,
+      "jobsSeen": 56,
       "relevantInternships": 2
     },
     {
@@ -1139,7 +1139,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 18,
+      "jobsSeen": 17,
       "relevantInternships": 1
     },
     {
@@ -1282,7 +1282,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 225,
+      "jobsSeen": 230,
       "relevantInternships": 0
     },
     {
@@ -1428,7 +1428,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 41,
+      "jobsSeen": 42,
       "relevantInternships": 2
     },
     {
@@ -1618,7 +1618,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 19,
+      "jobsSeen": 20,
       "relevantInternships": 0
     },
     {
@@ -1724,7 +1724,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantInternships": 0
     },
     {
@@ -1739,7 +1739,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 18,
+      "jobsSeen": 19,
       "relevantInternships": 0
     },
     {
@@ -2025,7 +2025,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -2100,7 +2100,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 164,
+      "jobsSeen": 165,
       "relevantInternships": 11
     },
     {
@@ -2498,7 +2498,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -2648,7 +2648,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 11,
+      "jobsSeen": 10,
       "relevantInternships": 0
     },
     {
@@ -2672,7 +2672,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/quadraturecapital?error=true"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 4,
       "relevantInternships": 0
@@ -3634,7 +3634,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 56,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -3695,8 +3695,8 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 9,
-      "relevantInternships": 3
+      "jobsSeen": 11,
+      "relevantInternships": 5
     },
     {
       "company": "UTR8 Group",
@@ -3735,7 +3735,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 12,
+      "jobsSeen": 11,
       "relevantInternships": 1
     },
     {
@@ -3773,7 +3773,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/whistlertrading"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 6,
       "relevantInternships": 0
@@ -3803,7 +3803,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 6,
+      "jobsSeen": 7,
       "relevantInternships": 1
     },
     {
@@ -3871,7 +3871,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 74,
+      "jobsSeen": 72,
       "relevantInternships": 4
     },
     {
@@ -3930,7 +3930,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 32,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -4062,7 +4062,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 57,
+      "jobsSeen": 56,
       "relevantInternships": 0
     },
     {
@@ -4203,7 +4203,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 101,
+      "jobsSeen": 100,
       "relevantInternships": 6
     },
     {
@@ -4217,7 +4217,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantInternships": 0
     }
   ]

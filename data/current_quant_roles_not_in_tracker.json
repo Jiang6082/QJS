@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T15:45:43.341Z",
-  "currentScanAt": "2026-08-06T15:41:47.671Z",
+  "generatedAt": "2026-08-07T21:34:23.205Z",
+  "currentScanAt": "2026-08-07T21:30:42.775Z",
   "historicalTrackerUrls": 176,
   "roles": [
     {
@@ -173,24 +173,13 @@
     },
     {
       "Company": "Barclays",
-      "Title": "2027 Technology Developer Summer Internship Programme India",
-      "Department": "",
-      "Location": "",
-      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913",
-      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000124913",
-      "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "Barclays",
       "Title": "2027 Technology Developer Summer Internship Programme Singapore",
       "Department": "",
       "Location": "Singapore, Marina Bay Financial Tower 2",
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Singapore_JR-0000121763",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 30 Days Ago | JR-0000121763",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 30+ Days Ago | JR-0000121763",
       "Region": "Asia"
     },
     {
@@ -258,6 +247,39 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 30+ Days Ago | JR-0000117562",
       "Region": "Asia"
+    },
+    {
+      "Company": "Belvedere Trading",
+      "Title": "Quantitative Trading Intern - Summer 2027",
+      "Department": "Campus - Quantitative Trading",
+      "Location": "Chicago, Illinois",
+      "URL": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab",
+      "Source": "Career page Lever:belvederetrading",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.belvederetrading.com/new-graduates-campus-recruiting | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. High-performan...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Belvedere Trading",
+      "Title": "Quantitative Trading Intern - Winter Quarter 2027",
+      "Department": "Campus - Quantitative Trading",
+      "Location": "Chicago, Illinois",
+      "URL": "https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0",
+      "Source": "Career page Lever:belvederetrading",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.belvederetrading.com/new-graduates-campus-recruiting | internship timing: Winter; graduation eligibility mentions: 2027, 2028 | Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. High-performance pr...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Belvedere Trading",
+      "Title": "Software Engineer Intern - Summer 2027",
+      "Department": "Campus",
+      "Location": "Chicago, Illinois",
+      "URL": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+      "Source": "Career page Lever:belvederetrading",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.belvederetrading.com/new-graduates-campus-recruiting | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. High-performan...",
+      "Region": "North America"
     },
     {
       "Company": "BlackEdge Capital",
@@ -618,23 +640,23 @@
       "Company": "DRW",
       "Title": "FPGA Intern",
       "Department": "Campus",
-      "Location": "Chicago",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8038923 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Exam...",
-      "Region": "North America"
-    },
-    {
-      "Company": "DRW",
-      "Title": "FPGA Intern",
-      "Department": "Campus",
       "Location": "London",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8070392 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Examp...",
       "Region": "Europe"
+    },
+    {
+      "Company": "DRW",
+      "Title": "FPGA Intern",
+      "Department": "Campus",
+      "Location": "Chicago",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8038923 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Exam...",
+      "Region": "North America"
     },
     {
       "Company": "DRW",
@@ -728,11 +750,11 @@
       "Company": "DRW",
       "Title": "Software Developer Intern",
       "Department": "Campus",
-      "Location": "Montreal",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "Location": "Chicago",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7991196 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will join one of our development teams supporting our network development initiatives or trading businesses. Depending on the team you join, you will build advanced trading, analysis and risk applications, or advanced monitoring and automation systems leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your internship. While your days will have you immersed in complex projects directly driving DRW's progress, your tim...",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...",
       "Region": "North America"
     },
     {
@@ -749,17 +771,6 @@
     {
       "Company": "DRW",
       "Title": "Software Developer Intern",
-      "Department": "Campus",
-      "Location": "Chicago",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...",
-      "Region": "North America"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Software Developer Intern",
       "Department": "Campus Software Engineering",
       "Location": "Amsterdam",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
@@ -767,6 +778,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8020364 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Amsterdam. How you will make an impact… Design, develop test, and deploy propriet...",
       "Region": "Europe"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Software Developer Intern",
+      "Department": "Campus",
+      "Location": "Montreal",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7991196 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will join one of our development teams supporting our network development initiatives or trading businesses. Depending on the team you join, you will build advanced trading, analysis and risk applications, or advanced monitoring and automation systems leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your internship. While your days will have you immersed in complex projects directly driving DRW's progress, your tim...",
+      "Region": "North America"
     },
     {
       "Company": "DRW",
@@ -928,7 +950,7 @@
       "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
       "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Today | R-15052",
+      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Yesterday | R-15052",
       "Region": "North America"
     },
     {
@@ -974,16 +996,6 @@
     {
       "Company": "Jane Street",
       "Title": "Linux Engineer",
-      "Location": "New York",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8626260002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Technology",
-      "Region": "North America"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Linux Engineer",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
       "Source": "Official Jane Street jobs feed",
@@ -1000,6 +1012,16 @@
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Technology",
       "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Linux Engineer",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8626260002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Technology",
+      "Region": "North America"
     },
     {
       "Company": "Jane Street",
@@ -1104,22 +1126,22 @@
     {
       "Company": "Jane Street",
       "Title": "Strategy and Product",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8518854002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Strategy and Product",
-      "Region": "Europe"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Strategy and Product",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8630713002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Strategy and Product",
       "Region": "Asia"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Strategy and Product",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8518854002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; June-September; Strategy and Product",
+      "Region": "Europe"
     },
     {
       "Company": "Jane Street",
@@ -1349,17 +1371,6 @@
       "Source": "Official SIG jobs API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-04-10T14:09:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview As a Summer Analyst on Susquehanna's Credit Research team, you will be partnered with our senior analysts and traders to assist in identifying investment opportunities in the credit and bond markets. You will learn to perform in-depth company analysis and provide opinions on how a company’s credit profile might change with new information. Through collaboration with our Credit, Equity, and Macro Analysts, and Fixed Income, ETF, and Derivatives Traders, you will gain experience in the financial markets by tracking company news and events and assisting with valuation work. Our ten-week summer internship program introduces you to our unique approach to research through practical experience on a credit-focused team and through education in a classroom setting. ...",
-      "Region": "North America"
-    },
-    {
-      "Company": "Susquehanna International Group",
-      "Title": "Derivatives Sales Trader Intern: Summer 2027",
-      "Department": "Institutional Sales, Interns + Co-ops",
-      "Location": "New York, New York",
-      "URL": "https://careers.sig.com/jobs/10626?lang=en-us",
-      "Source": "Official SIG jobs API",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-08-05T17:21:00+0000 | Flexible Start | internship timing: Summer 2027 | Overview Susquehanna Financial Group, LLLP (SFG) integrates expertise in trading, research, and sales to provide value to our client base of mutual funds, hedge funds, and pension/endowment funds. As an intern in SFG’s Derivatives Sales Program, you will learn how to engage with our clients, execute order flow, and deliver market-based insights through hands on collaboration with our derivatives strategy, market intelligence, and equity research teams. During the ten-week internship you will be introduced to the financial markets through practical experience on the trading desk and formal classroom education. What we're looking for Intention to graduate with a bachelor’s or master’s degree within one year of the internship program Exceptional quantitative and analytical skills Strong communication skills ...",
       "Region": "North America"
     },
     {
@@ -1683,6 +1694,28 @@
     },
     {
       "Company": "Trillium",
+      "Title": "IT Support Intern - Summer 2027",
+      "Department": "Technology",
+      "Location": "NYC",
+      "URL": "https://www.trlm.com/apply/5207070007?gh_jid=5207070007",
+      "Source": "Career page Greenhouse:trillium",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.trlm.com/careers-trader/ | company_wrapper=https://www.trlm.com/careers-trader/job?gh_jid=5207070007 | internship timing: Summer 2027 | Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com The Role Trillium is seeking a motivated, ...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Trillium",
+      "Title": "Software Engineer Intern - Summer 2027",
+      "Department": "Technology",
+      "Location": "NYC",
+      "URL": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007",
+      "Source": "Career page Greenhouse:trillium",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.trlm.com/careers-trader/ | company_wrapper=https://www.trlm.com/careers-trader/job?gh_jid=5207089007 | internship timing: Summer 2027 | Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com The Role Trillium Labs is seeking a Softwa...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Trillium",
       "Title": "Summer 2027 Equity Trader Internship",
       "Department": "Trading",
       "Location": "Miami",
@@ -1696,22 +1729,22 @@
       "Company": "Trillium",
       "Title": "Summer 2027 Equity Trader Internship",
       "Department": "Trading",
-      "Location": "NYC",
-      "URL": "https://www.trlm.com/apply/5076003007?gh_jid=5076003007",
+      "Location": "Chicago",
+      "URL": "https://www.trlm.com/apply/5076017007?gh_jid=5076017007",
       "Source": "Career page Greenhouse:trillium",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.trlm.com/careers-trader/ | company_wrapper=https://www.trlm.com/careers-trader/job?gh_jid=5076003007 | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com *Th...",
+      "Notes": "career_page=https://www.trlm.com/careers-trader/ | company_wrapper=https://www.trlm.com/careers-trader/job?gh_jid=5076017007 | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com *Th...",
       "Region": "North America"
     },
     {
       "Company": "Trillium",
       "Title": "Summer 2027 Equity Trader Internship",
       "Department": "Trading",
-      "Location": "Chicago",
-      "URL": "https://www.trlm.com/apply/5076017007?gh_jid=5076017007",
+      "Location": "NYC",
+      "URL": "https://www.trlm.com/apply/5076003007?gh_jid=5076003007",
       "Source": "Career page Greenhouse:trillium",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.trlm.com/careers-trader/ | company_wrapper=https://www.trlm.com/careers-trader/job?gh_jid=5076017007 | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com *Th...",
+      "Notes": "career_page=https://www.trlm.com/careers-trader/ | company_wrapper=https://www.trlm.com/careers-trader/job?gh_jid=5076003007 | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com *Th...",
       "Region": "North America"
     },
     {

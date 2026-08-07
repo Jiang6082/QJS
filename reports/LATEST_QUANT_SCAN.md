@@ -1,24 +1,28 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-08-06T15:41:47.671Z
+Last updated: 2026-08-07T21:30:42.775Z
 
 ## Summary
 
 - Companies searched: 367
 - Career pages checked: 496
-- Current retained roles: 289
-- New stable job URLs since previous scan: 2
-- No longer present since previous scan: 3
-- Matching-role firms: 38
+- Current retained roles: 292
+- New stable job URLs since previous scan: 5
+- No longer present since previous scan: 1
+- Matching-role firms: 39
 - Confirmed no open postings: 3
-- Openings but no matching role: 49
+- Openings but no matching role: 48
 - Could not fully verify: 212
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (5)
 
-- **Invesco** - [Early Career Intern - Investments (Risk)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1) - New York, New York
+- **Belvedere Trading** - [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) - Chicago, Illinois
+- **Belvedere Trading** - [Quantitative Trading Intern - Winter Quarter 2027](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) - Chicago, Illinois
+- **Belvedere Trading** - [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) - Chicago, Illinois
+- **Trillium** - [IT Support Intern - Summer 2027](https://www.trlm.com/apply/5207070007?gh_jid=5207070007) - NYC
+- **Trillium** - [Software Engineer Intern - Summer 2027](https://www.trlm.com/apply/5207089007?gh_jid=5207089007) - NYC
 
 ### Europe (0)
 
@@ -48,15 +52,13 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **Barclays** - [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913) - Location not listed
+_None._
 
 ## No Longer Present
 
-- **Old Mission Capital** - [Compliance and Risk Co-Op](https://www.oldmissioncapital.com/careers/?gh_jid=7828063003) - Chicago, IL, United States
-- **T. Rowe Price** - [2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) - Baltimore, MD
-- **T. Rowe Price** - [2027 Quantitative Equity Investing Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) - Baltimore, MD
+- **Susquehanna International Group** - [Derivatives Sales Trader Intern: Summer 2027](https://careers.sig.com/jobs/10626?lang=en-us) - New York, New York
 
 ## Full Reports
 

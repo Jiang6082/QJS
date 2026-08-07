@@ -1,17 +1,21 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-08-06T02:41:12.076Z
-Current scan: 2026-08-06T15:41:47.671Z
-Previous rows: 290
-Current rows: 289
-New stable job URLs: 2
-No longer present: 3
+Previous scan: 2026-08-07T13:08:31.588Z
+Current scan: 2026-08-07T21:30:42.775Z
+Previous rows: 288
+Current rows: 292
+New stable job URLs: 5
+No longer present: 1
 
 ## New Roles By Region
 
-### North America (1)
+### North America (5)
 
-- **Invesco** - [Early Career Intern - Investments (Risk)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1) - New York, New York - Confirmed official posting (Career page Workday:invesco/IVZ): career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Today | R-15052
+- **Belvedere Trading** - [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) - Chicago, Illinois - Confirmed official posting (Career page Lever:belvederetrading): career_page=https://www.belvederetrading.com/new-graduates-campus-recruiting | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. High-performan...
+- **Belvedere Trading** - [Quantitative Trading Intern - Winter Quarter 2027](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) - Chicago, Illinois - Confirmed official posting (Career page Lever:belvederetrading): career_page=https://www.belvederetrading.com/new-graduates-campus-recruiting | internship timing: Winter; graduation eligibility mentions: 2027, 2028 | Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. High-performance pr...
+- **Belvedere Trading** - [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) - Chicago, Illinois - Confirmed official posting (Career page Lever:belvederetrading): career_page=https://www.belvederetrading.com/new-graduates-campus-recruiting | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technology solutions. High-performan...
+- **Trillium** - [IT Support Intern - Summer 2027](https://www.trlm.com/apply/5207070007?gh_jid=5207070007) - NYC - Confirmed official posting (Career page Greenhouse:trillium): career_page=https://www.trlm.com/careers-trader/ | company_wrapper=https://www.trlm.com/careers-trader/job?gh_jid=5207070007 | internship timing: Summer 2027 | Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com The Role Trillium is seeking a motivated, ...
+- **Trillium** - [Software Engineer Intern - Summer 2027](https://www.trlm.com/apply/5207089007?gh_jid=5207089007) - NYC - Confirmed official posting (Career page Greenhouse:trillium): career_page=https://www.trlm.com/careers-trader/ | company_wrapper=https://www.trlm.com/careers-trader/job?gh_jid=5207089007 | internship timing: Summer 2027 | Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com The Role Trillium Labs is seeking a Softwa...
 
 ### Europe (0)
 
@@ -41,12 +45,10 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **Barclays** - [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913) - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000124913
+_None._
 
 ## No Longer Present
 
-- **Old Mission Capital** - [Compliance and Risk Co-Op](https://www.oldmissioncapital.com/careers/?gh_jid=7828063003)
-- **T. Rowe Price** - [2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718)
-- **T. Rowe Price** - [2027 Quantitative Equity Investing Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699)
+- **Susquehanna International Group** - [Derivatives Sales Trader Intern: Summer 2027](https://careers.sig.com/jobs/10626?lang=en-us)

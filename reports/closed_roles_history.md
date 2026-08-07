@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 29
-Last updated: 2026-08-06T15:41:47.671Z
+Total closures recorded: 30
+Last updated: 2026-08-07T21:30:42.775Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-08-07 (1)
+
+- **Susquehanna International Group** - [Derivatives Sales Trader Intern: Summer 2027](https://careers.sig.com/jobs/10626?lang=en-us) - New York, New York
 
 ### 2026-08-06 (1)
 
