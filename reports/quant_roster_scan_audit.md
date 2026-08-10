@@ -1,10 +1,10 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-08-07T23:51:50.203Z
+Scan started: 2026-08-10T15:36:18.595Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 
-## Matching Roles Found (41)
+## Matching Roles Found (42)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -18,6 +18,7 @@ Canonical companies after aliases: 304
 | AXQ Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/axq) |
 | Citadel Securities | 0/4 pages live | [link](https://www.citadelsecurities.com/careers/) [link](https://www.citadel.com/careers/) [link](https://www.citadelsecurities.com/careers/open-opportunities/) [link](https://www.citadelsecurities.com/careers/students/) |
 | DRW | 1/1 pages live | [link](https://drw.com/work-at-drw/) |
+| Cubist | 1/1 pages live | [link](https://careers.point72.com/) |
 | DV Trading | 1/1 pages live | [link](https://dvtrading.co/join-dv/) |
 | Engineers Gate | 1/1 pages live | [link](https://job-boards.greenhouse.io/engineersgate) |
 | Five Rings | 4/4 pages live | [link](https://job-boards.greenhouse.io/fiveringsllc) [link](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008) [link](https://fiveringsfinancial.com/join-our-team/) [link](https://fiverings.com/careers/) |
@@ -58,7 +59,7 @@ Canonical companies after aliases: 304
 | Maverick Derivatives | 1/1 pages live | [link](https://job-boards.greenhouse.io/maverickderivatives?error=true) |
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
 
-## Confirmed Openings, No Matching Role (50)
+## Confirmed Openings, No Matching Role (49)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -71,7 +72,6 @@ Canonical companies after aliases: 304
 | Akuna Capital | 2/2 pages live | [link](https://akunacapital.com/careers/) [link](https://job-boards.greenhouse.io/optionstrading201course/jobs/7394582) |
 | Ansatz Capital | 1/1 pages live | [link](https://jobs.lever.co/ansatzcapital?by=location) |
 | Clear Street | 1/1 pages live | [link](https://job-boards.greenhouse.io/clearstreet?gh_src=bdd2c3261) |
-| Cubist | 1/1 pages live | [link](https://careers.point72.com/) |
 | Deutsche Bank | 1/1 pages live | [link](https://db.wd3.myworkdayjobs.com/DBWebsite/) |
 | Domeyard LP | 1/1 pages live | [link](https://careers.smartrecruiters.com/DomeyardLP?location=Boston&page=0&search=) |
 | ExodusPoint | 1/1 pages live | [link](https://job-boards.greenhouse.io/exoduspoint) |
@@ -180,7 +180,7 @@ Canonical companies after aliases: 304
 | Integrated Quantitative Investments | no saved page attempted | none |
 | Kershner Trading Group | 1/1 pages live | [link](https://kershnertrading.applicantstack.com/x/openings) |
 | Kvantium Research | no saved page attempted | none |
-| DWF Labs | 1/1 pages live | [link](https://www.dwf-labs.com/careers) |
+| DWF Labs | 0/1 pages live | [link](https://www.dwf-labs.com/careers) |
 | Deep Blue Capital | 0/1 pages live | [link](https://deepbluecap.com/vacancies/) |
 | Dexterity Capital | no saved page attempted | none |
 | Domstad Traders | no saved page attempted | none |
@@ -216,7 +216,7 @@ Canonical companies after aliases: 304
 | Dolat Capital | 1/1 pages live | [link](https://dolatcapital.com/careers/) |
 | ETS Asset Management Factory | no saved page attempted | none |
 | Elliott Management | 1/1 pages live | [link](https://ellimgmt.com/careers/) |
-| Final | no saved page attempted | none |
+| Final | 1/1 pages live | [link](https://www.final.co.il/) |
 | Freepoint Commodities | 1/1 pages live | [link](https://www.freepoint.com/life-at-freepoint/) |
 | GRW Partners | no saved page attempted | none |
 | Geneva Trading | 2/2 pages live | [link](https://www.genevatrading.com/careers/) [link](https://job-boards.greenhouse.io/genevatrading) |
@@ -245,7 +245,7 @@ Canonical companies after aliases: 304
 | Saccade Capital | no saved page attempted | none |
 | Silver Valley Management | no saved page attempted | none |
 | Liquid Capital Group | no saved page attempted | none |
-| Mesh Capital LLC | 1/1 pages live | [link](https://www.meshcapital.com/Careers.html) |
+| Mesh Capital LLC | 0/1 pages live | [link](https://www.meshcapital.com/Careers.html) |
 | Minghong / Jupiter | 1/1 pages live | [link](https://join.mhfunds.com/index) |
 | Mirazur Capital SAM | no saved page attempted | none |
 | Nebula Research | no saved page attempted | none |
@@ -266,7 +266,7 @@ Canonical companies after aliases: 304
 | Northpool | 1/1 pages live | [link](https://www.northpool.nl/vacancies) |
 | OSF Management | 0/1 pages live | [link](https://www.osfmanagement.com/careers) |
 | Old Growth Harbor LLC | no saved page attempted | none |
-| Optica | no saved page attempted | none |
+| Optica | 1/1 pages live | [link](https://opg.optica.org/optica/home.cfm) |
 | PanAgora Asset Management | 1/1 pages live | [link](https://www.panagora.com/careers-panagora-asset-management/) |
 | Priogen Energy | 1/1 pages live | [link](https://priogen.com/careers/home/) |
 | Quantlab | 1/1 pages live | [link](https://www.quantlab.com/careers?nl=1&p=jobs) |

@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-07T23:51:45.481Z",
+  "scannedAt": "2026-08-10T15:35:58.899Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -182,14 +182,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:janestreet",
-          "count": 230
+          "count": 231
         },
         {
           "source": "Ashby:jane",
           "count": 27
         }
       ],
-      "jobsSeen": 257,
+      "jobsSeen": 258,
       "relevantInternships": 0
     },
     {
@@ -209,7 +209,7 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:point72",
-          "count": 231
+          "count": 232
         },
         {
           "source": "Ashby:cubist",
@@ -220,7 +220,7 @@
           "count": 0
         }
       ],
-      "jobsSeen": 231,
+      "jobsSeen": 232,
       "relevantInternships": 7
     },
     {
@@ -306,10 +306,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:alphataraxia",
-          "count": 0
+          "count": 1
         }
       ],
-      "jobsSeen": 0,
+      "jobsSeen": 1,
       "relevantInternships": 0
     },
     {
@@ -453,10 +453,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 43
+          "count": 41
         }
       ],
-      "jobsSeen": 43,
+      "jobsSeen": 41,
       "relevantInternships": 0
     },
     {
@@ -464,10 +464,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 43
+          "count": 41
         }
       ],
-      "jobsSeen": 43,
+      "jobsSeen": 41,
       "relevantInternships": 0
     },
     {
@@ -814,10 +814,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 165
+          "count": 167
         }
       ],
-      "jobsSeen": 165,
+      "jobsSeen": 167,
       "relevantInternships": 11
     },
     {
@@ -899,10 +899,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mako",
-          "count": 8
+          "count": 7
         }
       ],
-      "jobsSeen": 8,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {
@@ -992,14 +992,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 176
+          "count": 173
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 176,
+      "jobsSeen": 173,
       "relevantInternships": 9
     },
     {
@@ -1123,10 +1123,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 195
+          "count": 193
         }
       ],
-      "jobsSeen": 195,
+      "jobsSeen": 193,
       "relevantInternships": 5
     },
     {
@@ -1170,10 +1170,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:schonfeld",
-          "count": 53
+          "count": 54
         }
       ],
-      "jobsSeen": 53,
+      "jobsSeen": 54,
       "relevantInternships": 1
     },
     {
@@ -1205,11 +1205,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 87
+          "count": 88
         }
       ],
-      "jobsSeen": 87,
-      "relevantInternships": 2
+      "jobsSeen": 88,
+      "relevantInternships": 3
     },
     {
       "company": "Stevens Capital Management",
@@ -1399,10 +1399,10 @@
         },
         {
           "source": "Ashby:voleon",
-          "count": 56
+          "count": 55
         }
       ],
-      "jobsSeen": 56,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {

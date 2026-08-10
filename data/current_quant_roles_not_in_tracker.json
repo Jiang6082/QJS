@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T23:55:29.529Z",
-  "currentScanAt": "2026-08-07T23:51:50.203Z",
+  "generatedAt": "2026-08-10T15:41:43.432Z",
+  "currentScanAt": "2026-08-10T15:36:18.595Z",
   "historicalTrackerUrls": 176,
   "roles": [
     {
@@ -170,6 +170,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=8077110 | internship timing: Summer; graduation eligibility mentions: 2027, 2028 | AQR Capital Management AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998. At AQR, our employees share a common spirit of academic excellence, intellectual honesty, and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assumptio...",
       "Region": "North America"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "2027 Technology Developer Summer Internship Programme India",
+      "Department": "",
+      "Location": "",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000124913",
+      "Region": "Remote / Unspecified"
     },
     {
       "Company": "Barclays",
@@ -640,23 +651,23 @@
       "Company": "DRW",
       "Title": "FPGA Intern",
       "Department": "Campus",
-      "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8070392 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Examp...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DRW",
-      "Title": "FPGA Intern",
-      "Department": "Campus",
       "Location": "Chicago",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8038923 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Exam...",
       "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "FPGA Intern",
+      "Department": "Campus",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8070392 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Examp...",
+      "Region": "Europe"
     },
     {
       "Company": "DRW",
@@ -683,17 +694,6 @@
     {
       "Company": "DRW",
       "Title": "Quantitative Research Intern",
-      "Department": "Campus",
-      "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7957756 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse backgrounds, who are passionate about c...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Quantitative Research Intern",
       "Department": "Campus Quantitative Research",
       "Location": "Chicago, New York City",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
@@ -701,6 +701,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7818540 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse backgrounds, who are passionate about c...",
       "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Quantitative Research Intern",
+      "Department": "Campus",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7957756 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse backgrounds, who are passionate about c...",
+      "Region": "Europe"
     },
     {
       "Company": "DRW",
@@ -716,17 +727,6 @@
     {
       "Company": "DRW",
       "Title": "Quantitative Trading Analyst Intern",
-      "Department": "Campus Trading Analyst",
-      "Location": "Chicago, Illinois",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7668776 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Trading Analyst Intern , you will gain exposure to the dynamic worlds of trading and technology in order to learn what it takes to become a successful and sustainable trader. You will work on a small team to combine the disciplines of technology, research and risk management to identify optimal trading and investment strategies within the regulatory framework through a series of project based assignments. At the conclusion of 10 weeks, you will have the opportunity to present your results to senior leadership at DRW. While your days will have you engrossed with complex quantitative tr...",
-      "Region": "North America"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Quantitative Trading Analyst Intern",
       "Department": "Campus",
       "Location": "London",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
@@ -734,6 +734,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7957243 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Trading Analyst Intern , you will gain exposure to the dynamic worlds of trading and technology in order to learn what it takes to become a successful and sustainable trader. You will work on a small team to combine the disciplines of technology, research and risk management to identify optimal trading and investment strategies within the regulatory framework through a series of project-based assignments. At the conclusion of 10 weeks, you will have the opportunity to present your results to senior leadership at DRW. While your days will have you engrossed with complex quantitative tr...",
       "Region": "Europe"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Quantitative Trading Analyst Intern",
+      "Department": "Campus Trading Analyst",
+      "Location": "Chicago, Illinois",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7668776 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Trading Analyst Intern , you will gain exposure to the dynamic worlds of trading and technology in order to learn what it takes to become a successful and sustainable trader. You will work on a small team to combine the disciplines of technology, research and risk management to identify optimal trading and investment strategies within the regulatory framework through a series of project based assignments. At the conclusion of 10 weeks, you will have the opportunity to present your results to senior leadership at DRW. While your days will have you engrossed with complex quantitative tr...",
+      "Region": "North America"
     },
     {
       "Company": "DRW",
@@ -760,17 +771,6 @@
     {
       "Company": "DRW",
       "Title": "Software Developer Intern",
-      "Department": "Campus Software Engineering",
-      "Location": "Amsterdam",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8020364 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Amsterdam. How you will make an impact… Design, develop test, and deploy propriet...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Software Developer Intern",
       "Department": "Campus",
       "Location": "Montreal",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
@@ -789,6 +789,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...",
       "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Software Developer Intern",
+      "Department": "Campus Software Engineering",
+      "Location": "Amsterdam",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8020364 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Amsterdam. How you will make an impact… Design, develop test, and deploy propriet...",
+      "Region": "Europe"
     },
     {
       "Company": "DRW",
@@ -950,7 +961,7 @@
       "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
       "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Yesterday | R-15052",
+      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted 4 Days Ago | R-15052",
       "Region": "North America"
     },
     {
@@ -996,16 +1007,6 @@
     {
       "Company": "Jane Street",
       "Title": "Linux Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Technology",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Linux Engineer",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8626146002/",
       "Source": "Official Jane Street jobs feed",
@@ -1025,9 +1026,29 @@
     },
     {
       "Company": "Jane Street",
+      "Title": "Linux Engineer",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Technology",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Jane Street",
       "Title": "Machine Learning Engineer",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8648474002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Quantitative Researcher",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8474416002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
@@ -1045,9 +1066,9 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Quantitative Researcher",
+      "Title": "Quantitative Trader",
       "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8474416002/",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8474407002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
@@ -1065,13 +1086,13 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Quantitative Trader",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8474407002/",
+      "Title": "Sales and Trading",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8630687002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
-      "Region": "Europe"
+      "Notes": "Internship; May-August; Institutional Sales and Trading",
+      "Region": "Asia"
     },
     {
       "Company": "Jane Street",
@@ -1082,16 +1103,6 @@
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Institutional Sales and Trading",
       "Region": "Europe"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Sales and Trading",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8630687002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Institutional Sales and Trading",
-      "Region": "Asia"
     },
     {
       "Company": "Jane Street",
@@ -1171,7 +1182,7 @@
       "URL": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552",
       "Source": "Career page Greenhouse:mavensecuritiesholdingltd",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.mavensecurities.com/jobs/ | company_wrapper=https://www.mavensecurities.com/jobs/job?gh_jid=8043552 | internship timing not stated in title | Maven Securities is a leading proprietary trading firm that leverages sophisticated technology and quantitative analysis to trade in global financial markets. We specialise in options and derivatives market making, where your skills can be directly applied to have a real impact. THE ROLE As a Quantitative Trader Intern, you’ll engage in an intensive 6-month training programme focused on options market making. You’ll collaborate closely with traders and researchers to solve meaningful research challenges and develop your expertise in quantitative methods across our market-making desks. Upon successfully completing the internship, you will be eligible for consideration for a full time position. As a Quant Trader Intern, your r...",
+      "Notes": "career_page=https://www.mavensecurities.com/jobs/ | company_wrapper=https://www.mavensecurities.com/jobs/job?gh_jid=8043552 | internship timing not stated in title | Maven Securities is a leading proprietary trading firm that leverages sophisticated technology and quantitative analysis to trade in global financial markets. We specialise in options and derivatives market making, where your skills can be directly applied to have a real impact. Please note, this Quant Trader Internship is 6 months, full-time. If you would like to be considered for our Chicago Trader Summer Internship, please apply here . Alternatively, if you would like to be considered for our London Trader Summer Internship, applications will open on 7th September. We can only accept one application per candidate per recruitment cycle, so please ensure you apply to the role you are most interested in. THE ROLE As a Quanti...",
       "Region": "Europe"
     },
     {
@@ -1197,13 +1208,24 @@
     },
     {
       "Company": "Morningstar",
+      "Title": "Morningstar Internship Program- Quantitative Research Intern (Campus)",
+      "Department": "",
+      "Location": "Chicago",
+      "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern--Campus-_REQ-053117-2",
+      "Source": "Career page Workday:morningstar/morningstar",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted Today | REQ-053117",
+      "Region": "North America"
+    },
+    {
+      "Company": "Morningstar",
       "Title": "Morningstar Internship Program- Quantitative Research Intern 2027",
       "Department": "",
       "Location": "Chicago",
       "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027_REQ-057999",
       "Source": "Career page Workday:morningstar/morningstar",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted 2 Days Ago | REQ-057999",
+      "Notes": "career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted 5 Days Ago | REQ-057999",
       "Region": "North America"
     },
     {
@@ -1336,10 +1358,10 @@
       "Title": "2027 Software Engineer Intern - Placement Year",
       "Department": "Engineering",
       "Location": "Remote",
-      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000130592319",
+      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000142513209",
       "Source": "Career page SmartRecruiters:RRSGroup",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.myrrsgroup.org/careers/ | released=2026-06-05T21:04:32.486Z | internship timing not stated in title",
+      "Notes": "career_page=https://www.myrrsgroup.org/careers/ | released=2026-08-09T14:55:15.629Z | internship timing not stated in title",
       "Region": "Remote / Unspecified"
     },
     {
@@ -1351,6 +1373,16 @@
       "Status": "Confirmed official posting",
       "Notes": "internship timing not stated in title",
       "Region": "Global / Multiple Regions"
+    },
+    {
+      "Company": "Squarepoint Capital",
+      "Title": "Intern Software Developer - London - 2027",
+      "Location": "London",
+      "URL": "https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006",
+      "Source": "Greenhouse:squarepointcapital",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
+      "Region": "Europe"
     },
     {
       "Company": "Squarepoint Capital",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-07T23:55:29.381Z",
-  "scanStartedAt": "2026-08-07T23:51:50.203Z",
+  "generatedAt": "2026-08-10T15:41:43.333Z",
+  "scanStartedAt": "2026-08-10T15:36:18.595Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 41,
+    "matching-role-found": 42,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 50,
+    "confirmed-openings-no-matching-role": 49,
     "could-not-fully-verify": 210
   },
   "companies": [
@@ -761,7 +761,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 181,
+      "jobsSeen": 180,
       "relevantInternships": 17
     },
     {
@@ -970,7 +970,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 28,
+      "jobsSeen": 29,
       "relevantInternships": 0
     },
     {
@@ -990,13 +990,13 @@
       "sourceRosterNames": [
         "Cubist (Point72)"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://careers.point72.com/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 231,
+      "jobsSeen": 232,
       "relevantInternships": 8
     },
     {
@@ -1282,7 +1282,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 230,
+      "jobsSeen": 231,
       "relevantInternships": 0
     },
     {
@@ -1320,7 +1320,7 @@
       "careerPages": [
         "https://www.dwf-labs.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1981,9 +1981,11 @@
         "Final"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.final.co.il/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2100,7 +2102,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 165,
+      "jobsSeen": 167,
       "relevantInternships": 11
     },
     {
@@ -2459,7 +2461,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 53,
+      "jobsSeen": 54,
       "relevantInternships": 1
     },
     {
@@ -2498,7 +2500,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 8,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {
@@ -2540,7 +2542,7 @@
       "careerPages": [
         "https://www.meshcapital.com/Careers.html"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2648,7 +2650,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -2938,9 +2940,11 @@
         "Optica"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://opg.optica.org/optica/home.cfm"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3749,7 +3753,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -4062,7 +4066,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 56,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -4235,7 +4239,7 @@
       "livePages": 4,
       "attemptedPages": 4,
       "jobsSeen": 40,
-      "relevantInternships": 1
+      "relevantInternships": 2
     },
     {
       "company": "RRS Group",

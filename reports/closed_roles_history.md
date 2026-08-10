@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 30
-Last updated: 2026-08-07T23:51:50.203Z
+Total closures recorded: 31
+Last updated: 2026-08-10T15:36:18.595Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-08-10 (1)
+
+- **RRS Group** - [2027 Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000130592319) - Remote
 
 ### 2026-08-07 (1)
 

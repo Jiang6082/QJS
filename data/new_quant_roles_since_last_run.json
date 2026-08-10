@@ -1,31 +1,41 @@
 {
-  "generatedAt": "2026-08-07T23:55:29.529Z",
-  "previousScanAt": "2026-08-07T23:45:37.960Z",
-  "currentScanAt": "2026-08-07T23:51:50.203Z",
-  "previousRows": 292,
-  "currentRows": 294,
+  "generatedAt": "2026-08-10T15:41:43.432Z",
+  "previousScanAt": "2026-08-10T01:18:04.515Z",
+  "currentScanAt": "2026-08-10T15:36:18.595Z",
+  "previousRows": 294,
+  "currentRows": 297,
   "added": [
     {
+      "Company": "Barclays",
+      "Title": "2027 Technology Developer Summer Internship Programme India",
+      "Department": "",
+      "Location": "",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000124913",
+      "Region": "Remote / Unspecified"
+    },
+    {
       "Company": "Morningstar",
-      "Title": "Morningstar Internship Program- Quantitative Research Intern 2027",
+      "Title": "Morningstar Internship Program- Quantitative Research Intern (Campus)",
       "Department": "",
       "Location": "Chicago",
-      "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027_REQ-057999",
+      "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern--Campus-_REQ-053117-2",
       "Source": "Career page Workday:morningstar/morningstar",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted 2 Days Ago | REQ-057999",
+      "Notes": "career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted Today | REQ-053117",
       "Region": "North America"
     },
     {
-      "Company": "RRS Group",
-      "Title": "2027 Software Engineer Intern - Placement Year",
-      "Department": "Engineering",
-      "Location": "Remote",
-      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000130592319",
-      "Source": "Career page SmartRecruiters:RRSGroup",
+      "Company": "Squarepoint Capital",
+      "Title": "Intern Software Developer - London - 2027",
+      "Location": "London",
+      "URL": "https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006",
+      "Source": "Greenhouse:squarepointcapital",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.myrrsgroup.org/careers/ | released=2026-06-05T21:04:32.486Z | internship timing not stated in title",
-      "Region": "Remote / Unspecified"
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
+      "Region": "Europe"
     }
   ],
   "removed": []
