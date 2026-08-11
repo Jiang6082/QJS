@@ -1,21 +1,25 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-08-10T15:36:18.595Z
-Current scan: 2026-08-11T03:46:43.249Z
-Previous rows: 297
-Current rows: 298
-New stable job URLs: 2
-No longer present: 1
+Previous scan: 2026-08-11T03:46:43.249Z
+Current scan: 2026-08-11T16:40:38.156Z
+Previous rows: 298
+Current rows: 303
+New stable job URLs: 5
+No longer present: 0
 
 ## New Roles By Region
 
-### North America (1)
+### North America (5)
 
-- **DV Trading** - [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) - New York - Confirmed official posting (Career page Greenhouse:dvtrading): career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719119005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. DV Commodities is a division within DV Group that specializes in...
+- **Quantbot Technologies** - [Data Trading Analyst Summer Internship - 2027 [New York]](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) - New York - Confirmed official posting (Greenhouse:quantbot-technologies): internship timing: Summer; undergrad/BS/MS language found
+- **Quantbot Technologies** - [Machine Learning Research Engineer Internship - 2027 [New York]](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) - New York - Confirmed official posting (Greenhouse:quantbot-technologies): internship timing not stated in title; undergrad/BS/MS language found
+- **Quantbot Technologies** - [Quantitative Developer Internship - 2027 [New York]](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) - New York - Confirmed official posting (Greenhouse:quantbot-technologies): internship timing not stated in title; undergrad/BS/MS language found
+- **Quantbot Technologies** - [Quantitative Researcher Internship - 2027 [New York]](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) - New York - Confirmed official posting (Greenhouse:quantbot-technologies): internship timing not stated in title; undergrad/BS/MS language found
+- **Quantbot Technologies** - [Software Engineer Summer Internship - 2027 [New York]](https://www.quantbot.com/careers/4299458009?gh_jid=4299458009) - New York - Confirmed official posting (Greenhouse:quantbot-technologies): internship timing: Summer; undergrad/BS/MS language found
 
-### Europe (1)
+### Europe (0)
 
-- **DV Trading** - [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) - London - Confirmed official posting (Career page Greenhouse:dvtrading): career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719125005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. DV Commodities is a division within DV Group that specializes in...
+_None._
 
 ### Asia (0)
 
@@ -47,4 +51,4 @@ _None._
 
 ## No Longer Present
 
-- **Barclays** - [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913)
+_None._

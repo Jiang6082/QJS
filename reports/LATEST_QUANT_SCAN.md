@@ -1,28 +1,32 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-08-11T03:46:43.249Z
+Last updated: 2026-08-11T16:40:38.156Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 503
-- Current retained roles: 298
-- New stable job URLs since previous scan: 2
-- No longer present since previous scan: 1
+- Current retained roles: 303
+- New stable job URLs since previous scan: 5
+- No longer present since previous scan: 0
 - Matching-role firms: 41
 - Confirmed no open postings: 3
-- Openings but no matching role: 50
-- Could not fully verify: 210
+- Openings but no matching role: 49
+- Could not fully verify: 211
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (5)
 
-- **DV Trading** - [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) - New York
+- **Quantbot Technologies** - [Data Trading Analyst Summer Internship - 2027 [New York]](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) - New York
+- **Quantbot Technologies** - [Machine Learning Research Engineer Internship - 2027 [New York]](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) - New York
+- **Quantbot Technologies** - [Quantitative Developer Internship - 2027 [New York]](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) - New York
+- **Quantbot Technologies** - [Quantitative Researcher Internship - 2027 [New York]](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) - New York
+- **Quantbot Technologies** - [Software Engineer Summer Internship - 2027 [New York]](https://www.quantbot.com/careers/4299458009?gh_jid=4299458009) - New York
 
-### Europe (1)
+### Europe (0)
 
-- **DV Trading** - [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) - London
+_None._
 
 ### Asia (0)
 
@@ -54,7 +58,7 @@ _None._
 
 ## No Longer Present
 
-- **Barclays** - [2027 Technology Developer Summer Internship Programme India](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913) - Location not listed
+_None._
 
 ## Full Reports
 
