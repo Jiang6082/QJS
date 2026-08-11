@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-10T15:41:43.333Z",
-  "scanStartedAt": "2026-08-10T15:36:18.595Z",
+  "generatedAt": "2026-08-11T03:51:10.169Z",
+  "scanStartedAt": "2026-08-11T03:46:43.249Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 42,
+    "matching-role-found": 41,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 49,
+    "confirmed-openings-no-matching-role": 50,
     "could-not-fully-verify": 210
   },
   "companies": [
@@ -761,7 +761,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 180,
+      "jobsSeen": 179,
       "relevantInternships": 17
     },
     {
@@ -990,13 +990,13 @@
       "sourceRosterNames": [
         "Cubist (Point72)"
       ],
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://careers.point72.com/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 232,
+      "jobsSeen": 231,
       "relevantInternships": 8
     },
     {
@@ -1024,8 +1024,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 56,
-      "relevantInternships": 2
+      "jobsSeen": 58,
+      "relevantInternships": 4
     },
     {
       "company": "Danske Commodities",
@@ -1238,7 +1238,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 73,
+      "jobsSeen": 72,
       "relevantInternships": 2
     },
     {
@@ -1724,7 +1724,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -1864,7 +1864,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 10,
+      "jobsSeen": 12,
       "relevantInternships": 0
     },
     {
@@ -2072,7 +2072,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 33,
+      "jobsSeen": 32,
       "relevantInternships": 0
     },
     {
@@ -2102,7 +2102,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 167,
+      "jobsSeen": 166,
       "relevantInternships": 11
     },
     {
@@ -2150,7 +2150,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 3,
       "relevantInternships": 0
@@ -2542,7 +2542,7 @@
       "careerPages": [
         "https://www.meshcapital.com/Careers.html"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2650,7 +2650,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
+      "jobsSeen": 9,
       "relevantInternships": 0
     },
     {
@@ -3121,7 +3121,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3638,7 +3638,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 55,
+      "jobsSeen": 56,
       "relevantInternships": 0
     },
     {
@@ -3699,7 +3699,7 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantInternships": 5
     },
     {
@@ -3753,7 +3753,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 33,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -3873,9 +3873,9 @@
         "https://www.tower-research.com/open-positions/",
         "https://job-boards.greenhouse.io/towerresearchcapital"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
-      "jobsSeen": 72,
+      "jobsSeen": 78,
       "relevantInternships": 4
     },
     {
@@ -3934,7 +3934,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 31,
+      "jobsSeen": 32,
       "relevantInternships": 0
     },
     {
@@ -3964,7 +3964,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantInternships": 2
     },
     {

@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-08-10T15:41:43.432Z",
-  "previousScanAt": "2026-08-10T01:18:04.515Z",
-  "currentScanAt": "2026-08-10T15:36:18.595Z",
-  "previousRows": 294,
-  "currentRows": 297,
+  "generatedAt": "2026-08-11T03:51:10.262Z",
+  "previousScanAt": "2026-08-10T15:36:18.595Z",
+  "currentScanAt": "2026-08-11T03:46:43.249Z",
+  "previousRows": 297,
+  "currentRows": 298,
   "added": [
+    {
+      "Company": "DV Trading",
+      "Title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
+      "Department": "DV Commodities",
+      "Location": "New York",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719119005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. DV Commodities is a division within DV Group that specializes in...",
+      "Region": "North America"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
+      "Department": "DV Commodities",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719125005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. DV Commodities is a division within DV Group that specializes in...",
+      "Region": "Europe"
+    }
+  ],
+  "removed": [
     {
       "Company": "Barclays",
       "Title": "2027 Technology Developer Summer Internship Programme India",
@@ -15,28 +39,6 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000124913",
       "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "Morningstar",
-      "Title": "Morningstar Internship Program- Quantitative Research Intern (Campus)",
-      "Department": "",
-      "Location": "Chicago",
-      "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern--Campus-_REQ-053117-2",
-      "Source": "Career page Workday:morningstar/morningstar",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted Today | REQ-053117",
-      "Region": "North America"
-    },
-    {
-      "Company": "Squarepoint Capital",
-      "Title": "Intern Software Developer - London - 2027",
-      "Location": "London",
-      "URL": "https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006",
-      "Source": "Greenhouse:squarepointcapital",
-      "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
-      "Region": "Europe"
     }
-  ],
-  "removed": []
+  ]
 }
