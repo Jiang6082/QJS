@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T16:52:42.914Z",
-  "currentScanAt": "2026-08-11T16:40:38.156Z",
+  "generatedAt": "2026-08-12T13:35:30.014Z",
+  "currentScanAt": "2026-08-12T13:22:55.976Z",
   "historicalTrackerUrls": 176,
   "roles": [
     {
@@ -118,6 +118,17 @@
     },
     {
       "Company": "AQR Capital Management",
+      "Title": "2027 Quantitative Prediction Markets Research Summer Analyst",
+      "Department": "University - Open Positions",
+      "Location": "Greenwich, CT",
+      "URL": "https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378",
+      "Source": "Career page Greenhouse:aqr",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=8122378 | internship timing: Summer | AQR Capital Management AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998. At AQR, our employees share a common spirit of academic excellence, intellectual honesty and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assumption. We recognize and respect the power of colla...",
+      "Region": "North America"
+    },
+    {
+      "Company": "AQR Capital Management",
       "Title": "2027 Research and Portfolio Management Engineering Summer Analyst",
       "Department": "University - Open Positions",
       "Location": "Greenwich, CT",
@@ -132,10 +143,10 @@
       "Title": "2027 Research Product Specialist Summer Analyst",
       "Department": "University - Open Positions",
       "Location": "Greenwich, CT",
-      "URL": "https://careers.aqr.com/jobs?gh_jid=7926704&gh_jid=7926704",
+      "URL": "https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095",
       "Source": "Career page Greenhouse:aqr",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=7926704 | internship timing: Summer; graduation eligibility mentions: 2027, 2028 | About AQR Capital Management AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998. At AQR, our employees share a common spirit of academic excellence, intellectual honesty and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assu...",
+      "Notes": "career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=8123095 | internship timing: Summer; graduation eligibility mentions: 2027, 2028 | About AQR Capital Management AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998. At AQR, our employees share a common spirit of academic excellence, intellectual honesty and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assu...",
       "Region": "North America"
     },
     {
@@ -716,17 +727,6 @@
     {
       "Company": "DRW",
       "Title": "Quantitative Trading Analyst Intern",
-      "Department": "Campus",
-      "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7957243 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Trading Analyst Intern , you will gain exposure to the dynamic worlds of trading and technology in order to learn what it takes to become a successful and sustainable trader. You will work on a small team to combine the disciplines of technology, research and risk management to identify optimal trading and investment strategies within the regulatory framework through a series of project-based assignments. At the conclusion of 10 weeks, you will have the opportunity to present your results to senior leadership at DRW. While your days will have you engrossed with complex quantitative tr...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Quantitative Trading Analyst Intern",
       "Department": "Campus Trading Analyst",
       "Location": "Chicago, Illinois",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
@@ -734,6 +734,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7668776 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Trading Analyst Intern , you will gain exposure to the dynamic worlds of trading and technology in order to learn what it takes to become a successful and sustainable trader. You will work on a small team to combine the disciplines of technology, research and risk management to identify optimal trading and investment strategies within the regulatory framework through a series of project based assignments. At the conclusion of 10 weeks, you will have the opportunity to present your results to senior leadership at DRW. While your days will have you engrossed with complex quantitative tr...",
       "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Quantitative Trading Analyst Intern",
+      "Department": "Campus",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7957243 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Trading Analyst Intern , you will gain exposure to the dynamic worlds of trading and technology in order to learn what it takes to become a successful and sustainable trader. You will work on a small team to combine the disciplines of technology, research and risk management to identify optimal trading and investment strategies within the regulatory framework through a series of project-based assignments. At the conclusion of 10 weeks, you will have the opportunity to present your results to senior leadership at DRW. While your days will have you engrossed with complex quantitative tr...",
+      "Region": "Europe"
     },
     {
       "Company": "DRW",
@@ -772,22 +783,22 @@
       "Company": "DRW",
       "Title": "Software Developer Intern",
       "Department": "Campus",
-      "Location": "Chicago",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "Location": "Montreal",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7991196 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will join one of our development teams supporting our network development initiatives or trading businesses. Depending on the team you join, you will build advanced trading, analysis and risk applications, or advanced monitoring and automation systems leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your internship. While your days will have you immersed in complex projects directly driving DRW's progress, your tim...",
       "Region": "North America"
     },
     {
       "Company": "DRW",
       "Title": "Software Developer Intern",
       "Department": "Campus",
-      "Location": "Montreal",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "Location": "Chicago",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7991196 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will join one of our development teams supporting our network development initiatives or trading businesses. Depending on the team you join, you will build advanced trading, analysis and risk applications, or advanced monitoring and automation systems leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your internship. While your days will have you immersed in complex projects directly driving DRW's progress, your tim...",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...",
       "Region": "North America"
     },
     {
@@ -857,16 +868,6 @@
       "Region": "North America"
     },
     {
-      "Company": "Five Rings",
-      "Title": "Summer Intern 2027 - Software Developer",
-      "Location": "New York",
-      "URL": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
-      "Source": "Greenhouse:fiveringsllc",
-      "Status": "Confirmed official posting",
-      "Notes": "internship timing: Summer",
-      "Region": "North America"
-    },
-    {
       "Company": "Flow Traders",
       "Title": "Trading Intern",
       "Department": "Trading",
@@ -922,6 +923,39 @@
     },
     {
       "Company": "IMC Trading",
+      "Title": "HK - 2027 - Quant Research Intern",
+      "Department": "Quantitative Research",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4941208101",
+      "Source": "Career page Greenhouse:imc",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4941208101 | internship timing not stated in title | IMC is a leading global trading firm that combines technology, advanced quantitative research, and cutting-edge machine learning techniques to trade a broad range of products globally. With a strong focus on innovation, we leverage quantitative models, high-performance computing, and a deep understanding of the markets to drive our trading decisions. As a Quant Research Intern, you’ll work at the intersection of data science, financial markets, and algorithmic trading, solving real-world challenges that drive our trading strategies. This internship program offers a unique opportunity to gain hands-on experience in quantitative research, supported by structured learning, real-world project work, and direct mentorship...",
+      "Region": "Asia"
+    },
+    {
+      "Company": "IMC Trading",
+      "Title": "HK - 2027 - Software Engineer Intern",
+      "Department": "Development (Group)",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4941206101",
+      "Source": "Career page Greenhouse:imc",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4941206101 | internship timing not stated in title | At IMC, Software Engineers don’t just write code and design technology. They are responsible for spotting new opportunities, developing new technologies, and solving problems. Every day, our software makes millions of trading decisions in some of the most competitive markets across the globe, and we win by making smarter and faster decisions than our competition. Our Software Engineers deliver results and make a difference. As a Software Engineer Intern at IMC, you will be supported by a mentor who will oversee your projects and professional development, while having access to pair programming and code reviews. During your internship, you will work on a real project, providing value to developers and traders. This y...",
+      "Region": "Asia"
+    },
+    {
+      "Company": "IMC Trading",
+      "Title": "HK - 2027 - Trader Intern",
+      "Department": "Screen & Quant Trading",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
+      "Source": "Career page Greenhouse:imc",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4941205101 | internship timing not stated in title | IMC is a fast, dynamic environment where you’re trusted to make decisions from day one. We trade a wide range of financial instruments in many different ways. This means we look for different types of traders, from the quantitative minds who enjoy the mathematical side of trading to those who want more of the fast-paced, hands-on style of trading and have a higher appetite for risk. Our traders all share one thing in common — they are at their best when solving complex problems. Their insights into global events, market shifts, and pricing ensure that we always trade in the right place, at the right time. Our 10-week trading internship is your chance to experience life as a trader at IMC. You’ll have all the support...",
+      "Region": "Asia"
+    },
+    {
+      "Company": "IMC Trading",
       "Title": "Macro Analyst Intern",
       "Department": "Trading Services ",
       "Location": "Amsterdam, Netherlands",
@@ -972,7 +1006,7 @@
       "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
       "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted 5 Days Ago | R-15052",
+      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Yesterday | R-15052",
       "Region": "North America"
     },
     {
@@ -998,6 +1032,16 @@
     {
       "Company": "Jane Street",
       "Title": "IT Operations Engineer",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8641377002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Technology",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "IT Operations Engineer",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8651274002/",
       "Source": "Official Jane Street jobs feed",
@@ -1007,9 +1051,9 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "IT Operations Engineer",
+      "Title": "Linux Engineer",
       "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8641377002/",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Technology",
@@ -1037,29 +1081,9 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Linux Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Technology",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Jane Street",
       "Title": "Machine Learning Engineer",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8648474002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
-      "Region": "Europe"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Quantitative Researcher",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8474416002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
@@ -1077,9 +1101,9 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Quantitative Trader",
+      "Title": "Quantitative Researcher",
       "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8474407002/",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8474416002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
@@ -1094,6 +1118,16 @@
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
       "Region": "Asia"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Quantitative Trader",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8474407002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
+      "Region": "Europe"
     },
     {
       "Company": "Jane Street",
@@ -1148,22 +1182,22 @@
     {
       "Company": "Jane Street",
       "Title": "Strategy and Product",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8630713002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Strategy and Product",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Strategy and Product",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8518854002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Strategy and Product",
       "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Strategy and Product",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8630713002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Strategy and Product",
+      "Region": "Asia"
     },
     {
       "Company": "Jane Street",
@@ -1225,7 +1259,7 @@
       "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern--Campus-_REQ-053117-2",
       "Source": "Career page Workday:morningstar/morningstar",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted Yesterday | REQ-053117",
+      "Notes": "career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted 2 Days Ago | REQ-053117",
       "Region": "North America"
     },
     {
@@ -1236,7 +1270,7 @@
       "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027_REQ-057999",
       "Source": "Career page Workday:morningstar/morningstar",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted 6 Days Ago | REQ-057999",
+      "Notes": "career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted Yesterday | REQ-057999",
       "Region": "North America"
     },
     {
@@ -1259,6 +1293,36 @@
       "Status": "Confirmed official posting",
       "Notes": "internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found",
       "Region": "North America"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "2027 Shanghai FPGA Developer Summer Internship",
+      "Location": "Shanghai, China",
+      "URL": "https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing: Summer; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "2027 Shanghai Machine Learning Engineer Summer Internship",
+      "Location": "Shanghai, China",
+      "URL": "https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing: Summer; graduation eligibility mentions: 2028; undergrad/BS/MS language found",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "2027 Shanghai Software Developer Summer Internship",
+      "Location": "Shanghai, China",
+      "URL": "https://www.optiver.com/join-us/jobs/8623927002/?gh_jid=8623927002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing: Summer; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found",
+      "Region": "Asia"
     },
     {
       "Company": "Optiver",
@@ -1313,6 +1377,16 @@
     },
     {
       "Company": "Optiver",
+      "Title": "Quantitative Trading Internship (Summer 2027 - Shanghai)",
+      "Location": "Shanghai, China",
+      "URL": "https://www.optiver.com/join-us/jobs/8623923002/?gh_jid=8623923002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing: Summer 2027; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Optiver",
       "Title": "Quantitative Trading Internship (Taiwan) - 2027",
       "Location": "Taipei, Taiwan",
       "URL": "https://www.optiver.com/join-us/jobs/8011956002/?gh_jid=8011956002",
@@ -1354,6 +1428,48 @@
       "Region": "North America"
     },
     {
+      "Company": "Peak6",
+      "Title": "Trading Bootcamp Micro-Internship - Summer 2027",
+      "Department": "",
+      "Location": "Chicago, IL",
+      "URL": "https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057-1",
+      "Source": "Career page Workday:peak6group/PEAK6",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted Yesterday | JR105057",
+      "Region": "North America"
+    },
+    {
+      "Company": "Peak6",
+      "Title": "Trading Internship for Women+ Summer 2027",
+      "Department": "",
+      "Location": "Chicago, IL",
+      "URL": "https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Internship-for-Women--Summer-2027_JR105061",
+      "Source": "Career page Workday:peak6group/PEAK6",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted Yesterday | JR105061",
+      "Region": "North America"
+    },
+    {
+      "Company": "Quantbot Technologies",
+      "Title": "Data Trading Analyst Summer Internship - 2027 [Hong Kong]",
+      "Location": "Hong Kong",
+      "URL": "https://www.quantbot.com/careers/4344638009?gh_jid=4344638009",
+      "Source": "Greenhouse:quantbot-technologies",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing: Summer; undergrad/BS/MS language found",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Quantbot Technologies",
+      "Title": "Data Trading Analyst Summer Internship - 2027 [London]",
+      "Location": "London",
+      "URL": "https://www.quantbot.com/careers/4299858009?gh_jid=4299858009",
+      "Source": "Greenhouse:quantbot-technologies",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing: Summer; undergrad/BS/MS language found",
+      "Region": "Europe"
+    },
+    {
       "Company": "Quantbot Technologies",
       "Title": "Data Trading Analyst Summer Internship - 2027 [New York]",
       "Location": "New York",
@@ -1382,6 +1498,26 @@
       "Status": "Confirmed official posting",
       "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
       "Region": "North America"
+    },
+    {
+      "Company": "Quantbot Technologies",
+      "Title": "Quantitative Researcher Internship - 2027 [Hong Kong]",
+      "Location": "Hong Kong",
+      "URL": "https://www.quantbot.com/careers/4348629009?gh_jid=4348629009",
+      "Source": "Greenhouse:quantbot-technologies",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Quantbot Technologies",
+      "Title": "Quantitative Researcher Internship - 2027 [London]",
+      "Location": "London",
+      "URL": "https://www.quantbot.com/careers/4299863009?gh_jid=4299863009",
+      "Source": "Greenhouse:quantbot-technologies",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
+      "Region": "Europe"
     },
     {
       "Company": "Quantbot Technologies",
@@ -1655,17 +1791,6 @@
     },
     {
       "Company": "Susquehanna International Group",
-      "Title": "Quantitative Strategy Developer Internship: Summer 2027",
-      "Department": "Technology - Software Engineering, Interns + Co-ops",
-      "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
-      "URL": "https://careers.sig.com/jobs/10838?lang=en-us",
-      "Source": "Official SIG jobs API",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-04-23T17:38:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into financial markets and Susquehanna’s approach to trading. You will also work on challenging projects for our trading strategy development teams in spaces such as signal creation and detection, quantitative strategy analysis, and low latency C++ strategy development. Additionally, you’ll have the opportunity to work on projects side by side with...",
-      "Region": "North America"
-    },
-    {
-      "Company": "Susquehanna International Group",
       "Title": "Quantitative Systematic Trading Internship - Master's: Summer 2027",
       "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
       "Location": "Hong Kong, Hong Kong",
@@ -1932,6 +2057,17 @@
       "Company": "Virtu Financial",
       "Title": "2027 Internship - Quantitative Trading",
       "Department": "Internships",
+      "Location": "Austin, TX; Chicago; New York",
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+      "Source": "Career page Greenhouse:virtu",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8624408002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Virtu Financial",
+      "Title": "2027 Internship - Quantitative Trading",
+      "Department": "Internships",
       "Location": "Singapore",
       "URL": "https://job-boards.greenhouse.io/virtu/jobs/5208637002",
       "Source": "Career page Greenhouse:virtu",
@@ -1941,13 +2077,13 @@
     },
     {
       "Company": "Virtu Financial",
-      "Title": "2027 Internship - Quantitative Trading",
+      "Title": "2027 Internship - Software Engineer",
       "Department": "Internships",
-      "Location": "Austin, TX; Chicago; New York",
-      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+      "Location": "Austin, TX; New York",
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
       "Source": "Career page Greenhouse:virtu",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8624408002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
+      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8624410002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
       "Region": "North America"
     },
     {
@@ -1960,17 +2096,6 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8551566002 | internship timing not stated in title; graduation eligibility mentions: 2028 | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up with the stability of a disciplined financial services firm. We are a flat organisation and encourage our people to innovate and lean on their team...",
       "Region": "Europe"
-    },
-    {
-      "Company": "Virtu Financial",
-      "Title": "2027 Internship - Software Engineer",
-      "Department": "Internships",
-      "Location": "Austin, TX; New York",
-      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
-      "Source": "Career page Greenhouse:virtu",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8624410002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
-      "Region": "North America"
     },
     {
       "Company": "Virtu Financial",

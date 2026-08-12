@@ -1,11 +1,17 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 31
-Last updated: 2026-08-11T16:40:38.156Z
+Total closures recorded: 34
+Last updated: 2026-08-12T13:22:55.976Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-08-12 (3)
+
+- **AQR Capital Management** - [2027 Research Product Specialist Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926704&gh_jid=7926704) - Greenwich, CT
+- **Five Rings** - [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) - New York
+- **Susquehanna International Group** - [Quantitative Strategy Developer Internship: Summer 2027](https://careers.sig.com/jobs/10838?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
 
 ### 2026-08-10 (1)
 

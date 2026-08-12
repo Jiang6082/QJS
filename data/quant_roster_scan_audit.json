@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-11T16:52:42.838Z",
-  "scanStartedAt": "2026-08-11T16:40:38.156Z",
+  "generatedAt": "2026-08-12T13:35:29.973Z",
+  "scanStartedAt": "2026-08-12T13:22:55.976Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 41,
+    "matching-role-found": 42,
     "confirmed-no-open-postings": 3,
     "confirmed-openings-no-matching-role": 49,
-    "could-not-fully-verify": 211
+    "could-not-fully-verify": 210
   },
   "companies": [
     {
@@ -285,8 +285,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 47,
-      "relevantInternships": 7
+      "jobsSeen": 48,
+      "relevantInternships": 8
     },
     {
       "company": "Accent Groupe",
@@ -427,7 +427,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 16,
+      "jobsSeen": 17,
       "relevantInternships": 0
     },
     {
@@ -717,7 +717,7 @@
         "https://www.citadelsecurities.com/careers/open-opportunities/",
         "https://www.citadelsecurities.com/careers/students/"
       ],
-      "livePages": 4,
+      "livePages": 0,
       "attemptedPages": 4,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -761,7 +761,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 181,
+      "jobsSeen": 182,
       "relevantInternships": 17
     },
     {
@@ -944,7 +944,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantInternships": 0
     },
     {
@@ -970,7 +970,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 30,
+      "jobsSeen": 29,
       "relevantInternships": 0
     },
     {
@@ -1094,7 +1094,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
+      "jobsSeen": 7,
       "relevantInternships": 1
     },
     {
@@ -1238,7 +1238,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 72,
+      "jobsSeen": 71,
       "relevantInternships": 2
     },
     {
@@ -1282,7 +1282,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 231,
+      "jobsSeen": 232,
       "relevantInternships": 0
     },
     {
@@ -1428,7 +1428,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 42,
+      "jobsSeen": 43,
       "relevantInternships": 2
     },
     {
@@ -1454,7 +1454,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/gsrmarkets/jobs/4421987101"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 6,
       "relevantInternships": 0
@@ -2027,7 +2027,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -2102,8 +2102,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 164,
-      "relevantInternships": 11
+      "jobsSeen": 165,
+      "relevantInternships": 14
     },
     {
       "company": "Independent Trading Group (ITG)",
@@ -2418,7 +2418,7 @@
         "https://job-boards.greenhouse.io/radixuniversity",
         "https://job-boards.greenhouse.io/radixexperienced"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 4,
       "jobsSeen": 23,
       "relevantInternships": 2
@@ -2644,14 +2644,14 @@
       "sourceRosterNames": [
         "PEAK6"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://peak6group.wd1.myworkdayjobs.com/PEAK6"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
-      "relevantInternships": 0
+      "jobsSeen": 11,
+      "relevantInternships": 2
     },
     {
       "company": "Prime Trading",
@@ -2981,13 +2981,13 @@
       "sourceRosterNames": [
         "Quadrature Capital (QRT)"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://job-boards.greenhouse.io/quadraturecapital?error=true"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 4,
       "relevantInternships": 0
     },
     {
@@ -3121,7 +3121,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3638,7 +3638,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 56,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -3737,7 +3737,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/vaticlabs/jobs/3137555"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 11,
       "relevantInternships": 1
@@ -3753,7 +3753,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 31,
+      "jobsSeen": 30,
       "relevantInternships": 0
     },
     {
@@ -3875,8 +3875,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 78,
-      "relevantInternships": 4
+      "jobsSeen": 79,
+      "relevantInternships": 5
     },
     {
       "company": "Two Sigma",
@@ -3918,7 +3918,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 46,
+      "jobsSeen": 47,
       "relevantInternships": 12
     },
     {
@@ -4066,7 +4066,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 55,
+      "jobsSeen": 57,
       "relevantInternships": 0
     },
     {
@@ -4207,7 +4207,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 100,
+      "jobsSeen": 101,
       "relevantInternships": 6
     },
     {

@@ -1,5 +1,38 @@
 [
   {
+    "Company": "AQR Capital Management",
+    "Title": "2027 Research Product Specialist Summer Analyst",
+    "Location": "Greenwich, CT",
+    "Region": "North America",
+    "URL": "https://careers.aqr.com/jobs?gh_jid=7926704&gh_jid=7926704",
+    "Source": "Career page Greenhouse:aqr",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-11T16:40:38.156Z",
+    "detectedClosedAt": "2026-08-12T13:22:55.976Z"
+  },
+  {
+    "Company": "Five Rings",
+    "Title": "Summer Intern 2027 - Software Developer",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+    "Source": "Greenhouse:fiveringsllc",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-11T16:40:38.156Z",
+    "detectedClosedAt": "2026-08-12T13:22:55.976Z"
+  },
+  {
+    "Company": "Susquehanna International Group",
+    "Title": "Quantitative Strategy Developer Internship: Summer 2027",
+    "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "Region": "North America",
+    "URL": "https://careers.sig.com/jobs/10838?lang=en-us",
+    "Source": "Official SIG jobs API",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-11T16:40:38.156Z",
+    "detectedClosedAt": "2026-08-12T13:22:55.976Z"
+  },
+  {
     "Company": "RRS Group",
     "Title": "2027 Software Engineer Intern - Placement Year",
     "Location": "Remote",
