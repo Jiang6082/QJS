@@ -1,5 +1,27 @@
 [
   {
+    "Company": "Quantbot Technologies",
+    "Title": "Software Engineer Summer Internship - 2027 [New York]",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009",
+    "Source": "Greenhouse:quantbot-technologies",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-12T13:22:55.976Z",
+    "detectedClosedAt": "2026-08-13T03:34:59.574Z"
+  },
+  {
+    "Company": "WorldQuant",
+    "Title": "Quantitative Research Intern",
+    "Location": "Singapore",
+    "Region": "Asia",
+    "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4314066006",
+    "Source": "Career page Greenhouse:worldquant",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-12T13:22:55.976Z",
+    "detectedClosedAt": "2026-08-13T03:34:59.574Z"
+  },
+  {
     "Company": "AQR Capital Management",
     "Title": "2027 Research Product Specialist Summer Analyst",
     "Location": "Greenwich, CT",
@@ -19,7 +41,8 @@
     "Source": "Greenhouse:fiveringsllc",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-11T16:40:38.156Z",
-    "detectedClosedAt": "2026-08-12T13:22:55.976Z"
+    "detectedClosedAt": "2026-08-12T13:22:55.976Z",
+    "reopenedAt": "2026-08-13T03:34:59.574Z"
   },
   {
     "Company": "Susquehanna International Group",
@@ -30,7 +53,8 @@
     "Source": "Official SIG jobs API",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-11T16:40:38.156Z",
-    "detectedClosedAt": "2026-08-12T13:22:55.976Z"
+    "detectedClosedAt": "2026-08-12T13:22:55.976Z",
+    "reopenedAt": "2026-08-13T03:34:59.574Z"
   },
   {
     "Company": "RRS Group",

@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-08-12T13:22:55.976Z
+Scan started: 2026-08-13T03:34:59.574Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 
@@ -141,7 +141,7 @@ Canonical companies after aliases: 304
 | Cascade Systems | 1/1 pages live | [link](https://cascadesystems.net/careers/) |
 | Chimera Securities | 1/1 pages live | [link](https://www.chimerasecurities.com/careers) |
 | Consolidated Trading | no saved page attempted | none |
-| Criterion Arbitrage & Trading | 0/1 pages live | [link](https://www.criterion-trading.nl/m/join.html) |
+| Criterion Arbitrage & Trading | 1/1 pages live | [link](https://www.criterion-trading.nl/m/join.html) |
 | D2X | 1/1 pages live | [link](https://d2x.com/careers) |
 | Ace Capital Saires | 1/1 pages live | [link](https://careers.acehardware.com/) |
 | All Options | 1/1 pages live | [link](https://www.alloptions-international.com/careers/) |
@@ -161,7 +161,7 @@ Canonical companies after aliases: 304
 | ArbitragePoint Trading | no saved page attempted | none |
 | Arrowstreet Capital | 1/1 pages live | [link](https://www.arrowstreetcapital.com/professional-careers/) |
 | B2C2 | 2/2 pages live | [link](https://www.b2c2.com/join-b2c2/careers) [link](https://job-boards.greenhouse.io/b2c2) |
-| Barak Capital | 0/1 pages live | [link](https://barakmarketmaking.com/careers/) |
+| Barak Capital | 1/1 pages live | [link](https://barakmarketmaking.com/careers/) |
 | Black Eagle Financial Group | 1/1 pages live | [link](https://blackeaglefg.com/stock-market-job/) |
 | Boston Energy Trading and Marketing | 1/1 pages live | [link](https://www.betm.com/careers) |
 | CTS Global Equity Group | 2/2 pages live | [link](https://www.ctsglobalgroup.com/) [link](https://www.ctsglobalgroup.com/internship) |
@@ -180,7 +180,7 @@ Canonical companies after aliases: 304
 | Integrated Quantitative Investments | no saved page attempted | none |
 | Kershner Trading Group | 1/1 pages live | [link](https://kershnertrading.applicantstack.com/x/openings) |
 | Kvantium Research | no saved page attempted | none |
-| DWF Labs | 1/1 pages live | [link](https://www.dwf-labs.com/careers) |
+| DWF Labs | 0/1 pages live | [link](https://www.dwf-labs.com/careers) |
 | Deep Blue Capital | 0/1 pages live | [link](https://deepbluecap.com/vacancies/) |
 | Dexterity Capital | no saved page attempted | none |
 | Domstad Traders | no saved page attempted | none |
@@ -230,9 +230,9 @@ Canonical companies after aliases: 304
 | Linitics | no saved page attempted | none |
 | Lucida | no saved page attempted | none |
 | Marquette Partners | 1/1 pages live | [link](http://www.marquettepartnersholdingsllc.com/#careers) |
-| Mercuria Energy Group | 0/1 pages live | [link](https://mercuria.com/careers/) |
+| Mercuria Energy Group | 1/1 pages live | [link](https://mercuria.com/careers/) |
 | Minghong | 1/1 pages live | [link](https://join.mhfunds.com) |
-| Mingshi Investment Management | 0/2 pages live | [link](https://www.mingshiim.com/join) [link](https://en.mingshiim.com/join) |
+| Mingshi Investment Management | 2/2 pages live | [link](https://www.mingshiim.com/join) [link](https://en.mingshiim.com/join) |
 | Nitor Energy | 1/1 pages live | [link](https://nitorenergy.com/career/) |
 | Nyenburgh | no saved page attempted | none |
 | OTC Flow | 1/1 pages live | [link](https://otc-flow.webflow.io/careers) |
@@ -260,7 +260,7 @@ Canonical companies after aliases: 304
 | Scientech Research Capital | 1/1 pages live | [link](https://www.scientechresearch.io/jobopenings) |
 | Lone Pine Capital | no saved page attempted | none |
 | Mathrix | 1/1 pages live | [link](https://mathrix.recruitee.com/) |
-| Mercuria | 0/1 pages live | [link](https://mercuria.com/careers/) |
+| Mercuria | 1/1 pages live | [link](https://mercuria.com/careers/) |
 | Minghong Investment | 1/1 pages live | [link](https://join.mhfunds.com) |
 | Nine Mile | 1/1 pages live | [link](https://www.nmftrading.com/careers) |
 | Northpool | 1/1 pages live | [link](https://www.northpool.nl/vacancies) |
@@ -279,7 +279,7 @@ Canonical companies after aliases: 304
 | Los Angeles Capital Management | 1/1 pages live | [link](https://lacapm.com/careers) |
 | Market Wizards | 1/1 pages live | [link](https://marketwizards.com/careers/) |
 | Matrix Executions | 0/1 pages live | [link](https://matrixexecutions.com/careers/) |
-| Mercuria Energy America | 0/1 pages live | [link](https://mercuria.com/careers/) |
+| Mercuria Energy America | 1/1 pages live | [link](https://mercuria.com/careers/) |
 | Millennium | 2/2 pages live | [link](https://mlp.wd5.myworkdayjobs.com/mlpcareers) [link](https://www.mlp.com/careers/) |
 | Mingshi / Minghong | 2/2 pages live | [link](https://join.mhfunds.com/index) [link](https://www.mhfunds.com/) |
 | Murano Group | no saved page attempted | none |

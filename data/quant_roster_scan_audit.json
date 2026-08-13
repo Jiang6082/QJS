@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T13:35:29.973Z",
-  "scanStartedAt": "2026-08-12T13:22:55.976Z",
+  "generatedAt": "2026-08-13T03:38:34.897Z",
+  "scanStartedAt": "2026-08-13T03:34:59.574Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -395,7 +395,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 15,
+      "jobsSeen": 14,
       "relevantInternships": 3
     },
     {
@@ -427,7 +427,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantInternships": 0
     },
     {
@@ -493,7 +493,7 @@
       "careerPages": [
         "https://www.criterion-trading.nl/m/join.html"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -761,7 +761,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 182,
+      "jobsSeen": 180,
       "relevantInternships": 17
     },
     {
@@ -883,7 +883,7 @@
       "careerPages": [
         "https://barakmarketmaking.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1024,8 +1024,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 58,
-      "relevantInternships": 4
+      "jobsSeen": 59,
+      "relevantInternships": 5
     },
     {
       "company": "Danske Commodities",
@@ -1238,7 +1238,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 71,
+      "jobsSeen": 72,
       "relevantInternships": 2
     },
     {
@@ -1320,7 +1320,7 @@
       "careerPages": [
         "https://www.dwf-labs.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1428,7 +1428,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 43,
+      "jobsSeen": 44,
       "relevantInternships": 2
     },
     {
@@ -2234,7 +2234,7 @@
       "careerPages": [
         "https://mercuria.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2263,7 +2263,7 @@
         "https://www.mingshiim.com/join",
         "https://en.mingshiim.com/join"
       ],
-      "livePages": 0,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2830,7 +2830,7 @@
       "careerPages": [
         "https://mercuria.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3135,7 +3135,7 @@
       "careerPages": [
         "https://mercuria.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3234,7 +3234,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 34,
+      "jobsSeen": 35,
       "relevantInternships": 1
     },
     {
@@ -3918,8 +3918,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 47,
-      "relevantInternships": 12
+      "jobsSeen": 46,
+      "relevantInternships": 13
     },
     {
       "company": "Verition Fund Management",
@@ -4066,7 +4066,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 57,
+      "jobsSeen": 56,
       "relevantInternships": 0
     },
     {
@@ -4207,8 +4207,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 101,
-      "relevantInternships": 6
+      "jobsSeen": 100,
+      "relevantInternships": 5
     },
     {
       "company": "Xantium",

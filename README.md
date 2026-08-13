@@ -2,7 +2,7 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-08-12 &nbsp;•&nbsp; **316 open roles** &nbsp;•&nbsp; **16 new today** &nbsp;•&nbsp; **34 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-08-13 &nbsp;•&nbsp; **319 open roles** &nbsp;•&nbsp; **5 new today** &nbsp;•&nbsp; **36 closed** ([history](reports/closed_roles_history.md))
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -10,47 +10,36 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-08-12_
+_Scan date: 2026-08-13_
 
-**16** new stable job postings since the previous scan:
+**5** new stable job postings since the previous scan:
 
 **North America**
 
-- **AQR Capital Management** — [2027 Quantitative Prediction Markets Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) — Greenwich, CT
-- **AQR Capital Management** — [2027 Research Product Specialist Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) — Greenwich, CT
-- **Peak6** — [Trading Bootcamp Micro-Internship - Summer 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057-1) — Chicago, IL
-- **Peak6** — [Trading Internship for Women+ Summer 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Internship-for-Women--Summer-2027_JR105061) — Chicago, IL
+- **Five Rings** — [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) — New York
+- **Susquehanna International Group** — [Quantitative Strategy Developer Internship: Summer 2027](https://careers.sig.com/jobs/10838?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 
 **Europe**
 
-- **Quantbot Technologies** — [Data Trading Analyst Summer Internship - 2027 [London]](https://www.quantbot.com/careers/4299858009?gh_jid=4299858009) — London
-- **Quantbot Technologies** — [Quantitative Researcher Internship - 2027 [London]](https://www.quantbot.com/careers/4299863009?gh_jid=4299863009) — London
-- **Tower Research Capital** — [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986) — London
+- **DV Trading** — [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) — London
+- **Virtu Financial** — [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002) — Dublin, Ireland
 
 **Asia**
 
-- **IMC Trading** — [HK - 2027 - Quant Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101) — Hong Kong, Hong Kong
-- **IMC Trading** — [HK - 2027 - Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) — Hong Kong, Hong Kong
-- **IMC Trading** — [HK - 2027 - Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101) — Hong Kong, Hong Kong
-- **Optiver** — [2027 Shanghai FPGA Developer Summer Internship](https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002) — Shanghai, China
-- **Optiver** — [2027 Shanghai Machine Learning Engineer Summer Internship](https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002) — Shanghai, China
-- **Optiver** — [2027 Shanghai Software Developer Summer Internship](https://www.optiver.com/join-us/jobs/8623927002/?gh_jid=8623927002) — Shanghai, China
-- **Optiver** — [Quantitative Trading Internship (Summer 2027 - Shanghai)](https://www.optiver.com/join-us/jobs/8623923002/?gh_jid=8623923002) — Shanghai, China
-- **Quantbot Technologies** — [Data Trading Analyst Summer Internship - 2027 [Hong Kong]](https://www.quantbot.com/careers/4344638009?gh_jid=4344638009) — Hong Kong
-- **Quantbot Technologies** — [Quantitative Researcher Internship - 2027 [Hong Kong]](https://www.quantbot.com/careers/4348629009?gh_jid=4348629009) — Hong Kong
+- **Optiver** — [Quantitative Research Internship, Bachelor's or Master's (Summer 2027 - Shanghai)](https://www.optiver.com/join-us/jobs/8644376002/?gh_jid=8644376002) — Shanghai, China
 
 ---
 
 ## 📋 All Roles Available
 
-**316** open internship roles, grouped by region. Click a title to open the official posting.
+**319** open internship roles, grouped by region. Click a title to open the official posting.
 
-**Regions:** [North America (162)](#north-america) · [Europe (65)](#europe) · [Asia (72)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (8)](#global--multiple-regions) · [Remote / Unspecified (4)](#remote--unspecified)
+**Regions:** [North America (163)](#north-america) · [Europe (67)](#europe) · [Asia (72)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (8)](#global--multiple-regions) · [Remote / Unspecified (4)](#remote--unspecified)
 
 ### North America
 
 <details>
-<summary><strong>162 roles</strong> — click to expand</summary>
+<summary><strong>163 roles</strong> — click to expand</summary>
 
 - **Akuna** — [Hardware Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) — Chicago, IL
 - **Akuna** — [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) — Chicago, IL
@@ -105,12 +94,13 @@ _Scan date: 2026-08-12_
 - **DRW** — [Platform Engineer Intern](https://job-boards.greenhouse.io/drweng/jobs/7997729) — Chicago
 - **DRW** — [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) — Chicago, New York City
 - **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) — Chicago, Illinois
-- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) — Montreal
 - **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) — Chicago
+- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) — Montreal
 - **DRW** — [Strategy Intern](https://job-boards.greenhouse.io/drweng/jobs/7992670) — Chicago, IL
 - **DV Trading** — [Quantitative Risk Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) — Chicago
 - **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) — New York
 - **Five Rings** — [Summer Intern 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) — New York
+- **Five Rings** — [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) — New York
 - **Flow Traders** — [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) — New York
 - **Goldman Sachs** — [2027 \| Americas \| New York City Area \| Wealth Management, Quantitative Finance \| Summer Analyst](https://higher.gs.com/roles/155800) — New York
 - **Group One Trading** — [Trading Analyst Intern](https://group1.applicantpro.com/jobs/3859850) — Chicago, IL
@@ -172,7 +162,6 @@ _Scan date: 2026-08-12_
 - **Quantbot Technologies** — [Machine Learning Research Engineer Internship - 2027 [New York]](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) — New York
 - **Quantbot Technologies** — [Quantitative Developer Internship - 2027 [New York]](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) — New York
 - **Quantbot Technologies** — [Quantitative Researcher Internship - 2027 [New York]](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) — New York
-- **Quantbot Technologies** — [Software Engineer Summer Internship - 2027 [New York]](https://www.quantbot.com/careers/4299458009?gh_jid=4299458009) — New York
 - **Radix Trading** — [Quantitative Technologist (C++ Intern)](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) — Chicago
 - **Stevens Capital Management** — [Developer Internship](https://job-boards.greenhouse.io/scm/jobs/721888) — Radnor, PA
 - **Stevens Capital Management** — [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895) — Radnor, PA
@@ -186,6 +175,7 @@ _Scan date: 2026-08-12_
 - **Susquehanna International Group** — [Macro Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10725?lang=en-us) — New York, New York
 - **Susquehanna International Group** — [Quantitative Research Internship – Master's: Summer 2027](https://careers.sig.com/jobs/10820?lang=en-us) — New York, New York
 - **Susquehanna International Group** — [Quantitative Research Internship – Master's: Summer 2027](https://careers.sig.com/jobs/10819?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** — [Quantitative Strategy Developer Internship: Summer 2027](https://careers.sig.com/jobs/10838?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **Susquehanna International Group** — [Quantitative Systematic Trading Internship – Master's: Summer 2027](https://careers.sig.com/jobs/10824?lang=en-us) — New York, New York
 - **Susquehanna International Group** — [Quantitative Systematic Trading Internship – Master's: Summer 2027](https://careers.sig.com/jobs/10823?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **Susquehanna International Group** — [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10849?lang=en-us) — Chicago, Illinois
@@ -193,7 +183,7 @@ _Scan date: 2026-08-12_
 - **Susquehanna International Group** — [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10717?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **Susquehanna International Group** — [Trading System Engineering Internship: Summer 2027](https://careers.sig.com/jobs/10837?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **Tower Research Capital** — [Quantitative Developer Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8044334) — New York, Chicago
-- **Tower Research Capital** — [Quantitative Trader Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) — New York, Chicago
+- **Tower Research Capital** — [Quantitative Trader/Researcher Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) — New York, Chicago
 - **TransMarket Group** — [Algorithmic Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151581007?gh_jid=5151581007) — Chicago, Illinois, United States
 - **TransMarket Group** — [DevOps/SRE Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) — Chicago, Illinois, United States
 - **TransMarket Group** — [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) — Chicago, Illinois, United States
@@ -220,7 +210,7 @@ _Scan date: 2026-08-12_
 ### Europe
 
 <details>
-<summary><strong>65 roles</strong> — click to expand</summary>
+<summary><strong>67 roles</strong> — click to expand</summary>
 
 - **Chicago Trading Company** — [Quant Trading Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005) — London, England, United Kingdom
 - **Citadel** — [International Equities Associate - Intern (Europe)](https://www.citadel.com/careers/details/international-equities-associate-intern-europe/) — London
@@ -239,9 +229,10 @@ _Scan date: 2026-08-12_
 - **DRW** — [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8070392) — London
 - **DRW** — [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7957756) — London
 - **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243) — London
-- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364) — Amsterdam
 - **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) — London
+- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364) — Amsterdam
 - **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) — London
+- **DV Trading** — [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) — London
 - **GSA Capital** — [Software Developer - Intern](https://www.gsacapital.com/careers/gh/?gh_jid=8570668002) — London
 - **IMC Trading** — [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) — Amsterdam, Netherlands
 - **IMC Trading** — [Machine Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) — Amsterdam, Netherlands
@@ -282,6 +273,7 @@ _Scan date: 2026-08-12_
 - **Susquehanna International Group** — [Quantitative Trading Internship: Summer 2027](https://careers.sig.com/jobs/11005?lang=en-us) — London, United Kingdom
 - **Susquehanna International Group** — [Quantitative Trading Internship: Summer 2027](https://careers.sig.com/jobs/10839?lang=en-us) — Dublin, Ireland
 - **Tower Research Capital** — [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986) — London
+- **Virtu Financial** — [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002) — Dublin, Ireland
 - **Virtu Financial** — [2027 Internship - Quantitative Researcher (Master or PhD)](https://job-boards.greenhouse.io/virtu/jobs/8631180002) — Dublin, Ireland
 - **Virtu Financial** — [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002) — Dublin, Ireland
 - **Virtu Financial** — [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) — Dublin, Ireland
@@ -313,9 +305,9 @@ _Scan date: 2026-08-12_
 - **Engineers Gate** — [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/7946542) — Hong Kong
 - **Flow Traders** — [Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8102618) — Hong Kong
 - **Goldman Sachs** — [2027 \| APEJ \| Singapore \| FICC and Equities (Sales and Trading) Quantitative Strats \| Summer Analyst](https://higher.gs.com/roles/170600) — Singapore
-- **IMC Trading** — [HK - 2027 - Quant Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101) — Hong Kong, Hong Kong
-- **IMC Trading** — [HK - 2027 - Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) — Hong Kong, Hong Kong
-- **IMC Trading** — [HK - 2027 - Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101) — Hong Kong, Hong Kong
+- **IMC Trading** — [Quant Research Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101) — Hong Kong, Hong Kong
+- **IMC Trading** — [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) — Hong Kong, Hong Kong
+- **IMC Trading** — [Trader Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101) — Hong Kong, Hong Kong
 - **Jane Street** — [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8641377002/) — Hong Kong
 - **Jane Street** — [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8377831002/) — Hong Kong
 - **Jane Street** — [Linux Engineer](https://www.janestreet.com/join-jane-street/position/8625946002/) — Hong Kong
@@ -342,6 +334,7 @@ _Scan date: 2026-08-12_
 - **Optiver** — [2027 Shanghai FPGA Developer Summer Internship](https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002) — Shanghai, China
 - **Optiver** — [2027 Shanghai Machine Learning Engineer Summer Internship](https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002) — Shanghai, China
 - **Optiver** — [2027 Shanghai Software Developer Summer Internship](https://www.optiver.com/join-us/jobs/8623927002/?gh_jid=8623927002) — Shanghai, China
+- **Optiver** — [Quantitative Research Internship, Bachelor's or Master's (Summer 2027 - Shanghai)](https://www.optiver.com/join-us/jobs/8644376002/?gh_jid=8644376002) — Shanghai, China
 - **Optiver** — [Quantitative Trading Internship (Singapore) - 2027](https://www.optiver.com/join-us/jobs/8642260002/?gh_jid=8642260002) — Singapore
 - **Optiver** — [Quantitative Trading Internship (Summer 2027 - Shanghai)](https://www.optiver.com/join-us/jobs/8623923002/?gh_jid=8623923002) — Shanghai, China
 - **Optiver** — [Quantitative Trading Internship (Taiwan) - 2027](https://www.optiver.com/join-us/jobs/8011956002/?gh_jid=8011956002) — Taipei, Taiwan
@@ -364,7 +357,6 @@ _Scan date: 2026-08-12_
 - **WorldQuant** — [Data Science Intern](https://job-boards.greenhouse.io/worldquant/jobs/4069460006) — Beijing OR Shanghai
 - **WorldQuant** — [Quant Developer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4572988006) — Singapore
 - **WorldQuant** — [Quantitative Research Intern](https://job-boards.greenhouse.io/worldquant/jobs/4084570006) — Beijing OR Shanghai
-- **WorldQuant** — [Quantitative Research Intern](https://job-boards.greenhouse.io/worldquant/jobs/4314066006) — Singapore
 - **WorldQuant** — [Quantitative Research Intern (LLMs & AI Agents)](https://job-boards.greenhouse.io/worldquant/jobs/4434997006) — Hanoi or Ho Chi Minh City
 - **WorldQuant** — [Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4652485006) — Hanoi
 
@@ -462,7 +454,7 @@ Every `v2`/`all` run rebuilds [reports/LATEST_QUANT_SCAN.md](reports/LATEST_QUAN
 | [reports/quant_internship_roles_scan_v2.csv](reports/quant_internship_roles_scan_v2.csv) | Full current role list (spreadsheet) |
 | [reports/current_quant_roles_not_in_tracker.md](reports/current_quant_roles_not_in_tracker.md) | Current roles absent from the older application tracker |
 | [reports/quant_roster_scan_audit.md](reports/quant_roster_scan_audit.md) | 303-firm roster split into confirmed vs. unverifiable states |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (34 so far) |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (36 so far) |
 | [inputs/company_career_pages.json](inputs/company_career_pages.json) | Seeded career-page database |
 | [inputs/quant_firm_roster.json](inputs/quant_firm_roster.json) | Complete 303-entry firm list + canonical aliases |
 

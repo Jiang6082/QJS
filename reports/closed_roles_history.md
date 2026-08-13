@@ -1,17 +1,22 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 34
-Last updated: 2026-08-12T13:22:55.976Z
+Total closures recorded: 36
+Last updated: 2026-08-13T03:34:59.574Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
 
+### 2026-08-13 (2)
+
+- **Quantbot Technologies** - [Software Engineer Summer Internship - 2027 [New York]](https://www.quantbot.com/careers/4299458009?gh_jid=4299458009) - New York
+- **WorldQuant** - [Quantitative Research Intern](https://job-boards.greenhouse.io/worldquant/jobs/4314066006) - Singapore
+
 ### 2026-08-12 (3)
 
 - **AQR Capital Management** - [2027 Research Product Specialist Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926704&gh_jid=7926704) - Greenwich, CT
-- **Five Rings** - [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) - New York
-- **Susquehanna International Group** - [Quantitative Strategy Developer Internship: Summer 2027](https://careers.sig.com/jobs/10838?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Five Rings** - [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) - New York — _reopened 2026-08-13_
+- **Susquehanna International Group** - [Quantitative Strategy Developer Internship: Summer 2027](https://careers.sig.com/jobs/10838?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania — _reopened 2026-08-13_
 
 ### 2026-08-10 (1)
 

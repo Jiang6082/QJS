@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T13:35:30.014Z",
-  "currentScanAt": "2026-08-12T13:22:55.976Z",
+  "generatedAt": "2026-08-13T03:38:34.992Z",
+  "currentScanAt": "2026-08-13T03:34:59.574Z",
   "historicalTrackerUrls": 176,
   "roles": [
     {
@@ -651,23 +651,23 @@
       "Company": "DRW",
       "Title": "FPGA Intern",
       "Department": "Campus",
-      "Location": "Chicago",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8038923 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Exam...",
-      "Region": "North America"
-    },
-    {
-      "Company": "DRW",
-      "Title": "FPGA Intern",
-      "Department": "Campus",
       "Location": "London",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8070392 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Examp...",
       "Region": "Europe"
+    },
+    {
+      "Company": "DRW",
+      "Title": "FPGA Intern",
+      "Department": "Campus",
+      "Location": "Chicago",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8038923 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Exam...",
+      "Region": "North America"
     },
     {
       "Company": "DRW",
@@ -761,17 +761,6 @@
       "Company": "DRW",
       "Title": "Software Developer Intern",
       "Department": "Campus Software Engineering",
-      "Location": "Amsterdam",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8020364 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Amsterdam. How you will make an impact… Design, develop test, and deploy propriet...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Software Developer Intern",
-      "Department": "Campus Software Engineering",
       "Location": "London",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
       "Source": "Career page Greenhouse:drweng",
@@ -782,13 +771,13 @@
     {
       "Company": "DRW",
       "Title": "Software Developer Intern",
-      "Department": "Campus",
-      "Location": "Montreal",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "Department": "Campus Software Engineering",
+      "Location": "Amsterdam",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7991196 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will join one of our development teams supporting our network development initiatives or trading businesses. Depending on the team you join, you will build advanced trading, analysis and risk applications, or advanced monitoring and automation systems leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your internship. While your days will have you immersed in complex projects directly driving DRW's progress, your tim...",
-      "Region": "North America"
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8020364 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Amsterdam. How you will make an impact… Design, develop test, and deploy propriet...",
+      "Region": "Europe"
     },
     {
       "Company": "DRW",
@@ -799,6 +788,17 @@
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...",
+      "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Software Developer Intern",
+      "Department": "Campus",
+      "Location": "Montreal",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7991196 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will join one of our development teams supporting our network development initiatives or trading businesses. Depending on the team you join, you will build advanced trading, analysis and risk applications, or advanced monitoring and automation systems leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your internship. While your days will have you immersed in complex projects directly driving DRW's progress, your tim...",
       "Region": "North America"
     },
     {
@@ -838,6 +838,17 @@
       "Company": "DV Trading",
       "Title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
       "Department": "DV Commodities",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719125005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. DV Commodities is a division within DV Group that specializes in...",
+      "Region": "Europe"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
+      "Department": "DV Commodities",
       "Location": "New York",
       "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005",
       "Source": "Career page Greenhouse:dvtrading",
@@ -847,13 +858,13 @@
     },
     {
       "Company": "DV Trading",
-      "Title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
+      "Title": "Trading Intern - Summer 2027 (DV Commodities)",
       "Department": "DV Commodities",
       "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
       "Source": "Career page Greenhouse:dvtrading",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719125005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. DV Commodities is a division within DV Group that specializes in...",
+      "Notes": "career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719135005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. DV Commodities is a division within DV Group that specializes in...",
       "Region": "Europe"
     },
     {
@@ -865,6 +876,16 @@
       "Source": "Career page Greenhouse:fiveringsllc",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/fiveringsllc | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=5139668008 | internship timing: Summer; graduation eligibility mentions: 2027, 2028 | About Five Rings Five Rings is a proprietary trading firm founded with a vision of combining strategy, innovation and technology to succeed in today’s global markets. With offices in New York, Boca Raton, London and Amsterdam, Five Rings trades in various domestic and international markets, both established and esoteric. Our team constantly seeks new opportunities, analyzes their risks and rewards, and creates strategies and tools to capitalize on them. We have an open culture and encourage the flow of knowledge and ideas between all areas of the firm. About the Program Five Rings offers an intensive 9 week summer internship program that runs from the beginning of June through the begi...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Five Rings",
+      "Title": "Summer Intern 2027 - Software Developer",
+      "Location": "New York",
+      "URL": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+      "Source": "Greenhouse:fiveringsllc",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing: Summer",
       "Region": "North America"
     },
     {
@@ -923,39 +944,6 @@
     },
     {
       "Company": "IMC Trading",
-      "Title": "HK - 2027 - Quant Research Intern",
-      "Department": "Quantitative Research",
-      "Location": "Hong Kong, Hong Kong",
-      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4941208101",
-      "Source": "Career page Greenhouse:imc",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4941208101 | internship timing not stated in title | IMC is a leading global trading firm that combines technology, advanced quantitative research, and cutting-edge machine learning techniques to trade a broad range of products globally. With a strong focus on innovation, we leverage quantitative models, high-performance computing, and a deep understanding of the markets to drive our trading decisions. As a Quant Research Intern, you’ll work at the intersection of data science, financial markets, and algorithmic trading, solving real-world challenges that drive our trading strategies. This internship program offers a unique opportunity to gain hands-on experience in quantitative research, supported by structured learning, real-world project work, and direct mentorship...",
-      "Region": "Asia"
-    },
-    {
-      "Company": "IMC Trading",
-      "Title": "HK - 2027 - Software Engineer Intern",
-      "Department": "Development (Group)",
-      "Location": "Hong Kong, Hong Kong",
-      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4941206101",
-      "Source": "Career page Greenhouse:imc",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4941206101 | internship timing not stated in title | At IMC, Software Engineers don’t just write code and design technology. They are responsible for spotting new opportunities, developing new technologies, and solving problems. Every day, our software makes millions of trading decisions in some of the most competitive markets across the globe, and we win by making smarter and faster decisions than our competition. Our Software Engineers deliver results and make a difference. As a Software Engineer Intern at IMC, you will be supported by a mentor who will oversee your projects and professional development, while having access to pair programming and code reviews. During your internship, you will work on a real project, providing value to developers and traders. This y...",
-      "Region": "Asia"
-    },
-    {
-      "Company": "IMC Trading",
-      "Title": "HK - 2027 - Trader Intern",
-      "Department": "Screen & Quant Trading",
-      "Location": "Hong Kong, Hong Kong",
-      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
-      "Source": "Career page Greenhouse:imc",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4941205101 | internship timing not stated in title | IMC is a fast, dynamic environment where you’re trusted to make decisions from day one. We trade a wide range of financial instruments in many different ways. This means we look for different types of traders, from the quantitative minds who enjoy the mathematical side of trading to those who want more of the fast-paced, hands-on style of trading and have a higher appetite for risk. Our traders all share one thing in common — they are at their best when solving complex problems. Their insights into global events, market shifts, and pricing ensure that we always trade in the right place, at the right time. Our 10-week trading internship is your chance to experience life as a trader at IMC. You’ll have all the support...",
-      "Region": "Asia"
-    },
-    {
-      "Company": "IMC Trading",
       "Title": "Macro Analyst Intern",
       "Department": "Trading Services ",
       "Location": "Amsterdam, Netherlands",
@@ -964,6 +952,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4941380101 | internship timing not stated in title; graduation eligibility mentions: 2028 | MACRO ANALYST INTERN Our 9-week internship programme in Amsterdam is your chance to experience life as a Macro Analyst at IMC. As a Macro Analyst Intern, you will delve into the proprietary trading landscape during the first week of engaging and challenging classroom-based learning. You will have the opportunity hone your skills and apply what you’ve learned with a meaningful project and weekly trading challenges. Throughout the summer, you will receive comprehensive support from dedicated internship trainers, and mentors to guide you in your work and professional development. In our collaborative office environment, you will build a valuable network of IMC traders, researchers...",
       "Region": "Europe"
+    },
+    {
+      "Company": "IMC Trading",
+      "Title": "Quant Research Intern 2027",
+      "Department": "Quantitative Research",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4941208101",
+      "Source": "Career page Greenhouse:imc",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4941208101 | internship timing not stated in title | IMC is a leading global trading firm that combines technology, advanced quantitative research, and cutting-edge machine learning techniques to trade a broad range of products globally. With a strong focus on innovation, we leverage quantitative models, high-performance computing, and a deep understanding of the markets to drive our trading decisions. As a Quant Research Intern, you’ll work at the intersection of data science, financial markets, and algorithmic trading, solving real-world challenges that drive our trading strategies. This internship program offers a unique opportunity to gain hands-on experience in quantitative research, supported by structured learning, real-world project work, and direct mentorship...",
+      "Region": "Asia"
     },
     {
       "Company": "IMC Trading",
@@ -989,6 +988,17 @@
     },
     {
       "Company": "IMC Trading",
+      "Title": "Software Engineer Intern 2027",
+      "Department": "Development (Group)",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4941206101",
+      "Source": "Career page Greenhouse:imc",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4941206101 | internship timing not stated in title | At IMC, Software Engineers don’t just write code and design technology. They are responsible for spotting new opportunities, developing new technologies, and solving problems. Every day, our software makes millions of trading decisions in some of the most competitive markets across the globe, and we win by making smarter and faster decisions than our competition. Our Software Engineers deliver results and make a difference. As a Software Engineer Intern at IMC, you will be supported by a mentor who will oversee your projects and professional development, while having access to pair programming and code reviews. During your internship, you will work on a real project, providing value to developers and traders. This y...",
+      "Region": "Asia"
+    },
+    {
+      "Company": "IMC Trading",
       "Title": "Trader Intern",
       "Department": "Screen & Quant Trading",
       "Location": "Amsterdam, Netherlands",
@@ -997,6 +1007,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4939846101 | internship timing not stated in title; graduation eligibility mentions: 2028 | Our summer internship programme in Amsterdam is your chance to experience life as a trader at IMC. As a Trader Intern, you will delve into the proprietary trading landscape during the first week of engaging and challenging classroom-based learning. You will have the opportunity hone your skills and apply what you’ve learned with a meaningful project and weekly trading challenges. Throughout the summer, you will receive comprehensive support from dedicated internship trainers, and mentors to guide you in your work and professional development. In our collaborative office environment, you will build a valuable network of IMC traders, researchers, analysts, and engineers. You will...",
       "Region": "Europe"
+    },
+    {
+      "Company": "IMC Trading",
+      "Title": "Trader Intern 2027",
+      "Department": "Screen & Quant Trading",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
+      "Source": "Career page Greenhouse:imc",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4941205101 | internship timing not stated in title | IMC is a fast, dynamic environment where you’re trusted to make decisions from day one. We trade a wide range of financial instruments in many different ways. This means we look for different types of traders, from the quantitative minds who enjoy the mathematical side of trading to those who want more of the fast-paced, hands-on style of trading and have a higher appetite for risk. Our traders all share one thing in common — they are at their best when solving complex problems. Their insights into global events, market shifts, and pricing ensure that we always trade in the right place, at the right time. Our 10-week trading internship is your chance to experience life as a trader at IMC. You’ll have all the support...",
+      "Region": "Asia"
     },
     {
       "Company": "Invesco",
@@ -1367,6 +1388,16 @@
     },
     {
       "Company": "Optiver",
+      "Title": "Quantitative Research Internship, Bachelor's or Master's (Summer 2027 - Shanghai)",
+      "Location": "Shanghai, China",
+      "URL": "https://www.optiver.com/join-us/jobs/8644376002/?gh_jid=8644376002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing: Summer 2027; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Optiver",
       "Title": "Quantitative Trading Internship (Singapore) - 2027",
       "Location": "Singapore",
       "URL": "https://www.optiver.com/join-us/jobs/8642260002/?gh_jid=8642260002",
@@ -1527,16 +1558,6 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
-      "Region": "North America"
-    },
-    {
-      "Company": "Quantbot Technologies",
-      "Title": "Software Engineer Summer Internship - 2027 [New York]",
-      "Location": "New York",
-      "URL": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009",
-      "Source": "Greenhouse:quantbot-technologies",
-      "Status": "Confirmed official posting",
-      "Notes": "internship timing: Summer; undergrad/BS/MS language found",
       "Region": "North America"
     },
     {
@@ -1791,6 +1812,17 @@
     },
     {
       "Company": "Susquehanna International Group",
+      "Title": "Quantitative Strategy Developer Internship: Summer 2027",
+      "Department": "Technology - Software Engineering, Interns + Co-ops",
+      "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+      "URL": "https://careers.sig.com/jobs/10838?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-04-23T17:38:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into financial markets and Susquehanna’s approach to trading. You will also work on challenging projects for our trading strategy development teams in spaces such as signal creation and detection, quantitative strategy analysis, and low latency C++ strategy development. Additionally, you’ll have the opportunity to work on projects side by side with...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Susquehanna International Group",
       "Title": "Quantitative Systematic Trading Internship - Master's: Summer 2027",
       "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
       "Location": "Hong Kong, Hong Kong",
@@ -2022,6 +2054,17 @@
     },
     {
       "Company": "Virtu Financial",
+      "Title": "2027 Internship - FPGA Engineer",
+      "Department": "Internships",
+      "Location": "Dublin, Ireland",
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8638124002",
+      "Source": "Career page Greenhouse:virtu",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8638124002 | internship timing not stated in title; graduation eligibility mentions: 2028 | Virtu is a leading financial firm that leverages cutting edge technology to deliver liquidity to the global markets and innovative, transparent trading solutions to our clients. As a market maker, Virtu provides deep liquidity that helps to create more efficient markets around the world. Our market structure expertise, broad diversification, and execution technology enables us to provide competitive bids and offers in over 19,000 securities, at over 235 venues, in 36 countries worldwide. Virtu's internship programme offers students an extraordinary opportunity to learn about the firm and the world’s financial markets. We have built a thoughtful and challenging curriculum with projects that introdu...",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Virtu Financial",
       "Title": "2027 Internship - Frontend Engineer (UI)",
       "Department": "Internships",
       "Location": "New York",
@@ -2057,17 +2100,6 @@
       "Company": "Virtu Financial",
       "Title": "2027 Internship - Quantitative Trading",
       "Department": "Internships",
-      "Location": "Austin, TX; Chicago; New York",
-      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
-      "Source": "Career page Greenhouse:virtu",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8624408002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
-      "Region": "North America"
-    },
-    {
-      "Company": "Virtu Financial",
-      "Title": "2027 Internship - Quantitative Trading",
-      "Department": "Internships",
       "Location": "Singapore",
       "URL": "https://job-boards.greenhouse.io/virtu/jobs/5208637002",
       "Source": "Career page Greenhouse:virtu",
@@ -2077,13 +2109,13 @@
     },
     {
       "Company": "Virtu Financial",
-      "Title": "2027 Internship - Software Engineer",
+      "Title": "2027 Internship - Quantitative Trading",
       "Department": "Internships",
-      "Location": "Austin, TX; New York",
-      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+      "Location": "Austin, TX; Chicago; New York",
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
       "Source": "Career page Greenhouse:virtu",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8624410002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
+      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8624408002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
       "Region": "North America"
     },
     {
@@ -2096,6 +2128,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8551566002 | internship timing not stated in title; graduation eligibility mentions: 2028 | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up with the stability of a disciplined financial services firm. We are a flat organisation and encourage our people to innovate and lean on their team...",
       "Region": "Europe"
+    },
+    {
+      "Company": "Virtu Financial",
+      "Title": "2027 Internship - Software Engineer",
+      "Department": "Internships",
+      "Location": "Austin, TX; New York",
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+      "Source": "Career page Greenhouse:virtu",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8624410002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
+      "Region": "North America"
     },
     {
       "Company": "Virtu Financial",
