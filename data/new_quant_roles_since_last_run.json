@@ -1,33 +1,31 @@
 {
-  "generatedAt": "2026-08-13T14:38:22.586Z",
-  "previousScanAt": "2026-08-13T03:34:59.574Z",
-  "currentScanAt": "2026-08-13T14:34:14.492Z",
+  "generatedAt": "2026-08-13T22:17:45.677Z",
+  "previousScanAt": "2026-08-13T14:34:14.492Z",
+  "currentScanAt": "2026-08-13T22:13:39.033Z",
   "previousRows": 319,
-  "currentRows": 319,
+  "currentRows": 321,
   "added": [
     {
-      "Company": "DRW",
-      "Title": "Software Developer Intern (Data Engineering)",
-      "Department": "Campus Software Engineering",
-      "Location": "Singapore",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8127242",
-      "Source": "Career page Greenhouse:drweng",
+      "Company": "Jane Street",
+      "Title": "Trading Desk Operations Engineer",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8700980002/",
+      "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8127242 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern in our Singapore office, you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your internship. While your days will have you engrossed with complex quantitative trading projects, your evenings will be spent exploring the city with organized social events to truly discover what it’s like to live and work in Singapore. How you will make an impact… Development of reliable ET...",
-      "Region": "Asia"
-    }
-  ],
-  "removed": [
+      "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
+      "Region": "Europe"
+    },
     {
-      "Company": "D. E. Shaw",
-      "Title": "Strategy and Business Development Intern (New York) - Summer 2027",
-      "Department": "Strategy and Business Development",
-      "Location": "New York",
-      "URL": "https://www.deshaw.com/careers/strategy-and-business-development-intern-new-york-summer-2027-5730",
-      "Source": "Official D. E. Shaw internships page",
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Client Solutions & Analytics Analyst, US",
+      "Department": "",
+      "Location": "Newport Beach, CA USA",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
+      "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.deshaw.com/careers/internships | department=Strategy and Business Development | internship timing: Summer 2027 | official detail page checked | Strategy and Business Development Intern (New York) - Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choos",
+      "Notes": "career_page=https://www.pimco.com/us/en/about-us/careers | Posted Today | R106605",
       "Region": "North America"
     }
-  ]
+  ],
+  "removed": []
 }

@@ -1,14 +1,14 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-08-13T14:34:14.492Z
+Last updated: 2026-08-13T22:13:39.033Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 503
-- Current retained roles: 319
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 1
+- Current retained roles: 321
+- New stable job URLs since previous scan: 2
+- No longer present since previous scan: 0
 - Matching-role firms: 42
 - Confirmed no open postings: 2
 - Openings but no matching role: 50
@@ -16,17 +16,17 @@ Last updated: 2026-08-13T14:34:14.492Z
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (1)
+
+- **PIMCO** - [2027 Summer Intern - Client Solutions & Analytics Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605) - Newport Beach, CA USA
+
+### Europe (1)
+
+- **Jane Street** - [Trading Desk Operations Engineer](https://www.janestreet.com/join-jane-street/position/8700980002/) - London
+
+### Asia (0)
 
 _None._
-
-### Europe (0)
-
-_None._
-
-### Asia (1)
-
-- **DRW** - [Software Developer Intern (Data Engineering)](https://job-boards.greenhouse.io/drweng/jobs/8127242) - Singapore
 
 ### Oceania (0)
 
@@ -54,7 +54,7 @@ _None._
 
 ## No Longer Present
 
-- **D. E. Shaw** - [Strategy and Business Development Intern (New York) - Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-intern-new-york-summer-2027-5730) - New York
+_None._
 
 ## Full Reports
 

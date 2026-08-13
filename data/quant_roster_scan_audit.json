@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T14:38:22.502Z",
-  "scanStartedAt": "2026-08-13T14:34:14.492Z",
+  "generatedAt": "2026-08-13T22:17:45.567Z",
+  "scanStartedAt": "2026-08-13T22:13:39.033Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -154,7 +154,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/blackedgecapital"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 7,
       "relevantInternships": 2
@@ -453,7 +453,7 @@
       "careerPages": [
         "https://cascadesystems.net/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -731,7 +731,7 @@
       "careerPages": [
         "https://contek.io/#career"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -996,7 +996,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 231,
+      "jobsSeen": 230,
       "relevantInternships": 8
     },
     {
@@ -1024,7 +1024,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 59,
+      "jobsSeen": 60,
       "relevantInternships": 5
     },
     {
@@ -1137,7 +1137,7 @@
         "https://fiveringsfinancial.com/join-our-team/",
         "https://fiverings.com/careers/"
       ],
-      "livePages": 4,
+      "livePages": 3,
       "attemptedPages": 4,
       "jobsSeen": 17,
       "relevantInternships": 1
@@ -1282,7 +1282,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 232,
+      "jobsSeen": 233,
       "relevantInternships": 0
     },
     {
@@ -1724,7 +1724,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {
@@ -1864,7 +1864,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 14,
+      "jobsSeen": 18,
       "relevantInternships": 0
     },
     {
@@ -1956,7 +1956,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/epochcapital"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 1,
       "relevantInternships": 0
@@ -2072,7 +2072,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 33,
+      "jobsSeen": 32,
       "relevantInternships": 0
     },
     {
@@ -2084,7 +2084,7 @@
       "careerPages": [
         "https://www.high-flyer.cn/en/join"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2102,7 +2102,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 165,
+      "jobsSeen": 163,
       "relevantInternships": 14
     },
     {
@@ -2277,7 +2277,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/nksecuritiesresearch?error=true"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 17,
       "relevantInternships": 0
@@ -2291,7 +2291,7 @@
       "careerPages": [
         "https://nitorenergy.com/career/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2542,7 +2542,7 @@
       "careerPages": [
         "https://www.meshcapital.com/Careers.html"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2731,7 +2731,7 @@
         "https://sig.com/careers/",
         "https://careers-sig.icims.com/jobs/intro?mobile=true&needsRedirect=false"
       ],
-      "livePages": 4,
+      "livePages": 3,
       "attemptedPages": 4,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2745,7 +2745,7 @@
       "careerPages": [
         "https://www.saichild.com/career"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3165,7 +3165,7 @@
         "https://join.mhfunds.com/index",
         "https://www.mhfunds.com/"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3257,7 +3257,7 @@
         "https://optiver.com/join-us/jobs/human-resources-and-recruiting/austin/",
         "https://optiver.com/join-us/jobs/human-resources-and-recruiting/"
       ],
-      "livePages": 12,
+      "livePages": 11,
       "attemptedPages": 12,
       "jobsSeen": 10,
       "relevantInternships": 1
@@ -3638,7 +3638,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 54,
+      "jobsSeen": 58,
       "relevantInternships": 0
     },
     {
@@ -3873,7 +3873,7 @@
         "https://www.tower-research.com/open-positions/",
         "https://job-boards.greenhouse.io/towerresearchcapital"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 79,
       "relevantInternships": 5
@@ -3889,7 +3889,7 @@
         "https://www.twosigma.com/careers/",
         "https://www.twosigma.com/careers/internships/"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4066,7 +4066,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 56,
+      "jobsSeen": 57,
       "relevantInternships": 0
     },
     {
@@ -4252,7 +4252,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
+      "jobsSeen": 6,
       "relevantInternships": 1
     }
   ]
