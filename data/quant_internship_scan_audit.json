@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-13T03:34:54.442Z",
+  "scannedAt": "2026-08-13T14:33:47.193Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -209,7 +209,7 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:point72",
-          "count": 232
+          "count": 231
         },
         {
           "source": "Ashby:cubist",
@@ -220,7 +220,7 @@
           "count": 0
         }
       ],
-      "jobsSeen": 232,
+      "jobsSeen": 231,
       "relevantInternships": 7
     },
     {
@@ -668,10 +668,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 44
+          "count": 45
         }
       ],
-      "jobsSeen": 44,
+      "jobsSeen": 45,
       "relevantInternships": 2
     },
     {
@@ -843,14 +843,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:jumptrading",
-          "count": 102
+          "count": 103
         },
         {
           "source": "Ashby:jump",
           "count": 3
         }
       ],
-      "jobsSeen": 105,
+      "jobsSeen": 106,
       "relevantInternships": 26
     },
     {
@@ -992,14 +992,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 175
+          "count": 174
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 175,
+      "jobsSeen": 174,
       "relevantInternships": 14
     },
     {
@@ -1205,10 +1205,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 86
+          "count": 91
         }
       ],
-      "jobsSeen": 86,
+      "jobsSeen": 91,
       "relevantInternships": 3
     },
     {
@@ -1630,10 +1630,10 @@
       "resolvedBoards": [
         {
           "source": "Ashby:keyrock",
-          "count": 6
+          "count": 7
         }
       ],
-      "jobsSeen": 6,
+      "jobsSeen": 7,
       "relevantInternships": 0
     }
   ]

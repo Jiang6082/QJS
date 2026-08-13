@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-13T03:38:34.897Z",
-  "scanStartedAt": "2026-08-13T03:34:59.574Z",
+  "generatedAt": "2026-08-13T14:38:22.502Z",
+  "scanStartedAt": "2026-08-13T14:34:14.492Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
     "matching-role-found": 42,
-    "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 49,
+    "confirmed-no-open-postings": 2,
+    "confirmed-openings-no-matching-role": 50,
     "could-not-fully-verify": 210
   },
   "companies": [
@@ -427,7 +427,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 16,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -761,8 +761,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 180,
-      "relevantInternships": 17
+      "jobsSeen": 178,
+      "relevantInternships": 18
     },
     {
       "company": "ABC Arbitrage",
@@ -996,7 +996,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 232,
+      "jobsSeen": 231,
       "relevantInternships": 8
     },
     {
@@ -1374,7 +1374,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantInternships": 0
     },
     {
@@ -1386,7 +1386,7 @@
       "careerPages": [
         "https://www.enigmaquant.com/#careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1428,7 +1428,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 44,
+      "jobsSeen": 45,
       "relevantInternships": 2
     },
     {
@@ -1864,7 +1864,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 12,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -1956,7 +1956,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/epochcapital"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 1,
       "relevantInternships": 0
@@ -2072,7 +2072,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 32,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -2524,13 +2524,13 @@
       "sourceRosterNames": [
         "Maverick Derivatives"
       ],
-      "status": "confirmed-no-open-postings",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://job-boards.greenhouse.io/maverickderivatives?error=true"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 1,
       "relevantInternships": 0
     },
     {
@@ -3638,7 +3638,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 55,
+      "jobsSeen": 54,
       "relevantInternships": 0
     },
     {
@@ -3753,7 +3753,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 30,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -3807,7 +3807,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 1
     },
     {

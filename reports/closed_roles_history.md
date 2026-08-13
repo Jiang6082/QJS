@@ -1,14 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 36
-Last updated: 2026-08-13T03:34:59.574Z
+Total closures recorded: 37
+Last updated: 2026-08-13T14:34:14.492Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
 
-### 2026-08-13 (2)
+### 2026-08-13 (3)
 
+- **D. E. Shaw** - [Strategy and Business Development Intern (New York) - Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-intern-new-york-summer-2027-5730) - New York
 - **Quantbot Technologies** - [Software Engineer Summer Internship - 2027 [New York]](https://www.quantbot.com/careers/4299458009?gh_jid=4299458009) - New York
 - **WorldQuant** - [Quantitative Research Intern](https://job-boards.greenhouse.io/worldquant/jobs/4314066006) - Singapore
 

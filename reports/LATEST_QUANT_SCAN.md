@@ -1,34 +1,32 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-08-13T03:34:59.574Z
+Last updated: 2026-08-13T14:34:14.492Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 503
 - Current retained roles: 319
-- New stable job URLs since previous scan: 5
-- No longer present since previous scan: 2
+- New stable job URLs since previous scan: 1
+- No longer present since previous scan: 1
 - Matching-role firms: 42
-- Confirmed no open postings: 3
-- Openings but no matching role: 49
+- Confirmed no open postings: 2
+- Openings but no matching role: 50
 - Could not fully verify: 210
 
 ## New Roles Since Previous Scan
 
-### North America (2)
+### North America (0)
 
-- **Five Rings** - [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) - New York
-- **Susquehanna International Group** - [Quantitative Strategy Developer Internship: Summer 2027](https://careers.sig.com/jobs/10838?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+_None._
 
-### Europe (2)
+### Europe (0)
 
-- **DV Trading** - [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) - London
-- **Virtu Financial** - [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002) - Dublin, Ireland
+_None._
 
 ### Asia (1)
 
-- **Optiver** - [Quantitative Research Internship, Bachelor's or Master's (Summer 2027 - Shanghai)](https://www.optiver.com/join-us/jobs/8644376002/?gh_jid=8644376002) - Shanghai, China
+- **DRW** - [Software Developer Intern (Data Engineering)](https://job-boards.greenhouse.io/drweng/jobs/8127242) - Singapore
 
 ### Oceania (0)
 
@@ -56,8 +54,7 @@ _None._
 
 ## No Longer Present
 
-- **Quantbot Technologies** - [Software Engineer Summer Internship - 2027 [New York]](https://www.quantbot.com/careers/4299458009?gh_jid=4299458009) - New York
-- **WorldQuant** - [Quantitative Research Intern](https://job-boards.greenhouse.io/worldquant/jobs/4314066006) - Singapore
+- **D. E. Shaw** - [Strategy and Business Development Intern (New York) - Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-intern-new-york-summer-2027-5730) - New York
 
 ## Full Reports
 
