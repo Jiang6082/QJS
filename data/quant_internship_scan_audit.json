@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-13T22:13:27.409Z",
+  "scannedAt": "2026-08-14T15:59:08.564Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -181,11 +181,15 @@
       "company": "Jane Street",
       "resolvedBoards": [
         {
+          "source": "Greenhouse:janestreet",
+          "count": 232
+        },
+        {
           "source": "Ashby:jane",
           "count": 26
         }
       ],
-      "jobsSeen": 26,
+      "jobsSeen": 258,
       "relevantInternships": 0
     },
     {
@@ -810,10 +814,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 163
+          "count": 165
         }
       ],
-      "jobsSeen": 163,
+      "jobsSeen": 165,
       "relevantInternships": 14
     },
     {
@@ -839,14 +843,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:jumptrading",
-          "count": 104
+          "count": 105
         },
         {
           "source": "Ashby:jump",
           "count": 3
         }
       ],
-      "jobsSeen": 107,
+      "jobsSeen": 108,
       "relevantInternships": 26
     },
     {
@@ -906,10 +910,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 58
+          "count": 54
         }
       ],
-      "jobsSeen": 58,
+      "jobsSeen": 54,
       "relevantInternships": 0
     },
     {
@@ -988,14 +992,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 174
+          "count": 172
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 174,
+      "jobsSeen": 172,
       "relevantInternships": 14
     },
     {
@@ -1119,10 +1123,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 194
+          "count": 191
         }
       ],
-      "jobsSeen": 194,
+      "jobsSeen": 191,
       "relevantInternships": 4
     },
     {
@@ -1166,10 +1170,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:schonfeld",
-          "count": 54
+          "count": 53
         }
       ],
-      "jobsSeen": 54,
+      "jobsSeen": 53,
       "relevantInternships": 1
     },
     {
@@ -1317,11 +1321,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:transmarketgroup",
-          "count": 17
+          "count": 18
         }
       ],
-      "jobsSeen": 17,
-      "relevantInternships": 3
+      "jobsSeen": 18,
+      "relevantInternships": 4
     },
     {
       "company": "Trexquant Investment",
@@ -1531,10 +1535,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:worldquant",
-          "count": 100
+          "count": 101
         }
       ],
-      "jobsSeen": 100,
+      "jobsSeen": 101,
       "relevantInternships": 6
     },
     {
@@ -1615,10 +1619,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:b2c2",
-          "count": 5
+          "count": 3
         }
       ],
-      "jobsSeen": 5,
+      "jobsSeen": 3,
       "relevantInternships": 0
     },
     {

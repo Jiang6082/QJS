@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-13T22:17:45.567Z",
-  "scanStartedAt": "2026-08-13T22:13:39.033Z",
+  "generatedAt": "2026-08-14T16:03:40.773Z",
+  "scanStartedAt": "2026-08-14T15:59:31.729Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
     "matching-role-found": 42,
     "confirmed-no-open-postings": 2,
-    "confirmed-openings-no-matching-role": 50,
-    "could-not-fully-verify": 210
+    "confirmed-openings-no-matching-role": 51,
+    "could-not-fully-verify": 209
   },
   "companies": [
     {
@@ -154,7 +154,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/blackedgecapital"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 7,
       "relevantInternships": 2
@@ -453,7 +453,7 @@
       "careerPages": [
         "https://cascadesystems.net/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -731,7 +731,7 @@
       "careerPages": [
         "https://contek.io/#career"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -761,7 +761,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 178,
+      "jobsSeen": 179,
       "relevantInternships": 18
     },
     {
@@ -871,7 +871,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 5,
+      "jobsSeen": 3,
       "relevantInternships": 0
     },
     {
@@ -970,7 +970,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 29,
+      "jobsSeen": 28,
       "relevantInternships": 0
     },
     {
@@ -1137,7 +1137,7 @@
         "https://fiveringsfinancial.com/join-our-team/",
         "https://fiverings.com/careers/"
       ],
-      "livePages": 3,
+      "livePages": 4,
       "attemptedPages": 4,
       "jobsSeen": 17,
       "relevantInternships": 1
@@ -1282,7 +1282,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 233,
+      "jobsSeen": 232,
       "relevantInternships": 0
     },
     {
@@ -1386,7 +1386,7 @@
       "careerPages": [
         "https://www.enigmaquant.com/#careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2072,7 +2072,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 32,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -2084,7 +2084,7 @@
       "careerPages": [
         "https://www.high-flyer.cn/en/join"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2102,7 +2102,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 163,
+      "jobsSeen": 165,
       "relevantInternships": 14
     },
     {
@@ -2277,7 +2277,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/nksecuritiesresearch?error=true"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 17,
       "relevantInternships": 0
@@ -2291,7 +2291,7 @@
       "careerPages": [
         "https://nitorenergy.com/career/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2349,7 +2349,7 @@
         "https://pdtpartners.com/careers",
         "https://job-boards.greenhouse.io/pdtpartners"
       ],
-      "livePages": 4,
+      "livePages": 3,
       "attemptedPages": 5,
       "jobsSeen": 10,
       "relevantInternships": 2
@@ -2461,7 +2461,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 54,
+      "jobsSeen": 53,
       "relevantInternships": 1
     },
     {
@@ -2542,7 +2542,7 @@
       "careerPages": [
         "https://www.meshcapital.com/Careers.html"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2731,7 +2731,7 @@
         "https://sig.com/careers/",
         "https://careers-sig.icims.com/jobs/intro?mobile=true&needsRedirect=false"
       ],
-      "livePages": 3,
+      "livePages": 4,
       "attemptedPages": 4,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2745,7 +2745,7 @@
       "careerPages": [
         "https://www.saichild.com/career"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3165,7 +3165,7 @@
         "https://join.mhfunds.com/index",
         "https://www.mhfunds.com/"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3257,7 +3257,7 @@
         "https://optiver.com/join-us/jobs/human-resources-and-recruiting/austin/",
         "https://optiver.com/join-us/jobs/human-resources-and-recruiting/"
       ],
-      "livePages": 11,
+      "livePages": 12,
       "attemptedPages": 12,
       "jobsSeen": 10,
       "relevantInternships": 1
@@ -3295,7 +3295,7 @@
       "sourceRosterNames": [
         "Quant Matter"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://quantmatter.com/careers/"
       ],
@@ -3739,7 +3739,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 11,
+      "jobsSeen": 10,
       "relevantInternships": 1
     },
     {
@@ -3873,7 +3873,7 @@
         "https://www.tower-research.com/open-positions/",
         "https://job-boards.greenhouse.io/towerresearchcapital"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 79,
       "relevantInternships": 5
@@ -3889,7 +3889,7 @@
         "https://www.twosigma.com/careers/",
         "https://www.twosigma.com/careers/internships/"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4092,10 +4092,10 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/transmarketgroup"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 17,
-      "relevantInternships": 3
+      "jobsSeen": 18,
+      "relevantInternships": 4
     },
     {
       "company": "UBS",
@@ -4207,7 +4207,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 100,
+      "jobsSeen": 101,
       "relevantInternships": 5
     },
     {
@@ -4229,7 +4229,7 @@
       "sourceRosterNames": [
         "Morningstar"
       ],
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://morningstar.wd5.myworkdayjobs.com/morningstar",
         "https://morningstar.wd5.myworkdayjobs.com/Americas/",
@@ -4239,7 +4239,7 @@
       "livePages": 4,
       "attemptedPages": 4,
       "jobsSeen": 40,
-      "relevantInternships": 2
+      "relevantInternships": 0
     },
     {
       "company": "RRS Group",

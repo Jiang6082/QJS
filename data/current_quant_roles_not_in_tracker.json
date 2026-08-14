@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T22:17:45.677Z",
-  "currentScanAt": "2026-08-13T22:13:39.033Z",
+  "generatedAt": "2026-08-14T16:03:40.861Z",
+  "currentScanAt": "2026-08-14T15:59:31.729Z",
   "historicalTrackerUrls": 176,
   "roles": [
     {
@@ -228,6 +228,17 @@
     },
     {
       "Company": "Barclays",
+      "Title": "Quantitative Finance Associate Summer Internship Program 2027 New York",
+      "Department": "",
+      "Location": "New York, 745 7th Avenue",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000128099",
+      "Region": "North America"
+    },
+    {
+      "Company": "Barclays",
       "Title": "Research Analyst Summer Internship Programme 2027 Singapore",
       "Department": "",
       "Location": "Singapore, Marina Bay Financial Tower 2",
@@ -313,6 +324,39 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/blackedgecapital | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4703820005 | internship timing not stated in title; graduation eligibility mentions: 2028 | If you are looking to join a small, dynamic, growing firm in the financial technology sector, you have come to the right place. BlackEdge has built a strong foundation of success as an industry leading market maker in the treasury options space. Now we need talented people like you to build on that foundation by further improving and leveraging our existing success to expand into new markets. An internship at BlackEdge will give you a taste of life as a quantitative trader in the options market making space. The first half of your internship will focus on teaching you option pricing theory, market making dynamics, and trading system operations. The second half will provide yo...",
       "Region": "North America"
+    },
+    {
+      "Company": "BP",
+      "Title": "6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)",
+      "Department": "",
+      "Location": "Singapore - Singapore",
+      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2",
+      "Source": "Career page Workday:bpinternational/bpCareers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted Today | RQ114483",
+      "Region": "Asia"
+    },
+    {
+      "Company": "BP",
+      "Title": "Summer Internship - Finance & Risk - Singapore (2027)",
+      "Department": "",
+      "Location": "Singapore - Singapore",
+      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217",
+      "Source": "Career page Workday:bpinternational/bpCareers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted Today | RQ114217",
+      "Region": "Asia"
+    },
+    {
+      "Company": "BP",
+      "Title": "Summer Internship - Supply, Trading & Shipping - Singapore (2027)",
+      "Department": "",
+      "Location": "Singapore - Singapore",
+      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2",
+      "Source": "Career page Workday:bpinternational/bpCareers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted Today | RQ114218",
+      "Region": "Asia"
     },
     {
       "Company": "Chicago Trading Company",
@@ -640,23 +684,23 @@
       "Company": "DRW",
       "Title": "FPGA Intern",
       "Department": "Campus",
-      "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8070392 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Examp...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DRW",
-      "Title": "FPGA Intern",
-      "Department": "Campus",
       "Location": "Chicago",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8038923 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Exam...",
       "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "FPGA Intern",
+      "Department": "Campus",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8070392 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietary FPGA solutions . Examp...",
+      "Region": "Europe"
     },
     {
       "Company": "DRW",
@@ -749,23 +793,23 @@
     {
       "Company": "DRW",
       "Title": "Software Developer Intern",
+      "Department": "Campus",
+      "Location": "Chicago",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...",
+      "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Software Developer Intern",
       "Department": "Campus Software Engineering",
       "Location": "Amsterdam",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8020364 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Amsterdam. How you will make an impact… Design, develop test, and deploy propriet...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Software Developer Intern",
-      "Department": "Campus Software Engineering",
-      "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7942281 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organised social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietar...",
       "Region": "Europe"
     },
     {
@@ -782,13 +826,13 @@
     {
       "Company": "DRW",
       "Title": "Software Developer Intern",
-      "Department": "Campus",
-      "Location": "Chicago",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "Department": "Campus Software Engineering",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deploy proprieta...",
-      "Region": "North America"
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7942281 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organised social events to truly discover what it is like to live and work in London. How you will make an impact… Design, develop, test, and deploy proprietar...",
+      "Region": "Europe"
     },
     {
       "Company": "DRW",
@@ -803,13 +847,13 @@
     },
     {
       "Company": "DRW",
-      "Title": "Software Developer Intern (Data Engineering)",
+      "Title": "Software Engineer Intern (Data Engineering)",
       "Department": "Campus Software Engineering",
       "Location": "Singapore",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/8127242",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8127242 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern in our Singapore office, you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your internship. While your days will have you engrossed with complex quantitative trading projects, your evenings will be spent exploring the city with organized social events to truly discover what it’s like to live and work in Singapore. How you will make an impact… Development of reliable ET...",
+      "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8127242 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Engineer Intern (Data Engineering), you'll join the Commodities trading group to build data pipelines for the ingestion and analysis of datasets. The role entails working closely with senior data engineers and key stakeholders across both green field and established projects. Initially it will be focused on getting data to our analysts, with opportunities to help design and build the core data infrastructure used across the group as your experience grows. While your days will have you engrossed with complex quantitative trading projects, your evenings will be spent exploring the city with...",
       "Region": "Asia"
     },
     {
@@ -1027,7 +1071,7 @@
       "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
       "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted 2 Days Ago | R-15052",
+      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted 3 Days Ago | R-15052",
       "Region": "North America"
     },
     {
@@ -1053,16 +1097,6 @@
     {
       "Company": "Jane Street",
       "Title": "IT Operations Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8641377002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Technology",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "IT Operations Engineer",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8651274002/",
       "Source": "Official Jane Street jobs feed",
@@ -1072,9 +1106,9 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Linux Engineer",
+      "Title": "IT Operations Engineer",
       "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8641377002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Technology",
@@ -1089,6 +1123,16 @@
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Technology",
       "Region": "North America"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Linux Engineer",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Technology",
+      "Region": "Asia"
     },
     {
       "Company": "Jane Street",
@@ -1173,12 +1217,12 @@
     {
       "Company": "Jane Street",
       "Title": "Software Engineer",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8589868002/",
+      "Location": "Singapore",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8632392002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Technology",
-      "Region": "Europe"
+      "Notes": "Internship; May-August; Technology",
+      "Region": "Asia"
     },
     {
       "Company": "Jane Street",
@@ -1193,12 +1237,12 @@
     {
       "Company": "Jane Street",
       "Title": "Software Engineer",
-      "Location": "Singapore",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8632392002/",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8589868002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Technology",
-      "Region": "Asia"
+      "Notes": "Internship; June-September; Technology",
+      "Region": "Europe"
     },
     {
       "Company": "Jane Street",
@@ -1281,28 +1325,6 @@
       "Status": "Confirmed official posting",
       "Notes": "Ten-week Summer 2027 program; application deadlines listed as August 16 and September 27, 2026.",
       "Region": "Asia"
-    },
-    {
-      "Company": "Morningstar",
-      "Title": "Morningstar Internship Program- Quantitative Research Intern (Campus)",
-      "Department": "",
-      "Location": "Chicago",
-      "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern--Campus-_REQ-053117-2",
-      "Source": "Career page Workday:morningstar/morningstar",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted 3 Days Ago | REQ-053117",
-      "Region": "North America"
-    },
-    {
-      "Company": "Morningstar",
-      "Title": "Morningstar Internship Program- Quantitative Research Intern 2027",
-      "Department": "",
-      "Location": "Chicago",
-      "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027_REQ-057999",
-      "Source": "Career page Workday:morningstar/morningstar",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted 2 Days Ago | REQ-057999",
-      "Region": "North America"
     },
     {
       "Company": "Old Mission Capital",
@@ -1398,7 +1420,7 @@
     },
     {
       "Company": "Optiver",
-      "Title": "Quantitative Research Internship, Bachelor's or Master's (Summer 2027 - Shanghai)",
+      "Title": "Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)",
       "Location": "Shanghai, China",
       "URL": "https://www.optiver.com/join-us/jobs/8644376002/?gh_jid=8644376002",
       "Source": "Greenhouse:optiverus",
@@ -1476,7 +1498,7 @@
       "URL": "https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057-1",
       "Source": "Career page Workday:peak6group/PEAK6",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 2 Days Ago | JR105057",
+      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 3 Days Ago | JR105057",
       "Region": "North America"
     },
     {
@@ -1487,19 +1509,38 @@
       "URL": "https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Internship-for-Women--Summer-2027_JR105061",
       "Source": "Career page Workday:peak6group/PEAK6",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 2 Days Ago | JR105061",
+      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 3 Days Ago | JR105061",
       "Region": "North America"
     },
     {
-      "Company": "PIMCO",
-      "Title": "2027 Summer Intern - Client Solutions & Analytics Analyst, US",
-      "Department": "",
-      "Location": "Newport Beach, CA USA",
-      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
-      "Source": "Career page Workday:pimco/pimco-careers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.pimco.com/us/en/about-us/careers | Posted Today | R106605",
-      "Region": "North America"
+      "Company": "Quant Matter",
+      "Title": "2027 Quantitative Research - Risk and Treasury - Summer Internship ...",
+      "Location": "",
+      "URL": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978",
+      "Source": "Web-discovered lead",
+      "Status": "Aggregator/web lead; verify on official site",
+      "Notes": "Aug 2, 2026 &#0183;&#32;Key functions include ALM, research, capital and liquidity strategy, quantitative modelling and analytics across all lines …",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Quant Matter",
+      "Title": "Five Rings Summer Intern 2027 Quantitative Trader Internship in New ...",
+      "Location": "",
+      "URL": "https://opportunitiesforyouth.org/2026/07/27/five-rings-summer-intern-2027-quantitative-trader-internship-in-new-york-300000-annualized-salary-sign-on-bonus-corporate-housing/",
+      "Source": "Web-discovered lead",
+      "Status": "Aggregator/web lead; verify on official site",
+      "Notes": "Jul 27, 2026 &#0183;&#32;The Five Rings Summer Internship Program is an intensive nine-week internship designed to immerse students in the …",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Quant Matter",
+      "Title": "Quantitative Trading Intern Summer 2027 - Flow Traders",
+      "Location": "",
+      "URL": "https://www.flowtraders.com/careers/job-description/8047166",
+      "Source": "Web-discovered lead",
+      "Status": "Aggregator/web lead; verify on official site",
+      "Notes": "Flow Traders is looking for entrepreneurial, competitive, and analytical students to join our New York Trading team as a Trading …",
+      "Region": "Remote / Unspecified"
     },
     {
       "Company": "Quantbot Technologies",
@@ -1982,7 +2023,18 @@
       "URL": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151581007?gh_jid=5151581007",
       "Source": "Career page Greenhouse:transmarketgroup",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.transmarketgroup.com/careers | company_wrapper=https://www.transmarketgroup.com/job?gh_jid=5151581007 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Who We Are Founded in 1980 as Aardvark Financial, TransMarket Group (TMG) is a privately held global markets proprietary trading firm in Chicago. We use next-generation technology to capture opportunities around the world and manage risk in financial markets. Our mission is to bless others through the services we provide and through the generous stewardship of the wealth we create. TMG is a well-established and profitable business as a respected member of the global financial system for over 40 years, but also is like a startup because the potential of our group is at least one order of magnitude greater than what we are currently producing. We have an entrepreneurial culture an...",
+      "Notes": "career_page=https://job-boards.greenhouse.io/transmarketgroup | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=5151581007 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Who We Are Founded in 1980 as Aardvark Financial, TransMarket Group (TMG) is a privately held global markets proprietary trading firm in Chicago. We use next-generation technology to capture opportunities around the world and manage risk in financial markets. Our mission is to bless others through the services we provide and through the generous stewardship of the wealth we create. TMG is a well-established and profitable business as a respected member of the global financial system for over 40 years, but also is like a startup because the potential of our group is at least one order of magnitude greater than what we are currently producing. We have an entrepreneurial c...",
+      "Region": "North America"
+    },
+    {
+      "Company": "TransMarket Group",
+      "Title": "Software Engineering Intern",
+      "Department": "Software Engineering",
+      "Location": "Chicago, Illinois, United States",
+      "URL": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007",
+      "Source": "Career page Greenhouse:transmarketgroup",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://job-boards.greenhouse.io/transmarketgroup | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=5212335007 | internship timing not stated in title | Who We Are Founded in 1980 as Aardvark Financial, TransMarket Group (TMG) is a privately held global markets proprietary trading firm in Chicago. We use next-generation technology to capture opportunities around the world and manage risk in financial markets. Our mission is to bless others through the services we provide and through the generous stewardship of the wealth we create. TMG is a well-established and profitable business as a respected member of the global financial system for over 40 years, but also is like a startup because the potential of our group is at least one order of magnitude greater than what we are currently producing. We have an entrepreneurial culture and collaboratively develop our busine...",
       "Region": "North America"
     },
     {
