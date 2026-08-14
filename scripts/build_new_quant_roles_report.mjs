@@ -92,9 +92,53 @@ try {
 const current = JSON.parse(await fs.readFile(currentPath, "utf8"));
 const previousUrls = new Set((previous.rows || []).map((row) => stableUrl(row.URL)));
 const currentUrls = new Set((current.rows || []).map((row) => stableUrl(row.URL)));
-const added = (current.rows || []).filter((row) => !previousUrls.has(stableUrl(row.URL)));
-const removed = (previous.rows || []).filter((row) => !currentUrls.has(stableUrl(row.URL)));
-const enrichedAdded = added.map((row) => ({ ...row, Region: regionForLocation(row.Location) }));
+
+// --- Stability guard ---------------------------------------------------------
+// A role is only reported as newly added once it has appeared in TWO consecutive
+// scans, and only reported as closed once it has been absent from TWO consecutive
+// scans. This makes a single-scan board hiccup (e.g. a feed transiently returning
+// zero jobs) a non-event instead of churning the reports and closure archive.
+// State lives in .scan-state (git-ignored, per-machine), like previous_quant_v2_raw.
+const stablePath = ".scan-state/stable_roles.json";
+const roleMeta = (row) => ({
+  Company: row.Company,
+  Title: row.Title,
+  Location: row.Location || "",
+  Region: row.Region || regionForLocation(row.Location),
+  URL: row.URL,
+  Source: row.Source || "",
+  Status: row.Status || "",
+});
+const currentByUrl = new Map((current.rows || []).map((row) => [stableUrl(row.URL), row]));
+
+let stable; // Map: stableUrl -> role meta (the confirmed-present set)
+try {
+  const parsed = JSON.parse(await fs.readFile(stablePath, "utf8"));
+  stable = new Map((parsed.roles || []).map((r) => [stableUrl(r.URL), r]));
+} catch {
+  stable = null;
+}
+
+let added, removed;
+if (stable === null) {
+  // First run under the guard: seed the confirmed set from the current roles and
+  // report nothing, so we don't flag the whole existing list as "new".
+  stable = new Map((current.rows || []).map((row) => [stableUrl(row.URL), roleMeta(row)]));
+  added = [];
+  removed = [];
+} else {
+  // Confirmed added: present in BOTH this scan and the previous one, not yet stable.
+  const confirmedAdded = [...currentUrls].filter((u) => previousUrls.has(u) && !stable.has(u));
+  // Confirmed closed: in the stable set but absent from BOTH this and the previous scan.
+  const confirmedRemoved = [...stable.keys()].filter((u) => !currentUrls.has(u) && !previousUrls.has(u));
+  added = confirmedAdded.map((u) => roleMeta(currentByUrl.get(u)));
+  removed = confirmedRemoved.map((u) => stable.get(u));
+  for (const u of confirmedAdded) stable.set(u, roleMeta(currentByUrl.get(u)));
+  for (const u of confirmedRemoved) stable.delete(u);
+}
+await fs.writeFile(stablePath, `${JSON.stringify({ updatedAt: current.searchedAt, roles: [...stable.values()] }, null, 2)}\n`, "utf8");
+
+const enrichedAdded = added.map((row) => ({ ...row, Region: row.Region || regionForLocation(row.Location) }));
 const trackerUrls = await historicalTrackerUrls();
 const notInTracker = (current.rows || []).filter((row) => !trackerUrls.has(looseUrl(row.URL)));
 
