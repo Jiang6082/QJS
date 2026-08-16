@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T14:59:12.612Z",
-  "currentScanAt": "2026-08-16T14:55:30.101Z",
+  "generatedAt": "2026-08-16T15:41:12.152Z",
+  "currentScanAt": "2026-08-16T15:37:25.239Z",
   "historicalTrackerUrls": 176,
   "roles": [
     {
@@ -181,6 +181,171 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=8077110 | internship timing: Summer; graduation eligibility mentions: 2027, 2028 | AQR Capital Management AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998. At AQR, our employees share a common spirit of academic excellence, intellectual honesty, and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assumptio...",
       "Region": "North America"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Quantitative Analyst - Commodities Investment Team (Summer Internship)",
+      "Department": "Investment Professionals",
+      "Location": "Hong Kong",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8474",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 2 Days Ago | requisition=REQ8474 | department=Investment Professionals | experience=Internships",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Quantitative Analyst - Macro & Commodities Investment Teams (Summer Internship)",
+      "Department": "Investment Professionals",
+      "Location": "London",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Macro---Commodities-Investment-Teams--Summer-Internship-_REQ8477",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 2 Days Ago | requisition=REQ8477 | department=Investment Professionals | experience=Internships",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Quantitative Analyst – Commodities Investment Team (Summer Internship)",
+      "Department": "Investment Professionals",
+      "Location": "Houston, Boston",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8454",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 2 Days Ago | requisition=REQ8454 | department=Investment Professionals | experience=Internships",
+      "Region": "North America"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Quantitative Analyst – Macro Investment Team (Summer Internship)",
+      "Department": "Investment Professionals",
+      "Location": "New York",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Macro-Investment-Team--Summer-Internship-_REQ8453",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 2 Days Ago | requisition=REQ8453 | department=Investment Professionals | experience=Internships",
+      "Region": "North America"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Quantitative Analyst, Commodities (Seasonal Internship)",
+      "Department": "Investment Professionals",
+      "Location": "London",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst--Commodities--Seasonal-Internship-_REQ8467",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 4 Days Ago | requisition=REQ8467 | department=Investment Professionals | experience=Internships",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Quantitative Researcher - Multi-Asset Arbitrage (Summer Internship)",
+      "Department": "Investment Professionals",
+      "Location": "Greenwich, Boston",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Multi-Asset-Arbitrage--Summer-Internship-_REQ8462",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted Today | requisition=REQ8462 | department=Investment Professionals | experience=Internships",
+      "Region": "North America"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Quantitative Researcher - Quantitative Strategies (Summer Internship)",
+      "Department": "Investment Professionals",
+      "Location": "London",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Quantitative-Strategies--Summer-Internship-_REQ8479",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 2 Days Ago | requisition=REQ8479 | department=Investment Professionals | experience=Internships",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Quantitative Researcher - Risk (Summer Internship)",
+      "Department": "Risk",
+      "Location": "New York, London",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Risk--Summer-Internship-_REQ8463",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted Today | requisition=REQ8463 | department=Risk | experience=Internships",
+      "Region": "Global / Multiple Regions"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Quantitative Researcher - Risk (Summer Internship)",
+      "Department": "Investment Professionals",
+      "Location": "London",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Risk--Summer-Internship-_REQ8478",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 2 Days Ago | requisition=REQ8478 | department=Investment Professionals | experience=Internships",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Quantitative Researcher - Systematic Strategies (Summer Internship - PhD)",
+      "Department": "Investment Professionals",
+      "Location": "New York",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Systematic-Strategies--Summer-Internship---PhD-_REQ8460",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted Today | requisition=REQ8460 | department=Investment Professionals | experience=Internships",
+      "Region": "North America"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Quantitative Researcher - Systematic, Multi-Asset Arbitrage (Summer Internship)",
+      "Department": "Investment Professionals",
+      "Location": "New York",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Systematic--Multi-Asset-Arbitrage--Summer-Internship-_REQ8461",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted Today | requisition=REQ8461 | department=Investment Professionals | experience=Internships",
+      "Region": "North America"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Quantitative Researcher (Summer Internship)",
+      "Department": "Investment Professionals",
+      "Location": "Hong Kong",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Summer-Internship-_REQ8057",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 145 Days Ago | requisition=REQ8057 | department=Investment Professionals | experience=Internships",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Software Engineering (Summer Internship)",
+      "Department": "Technology",
+      "Location": "London",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8115",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 2 Days Ago | requisition=REQ8115 | department=Technology | experience=Internships",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Software Engineering (Summer Internship)",
+      "Department": "Technology",
+      "Location": "New York",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8445",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 2 Days Ago | requisition=REQ8445 | department=Technology | experience=Internships",
+      "Region": "North America"
+    },
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Software Engineering (Summer Internship)",
+      "Department": "Technology",
+      "Location": "Hong Kong, Singapore",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8446",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 2 Days Ago | requisition=REQ8446 | department=Technology | experience=Internships",
+      "Region": "Asia"
     },
     {
       "Company": "Barclays",
@@ -586,6 +751,17 @@
     },
     {
       "Company": "D. E. Shaw",
+      "Title": "Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027",
+      "Department": "Quantitative Strategies",
+      "Location": "New York",
+      "URL": "https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891",
+      "Source": "Official D. E. Shaw internships page",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.deshaw.com/careers/internships | department=Quantitative Strategies | internship timing: Summer 2027 | official detail page checked | Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your",
+      "Region": "North America"
+    },
+    {
+      "Company": "D. E. Shaw",
       "Title": "Software Developer Intern (New York) – Summer 2027",
       "Department": "Software Development",
       "Location": "New York",
@@ -593,6 +769,17 @@
       "Source": "Official D. E. Shaw internships page",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.deshaw.com/careers/internships | department=Software Development | internship timing: Summer 2027 | official detail page checked | Software Developer Intern (New York) – Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Int",
+      "Region": "North America"
+    },
+    {
+      "Company": "D. E. Shaw",
+      "Title": "Software Developer, Ph.D. Intern (New York) – Summer 2027",
+      "Department": "Software Development",
+      "Location": "New York",
+      "URL": "https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893",
+      "Source": "Official D. E. Shaw internships page",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.deshaw.com/careers/internships | department=Software Development | internship timing: Summer 2027 | official detail page checked | Software Developer, Ph.D. Intern (New York) – Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your P",
       "Region": "North America"
     },
     {
@@ -913,6 +1100,17 @@
     },
     {
       "Company": "Five Rings",
+      "Title": "Summer Intern 2027 - Quantitative Researcher (PhD)",
+      "Department": "Quantitative Research",
+      "Location": "New York",
+      "URL": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008",
+      "Source": "Career page Greenhouse:fiveringsllc",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://job-boards.greenhouse.io/fiveringsllc | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=5349219008 | internship timing: Summer | About Five Rings Five Rings is a proprietary trading firm founded with a vision of combining strategy, innovation and technology to succeed in today’s global markets. With offices in New York, Boca Raton, London and Amsterdam, Five Rings trades in various domestic and international markets, both established and esoteric. Our team constantly seeks new opportunities, analyzes their risks and rewards, and creates strategies and tools to capitalize on them. We have an open culture and encourage the flow of knowledge and ideas between all areas of the firm. About the Program Five Rings offers an intensive 9 week summer internship program that runs from the beginning of June through the beginning of August. The program includes immersi...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Five Rings",
       "Title": "Summer Intern 2027 - Quantitative Trader",
       "Department": "Quantitative Trading",
       "Location": "New York",
@@ -944,6 +1142,314 @@
       "Region": "Asia"
     },
     {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | Dallas Metro Area | Asset and Wealth Management Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "Dallas, TX, United States",
+      "URL": "https://higher.gs.com/roles/171532",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=171532 | program=Summer Analyst | division=Engineering Division",
+      "Region": "North America"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | Dallas Metro Area | Investment Banking Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "Dallas, TX, United States",
+      "URL": "https://higher.gs.com/roles/171548",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=171548 | program=Summer Analyst | division=Engineering Division",
+      "Region": "North America"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | Dallas Metro Area | The Core Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "Dallas, TX, United States",
+      "URL": "https://higher.gs.com/roles/171534",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=171534 | program=Summer Analyst | division=Engineering Division",
+      "Region": "North America"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | Dallas Metro Area | The Core Quantitative Strats | Summer Associate",
+      "Department": "Engineering Division",
+      "Location": "Dallas, TX, United States",
+      "URL": "https://higher.gs.com/roles/171546",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=171546 | program=Summer Associate | division=Engineering Division",
+      "Region": "North America"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | New York City Area | Asset and Wealth Management Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "New York, NY, United States",
+      "URL": "https://higher.gs.com/roles/171550",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=171550 | program=Summer Analyst | division=Engineering Division",
+      "Region": "North America"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | New York City Area | Asset and Wealth Management Quantitative Strats | Summer Associate",
+      "Department": "Engineering Division",
+      "Location": "New York, NY, United States",
+      "URL": "https://higher.gs.com/roles/171552",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=171552 | program=Summer Associate | division=Engineering Division",
+      "Region": "North America"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | New York City Area | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "New York, NY, United States",
+      "URL": "https://higher.gs.com/roles/171563",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=171563 | program=Summer Analyst | division=Engineering Division",
+      "Region": "North America"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | New York City Area | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate",
+      "Department": "Engineering Division",
+      "Location": "New York, NY, United States",
+      "URL": "https://higher.gs.com/roles/171566",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=171566 | program=Summer Associate | division=Engineering Division",
+      "Region": "North America"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | New York City Area | Investment Banking Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "New York, NY, United States",
+      "URL": "https://higher.gs.com/roles/171547",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=171547 | program=Summer Analyst | division=Engineering Division",
+      "Region": "North America"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | New York City Area | The Core Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "New York, NY, United States",
+      "URL": "https://higher.gs.com/roles/171533",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=171533 | program=Summer Analyst | division=Engineering Division",
+      "Region": "North America"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | New York City Area | The Core Quantitative Strats | Summer Associate",
+      "Department": "Engineering Division",
+      "Location": "New York, NY, United States",
+      "URL": "https://higher.gs.com/roles/171535",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=171535 | program=Summer Associate | division=Engineering Division",
+      "Region": "North America"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | Salt Lake City | Asset and Wealth Management Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "Salt Lake City, UT, United States",
+      "URL": "https://higher.gs.com/roles/171549",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=171549 | program=Summer Analyst | division=Engineering Division",
+      "Region": "North America"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | Salt Lake City | The Core Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "Salt Lake City, UT, United States",
+      "URL": "https://higher.gs.com/roles/171551",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=171551 | program=Summer Analyst | division=Engineering Division",
+      "Region": "North America"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | West Palm Beach | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "West Palm Beach, FL, United States",
+      "URL": "https://higher.gs.com/roles/181628",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=181628 | program=Summer Analyst | division=Engineering Division",
+      "Region": "North America"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://higher.gs.com/roles/169905",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-06-30 | role_id=169905 | program=Summer Analyst | division=Engineering Division",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate",
+      "Department": "Engineering Division",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://higher.gs.com/roles/169906",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-13 | role_id=169906 | program=Summer Associate | division=Engineering Division",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate",
+      "Department": "Engineering Division",
+      "Location": "Singapore",
+      "URL": "https://higher.gs.com/roles/170601",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-06-30 | role_id=170601 | program=Summer Associate | division=Engineering Division",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | EMEA | London | Asset and Wealth Management Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "London, Greater London, England, United Kingdom",
+      "URL": "https://higher.gs.com/roles/175421",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=175421 | program=Summer Analyst | division=Engineering Division",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | EMEA | London | Asset and Wealth Management Quantitative Strats | Summer Associate",
+      "Department": "Engineering Division",
+      "Location": "London, Greater London, England, United Kingdom",
+      "URL": "https://higher.gs.com/roles/175423",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=175423 | program=Summer Associate | division=Engineering Division",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | EMEA | London | FICC and Equities (Sales and Trading) Quantitative Strats | Internship",
+      "Department": "Engineering Division",
+      "Location": "London, Greater London, England, United Kingdom",
+      "URL": "https://higher.gs.com/roles/175424",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=175424 | program=Seasonal | division=Engineering Division",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | EMEA | London | Investment Banking Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "London, Greater London, England, United Kingdom",
+      "URL": "https://higher.gs.com/roles/175428",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=175428 | program=Summer Analyst | division=Engineering Division",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | EMEA | London | The Core Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "London, Greater London, England, United Kingdom",
+      "URL": "https://higher.gs.com/roles/175426",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=175426 | program=Summer Analyst | division=Engineering Division",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | EMEA | London | The Core Quantitative Strats | Summer Associate",
+      "Department": "Engineering Division",
+      "Location": "London, Greater London, England, United Kingdom",
+      "URL": "https://higher.gs.com/roles/175427",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=175427 | program=Summer Associate | division=Engineering Division",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | EMEA | London | Wealth Management, Quantitative Finance | Summer Analyst",
+      "Department": "Asset & Wealth Management",
+      "Location": "London, Greater London, England, United Kingdom",
+      "URL": "https://higher.gs.com/roles/170860",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=170860 | program=Summer Analyst | division=Asset & Wealth Management",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | EMEA | Paris | FICC and Equities (Sales and Trading) Quantitative Strats | Seasonal/Off Cycle Internship",
+      "Department": "Engineering Division",
+      "Location": "Paris, Ile-de-France, France",
+      "URL": "https://higher.gs.com/roles/175429",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=175429 | program=Seasonal | division=Engineering Division",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | EMEA | Paris | The Core Quantitative Strats | Seasonal/Off Cycle Internship",
+      "Department": "Engineering Division",
+      "Location": "Paris, Ile-de-France, France",
+      "URL": "https://higher.gs.com/roles/175430",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=175430 | program=Seasonal | division=Engineering Division",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | EMEA | The Hague | Asset and Wealth Management Quantitative Strats | Seasonal/Off Cycle Internship",
+      "Department": "Engineering Division",
+      "Location": "The Hague, Zuid-Holland, Netherlands",
+      "URL": "https://higher.gs.com/roles/170663",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=170663 | program=Seasonal | division=Engineering Division",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | EMEA | Warsaw | The Core Quantitative Strats | Summer Analyst",
+      "Department": "Engineering Division",
+      "Location": "Warsaw, Mazowieckie, Poland",
+      "URL": "https://higher.gs.com/roles/175433",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-15 | role_id=175433 | program=Summer Analyst | division=Engineering Division",
+      "Region": "Europe"
+    },
+    {
       "Company": "Group One Trading",
       "Title": "Trading Analyst Intern",
       "Location": "Chicago, IL",
@@ -962,6 +1468,17 @@
       "Source": "Career page Greenhouse:wehrtyou",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.hudsonrivertrading.com/careers/ | company_wrapper=https://www.hudsonrivertrading.com/careers/job?gh_jid=7964062 | internship timing: Summer 2027 | We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application. Hudson River Trading (HRT) is seeking exceptional full-time students to join our Algorithm Development Summer Internship Program. Algorithm Developers at HRT focus on the research and implementation of automated trading strategies. As an intern, you will have the opportunity to rotate between our high- and mid-frequency trading teams, as well as our machine learning teams. In close collaboration with full-time mentors, you will apply sophisticated quantitative modeling techniques to understand and predict market behavior and write software to impr...",
+      "Region": "Global / Multiple Regions"
+    },
+    {
+      "Company": "Hudson River Trading",
+      "Title": "Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027",
+      "Department": "Campus",
+      "Location": "London, United Kingdom; New York, NY, United States; Singapore",
+      "URL": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
+      "Source": "Career page Greenhouse:wehrtyou",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.hudsonrivertrading.com/careers/ | company_wrapper=https://www.hudsonrivertrading.com/careers/job?gh_jid=8059837 | internship timing: Summer 2027 | We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application. Hudson River Trading (HRT) is seeking exceptional full-time PhD students to join our Algorithm Development summer internship program. Algorithm Developers at HRT focus on the research and implementation of automated trading strategies. We trade on more than 200 markets around the world, across a variety of time horizons – offering ample opportunities to explore innovative, self-guided research and make a big impact on our business. Through this internship, you’ll have the opportunity to rotate across teams, learning and collaborating alongside res...",
       "Region": "Global / Multiple Regions"
     },
     {
@@ -1756,6 +2273,17 @@
     },
     {
       "Company": "Susquehanna International Group",
+      "Title": "Machine Learning Internship - PhD: 2027",
+      "Department": "Machine Learning, Interns + Co-ops",
+      "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+      "URL": "https://careers.sig.com/jobs/10785?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-04-09T16:45:00+0000 | June 2027 Start | internship timing not stated in title | Overview Our Machine Learning PhD Internship is a 10-week immersive experience designed for PhD candidates who are passionate about solving high-impact problems at the intersection of data, algorithms, and markets. As a Machine Learning Intern at Susquehanna, you’ll work on high-impact projects that closely reflect the challenges and workflows of our full-time research team. You’ll apply your technical expertise in machine learning and data science to real-world financial problems, while developing a deep understanding of how machine learning integrates into Susquehanna’s research and trading systems. You will leverage vast and diverse datasets and apply cutting-edge machine learning at scale to drive data-informed decisions in predictive modeling to strategic execution. What You Can Expect Conduc...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Susquehanna International Group",
       "Title": "Macro Analyst Internship: Summer 2027",
       "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
       "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
@@ -1786,6 +2314,50 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-06-30T04:18:00+0000 | June 2027 Start | internship timing: Summer 2027 | Overview As a Quantitative Research Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. You will have the opportunity to build alphas on an actual trading strategy. Successful intern candidates will participate in a U.S. based internship with full-time placement in our Hong Kong office upon graduation. Visa sponsorship is available for this position. What you can expect Modelling: Apply probability theory, statistical analysis, and machine learning techniques to predict market behavior and generate alphas Execution: Create strategies to execute on modelling ideas under simu...",
       "Region": "Asia"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Quantitative Research Internship - PhD",
+      "Department": "Quantitative Research, Interns + Co-ops",
+      "Location": "Sydney, Australia",
+      "URL": "https://careers.sig.com/jobs/10429?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-01-05T00:01:00+0000 | Flexible Start | internship timing not stated in title | Overview As a Quantitative Research Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will learn with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. What you’ll do Over the 10-week program, you’ll apply probability, statistics and mathematical creativity to several impactful trading projects Collaborate with researchers, traders, and technologists to help transform our quantitative modeling into trading opportunities and strategies What we're looking for Students in the penultimate year of their PhD program studying in a quantitative field such as mathematics, physics, statistics, electrical engineering, computer science, operations research, or economics Exceptional mathematical pro...",
+      "Region": "Oceania"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Quantitative Research Internship - PhD: Summer 2027",
+      "Department": "Quantitative Research, Interns + Co-ops",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://careers.sig.com/jobs/11083?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-06-29T23:40:00+0000 | June 2027 Start | internship timing: Summer 2027 | Overview As a Quantitative Research Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. You will have the opportunity to build alphas on an actual trading strategy. Successful intern candidates will participate in a U.S. based internship with full-time placement in our Hong Kong office upon graduation. Visa sponsorship is available for this position. What you can expect Modelling: Apply probability theory, statistical analysis, and machine learning techniques to predict market behavior and generate alphas Execution: Create strategies to execute on modelling ideas under simu...",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Quantitative Research Internship - PhD: Summer 2027",
+      "Department": "Quantitative Research, Interns + Co-ops",
+      "Location": "New York, New York",
+      "URL": "https://careers.sig.com/jobs/10818?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-06-29T18:55:00+0000 | June 2027 Start | internship timing: Summer 2027 | Overview As a Quantitative Research Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. You will have the opportunity to build alphas on an actual trading strategy. What you can expect Modelling: Apply probability theory, statistical analysis, and machine learning techniques to predict market behavior and generate alphas Execution: Create strategies to execute on modelling ideas under simulated competition Evaluation: Backtest ideas using historical market data and revise strategies Breadth: Explore all aspects of quant work and different areas of Susquehanna’s business Edu...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Quantitative Research Internship - PhD: Summer 2027",
+      "Department": "Quantitative Research, Interns + Co-ops",
+      "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+      "URL": "https://careers.sig.com/jobs/10817?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-04-21T14:32:00+0000 | June 2027 Start | internship timing: Summer 2027 | Overview As a Quantitative Research Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. You will have the opportunity to build alphas on an actual trading strategy. What you can expect Modelling: Apply probability theory, statistical analysis, and machine learning techniques to predict market behavior and generate alphas Execution: Create strategies to execute on modelling ideas under simulated competition Evaluation: Backtest ideas using historical market data and revise strategies Breadth: Explore all aspects of quant work and different areas of Susquehanna’s business Edu...",
+      "Region": "North America"
     },
     {
       "Company": "Susquehanna International Group",
@@ -1866,6 +2438,39 @@
     },
     {
       "Company": "Susquehanna International Group",
+      "Title": "Quantitative Systematic Trading Internship - PhD: Summer 2027",
+      "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
+      "Location": "New York, New York",
+      "URL": "https://careers.sig.com/jobs/10822?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-06-29T18:55:00+0000 | June 2027 Start | internship timing: Summer 2027 | Overview As a Quantitative Systematic Trading Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. You will have the opportunity to build alphas on an actual trading strategy. What you can expect Modelling. Apply probability theory, statistical analysis, and machine learning techniques to predict market behavior and generate alphas Execution. Create strategies to execute on modelling ideas under simulated competition Evaluation. Backtest ideas using historical market data and revise strategies Breadth. Explore all aspects of quant work and different areas of Susquehanna’s bu...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Quantitative Systematic Trading Internship - PhD: Summer 2027",
+      "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://careers.sig.com/jobs/11084?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-06-24T23:25:00+0000 | June 2027 Start | internship timing: Summer 2027 | Overview As a Quantitative Systematic Trading Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. You will have the opportunity to build alphas on an actual trading strategy. Successful intern candidates will participate in a U.S. based internship with full-time placement in our Hong Kong office upon graduation. Visa sponsorship is available for this position What you can expect Modelling. Apply probability theory, statistical analysis, and machine learning techniques to predict market behavior and generate alphas Execution. Create strategies to execute on modelling ideas u...",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Quantitative Systematic Trading Internship - PhD: Summer 2027",
+      "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
+      "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+      "URL": "https://careers.sig.com/jobs/10821?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-04-21T18:11:00+0000 | June 2027 Start | internship timing: Summer 2027 | Overview As a Quantitative Systematic Trading Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. You will have the opportunity to build alphas on an actual trading strategy. What you can expect Modelling. Apply probability theory, statistical analysis, and machine learning techniques to predict market behavior and generate alphas Execution. Create strategies to execute on modelling ideas under simulated competition Evaluation. Backtest ideas using historical market data and revise strategies Breadth. Explore all aspects of quant work and different areas of Susquehanna’s bu...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Susquehanna International Group",
       "Title": "Quantitative Systematic Trading Internship – Master's: Summer 2027",
       "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
       "Location": "New York, New York",
@@ -1885,6 +2490,17 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-04-21T18:11:00+0000 | June 2027 Start | internship timing: Summer 2027 | Overview As a quantitative Systematic Trading Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. You will have the opportunity to build alphas on an actual trading strategy. What you can expect Modelling. Apply probability theory, statistical analysis, and machine learning techniques to predict market behavior and generate alphas Execution. Create strategies to execute on modelling ideas under simulated competition Evaluation. Backtest ideas using historical market data and revise strategies Breadth. Explore all aspects of quant work and different areas of Susquehanna’s bu...",
       "Region": "North America"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Quantitative Systematic Trading Internship – PhD",
+      "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
+      "Location": "Sydney, Australia",
+      "URL": "https://careers.sig.com/jobs/10435?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-01-05T00:19:00+0000 | Flexible Start | internship timing not stated in title | Overview As a Quantitative Systematic Trading Intern at Susquehanna, you will work on projects that model the work of our full-time employees. You will also go through a comprehensive education program and interact with mentors who are at the top of their field, allowing you to build foundational knowledge in quantitative finance. What you’ll do Over the 10-week program, you’ll apply probability, statistics and mathematical creativity to several impactful trading projects. Collaborate with researchers, traders, and technologists to help transform our quantitative modeling into trading opportunities and strategies. Join an industry leading training program and be mentored by industry experts on topics including option theory and option modeling. Read about Robert’s ‘Day in the life’ as a Quantitativ...",
+      "Region": "Oceania"
     },
     {
       "Company": "Susquehanna International Group",
@@ -2130,6 +2746,17 @@
     },
     {
       "Company": "Virtu Financial",
+      "Title": "2027 Internship - Quantitative Researcher (PhD)",
+      "Department": "Internships",
+      "Location": "New York",
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8624424002",
+      "Source": "Career page Greenhouse:virtu",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8624424002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Virtu Financial",
       "Title": "2027 Internship - Quantitative Strategist",
       "Department": "Internships",
       "Location": "Singapore",
@@ -2214,6 +2841,17 @@
       "Source": "Career page Greenhouse:virtu",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8657286002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Walleye Capital",
+      "Title": "Quantic - PhD Quantitative Researcher Intern (Summer 2027)",
+      "Department": "Quantic",
+      "Location": "Boston, MA",
+      "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006",
+      "Source": "Career page Greenhouse:walleyecapital-external-students",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://job-boards.greenhouse.io/walleyecapital-external-students | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4679184006 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Position : Quantic - PhD Quantitative Researcher Intern (Summer 2027) Location : Boston, MA Firm Overview: Walleye Capital is a ~$17 billion+ multi-strategy investment firm headquartered in New York City, with over 350 employees across five main offices. Founded in 2005 as an options market maker, we have organically grown into a global investment firm specializing in Quant, Fundamental Equities, and Volatility strategies. Our Team Overview: Walleye Capital is seeking highly quantitative and creative PhD Quantitative Researcher Interns to work in the rapidly growing Quantic team based out of Boston. Quantic is Walleye’s principal quantitative investment busines...",
       "Region": "North America"
     },
     {

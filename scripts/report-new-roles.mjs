@@ -2,21 +2,32 @@
 //
 // Reads the current scan outputs and re-derives each role's true release date
 // from the source ATS (Greenhouse first_published, Eightfold t_create, Workable
-// published, Ashby publishedAt), then prints roles released within a window.
+// published, Ashby publishedAt, Lever createdAt, and source-provided Notes),
+// then prints roles released within a window.
 // No saved state needed, so it is safe to run in a fresh cloud session daily:
 //   node report-new-roles.mjs --days=3
 //   node report-new-roles.mjs --since=2026-07-27
 import fs from "node:fs";
+import path from "node:path";
 
 const arg = (k, d) => { const m = process.argv.find((a) => a.startsWith(`--${k}=`)); return m ? m.split("=")[1] : d; };
 const days = Number(arg("days", "1"));
-const since = arg("since", new Date(Date.now() - days * 864e5).toISOString().slice(0, 10));
+const defaultSinceDate = new Date();
+defaultSinceDate.setUTCDate(defaultSinceDate.getUTCDate() - Math.max(0, days - 1));
+const since = arg("since", defaultSinceDate.toISOString().slice(0, 10));
 const until = arg("until", new Date().toISOString().slice(0, 10));
+const shouldWrite = process.argv.includes("--write");
+const scope = arg("scope", "all");
+const markdownPath = arg("markdown", "reports/new_roles_last_three_weeks.md");
+const jsonPath = arg("json", "data/new_roles_last_three_weeks.json");
 const inWindow = (iso) => { if (!iso) return false; const d = iso.slice(0, 10); return d >= since && d <= until; };
 
-const files = [
+const quantFiles = [
   "data/quant_internship_scan_raw.json",
   "data/quant_internship_roles_scan_v2_raw.json",
+];
+const files = scope === "quant" ? quantFiles : [
+  ...quantFiles,
   "data/us_financial_services_internship_scan_raw.json",
   "data/swe_2027_internship_scan_raw.json",
 ];
@@ -27,7 +38,8 @@ for (const f of files) {
     const scanAt = j.searchedAt || j.scannedAt || null;
     (j.rows || j.matches || []).forEach((r) => rows.push({
       Company: r.Company || r.company, Title: r.Title || r.title,
-      Location: r.Location || r.location, URL: (r.URL || r.url || "").trim(), Source: r.Source || r.source || "",
+      Location: r.Location || r.location, Region: r.Region || r.region || "",
+      URL: (r.URL || r.url || "").trim(), Source: r.Source || r.source || "",
       Notes: r.Notes || r.notes || "", scanAt,
     }));
   } catch { /* output missing — skip */ }
@@ -39,24 +51,42 @@ const uniq = [...byUrl.values()];
 async function jget(url, opts) { try { const c = new AbortController(); const t = setTimeout(() => c.abort(), 15000); const r = await fetch(url, { signal: c.signal, headers: { "user-agent": "Mozilla/5.0" }, ...opts }); clearTimeout(t); return r.ok ? await r.json() : null; } catch { return null; } }
 const idOf = (u) => { const m = (u || "").match(/(\d{5,})/g); return m ? m[m.length - 1] : null; };
 
-const gh = new Set(["janestreet"]), ef = new Set(), wk = new Set(), ash = new Set();
+const gh = new Set(["janestreet"]), ef = new Set(), wk = new Set(), ash = new Set(), lever = new Set(), smartRecruiters = new Set();
 for (const r of uniq) {
   let m;
   if ((m = r.Source.match(/Greenhouse:([^ ]+)/))) gh.add(m[1]);
   else if ((m = r.Source.match(/Eightfold:([^ ]+)/))) ef.add(m[1]);
   else if ((m = r.Source.match(/Workable:([^ ]+)/))) wk.add(m[1]);
   else if ((m = r.Source.match(/Ashby:([^ ]+)/))) ash.add(m[1]);
+  else if ((m = r.Source.match(/Lever:([^ ]+)/))) lever.add(m[1]);
+  else if ((m = r.Source.match(/SmartRecruiters:([^ ]+)/))) smartRecruiters.add(m[1]);
 }
 const dateByUrl = new Map(), dateById = new Map();
 for (const tok of gh) { const j = await jget(`https://boards-api.greenhouse.io/v1/boards/${tok}/jobs?content=true`); for (const job of (j?.jobs || [])) { const d = job.first_published; if (job.absolute_url) dateByUrl.set(job.absolute_url, d); if (job.id) dateById.set(String(job.id), d); } }
 for (const host of ef) { const j = await jget(`https://${host}/api/apply/v2/jobs?domain=${host.includes("mlp") ? "mlp.com" : host.split(".").slice(-2).join(".")}&start=0&num=100&sort_by=relevance`); for (const p of (j?.positions || [])) { const d = p.t_create ? new Date(p.t_create * 1000).toISOString() : null; if (p.canonicalPositionUrl) dateByUrl.set(p.canonicalPositionUrl, d); if (p.id) dateById.set(String(p.id), d); } }
 for (const acc of wk) { const j = await jget(`https://apply.workable.com/api/v3/accounts/${acc}/jobs`, { method: "POST", headers: { "content-type": "application/json" }, body: "{}" }); for (const job of (j?.results || [])) { if (job.published) dateByUrl.set(`https://apply.workable.com/${acc}/j/${job.shortcode}/`, job.published); } }
 for (const tok of ash) { const j = await jget(`https://api.ashbyhq.com/posting-api/job-board/${tok}`); for (const job of (j?.jobs || [])) { const d = job.publishedAt || job.updatedAt; if (job.jobUrl) dateByUrl.set(job.jobUrl, d); } }
+for (const tok of lever) { const jobs = await jget(`https://api.lever.co/v0/postings/${tok}?mode=json`); for (const job of (jobs || [])) { const d = job.createdAt ? new Date(job.createdAt).toISOString() : null; if (job.hostedUrl) dateByUrl.set(job.hostedUrl, d); if (job.applyUrl) dateByUrl.set(job.applyUrl, d); if (job.id) dateById.set(String(job.id), d); } }
+for (const companyId of smartRecruiters) {
+  for (let offset = 0; offset < 1000; offset += 100) {
+    const j = await jget(`https://api.smartrecruiters.com/v1/companies/${companyId}/postings?limit=100&offset=${offset}`);
+    const jobs = j?.content || [];
+    for (const job of jobs) if (job.id && job.releasedDate) dateById.set(String(job.id), job.releasedDate);
+    if (!j || jobs.length < 100 || offset + jobs.length >= (j.totalFound || 0)) break;
+  }
+}
 
-// Workday boards expose only a relative "Posted Today / N Days Ago" string, which
-// the scan captures in Notes. Re-anchor it to that file's scan time to get an
-// absolute date (day granularity; "30+ Days Ago" is a floor, always pre-window).
-function workdayDate(notes, scanAtIso) {
+// Some official feeds already expose an exact date during the scan. Preserve it
+// in Notes and prefer it over a discovery timestamp.
+for (const r of uniq) {
+  const exact = r.Notes.match(/(?:^|\|\s*)(?:posted|datePosted|openquant_datePosted|lastPostedDate)=([0-9]{4}-[0-9]{2}-[0-9]{2}(?:T[^|\s]+)?)/i)?.[1];
+  if (exact) dateByUrl.set(r.URL, exact);
+}
+
+// Workday and Salesforce boards can expose only a relative "Posted Today /
+// N Days Ago" string. Re-anchor it to that file's scan time to get an absolute
+// date (day granularity; "30+ Days Ago" is a floor, always pre-window).
+function relativePostedDate(notes, scanAtIso) {
   if (!notes || !scanAtIso) return null;
   const m = notes.match(/Posted\s+(Today|Yesterday|(\d+)\+?\s+Days?\s+Ago)/i);
   if (!m) return null;
@@ -68,8 +98,8 @@ function workdayDate(notes, scanAtIso) {
 }
 for (const r of uniq) {
   if (dateByUrl.has(r.URL)) continue;
-  if (/myworkdayjobs|Workday/i.test(`${r.URL} ${r.Source}`)) {
-    const d = workdayDate(r.Notes, r.scanAt);
+  if (/myworkdayjobs|Workday|Salesforce Experience Cloud|bambusdev\.my\.site\.com/i.test(`${r.URL} ${r.Source}`)) {
+    const d = relativePostedDate(r.Notes, r.scanAt);
     if (d) dateByUrl.set(r.URL, d);
   }
 }
@@ -89,3 +119,16 @@ for (const [co, list] of Object.entries(byco).sort((a, b) => b[1].length - a[1].
   for (const r of list) out += `- **${r.date}** — [${r.Title}](${r.URL}) — ${r.Location || "n/a"}\n`;
 }
 process.stdout.write(out);
+if (shouldWrite) {
+  for (const file of [markdownPath, jsonPath]) fs.mkdirSync(path.dirname(file), { recursive: true });
+  fs.writeFileSync(markdownPath, out);
+  fs.writeFileSync(jsonPath, JSON.stringify({
+    generatedAt: new Date().toISOString(),
+    scope,
+    since,
+    until,
+    count: released.length,
+    roles: released,
+  }, null, 2));
+  process.stderr.write(`wrote ${markdownPath} and ${jsonPath}\n`);
+}

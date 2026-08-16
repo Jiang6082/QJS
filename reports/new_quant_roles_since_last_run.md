@@ -1,11 +1,11 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-08-15T20:19:54.951Z
-Current scan: 2026-08-16T14:55:30.101Z
+Previous scan: 2026-08-16T14:55:30.101Z
+Current scan: 2026-08-16T15:37:25.239Z
 Previous rows: 322
-Current rows: 322
+Current rows: 381
 New stable job URLs: 0
-No longer present: 4
+No longer present: 0
 
 ## New Roles By Region
 
@@ -47,7 +47,4 @@ _None._
 
 ## No Longer Present
 
-- **Quant Matter** - [2027 Quantitative Research - Risk and Treasury - Summer Internship ...](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978)
-- **Quant Matter** - [Five Rings Summer Intern 2027 Quantitative Trader Internship in New ...](https://opportunitiesforyouth.org/2026/07/27/five-rings-summer-intern-2027-quantitative-trader-internship-in-new-york-300000-annualized-salary-sign-on-bonus-corporate-housing/)
-- **Quant Matter** - [Quantitative Trading Intern Summer 2027 - Flow Traders](https://www.flowtraders.com/careers/job-description/8047166)
-- **Walleye Capital** - [Equity Volatility Quant Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006)
+_None._

@@ -1,10 +1,10 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-08-16T14:55:30.101Z
+Scan started: 2026-08-16T15:37:25.239Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 
-## Matching Roles Found (41)
+## Matching Roles Found (42)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -16,6 +16,7 @@ Canonical companies after aliases: 304
 | Aquatic Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/aquaticcapitalmanagement) |
 | Belvedere Trading | 1/1 pages live | [link](https://www.belvederetrading.com/careers/) |
 | AXQ Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/axq) |
+| Balyasny Asset Management | 1/1 pages live | [link](https://www.bamfunds.com/careers/) |
 | Citadel Securities | 0/4 pages live | [link](https://www.citadelsecurities.com/careers/) [link](https://www.citadel.com/careers/) [link](https://www.citadelsecurities.com/careers/open-opportunities/) [link](https://www.citadelsecurities.com/careers/students/) |
 | DRW | 1/1 pages live | [link](https://drw.com/work-at-drw/) |
 | DV Trading | 1/1 pages live | [link](https://dvtrading.co/join-dv/) |
@@ -113,7 +114,7 @@ Canonical companies after aliases: 304
 | Xantium | 1/1 pages live | [link](https://job-boards.greenhouse.io/xantium?gh_src=Trackr) |
 | Morningstar | 4/4 pages live | [link](https://morningstar.wd5.myworkdayjobs.com/morningstar) [link](https://morningstar.wd5.myworkdayjobs.com/Americas/) [link](https://morningstar.wd5.myworkdayjobs.com/MorningstarDBRS) [link](https://www.morningstar.com/company/careers) |
 
-## Could Not Fully Verify (210)
+## Could Not Fully Verify (209)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -122,7 +123,7 @@ Canonical companies after aliases: 304
 | Acadian Asset Management | 1/1 pages live | [link](https://www.acadian-asset.com/careers) |
 | Albert Quant Trading Club | no saved page attempted | none |
 | Apolis SAM | 1/1 pages live | [link](https://apolisrises.com/careers/) |
-| Arfima Trading | 1/1 pages live | [link](https://www.arfima.com/careers/) |
+| Arfima Trading | 0/1 pages live | [link](https://www.arfima.com/careers/) |
 | Aureas Finance | no saved page attempted | none |
 | Bastion Trading | 1/1 pages live | [link](https://bastiontrading.com/careers/apply) |
 | Caladan | 1/1 pages live | [link](https://caladan.xyz/careers/) |
@@ -149,7 +150,6 @@ Canonical companies after aliases: 304
 | Aquion | no saved page attempted | none |
 | Aros Commodities | 1/1 pages live | [link](https://cornerstonecapital.teamtailor.com/pages/careers-aros-commodities) |
 | Axinoss | no saved page attempted | none |
-| Balyasny Asset Management | 1/1 pages live | [link](https://www.bamfunds.com/careers/) |
 | Birkoa Capital Management | 1/1 pages live | [link](https://birkoa.com/careers) |
 | Bondi Tech | 1/1 pages live | [link](https://www.bonditech.com/careers) |
 | Charlesworth Research | 1/1 pages live | [link](https://www.charlesworthresearch.com/careers) |
@@ -222,7 +222,7 @@ Canonical companies after aliases: 304
 | Geneva Trading | 2/2 pages live | [link](https://www.genevatrading.com/careers/) [link](https://job-boards.greenhouse.io/genevatrading) |
 | Glencore | 1/1 pages live | [link](https://www.glencore.com/careers) |
 | Graviton Research Capital | 2/2 pages live | [link](https://www.gravitontrading.com/careers.html) [link](https://apply.workable.com/gravitonresearch/) |
-| High-Flyer | 0/1 pages live | [link](https://www.high-flyer.cn/en/join) |
+| High-Flyer | 1/1 pages live | [link](https://www.high-flyer.cn/en/join) |
 | Independent Trading Group (ITG) | no saved page attempted | none |
 | JY Quantitative Management | no saved page attempted | none |
 | Kadima Asset Management | no saved page attempted | none |
@@ -230,9 +230,9 @@ Canonical companies after aliases: 304
 | Linitics | no saved page attempted | none |
 | Lucida | no saved page attempted | none |
 | Marquette Partners | 1/1 pages live | [link](http://www.marquettepartnersholdingsllc.com/#careers) |
-| Mercuria Energy Group | 1/1 pages live | [link](https://mercuria.com/careers/) |
+| Mercuria Energy Group | 0/1 pages live | [link](https://mercuria.com/careers/) |
 | Minghong | 1/1 pages live | [link](https://join.mhfunds.com) |
-| Mingshi Investment Management | 2/2 pages live | [link](https://www.mingshiim.com/join) [link](https://en.mingshiim.com/join) |
+| Mingshi Investment Management | 0/2 pages live | [link](https://www.mingshiim.com/join) [link](https://en.mingshiim.com/join) |
 | Nitor Energy | 1/1 pages live | [link](https://nitorenergy.com/career/) |
 | Nyenburgh | no saved page attempted | none |
 | OTC Flow | 1/1 pages live | [link](https://otc-flow.webflow.io/careers) |
@@ -260,7 +260,7 @@ Canonical companies after aliases: 304
 | Scientech Research Capital | 1/1 pages live | [link](https://www.scientechresearch.io/jobopenings) |
 | Lone Pine Capital | no saved page attempted | none |
 | Mathrix | 1/1 pages live | [link](https://mathrix.recruitee.com/) |
-| Mercuria | 1/1 pages live | [link](https://mercuria.com/careers/) |
+| Mercuria | 0/1 pages live | [link](https://mercuria.com/careers/) |
 | Minghong Investment | 1/1 pages live | [link](https://join.mhfunds.com) |
 | Nine Mile | 1/1 pages live | [link](https://www.nmftrading.com/careers) |
 | Northpool | 1/1 pages live | [link](https://www.northpool.nl/vacancies) |
@@ -279,7 +279,7 @@ Canonical companies after aliases: 304
 | Los Angeles Capital Management | 1/1 pages live | [link](https://lacapm.com/careers) |
 | Market Wizards | 1/1 pages live | [link](https://marketwizards.com/careers/) |
 | Matrix Executions | 0/1 pages live | [link](https://matrixexecutions.com/careers/) |
-| Mercuria Energy America | 1/1 pages live | [link](https://mercuria.com/careers/) |
+| Mercuria Energy America | 0/1 pages live | [link](https://mercuria.com/careers/) |
 | Millennium | 2/2 pages live | [link](https://mlp.wd5.myworkdayjobs.com/mlpcareers) [link](https://www.mlp.com/careers/) |
 | Mingshi / Minghong | 2/2 pages live | [link](https://join.mhfunds.com/index) [link](https://www.mhfunds.com/) |
 | Murano Group | no saved page attempted | none |

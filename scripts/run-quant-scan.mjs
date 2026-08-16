@@ -110,6 +110,22 @@ if (["v2", "all"].includes(mode)) {
   });
 
   await new Promise((resolvePromise, reject) => {
+    const child = spawn(process.execPath, [
+      resolve(scriptDir, "report-new-roles.mjs"),
+      "--days=21",
+      "--scope=quant",
+      "--write",
+    ], {
+      cwd: rootDir,
+      stdio: "inherit",
+    });
+    child.on("error", reject);
+    child.on("close", (code) => code === 0
+      ? resolvePromise()
+      : reject(new Error(`report-new-roles.mjs exited with code ${code}`)));
+  });
+
+  await new Promise((resolvePromise, reject) => {
     const child = spawn(process.execPath, [resolve(scriptDir, "build-readme.mjs")], {
       cwd: rootDir,
       stdio: "inherit",

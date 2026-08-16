@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-16T14:59:12.519Z",
-  "scanStartedAt": "2026-08-16T14:55:30.101Z",
+  "generatedAt": "2026-08-16T15:41:12.051Z",
+  "scanStartedAt": "2026-08-16T15:37:25.239Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 41,
+    "matching-role-found": 42,
     "confirmed-no-open-postings": 2,
     "confirmed-openings-no-matching-role": 51,
-    "could-not-fully-verify": 210
+    "could-not-fully-verify": 209
   },
   "companies": [
     {
@@ -100,7 +100,7 @@
       "careerPages": [
         "https://www.arfima.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -626,7 +626,7 @@
       "sourceRosterNames": [
         "Balyasny Asset Management"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.bamfunds.com/careers/"
       ],
@@ -1140,7 +1140,7 @@
       "livePages": 4,
       "attemptedPages": 4,
       "jobsSeen": 17,
-      "relevantInternships": 1
+      "relevantInternships": 2
     },
     {
       "company": "Futures First",
@@ -1239,7 +1239,7 @@
       "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 72,
-      "relevantInternships": 2
+      "relevantInternships": 3
     },
     {
       "company": "IV Capital",
@@ -2084,7 +2084,7 @@
       "careerPages": [
         "https://www.high-flyer.cn/en/join"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2103,7 +2103,7 @@
       "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 165,
-      "relevantInternships": 14
+      "relevantInternships": 16
     },
     {
       "company": "Independent Trading Group (ITG)",
@@ -2234,7 +2234,7 @@
       "careerPages": [
         "https://mercuria.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2263,7 +2263,7 @@
         "https://www.mingshiim.com/join",
         "https://en.mingshiim.com/join"
       ],
-      "livePages": 2,
+      "livePages": 0,
       "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2830,7 +2830,7 @@
       "careerPages": [
         "https://mercuria.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3135,7 +3135,7 @@
       "careerPages": [
         "https://mercuria.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3876,7 +3876,7 @@
       "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 79,
-      "relevantInternships": 5
+      "relevantInternships": 6
     },
     {
       "company": "Two Sigma",
@@ -3919,7 +3919,7 @@
       "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 46,
-      "relevantInternships": 13
+      "relevantInternships": 14
     },
     {
       "company": "Verition Fund Management",
@@ -3965,7 +3965,7 @@
       "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 15,
-      "relevantInternships": 1
+      "relevantInternships": 2
     },
     {
       "company": "Wincent",

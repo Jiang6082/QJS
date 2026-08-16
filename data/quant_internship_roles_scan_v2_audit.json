@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-08-16T14:55:30.101Z",
+  "searchedAt": "2026-08-16T15:37:25.239Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -730,7 +730,7 @@
         {
           "source": "Greenhouse:wehrtyou",
           "jobsSeen": 69,
-          "relevantInternships": 2
+          "relevantInternships": 3
         },
         {
           "source": "Greenhouse:hrttalentcommunity",
@@ -739,7 +739,7 @@
         }
       ],
       "jobsSeen": 72,
-      "relevantInternships": 2
+      "relevantInternships": 3
     },
     {
       "company": "Hudson River Trading",
@@ -761,11 +761,11 @@
         {
           "source": "Greenhouse:wehrtyou",
           "jobsSeen": 69,
-          "relevantInternships": 2
+          "relevantInternships": 3
         }
       ],
       "jobsSeen": 69,
-      "relevantInternships": 2
+      "relevantInternships": 3
     },
     {
       "company": "Five Rings",
@@ -787,11 +787,11 @@
         {
           "source": "Greenhouse:fiveringsllc",
           "jobsSeen": 17,
-          "relevantInternships": 1
+          "relevantInternships": 2
         }
       ],
       "jobsSeen": 17,
-      "relevantInternships": 1
+      "relevantInternships": 2
     },
     {
       "company": "Five Rings",
@@ -813,11 +813,11 @@
         {
           "source": "Greenhouse:fiveringsllc",
           "jobsSeen": 17,
-          "relevantInternships": 1
+          "relevantInternships": 2
         }
       ],
       "jobsSeen": 17,
-      "relevantInternships": 1
+      "relevantInternships": 2
     },
     {
       "company": "Five Rings",
@@ -859,11 +859,11 @@
         {
           "source": "Greenhouse:fiveringsllc",
           "jobsSeen": 17,
-          "relevantInternships": 1
+          "relevantInternships": 2
         }
       ],
       "jobsSeen": 17,
-      "relevantInternships": 1
+      "relevantInternships": 2
     },
     {
       "company": "Arrowstreet",
@@ -2191,11 +2191,11 @@
         {
           "source": "Greenhouse:imc",
           "jobsSeen": 165,
-          "relevantInternships": 14
+          "relevantInternships": 16
         }
       ],
       "jobsSeen": 165,
-      "relevantInternships": 14
+      "relevantInternships": 16
     },
     {
       "company": "IMC Trading",
@@ -3454,11 +3454,11 @@
         {
           "source": "Greenhouse:towerresearchcapital",
           "jobsSeen": 79,
-          "relevantInternships": 5
+          "relevantInternships": 6
         }
       ],
       "jobsSeen": 79,
-      "relevantInternships": 5
+      "relevantInternships": 6
     },
     {
       "company": "Tower Research Capital",
@@ -3480,11 +3480,11 @@
         {
           "source": "Greenhouse:towerresearchcapital",
           "jobsSeen": 79,
-          "relevantInternships": 5
+          "relevantInternships": 6
         }
       ],
       "jobsSeen": 79,
-      "relevantInternships": 5
+      "relevantInternships": 6
     },
     {
       "company": "Trexquant",
@@ -3746,11 +3746,11 @@
         {
           "source": "Greenhouse:virtu",
           "jobsSeen": 46,
-          "relevantInternships": 13
+          "relevantInternships": 14
         }
       ],
       "jobsSeen": 46,
-      "relevantInternships": 13
+      "relevantInternships": 14
     },
     {
       "company": "Virtu Financial",
@@ -3772,11 +3772,11 @@
         {
           "source": "Greenhouse:virtu",
           "jobsSeen": 46,
-          "relevantInternships": 13
+          "relevantInternships": 14
         }
       ],
       "jobsSeen": 46,
-      "relevantInternships": 13
+      "relevantInternships": 14
     },
     {
       "company": "Voleon Group",
@@ -3938,11 +3938,11 @@
         {
           "source": "Greenhouse:walleyecapital-external-students",
           "jobsSeen": 4,
-          "relevantInternships": 1
+          "relevantInternships": 2
         }
       ],
       "jobsSeen": 4,
-      "relevantInternships": 1
+      "relevantInternships": 2
     },
     {
       "company": "Walleye Capital",
@@ -3965,7 +3965,7 @@
         {
           "source": "Greenhouse:walleyecapital-external-students",
           "jobsSeen": 4,
-          "relevantInternships": 1
+          "relevantInternships": 2
         },
         {
           "source": "Greenhouse:walleyecapital-external-fulltime",
@@ -3974,7 +3974,7 @@
         }
       ],
       "jobsSeen": 15,
-      "relevantInternships": 1
+      "relevantInternships": 2
     },
     {
       "company": "Walleye Capital",
@@ -5542,11 +5542,11 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1065,
+          "jobsSeen": 1064,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 1065,
+      "jobsSeen": 1064,
       "relevantInternships": 8
     },
     {
@@ -5572,11 +5572,11 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1065,
+          "jobsSeen": 1064,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 1065,
+      "jobsSeen": 1064,
       "relevantInternships": 8
     },
     {
@@ -5602,11 +5602,11 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1065,
+          "jobsSeen": 1064,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 1065,
+      "jobsSeen": 1064,
       "relevantInternships": 8
     },
     {
@@ -7812,8 +7812,8 @@
       "company": "Arfima Trading",
       "pageUrl": "https://www.arfima.com/careers/",
       "resolvedUrl": "https://www.arfima.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -9565,9 +9565,9 @@
     {
       "company": "High-Flyer",
       "pageUrl": "https://www.high-flyer.cn/en/join",
-      "resolvedUrl": "https://www.high-flyer.cn/en/join",
-      "pageOk": false,
-      "pageStatus": 0,
+      "resolvedUrl": "https://www.high-flyer.cn/en/join/",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -9646,8 +9646,8 @@
       "company": "Mercuria Energy Group",
       "pageUrl": "https://mercuria.com/careers/",
       "resolvedUrl": "https://mercuria.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -9682,8 +9682,8 @@
       "company": "Mingshi Investment Management",
       "pageUrl": "https://www.mingshiim.com/join",
       "resolvedUrl": "https://www.mingshiim.com/join",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -9700,8 +9700,8 @@
       "company": "Mingshi Investment Management",
       "pageUrl": "https://en.mingshiim.com/join",
       "resolvedUrl": "https://en.mingshiim.com/join",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -10170,8 +10170,8 @@
       "company": "Mercuria",
       "pageUrl": "https://mercuria.com/careers/",
       "resolvedUrl": "https://mercuria.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -10500,8 +10500,8 @@
       "company": "Mercuria Energy America",
       "pageUrl": "https://mercuria.com/careers/",
       "resolvedUrl": "https://mercuria.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -11636,7 +11636,7 @@
     {
       "company": "D. E. Shaw",
       "source": "Official internships page",
-      "jobsRetained": 9
+      "jobsRetained": 11
     },
     {
       "company": "Two Sigma",
@@ -11646,7 +11646,17 @@
     {
       "company": "Susquehanna International Group",
       "source": "Official paginated jobs API",
-      "jobsRetained": 30
+      "jobsRetained": 39
+    },
+    {
+      "company": "Balyasny Asset Management",
+      "source": "Official Salesforce Experience Cloud feed",
+      "jobsRetained": 15
+    },
+    {
+      "company": "Goldman Sachs",
+      "source": "Official Higher campus GraphQL API",
+      "jobsRetained": 29
     }
   ]
 }
