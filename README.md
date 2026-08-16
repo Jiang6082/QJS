@@ -232,6 +232,13 @@ _Official-source posting dates from 2026-07-27 through 2026-08-16. Only roles th
 
 [Standalone three-week report](reports/new_roles_last_three_weeks.md)
 
+### Newly surfaced, source date unavailable
+
+_These 2 roles first appeared in QJS during the window, but the employer does not publish a posting date. They are not included in the 110 confirmed-release count._
+
+- **First seen 2026-08-16** — **D. E. Shaw** — [Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) — New York
+- **First seen 2026-08-16** — **D. E. Shaw** — [Software Developer, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) — New York
+
 ---
 
 ## 📋 All Roles Available

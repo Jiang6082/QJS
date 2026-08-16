@@ -157,3 +157,9 @@
 
 ## Susquehanna International Group (1)
 - **2026-07-30** — [Trading Operations Analyst Internship: Summer 2027](https://careers.sig.com/jobs/11244?lang=en-us) — Hong Kong, Hong Kong
+
+## First seen in this window, but source posting date unavailable (2)
+
+_These are discovery dates from QJS history, not employer release dates._
+- **first seen 2026-08-16** — **D. E. Shaw** — [Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) — New York
+- **first seen 2026-08-16** — **D. E. Shaw** — [Software Developer, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) — New York

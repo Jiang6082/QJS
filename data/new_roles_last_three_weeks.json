@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T15:43:33.069Z",
+  "generatedAt": "2026-08-16T15:50:02.934Z",
   "scope": "quant",
   "since": "2026-07-27",
   "until": "2026-08-16",
@@ -1214,6 +1214,30 @@
       "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8657286002 | internship timing not stated in title | Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu. Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. ...",
       "scanAt": "2026-08-16T15:37:25.239Z",
       "date": "2026-07-29"
+    }
+  ],
+  "undatedFirstSeen": [
+    {
+      "Company": "D. E. Shaw",
+      "Title": "Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891",
+      "Source": "Official D. E. Shaw internships page",
+      "Notes": "career_page=https://www.deshaw.com/careers/internships | department=Quantitative Strategies | internship timing: Summer 2027 | official detail page checked | Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your",
+      "scanAt": "2026-08-16T15:37:25.239Z",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "Company": "D. E. Shaw",
+      "Title": "Software Developer, Ph.D. Intern (New York) – Summer 2027",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893",
+      "Source": "Official D. E. Shaw internships page",
+      "Notes": "career_page=https://www.deshaw.com/careers/internships | department=Software Development | internship timing: Summer 2027 | official detail page checked | Software Developer, Ph.D. Intern (New York) – Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your P",
+      "scanAt": "2026-08-16T15:37:25.239Z",
+      "first_seen": "2026-08-16"
     }
   ]
 }

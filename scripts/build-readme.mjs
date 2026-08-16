@@ -64,6 +64,7 @@ try {
   recentData = JSON.parse(fs.readFileSync(recentPath, 'utf8'));
 } catch {}
 const recentRoles = recentData.roles || [];
+const undatedFirstSeen = recentData.undatedFirstSeen || [];
 
 // scan date — from the dashboard if present, else the report's own timestamp
 let scanDate;
@@ -150,6 +151,12 @@ if (recentRoles.length === 0) {
   }
 }
 out += `[Standalone three-week report](reports/new_roles_last_three_weeks.md)\n\n`;
+if (undatedFirstSeen.length) {
+  out += `### Newly surfaced, source date unavailable\n\n`;
+  out += `_These ${undatedFirstSeen.length} roles first appeared in QJS during the window, but the employer does not publish a posting date. They are not included in the ${recentRoles.length} confirmed-release count._\n\n`;
+  for (const role of undatedFirstSeen) out += `- **First seen ${role.first_seen}** — ${roleLine(role).slice(2)}\n`;
+  out += `\n`;
+}
 out += `---\n\n`;
 
 // --- Section 3: All roles ---

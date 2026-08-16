@@ -9,6 +9,7 @@
 //   node report-new-roles.mjs --since=2026-07-27
 import fs from "node:fs";
 import path from "node:path";
+import { execFileSync } from "node:child_process";
 
 const arg = (k, d) => { const m = process.argv.find((a) => a.startsWith(`--${k}=`)); return m ? m.split("=")[1] : d; };
 const days = Number(arg("days", "1"));
@@ -105,12 +106,45 @@ for (const r of uniq) {
 }
 
 const released = [];
-for (const r of uniq) {
+const sourceDateFor = (r) => {
   let d = dateByUrl.get(r.URL);
   if (!d) { const id = idOf(r.URL); if (id) d = dateById.get(id); }
+  return d || null;
+};
+for (const r of uniq) {
+  const d = sourceDateFor(r);
   if (d && inWindow(d)) released.push({ ...r, date: d.slice(0, 10) });
 }
 released.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : a.Company.localeCompare(b.Company)));
+
+// For official pages that expose no posting date at all, keep a clearly
+// separate first-seen list. Git history is the repo's cross-machine scan
+// history; first_seen must never be presented as the employer's release date.
+function gitFirstSeenByUrl() {
+  const firstSeen = new Map();
+  const rawPath = "data/quant_internship_roles_scan_v2_raw.json";
+  try {
+    const commits = execFileSync("git", ["log", "--format=%H", "--", rawPath], { encoding: "utf8" })
+      .trim().split(/\r?\n/).filter(Boolean).reverse();
+    if (!commits.length) return firstSeen;
+    for (const commit of commits) {
+      let snapshot;
+      try {
+        snapshot = JSON.parse(execFileSync("git", ["show", `${commit}:${rawPath}`], { encoding: "utf8", maxBuffer: 20 * 1024 * 1024 }));
+      } catch { continue; }
+      const day = String(snapshot.searchedAt || "").slice(0, 10);
+      for (const row of snapshot.rows || []) if (row.URL && !firstSeen.has(row.URL)) firstSeen.set(row.URL, day);
+    }
+    for (const r of uniq) if (r.URL && !firstSeen.has(r.URL) && r.scanAt) firstSeen.set(r.URL, String(r.scanAt).slice(0, 10));
+  } catch { /* git history unavailable — do not guess */ }
+  return firstSeen;
+}
+const firstSeenByUrl = scope === "quant" ? gitFirstSeenByUrl() : new Map();
+const undatedFirstSeen = uniq
+  .filter((r) => !sourceDateFor(r) && inWindow(firstSeenByUrl.get(r.URL)))
+  .map((r) => ({ ...r, first_seen: firstSeenByUrl.get(r.URL) }))
+  .sort((a, b) => b.first_seen.localeCompare(a.first_seen) || a.Company.localeCompare(b.Company) || a.Title.localeCompare(b.Title));
+
 const byco = {};
 for (const r of released) (byco[r.Company] ||= []).push(r);
 let out = `# Roles released ${since} → ${until} (${released.length} with confirmed release dates)\n`;
@@ -118,6 +152,9 @@ for (const [co, list] of Object.entries(byco).sort((a, b) => b[1].length - a[1].
   out += `\n## ${co} (${list.length})\n`;
   for (const r of list) out += `- **${r.date}** — [${r.Title}](${r.URL}) — ${r.Location || "n/a"}\n`;
 }
+out += `\n## First seen in this window, but source posting date unavailable (${undatedFirstSeen.length})\n`;
+out += `\n_These are discovery dates from QJS history, not employer release dates._\n`;
+for (const r of undatedFirstSeen) out += `- **first seen ${r.first_seen}** — **${r.Company}** — [${r.Title}](${r.URL}) — ${r.Location || "n/a"}\n`;
 process.stdout.write(out);
 if (shouldWrite) {
   for (const file of [markdownPath, jsonPath]) fs.mkdirSync(path.dirname(file), { recursive: true });
@@ -129,6 +166,7 @@ if (shouldWrite) {
     until,
     count: released.length,
     roles: released,
+    undatedFirstSeen,
   }, null, 2));
   process.stderr.write(`wrote ${markdownPath} and ${jsonPath}\n`);
 }
