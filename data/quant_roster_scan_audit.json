@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-14T16:03:40.773Z",
-  "scanStartedAt": "2026-08-14T15:59:31.729Z",
+  "generatedAt": "2026-08-16T14:59:12.519Z",
+  "scanStartedAt": "2026-08-16T14:55:30.101Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 42,
+    "matching-role-found": 41,
     "confirmed-no-open-postings": 2,
     "confirmed-openings-no-matching-role": 51,
-    "could-not-fully-verify": 209
+    "could-not-fully-verify": 210
   },
   "companies": [
     {
@@ -996,7 +996,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 230,
+      "jobsSeen": 229,
       "relevantInternships": 8
     },
     {
@@ -1024,7 +1024,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 60,
+      "jobsSeen": 61,
       "relevantInternships": 5
     },
     {
@@ -1724,7 +1724,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -1972,7 +1972,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 2,
+      "jobsSeen": 3,
       "relevantInternships": 0
     },
     {
@@ -2084,7 +2084,7 @@
       "careerPages": [
         "https://www.high-flyer.cn/en/join"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2349,7 +2349,7 @@
         "https://pdtpartners.com/careers",
         "https://job-boards.greenhouse.io/pdtpartners"
       ],
-      "livePages": 3,
+      "livePages": 4,
       "attemptedPages": 5,
       "jobsSeen": 10,
       "relevantInternships": 2
@@ -2461,7 +2461,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 53,
+      "jobsSeen": 52,
       "relevantInternships": 1
     },
     {
@@ -2650,7 +2650,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 11,
+      "jobsSeen": 10,
       "relevantInternships": 2
     },
     {
@@ -3295,7 +3295,7 @@
       "sourceRosterNames": [
         "Quant Matter"
       ],
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://quantmatter.com/careers/"
       ],
@@ -3638,7 +3638,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 58,
+      "jobsSeen": 59,
       "relevantInternships": 0
     },
     {
@@ -3753,7 +3753,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 31,
+      "jobsSeen": 32,
       "relevantInternships": 0
     },
     {
@@ -3934,7 +3934,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 31,
+      "jobsSeen": 30,
       "relevantInternships": 0
     },
     {
@@ -3964,8 +3964,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 16,
-      "relevantInternships": 2
+      "jobsSeen": 15,
+      "relevantInternships": 1
     },
     {
       "company": "Wincent",
@@ -4019,7 +4019,7 @@
       "careerPages": [
         "https://irage.in/recruitment.php"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4092,7 +4092,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/transmarketgroup"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 18,
       "relevantInternships": 4
@@ -4207,7 +4207,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 101,
+      "jobsSeen": 102,
       "relevantInternships": 5
     },
     {
@@ -4221,7 +4221,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 6,
+      "jobsSeen": 5,
       "relevantInternships": 0
     },
     {

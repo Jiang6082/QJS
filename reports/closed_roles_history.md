@@ -1,11 +1,18 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 40
-Last updated: 2026-08-14T15:59:31.729Z
+Total closures recorded: 44
+Last updated: 2026-08-16T14:55:30.101Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-08-16 (4)
+
+- **Quant Matter** - [2027 Quantitative Research - Risk and Treasury - Summer Internship ...](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978)
+- **Quant Matter** - [Five Rings Summer Intern 2027 Quantitative Trader Internship in New ...](https://opportunitiesforyouth.org/2026/07/27/five-rings-summer-intern-2027-quantitative-trader-internship-in-new-york-300000-annualized-salary-sign-on-bonus-corporate-housing/)
+- **Quant Matter** - [Quantitative Trading Intern Summer 2027 - Flow Traders](https://www.flowtraders.com/careers/job-description/8047166)
+- **Walleye Capital** - [Equity Volatility Quant Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) - Miami, FL
 
 ### 2026-08-14 (3)
 
