@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-08-16T15:37:25.239Z",
+  "searchedAt": "2026-08-16T15:51:27.306Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -10285,7 +10285,7 @@
     {
       "company": "Optica",
       "pageUrl": "https://opg.optica.org/optica/home.cfm",
-      "resolvedUrl": "https://opg.optica.org/optica/home.cfm",
+      "resolvedUrl": "https://validate.perfdrive.com/?ssa=965c37b2-707e-f7b6-b866-f321c46200e3&ssb=55301248646&ssc=https%3A%2F%2Fopg.optica.org%2Foptica%2Fhome.cfm&ssi=f24703a7-d3hy-d828-4515-e229d75284e2&ssk=botmanager_support@radware.com&ssm=92270046838431686104850603838814&ssn=a1b42b998e282887a2e6305e431dff208136e942ba0a-baf7-b60e-7a3a2c&sso=64b670e-7788-5ee6dd91fcf24a78c2970694fc9b0cb48ce573376b3f42f7&ssp=85477833331786823644178685447088603&ssq=32453569560709370823295607480837496796390&ssr=OTcuMjM3LjEyNC4xMjA=&sst=Mozilla%2F5.0%20internship-research&ssv=&ssw=",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {

@@ -2,7 +2,7 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-08-16 &nbsp;•&nbsp; **381 open roles** &nbsp;•&nbsp; **4 released today** &nbsp;•&nbsp; **110 opened in 3 weeks** &nbsp;•&nbsp; **44 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-08-16 &nbsp;•&nbsp; **380 open roles** &nbsp;•&nbsp; **4 released today** &nbsp;•&nbsp; **110 opened in 3 weeks** &nbsp;•&nbsp; **44 closed** ([history](reports/closed_roles_history.md))
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [🔥 Opened in the Last 3 Weeks](#-opened-in-the-last-3-weeks) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -243,14 +243,14 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 
 ## 📋 All Roles Available
 
-**381** open internship roles, grouped by region. Click a title to open the official posting.
+**380** open internship roles, grouped by region. Click a title to open the official posting.
 
-**Regions:** [North America (192)](#north-america) · [Europe (84)](#europe) · [Asia (84)](#asia) · [Oceania (6)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (10)](#global--multiple-regions) · [Remote / Unspecified (4)](#remote--unspecified)
+**Regions:** [North America (191)](#north-america) · [Europe (84)](#europe) · [Asia (84)](#asia) · [Oceania (6)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (10)](#global--multiple-regions) · [Remote / Unspecified (4)](#remote--unspecified)
 
 ### North America
 
 <details>
-<summary><strong>192 roles</strong> — click to expand</summary>
+<summary><strong>191 roles</strong> — click to expand</summary>
 
 - **Akuna** — [Hardware Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) — Chicago, IL
 - **Akuna** — [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) — Chicago, IL
@@ -333,7 +333,6 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 - **Goldman Sachs** — [2027 \| Americas \| New York City Area \| Investment Banking Quantitative Strats \| Summer Analyst](https://higher.gs.com/roles/171547) — New York, NY, United States
 - **Goldman Sachs** — [2027 \| Americas \| New York City Area \| The Core Quantitative Strats \| Summer Analyst](https://higher.gs.com/roles/171533) — New York, NY, United States
 - **Goldman Sachs** — [2027 \| Americas \| New York City Area \| The Core Quantitative Strats \| Summer Associate](https://higher.gs.com/roles/171535) — New York, NY, United States
-- **Goldman Sachs** — [2027 \| Americas \| New York City Area \| Wealth Management, Quantitative Finance \| Summer Analyst](https://higher.gs.com/roles/155800) — New York
 - **Goldman Sachs** — [2027 \| Americas \| Salt Lake City \| Asset and Wealth Management Quantitative Strats \| Summer Analyst](https://higher.gs.com/roles/171549) — Salt Lake City, UT, United States
 - **Goldman Sachs** — [2027 \| Americas \| Salt Lake City \| The Core Quantitative Strats \| Summer Analyst](https://higher.gs.com/roles/171551) — Salt Lake City, UT, United States
 - **Goldman Sachs** — [2027 \| Americas \| West Palm Beach \| FICC and Equities (Sales and Trading) Quantitative Strats \| Summer Analyst](https://higher.gs.com/roles/181628) — West Palm Beach, FL, United States

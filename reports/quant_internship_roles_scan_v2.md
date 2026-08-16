@@ -1,8 +1,8 @@
 # Quant Internship Open Roles Scan v2
 
-Scanned: 2026-08-16T15:37:25.239Z
+Scanned: 2026-08-16T15:51:27.306Z
 Companies searched: 369
-Rows/leads retained: 381
+Rows/leads retained: 380
 
 Scope: original quant company list plus adjacent systematic/quant asset managers, large asset managers, and bank strats/quant-style programs. Target roles include quant, trading, research, software, engineering, and strategy internships. The scan checks saved company career pages first, then official ATS findings from v1, then broader web-discovered postings.
 
@@ -14,7 +14,7 @@ Status guide:
 
 ## Roles And Leads By Region
 
-### North America (192)
+### North America (191)
 
 - **Akuna** - [Hardware Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) - Chicago, IL  - Confirmed official posting (Greenhouse:akunacapital): internship timing: Summer 2027; graduation eligibility mentions: 2029; undergrad/BS/MS language found
 - **Akuna** - [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) - Chicago, IL - Confirmed official posting (Greenhouse:akunacapital): internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found
@@ -97,7 +97,6 @@ Status guide:
 - **Goldman Sachs** - [2027 | Americas | New York City Area | Investment Banking Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/171547) - New York, NY, United States - Confirmed official posting (Official Goldman Sachs Higher API): posted=2026-08-15 | role_id=171547 | program=Summer Analyst | division=Engineering Division
 - **Goldman Sachs** - [2027 | Americas | New York City Area | The Core Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/171533) - New York, NY, United States - Confirmed official posting (Official Goldman Sachs Higher API): posted=2026-08-15 | role_id=171533 | program=Summer Analyst | division=Engineering Division
 - **Goldman Sachs** - [2027 | Americas | New York City Area | The Core Quantitative Strats | Summer Associate](https://higher.gs.com/roles/171535) - New York, NY, United States - Confirmed official posting (Official Goldman Sachs Higher API): posted=2026-08-15 | role_id=171535 | program=Summer Associate | division=Engineering Division
-- **Goldman Sachs** - [2027 | Americas | New York City Area | Wealth Management, Quantitative Finance | Summer Analyst](https://higher.gs.com/roles/155800) - New York - Confirmed official posting (Official careers page): Official Goldman Sachs Higher role page; Summer Analyst program for bachelor's/graduate degree students.
 - **Goldman Sachs** - [2027 | Americas | Salt Lake City | Asset and Wealth Management Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/171549) - Salt Lake City, UT, United States - Confirmed official posting (Official Goldman Sachs Higher API): posted=2026-08-15 | role_id=171549 | program=Summer Analyst | division=Engineering Division
 - **Goldman Sachs** - [2027 | Americas | Salt Lake City | The Core Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/171551) - Salt Lake City, UT, United States - Confirmed official posting (Official Goldman Sachs Higher API): posted=2026-08-15 | role_id=171551 | program=Summer Analyst | division=Engineering Division
 - **Goldman Sachs** - [2027 | Americas | West Palm Beach | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/181628) - West Palm Beach, FL, United States - Confirmed official posting (Official Goldman Sachs Higher API): posted=2026-08-15 | role_id=181628 | program=Summer Analyst | division=Engineering Division
