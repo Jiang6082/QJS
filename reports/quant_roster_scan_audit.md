@@ -1,10 +1,10 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-08-16T14:55:30.101Z
+Scan started: 2026-08-17T16:47:40.019Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 
-## Matching Roles Found (41)
+## Matching Roles Found (40)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -28,7 +28,7 @@ Canonical companies after aliases: 304
 | Group One Trading | 1/1 pages live | [link](https://www.group1.com/careers/) |
 | Jump Trading | 1/1 pages live | [link](https://www.jumptrading.com/careers/) |
 | IMC Trading | 3/3 pages live | [link](https://job-boards.greenhouse.io/imc/jobs/4597351101) [link](https://www.imc.com/us/careers/) [link](https://www.imc.com/ap/careers/) |
-| Maven Securities | 4/5 pages live | [link](https://www.mavensecurities.com/careers/) [link](https://www.mavensecurities.com/jobs/) [link](https://maventrading.com/careers) [link](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381) [link](https://job-boards.greenhouse.io/mavensecuritiesholdingltd) |
+| Maven Securities | 3/5 pages live | [link](https://www.mavensecurities.com/careers/) [link](https://www.mavensecurities.com/jobs/) [link](https://maventrading.com/careers) [link](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381) [link](https://job-boards.greenhouse.io/mavensecuritiesholdingltd) |
 | PDT Partners | 4/5 pages live | [link](https://job-boards.greenhouse.io/pdtpartners?error=true) [link](https://job-boards.greenhouse.io/pdtpartners/jobs/3914106) [link](https://www.pdtpartners.com/careers/) [link](https://pdtpartners.com/careers) [link](https://job-boards.greenhouse.io/pdtpartners) |
 | Radix Trading | 3/4 pages live | [link](https://www.radix-trading.com/careers/) [link](https://www.radixeng.com/careers) [link](https://job-boards.greenhouse.io/radixuniversity) [link](https://job-boards.greenhouse.io/radixexperienced) |
 | Schonfeld | 2/2 pages live | [link](https://job-boards.greenhouse.io/schonfeld?error=true) [link](https://www.schonfeld.com/careers/) |
@@ -39,7 +39,6 @@ Canonical companies after aliases: 304
 | Optiver | 12/12 pages live | [link](https://optiver.com/join-us/) [link](https://optiver.com/join-us/jobs/) [link](https://job-boards.greenhouse.io/optiverprivate) [link](https://optiver.com/join-us/locations/shanghai/) [link](https://optiver.com/join-us/students/programs/futurefocus/) [link](https://optiver.com/working-at-optiver/career-opportunities/) [link](https://optiver.com/) [link](https://optiver.com/working-at-optiver/) [link](https://prod-www.optiver.com/) [link](https://optiver.com/join-us/jobs/institutional-sales-and-trading/new-york/us-options-sales-trader/) [link](https://optiver.com/join-us/jobs/human-resources-and-recruiting/austin/) [link](https://optiver.com/join-us/jobs/human-resources-and-recruiting/) |
 | Squarepoint Capital | 1/1 pages live | [link](https://www.squarepoint-capital.com/open-opportunities) |
 | Trillium | 5/5 pages live | [link](https://www.trlm.com/careers/) [link](https://job-boards.greenhouse.io/trillium) [link](https://www.trilliumhealthresources.org/explore-trillium/careers/internship-practicum) [link](https://www.trilliumhealth.org/join-the-team) [link](https://www.trilliumhealthresources.org/explore-trillium/careers) |
-| XTX Markets | 1/1 pages live | [link](https://www.xtxmarkets.com/careers/) |
 | Tower Research Capital | 2/2 pages live | [link](https://www.tower-research.com/open-positions/) [link](https://job-boards.greenhouse.io/towerresearchcapital) |
 | Two Sigma | 3/3 pages live | [link](https://careers.twosigma.com/) [link](https://www.twosigma.com/careers/) [link](https://www.twosigma.com/careers/internships/) |
 | Virtu Financial | 2/2 pages live | [link](https://www.virtu.com/careers/) [link](https://job-boards.greenhouse.io/virtu) |
@@ -74,7 +73,7 @@ Canonical companies after aliases: 304
 | Deutsche Bank | 1/1 pages live | [link](https://db.wd3.myworkdayjobs.com/DBWebsite/) |
 | Domeyard LP | 1/1 pages live | [link](https://careers.smartrecruiters.com/DomeyardLP?location=Boston&page=0&search=) |
 | ExodusPoint | 1/1 pages live | [link](https://job-boards.greenhouse.io/exoduspoint) |
-| Eclipse Trading | 1/1 pages live | [link](https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002) |
+| Eclipse Trading | 0/1 pages live | [link](https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002) |
 | GSR | 1/1 pages live | [link](https://job-boards.greenhouse.io/gsrmarkets/jobs/4421987101) |
 | Deeter Analytics | 1/1 pages live | [link](https://jobs.ashbyhq.com/deeter-analytics/27b65fa1-9629-4925-8a89-9c77bec491df) |
 | Elliott Bay Energy Trading LLC | 1/1 pages live | [link](https://www.elliott-turbo.com/careers) |
@@ -89,7 +88,7 @@ Canonical companies after aliases: 304
 | NK Securities | 1/1 pages live | [link](https://job-boards.greenhouse.io/nksecuritiesresearch?error=true) |
 | Mako Trading | 2/2 pages live | [link](https://www.mako.com/opportunities) [link](https://www.mako.com/early-careers) |
 | Marshall Wace | 3/3 pages live | [link](https://job-boards.greenhouse.io/mw-tech-grad) [link](https://www.mwam.com/join-us/) [link](https://us.mwam.com/join-us/) |
-| Maverick Derivatives | 1/1 pages live | [link](https://job-boards.greenhouse.io/maverickderivatives?error=true) |
+| Maverick Derivatives | 0/1 pages live | [link](https://job-boards.greenhouse.io/maverickderivatives?error=true) |
 | Quadrature | 1/1 pages live | [link](https://job-boards.greenhouse.io/quadraturecapital?error=true) |
 | Qube Research & Technologies | 0/1 pages live | [link](https://www.qube-rt.com/careers/) |
 | Simplex Trading | 2/2 pages live | [link](https://simplextrading.com/careers/) [link](https://job-boards.greenhouse.io/simplextrading) |
@@ -101,7 +100,7 @@ Canonical companies after aliases: 304
 | Viking Global Investors | 1/1 pages live | [link](https://job-boards.greenhouse.io/vikingglobalinvestors?error=true) |
 | Waterfront International Ltd | 1/1 pages live | [link](https://job-boards.greenhouse.io/wil) |
 | Winton Capital | 2/2 pages live | [link](https://www.winton.com/opportunities) [link](https://job-boards.eu.greenhouse.io/winton) |
-| TCI Fund Management | 2/3 pages live | [link](https://boards.greenhouse.io/twosixtechnologies/jobs/4465276004) [link](https://boards.greenhouse.io/tekion/jobs/6263631003) [link](https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007) |
+| TCI Fund Management | 1/3 pages live | [link](https://boards.greenhouse.io/twosixtechnologies/jobs/4465276004) [link](https://boards.greenhouse.io/tekion/jobs/6263631003) [link](https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007) |
 | Trafigura | 1/1 pages live | [link](https://www.trafigura.com/careers/) |
 | Vatic Labs | 1/1 pages live | [link](https://job-boards.greenhouse.io/vaticlabs/jobs/3137555) |
 | Vitol | 1/1 pages live | [link](https://careers.smartrecruiters.com/Vitol?oga=true) |
@@ -113,7 +112,7 @@ Canonical companies after aliases: 304
 | Xantium | 1/1 pages live | [link](https://job-boards.greenhouse.io/xantium?gh_src=Trackr) |
 | Morningstar | 4/4 pages live | [link](https://morningstar.wd5.myworkdayjobs.com/morningstar) [link](https://morningstar.wd5.myworkdayjobs.com/Americas/) [link](https://morningstar.wd5.myworkdayjobs.com/MorningstarDBRS) [link](https://www.morningstar.com/company/careers) |
 
-## Could Not Fully Verify (210)
+## Could Not Fully Verify (211)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -161,7 +160,7 @@ Canonical companies after aliases: 304
 | ArbitragePoint Trading | no saved page attempted | none |
 | Arrowstreet Capital | 1/1 pages live | [link](https://www.arrowstreetcapital.com/professional-careers/) |
 | B2C2 | 2/2 pages live | [link](https://www.b2c2.com/join-b2c2/careers) [link](https://job-boards.greenhouse.io/b2c2) |
-| Barak Capital | 1/1 pages live | [link](https://barakmarketmaking.com/careers/) |
+| Barak Capital | 0/1 pages live | [link](https://barakmarketmaking.com/careers/) |
 | Black Eagle Financial Group | 1/1 pages live | [link](https://blackeaglefg.com/stock-market-job/) |
 | Boston Energy Trading and Marketing | 1/1 pages live | [link](https://www.betm.com/careers) |
 | CTS Global Equity Group | 2/2 pages live | [link](https://www.ctsglobalgroup.com/) [link](https://www.ctsglobalgroup.com/internship) |
@@ -180,7 +179,7 @@ Canonical companies after aliases: 304
 | Integrated Quantitative Investments | no saved page attempted | none |
 | Kershner Trading Group | 1/1 pages live | [link](https://kershnertrading.applicantstack.com/x/openings) |
 | Kvantium Research | no saved page attempted | none |
-| DWF Labs | 0/1 pages live | [link](https://www.dwf-labs.com/careers) |
+| DWF Labs | 1/1 pages live | [link](https://www.dwf-labs.com/careers) |
 | Deep Blue Capital | 0/1 pages live | [link](https://deepbluecap.com/vacancies/) |
 | Dexterity Capital | no saved page attempted | none |
 | Domstad Traders | no saved page attempted | none |
@@ -222,7 +221,7 @@ Canonical companies after aliases: 304
 | Geneva Trading | 2/2 pages live | [link](https://www.genevatrading.com/careers/) [link](https://job-boards.greenhouse.io/genevatrading) |
 | Glencore | 1/1 pages live | [link](https://www.glencore.com/careers) |
 | Graviton Research Capital | 2/2 pages live | [link](https://www.gravitontrading.com/careers.html) [link](https://apply.workable.com/gravitonresearch/) |
-| High-Flyer | 0/1 pages live | [link](https://www.high-flyer.cn/en/join) |
+| High-Flyer | 1/1 pages live | [link](https://www.high-flyer.cn/en/join) |
 | Independent Trading Group (ITG) | no saved page attempted | none |
 | JY Quantitative Management | no saved page attempted | none |
 | Kadima Asset Management | no saved page attempted | none |
@@ -230,9 +229,9 @@ Canonical companies after aliases: 304
 | Linitics | no saved page attempted | none |
 | Lucida | no saved page attempted | none |
 | Marquette Partners | 1/1 pages live | [link](http://www.marquettepartnersholdingsllc.com/#careers) |
-| Mercuria Energy Group | 1/1 pages live | [link](https://mercuria.com/careers/) |
+| Mercuria Energy Group | 0/1 pages live | [link](https://mercuria.com/careers/) |
 | Minghong | 1/1 pages live | [link](https://join.mhfunds.com) |
-| Mingshi Investment Management | 2/2 pages live | [link](https://www.mingshiim.com/join) [link](https://en.mingshiim.com/join) |
+| Mingshi Investment Management | 0/2 pages live | [link](https://www.mingshiim.com/join) [link](https://en.mingshiim.com/join) |
 | Nitor Energy | 1/1 pages live | [link](https://nitorenergy.com/career/) |
 | Nyenburgh | no saved page attempted | none |
 | OTC Flow | 1/1 pages live | [link](https://otc-flow.webflow.io/careers) |
@@ -260,7 +259,7 @@ Canonical companies after aliases: 304
 | Scientech Research Capital | 1/1 pages live | [link](https://www.scientechresearch.io/jobopenings) |
 | Lone Pine Capital | no saved page attempted | none |
 | Mathrix | 1/1 pages live | [link](https://mathrix.recruitee.com/) |
-| Mercuria | 1/1 pages live | [link](https://mercuria.com/careers/) |
+| Mercuria | 0/1 pages live | [link](https://mercuria.com/careers/) |
 | Minghong Investment | 1/1 pages live | [link](https://join.mhfunds.com) |
 | Nine Mile | 1/1 pages live | [link](https://www.nmftrading.com/careers) |
 | Northpool | 1/1 pages live | [link](https://www.northpool.nl/vacancies) |
@@ -279,7 +278,7 @@ Canonical companies after aliases: 304
 | Los Angeles Capital Management | 1/1 pages live | [link](https://lacapm.com/careers) |
 | Market Wizards | 1/1 pages live | [link](https://marketwizards.com/careers/) |
 | Matrix Executions | 0/1 pages live | [link](https://matrixexecutions.com/careers/) |
-| Mercuria Energy America | 1/1 pages live | [link](https://mercuria.com/careers/) |
+| Mercuria Energy America | 0/1 pages live | [link](https://mercuria.com/careers/) |
 | Millennium | 2/2 pages live | [link](https://mlp.wd5.myworkdayjobs.com/mlpcareers) [link](https://www.mlp.com/careers/) |
 | Mingshi / Minghong | 2/2 pages live | [link](https://join.mhfunds.com/index) [link](https://www.mhfunds.com/) |
 | Murano Group | no saved page attempted | none |
@@ -312,12 +311,13 @@ Canonical companies after aliases: 304
 | VICI Holdings | no saved page attempted | none |
 | WH Trading | no saved page attempted | none |
 | Wolverine Trading | 1/1 pages live | [link](https://www.wolve.com/careers/) |
+| XTX Markets | 1/1 pages live | [link](https://www.xtxmarkets.com/careers/) |
 | Z22 Technologies AG | no saved page attempted | none |
 | Sumo | no saved page attempted | none |
 | Ubiquant | no saved page attempted | none |
 | Woorton | 1/1 pages live | [link](https://www.woorton.com/about-us) |
 | XY Capital | 1/2 pages live | [link](https://job-boards.greenhouse.io/xycapital?error=true) [link](https://www.xycapitalgroup.com/careers/) |
-| iRage / iRage Capital | 0/1 pages live | [link](https://irage.in/recruitment.php) |
+| iRage / iRage Capital | 1/1 pages live | [link](https://irage.in/recruitment.php) |
 | Systematic Alpha Oy | 1/1 pages live | [link](https://systematicalpha.fi/careers) |
 | TRV Trading Ltd | 1/1 pages live | [link](https://www.trvtradinggroup.com/) |
 | TradeLink | 1/1 pages live | [link](https://www.tradelink.co/careers) |

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T14:59:12.612Z",
-  "currentScanAt": "2026-08-16T14:55:30.101Z",
+  "generatedAt": "2026-08-17T17:07:40.427Z",
+  "currentScanAt": "2026-08-17T16:47:40.019Z",
   "historicalTrackerUrls": 176,
   "roles": [
     {
@@ -234,7 +234,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 2 Days Ago | JR-0000128099",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 3 Days Ago | JR-0000128099",
       "Region": "North America"
     },
     {
@@ -324,39 +324,6 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/blackedgecapital | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4703820005 | internship timing not stated in title; graduation eligibility mentions: 2028 | If you are looking to join a small, dynamic, growing firm in the financial technology sector, you have come to the right place. BlackEdge has built a strong foundation of success as an industry leading market maker in the treasury options space. Now we need talented people like you to build on that foundation by further improving and leveraging our existing success to expand into new markets. An internship at BlackEdge will give you a taste of life as a quantitative trader in the options market making space. The first half of your internship will focus on teaching you option pricing theory, market making dynamics, and trading system operations. The second half will provide yo...",
       "Region": "North America"
-    },
-    {
-      "Company": "BP",
-      "Title": "6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)",
-      "Department": "",
-      "Location": "Singapore - Singapore",
-      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2",
-      "Source": "Career page Workday:bpinternational/bpCareers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 2 Days Ago | RQ114483",
-      "Region": "Asia"
-    },
-    {
-      "Company": "BP",
-      "Title": "Summer Internship - Finance & Risk - Singapore (2027)",
-      "Department": "",
-      "Location": "Singapore - Singapore",
-      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217",
-      "Source": "Career page Workday:bpinternational/bpCareers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 2 Days Ago | RQ114217",
-      "Region": "Asia"
-    },
-    {
-      "Company": "BP",
-      "Title": "Summer Internship - Supply, Trading & Shipping - Singapore (2027)",
-      "Department": "",
-      "Location": "Singapore - Singapore",
-      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2",
-      "Source": "Career page Workday:bpinternational/bpCareers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 2 Days Ago | RQ114218",
-      "Region": "Asia"
     },
     {
       "Company": "Chicago Trading Company",
@@ -1071,7 +1038,7 @@
       "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
       "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted 5 Days Ago | R-15052",
+      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Division-Associate_R-5554 | Posted 6 Days Ago | R-15052",
       "Region": "North America"
     },
     {
@@ -1097,16 +1064,6 @@
     {
       "Company": "Jane Street",
       "Title": "IT Operations Engineer",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8651274002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Technology",
-      "Region": "Europe"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "IT Operations Engineer",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8641377002/",
       "Source": "Official Jane Street jobs feed",
@@ -1116,13 +1073,33 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Linux Engineer",
+      "Title": "IT Operations Engineer",
       "Location": "New York",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8626260002/",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8641280002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Technology",
       "Region": "North America"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "IT Operations Engineer",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8651274002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; June-September; Technology",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Linux Engineer",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8626146002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; June-September; Technology",
+      "Region": "Europe"
     },
     {
       "Company": "Jane Street",
@@ -1137,12 +1114,12 @@
     {
       "Company": "Jane Street",
       "Title": "Linux Engineer",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8626146002/",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8626260002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Technology",
-      "Region": "Europe"
+      "Notes": "Internship; May-August; Technology",
+      "Region": "North America"
     },
     {
       "Company": "Jane Street",
@@ -1197,22 +1174,22 @@
     {
       "Company": "Jane Street",
       "Title": "Sales and Trading",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8630687002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Institutional Sales and Trading",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Sales and Trading",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8537797002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Institutional Sales and Trading",
       "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Sales and Trading",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8630687002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Institutional Sales and Trading",
+      "Region": "Asia"
     },
     {
       "Company": "Jane Street",
@@ -1399,6 +1376,16 @@
     },
     {
       "Company": "Optiver",
+      "Title": "FPGA Internship (2027 Start)",
+      "Location": "Amsterdam, North Holland, Netherlands",
+      "URL": "https://www.optiver.com/join-us/jobs/8713775002/?gh_jid=8713775002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Optiver",
       "Title": "Institutional Trader Intern (2027 Start - Chicago)",
       "Department": "Institutional Traders",
       "Location": "Chicago, Illinois, United States",
@@ -1420,6 +1407,16 @@
     },
     {
       "Company": "Optiver",
+      "Title": "Quantitative Research Internship (2027 Start)",
+      "Location": "Amsterdam, North Holland, Netherlands",
+      "URL": "https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Optiver",
       "Title": "Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)",
       "Location": "Shanghai, China",
       "URL": "https://www.optiver.com/join-us/jobs/8644376002/?gh_jid=8644376002",
@@ -1427,6 +1424,16 @@
       "Status": "Confirmed official posting",
       "Notes": "internship timing: Summer 2027; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found",
       "Region": "Asia"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "Quantitative Trading Internship (2027 Start)",
+      "Location": "Amsterdam, North Holland, Netherlands",
+      "URL": "https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found",
+      "Region": "Europe"
     },
     {
       "Company": "Optiver",
@@ -1457,6 +1464,26 @@
       "Status": "Confirmed official posting",
       "Notes": "internship timing not stated in title; graduation eligibility mentions: 2026; undergrad/BS/MS language found",
       "Region": "Asia"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "Software Engineer Internship (2027 Start)",
+      "Location": "Amsterdam, North Holland, Netherlands",
+      "URL": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "Software Engineer Internship (2027 Start)",
+      "Location": "London, England, United Kingdom",
+      "URL": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found",
+      "Region": "Europe"
     },
     {
       "Company": "Optiver",
@@ -1498,7 +1525,7 @@
       "URL": "https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057-1",
       "Source": "Career page Workday:peak6group/PEAK6",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 5 Days Ago | JR105057",
+      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 6 Days Ago | JR105057",
       "Region": "North America"
     },
     {
@@ -1509,7 +1536,29 @@
       "URL": "https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Internship-for-Women--Summer-2027_JR105061",
       "Source": "Career page Workday:peak6group/PEAK6",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 5 Days Ago | JR105061",
+      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 6 Days Ago | JR105061",
+      "Region": "North America"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Client Solutions & Analytics Analyst, US",
+      "Department": "",
+      "Location": "Newport Beach, CA USA",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.pimco.com/us/en/about-us/careers | Posted Today | R106605",
+      "Region": "North America"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Product Strategy Analyst, US",
+      "Department": "",
+      "Location": "Newport Beach, CA USA",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.pimco.com/us/en/about-us/careers | Posted Today | R106626",
       "Region": "North America"
     },
     {
@@ -1914,17 +1963,6 @@
       "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
       "Location": "Chicago, Illinois",
       "URL": "https://careers.sig.com/jobs/10849?lang=en-us",
-      "Source": "Official SIG jobs API",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-06-30T16:30:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Susquehanna’s trading internship provides a distinctive opportunity to learn about quantitative trading. Splitting their day between working on a trading desk and education in a classroom setting, interns receive the best preparation possible for careers in quant trading. During their time on the trading floor, interns will be fully embedded within a trading desk, working side by side with an experienced trader who will serve as a mentor. While in education, interns will receive industry-leading training in options theory and decision science from traders fully dedicated to trader development. Students with a STEM background can leverage their quantitative skills and learn how Susquehanna uses game theory, decision science, and cutting-edge technology to ma...",
-      "Region": "North America"
-    },
-    {
-      "Company": "Susquehanna International Group",
-      "Title": "Quantitative Trader Internship: Summer 2027",
-      "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
-      "Location": "New York, New York",
-      "URL": "https://careers.sig.com/jobs/10718?lang=en-us",
       "Source": "Official SIG jobs API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-06-30T16:30:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Susquehanna’s trading internship provides a distinctive opportunity to learn about quantitative trading. Splitting their day between working on a trading desk and education in a classroom setting, interns receive the best preparation possible for careers in quant trading. During their time on the trading floor, interns will be fully embedded within a trading desk, working side by side with an experienced trader who will serve as a mentor. While in education, interns will receive industry-leading training in options theory and decision science from traders fully dedicated to trader development. Students with a STEM background can leverage their quantitative skills and learn how Susquehanna uses game theory, decision science, and cutting-edge technology to ma...",

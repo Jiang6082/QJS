@@ -1,46 +1,9 @@
 {
-  "generatedAt": "2026-08-16T14:59:12.612Z",
-  "previousScanAt": "2026-08-15T20:19:54.951Z",
-  "currentScanAt": "2026-08-16T14:55:30.101Z",
+  "generatedAt": "2026-08-17T17:07:40.427Z",
+  "previousScanAt": "2026-08-16T14:55:30.101Z",
+  "currentScanAt": "2026-08-17T16:47:40.019Z",
   "previousRows": 322,
-  "currentRows": 322,
+  "currentRows": 325,
   "added": [],
-  "removed": [
-    {
-      "Company": "Quant Matter",
-      "Title": "2027 Quantitative Research - Risk and Treasury - Summer Internship ...",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978",
-      "Source": "Web-discovered lead",
-      "Status": "Aggregator/web lead; verify on official site"
-    },
-    {
-      "Company": "Quant Matter",
-      "Title": "Five Rings Summer Intern 2027 Quantitative Trader Internship in New ...",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://opportunitiesforyouth.org/2026/07/27/five-rings-summer-intern-2027-quantitative-trader-internship-in-new-york-300000-annualized-salary-sign-on-bonus-corporate-housing/",
-      "Source": "Web-discovered lead",
-      "Status": "Aggregator/web lead; verify on official site"
-    },
-    {
-      "Company": "Quant Matter",
-      "Title": "Quantitative Trading Intern Summer 2027 - Flow Traders",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://www.flowtraders.com/careers/job-description/8047166",
-      "Source": "Web-discovered lead",
-      "Status": "Aggregator/web lead; verify on official site"
-    },
-    {
-      "Company": "Walleye Capital",
-      "Title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
-      "Location": "Miami, FL",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
-      "Source": "Career page Greenhouse:walleyecapital-external-students",
-      "Status": "Confirmed official posting"
-    }
-  ]
+  "removed": []
 }

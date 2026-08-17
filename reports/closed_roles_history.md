@@ -1,7 +1,7 @@
 # Closed / Removed Roles History
 
 Total closures recorded: 44
-Last updated: 2026-08-16T14:55:30.101Z
+Last updated: 2026-08-17T16:47:40.019Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
@@ -18,7 +18,7 @@ Each role below was present in an earlier scan and absent in a later one. "Detec
 
 - **Morningstar** - [Morningstar Internship Program- Quantitative Research Intern (Campus)](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern--Campus-_REQ-053117-2) - Chicago
 - **Morningstar** - [Morningstar Internship Program- Quantitative Research Intern 2027](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027_REQ-057999) - Chicago
-- **PIMCO** - [2027 Summer Intern - Client Solutions & Analytics Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605) - Newport Beach, CA USA
+- **PIMCO** - [2027 Summer Intern - Client Solutions & Analytics Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605) - Newport Beach, CA USA — _reopened 2026-08-17_
 
 ### 2026-08-13 (3)
 

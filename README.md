@@ -2,7 +2,7 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-08-16 &nbsp;•&nbsp; **322 open roles** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **44 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-08-17 &nbsp;•&nbsp; **325 open roles** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **44 closed** ([history](reports/closed_roles_history.md))
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -10,7 +10,7 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-08-16_
+_Scan date: 2026-08-17_
 
 _No new roles detected in the latest scan._
 
@@ -18,14 +18,14 @@ _No new roles detected in the latest scan._
 
 ## 📋 All Roles Available
 
-**322** open internship roles, grouped by region. Click a title to open the official posting.
+**325** open internship roles, grouped by region. Click a title to open the official posting.
 
-**Regions:** [North America (161)](#north-america) · [Europe (68)](#europe) · [Asia (76)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (8)](#global--multiple-regions) · [Remote / Unspecified (4)](#remote--unspecified)
+**Regions:** [North America (162)](#north-america) · [Europe (73)](#europe) · [Asia (73)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [Global / Multiple Regions (8)](#global--multiple-regions) · [Remote / Unspecified (4)](#remote--unspecified)
 
 ### North America
 
 <details>
-<summary><strong>161 roles</strong> — click to expand</summary>
+<summary><strong>162 roles</strong> — click to expand</summary>
 
 - **Akuna** — [Hardware Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) — Chicago, IL
 - **Akuna** — [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) — Chicago, IL
@@ -99,6 +99,7 @@ _No new roles detected in the latest scan._
 - **Jane Street** — [Data Engineer](https://www.janestreet.com/join-jane-street/position/8631973002/) — New York
 - **Jane Street** — [Fundamental Research Analyst](https://www.janestreet.com/join-jane-street/position/8347286002/) — New York
 - **Jane Street** — [Hardware Engineer (FPGA/ASIC)](https://www.janestreet.com/join-jane-street/position/8624440002/) — New York
+- **Jane Street** — [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8641280002/) — New York
 - **Jane Street** — [Linux Engineer](https://www.janestreet.com/join-jane-street/position/8626260002/) — New York
 - **Jane Street** — [Machine Learning Engineer](https://www.janestreet.com/join-jane-street/position/8611307002/) — New York
 - **Jane Street** — [Machine Learning Researcher](https://www.janestreet.com/join-jane-street/position/8384490002/) — New York
@@ -106,8 +107,8 @@ _No new roles detected in the latest scan._
 - **Jane Street** — [Quantitative Researcher](https://www.janestreet.com/join-jane-street/position/8498547002/) — New York
 - **Jane Street** — [Quantitative Trader](https://www.janestreet.com/join-jane-street/position/8617344002/) — New York
 - **Jane Street** — [Sales and Trading](https://www.janestreet.com/join-jane-street/position/8347385002/) — New York
-- **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/8419303002/) — New York
 - **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/8599644002/) — New York
+- **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/8419303002/) — New York
 - **Jane Street** — [Strategy and Product](https://www.janestreet.com/join-jane-street/position/8621552002/) — New York
 - **Jane Street** — [Tools and Compilers Research and Development](https://www.janestreet.com/join-jane-street/position/5869205002/) — New York
 - **Jane Street** — [Trading Desk Operations Engineer](https://www.janestreet.com/join-jane-street/position/8621450002/) — New York
@@ -137,6 +138,8 @@ _No new roles detected in the latest scan._
 - **PDT Partners** — [Summer 2027 Systems Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) — New York, NY
 - **Peak6** — [Trading Bootcamp Micro-Internship - Summer 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057-1) — Chicago, IL
 - **Peak6** — [Trading Internship for Women+ Summer 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Internship-for-Women--Summer-2027_JR105061) — Chicago, IL
+- **PIMCO** — [2027 Summer Intern - Client Solutions & Analytics Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605) — Newport Beach, CA USA
+- **PIMCO** — [2027 Summer Intern - Product Strategy Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626) — Newport Beach, CA USA
 - **Point 72/Cubist** — [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) — New York
 - **Point72** — [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) — New York
 - **Point72** — [Quantitative Research Intern](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) — New York, Seattle
@@ -163,7 +166,6 @@ _No new roles detected in the latest scan._
 - **Susquehanna International Group** — [Quantitative Systematic Trading Internship – Master's: Summer 2027](https://careers.sig.com/jobs/10824?lang=en-us) — New York, New York
 - **Susquehanna International Group** — [Quantitative Systematic Trading Internship – Master's: Summer 2027](https://careers.sig.com/jobs/10823?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **Susquehanna International Group** — [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10849?lang=en-us) — Chicago, Illinois
-- **Susquehanna International Group** — [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10718?lang=en-us) — New York, New York
 - **Susquehanna International Group** — [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10717?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **Susquehanna International Group** — [Trading System Engineering Internship: Summer 2027](https://careers.sig.com/jobs/10837?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **Tower Research Capital** — [Quantitative Developer Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8044334) — New York, Chicago
@@ -187,14 +189,13 @@ _No new roles detected in the latest scan._
 - **Voloridge** — [Quantitative Developer Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) — Jupiter, FL
 - **Voloridge** — [Quantitative Research Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) — Jupiter, FL
 - **Walleye Capital** — [Quantic – Quantitative Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) — Boston, MA
-- **XTX Markets** — [AI Research Internship - XTY Labs](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003) — New York
 
 </details>
 
 ### Europe
 
 <details>
-<summary><strong>68 roles</strong> — click to expand</summary>
+<summary><strong>73 roles</strong> — click to expand</summary>
 
 - **Chicago Trading Company** — [Quant Trading Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005) — London, England, United Kingdom
 - **Citadel** — [International Equities Associate - Intern (Europe)](https://www.citadel.com/careers/details/international-equities-associate-intern-europe/) — London
@@ -246,6 +247,11 @@ _No new roles detected in the latest scan._
 - **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8000323) — London; Amsterdam
 - **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943) — London
 - **Maven Securities** — [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) — London
+- **Optiver** — [FPGA Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713775002/?gh_jid=8713775002) — Amsterdam, North Holland, Netherlands
+- **Optiver** — [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002) — Amsterdam, North Holland, Netherlands
+- **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002) — Amsterdam, North Holland, Netherlands
+- **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) — Amsterdam, North Holland, Netherlands
+- **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) — London, England, United Kingdom
 - **Quantbot Technologies** — [Data Trading Analyst Summer Internship - 2027 [London]](https://www.quantbot.com/careers/4299858009?gh_jid=4299858009) — London
 - **Quantbot Technologies** — [Quantitative Researcher Internship - 2027 [London]](https://www.quantbot.com/careers/4299863009?gh_jid=4299863009) — London
 - **Squarepoint Capital** — [Intern Software Developer - London - 2027](https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006) — London
@@ -270,7 +276,7 @@ _No new roles detected in the latest scan._
 ### Asia
 
 <details>
-<summary><strong>76 roles</strong> — click to expand</summary>
+<summary><strong>73 roles</strong> — click to expand</summary>
 
 - **AlphaGrep** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002) — Mumbai
 - **Barclays** — [2027 Technology Developer Summer Internship Programme Singapore](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Singapore_JR-0000121763) — Singapore, Marina Bay Financial Tower 2
@@ -280,9 +286,6 @@ _No new roles detected in the latest scan._
 - **Barclays** — [Research Analyst Summer Internship Programme 2027 Singapore](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Research-Analyst-Summer-Internship-Programme-2027-Singapore_JR-0000119610) — Singapore, Marina Bay Financial Tower 2
 - **Barclays** — [Sales, Trading and Structuring Summer Internship Programme 2027 Hong Kong](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117559) — Hong Kong, Cheung Kong Center
 - **Barclays** — [Sales, Trading and Structuring Summer Internship Programme 2027 Singapore](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Singapore_JR-0000117562) — Singapore, Marina Bay Financial Tower 2
-- **BP** — [6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2) — Singapore - Singapore
-- **BP** — [Summer Internship - Finance & Risk - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217) — Singapore - Singapore
-- **BP** — [Summer Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2) — Singapore - Singapore
 - **Citadel** — [Quantitative Research Analyst Intern - BS/MS (Asia)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) — Hong Kong, Singapore
 - **Citadel Securities** — [Quantitative Research Analyst Intern - BS/MS (Asia)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) — Hong Kong, Singapore
 - **DRW** — [Quantitative Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) — Singapore
@@ -299,20 +302,20 @@ _No new roles detected in the latest scan._
 - **IMC Trading** — [Trader Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101) — Hong Kong, Hong Kong
 - **Jane Street** — [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8377831002/) — Hong Kong
 - **Jane Street** — [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8641377002/) — Hong Kong
-- **Jane Street** — [Linux Engineer](https://www.janestreet.com/join-jane-street/position/8625946002/) — Hong Kong
 - **Jane Street** — [Linux Engineer](https://www.janestreet.com/join-jane-street/position/8377832002/) — Hong Kong
+- **Jane Street** — [Linux Engineer](https://www.janestreet.com/join-jane-street/position/8625946002/) — Hong Kong
 - **Jane Street** — [Machine Learning Researcher](https://www.janestreet.com/join-jane-street/position/8374335002/) — Hong Kong
 - **Jane Street** — [Quantitative Researcher](https://www.janestreet.com/join-jane-street/position/8623868002/) — Hong Kong
 - **Jane Street** — [Quantitative Researcher](https://www.janestreet.com/join-jane-street/position/8343131002/) — Hong Kong
-- **Jane Street** — [Quantitative Trader](https://www.janestreet.com/join-jane-street/position/8623733002/) — Hong Kong
 - **Jane Street** — [Quantitative Trader](https://www.janestreet.com/join-jane-street/position/7982986002/) — Hong Kong
+- **Jane Street** — [Quantitative Trader](https://www.janestreet.com/join-jane-street/position/8623733002/) — Hong Kong
 - **Jane Street** — [Sales and Trading](https://www.janestreet.com/join-jane-street/position/8630687002/) — Hong Kong
+- **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/7582902002/) — Hong Kong
 - **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/8632392002/) — Singapore
 - **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/8617298002/) — Hong Kong
-- **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/7582902002/) — Hong Kong
 - **Jane Street** — [Strategy and Product](https://www.janestreet.com/join-jane-street/position/8630713002/) — Hong Kong
-- **Jane Street** — [Trading Desk Operations Engineer](https://www.janestreet.com/join-jane-street/position/8168747002/) — Hong Kong
 - **Jane Street** — [Trading Desk Operations Engineer](https://www.janestreet.com/join-jane-street/position/8620505002/) — Hong Kong
+- **Jane Street** — [Trading Desk Operations Engineer](https://www.janestreet.com/join-jane-street/position/8168747002/) — Hong Kong
 - **Jump Trading** — [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027946) — Singapore
 - **Jump Trading** — [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027955) — Singapore
 - **Jump Trading** — [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027939) — Singapore
