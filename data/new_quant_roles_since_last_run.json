@@ -1,9 +1,128 @@
 {
-  "generatedAt": "2026-08-16T15:54:58.460Z",
-  "previousScanAt": "2026-08-16T15:37:25.239Z",
-  "currentScanAt": "2026-08-16T15:51:27.306Z",
-  "previousRows": 381,
-  "currentRows": 380,
-  "added": [],
-  "removed": []
+  "generatedAt": "2026-08-19T21:35:37.811Z",
+  "previousScanAt": "2026-08-16T15:51:27.306Z",
+  "currentScanAt": "2026-08-19T21:31:53.494Z",
+  "previousRows": 383,
+  "currentRows": 395,
+  "added": [
+    {
+      "Company": "Jane Street",
+      "Title": "IT Operations Engineer",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8641280002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "FPGA Internship (2027 Start)",
+      "Location": "Amsterdam, North Holland, Netherlands",
+      "Region": "Europe",
+      "URL": "https://www.optiver.com/join-us/jobs/8713775002/?gh_jid=8713775002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "Quantitative Research Internship (2027 Start)",
+      "Location": "Amsterdam, North Holland, Netherlands",
+      "Region": "Europe",
+      "URL": "https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "Quantitative Trading Internship (2027 Start)",
+      "Location": "Amsterdam, North Holland, Netherlands",
+      "Region": "Europe",
+      "URL": "https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "Software Engineer Internship (2027 Start)",
+      "Location": "London, England, United Kingdom",
+      "Region": "Europe",
+      "URL": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "Software Engineer Internship (2027 Start)",
+      "Location": "Amsterdam, North Holland, Netherlands",
+      "Region": "Europe",
+      "URL": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Client Solutions & Analytics Analyst, US",
+      "Location": "Newport Beach, CA USA",
+      "Region": "North America",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Product Strategy Analyst, US",
+      "Location": "Newport Beach, CA USA",
+      "Region": "North America",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting"
+    }
+  ],
+  "removed": [
+    {
+      "Company": "BP",
+      "Title": "6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)",
+      "Location": "Singapore - Singapore",
+      "Region": "Asia",
+      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2",
+      "Source": "Career page Workday:bpinternational/bpCareers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "BP",
+      "Title": "Summer Internship - Finance & Risk - Singapore (2027)",
+      "Location": "Singapore - Singapore",
+      "Region": "Asia",
+      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217",
+      "Source": "Career page Workday:bpinternational/bpCareers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "BP",
+      "Title": "Summer Internship - Supply, Trading & Shipping - Singapore (2027)",
+      "Location": "Singapore - Singapore",
+      "Region": "Asia",
+      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2",
+      "Source": "Career page Workday:bpinternational/bpCareers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | New York City Area | Wealth Management, Quantitative Finance | Summer Analyst",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://higher.gs.com/roles/155800",
+      "Source": "Official careers page",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Quantitative Trader Internship: Summer 2027",
+      "Location": "New York, New York",
+      "Region": "North America",
+      "URL": "https://careers.sig.com/jobs/10718?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting"
+    }
+  ]
 }

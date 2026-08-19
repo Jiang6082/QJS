@@ -1,11 +1,19 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 44
-Last updated: 2026-08-17T16:47:40.019Z
+Total closures recorded: 49
+Last updated: 2026-08-19T21:31:53.494Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-08-19 (5)
+
+- **BP** - [6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2) - Singapore - Singapore
+- **BP** - [Summer Internship - Finance & Risk - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217) - Singapore - Singapore
+- **BP** - [Summer Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2) - Singapore - Singapore
+- **Goldman Sachs** - [2027 | Americas | New York City Area | Wealth Management, Quantitative Finance | Summer Analyst](https://higher.gs.com/roles/155800) - New York
+- **Susquehanna International Group** - [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10718?lang=en-us) - New York, New York
 
 ### 2026-08-16 (4)
 
