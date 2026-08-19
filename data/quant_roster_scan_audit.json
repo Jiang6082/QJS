@@ -74,7 +74,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 16,
+      "jobsSeen": 15,
       "relevantInternships": 1
     },
     {
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 48,
+      "jobsSeen": 47,
       "relevantInternships": 8
     },
     {
@@ -427,7 +427,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantInternships": 0
     },
     {
@@ -883,7 +883,7 @@
       "careerPages": [
         "https://barakmarketmaking.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -996,7 +996,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 229,
+      "jobsSeen": 227,
       "relevantInternships": 8
     },
     {
@@ -1024,7 +1024,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 61,
+      "jobsSeen": 60,
       "relevantInternships": 5
     },
     {
@@ -1282,7 +1282,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 232,
+      "jobsSeen": 233,
       "relevantInternships": 0
     },
     {
@@ -1320,7 +1320,7 @@
       "careerPages": [
         "https://www.dwf-labs.com/careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1372,7 +1372,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 16,
       "relevantInternships": 0
@@ -1428,7 +1428,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 45,
+      "jobsSeen": 46,
       "relevantInternships": 2
     },
     {
@@ -2027,7 +2027,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -2072,7 +2072,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 33,
+      "jobsSeen": 36,
       "relevantInternships": 0
     },
     {
@@ -2220,7 +2220,7 @@
         "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381",
         "https://job-boards.greenhouse.io/mavensecuritiesholdingltd"
       ],
-      "livePages": 4,
+      "livePages": 3,
       "attemptedPages": 5,
       "jobsSeen": 37,
       "relevantInternships": 2
@@ -2279,7 +2279,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 17,
+      "jobsSeen": 18,
       "relevantInternships": 0
     },
     {
@@ -2461,7 +2461,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 52,
+      "jobsSeen": 53,
       "relevantInternships": 1
     },
     {
@@ -2528,7 +2528,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/maverickderivatives?error=true"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 1,
       "relevantInternships": 0
@@ -3636,9 +3636,9 @@
         "https://boards.greenhouse.io/tekion/jobs/6263631003",
         "https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 59,
+      "jobsSeen": 58,
       "relevantInternships": 0
     },
     {
@@ -3801,14 +3801,14 @@
       "sourceRosterNames": [
         "XTX Markets"
       ],
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.xtxmarkets.com/careers/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
-      "relevantInternships": 1
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Z22 Technologies AG",
@@ -4019,7 +4019,7 @@
       "careerPages": [
         "https://irage.in/recruitment.php"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4252,7 +4252,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 6,
+      "jobsSeen": 7,
       "relevantInternships": 1
     }
   ]

@@ -6042,11 +6042,11 @@
       "boards": [
         {
           "source": "Greenhouse:janestreet",
-          "jobsSeen": 232,
+          "jobsSeen": 233,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 232,
+      "jobsSeen": 233,
       "relevantInternships": 0
     },
     {
@@ -6190,11 +6190,11 @@
       "boards": [
         {
           "source": "Greenhouse:point72",
-          "jobsSeen": 229,
+          "jobsSeen": 227,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 229,
+      "jobsSeen": 227,
       "relevantInternships": 8
     },
     {
@@ -6216,11 +6216,11 @@
       "boards": [
         {
           "source": "Greenhouse:point72",
-          "jobsSeen": 229,
+          "jobsSeen": 227,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 229,
+      "jobsSeen": 227,
       "relevantInternships": 8
     },
     {
@@ -6582,11 +6582,11 @@
       "boards": [
         {
           "source": "Greenhouse:alphagrepsecurities",
-          "jobsSeen": 16,
+          "jobsSeen": 15,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 16,
+      "jobsSeen": 15,
       "relevantInternships": 1
     },
     {
@@ -6630,11 +6630,11 @@
       "boards": [
         {
           "source": "Workday:virtus/VirtusCareers",
-          "jobsSeen": 12,
+          "jobsSeen": 14,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -6660,11 +6660,11 @@
       "boards": [
         {
           "source": "Workday:virtus/VirtusCareers",
-          "jobsSeen": 12,
+          "jobsSeen": 14,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -6809,11 +6809,11 @@
       "boards": [
         {
           "source": "Workday:brevanhoward/BH_ExternalCareers",
-          "jobsSeen": 15,
+          "jobsSeen": 16,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantInternships": 0
     },
     {
@@ -6880,11 +6880,11 @@
       "boards": [
         {
           "source": "Workday:brevanhoward/BH_ExternalCareers",
-          "jobsSeen": 15,
+          "jobsSeen": 16,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantInternships": 0
     },
     {
@@ -6909,11 +6909,11 @@
       "boards": [
         {
           "source": "Workday:brevanhoward/BH_ExternalCareers",
-          "jobsSeen": 15,
+          "jobsSeen": 16,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantInternships": 0
     },
     {
@@ -7197,11 +7197,11 @@
       "boards": [
         {
           "source": "Greenhouse:dvtrading",
-          "jobsSeen": 61,
+          "jobsSeen": 60,
           "relevantInternships": 5
         }
       ],
-      "jobsSeen": 61,
+      "jobsSeen": 60,
       "relevantInternships": 5
     },
     {
@@ -7293,11 +7293,11 @@
       "boards": [
         {
           "source": "Greenhouse:flowtraders",
-          "jobsSeen": 45,
+          "jobsSeen": 46,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 45,
+      "jobsSeen": 46,
       "relevantInternships": 2
     },
     {
@@ -7430,11 +7430,11 @@
       "boards": [
         {
           "source": "Greenhouse:genevatrading",
-          "jobsSeen": 14,
+          "jobsSeen": 13,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -7456,11 +7456,11 @@
       "boards": [
         {
           "source": "Greenhouse:genevatrading",
-          "jobsSeen": 14,
+          "jobsSeen": 13,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -7996,9 +7996,9 @@
     {
       "company": "Maven Securities",
       "pageUrl": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381",
-      "resolvedUrl": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd?error=true",
-      "pageOk": true,
-      "pageStatus": 200,
+      "resolvedUrl": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381",
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [
           "mavensecuritiesholdingltd"
@@ -8697,11 +8697,11 @@
       "boards": [
         {
           "source": "Greenhouse:schonfeld",
-          "jobsSeen": 52,
+          "jobsSeen": 53,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 52,
+      "jobsSeen": 53,
       "relevantInternships": 1
     },
     {
@@ -8723,11 +8723,11 @@
       "boards": [
         {
           "source": "Greenhouse:schonfeld",
-          "jobsSeen": 52,
+          "jobsSeen": 53,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 52,
+      "jobsSeen": 53,
       "relevantInternships": 1
     },
     {
@@ -9682,15 +9682,9 @@
         "workday": []
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Greenhouse:xtxmarketstechnologies",
-          "jobsSeen": 8,
-          "relevantInternships": 1
-        }
-      ],
-      "jobsSeen": 8,
-      "relevantInternships": 1
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Trillium",
@@ -9964,11 +9958,11 @@
         {
           "source": "Workday:bpinternational/bpCareers",
           "jobsSeen": 40,
-          "relevantInternships": 3
+          "relevantInternships": 0
         }
       ],
       "jobsSeen": 40,
-      "relevantInternships": 3
+      "relevantInternships": 0
     },
     {
       "company": "Castleton Commodities International",
@@ -10017,11 +10011,11 @@
       "boards": [
         {
           "source": "Workday:equinor/EQNR",
-          "jobsSeen": 15,
+          "jobsSeen": 17,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 15,
+      "jobsSeen": 17,
       "relevantInternships": 0
     },
     {
@@ -10051,11 +10045,11 @@
       "boards": [
         {
           "source": "Workday:equinor/EQNR",
-          "jobsSeen": 15,
+          "jobsSeen": 17,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 15,
+      "jobsSeen": 17,
       "relevantInternships": 0
     },
     {
@@ -10086,16 +10080,16 @@
       "boards": [
         {
           "source": "Workday:equinor/EQNR",
-          "jobsSeen": 15,
+          "jobsSeen": 17,
           "relevantInternships": 0
         },
         {
           "source": "Workday:equinor/EQNR\\",
-          "jobsSeen": 15,
+          "jobsSeen": 17,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 30,
+      "jobsSeen": 34,
       "relevantInternships": 0
     },
     {
@@ -10126,16 +10120,16 @@
       "boards": [
         {
           "source": "Workday:equinor/EQNR",
-          "jobsSeen": 15,
+          "jobsSeen": 17,
           "relevantInternships": 0
         },
         {
           "source": "Workday:equinor/EQNR\\",
-          "jobsSeen": 15,
+          "jobsSeen": 17,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 30,
+      "jobsSeen": 34,
       "relevantInternships": 0
     },
     {
@@ -10161,11 +10155,11 @@
       "boards": [
         {
           "source": "Workday:gunvor/Gunvor_Careers",
-          "jobsSeen": 33,
+          "jobsSeen": 36,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 33,
+      "jobsSeen": 36,
       "relevantInternships": 0
     },
     {
@@ -10191,11 +10185,11 @@
       "boards": [
         {
           "source": "Workday:gunvor/Gunvor_Careers",
-          "jobsSeen": 33,
+          "jobsSeen": 36,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 33,
+      "jobsSeen": 36,
       "relevantInternships": 0
     },
     {
@@ -10221,11 +10215,11 @@
       "boards": [
         {
           "source": "Workday:gunvor/Gunvor_Careers",
-          "jobsSeen": 33,
+          "jobsSeen": 36,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 33,
+      "jobsSeen": 36,
       "relevantInternships": 0
     },
     {
@@ -10384,11 +10378,11 @@
       "boards": [
         {
           "source": "Greenhouse:aqr",
-          "jobsSeen": 48,
+          "jobsSeen": 47,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 48,
+      "jobsSeen": 47,
       "relevantInternships": 8
     },
     {
@@ -10428,11 +10422,11 @@
       "boards": [
         {
           "source": "Greenhouse:aqr",
-          "jobsSeen": 48,
+          "jobsSeen": 47,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 48,
+      "jobsSeen": 47,
       "relevantInternships": 8
     },
     {
@@ -10742,11 +10736,11 @@
       "boards": [
         {
           "source": "Workday:bailliegifford/BaillieGiffordCareers",
-          "jobsSeen": 7,
+          "jobsSeen": 8,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -10772,11 +10766,11 @@
       "boards": [
         {
           "source": "Workday:bailliegifford/BaillieGiffordCareers",
-          "jobsSeen": 7,
+          "jobsSeen": 8,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -10874,11 +10868,11 @@
       "boards": [
         {
           "source": "Workday:blackrock/BlackRock_Professional",
-          "jobsSeen": 277,
+          "jobsSeen": 271,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 277,
+      "jobsSeen": 271,
       "relevantInternships": 0
     },
     {
@@ -10939,8 +10933,8 @@
       "company": "BNP Paribas",
       "pageUrl": "https://careers.bnpparibas.co.uk/",
       "resolvedUrl": "https://careers.bnpparibas.co.uk/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -10957,8 +10951,8 @@
       "company": "BNP Paribas",
       "pageUrl": "https://careers.bnpparibas.co.uk/search-experienced-hire-jobs/",
       "resolvedUrl": "https://careers.bnpparibas.co.uk/search-experienced-hire-jobs/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -11590,9 +11584,9 @@
     {
       "company": "Fidelity Investments",
       "pageUrl": "https://jobs.fidelity.com/students",
-      "resolvedUrl": "https://jobs.fidelity.com/students",
-      "pageOk": false,
-      "pageStatus": 403,
+      "resolvedUrl": "https://jobs.fidelity.com/en/students/",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -11608,9 +11602,9 @@
     {
       "company": "Fidelity Investments",
       "pageUrl": "https://jobs.fidelity.com/",
-      "resolvedUrl": "https://jobs.fidelity.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "resolvedUrl": "https://jobs.fidelity.com/en/",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -11627,8 +11621,8 @@
       "company": "Fidelity Investments",
       "pageUrl": "https://jobs.fidelity.com/en/jobs/",
       "resolvedUrl": "https://jobs.fidelity.com/en/jobs/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -11645,8 +11639,8 @@
       "company": "Fidelity Investments",
       "pageUrl": "https://jobs.fidelity.com/in/jobs/",
       "resolvedUrl": "https://jobs.fidelity.com/in/jobs/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -11899,15 +11893,9 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:invesco/IVZ",
-          "jobsSeen": 236,
-          "relevantInternships": 1
-        }
-      ],
-      "jobsSeen": 236,
-      "relevantInternships": 1
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Invesco",
@@ -11936,11 +11924,11 @@
       "boards": [
         {
           "source": "Workday:invesco/IVZ",
-          "jobsSeen": 236,
+          "jobsSeen": 237,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 236,
+      "jobsSeen": 237,
       "relevantInternships": 1
     },
     {
@@ -11966,11 +11954,11 @@
       "boards": [
         {
           "source": "Workday:invesco/IVZ",
-          "jobsSeen": 236,
+          "jobsSeen": 237,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 236,
+      "jobsSeen": 237,
       "relevantInternships": 1
     },
     {
@@ -12170,11 +12158,11 @@
       "boards": [
         {
           "source": "Workday:mq/CareersatMQ",
-          "jobsSeen": 30,
+          "jobsSeen": 31,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 30,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -12546,11 +12534,11 @@
         {
           "source": "Workday:pimco/pimco-careers",
           "jobsSeen": 40,
-          "relevantInternships": 0
+          "relevantInternships": 2
         }
       ],
       "jobsSeen": 40,
-      "relevantInternships": 0
+      "relevantInternships": 2
     },
     {
       "company": "PIMCO",
@@ -12576,11 +12564,11 @@
         {
           "source": "Workday:pimco/pimco-careers",
           "jobsSeen": 40,
-          "relevantInternships": 0
+          "relevantInternships": 2
         }
       ],
       "jobsSeen": 40,
-      "relevantInternships": 0
+      "relevantInternships": 2
     },
     {
       "company": "PIMCO",
@@ -12606,11 +12594,11 @@
         {
           "source": "Workday:pimco/pimco-careers",
           "jobsSeen": 40,
-          "relevantInternships": 0
+          "relevantInternships": 2
         }
       ],
       "jobsSeen": 40,
-      "relevantInternships": 0
+      "relevantInternships": 2
     },
     {
       "company": "Putnam Investments",
@@ -14015,8 +14003,8 @@
       "company": "Barak Capital",
       "pageUrl": "https://barakmarketmaking.com/careers/",
       "resolvedUrl": "https://barakmarketmaking.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -14349,8 +14337,8 @@
       "company": "DWF Labs",
       "pageUrl": "https://www.dwf-labs.com/careers",
       "resolvedUrl": "https://www.dwf-labs.com/careers",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -14384,9 +14372,9 @@
     {
       "company": "Eclipse Trading",
       "pageUrl": "https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002",
-      "resolvedUrl": "https://job-boards.greenhouse.io/eclipsetrading?error=true",
-      "pageOk": true,
-      "pageStatus": 200,
+      "resolvedUrl": "https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002",
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [
           "eclipsetrading"
@@ -15247,11 +15235,11 @@
       "boards": [
         {
           "source": "Greenhouse:nksecuritiesresearch",
-          "jobsSeen": 17,
+          "jobsSeen": 18,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 17,
+      "jobsSeen": 18,
       "relevantInternships": 0
     },
     {
@@ -15418,8 +15406,8 @@
       "company": "Maverick Derivatives",
       "pageUrl": "https://job-boards.greenhouse.io/maverickderivatives?error=true",
       "resolvedUrl": "https://job-boards.greenhouse.io/maverickderivatives?error=true",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [
           "maverickderivatives"
@@ -16543,11 +16531,11 @@
       "boards": [
         {
           "source": "Greenhouse:twosixtechnologies",
-          "jobsSeen": 59,
+          "jobsSeen": 58,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 59,
+      "jobsSeen": 58,
       "relevantInternships": 0
     },
     {
@@ -16573,9 +16561,9 @@
     {
       "company": "TCI Fund Management",
       "pageUrl": "https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007",
-      "resolvedUrl": "https://job-boards.greenhouse.io/eikontherapeutics?error=true",
-      "pageOk": true,
-      "pageStatus": 200,
+      "resolvedUrl": "https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007",
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [
           "eikontherapeutics"
@@ -16586,14 +16574,8 @@
         "workday": []
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Greenhouse:eikontherapeutics",
-          "jobsSeen": 21,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 21,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -16894,8 +16876,8 @@
       "company": "iRage / iRage Capital",
       "pageUrl": "https://irage.in/recruitment.php",
       "resolvedUrl": "https://irage.in/recruitment.php",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -17133,11 +17115,11 @@
       "boards": [
         {
           "source": "SmartRecruiters:RRSGroup",
-          "jobsSeen": 6,
+          "jobsSeen": 7,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 6,
+      "jobsSeen": 7,
       "relevantInternships": 1
     }
   ],
@@ -17145,7 +17127,7 @@
     {
       "company": "Jane Street",
       "source": "Official jobs feed",
-      "jobsRetained": 45
+      "jobsRetained": 46
     },
     {
       "company": "D. E. Shaw",
@@ -17673,7 +17655,7 @@
       "URL": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
       "Source": "Career page Workday:arrowstreetcapital/Campus_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 9 Days Ago | R1506",
+      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 10 Days Ago | R1506",
       "Region": "North America"
     },
     {
@@ -17684,7 +17666,7 @@
       "URL": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
       "Source": "Career page Workday:arrowstreetcapital/Campus_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 9 Days Ago | R1505",
+      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 10 Days Ago | R1505",
       "Region": "North America"
     },
     {
@@ -18176,7 +18158,7 @@
       "URL": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552",
       "Source": "Career page Greenhouse:mavensecuritiesholdingltd",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://job-boards.greenhouse.io/mavensecuritiesholdingltd?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8043552 | internship timing not stated in title | Maven Securities is a leading proprietary trading firm that leverages sophisticated technology and quantitative analysis to trade in global financial markets. We specialise in options and derivatives market making, where your skills can be directly applied to have a real impact. Please note, this Quant Trader Internship is 6 months, full-time. If you would like to be considered for our Chicago Trader Summer Internship, please apply here . Alternatively, if you would like to be considered for our London Trader Summer Internship, applications will open on 7th September. We can only accept one application per candidate per recruitment cycle, so please ensure you apply to the role you are most interested in. THE ROLE As a Quantitative Trader Intern, you’ll engage in an intensive 6-month training programme focused on options market making. You’ll collaborate closely with traders and researchers to solve meaningful research challenges and develop your expertise in quantitative methods across our market-making desks. Upon successfully completing the internship, you will be eligible for consideration for a full time position. As a Quant Trader Intern, your responsibilities will include: Solving quantitative research problems such as volatility modelling, alpha generation and validation Creating visualisation tools using Python or AI-assisted code Completing a structured research project under the mentorship of traders and quants Shadowing our Options Market Making desks WHAT ARE WE LOOKING FOR Background in Applied Mathematics, Financial Engineering, Physics, or a similar quantitative discipline Proficient in programming with at least one language (preferably Python however C++ or C# is advantageous too) Quick and creative problem-solver, able to tackle new or unfamiliar challenges independently Strong communicator with the ability to present research findings clearly and effectively Self-starter with a keen interest in refining current trading strategies and uncovering new opportunities Familiarity with financial markets is a plus, though not essential Professional-level fluency in English WHAT WE CAN OFFER YOU: A fast-growing global firm with plenty of opportunities to have a significant impact Flat hierarchal environment and informal dress code Competitive compensation package On-site private gym with instructor-led classes including boxing, yoga, and more Monthly company events and social activities Flexible start date: January 2027 or July 2027 PLEASE NOTE We only accept one application per candidate per recruitment cycle Visa sponsorship is available for this role and will be discussed with eligible candidates at later stages of the process For more information on our assessment process and commonly asked questions, please visit the Emerging Talent page on Maven’s website"
+      "Notes": "career_page=https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381 | company_wrapper=https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/job?gh_jid=8043552 | internship timing not stated in title | Maven Securities is a leading proprietary trading firm that leverages sophisticated technology and quantitative analysis to trade in global financial markets. We specialise in options and derivatives market making, where your skills can be directly applied to have a real impact. Please note, this Quant Trader Internship is 6 months, full-time. If you would like to be considered for our Chicago Trader Summer Internship, please apply here . Alternatively, if you would like to be considered for our London Trader Summer Internship, applications will open on 7th September. We can only accept one application per candidate per recruitment cycle, so please ensure you apply to the role you are most interested in. THE ROLE As a Quantitative Trader Intern, you’ll engage in an intensive 6-month training programme focused on options market making. You’ll collaborate closely with traders and researchers to solve meaningful research challenges and develop your expertise in quantitative methods across our market-making desks. Upon successfully completing the internship, you will be eligible for consideration for a full time position. As a Quant Trader Intern, your responsibilities will include: Solving quantitative research problems such as volatility modelling, alpha generation and validation Creating visualisation tools using Python or AI-assisted code Completing a structured research project under the mentorship of traders and quants Shadowing our Options Market Making desks WHAT ARE WE LOOKING FOR Background in Applied Mathematics, Financial Engineering, Physics, or a similar quantitative discipline Proficient in programming with at least one language (preferably Python however C++ or C# is advantageous too) Quick and creative problem-solver, able to tackle new or unfamiliar challenges independently Strong communicator with the ability to present research findings clearly and effectively Self-starter with a keen interest in refining current trading strategies and uncovering new opportunities Familiarity with financial markets is a plus, though not essential Professional-level fluency in English WHAT WE CAN OFFER YOU: A fast-growing global firm with plenty of opportunities to have a significant impact Flat hierarchal environment and informal dress code Competitive compensation package On-site private gym with instructor-led classes including boxing, yoga, and more Monthly company events and social activities Flexible start date: January 2027 or July 2027 PLEASE NOTE We only accept one application per candidate per recruitment cycle Visa sponsorship is available for this role and will be discussed with eligible candidates at later stages of the process For more information on our assessment process and commonly asked questions, please visit the Emerging Talent page on Maven’s website"
     },
     {
       "Company": "Maven Securities",
@@ -18186,7 +18168,7 @@
       "URL": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
       "Source": "Career page Greenhouse:mavensecuritiesholdingltd",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://job-boards.greenhouse.io/mavensecuritiesholdingltd?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8051937 | internship timing: Summer | Summer Trader Internship Chicago 2027 Maven Securities is a leading proprietary trading firm that leverages sophisticated technology and quantitative analysis to trade in global financial markets. We specialize in options and derivatives market making, where your skills can be directly applied to have a real impact. At Maven, we believe exceptional careers are built deliberately. Our summer internship is designed for a small number of high-potential students each year, combining structured training and practical exposure. We don’t hire large classes with the expectation that only a few will succeed, we invest in every individual who joins the program. Program details Location: Chicago Program start date: June 2027 Base salary: $110k pro-rated Join a structured 9-week training internship in our Chicago office, designed to give you a practical introduction to options market making. The program starts with options theory and progresses into trading simulation and mock trading, helping you build the core foundations of a Trader. You’ll also gain exposure to different desks through shadowing and project work. Throughout the internship, you’ll be assessed on your performance and development. Successful interns may be considered for a place on our Graduate Trader Program the following year. What you will be doing Learn the foundations of options market making; we don’t assume prior knowledge Build your understanding of pricing, probability and risk You’ll spend most of your Internship on trading simulation, with classroom-based training to prepare for this in your first 2-3 weeks Use the same tools that our Traders use - or opt to build your own - and see the same trades that are currently going through in the live market How and what you will learn Progress through a structured internship program with clear learning milestones. Build your foundation through theory-led training, including options theory, delivered by Maven’s in-house trainers Develop practical trading skills through simulation and mock trading sessions, building your understanding of screen and broker trading Take part in additional sessions such as macroeconomics, technical training and desk shadowing to further develop your learning Receive ongoing feedback and check-ins from the Trading and Emerging Talent teams Who you are: Key criteria A penultimate year undergraduate or master’s student Strong numeracy skills and a solid understanding of probability and statistics A genuine interest in financial markets and a curiosity to learn A willingness to adopt and utilise emerging AI technologies We’re looking for someone who is An entrepreneurial thinker with the ability to generate ideas, take initiative and drive innovation A critical problem solver and decision maker who can analyze situations, think clearly and make effective decisions An agile learner who is able to quickly acquire knowledge, take on feedback, adapt and apply insights across different contexts Able to synthesize information , resolve conflicting inputs, see the bigger picture, and translate complex information into actionable recommendations Collaborative and influential , able to build trust, work effectively with others and positively impact the team Results-focused and accountable , taking ownership and delivering outcomes reliably: motivated to take on risk and made decisions with uncertainty and partial information Why Maven? Dedicated In-House Trainers : Learn through a training program designed and delivered by Maven’s Traders, built specifically for the Summer Trader Internship. Our tailored curriculums are led by in-house experts and clever both technical and professional skills, as well as guidance on how to adopt AI best practices, which are integral to Maven’s strategy and daily operations Accelerate Your Career : Maven is growing quickly and we’ll give you opportunities to learn from mistakes and try new things; your curiosity to learn is part of our growth story. Plus, as an Intern, you can jump-start your Maven career by being considered for a full-time Graduate Trader role Proven Pathways : Benefit from our structured pipeline programs that set you up for success from day one. Around a quarter of our workforce joined Maven through an Emerging Talent Program, including more than 50 of our current Traders Supported to Succeed : We are committed to fostering an inclusive workplace where everyone can perform at your best. We offer recruitment support where needed, and employee resource groups that help build community across the firm Grow with Guidance :Enjoy regular feedback, structured review points, and informal off-desk chats. Everyone in our Emerging Talent Programs is also paired with a Maven buddy for practical advice and day-to-day support We invest in you : From the start of the internship, you’ll be immersed in a simulated trading environment and learn directly from Traders. Throughout, you’ll gain practical insight into how our desks operate and have the opportunity to demonstrate your potential for the Graduate Trader Program Please note: We accept one application per candidate, per recruitment cycle Visa sponsorship is available for selected roles, please see our FAQ page for details Maven is an equal opportunity employer. We encourage applications from candidates of all backgrounds, and do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status, or any other basis protected by applicable law. Benefits at Maven As an intern joining Maven, you’ll be eligible for a range of benefits, including: Free breakfast and lunch, plus snacks and drinks throughout the day Frequent cohort-specific and office-wide social events, from welcome dinners and summer parties to company sports leagues and boat tours! Wellbeing support, including access to our Employee Assistance Program Wellness benefits, including free use of the building gym and ClassPass membership The option of either $5,000 or accommodation costs paid for by Maven for the summer Work in a forward-thinking environment where AI is integral to our strategy and daily operations"
+      "Notes": "career_page=https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381 | company_wrapper=https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/job?gh_jid=8051937 | internship timing: Summer | Summer Trader Internship Chicago 2027 Maven Securities is a leading proprietary trading firm that leverages sophisticated technology and quantitative analysis to trade in global financial markets. We specialize in options and derivatives market making, where your skills can be directly applied to have a real impact. At Maven, we believe exceptional careers are built deliberately. Our summer internship is designed for a small number of high-potential students each year, combining structured training and practical exposure. We don’t hire large classes with the expectation that only a few will succeed, we invest in every individual who joins the program. Program details Location: Chicago Program start date: June 2027 Base salary: $110k pro-rated Join a structured 9-week training internship in our Chicago office, designed to give you a practical introduction to options market making. The program starts with options theory and progresses into trading simulation and mock trading, helping you build the core foundations of a Trader. You’ll also gain exposure to different desks through shadowing and project work. Throughout the internship, you’ll be assessed on your performance and development. Successful interns may be considered for a place on our Graduate Trader Program the following year. What you will be doing Learn the foundations of options market making; we don’t assume prior knowledge Build your understanding of pricing, probability and risk You’ll spend most of your Internship on trading simulation, with classroom-based training to prepare for this in your first 2-3 weeks Use the same tools that our Traders use - or opt to build your own - and see the same trades that are currently going through in the live market How and what you will learn Progress through a structured internship program with clear learning milestones. Build your foundation through theory-led training, including options theory, delivered by Maven’s in-house trainers Develop practical trading skills through simulation and mock trading sessions, building your understanding of screen and broker trading Take part in additional sessions such as macroeconomics, technical training and desk shadowing to further develop your learning Receive ongoing feedback and check-ins from the Trading and Emerging Talent teams Who you are: Key criteria A penultimate year undergraduate or master’s student Strong numeracy skills and a solid understanding of probability and statistics A genuine interest in financial markets and a curiosity to learn A willingness to adopt and utilise emerging AI technologies We’re looking for someone who is An entrepreneurial thinker with the ability to generate ideas, take initiative and drive innovation A critical problem solver and decision maker who can analyze situations, think clearly and make effective decisions An agile learner who is able to quickly acquire knowledge, take on feedback, adapt and apply insights across different contexts Able to synthesize information , resolve conflicting inputs, see the bigger picture, and translate complex information into actionable recommendations Collaborative and influential , able to build trust, work effectively with others and positively impact the team Results-focused and accountable , taking ownership and delivering outcomes reliably: motivated to take on risk and made decisions with uncertainty and partial information Why Maven? Dedicated In-House Trainers : Learn through a training program designed and delivered by Maven’s Traders, built specifically for the Summer Trader Internship. Our tailored curriculums are led by in-house experts and clever both technical and professional skills, as well as guidance on how to adopt AI best practices, which are integral to Maven’s strategy and daily operations Accelerate Your Career : Maven is growing quickly and we’ll give you opportunities to learn from mistakes and try new things; your curiosity to learn is part of our growth story. Plus, as an Intern, you can jump-start your Maven career by being considered for a full-time Graduate Trader role Proven Pathways : Benefit from our structured pipeline programs that set you up for success from day one. Around a quarter of our workforce joined Maven through an Emerging Talent Program, including more than 50 of our current Traders Supported to Succeed : We are committed to fostering an inclusive workplace where everyone can perform at your best. We offer recruitment support where needed, and employee resource groups that help build community across the firm Grow with Guidance :Enjoy regular feedback, structured review points, and informal off-desk chats. Everyone in our Emerging Talent Programs is also paired with a Maven buddy for practical advice and day-to-day support We invest in you : From the start of the internship, you’ll be immersed in a simulated trading environment and learn directly from Traders. Throughout, you’ll gain practical insight into how our desks operate and have the opportunity to demonstrate your potential for the Graduate Trader Program Please note: We accept one application per candidate, per recruitment cycle Visa sponsorship is available for selected roles, please see our FAQ page for details Maven is an equal opportunity employer. We encourage applications from candidates of all backgrounds, and do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status, or any other basis protected by applicable law. Benefits at Maven As an intern joining Maven, you’ll be eligible for a range of benefits, including: Free breakfast and lunch, plus snacks and drinks throughout the day Frequent cohort-specific and office-wide social events, from welcome dinners and summer parties to company sports leagues and boat tours! Wellbeing support, including access to our Employee Assistance Program Wellness benefits, including free use of the building gym and ClassPass membership The option of either $5,000 or accommodation costs paid for by Maven for the summer Work in a forward-thinking environment where AI is integral to our strategy and daily operations"
     },
     {
       "Company": "Maven Securities",
@@ -18330,7 +18312,7 @@
       "URL": "https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Internship-for-Women--Summer-2027_JR105061",
       "Source": "Career page Workday:peak6group/PEAK6",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 5 Days Ago | JR105061",
+      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 6 Days Ago | JR105061",
       "Region": "North America"
     },
     {
@@ -18341,7 +18323,7 @@
       "URL": "https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057-1",
       "Source": "Career page Workday:peak6group/PEAK6",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 5 Days Ago | JR105057",
+      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 6 Days Ago | JR105057",
       "Region": "North America"
     },
     {
@@ -19049,17 +19031,6 @@
       "Notes": "career_page=https://job-boards.greenhouse.io/worldquant?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4655484006 | internship timing not stated in title | WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform. WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Employees are encouraged to challenge conventional thinking and possess an attitude of continuous improvement. Our goal is to hire the best and the brightest. We value intellectual horsepower first and foremost, and people who demonstrate an outstanding talent. There is no roadmap to future success, so we need people who can help us build it. Technologists at WorldQuant research, design, code, test and deploy firmwide platforms and tooling while working collaboratively with researchers and portfolio managers. Our environment is relaxed yet intellectually driven. We seek people who think in code and are motivated by being around like-minded people. The Role: As a Software Engineer Intern at WorldQuant, you will join a team building high‑performance, mission‑critical systems that power our business. We seek entrepreneurial, motivated candidates who have a passion for technology and aspire to have an impact. You may work on applications that support our investment and trading processes, or on the core infrastructure and platforms that enable large‑scale data processing, distributed computation, and automation across the firm. The work requires a solid understanding of how computers operate at a low level and the ability to turn that knowledge into robust, practical solutions. You’ll contribute to our next‑generation technology stack, helping to drive future growth and set a high bar for technical excellence in the industry. What You’ll Do Design, build and maintain high‑performance, reliable software components used in our research and trading platforms; Develop data processing pipelines and distributed systems that operate at scale; Collaborate closely with researchers, engineers and other stakeholders to understand requirements and translate them into technical solutions; Contribute to code reviews, testing, monitoring and continuous improvement of our systems; Proactively seek opportunities to improve performance, reliability and developer productivity; What You’ll Bring Currently pursuing a degree in quantitative or technical field (e.g. Computer Science, Engineering, Mathematics, Physics) with strong academic performance Strong programming skills in one or more object‑oriented languages (e.g. C++, Python) Solid understanding of software development principles and methodologies Excellent problem‑solving and analytical skills, with strong attention to detail Evidence of high achievement (e.g. academic awards, Olympiads, notable projects, or other areas of excellence) A mature, thoughtful working style, with the ability to thrive in a collaborative, team‑oriented culture Self‑motivation and initiative; you ask thoughtful questions, seek clarity where needed, and drive your work to high standards Interest in finance, quantitative trading or financial data a plus #LI-DN1 By submitting this application, you acknowledge and consent to terms of the WorldQuant Privacy Policy. The privacy policy offers an explanation of how and why your data will be collected, how it will be used and disclosed, how it will be retained and secured, and what legal rights are associated with that data (including the rights of access, correction, and deletion). The policy also describes legal and contractual limitations on these rights. The specific rights and obligations of individuals living and working in different areas may vary by jurisdiction. Copyright © 2025 WorldQuant, LLC. All Rights Reserved. WorldQuant is an equal opportunity employer and does not discriminate in hiring on the basis of race, color, creed, religion, sex, sexual orientation or preference, age, marital status, citizenship, national origin, disability, military status, genetic predisposition or carrier status, or any other protected characteristic as established by applicable law."
     },
     {
-      "Company": "XTX Markets",
-      "Title": "AI Research Internship - XTY Labs",
-      "Department": "Quantitative Research",
-      "Location": "New York",
-      "URL": "https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003",
-      "Source": "Career page Greenhouse:xtxmarketstechnologies",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.xtxmarkets.com/careers/ | company_wrapper=https://www.xtxmarkets.com/careers/job?gh_jid=6274458003 | internship timing not stated in title | The Firm XTX Markets is a leading algorithmic trading firm which uses state-of-the-art machine learning technology to produce price forecasts for over 50,000 financial instruments across equities, fixed income, currencies, commodities and crypto. It uses those forecasts to trade on exchanges and alternative trading venues, and to offer differentiated liquidity directly to clients worldwide. The firm trades over $250bn a day across 35 countries and has over 250 employees based in London, New York, Singapore, Paris, Bristol, Mumbai, Yerevan and Kajaani. We leverage the talent of the people who work here, modern computational techniques and state-of-the-art research infrastructure to analyse large data sets across markets quickl...",
-      "Region": "North America"
-    },
-    {
       "Company": "Trillium",
       "Title": "IT Support Intern - Summer 2027",
       "Department": "Technology",
@@ -19207,39 +19178,6 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.transmarketgroup.com/careers | company_wrapper=https://www.transmarketgroup.com/job?gh_jid=5212335007 | internship timing not stated in title | Who We Are Founded in 1980 as Aardvark Financial, TransMarket Group (TMG) is a privately held global markets proprietary trading firm in Chicago. We use next-generation technology to capture opportunities around the world and manage risk in financial markets. Our mission is to bless others through the services we provide and through the generous stewardship of the wealth we create. TMG is a well-established and profitable business as a respected member of the global financial system for over 40 years, but also is like a startup because the potential of our group is at least one order of magnitude greater than what we are currently producing. We have an entrepreneurial culture and collaboratively develop our business with p...",
       "Region": "North America"
-    },
-    {
-      "Company": "BP",
-      "Title": "Summer Internship - Supply, Trading & Shipping - Singapore (2027)",
-      "Department": "",
-      "Location": "Singapore - Singapore",
-      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2",
-      "Source": "Career page Workday:bpinternational/bpCareers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 2 Days Ago | RQ114218",
-      "Region": "Asia"
-    },
-    {
-      "Company": "BP",
-      "Title": "Summer Internship - Finance & Risk - Singapore (2027)",
-      "Department": "",
-      "Location": "Singapore - Singapore",
-      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217",
-      "Source": "Career page Workday:bpinternational/bpCareers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 2 Days Ago | RQ114217",
-      "Region": "Asia"
-    },
-    {
-      "Company": "BP",
-      "Title": "6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)",
-      "Department": "",
-      "Location": "Singapore - Singapore",
-      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2",
-      "Source": "Career page Workday:bpinternational/bpCareers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 2 Days Ago | RQ114483",
-      "Region": "Asia"
     },
     {
       "Company": "AQR Capital Management",
@@ -19417,7 +19355,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 2 Days Ago | JR-0000128099",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 3 Days Ago | JR-0000128099",
       "Region": "North America"
     },
     {
@@ -19505,7 +19443,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/ | Posted 2 Days Ago | JR-0000128099"
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/ | Posted 3 Days Ago | JR-0000128099"
     },
     {
       "Company": "Barclays",
@@ -19585,7 +19523,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays | Posted 2 Days Ago | JR-0000128099"
+      "Notes": "career_page=https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays | Posted 3 Days Ago | JR-0000128099"
     },
     {
       "Company": "Barclays",
@@ -19665,7 +19603,7 @@
       "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
       "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted 5 Days Ago | R-15052",
+      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Division-Associate_R-5554 | Posted 6 Days Ago | R-15052",
       "Region": "North America"
     },
     {
@@ -19676,17 +19614,69 @@
       "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
       "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Division-Associate_R-5554 | Posted 5 Days Ago | R-15052"
+      "Notes": "career_page=https://careers.invesco.com/ | Posted 6 Days Ago | R-15052"
     },
     {
-      "Company": "Invesco",
-      "Title": "Early Career Intern - Investments (Risk)",
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Client Solutions & Analytics Analyst, US",
       "Department": "",
-      "Location": "New York, New York",
-      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
-      "Source": "Career page Workday:invesco/IVZ",
+      "Location": "Newport Beach, CA USA",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
+      "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://careers.invesco.com/ | Posted 5 Days Ago | R-15052"
+      "Notes": "career_page=https://www.pimco.com/us/en/about-us/careers | Posted Today | R106605",
+      "Region": "North America"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Product Strategy Analyst, US",
+      "Department": "",
+      "Location": "Newport Beach, CA USA",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.pimco.com/us/en/about-us/careers | Posted Today | R106626",
+      "Region": "North America"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Client Solutions & Analytics Analyst, US",
+      "Department": "",
+      "Location": "Newport Beach, CA USA",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.pimco.com/us/en/about-us/careers/professionals | Posted Today | R106605"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Product Strategy Analyst, US",
+      "Department": "",
+      "Location": "Newport Beach, CA USA",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.pimco.com/us/en/about-us/careers/professionals | Posted Today | R106626"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Client Solutions & Analytics Analyst, US",
+      "Department": "",
+      "Location": "Newport Beach, CA USA",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted Today | R106605"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Product Strategy Analyst, US",
+      "Department": "",
+      "Location": "Newport Beach, CA USA",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted Today | R106626"
     },
     {
       "Company": "BlackEdge Capital",
@@ -19734,20 +19724,20 @@
     {
       "Company": "Jane Street",
       "Title": "ꓟachine ꓡearning ꓣesearcher",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8596771002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Trading, Research, and Machine Learning"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "ꓟachine ꓡearning ꓣesearcher",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8594416002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Trading, Research, and Machine Learning"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "ꓟachine ꓡearning ꓣesearcher",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8596771002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Trading, Research, and Machine Learning"
     },
     {
       "Company": "Jane Street",
@@ -19792,16 +19782,6 @@
     {
       "Company": "Jane Street",
       "Title": "IT Operations Engineer",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8651274002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Technology",
-      "Region": "Europe"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "IT Operations Engineer",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8377831002/",
       "Source": "Official Jane Street jobs feed",
@@ -19821,9 +19801,9 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Linux Engineer",
+      "Title": "IT Operations Engineer",
       "Location": "New York",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8626260002/",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8641280002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Technology",
@@ -19831,13 +19811,23 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Linux Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
+      "Title": "IT Operations Engineer",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8651274002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Technology",
-      "Region": "Asia"
+      "Notes": "Internship; June-September; Technology",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Linux Engineer",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8626146002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; June-September; Technology",
+      "Region": "Europe"
     },
     {
       "Company": "Jane Street",
@@ -19852,12 +19842,22 @@
     {
       "Company": "Jane Street",
       "Title": "Linux Engineer",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8626146002/",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Technology",
-      "Region": "Europe"
+      "Notes": "Internship; May-August; Technology",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Linux Engineer",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8626260002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Technology",
+      "Region": "North America"
     },
     {
       "Company": "Jane Street",
@@ -19922,6 +19922,16 @@
     {
       "Company": "Jane Street",
       "Title": "Quantitative Researcher",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8474416002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Quantitative Researcher",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8343131002/",
       "Source": "Official Jane Street jobs feed",
@@ -19941,13 +19951,23 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Quantitative Researcher",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8474416002/",
+      "Title": "Quantitative Trader",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/7982986002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
-      "Region": "Europe"
+      "Notes": "Internship; December-February; Trading, Research, and Machine Learning",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Quantitative Trader",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8617344002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
+      "Region": "North America"
     },
     {
       "Company": "Jane Street",
@@ -19971,23 +19991,13 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Quantitative Trader",
-      "Location": "New York",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8617344002/",
+      "Title": "Sales and Trading",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8537797002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
-      "Region": "North America"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Quantitative Trader",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/7982986002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; December-February; Trading, Research, and Machine Learning",
-      "Region": "Asia"
+      "Notes": "Internship; June-September; Institutional Sales and Trading",
+      "Region": "Europe"
     },
     {
       "Company": "Jane Street",
@@ -20011,23 +20021,13 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Sales and Trading",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8537797002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Institutional Sales and Trading",
-      "Region": "Europe"
-    },
-    {
-      "Company": "Jane Street",
       "Title": "Software Engineer",
-      "Location": "New York",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8419303002/",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/7582902002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Co-Op; January-April; Technology",
-      "Region": "North America"
+      "Notes": "Internship; December-February; Technology",
+      "Region": "Asia"
     },
     {
       "Company": "Jane Street",
@@ -20052,6 +20052,16 @@
     {
       "Company": "Jane Street",
       "Title": "Software Engineer",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8419303002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Co-Op; January-April; Technology",
+      "Region": "North America"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Software Engineer",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8617298002/",
       "Source": "Official Jane Street jobs feed",
@@ -20071,16 +20081,6 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Software Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/7582902002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; December-February; Technology",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Jane Street",
       "Title": "Strategy and Product",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8630713002/",
@@ -20092,22 +20092,22 @@
     {
       "Company": "Jane Street",
       "Title": "Strategy and Product",
-      "Location": "New York",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8621552002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Strategy and Product",
-      "Region": "North America"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Strategy and Product",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8518854002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Strategy and Product",
       "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Strategy and Product",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8621552002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Strategy and Product",
+      "Region": "North America"
     },
     {
       "Company": "Jane Street",
@@ -20132,16 +20132,6 @@
     {
       "Company": "Jane Street",
       "Title": "Trading Desk Operations Engineer",
-      "Location": "New York",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8621450002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
-      "Region": "North America"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Trading Desk Operations Engineer",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8700980002/",
       "Source": "Official Jane Street jobs feed",
@@ -20153,20 +20143,30 @@
       "Company": "Jane Street",
       "Title": "Trading Desk Operations Engineer",
       "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8168747002/",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8620505002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; December-February; Trading, Research, and Machine Learning",
+      "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
       "Region": "Asia"
     },
     {
       "Company": "Jane Street",
       "Title": "Trading Desk Operations Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8620505002/",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8621450002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
+      "Region": "North America"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Trading Desk Operations Engineer",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8168747002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; December-February; Trading, Research, and Machine Learning",
       "Region": "Asia"
     },
     {
@@ -20460,17 +20460,6 @@
       "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
       "Location": "Chicago, Illinois",
       "URL": "https://careers.sig.com/jobs/10849?lang=en-us",
-      "Source": "Official SIG jobs API",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-06-30T16:30:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Susquehanna’s trading internship provides a distinctive opportunity to learn about quantitative trading. Splitting their day between working on a trading desk and education in a classroom setting, interns receive the best preparation possible for careers in quant trading. During their time on the trading floor, interns will be fully embedded within a trading desk, working side by side with an experienced trader who will serve as a mentor. While in education, interns will receive industry-leading training in options theory and decision science from traders fully dedicated to trader development. Students with a STEM background can leverage their quantitative skills and learn how Susquehanna uses game theory, decision science, and cutting-edge technology to ma...",
-      "Region": "North America"
-    },
-    {
-      "Company": "Susquehanna International Group",
-      "Title": "Quantitative Trader Internship: Summer 2027",
-      "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
-      "Location": "New York, New York",
-      "URL": "https://careers.sig.com/jobs/10718?lang=en-us",
       "Source": "Official SIG jobs API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-06-30T16:30:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Susquehanna’s trading internship provides a distinctive opportunity to learn about quantitative trading. Splitting their day between working on a trading desk and education in a classroom setting, interns receive the best preparation possible for careers in quant trading. During their time on the trading floor, interns will be fully embedded within a trading desk, working side by side with an experienced trader who will serve as a mentor. While in education, interns will receive industry-leading training in options theory and decision science from traders fully dedicated to trader development. Students with a STEM background can leverage their quantitative skills and learn how Susquehanna uses game theory, decision science, and cutting-edge technology to ma...",
@@ -21456,7 +21445,7 @@
       "URL": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
       "Source": "Career page Workday:arrowstreetcapital/Campus_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 9 Days Ago | R1506",
+      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 10 Days Ago | R1506",
       "Region": "North America"
     },
     {
@@ -21467,7 +21456,7 @@
       "URL": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
       "Source": "Career page Workday:arrowstreetcapital/Campus_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 9 Days Ago | R1505",
+      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 10 Days Ago | R1505",
       "Region": "North America"
     },
     {
@@ -21698,7 +21687,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 2 Days Ago | JR-0000128099",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 3 Days Ago | JR-0000128099",
       "Region": "North America"
     },
     {
@@ -21798,39 +21787,6 @@
       "Status": "Official broad program; select quant-relevant functions in application",
       "Notes": "Official page says applications are open and candidates can apply to functions such as Investment Research and Analytics & Modeling.",
       "Region": "North America"
-    },
-    {
-      "Company": "BP",
-      "Title": "6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)",
-      "Department": "",
-      "Location": "Singapore - Singapore",
-      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2",
-      "Source": "Career page Workday:bpinternational/bpCareers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 2 Days Ago | RQ114483",
-      "Region": "Asia"
-    },
-    {
-      "Company": "BP",
-      "Title": "Summer Internship - Finance & Risk - Singapore (2027)",
-      "Department": "",
-      "Location": "Singapore - Singapore",
-      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217",
-      "Source": "Career page Workday:bpinternational/bpCareers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 2 Days Ago | RQ114217",
-      "Region": "Asia"
-    },
-    {
-      "Company": "BP",
-      "Title": "Summer Internship - Supply, Trading & Shipping - Singapore (2027)",
-      "Department": "",
-      "Location": "Singapore - Singapore",
-      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2",
-      "Source": "Career page Workday:bpinternational/bpCareers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 2 Days Ago | RQ114218",
-      "Region": "Asia"
     },
     {
       "Company": "Capula",
@@ -23135,7 +23091,7 @@
       "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
       "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted 5 Days Ago | R-15052",
+      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Division-Associate_R-5554 | Posted 6 Days Ago | R-15052",
       "Region": "North America"
     },
     {
@@ -23201,16 +23157,6 @@
     {
       "Company": "Jane Street",
       "Title": "IT Operations Engineer",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8651274002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Technology",
-      "Region": "Europe"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "IT Operations Engineer",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8377831002/",
       "Source": "Official Jane Street jobs feed",
@@ -23230,9 +23176,9 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Linux Engineer",
+      "Title": "IT Operations Engineer",
       "Location": "New York",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8626260002/",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8641280002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Technology",
@@ -23240,13 +23186,23 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Linux Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
+      "Title": "IT Operations Engineer",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8651274002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Technology",
-      "Region": "Asia"
+      "Notes": "Internship; June-September; Technology",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Linux Engineer",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8626146002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; June-September; Technology",
+      "Region": "Europe"
     },
     {
       "Company": "Jane Street",
@@ -23261,12 +23217,22 @@
     {
       "Company": "Jane Street",
       "Title": "Linux Engineer",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8626146002/",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Technology",
-      "Region": "Europe"
+      "Notes": "Internship; May-August; Technology",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Linux Engineer",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8626260002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Technology",
+      "Region": "North America"
     },
     {
       "Company": "Jane Street",
@@ -23331,6 +23297,16 @@
     {
       "Company": "Jane Street",
       "Title": "Quantitative Researcher",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8474416002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Quantitative Researcher",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8343131002/",
       "Source": "Official Jane Street jobs feed",
@@ -23350,13 +23326,23 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Quantitative Researcher",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8474416002/",
+      "Title": "Quantitative Trader",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/7982986002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
-      "Region": "Europe"
+      "Notes": "Internship; December-February; Trading, Research, and Machine Learning",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Quantitative Trader",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8617344002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
+      "Region": "North America"
     },
     {
       "Company": "Jane Street",
@@ -23380,23 +23366,13 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Quantitative Trader",
-      "Location": "New York",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8617344002/",
+      "Title": "Sales and Trading",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8537797002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
-      "Region": "North America"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Quantitative Trader",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/7982986002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; December-February; Trading, Research, and Machine Learning",
-      "Region": "Asia"
+      "Notes": "Internship; June-September; Institutional Sales and Trading",
+      "Region": "Europe"
     },
     {
       "Company": "Jane Street",
@@ -23420,23 +23396,13 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Sales and Trading",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8537797002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Institutional Sales and Trading",
-      "Region": "Europe"
-    },
-    {
-      "Company": "Jane Street",
       "Title": "Software Engineer",
-      "Location": "New York",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8419303002/",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/7582902002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Co-Op; January-April; Technology",
-      "Region": "North America"
+      "Notes": "Internship; December-February; Technology",
+      "Region": "Asia"
     },
     {
       "Company": "Jane Street",
@@ -23461,6 +23427,16 @@
     {
       "Company": "Jane Street",
       "Title": "Software Engineer",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8419303002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Co-Op; January-April; Technology",
+      "Region": "North America"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Software Engineer",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8617298002/",
       "Source": "Official Jane Street jobs feed",
@@ -23480,16 +23456,6 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Software Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/7582902002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; December-February; Technology",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Jane Street",
       "Title": "Strategy and Product",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8630713002/",
@@ -23501,22 +23467,22 @@
     {
       "Company": "Jane Street",
       "Title": "Strategy and Product",
-      "Location": "New York",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8621552002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Strategy and Product",
-      "Region": "North America"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Strategy and Product",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8518854002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Strategy and Product",
       "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Strategy and Product",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8621552002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Strategy and Product",
+      "Region": "North America"
     },
     {
       "Company": "Jane Street",
@@ -23541,16 +23507,6 @@
     {
       "Company": "Jane Street",
       "Title": "Trading Desk Operations Engineer",
-      "Location": "New York",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8621450002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
-      "Region": "North America"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Trading Desk Operations Engineer",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8700980002/",
       "Source": "Official Jane Street jobs feed",
@@ -23562,20 +23518,30 @@
       "Company": "Jane Street",
       "Title": "Trading Desk Operations Engineer",
       "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8168747002/",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8620505002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; December-February; Trading, Research, and Machine Learning",
+      "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
       "Region": "Asia"
     },
     {
       "Company": "Jane Street",
       "Title": "Trading Desk Operations Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8620505002/",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8621450002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
+      "Region": "North America"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Trading Desk Operations Engineer",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8168747002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; December-February; Trading, Research, and Machine Learning",
       "Region": "Asia"
     },
     {
@@ -23641,22 +23607,22 @@
     {
       "Company": "Jump Trading",
       "Title": "Campus Data Engineer (Intern)",
-      "Location": "Chicago",
-      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-      "Source": "Greenhouse:jumptrading",
-      "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
-      "Region": "North America"
-    },
-    {
-      "Company": "Jump Trading",
-      "Title": "Campus Data Engineer (Intern)",
       "Location": "London",
       "URL": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
       "Region": "Europe"
+    },
+    {
+      "Company": "Jump Trading",
+      "Title": "Campus Data Engineer (Intern)",
+      "Location": "Chicago",
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+      "Source": "Greenhouse:jumptrading",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
+      "Region": "North America"
     },
     {
       "Company": "Jump Trading",
@@ -23701,22 +23667,22 @@
     {
       "Company": "Jump Trading",
       "Title": "Campus Quantitative Researcher (Intern)",
-      "Location": "London; Amsterdam",
-      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
-      "Source": "Greenhouse:jumptrading",
-      "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
-      "Region": "Europe"
-    },
-    {
-      "Company": "Jump Trading",
-      "Title": "Campus Quantitative Researcher (Intern)",
       "Location": "Singapore",
       "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
       "Region": "Asia"
+    },
+    {
+      "Company": "Jump Trading",
+      "Title": "Campus Quantitative Researcher (Intern)",
+      "Location": "London; Amsterdam",
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+      "Source": "Greenhouse:jumptrading",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
+      "Region": "Europe"
     },
     {
       "Company": "Jump Trading",
@@ -23741,16 +23707,6 @@
     {
       "Company": "Jump Trading",
       "Title": "Campus Quantitative Trader (Intern)",
-      "Location": "Chicago; New York",
-      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
-      "Source": "Greenhouse:jumptrading",
-      "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
-      "Region": "North America"
-    },
-    {
-      "Company": "Jump Trading",
-      "Title": "Campus Quantitative Trader (Intern)",
       "Location": "Singapore",
       "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027941",
       "Source": "Greenhouse:jumptrading",
@@ -23761,18 +23717,18 @@
     {
       "Company": "Jump Trading",
       "Title": "Campus Quantitative Trader (Intern)",
-      "Location": "London; Amsterdam",
-      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
+      "Location": "Chicago; New York",
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
-      "Region": "Europe"
+      "Region": "North America"
     },
     {
       "Company": "Jump Trading",
-      "Title": "Campus Software Engineer (Intern)",
-      "Location": "London",
-      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+      "Title": "Campus Quantitative Trader (Intern)",
+      "Location": "London; Amsterdam",
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
@@ -23790,6 +23746,16 @@
     },
     {
       "Company": "Jump Trading",
+      "Title": "Campus Software Engineer (Intern)",
+      "Location": "London",
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+      "Source": "Greenhouse:jumptrading",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Jump Trading",
       "Title": "Campus Systems Engineer (Intern)",
       "Location": "Chicago",
       "URL": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
@@ -23801,22 +23767,22 @@
     {
       "Company": "Jump Trading",
       "Title": "Campus Systems Engineer (Intern)",
-      "Location": "London; Amsterdam",
-      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-      "Source": "Greenhouse:jumptrading",
-      "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
-      "Region": "Europe"
-    },
-    {
-      "Company": "Jump Trading",
-      "Title": "Campus Systems Engineer (Intern)",
       "Location": "Singapore",
       "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
       "Region": "Asia"
+    },
+    {
+      "Company": "Jump Trading",
+      "Title": "Campus Systems Engineer (Intern)",
+      "Location": "London; Amsterdam",
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+      "Source": "Greenhouse:jumptrading",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found",
+      "Region": "Europe"
     },
     {
       "Company": "Jump Trading",
@@ -23953,6 +23919,16 @@
     },
     {
       "Company": "Optiver",
+      "Title": "FPGA Internship (2027 Start)",
+      "Location": "Amsterdam, North Holland, Netherlands",
+      "URL": "https://www.optiver.com/join-us/jobs/8713775002/?gh_jid=8713775002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Optiver",
       "Title": "Institutional Trader Intern (2027 Start - Chicago)",
       "Department": "Institutional Traders",
       "Location": "Chicago, Illinois, United States",
@@ -23984,6 +23960,16 @@
     },
     {
       "Company": "Optiver",
+      "Title": "Quantitative Research Internship (2027 Start)",
+      "Location": "Amsterdam, North Holland, Netherlands",
+      "URL": "https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Optiver",
       "Title": "Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)",
       "Location": "Shanghai, China",
       "URL": "https://www.optiver.com/join-us/jobs/8644376002/?gh_jid=8644376002",
@@ -23991,6 +23977,16 @@
       "Status": "Confirmed official posting",
       "Notes": "internship timing: Summer 2027; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found",
       "Region": "Asia"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "Quantitative Trading Internship (2027 Start)",
+      "Location": "Amsterdam, North Holland, Netherlands",
+      "URL": "https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found",
+      "Region": "Europe"
     },
     {
       "Company": "Optiver",
@@ -24044,6 +24040,26 @@
     },
     {
       "Company": "Optiver",
+      "Title": "Software Engineer Internship (2027 Start)",
+      "Location": "Amsterdam, North Holland, Netherlands",
+      "URL": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "Software Engineer Internship (2027 Start)",
+      "Location": "London, England, United Kingdom",
+      "URL": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Optiver",
       "Title": "Trading Automation and Operations Intern (Summer 2027)",
       "Location": "Chicago, Illinois, United States",
       "URL": "https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002",
@@ -24082,7 +24098,7 @@
       "URL": "https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057-1",
       "Source": "Career page Workday:peak6group/PEAK6",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 5 Days Ago | JR105057",
+      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 6 Days Ago | JR105057",
       "Region": "North America"
     },
     {
@@ -24093,7 +24109,29 @@
       "URL": "https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Internship-for-Women--Summer-2027_JR105061",
       "Source": "Career page Workday:peak6group/PEAK6",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 5 Days Ago | JR105061",
+      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 6 Days Ago | JR105061",
+      "Region": "North America"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Client Solutions & Analytics Analyst, US",
+      "Department": "",
+      "Location": "Newport Beach, CA USA",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.pimco.com/us/en/about-us/careers | Posted Today | R106605",
+      "Region": "North America"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Product Strategy Analyst, US",
+      "Department": "",
+      "Location": "Newport Beach, CA USA",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.pimco.com/us/en/about-us/careers | Posted Today | R106626",
       "Region": "North America"
     },
     {
@@ -24715,17 +24753,6 @@
       "Company": "Susquehanna International Group",
       "Title": "Quantitative Trader Internship: Summer 2027",
       "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
-      "Location": "New York, New York",
-      "URL": "https://careers.sig.com/jobs/10718?lang=en-us",
-      "Source": "Official SIG jobs API",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-06-30T16:30:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Susquehanna’s trading internship provides a distinctive opportunity to learn about quantitative trading. Splitting their day between working on a trading desk and education in a classroom setting, interns receive the best preparation possible for careers in quant trading. During their time on the trading floor, interns will be fully embedded within a trading desk, working side by side with an experienced trader who will serve as a mentor. While in education, interns will receive industry-leading training in options theory and decision science from traders fully dedicated to trader development. Students with a STEM background can leverage their quantitative skills and learn how Susquehanna uses game theory, decision science, and cutting-edge technology to ma...",
-      "Region": "North America"
-    },
-    {
-      "Company": "Susquehanna International Group",
-      "Title": "Quantitative Trader Internship: Summer 2027",
-      "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
       "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
       "URL": "https://careers.sig.com/jobs/10717?lang=en-us",
       "Source": "Official SIG jobs API",
@@ -25258,17 +25285,6 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/worldquant | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4655484006 | internship timing not stated in title | WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform. WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Employees are encouraged to challenge conventio...",
       "Region": "Europe"
-    },
-    {
-      "Company": "XTX Markets",
-      "Title": "AI Research Internship - XTY Labs",
-      "Department": "Quantitative Research",
-      "Location": "New York",
-      "URL": "https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003",
-      "Source": "Career page Greenhouse:xtxmarketstechnologies",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.xtxmarkets.com/careers/ | company_wrapper=https://www.xtxmarkets.com/careers/job?gh_jid=6274458003 | internship timing not stated in title | The Firm XTX Markets is a leading algorithmic trading firm which uses state-of-the-art machine learning technology to produce price forecasts for over 50,000 financial instruments across equities, fixed income, currencies, commodities and crypto. It uses those forecasts to trade on exchanges and alternative trading venues, and to offer differentiated liquidity directly to clients worldwide. The firm trades over $250bn a day across 35 countries and has over 250 employees based in London, New York, Singapore, Paris, Bristol, Mumbai, Yerevan and Kajaani. We leverage the talent of the people who work here, modern computational techniques and state-of-the-art research infrastructure to analyse large data sets across markets quickl...",
-      "Region": "North America"
     }
   ],
   "companiesWithoutRows": [
@@ -25310,6 +25326,7 @@
     "BD Energy",
     "BMO Capital Markets",
     "BNP Paribas",
+    "BP",
     "BP Supply Trading & Shipping",
     "Baillie Gifford",
     "Barak Capital",
@@ -25488,7 +25505,6 @@
     "Open Futures Group",
     "Optica",
     "PGIM",
-    "PIMCO",
     "PanAgora",
     "PanAgora Asset Management",
     "Plutus Research",
@@ -25582,6 +25598,7 @@
     "Wolverine Trading",
     "Woorton",
     "XR Trading",
+    "XTX Markets",
     "XY Capital",
     "Xantium",
     "Z.R.T.X.",
@@ -25641,7 +25658,6 @@
     "Neuberger Berman",
     "Northern Trust Asset Management",
     "PGIM",
-    "PIMCO",
     "Quadrature",
     "Quadrature Capital",
     "Quantlane",
@@ -25701,6 +25717,7 @@
     "B2C2",
     "BMO Capital Markets",
     "BNP Paribas",
+    "BP",
     "BP Supply Trading & Shipping",
     "Barak Capital",
     "Bastion Trading",
@@ -25904,6 +25921,7 @@
     "Wolverine Trading",
     "Woorton",
     "XR Trading",
+    "XTX Markets",
     "XY Capital",
     "Z.R.T.X.",
     "Z22 Technologies AG",
