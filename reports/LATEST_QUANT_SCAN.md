@@ -1,38 +1,38 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-08-19T21:31:53.494Z
+Last updated: 2026-08-20T14:28:37.460Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 508
 - Current retained roles: 395
-- New stable job URLs since previous scan: 8
-- No longer present since previous scan: 5
-- Matching-role firms: 44
+- New stable job URLs since previous scan: 12
+- No longer present since previous scan: 1
+- Matching-role firms: 43
 - Confirmed no open postings: 2
-- Openings but no matching role: 49
+- Openings but no matching role: 50
 - Could not fully verify: 209
 
 ## New Roles Since Previous Scan
 
-### North America (3)
+### North America (5)
 
-- **Jane Street** - [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8641280002/) - New York
-- **PIMCO** - [2027 Summer Intern - Client Solutions & Analytics Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605) - Newport Beach, CA USA
-- **PIMCO** - [2027 Summer Intern - Product Strategy Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626) - Newport Beach, CA USA
+- **DV Trading** - [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) - New York
+- **PIMCO** - [2027 Summer Intern - Technology Analyst, Software Engineering](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) - Austin, TX USA
+- **Point72** - [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) - New York
+- **Squarepoint Capital** - [Intern Software Developer - Montreal - 2027](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) - Montreal
+- **Verition Fund Management** - [2027 Technology Internship (US)](https://www.verition.com/open-positions?gh_jid=5214784007) - Chicago, Illinois, United States; Greenwich, Connecticut, United States; Houston, Texas, United States; Miami, Florida, United States; New York, NY, USA; Norwalk, CT
 
-### Europe (5)
+### Europe (1)
 
-- **Optiver** - [FPGA Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713775002/?gh_jid=8713775002) - Amsterdam, North Holland, Netherlands
-- **Optiver** - [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002) - Amsterdam, North Holland, Netherlands
-- **Optiver** - [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002) - Amsterdam, North Holland, Netherlands
-- **Optiver** - [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) - London, England, United Kingdom
-- **Optiver** - [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) - Amsterdam, North Holland, Netherlands
+- **Jane Street** - [Machine Learning Researcher](https://www.janestreet.com/join-jane-street/position/8594416002/) - London
 
-### Asia (0)
+### Asia (3)
 
-_None._
+- **AXQ Capital** - [2027「启元计划」暑期实习｜Quantitative Developer Intern](https://job-boards.greenhouse.io/axq/jobs/5745501004) - Beijing
+- **AXQ Capital** - [2027「启元计划」暑期实习｜Quantitative Research Intern](https://job-boards.greenhouse.io/axq/jobs/5636192004) - Shanghai
+- **Tower Research Capital** - [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8138524) - Singapore
 
 ### Oceania (0)
 
@@ -50,21 +50,18 @@ _None._
 
 _None._
 
-### Global / Multiple Regions (0)
+### Global / Multiple Regions (2)
 
-_None._
+- **Xantium** - [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) - London, England, New York, New York
+- **Xantium** - [Quantitative Researcher Internship](https://job-boards.greenhouse.io/xantium/jobs/4371217009) - London, England, New York, New York
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **Dimensional Fund Advisors** - [Internship in Portfolio Management (Undergraduate & Master's)](https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Portfolio-Management--Undergraduate---Master-s-_2026-8998) - 2 Locations
 
 ## No Longer Present
 
-- **BP** - [6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2) - Singapore - Singapore
-- **BP** - [Summer Internship - Finance & Risk - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217) - Singapore - Singapore
-- **BP** - [Summer Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2) - Singapore - Singapore
-- **Goldman Sachs** - [2027 | Americas | New York City Area | Wealth Management, Quantitative Finance | Summer Analyst](https://higher.gs.com/roles/155800) - New York
-- **Susquehanna International Group** - [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10718?lang=en-us) - New York, New York
+- **Point 72/Cubist** - [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) - New York
 
 ## Full Reports
 

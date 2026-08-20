@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 49
-Last updated: 2026-08-19T21:31:53.494Z
+Total closures recorded: 50
+Last updated: 2026-08-20T14:28:37.460Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-08-20 (1)
+
+- **Point 72/Cubist** - [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) - New York
 
 ### 2026-08-19 (5)
 

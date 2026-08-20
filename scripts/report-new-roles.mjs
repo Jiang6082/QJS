@@ -97,10 +97,38 @@ function relativePostedDate(notes, scanAtIso) {
   base.setUTCDate(base.getUTCDate() - daysAgo);
   return base.toISOString();
 }
+
+// Relative labels can remain stuck on "Posted Today" across repeated scans.
+// Recomputing them against every new scan timestamp would make an unchanged
+// URL look newly released each day. Preserve the earliest source-derived date
+// already published for that URL in the repository's report history.
+function gitEarliestReportedDateByUrl() {
+  const earliest = new Map();
+  const reportPath = "data/new_roles_last_three_weeks.json";
+  try {
+    const commits = execFileSync("git", ["log", "--format=%H", "--", reportPath], { encoding: "utf8" })
+      .trim().split(/\r?\n/).filter(Boolean).reverse();
+    for (const commit of commits) {
+      let snapshot;
+      try {
+        snapshot = JSON.parse(execFileSync("git", ["show", `${commit}:${reportPath}`], { encoding: "utf8", maxBuffer: 20 * 1024 * 1024 }));
+      } catch { continue; }
+      for (const role of snapshot.roles || []) {
+        const date = String(role.date || "").slice(0, 10);
+        if (!role.URL || !date) continue;
+        const previous = earliest.get(role.URL);
+        if (!previous || date < previous) earliest.set(role.URL, date);
+      }
+    }
+  } catch { /* git history unavailable — fall back to the current relative label */ }
+  return earliest;
+}
+
+const earliestReportedDateByUrl = scope === "quant" ? gitEarliestReportedDateByUrl() : new Map();
 for (const r of uniq) {
   if (dateByUrl.has(r.URL)) continue;
   if (/myworkdayjobs|Workday|Salesforce Experience Cloud|bambusdev\.my\.site\.com/i.test(`${r.URL} ${r.Source}`)) {
-    const d = relativePostedDate(r.Notes, r.scanAt);
+    const d = earliestReportedDateByUrl.get(r.URL) || relativePostedDate(r.Notes, r.scanAt);
     if (d) dateByUrl.set(r.URL, d);
   }
 }

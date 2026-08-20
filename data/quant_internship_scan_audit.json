@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-19T21:31:43.784Z",
+  "scannedAt": "2026-08-20T14:28:20.536Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -710,10 +710,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:genevatrading",
-          "count": 13
+          "count": 12
         }
       ],
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantInternships": 0
     },
     {
@@ -810,10 +810,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 165
+          "count": 166
         }
       ],
-      "jobsSeen": 165,
+      "jobsSeen": 166,
       "relevantInternships": 14
     },
     {
@@ -906,10 +906,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 53
+          "count": 54
         }
       ],
-      "jobsSeen": 53,
+      "jobsSeen": 54,
       "relevantInternships": 0
     },
     {
@@ -988,14 +988,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 176
+          "count": 177
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 176,
+      "jobsSeen": 177,
       "relevantInternships": 19
     },
     {
@@ -1294,11 +1294,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:towerresearchcapital",
-          "count": 83
+          "count": 85
         }
       ],
-      "jobsSeen": 83,
-      "relevantInternships": 6
+      "jobsSeen": 85,
+      "relevantInternships": 7
     },
     {
       "company": "Tradebot",
@@ -1395,10 +1395,10 @@
         },
         {
           "source": "Ashby:voleon",
-          "count": 54
+          "count": 55
         }
       ],
-      "jobsSeen": 54,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {

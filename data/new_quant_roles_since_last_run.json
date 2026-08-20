@@ -1,127 +1,127 @@
 {
-  "generatedAt": "2026-08-19T21:35:37.811Z",
-  "previousScanAt": "2026-08-16T15:51:27.306Z",
-  "currentScanAt": "2026-08-19T21:31:53.494Z",
-  "previousRows": 383,
+  "generatedAt": "2026-08-20T14:38:19.659Z",
+  "previousScanAt": "2026-08-19T21:31:53.494Z",
+  "currentScanAt": "2026-08-20T14:28:37.460Z",
+  "previousRows": 395,
   "currentRows": 395,
   "added": [
     {
-      "Company": "Jane Street",
-      "Title": "IT Operations Engineer",
+      "Company": "AXQ Capital",
+      "Title": "2027「启元计划」暑期实习｜Quantitative Developer Intern",
+      "Location": "Beijing",
+      "Region": "Asia",
+      "URL": "https://job-boards.greenhouse.io/axq/jobs/5745501004",
+      "Source": "Career page Greenhouse:axq",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "AXQ Capital",
+      "Title": "2027「启元计划」暑期实习｜Quantitative Research Intern",
+      "Location": "Shanghai",
+      "Region": "Asia",
+      "URL": "https://job-boards.greenhouse.io/axq/jobs/5636192004",
+      "Source": "Career page Greenhouse:axq",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Dimensional Fund Advisors",
+      "Title": "Internship in Portfolio Management (Undergraduate & Master's)",
+      "Location": "2 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Portfolio-Management--Undergraduate---Master-s-_2026-8998",
+      "Source": "Career page Workday:dimensional/DFA_Careers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Trading Intern - Summer 2027 (DV Commodities)",
       "Location": "New York",
       "Region": "North America",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8641280002/",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719134005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Machine Learning Researcher",
+      "Location": "London",
+      "Region": "Europe",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8594416002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting"
     },
     {
-      "Company": "Optiver",
-      "Title": "FPGA Internship (2027 Start)",
-      "Location": "Amsterdam, North Holland, Netherlands",
-      "Region": "Europe",
-      "URL": "https://www.optiver.com/join-us/jobs/8713775002/?gh_jid=8713775002",
-      "Source": "Greenhouse:optiverus",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Optiver",
-      "Title": "Quantitative Research Internship (2027 Start)",
-      "Location": "Amsterdam, North Holland, Netherlands",
-      "Region": "Europe",
-      "URL": "https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002",
-      "Source": "Greenhouse:optiverus",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Optiver",
-      "Title": "Quantitative Trading Internship (2027 Start)",
-      "Location": "Amsterdam, North Holland, Netherlands",
-      "Region": "Europe",
-      "URL": "https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002",
-      "Source": "Greenhouse:optiverus",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Optiver",
-      "Title": "Software Engineer Internship (2027 Start)",
-      "Location": "London, England, United Kingdom",
-      "Region": "Europe",
-      "URL": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
-      "Source": "Greenhouse:optiverus",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Optiver",
-      "Title": "Software Engineer Internship (2027 Start)",
-      "Location": "Amsterdam, North Holland, Netherlands",
-      "Region": "Europe",
-      "URL": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
-      "Source": "Greenhouse:optiverus",
-      "Status": "Confirmed official posting"
-    },
-    {
       "Company": "PIMCO",
-      "Title": "2027 Summer Intern - Client Solutions & Analytics Analyst, US",
-      "Location": "Newport Beach, CA USA",
+      "Title": "2027 Summer Intern - Technology Analyst, Software Engineering",
+      "Location": "Austin, TX USA",
       "Region": "North America",
-      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting"
     },
     {
-      "Company": "PIMCO",
-      "Title": "2027 Summer Intern - Product Strategy Analyst, US",
-      "Location": "Newport Beach, CA USA",
+      "Company": "Point72",
+      "Title": "Quantitative Developer Intern",
+      "Location": "New York",
       "Region": "North America",
-      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626",
-      "Source": "Career page Workday:pimco/pimco-careers",
+      "URL": "https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
+      "Source": "Career page Greenhouse:point72",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Squarepoint Capital",
+      "Title": "Intern Software Developer - Montreal - 2027",
+      "Location": "Montreal",
+      "Region": "North America",
+      "URL": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
+      "Source": "Greenhouse:squarepointcapital",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Tower Research Capital",
+      "Title": "Quantitative Developer Intern",
+      "Location": "Singapore",
+      "Region": "Asia",
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
+      "Source": "Career page Greenhouse:towerresearchcapital",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Verition Fund Management",
+      "Title": "2027 Technology Internship (US)",
+      "Location": "Chicago, Illinois, United States; Greenwich, Connecticut, United States; Houston, Texas, United States; Miami, Florida, United States; New York, NY, USA; Norwalk, CT",
+      "Region": "North America",
+      "URL": "https://www.verition.com/open-positions?gh_jid=5214784007",
+      "Source": "Career page Greenhouse:veritiongroupllc",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Xantium",
+      "Title": "Quantitative Developer Intern",
+      "Location": "London, England, New York, New York",
+      "Region": "Global / Multiple Regions",
+      "URL": "https://job-boards.greenhouse.io/xantium/jobs/4360768009",
+      "Source": "Career page Greenhouse:xantium",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Xantium",
+      "Title": "Quantitative Researcher Internship",
+      "Location": "London, England, New York, New York",
+      "Region": "Global / Multiple Regions",
+      "URL": "https://job-boards.greenhouse.io/xantium/jobs/4371217009",
+      "Source": "Career page Greenhouse:xantium",
       "Status": "Confirmed official posting"
     }
   ],
   "removed": [
     {
-      "Company": "BP",
-      "Title": "6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)",
-      "Location": "Singapore - Singapore",
-      "Region": "Asia",
-      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2",
-      "Source": "Career page Workday:bpinternational/bpCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "BP",
-      "Title": "Summer Internship - Finance & Risk - Singapore (2027)",
-      "Location": "Singapore - Singapore",
-      "Region": "Asia",
-      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217",
-      "Source": "Career page Workday:bpinternational/bpCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "BP",
-      "Title": "Summer Internship - Supply, Trading & Shipping - Singapore (2027)",
-      "Location": "Singapore - Singapore",
-      "Region": "Asia",
-      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2",
-      "Source": "Career page Workday:bpinternational/bpCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Goldman Sachs",
-      "Title": "2027 | Americas | New York City Area | Wealth Management, Quantitative Finance | Summer Analyst",
+      "Company": "Point 72/Cubist",
+      "Title": "Quantitative Developer Intern",
       "Location": "New York",
       "Region": "North America",
-      "URL": "https://higher.gs.com/roles/155800",
-      "Source": "Official careers page",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Susquehanna International Group",
-      "Title": "Quantitative Trader Internship: Summer 2027",
-      "Location": "New York, New York",
-      "Region": "North America",
-      "URL": "https://careers.sig.com/jobs/10718?lang=en-us",
-      "Source": "Official SIG jobs API",
+      "URL": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002",
+      "Source": "Greenhouse:point72",
       "Status": "Confirmed official posting"
     }
   ]

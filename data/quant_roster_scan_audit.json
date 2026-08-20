@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-19T21:35:37.701Z",
-  "scanStartedAt": "2026-08-19T21:31:53.494Z",
+  "generatedAt": "2026-08-20T14:38:19.546Z",
+  "scanStartedAt": "2026-08-20T14:28:37.460Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 44,
+    "matching-role-found": 43,
     "confirmed-no-open-postings": 2,
-    "confirmed-openings-no-matching-role": 49,
+    "confirmed-openings-no-matching-role": 50,
     "could-not-fully-verify": 209
   },
   "companies": [
@@ -67,15 +67,15 @@
       "sourceRosterNames": [
         "AlphaGrep"
       ],
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.alpha-grep.com/career/",
         "https://job-boards.greenhouse.io/alphagrepsecurities"
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 15,
-      "relevantInternships": 1
+      "jobsSeen": 14,
+      "relevantInternships": 0
     },
     {
       "company": "Apolis SAM",
@@ -100,7 +100,7 @@
       "careerPages": [
         "https://www.arfima.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -283,7 +283,7 @@
         "https://www.aqr.com/Our-Firm/Careers",
         "https://job-boards.greenhouse.io/aqr"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 47,
       "relevantInternships": 8
@@ -552,7 +552,7 @@
       "careerPages": [
         "https://careers.acehardware.com/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -719,7 +719,7 @@
         "https://www.citadelsecurities.com/careers/open-opportunities/",
         "https://www.citadelsecurities.com/careers/students/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 4,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 181,
+      "jobsSeen": 182,
       "relevantInternships": 18
     },
     {
@@ -856,7 +856,7 @@
       "careerPages": [
         "https://www.arrowstreetcapital.com/professional-careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1624,7 +1624,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -1730,7 +1730,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {
@@ -2033,7 +2033,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantInternships": 0
     },
     {
@@ -2078,7 +2078,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 35,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -2090,7 +2090,7 @@
       "careerPages": [
         "https://www.high-flyer.cn/en/join"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2106,9 +2106,9 @@
         "https://www.imc.com/us/careers/",
         "https://www.imc.com/ap/careers/"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 165,
+      "jobsSeen": 166,
       "relevantInternships": 15
     },
     {
@@ -2254,7 +2254,7 @@
       "careerPages": [
         "https://join.mhfunds.com"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2355,7 +2355,7 @@
         "https://pdtpartners.com/careers",
         "https://job-boards.greenhouse.io/pdtpartners"
       ],
-      "livePages": 4,
+      "livePages": 3,
       "attemptedPages": 5,
       "jobsSeen": 10,
       "relevantInternships": 2
@@ -2895,7 +2895,7 @@
       "careerPages": [
         "https://www.nmftrading.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3385,7 +3385,7 @@
       "careerPages": [
         "https://sevenpointscapital.pinpointhq.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3703,7 +3703,7 @@
         "https://www.trilliumhealth.org/join-the-team",
         "https://www.trilliumhealthresources.org/explore-trillium/careers"
       ],
-      "livePages": 4,
+      "livePages": 5,
       "attemptedPages": 5,
       "jobsSeen": 11,
       "relevantInternships": 5
@@ -3883,8 +3883,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 83,
-      "relevantInternships": 7
+      "jobsSeen": 85,
+      "relevantInternships": 8
     },
     {
       "company": "Two Sigma",
@@ -3942,7 +3942,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 32,
+      "jobsSeen": 31,
       "relevantInternships": 1
     },
     {
@@ -4074,7 +4074,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 54,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -4118,7 +4118,7 @@
         "https://www.ubs.com/global/en/careers/early-careers.html",
         "https://www.ubs.com/global/en/careers/early-careers/faq.html"
       ],
-      "livePages": 5,
+      "livePages": 4,
       "attemptedPages": 5,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4197,7 +4197,7 @@
       "careerPages": [
         "https://wintermute.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
