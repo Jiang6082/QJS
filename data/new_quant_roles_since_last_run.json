@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-08-17T17:07:40.427Z",
-  "previousScanAt": "2026-08-16T14:55:30.101Z",
-  "currentScanAt": "2026-08-17T16:47:40.019Z",
-  "previousRows": 322,
-  "currentRows": 325,
-  "added": [],
-  "removed": []
+  "generatedAt": "2026-08-21T17:40:17.374Z",
+  "previousScanAt": "2026-08-20T14:28:37.460Z",
+  "currentScanAt": "2026-08-21T17:36:26.218Z",
+  "previousRows": 395,
+  "currentRows": 404,
+  "added": [
+    {
+      "Company": "Tower Research Capital",
+      "Title": "Intern - AI/ML",
+      "Location": "gurgaon",
+      "Region": "Remote / Unspecified",
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8143756",
+      "Source": "Career page Greenhouse:towerresearchcapital",
+      "Status": "Confirmed official posting"
+    }
+  ],
+  "removed": [
+    {
+      "Company": "AlphaGrep",
+      "Title": "Quantitative Developer Intern",
+      "Location": "Mumbai",
+      "Region": "Asia",
+      "URL": "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002",
+      "Source": "Career page Greenhouse:alphagrepsecurities",
+      "Status": "Confirmed official posting"
+    }
+  ]
 }

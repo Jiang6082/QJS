@@ -687,11 +687,10 @@ function relevantCareerJob(row) {
   const isIntern = /\b(intern|internship|summer analyst|summer associate|co-?op|industrial placement)\b/.test(title)
     || /^(?:internship|co-op|industrial placement year)\b/i.test((row.Notes || "").trim());
   const hasDomain = /\b(quant|quantitative|systematic|alpha|research|portfolio|trading|trader|strats?|strategy|strategic|developer|software|engineer|technology|devops|site reliability|sre|infrastructure|data science|machine learning|risk|implementation|model|analytics|fpga)\b/.test(roleText) || /c\+\+/i.test(roleText);
-  const blockedEducation = /\b(phd|ph\.d|doctoral|doctorate|postdoc|postdoctoral|mba)\b/.test(title) && !/\b(bs|bachelor|undergrad|undergraduate|master|ms)\b/.test(text);
   const blockedFullTime = /\b(new grad|new graduate|graduate programme|graduate program|full[- ]time|experienced|senior|principal|director|vp|vice president|recruiter|recruitment)\b/.test(title) || (/\bgraduate\b/.test(title) && !/\bintern/.test(title));
   const blockedTiming = hasNonTargetInternshipTiming(row.Title, row.Notes || "");
   const staleWebLead = /web-discovered|aggregator/i.test(`${row.Source} ${row.Status}`) && stalePostingDate.test(row.Notes || "");
-  return isIntern && hasDomain && !blockedEducation && !blockedFullTime && !blockedTiming && !staleWebLead;
+  return isIntern && hasDomain && !blockedFullTime && !blockedTiming && !staleWebLead;
 }
 
 async function scanCareerPage(company, pageUrl) {
@@ -932,6 +931,173 @@ async function getSigInternRows() {
   })).filter(relevantCareerJob);
 }
 
+async function getBalyasnyInternRows() {
+  const boardUrl = "https://bambusdev.my.site.com/s/";
+  const page = await fetchText(boardUrl);
+  if (!page.ok) return [];
+
+  // The BAM board is a Salesforce Experience Cloud app. Its initial HTML has
+  // no job links and an empty search returns "No jobs found", so enumerate the
+  // public Apex search method with the board's live Aura bootstrap context.
+  const contextMatch = page.text.match(/\/s\/sfsites\/l\/([^/?]+)\/inline\.js/i);
+  if (!contextMatch) return [];
+
+  let auraContext;
+  try {
+    auraContext = JSON.parse(decodeURIComponent(contextMatch[1]));
+  } catch {
+    return [];
+  }
+
+  const message = {
+    actions: [{
+      id: "1;a",
+      descriptor: "aura://ApexActionController/ACTION$execute",
+      callingDescriptor: "UNKNOWN",
+      params: {
+        namespace: "",
+        classname: "BamJobRequisitionInfoDataService",
+        method: "searchJobRequisitions",
+        params: {
+          isVendorPortal: false,
+          site: "BAM Website",
+          searchKey: "intern",
+          locationFilters: [],
+          departmentFilter: [],
+          availableLocations: [],
+          experienceLevelFilter: [],
+        },
+        cacheable: true,
+        isContinuation: false,
+      },
+    }],
+  };
+  const body = new URLSearchParams({
+    message: JSON.stringify(message),
+    "aura.context": JSON.stringify(auraContext),
+    "aura.pageURI": "/s/",
+    "aura.token": "null",
+  });
+
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 15000);
+  try {
+    const response = await fetch(new URL("/s/sfsites/aura", boardUrl), {
+      method: "POST",
+      signal: controller.signal,
+      headers: {
+        "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+        origin: new URL(boardUrl).origin,
+        referer: boardUrl,
+        "user-agent": "Mozilla/5.0 internship-research",
+      },
+      body,
+    });
+    if (!response.ok) return [];
+    const payload = await response.json();
+    const jobs = payload.actions?.[0]?.returnValue?.returnValue || [];
+    return jobs.map((job) => {
+      const positions = job.Job_Requisition_Positions__r || [];
+      const locations = [...new Set(positions.flatMap((position) => [
+        position.Location__r?.External_Name__c,
+        ...(position.Job_Requisition_Position_Locations__r || [])
+          .map((entry) => entry.Location__r?.External_Name__c),
+      ]).filter(Boolean))];
+      const routeKey = `${job.Job_Req_Title_in_URL__c || ""}_${job.Requisition_Number__c || ""}`;
+      return {
+        Company: "Balyasny Asset Management",
+        Title: job.Publish_Title__c || job.Name || "",
+        Department: job.Department__c || "",
+        Location: locations.join(", "),
+        URL: `${new URL("/s/details", boardUrl).href}?jobReq=${encodeURIComponent(routeKey)}`,
+        Source: "Official Balyasny Salesforce Experience Cloud feed",
+        Status: "Confirmed official posting",
+        Notes: [
+          `career_page=${boardUrl}`,
+          job.Posted_Ago__c || "",
+          job.Requisition_Number__c ? `requisition=${job.Requisition_Number__c}` : "",
+          job.Department__c ? `department=${job.Department__c}` : "",
+          job.Experience_Level__c ? `experience=${job.Experience_Level__c}` : "",
+        ].filter(Boolean).join(" | "),
+      };
+    }).filter(relevantCareerJob);
+  } catch {
+    return [];
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+async function getGoldmanQuantRows() {
+  const endpoint = "https://api-higher.gs.com/gateway/api/v1/graphql";
+  const query = `query GetCampusRoles($searchQueryInput: RoleSearchQueryInput!) {
+    roleSearch(searchQueryInput: $searchQueryInput) {
+      totalCount
+      items {
+        roleId corporateTitle jobTitle jobFunction status division lastPostedDate
+        locations { primary state country city }
+        externalSource { sourceId }
+      }
+    }
+  }`;
+  const variables = {
+    searchQueryInput: {
+      page: { pageSize: 100, pageNumber: 0 },
+      sort: { sortStrategy: "POSTED_DATE", sortOrder: "DESC" },
+      filters: [],
+      experiences: ["CAMPUS"],
+      searchTerm: "Quantitative",
+    },
+  };
+
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 15000);
+  try {
+    const response = await fetch(endpoint, {
+      method: "POST",
+      signal: controller.signal,
+      headers: {
+        "content-type": "application/json",
+        origin: "https://higher.gs.com",
+        referer: "https://higher.gs.com/results",
+        "user-agent": "Mozilla/5.0 internship-research",
+      },
+      body: JSON.stringify({ query, variables }),
+    });
+    if (!response.ok) return [];
+    const payload = await response.json();
+    const jobs = payload.data?.roleSearch?.items || [];
+    return jobs.filter((job) => job.status === "POSTED").map((job) => {
+      const sourceId = job.externalSource?.sourceId || String(job.roleId || "").split("_")[0];
+      const locations = [...new Set((job.locations || []).map((location) => [
+        location.city,
+        location.state,
+        location.country,
+      ].filter(Boolean).join(", ")).filter(Boolean))];
+      return {
+        Company: "Goldman Sachs",
+        Title: job.jobTitle || "",
+        Department: [job.division, job.jobFunction].filter(Boolean).join(", "),
+        Location: locations.join(" / "),
+        URL: `https://higher.gs.com/roles/${sourceId}`,
+        Source: "Official Goldman Sachs Higher API",
+        Status: "Confirmed official posting",
+        Notes: [
+          job.lastPostedDate ? `posted=${job.lastPostedDate.slice(0, 10)}` : "",
+          sourceId ? `role_id=${sourceId}` : "",
+          job.corporateTitle ? `program=${job.corporateTitle}` : "",
+          job.division ? `division=${job.division}` : "",
+          job.jobFunction ? `function=${job.jobFunction}` : "",
+        ].filter(Boolean).join(" | "),
+      };
+    }).filter(relevantCareerJob);
+  } catch {
+    return [];
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
 function companyQueries(company) {
   const quoted = `"${company}"`;
   return [
@@ -1015,13 +1181,17 @@ const janeStreetRows = await getJaneStreetStudentRows();
 const deshawRows = await getDeshawInternRows();
 const twoSigmaRows = await getTwoSigmaInternRows();
 const sigRows = await getSigInternRows();
+const balyasnyRows = await getBalyasnyInternRows();
+const goldmanRows = await getGoldmanQuantRows();
 const customSourceAudits = [
   { company: "Jane Street", source: "Official jobs feed", jobsRetained: janeStreetRows.length },
   { company: "D. E. Shaw", source: "Official internships page", jobsRetained: deshawRows.length },
   { company: "Two Sigma", source: "Official paginated careers portal", jobsRetained: twoSigmaRows.length },
   { company: "Susquehanna International Group", source: "Official paginated jobs API", jobsRetained: sigRows.length },
+  { company: "Balyasny Asset Management", source: "Official Salesforce Experience Cloud feed", jobsRetained: balyasnyRows.length },
+  { company: "Goldman Sachs", source: "Official Higher campus GraphQL API", jobsRetained: goldmanRows.length },
 ];
-const careerPageRows = [...careerPageScan.rows, ...janeStreetRows, ...deshawRows, ...twoSigmaRows, ...sigRows];
+const careerPageRows = [...careerPageScan.rows, ...janeStreetRows, ...deshawRows, ...twoSigmaRows, ...sigRows, ...balyasnyRows, ...goldmanRows];
 const discoveredNested = await mapLimit(companies, 8, async (company) => {
   const companyHits = [];
   const seen = new Set();
@@ -1173,24 +1343,6 @@ const manualLeads = [
     Source: "Official careers page",
     Status: "Official broad program; select quant-relevant functions in application",
     Notes: "Official page says applications are open and candidates can apply to functions such as Investment Research and Analytics & Modeling.",
-  },
-  {
-    Company: "Goldman Sachs",
-    Title: "2027 | Americas | New York City Area | Wealth Management, Quantitative Finance | Summer Analyst",
-    Location: "New York",
-    URL: "https://higher.gs.com/roles/155800",
-    Source: "Official careers page",
-    Status: "Confirmed official posting",
-    Notes: "Official Goldman Sachs Higher role page; Summer Analyst program for bachelor's/graduate degree students.",
-  },
-  {
-    Company: "Goldman Sachs",
-    Title: "2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst",
-    Location: "Singapore",
-    URL: "https://higher.gs.com/roles/170600",
-    Source: "Official careers page",
-    Status: "Confirmed official posting",
-    Notes: "Official Goldman Sachs Higher role page; quantitative strategists construct quantitative models for global markets.",
   },
   {
     Company: "J.P. Morgan",

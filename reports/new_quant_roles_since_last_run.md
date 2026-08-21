@@ -1,11 +1,11 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-08-16T14:55:30.101Z
-Current scan: 2026-08-17T16:47:40.019Z
-Previous rows: 322
-Current rows: 325
-New stable job URLs: 0
-No longer present: 0
+Previous scan: 2026-08-20T14:28:37.460Z
+Current scan: 2026-08-21T17:36:26.218Z
+Previous rows: 395
+Current rows: 404
+New stable job URLs: 1
+No longer present: 1
 
 ## New Roles By Region
 
@@ -41,10 +41,10 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **Tower Research Capital** - [Intern - AI/ML](https://www.tower-research.com/open-positions/?gh_jid=8143756) - gurgaon - Confirmed official posting (Career page Greenhouse:towerresearchcapital)
 
 ## No Longer Present
 
-_None._
+- **AlphaGrep** - [Quantitative Developer Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002)

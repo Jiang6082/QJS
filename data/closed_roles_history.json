@@ -1,5 +1,82 @@
 [
   {
+    "Company": "AlphaGrep",
+    "Title": "Quantitative Developer Intern",
+    "Location": "Mumbai",
+    "Region": "Asia",
+    "URL": "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002",
+    "Source": "Career page Greenhouse:alphagrepsecurities",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-20T14:28:37.460Z",
+    "detectedClosedAt": "2026-08-21T17:36:26.218Z"
+  },
+  {
+    "Company": "Point 72/Cubist",
+    "Title": "Quantitative Developer Intern",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002",
+    "Source": "Greenhouse:point72",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-19T21:31:53.494Z",
+    "detectedClosedAt": "2026-08-20T14:28:37.460Z"
+  },
+  {
+    "Company": "BP",
+    "Title": "6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)",
+    "Location": "Singapore - Singapore",
+    "Region": "Asia",
+    "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2",
+    "Source": "Career page Workday:bpinternational/bpCareers",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-16T15:51:27.306Z",
+    "detectedClosedAt": "2026-08-19T21:31:53.494Z"
+  },
+  {
+    "Company": "BP",
+    "Title": "Summer Internship - Finance & Risk - Singapore (2027)",
+    "Location": "Singapore - Singapore",
+    "Region": "Asia",
+    "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217",
+    "Source": "Career page Workday:bpinternational/bpCareers",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-16T15:51:27.306Z",
+    "detectedClosedAt": "2026-08-19T21:31:53.494Z"
+  },
+  {
+    "Company": "BP",
+    "Title": "Summer Internship - Supply, Trading & Shipping - Singapore (2027)",
+    "Location": "Singapore - Singapore",
+    "Region": "Asia",
+    "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2",
+    "Source": "Career page Workday:bpinternational/bpCareers",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-16T15:51:27.306Z",
+    "detectedClosedAt": "2026-08-19T21:31:53.494Z"
+  },
+  {
+    "Company": "Goldman Sachs",
+    "Title": "2027 | Americas | New York City Area | Wealth Management, Quantitative Finance | Summer Analyst",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://higher.gs.com/roles/155800",
+    "Source": "Official careers page",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-16T15:51:27.306Z",
+    "detectedClosedAt": "2026-08-19T21:31:53.494Z"
+  },
+  {
+    "Company": "Susquehanna International Group",
+    "Title": "Quantitative Trader Internship: Summer 2027",
+    "Location": "New York, New York",
+    "Region": "North America",
+    "URL": "https://careers.sig.com/jobs/10718?lang=en-us",
+    "Source": "Official SIG jobs API",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-16T15:51:27.306Z",
+    "detectedClosedAt": "2026-08-19T21:31:53.494Z"
+  },
+  {
     "Company": "Quant Matter",
     "Title": "2027 Quantitative Research - Risk and Treasury - Summer Internship ...",
     "Location": "",

@@ -1,18 +1,18 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-08-17T16:47:40.019Z
+Last updated: 2026-08-21T17:36:26.218Z
 
 ## Summary
 
 - Companies searched: 369
-- Career pages checked: 503
-- Current retained roles: 325
-- New stable job URLs since previous scan: 0
-- No longer present since previous scan: 0
-- Matching-role firms: 40
+- Career pages checked: 510
+- Current retained roles: 404
+- New stable job URLs since previous scan: 1
+- No longer present since previous scan: 1
+- Matching-role firms: 43
 - Confirmed no open postings: 2
-- Openings but no matching role: 51
-- Could not fully verify: 211
+- Openings but no matching role: 50
+- Could not fully verify: 209
 
 ## New Roles Since Previous Scan
 
@@ -48,13 +48,13 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **Tower Research Capital** - [Intern - AI/ML](https://www.tower-research.com/open-positions/?gh_jid=8143756) - gurgaon
 
 ## No Longer Present
 
-_None._
+- **AlphaGrep** - [Quantitative Developer Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002) - Mumbai
 
 ## Full Reports
 
