@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 50
-Last updated: 2026-08-20T14:28:37.460Z
+Total closures recorded: 51
+Last updated: 2026-08-21T17:36:26.218Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-08-21 (1)
+
+- **AlphaGrep** - [Quantitative Developer Intern](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002) - Mumbai
 
 ### 2026-08-20 (1)
 

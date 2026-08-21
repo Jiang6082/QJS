@@ -1,127 +1,28 @@
 {
-  "generatedAt": "2026-08-20T14:38:19.659Z",
-  "previousScanAt": "2026-08-19T21:31:53.494Z",
-  "currentScanAt": "2026-08-20T14:28:37.460Z",
+  "generatedAt": "2026-08-21T17:40:17.374Z",
+  "previousScanAt": "2026-08-20T14:28:37.460Z",
+  "currentScanAt": "2026-08-21T17:36:26.218Z",
   "previousRows": 395,
-  "currentRows": 395,
+  "currentRows": 404,
   "added": [
     {
-      "Company": "AXQ Capital",
-      "Title": "2027「启元计划」暑期实习｜Quantitative Developer Intern",
-      "Location": "Beijing",
-      "Region": "Asia",
-      "URL": "https://job-boards.greenhouse.io/axq/jobs/5745501004",
-      "Source": "Career page Greenhouse:axq",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "AXQ Capital",
-      "Title": "2027「启元计划」暑期实习｜Quantitative Research Intern",
-      "Location": "Shanghai",
-      "Region": "Asia",
-      "URL": "https://job-boards.greenhouse.io/axq/jobs/5636192004",
-      "Source": "Career page Greenhouse:axq",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Dimensional Fund Advisors",
-      "Title": "Internship in Portfolio Management (Undergraduate & Master's)",
-      "Location": "2 Locations",
-      "Region": "Remote / Unspecified",
-      "URL": "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Portfolio-Management--Undergraduate---Master-s-_2026-8998",
-      "Source": "Career page Workday:dimensional/DFA_Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "DV Trading",
-      "Title": "Trading Intern - Summer 2027 (DV Commodities)",
-      "Location": "New York",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719134005",
-      "Source": "Career page Greenhouse:dvtrading",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Machine Learning Researcher",
-      "Location": "London",
-      "Region": "Europe",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8594416002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "PIMCO",
-      "Title": "2027 Summer Intern - Technology Analyst, Software Engineering",
-      "Location": "Austin, TX USA",
-      "Region": "North America",
-      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
-      "Source": "Career page Workday:pimco/pimco-careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Point72",
-      "Title": "Quantitative Developer Intern",
-      "Location": "New York",
-      "Region": "North America",
-      "URL": "https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
-      "Source": "Career page Greenhouse:point72",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Squarepoint Capital",
-      "Title": "Intern Software Developer - Montreal - 2027",
-      "Location": "Montreal",
-      "Region": "North America",
-      "URL": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
-      "Source": "Greenhouse:squarepointcapital",
-      "Status": "Confirmed official posting"
-    },
-    {
       "Company": "Tower Research Capital",
-      "Title": "Quantitative Developer Intern",
-      "Location": "Singapore",
-      "Region": "Asia",
-      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
+      "Title": "Intern - AI/ML",
+      "Location": "gurgaon",
+      "Region": "Remote / Unspecified",
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8143756",
       "Source": "Career page Greenhouse:towerresearchcapital",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Verition Fund Management",
-      "Title": "2027 Technology Internship (US)",
-      "Location": "Chicago, Illinois, United States; Greenwich, Connecticut, United States; Houston, Texas, United States; Miami, Florida, United States; New York, NY, USA; Norwalk, CT",
-      "Region": "North America",
-      "URL": "https://www.verition.com/open-positions?gh_jid=5214784007",
-      "Source": "Career page Greenhouse:veritiongroupllc",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Xantium",
-      "Title": "Quantitative Developer Intern",
-      "Location": "London, England, New York, New York",
-      "Region": "Global / Multiple Regions",
-      "URL": "https://job-boards.greenhouse.io/xantium/jobs/4360768009",
-      "Source": "Career page Greenhouse:xantium",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Xantium",
-      "Title": "Quantitative Researcher Internship",
-      "Location": "London, England, New York, New York",
-      "Region": "Global / Multiple Regions",
-      "URL": "https://job-boards.greenhouse.io/xantium/jobs/4371217009",
-      "Source": "Career page Greenhouse:xantium",
       "Status": "Confirmed official posting"
     }
   ],
   "removed": [
     {
-      "Company": "Point 72/Cubist",
+      "Company": "AlphaGrep",
       "Title": "Quantitative Developer Intern",
-      "Location": "New York",
-      "Region": "North America",
-      "URL": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002",
-      "Source": "Greenhouse:point72",
+      "Location": "Mumbai",
+      "Region": "Asia",
+      "URL": "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002",
+      "Source": "Career page Greenhouse:alphagrepsecurities",
       "Status": "Confirmed official posting"
     }
   ]

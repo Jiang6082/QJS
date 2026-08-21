@@ -1,4 +1,4 @@
-# Roles released 2026-07-31 → 2026-08-20 (117 with confirmed release dates)
+# Roles released 2026-08-01 → 2026-08-21 (121 with confirmed release dates)
 
 ## Goldman Sachs (26)
 - **2026-08-15** — [2027 | Americas | Dallas Metro Area | Asset and Wealth Management Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/171532) — Dallas, TX, United States
@@ -48,8 +48,8 @@
 - **2026-08-17** — [FPGA Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713775002/?gh_jid=8713775002) — Amsterdam, North Holland, Netherlands
 - **2026-08-17** — [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002) — Amsterdam, North Holland, Netherlands
 - **2026-08-17** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002) — Amsterdam, North Holland, Netherlands
-- **2026-08-17** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) — Amsterdam, North Holland, Netherlands
 - **2026-08-17** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) — London, England, United Kingdom
+- **2026-08-17** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) — Amsterdam, North Holland, Netherlands
 - **2026-08-12** — [2027 Shanghai FPGA Developer Summer Internship](https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002) — Shanghai, China
 - **2026-08-12** — [2027 Shanghai Machine Learning Engineer Summer Internship](https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002) — Shanghai, China
 - **2026-08-12** — [2027 Shanghai Software Developer Summer Internship](https://www.optiver.com/join-us/jobs/8623927002/?gh_jid=8623927002) — Shanghai, China
@@ -57,7 +57,8 @@
 - **2026-08-12** — [Quantitative Trading Internship (Summer 2027 - Shanghai)](https://www.optiver.com/join-us/jobs/8623923002/?gh_jid=8623923002) — Shanghai, China
 - **2026-08-05** — [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) — Austin, Texas, United States
 
-## Jane Street (9)
+## Jane Street (10)
+- **2026-08-20** — [Network Engineer](https://www.janestreet.com/join-jane-street/position/8693539002/) — Singapore
 - **2026-08-13** — [Trading Desk Operations Engineer](https://www.janestreet.com/join-jane-street/position/8700980002/) — London
 - **2026-08-03** — [Hardware Engineer (FPGA/ASIC)](https://www.janestreet.com/join-jane-street/position/8651323002/) — London
 - **2026-08-03** — [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8651274002/) — London
@@ -78,15 +79,6 @@
 - **2026-08-07** — [Quantitative Developer Internship - 2027 [New York]](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) — New York
 - **2026-08-07** — [Quantitative Researcher Internship - 2027 [New York]](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) — New York
 
-## IMC Trading (7)
-- **2026-08-12** — [Quantitative Research Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101) — Hong Kong, Hong Kong
-- **2026-08-12** — [Quantitative Trader Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101) — Hong Kong, Hong Kong
-- **2026-08-12** — [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) — Hong Kong, Hong Kong
-- **2026-07-31** — [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) — Amsterdam, Netherlands
-- **2026-07-31** — [Macro Analyst Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941380101) — Amsterdam, Netherlands
-- **2026-07-31** — [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) — Amsterdam, Netherlands
-- **2026-07-31** — [Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4939846101) — Amsterdam, Netherlands
-
 ## DV Trading (5)
 - **2026-08-17** — [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) — New York
 - **2026-08-12** — [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) — London
@@ -101,15 +93,33 @@
 - **2026-08-03** — [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027941) — Singapore
 - **2026-08-03** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027952) — Singapore
 
+## Susquehanna International Group (4)
+- **2026-08-21** — [Quantitative Strategy Developer Internship: Summer 2027 (Dublin)](https://careers.sig.com/jobs/11332?lang=en-us) — Dublin, Ireland
+- **2026-08-21** — [Quantitative Strategy Developer Internship: Summer 2027 (London)](https://careers.sig.com/jobs/11333?lang=en-us) — London, United Kingdom
+- **2026-08-21** — [Trading Systems Engineering Internship: Summer 2027 (Dublin)](https://careers.sig.com/jobs/11335?lang=en-us) — Dublin, Ireland
+- **2026-08-21** — [Trading Systems Engineering Internship: Summer 2027 (London)](https://careers.sig.com/jobs/11334?lang=en-us) — London, United Kingdom
+
+## PIMCO (4)
+- **2026-08-20** — [2027 Summer Intern – Trading Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763) — Newport Beach, CA USA
+- **2026-08-18** — [2027 Summer Intern - Client Solutions & Analytics Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605) — Newport Beach, CA USA
+- **2026-08-18** — [2027 Summer Intern - Product Strategy Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626) — Newport Beach, CA USA
+- **2026-08-18** — [2027 Summer Intern - Technology Analyst, Software Engineering](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) — Austin, TX USA
+
+## Vanguard (4)
+- **2026-08-20** — [College to Corporate IT Internship - Data Science (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765) — Charlotte, NC
+- **2026-08-20** — [College to Corporate IT Internship - Data Science (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) — Malvern, PA
+- **2026-08-20** — [College to Corporate IT Internship - Risk & Security - Analyst  (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764) — Charlotte, NC
+- **2026-08-20** — [College to Corporate IT Internship - Risk & Security - Analyst  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_181762) — Malvern, PA
+
 ## Tower Research Capital (3)
 - **2026-08-20** — [Intern - AI/ML](https://www.tower-research.com/open-positions/?gh_jid=8143756) — gurgaon
 - **2026-08-18** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8138524) — Singapore
 - **2026-08-12** — [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986) — London
 
-## PIMCO (3)
-- **2026-08-18** — [2027 Summer Intern - Client Solutions & Analytics Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605) — Newport Beach, CA USA
-- **2026-08-18** — [2027 Summer Intern - Product Strategy Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626) — Newport Beach, CA USA
-- **2026-08-18** — [2027 Summer Intern - Technology Analyst, Software Engineering](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) — Austin, TX USA
+## IMC Trading (3)
+- **2026-08-12** — [Quantitative Research Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101) — Hong Kong, Hong Kong
+- **2026-08-12** — [Quantitative Trader Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101) — Hong Kong, Hong Kong
+- **2026-08-12** — [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) — Hong Kong, Hong Kong
 
 ## Belvedere Trading (3)
 - **2026-08-04** — [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) — Chicago, Illinois
@@ -136,14 +146,6 @@
 - **2026-08-07** — [Quantitative Developer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) — Boston
 - **2026-08-07** — [Quantitative Researcher Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) — Boston
 
-## Trillium (2)
-- **2026-08-07** — [IT Support Intern - Summer 2027](https://www.trlm.com/apply/5207070007?gh_jid=5207070007) — NYC
-- **2026-08-07** — [Software Engineer Intern - Summer 2027](https://www.trlm.com/apply/5207089007?gh_jid=5207089007) — NYC
-
-## Maven Securities (2)
-- **2026-08-05** — [Trader Summer Internship Chicago 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) — Chicago
-- **2026-07-31** — [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) — London
-
 ## Verition Fund Management (1)
 - **2026-08-19** — [2027 Technology Internship (US)](https://www.verition.com/open-positions?gh_jid=5214784007) — Chicago, Illinois, United States; Greenwich, Connecticut, United States; Houston, Texas, United States; Miami, Florida, United States; New York, NY, USA; Norwalk, CT
 
@@ -167,6 +169,12 @@
 
 ## RRS Group (1)
 - **2026-08-09** — [2027 Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209) — Remote
+
+## Trillium (1)
+- **2026-08-07** — [IT Support Intern - Summer 2027](https://www.trlm.com/apply/5207070007?gh_jid=5207070007) — NYC
+
+## Maven Securities (1)
+- **2026-08-05** — [Trader Summer Internship Chicago 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) — Chicago
 
 ## Flow Traders (1)
 - **2026-08-04** — [Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8102618) — Hong Kong

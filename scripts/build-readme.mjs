@@ -12,6 +12,7 @@ const newPath = path.join(repo, 'data/new_quant_roles_since_last_run.json');
 const recentPath = path.join(repo, 'data/new_roles_last_three_weeks.json');
 const scanPath = path.join(repo, 'reports/LATEST_QUANT_SCAN.md');
 const closedPath = path.join(repo, 'data/closed_roles_history.json');
+const cumulativePath = path.join(repo, 'data/cumulative_application_roles.json');
 
 let closedCount = 0;
 try {
@@ -63,6 +64,11 @@ let recentData = { since: '', until: '', count: 0, roles: [] };
 try {
   recentData = JSON.parse(fs.readFileSync(recentPath, 'utf8'));
 } catch {}
+
+let cumulativeData = null;
+try {
+  cumulativeData = JSON.parse(fs.readFileSync(cumulativePath, 'utf8'));
+} catch {}
 const recentRoles = recentData.roles || [];
 const undatedFirstSeen = recentData.undatedFirstSeen || [];
 
@@ -109,7 +115,10 @@ out += `Automated scan of quant, trading, research, strategy, and engineering in
 out += `**300+ firm universe**. `;
 out += `GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.\n\n`;
 out += `> **Last scan:** ${scanDate} &nbsp;•&nbsp; **${roles.length} open roles** &nbsp;•&nbsp; **${releasedToday.length} released today** &nbsp;•&nbsp; **${recentRoles.length} opened in 3 weeks**${closedCount ? ` &nbsp;•&nbsp; **${closedCount} closed** ([history](reports/closed_roles_history.md))` : ''}\n\n`;
-out += `**Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [🔥 Opened in the Last 3 Weeks](#-opened-in-the-last-3-weeks) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)\n\n`;
+if (cumulativeData) {
+  out += `> **Cumulative application queue:** [${cumulativeData.total} unique roles tracked; ${cumulativeData.active} active](reports/cumulative_application_roles.md)\n\n`;
+}
+out += `**Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [🔥 Opened in the Last 3 Weeks](#-opened-in-the-last-3-weeks) · [📚 Cumulative Application Queue](reports/cumulative_application_roles.md) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)\n\n`;
 out += `---\n\n`;
 
 // --- Section 1: New today ---
@@ -217,6 +226,7 @@ out += `- **[tools/](tools/)** — shared helper modules and optional discovery 
 out += `### Key Files\n\n`;
 out += `| File | What it is |\n|------|-----------|\n`;
 out += `| [reports/LATEST_QUANT_SCAN.md](reports/LATEST_QUANT_SCAN.md) | Latest scan summary + newest roles |\n`;
+out += `| [reports/cumulative_application_roles.md](reports/cumulative_application_roles.md) | Persistent application queue; roles remain when they age out of the rolling window |\n`;
 out += `| [reports/new_quant_roles_since_last_run.md](reports/new_quant_roles_since_last_run.md) | New stable job URLs, grouped by region |\n`;
 out += `| [reports/new_roles_last_three_weeks.md](reports/new_roles_last_three_weeks.md) | Currently open roles released in the rolling 21-day window, with confirmed source dates |\n`;
 out += `| [reports/quant_internship_roles_scan_v2.md](reports/quant_internship_roles_scan_v2.md) | Full current role list (detailed) |\n`;

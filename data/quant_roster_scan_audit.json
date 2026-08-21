@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T14:38:19.546Z",
-  "scanStartedAt": "2026-08-20T14:28:37.460Z",
+  "generatedAt": "2026-08-21T17:40:17.271Z",
+  "scanStartedAt": "2026-08-21T17:36:26.218Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -100,7 +100,7 @@
       "careerPages": [
         "https://www.arfima.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -283,9 +283,9 @@
         "https://www.aqr.com/Our-Firm/Careers",
         "https://job-boards.greenhouse.io/aqr"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 47,
+      "jobsSeen": 48,
       "relevantInternships": 8
     },
     {
@@ -540,7 +540,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 24,
+      "jobsSeen": 23,
       "relevantInternships": 3
     },
     {
@@ -719,7 +719,7 @@
         "https://www.citadelsecurities.com/careers/open-opportunities/",
         "https://www.citadelsecurities.com/careers/students/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 4,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 182,
+      "jobsSeen": 181,
       "relevantInternships": 18
     },
     {
@@ -856,7 +856,7 @@
       "careerPages": [
         "https://www.arrowstreetcapital.com/professional-careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -946,7 +946,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 12,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -972,7 +972,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 28,
+      "jobsSeen": 27,
       "relevantInternships": 0
     },
     {
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 228,
+      "jobsSeen": 230,
       "relevantInternships": 9
     },
     {
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 234,
+      "jobsSeen": 233,
       "relevantInternships": 0
     },
     {
@@ -1380,7 +1380,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 18,
+      "jobsSeen": 19,
       "relevantInternships": 0
     },
     {
@@ -1392,7 +1392,7 @@
       "careerPages": [
         "https://www.enigmaquant.com/#careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1434,7 +1434,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 44,
+      "jobsSeen": 47,
       "relevantInternships": 2
     },
     {
@@ -1462,7 +1462,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 6,
+      "jobsSeen": 5,
       "relevantInternships": 0
     },
     {
@@ -1673,9 +1673,12 @@
         "Entropy Trading Group"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.entropy-trading.com/careers",
+        "https://www.rocketpunch.com/en/companies/entropy-trading-group/recruit"
+      ],
+      "livePages": 1,
+      "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2033,7 +2036,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -2078,7 +2081,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 33,
+      "jobsSeen": 34,
       "relevantInternships": 0
     },
     {
@@ -2090,7 +2093,7 @@
       "careerPages": [
         "https://www.high-flyer.cn/en/join"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2228,7 +2231,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 38,
+      "jobsSeen": 39,
       "relevantInternships": 2
     },
     {
@@ -2254,7 +2257,7 @@
       "careerPages": [
         "https://join.mhfunds.com"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2355,7 +2358,7 @@
         "https://pdtpartners.com/careers",
         "https://job-boards.greenhouse.io/pdtpartners"
       ],
-      "livePages": 3,
+      "livePages": 4,
       "attemptedPages": 5,
       "jobsSeen": 10,
       "relevantInternships": 2
@@ -2506,7 +2509,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -2895,7 +2898,7 @@
       "careerPages": [
         "https://www.nmftrading.com/careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3005,7 +3008,7 @@
       "careerPages": [
         "https://www.quantlab.com/careers?nl=1&p=jobs"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3385,7 +3388,7 @@
       "careerPages": [
         "https://sevenpointscapital.pinpointhq.com/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3705,8 +3708,8 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 11,
-      "relevantInternships": 5
+      "jobsSeen": 10,
+      "relevantInternships": 4
     },
     {
       "company": "UTR8 Group",
@@ -3759,7 +3762,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 32,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -3815,7 +3818,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
+      "jobsSeen": 9,
       "relevantInternships": 1
     },
     {
@@ -3883,7 +3886,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 85,
+      "jobsSeen": 86,
       "relevantInternships": 8
     },
     {
@@ -3926,7 +3929,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 47,
+      "jobsSeen": 46,
       "relevantInternships": 14
     },
     {
@@ -4074,7 +4077,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 55,
+      "jobsSeen": 56,
       "relevantInternships": 0
     },
     {
@@ -4118,7 +4121,7 @@
         "https://www.ubs.com/global/en/careers/early-careers.html",
         "https://www.ubs.com/global/en/careers/early-careers/faq.html"
       ],
-      "livePages": 4,
+      "livePages": 5,
       "attemptedPages": 5,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4197,7 +4200,7 @@
       "careerPages": [
         "https://wintermute.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
