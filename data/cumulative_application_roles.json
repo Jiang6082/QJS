@@ -1,12 +1,25 @@
 {
-  "generatedAt": "2026-08-21T17:46:06.652Z",
-  "currentScanAt": "2026-08-21T17:36:26.218Z",
-  "total": 149,
-  "active": 144,
+  "generatedAt": "2026-08-22T21:09:11.077Z",
+  "currentScanAt": "2026-08-22T21:04:47.820Z",
+  "total": 151,
+  "active": 146,
   "notDetected": 5,
-  "newSincePreviousScan": 10,
+  "newSincePreviousScan": 2,
   "manuallyRecovered": 5,
   "roles": [
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Global Wealth Management, Strategic Accounts Analyst, US",
+      "Location": "2 Locations",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "release_date": "2026-08-21",
+      "first_seen": "2026-08-22",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
     {
       "Company": "Susquehanna International Group",
       "Title": "Quantitative Strategy Developer Internship: Summer 2027 (Dublin)",
@@ -60,6 +73,19 @@
       "status": "active"
     },
     {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship - Technology Operations (PA)",
+      "Location": "Malvern, PA",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "release_date": "2026-08-21",
+      "first_seen": "2026-08-22",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
       "Company": "Jane Street",
       "Title": "Network Engineer",
       "Location": "Singapore",
@@ -95,7 +121,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-21",
+      "verifiedAt": "2026-08-22",
       "status": "active"
     },
     {
@@ -1837,7 +1863,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-21",
+      "verifiedAt": "2026-08-22",
       "status": "active"
     },
     {
@@ -1850,7 +1876,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-21",
+      "verifiedAt": "2026-08-22",
       "status": "active"
     },
     {
@@ -1863,7 +1889,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-21",
+      "verifiedAt": "2026-08-22",
       "status": "active"
     },
     {
@@ -1876,7 +1902,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-21",
+      "verifiedAt": "2026-08-22",
       "status": "active"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-08-21T17:36:26.218Z",
+  "searchedAt": "2026-08-22T21:04:47.820Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -641,7 +641,7 @@
       "boards": [
         {
           "source": "Greenhouse:drweng",
-          "jobsSeen": 164,
+          "jobsSeen": 165,
           "relevantInternships": 18
         },
         {
@@ -650,7 +650,7 @@
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 181,
+      "jobsSeen": 182,
       "relevantInternships": 18
     },
     {
@@ -725,7 +725,7 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "jobsSeen": 68,
+          "jobsSeen": 69,
           "relevantInternships": 3
         },
         {
@@ -734,7 +734,7 @@
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 71,
+      "jobsSeen": 72,
       "relevantInternships": 3
     },
     {
@@ -756,11 +756,11 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "jobsSeen": 68,
+          "jobsSeen": 69,
           "relevantInternships": 3
         }
       ],
-      "jobsSeen": 68,
+      "jobsSeen": 69,
       "relevantInternships": 3
     },
     {
@@ -1734,8 +1734,8 @@
       "company": "ExodusPoint",
       "pageUrl": "https://job-boards.greenhouse.io/exoduspoint",
       "resolvedUrl": "https://job-boards.greenhouse.io/exoduspoint",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [
           "exoduspoint"
@@ -1868,8 +1868,8 @@
       "company": "Gelber Group",
       "pageUrl": "https://job-boards.greenhouse.io/gelbergroup",
       "resolvedUrl": "https://job-boards.greenhouse.io/gelbergroup",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [
           "gelbergroup"
@@ -2170,9 +2170,9 @@
     {
       "company": "IMC Trading",
       "pageUrl": "https://job-boards.greenhouse.io/imc/jobs/4597351101",
-      "resolvedUrl": "https://job-boards.greenhouse.io/imc/jobs/4597351101",
-      "pageOk": false,
-      "pageStatus": 0,
+      "resolvedUrl": "https://job-boards.greenhouse.io/imc?error=true",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
           "imc"
@@ -2875,8 +2875,8 @@
       "company": "PDT Partners",
       "pageUrl": "https://job-boards.greenhouse.io/pdtpartners?error=true",
       "resolvedUrl": "https://job-boards.greenhouse.io/pdtpartners?error=true",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [
           "pdtpartners"
@@ -3715,11 +3715,11 @@
       "boards": [
         {
           "source": "Greenhouse:veritiongroupllc",
-          "jobsSeen": 31,
+          "jobsSeen": 29,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 31,
+      "jobsSeen": 29,
       "relevantInternships": 1
     },
     {
@@ -3793,11 +3793,11 @@
       "boards": [
         {
           "source": "Ashby:voleon",
-          "jobsSeen": 56,
+          "jobsSeen": 57,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 56,
+      "jobsSeen": 57,
       "relevantInternships": 0
     },
     {
@@ -3863,11 +3863,11 @@
       "boards": [
         {
           "source": "Ashby:voleon",
-          "jobsSeen": 56,
+          "jobsSeen": 57,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 56,
+      "jobsSeen": 57,
       "relevantInternships": 0
     },
     {
@@ -4866,11 +4866,11 @@
       "boards": [
         {
           "source": "Greenhouse:aqr",
-          "jobsSeen": 48,
+          "jobsSeen": 47,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 48,
+      "jobsSeen": 47,
       "relevantInternships": 8
     },
     {
@@ -4910,11 +4910,11 @@
       "boards": [
         {
           "source": "Greenhouse:aqr",
-          "jobsSeen": 48,
+          "jobsSeen": 47,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 48,
+      "jobsSeen": 47,
       "relevantInternships": 8
     },
     {
@@ -5115,8 +5115,8 @@
       "company": "Ares Management",
       "pageUrl": "https://www.arescorporation.com/open-jobs/",
       "resolvedUrl": "https://www.arescorporation.com/open-jobs/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -5356,11 +5356,11 @@
       "boards": [
         {
           "source": "Workday:blackrock/BlackRock_Professional",
-          "jobsSeen": 303,
+          "jobsSeen": 306,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 303,
+      "jobsSeen": 306,
       "relevantInternships": 0
     },
     {
@@ -5538,11 +5538,11 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1017,
+          "jobsSeen": 987,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 1017,
+      "jobsSeen": 987,
       "relevantInternships": 8
     },
     {
@@ -5568,11 +5568,11 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1017,
+          "jobsSeen": 987,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 1017,
+      "jobsSeen": 987,
       "relevantInternships": 8
     },
     {
@@ -5598,11 +5598,11 @@
       "boards": [
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
-          "jobsSeen": 1017,
+          "jobsSeen": 987,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 1017,
+      "jobsSeen": 987,
       "relevantInternships": 8
     },
     {
@@ -5888,11 +5888,11 @@
       "boards": [
         {
           "source": "Greenhouse:cclfg",
-          "jobsSeen": 72,
+          "jobsSeen": 74,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 72,
+      "jobsSeen": 74,
       "relevantInternships": 0
     },
     {
@@ -6386,11 +6386,11 @@
       "boards": [
         {
           "source": "Workday:invesco/IVZ",
-          "jobsSeen": 258,
+          "jobsSeen": 257,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 258,
+      "jobsSeen": 257,
       "relevantInternships": 1
     },
     {
@@ -6420,11 +6420,11 @@
       "boards": [
         {
           "source": "Workday:invesco/IVZ",
-          "jobsSeen": 258,
+          "jobsSeen": 257,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 258,
+      "jobsSeen": 257,
       "relevantInternships": 1
     },
     {
@@ -6450,11 +6450,11 @@
       "boards": [
         {
           "source": "Workday:invesco/IVZ",
-          "jobsSeen": 258,
+          "jobsSeen": 257,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 258,
+      "jobsSeen": 257,
       "relevantInternships": 1
     },
     {
@@ -6654,11 +6654,11 @@
       "boards": [
         {
           "source": "Workday:mq/CareersatMQ",
-          "jobsSeen": 31,
+          "jobsSeen": 30,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 31,
+      "jobsSeen": 30,
       "relevantInternships": 0
     },
     {
@@ -6808,7 +6808,7 @@
       "pageUrl": "https://www.northerntrust.com/united-states/careers",
       "resolvedUrl": "https://www.northerntrust.com/united-states/careers",
       "pageOk": false,
-      "pageStatus": 404,
+      "pageStatus": 503,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -6874,11 +6874,11 @@
       "boards": [
         {
           "source": "Workday:franklintempleton/Jobs-WAM",
-          "jobsSeen": 0,
+          "jobsSeen": 1,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 0,
+      "jobsSeen": 1,
       "relevantInternships": 0
     },
     {
@@ -7030,11 +7030,11 @@
         {
           "source": "Workday:pimco/pimco-careers",
           "jobsSeen": 40,
-          "relevantInternships": 4
+          "relevantInternships": 5
         }
       ],
       "jobsSeen": 40,
-      "relevantInternships": 4
+      "relevantInternships": 5
     },
     {
       "company": "PIMCO",
@@ -7060,11 +7060,11 @@
         {
           "source": "Workday:pimco/pimco-careers",
           "jobsSeen": 40,
-          "relevantInternships": 4
+          "relevantInternships": 5
         }
       ],
       "jobsSeen": 40,
-      "relevantInternships": 4
+      "relevantInternships": 5
     },
     {
       "company": "PIMCO",
@@ -7090,11 +7090,11 @@
         {
           "source": "Workday:pimco/pimco-careers",
           "jobsSeen": 40,
-          "relevantInternships": 4
+          "relevantInternships": 5
         }
       ],
       "jobsSeen": 40,
-      "relevantInternships": 4
+      "relevantInternships": 5
     },
     {
       "company": "Putnam Investments",
@@ -7528,11 +7528,11 @@
         {
           "source": "Workday:vanguard/vanguard_external",
           "jobsSeen": 40,
-          "relevantInternships": 4
+          "relevantInternships": 5
         }
       ],
       "jobsSeen": 40,
-      "relevantInternships": 4
+      "relevantInternships": 5
     },
     {
       "company": "Vanguard",
@@ -7594,11 +7594,11 @@
         {
           "source": "Workday:vanguard/vanguard_external",
           "jobsSeen": 40,
-          "relevantInternships": 4
+          "relevantInternships": 5
         }
       ],
       "jobsSeen": 40,
-      "relevantInternships": 4
+      "relevantInternships": 5
     },
     {
       "company": "Wellington Management",
@@ -8968,9 +8968,9 @@
     {
       "company": "Enigma Quant Capital",
       "pageUrl": "https://www.enigmaquant.com/#careers",
-      "resolvedUrl": "https://www.enigmaquant.com/#careers",
-      "pageOk": false,
-      "pageStatus": 0,
+      "resolvedUrl": "https://www.enigmaquant.com/",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -11135,19 +11135,19 @@
       "boards": [
         {
           "source": "Greenhouse:twosixtechnologies",
-          "jobsSeen": 61,
+          "jobsSeen": 63,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 61,
+      "jobsSeen": 63,
       "relevantInternships": 0
     },
     {
       "company": "TCI Fund Management",
       "pageUrl": "https://boards.greenhouse.io/tekion/jobs/6263631003",
-      "resolvedUrl": "https://job-boards.greenhouse.io/tekion?error=true",
+      "resolvedUrl": "https://boards.greenhouse.io/tekion/jobs/6263631003",
       "pageOk": false,
-      "pageStatus": 404,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [
           "tekion"

@@ -1,28 +1,109 @@
 {
-  "generatedAt": "2026-08-21T17:40:17.374Z",
-  "previousScanAt": "2026-08-20T14:28:37.460Z",
-  "currentScanAt": "2026-08-21T17:36:26.218Z",
-  "previousRows": 395,
-  "currentRows": 404,
+  "generatedAt": "2026-08-22T21:08:50.647Z",
+  "previousScanAt": "2026-08-21T17:36:26.218Z",
+  "currentScanAt": "2026-08-22T21:04:47.820Z",
+  "previousRows": 404,
+  "currentRows": 406,
   "added": [
     {
-      "Company": "Tower Research Capital",
-      "Title": "Intern - AI/ML",
-      "Location": "gurgaon",
+      "Company": "Jane Street",
+      "Title": "Network Engineer",
+      "Location": "Singapore",
+      "Region": "Asia",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8693539002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern – Trading Analyst, US",
+      "Location": "Newport Beach, CA USA",
+      "Region": "North America",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Quantitative Strategy Developer Internship: Summer 2027 (Dublin)",
+      "Location": "Dublin, Ireland",
+      "Region": "Europe",
+      "URL": "https://careers.sig.com/jobs/11332?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Quantitative Strategy Developer Internship: Summer 2027 (London)",
+      "Location": "London, United Kingdom",
+      "Region": "Europe",
+      "URL": "https://careers.sig.com/jobs/11333?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Trading Systems Engineering Internship: Summer 2027 (Dublin)",
+      "Location": "Dublin, Ireland",
+      "Region": "Europe",
+      "URL": "https://careers.sig.com/jobs/11335?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Trading Systems Engineering Internship: Summer 2027 (London)",
+      "Location": "London, United Kingdom",
+      "Region": "Europe",
+      "URL": "https://careers.sig.com/jobs/11334?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship - Data Science (NC)",
+      "Location": "Charlotte, NC",
       "Region": "Remote / Unspecified",
-      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8143756",
-      "Source": "Career page Greenhouse:towerresearchcapital",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship - Data Science (PA)",
+      "Location": "Malvern, PA",
+      "Region": "North America",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship - Risk & Security - Analyst  (NC)",
+      "Location": "Charlotte, NC",
+      "Region": "Remote / Unspecified",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship - Risk & Security - Analyst  (PA)",
+      "Location": "Malvern, PA",
+      "Region": "North America",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_181762",
+      "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting"
     }
   ],
   "removed": [
     {
-      "Company": "AlphaGrep",
-      "Title": "Quantitative Developer Intern",
-      "Location": "Mumbai",
-      "Region": "Asia",
-      "URL": "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002",
-      "Source": "Career page Greenhouse:alphagrepsecurities",
+      "Company": "Trillium",
+      "Title": "Software Engineer Intern - Summer 2027",
+      "Location": "NYC",
+      "Region": "North America",
+      "URL": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007",
+      "Source": "Career page Greenhouse:trillium",
       "Status": "Confirmed official posting"
     }
   ]

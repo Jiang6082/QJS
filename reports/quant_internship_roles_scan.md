@@ -1,6 +1,6 @@
 # Quant Internship Open Roles Scan
 
-Scanned: 2026-08-21T17:36:09.635Z
+Scanned: 2026-08-22T21:04:23.586Z
 Companies deduplicated: 174
 Open relevant roles found: 190
 
@@ -201,9 +201,9 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 
 ## Companies With No Matching Internship Found In Checked ATS Boards
 
-- **Jane Street** — checked Greenhouse:janestreet (233); Ashby:jane (25)
+- **Jane Street** — checked Greenhouse:janestreet (233); Ashby:jane (26)
 - **DRW** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **HRT** — checked Greenhouse:wehrtyou (68); Ashby:hrt (0)
+- **HRT** — checked Greenhouse:wehrtyou (69); Ashby:hrt (0)
 - **Arrowstreet** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **3red Partners** — checked Greenhouse:3redpartners (8)
 - **A Priori** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -218,7 +218,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Balyasny Asset Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Banyan Alpha Investment** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Bluefin Capital Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Blueshift Asset Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
+- **Blueshift Asset Management** — checked Greenhouse:blueshift (1)
 - **Boerboel Trading** — checked Greenhouse:boerboeltrading (3)
 - **Boulder Hill Capital Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Brevan Howard** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -271,8 +271,8 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Laurion Capital Management** — checked Greenhouse:laurioncapitalmanagement (0)
 - **Lord Abbett** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Lynx Asset Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Mako** — checked Greenhouse:mako (8)
-- **Man Group** — checked Greenhouse:mangroup (53)
+- **Mako** — no public Greenhouse/Lever/Ashby board discovered by slug scan
+- **Man Group** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Mana Partners** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Marquette Partners** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Marshall Wace** — checked Greenhouse:marshallwace (0)
@@ -320,7 +320,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Vector Trading** — checked Ashby:vector (7)
 - **Verition Fund Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Volant Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Voleon Group** — checked Lever:voleon (0); Ashby:voleon (56)
+- **Voleon Group** — checked Lever:voleon (0); Ashby:voleon (57)
 - **Weiss Asset Management** — checked Greenhouse:weissassetmanagement (2)
 - **Musket** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **BP** — no public Greenhouse/Lever/Ashby board discovered by slug scan

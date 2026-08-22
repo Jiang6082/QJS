@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 51
-Last updated: 2026-08-21T17:36:26.218Z
+Total closures recorded: 52
+Last updated: 2026-08-22T21:04:47.820Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-08-22 (1)
+
+- **Trillium** - [Software Engineer Intern - Summer 2027](https://www.trlm.com/apply/5207089007?gh_jid=5207089007) - NYC
 
 ### 2026-08-21 (1)
 

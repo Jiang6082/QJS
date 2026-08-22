@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T17:40:17.271Z",
-  "scanStartedAt": "2026-08-21T17:36:26.218Z",
+  "generatedAt": "2026-08-22T21:08:50.513Z",
+  "scanStartedAt": "2026-08-22T21:04:47.820Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 48,
+      "jobsSeen": 47,
       "relevantInternships": 8
     },
     {
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 181,
+      "jobsSeen": 182,
       "relevantInternships": 18
     },
     {
@@ -1122,7 +1122,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/exoduspoint"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 2,
       "relevantInternships": 0
@@ -1240,7 +1240,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 71,
+      "jobsSeen": 72,
       "relevantInternships": 3
     },
     {
@@ -1392,7 +1392,7 @@
       "careerPages": [
         "https://www.enigmaquant.com/#careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1746,7 +1746,7 @@
         "https://www.gelbergroup.com/careers/",
         "https://job-boards.greenhouse.io/gelbergroup"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 18,
       "relevantInternships": 0
@@ -2109,7 +2109,7 @@
         "https://www.imc.com/us/careers/",
         "https://www.imc.com/ap/careers/"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 166,
       "relevantInternships": 15
@@ -2358,7 +2358,7 @@
         "https://pdtpartners.com/careers",
         "https://job-boards.greenhouse.io/pdtpartners"
       ],
-      "livePages": 4,
+      "livePages": 3,
       "attemptedPages": 5,
       "jobsSeen": 10,
       "relevantInternships": 2
@@ -3647,7 +3647,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 61,
+      "jobsSeen": 63,
       "relevantInternships": 0
     },
     {
@@ -3945,7 +3945,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 31,
+      "jobsSeen": 29,
       "relevantInternships": 1
     },
     {
@@ -4077,7 +4077,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 56,
+      "jobsSeen": 57,
       "relevantInternships": 0
     },
     {

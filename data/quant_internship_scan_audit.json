@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-21T17:36:09.635Z",
+  "scannedAt": "2026-08-22T21:04:23.586Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -186,10 +186,10 @@
         },
         {
           "source": "Ashby:jane",
-          "count": 25
+          "count": 26
         }
       ],
-      "jobsSeen": 258,
+      "jobsSeen": 259,
       "relevantInternships": 0
     },
     {
@@ -224,14 +224,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 68
+          "count": 69
         },
         {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 68,
+      "jobsSeen": 69,
       "relevantInternships": 2
     },
     {
@@ -273,10 +273,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:akunacapital",
-          "count": 34
+          "count": 33
         }
       ],
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantInternships": 8
     },
     {
@@ -395,8 +395,13 @@
     },
     {
       "company": "Blueshift Asset Management",
-      "resolvedBoards": [],
-      "jobsSeen": 0,
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:blueshift",
+          "count": 1
+        }
+      ],
+      "jobsSeen": 1,
       "relevantInternships": 0
     },
     {
@@ -790,14 +795,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 68
+          "count": 69
         },
         {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 68,
+      "jobsSeen": 69,
       "relevantInternships": 2
     },
     {
@@ -887,24 +892,14 @@
     },
     {
       "company": "Mako",
-      "resolvedBoards": [
-        {
-          "source": "Greenhouse:mako",
-          "count": 8
-        }
-      ],
-      "jobsSeen": 8,
+      "resolvedBoards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
       "company": "Man Group",
-      "resolvedBoards": [
-        {
-          "source": "Greenhouse:mangroup",
-          "count": 53
-        }
-      ],
-      "jobsSeen": 53,
+      "resolvedBoards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -1390,10 +1385,10 @@
         },
         {
           "source": "Ashby:voleon",
-          "count": 56
+          "count": 57
         }
       ],
-      "jobsSeen": 56,
+      "jobsSeen": 57,
       "relevantInternships": 0
     },
     {
@@ -1577,10 +1572,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:confidentialsportstradingfirm",
-          "count": 9
+          "count": 8
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantInternships": 2
     },
     {

@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-21T17:36:09.635Z",
+  "scannedAt": "2026-08-22T21:04:23.586Z",
   "results": [
     {
       "company": "Jane Street",
@@ -10,7 +10,7 @@
         },
         {
           "source": "Ashby:jane",
-          "count": 25
+          "count": 26
         }
       ],
       "matches": []
@@ -108,7 +108,7 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 68
+          "count": 69
         },
         {
           "source": "Ashby:hrt",
@@ -190,7 +190,7 @@
       "boards": [
         {
           "source": "Greenhouse:akunacapital",
-          "count": 34
+          "count": 33
         }
       ],
       "matches": [
@@ -445,7 +445,12 @@
     },
     {
       "company": "Blueshift Asset Management",
-      "boards": [],
+      "boards": [
+        {
+          "source": "Greenhouse:blueshift",
+          "count": 1
+        }
+      ],
       "matches": []
     },
     {
@@ -894,7 +899,7 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 68
+          "count": 69
         },
         {
           "source": "Ashby:hrt",
@@ -1360,22 +1365,12 @@
     },
     {
       "company": "Mako",
-      "boards": [
-        {
-          "source": "Greenhouse:mako",
-          "count": 8
-        }
-      ],
+      "boards": [],
       "matches": []
     },
     {
       "company": "Man Group",
-      "boards": [
-        {
-          "source": "Greenhouse:mangroup",
-          "count": 53
-        }
-      ],
+      "boards": [],
       "matches": []
     },
     {
@@ -2426,7 +2421,7 @@
         },
         {
           "source": "Ashby:voleon",
-          "count": 56
+          "count": 57
         }
       ],
       "matches": []
@@ -2730,7 +2725,7 @@
       "boards": [
         {
           "source": "Greenhouse:confidentialsportstradingfirm",
-          "count": 9
+          "count": 8
         }
       ],
       "matches": [
