@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-22T21:08:50.513Z",
-  "scanStartedAt": "2026-08-22T21:04:47.820Z",
+  "generatedAt": "2026-08-24T15:42:56.692Z",
+  "scanStartedAt": "2026-08-24T15:38:46.057Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 43,
+    "matching-role-found": 44,
     "confirmed-no-open-postings": 2,
     "confirmed-openings-no-matching-role": 50,
-    "could-not-fully-verify": 209
+    "could-not-fully-verify": 208
   },
   "companies": [
     {
@@ -427,7 +427,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 16,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -540,7 +540,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 23,
+      "jobsSeen": 22,
       "relevantInternships": 3
     },
     {
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 182,
+      "jobsSeen": 181,
       "relevantInternships": 18
     },
     {
@@ -873,7 +873,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 3,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 230,
+      "jobsSeen": 232,
       "relevantInternships": 9
     },
     {
@@ -1122,7 +1122,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/exoduspoint"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 2,
       "relevantInternships": 0
@@ -1240,7 +1240,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 72,
+      "jobsSeen": 71,
       "relevantInternships": 3
     },
     {
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 233,
+      "jobsSeen": 230,
       "relevantInternships": 0
     },
     {
@@ -1434,7 +1434,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 47,
+      "jobsSeen": 46,
       "relevantInternships": 2
     },
     {
@@ -1746,7 +1746,7 @@
         "https://www.gelbergroup.com/careers/",
         "https://job-boards.greenhouse.io/gelbergroup"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 18,
       "relevantInternships": 0
@@ -2003,13 +2003,13 @@
       "sourceRosterNames": [
         "Freepoint Commodities"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.freepoint.com/life-at-freepoint/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 1,
       "relevantInternships": 0
     },
     {
@@ -2081,7 +2081,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -2358,7 +2358,7 @@
         "https://pdtpartners.com/careers",
         "https://job-boards.greenhouse.io/pdtpartners"
       ],
-      "livePages": 3,
+      "livePages": 4,
       "attemptedPages": 5,
       "jobsSeen": 10,
       "relevantInternships": 2
@@ -2705,7 +2705,7 @@
       "sourceRosterNames": [
         "Qube Research & Technologies"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.qube-rt.com/careers/"
       ],
@@ -3008,7 +3008,7 @@
       "careerPages": [
         "https://www.quantlab.com/careers?nl=1&p=jobs"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3130,7 +3130,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3647,7 +3647,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 63,
+      "jobsSeen": 62,
       "relevantInternships": 0
     },
     {
@@ -3708,7 +3708,7 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 10,
+      "jobsSeen": 11,
       "relevantInternships": 4
     },
     {
@@ -3945,7 +3945,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 29,
+      "jobsSeen": 31,
       "relevantInternships": 1
     },
     {
@@ -4103,7 +4103,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/transmarketgroup"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 18,
       "relevantInternships": 4

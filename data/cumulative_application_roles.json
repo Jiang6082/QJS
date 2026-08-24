@@ -1,12 +1,51 @@
 {
-  "generatedAt": "2026-08-22T21:09:11.077Z",
-  "currentScanAt": "2026-08-22T21:04:47.820Z",
-  "total": 151,
-  "active": 146,
+  "generatedAt": "2026-08-24T15:43:20.460Z",
+  "currentScanAt": "2026-08-24T15:38:46.057Z",
+  "total": 154,
+  "active": 149,
   "notDetected": 5,
-  "newSincePreviousScan": 2,
+  "newSincePreviousScan": 3,
   "manuallyRecovered": 5,
   "roles": [
+    {
+      "Company": "Jump Trading",
+      "Title": "Campus Quantitative Researcher (Intern)",
+      "Location": "Hong Kong, Shanghai",
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
+      "Source": "Greenhouse:jumptrading",
+      "release_date": "2026-08-24",
+      "first_seen": "2026-08-24",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Jump Trading",
+      "Title": "Campus Quantitative Trader (Intern)",
+      "Location": "Hong Kong, Shanghai",
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
+      "Source": "Greenhouse:jumptrading",
+      "release_date": "2026-08-24",
+      "first_seen": "2026-08-24",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Qube Research & Technologies",
+      "Title": "2027 Internship/Graduate - Quantitative Research/Trading",
+      "Location": "Hong Kong, Singapore, Shanghai, Beijing",
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002",
+      "Source": "Greenhouse:quberesearchandtechnologies",
+      "release_date": "2026-08-24",
+      "first_seen": "2026-08-24",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
     {
       "Company": "PIMCO",
       "Title": "2027 Summer Intern - Global Wealth Management, Strategic Accounts Analyst, US",
@@ -121,7 +160,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-22",
+      "verifiedAt": "2026-08-24",
       "status": "active"
     },
     {
@@ -1863,7 +1902,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-22",
+      "verifiedAt": "2026-08-24",
       "status": "active"
     },
     {
@@ -1876,7 +1915,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-22",
+      "verifiedAt": "2026-08-24",
       "status": "active"
     },
     {
@@ -1889,7 +1928,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-22",
+      "verifiedAt": "2026-08-24",
       "status": "active"
     },
     {
@@ -1902,7 +1941,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-22",
+      "verifiedAt": "2026-08-24",
       "status": "active"
     },
     {
