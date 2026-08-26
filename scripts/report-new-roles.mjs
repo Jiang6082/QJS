@@ -10,13 +10,12 @@
 import fs from "node:fs";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
+import { calendarDate, shiftCalendarDate } from "./calendar-date.mjs";
 
 const arg = (k, d) => { const m = process.argv.find((a) => a.startsWith(`--${k}=`)); return m ? m.split("=")[1] : d; };
 const days = Number(arg("days", "1"));
-const defaultSinceDate = new Date();
-defaultSinceDate.setUTCDate(defaultSinceDate.getUTCDate() - Math.max(0, days - 1));
-const since = arg("since", defaultSinceDate.toISOString().slice(0, 10));
-const until = arg("until", new Date().toISOString().slice(0, 10));
+const until = arg("until", calendarDate());
+const since = arg("since", shiftCalendarDate(until, -Math.max(0, days - 1)));
 const shouldWrite = process.argv.includes("--write");
 const scope = arg("scope", "all");
 const markdownPath = arg("markdown", "reports/new_roles_last_three_weeks.md");
@@ -41,13 +40,17 @@ for (const f of files) {
       Company: r.Company || r.company, Title: r.Title || r.title,
       Location: r.Location || r.location, Region: r.Region || r.region || "",
       URL: (r.URL || r.url || "").trim(), Source: r.Source || r.source || "",
-      Notes: r.Notes || r.notes || "", scanAt,
+      Status: r.Status || r.status || "", Notes: r.Notes || r.notes || "", scanAt,
     }));
   } catch { /* output missing — skip */ }
 }
+function isAggregatorLead(row) {
+  return /aggregator|web-discovered/i.test(`${row.Status || ""} ${row.Source || ""}`)
+    || /(?:glassdoor\.com|extern\.com)/i.test(row.URL || "");
+}
 const byUrl = new Map();
 for (const r of rows) if (r.URL && !byUrl.has(r.URL)) byUrl.set(r.URL, r);
-const uniq = [...byUrl.values()];
+const uniq = [...byUrl.values()].filter((row) => !isAggregatorLead(row));
 
 async function jget(url, opts) { try { const c = new AbortController(); const t = setTimeout(() => c.abort(), 15000); const r = await fetch(url, { signal: c.signal, headers: { "user-agent": "Mozilla/5.0" }, ...opts }); clearTimeout(t); return r.ok ? await r.json() : null; } catch { return null; } }
 const idOf = (u) => { const m = (u || "").match(/(\d{5,})/g); return m ? m[m.length - 1] : null; };
@@ -91,11 +94,10 @@ function relativePostedDate(notes, scanAtIso) {
   if (!notes || !scanAtIso) return null;
   const m = notes.match(/Posted\s+(Today|Yesterday|(\d+)\+?\s+Days?\s+Ago)/i);
   if (!m) return null;
-  const base = new Date(scanAtIso);
-  if (Number.isNaN(base.getTime())) return null;
+  const base = calendarDate(scanAtIso);
+  if (!base) return null;
   const daysAgo = /Today/i.test(m[1]) ? 0 : /Yesterday/i.test(m[1]) ? 1 : Number(m[2]);
-  base.setUTCDate(base.getUTCDate() - daysAgo);
-  return base.toISOString();
+  return `${shiftCalendarDate(base, -daysAgo)}T00:00:00.000Z`;
 }
 
 // Relative labels can remain stuck on "Posted Today" across repeated scans.
@@ -160,10 +162,10 @@ function gitFirstSeenByUrl() {
       try {
         snapshot = JSON.parse(execFileSync("git", ["show", `${commit}:${rawPath}`], { encoding: "utf8", maxBuffer: 20 * 1024 * 1024 }));
       } catch { continue; }
-      const day = String(snapshot.searchedAt || "").slice(0, 10);
+      const day = calendarDate(snapshot.searchedAt);
       for (const row of snapshot.rows || []) if (row.URL && !firstSeen.has(row.URL)) firstSeen.set(row.URL, day);
     }
-    for (const r of uniq) if (r.URL && !firstSeen.has(r.URL) && r.scanAt) firstSeen.set(r.URL, String(r.scanAt).slice(0, 10));
+    for (const r of uniq) if (r.URL && !firstSeen.has(r.URL) && r.scanAt) firstSeen.set(r.URL, calendarDate(r.scanAt));
   } catch { /* git history unavailable — do not guess */ }
   return firstSeen;
 }

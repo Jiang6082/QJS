@@ -1,17 +1,17 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-08-22T21:04:47.820Z
-Current scan: 2026-08-24T15:38:46.057Z
-Previous rows: 406
-Current rows: 405
-New stable job URLs: 2
+Previous scan: 2026-08-24T15:38:46.057Z
+Current scan: 2026-08-26T00:43:13.915Z
+Previous rows: 405
+Current rows: 425
+New stable job URLs: 0
 No longer present: 0
 
 ## New Roles By Region
 
-### North America (1)
+### North America (0)
 
-- **Vanguard** - [College to Corporate IT Internship - Technology Operations (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788) - Malvern, PA - Confirmed official posting (Career page Workday:vanguard/vanguard_external)
+_None._
 
 ### Europe (0)
 
@@ -41,9 +41,9 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **PIMCO** - [2027 Summer Intern - Global Wealth Management, Strategic Accounts Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770) - 2 Locations - Confirmed official posting (Career page Workday:pimco/pimco-careers)
+_None._
 
 ## No Longer Present
 

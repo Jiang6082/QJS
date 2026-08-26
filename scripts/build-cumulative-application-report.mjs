@@ -3,6 +3,7 @@ import path from "node:path";
 import { execFileSync } from "node:child_process";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
+import { calendarDate } from "./calendar-date.mjs";
 
 const repo = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const dataPath = path.join(repo, "data/cumulative_application_roles.json");
@@ -34,12 +35,18 @@ function cleanRow(row) {
     Location: row.Location || row.location || "n/a",
     URL: String(row.URL || row.url || "").trim(),
     Source: row.Source || row.source || "",
+    source_status: row.source_status || row.Status || row.StatusLabel || "",
     release_date: row.release_date || row.date || null,
     first_seen: row.first_seen || null,
     discovery_note: row.discovery_note || null,
     manually_verified: Boolean(row.manually_verified),
     verifiedAt: row.verifiedAt || null,
   };
+}
+
+function isAggregatorLead(row) {
+  return /aggregator|web-discovered/i.test(`${row.source_status || row.Status || ""} ${row.Source || ""}`)
+    || /(?:glassdoor\.com|extern\.com)/i.test(row.URL || "");
 }
 
 function mergeRole(ledger, row, defaults = {}) {
@@ -105,28 +112,35 @@ const ledger = existing?.roles?.length
   ? new Map(existing.roles.map((role) => [role.URL, cleanRow(role)]))
   : bootstrapLedger();
 const currentRaw = readJson(currentRawPath, { searchedAt: new Date().toISOString(), rows: [] });
+const scanDate = calendarDate(currentRaw.searchedAt) || calendarDate();
 const previousRaw = readJson(previousRawPath, { rows: [] });
 const recent = readJson(recentPath, { roles: [], undatedFirstSeen: [] });
 const manual = readJson(manualPath, { roles: [] });
 const { dates: currentDates, firstSeen: currentFirstSeen } = reportDates(recent);
-const previousUrls = new Set((previousRaw.rows || []).map((row) => row.URL));
-const currentUrls = new Set((currentRaw.rows || []).map((row) => row.URL));
+const previousRoleRows = (previousRaw.rows || []).filter((row) => !isAggregatorLead(row));
+const currentRoleRows = (currentRaw.rows || []).filter((row) => !isAggregatorLead(row));
+const previousUrls = new Set(previousRoleRows.map((row) => row.URL));
+const currentUrls = new Set(currentRoleRows.map((row) => row.URL));
 
-for (const role of recent.roles || []) mergeRole(ledger, role, { release_date: role.date });
-for (const role of recent.undatedFirstSeen || []) mergeRole(ledger, role, { first_seen: role.first_seen });
-for (const row of currentRaw.rows || []) {
+for (const [url, role] of ledger) {
+  if (isAggregatorLead(role)) ledger.delete(url);
+}
+
+for (const role of recent.roles || []) if (!isAggregatorLead(role)) mergeRole(ledger, role, { release_date: role.date });
+for (const role of recent.undatedFirstSeen || []) if (!isAggregatorLead(role)) mergeRole(ledger, role, { first_seen: role.first_seen });
+for (const row of currentRoleRows) {
   if (!previousUrls.has(row.URL) || ledger.has(row.URL)) {
     mergeRole(ledger, row, {
       release_date: currentDates.get(row.URL) || null,
-      first_seen: currentFirstSeen.get(row.URL) || String(currentRaw.searchedAt || "").slice(0, 10),
+      first_seen: currentFirstSeen.get(row.URL) || scanDate,
     });
   }
 }
 for (const role of manual.roles || []) mergeRole(ledger, role, { manually_verified: true });
 
-const scanDate = String(currentRaw.searchedAt || new Date().toISOString()).slice(0, 10);
 const roles = [...ledger.values()].map((role) => ({
   ...role,
+  first_seen: role.first_seen && role.first_seen > scanDate ? scanDate : role.first_seen,
   status: currentUrls.has(role.URL) || (role.manually_verified && role.verifiedAt === scanDate)
     ? "active"
     : "not_detected",
@@ -137,7 +151,7 @@ const roles = [...ledger.values()].map((role) => ({
   return bd.localeCompare(ad) || a.Company.localeCompare(b.Company) || a.Title.localeCompare(b.Title) || a.Location.localeCompare(b.Location);
 });
 
-const scannerNewUrls = new Set((currentRaw.rows || []).filter((row) => !previousUrls.has(row.URL)).map((row) => row.URL));
+const scannerNewUrls = new Set(currentRoleRows.filter((row) => !previousUrls.has(row.URL)).map((row) => row.URL));
 const manuallyRecoveredUrls = new Set((manual.roles || []).map((role) => role.URL));
 const active = roles.filter((role) => role.status === "active");
 const notDetected = roles.filter((role) => role.status === "not_detected");

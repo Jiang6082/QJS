@@ -5,6 +5,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { calendarDate } from './calendar-date.mjs';
 
 const repo = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const csvPath = path.join(repo, 'reports/quant_internship_roles_scan_v2.csv');
@@ -56,7 +57,8 @@ const roles = rows.map(r => ({
   Region: r[idx.Region],
   URL: r[idx.URL],
   Status: r[idx.Status],
-}));
+})).filter((role) => !/aggregator|web-discovered/i.test(role.Status || '')
+  && !/(?:glassdoor\.com|extern\.com)/i.test(role.URL || ''));
 
 const newData = JSON.parse(fs.readFileSync(newPath, 'utf8'));
 const added = newData.added || [];
@@ -77,9 +79,9 @@ let scanDate;
 try {
   const scanMd = fs.readFileSync(scanPath, 'utf8');
   const m = scanMd.match(/Last updated:\s*(\S+)/);
-  scanDate = (m ? m[1] : (newData.currentScanAt || new Date().toISOString())).slice(0, 10);
+  scanDate = recentData.until || calendarDate(m ? m[1] : (newData.currentScanAt || new Date()));
 } catch {
-  scanDate = (newData.currentScanAt || new Date().toISOString()).slice(0, 10);
+  scanDate = recentData.until || calendarDate(newData.currentScanAt || new Date());
 }
 const releasedToday = recentRoles.filter((role) => role.date === scanDate);
 

@@ -1,28 +1,9 @@
 {
-  "generatedAt": "2026-08-24T15:42:56.807Z",
-  "previousScanAt": "2026-08-22T21:04:47.820Z",
-  "currentScanAt": "2026-08-24T15:38:46.057Z",
-  "previousRows": 406,
-  "currentRows": 405,
-  "added": [
-    {
-      "Company": "PIMCO",
-      "Title": "2027 Summer Intern - Global Wealth Management, Strategic Accounts Analyst, US",
-      "Location": "2 Locations",
-      "Region": "Remote / Unspecified",
-      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770",
-      "Source": "Career page Workday:pimco/pimco-careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Vanguard",
-      "Title": "College to Corporate IT Internship - Technology Operations (PA)",
-      "Location": "Malvern, PA",
-      "Region": "North America",
-      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788",
-      "Source": "Career page Workday:vanguard/vanguard_external",
-      "Status": "Confirmed official posting"
-    }
-  ],
+  "generatedAt": "2026-08-26T00:51:03.300Z",
+  "previousScanAt": "2026-08-24T15:38:46.057Z",
+  "currentScanAt": "2026-08-26T00:43:13.915Z",
+  "previousRows": 405,
+  "currentRows": 425,
+  "added": [],
   "removed": []
 }

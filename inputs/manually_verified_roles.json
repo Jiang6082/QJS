@@ -1,5 +1,5 @@
 {
-  "verifiedAt": "2026-08-24",
+  "verifiedAt": "2026-08-25",
   "roles": [
     {
       "Company": "Scientech Research Capital",
@@ -9,7 +9,7 @@
       "Source": "Official Ashby job board",
       "release_date": "2025-01-23",
       "first_seen": "2026-08-21",
-      "verifiedAt": "2026-08-24",
+      "verifiedAt": "2026-08-25",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page."
     },
     {
@@ -20,7 +20,7 @@
       "Source": "Official Ashby job board",
       "release_date": "2025-01-23",
       "first_seen": "2026-08-21",
-      "verifiedAt": "2026-08-24",
+      "verifiedAt": "2026-08-25",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page."
     },
     {
@@ -31,7 +31,7 @@
       "Source": "Official Ashby job board",
       "release_date": "2025-03-04",
       "first_seen": "2026-08-21",
-      "verifiedAt": "2026-08-24",
+      "verifiedAt": "2026-08-25",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page."
     },
     {
@@ -42,7 +42,7 @@
       "Source": "Official Ashby job board",
       "release_date": "2025-03-05",
       "first_seen": "2026-08-21",
-      "verifiedAt": "2026-08-24",
+      "verifiedAt": "2026-08-25",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page."
     },
     {
@@ -53,7 +53,7 @@
       "Source": "Official Ashby job board",
       "release_date": "2026-08-20",
       "first_seen": "2026-08-21",
-      "verifiedAt": "2026-08-24",
+      "verifiedAt": "2026-08-25",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page."
     }
   ]

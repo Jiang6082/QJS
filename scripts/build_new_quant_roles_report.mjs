@@ -1,5 +1,6 @@
 import fs from "node:fs/promises";
 import { groupedRoleMarkdown, regionForLocation } from "../tools/regions.mjs";
+import { calendarDate } from "./calendar-date.mjs";
 
 const previousPath = ".scan-state/previous_quant_v2_raw.json";
 const currentPath = "data/quant_internship_roles_scan_v2_raw.json";
@@ -218,7 +219,7 @@ await fs.writeFile(closedHistoryPath, `${JSON.stringify(closedHistory, null, 2)}
 
 const closedByDay = new Map();
 for (const entry of closedHistory) {
-  const day = String(entry.detectedClosedAt).slice(0, 10) || "unknown";
+  const day = calendarDate(entry.detectedClosedAt) || "unknown";
   if (!closedByDay.has(day)) closedByDay.set(day, []);
   closedByDay.get(day).push(entry);
 }
@@ -238,7 +239,7 @@ const closedMarkdown = [
     "",
     ...closedByDay.get(day).map((entry) => {
       const loc = entry.Location ? ` - ${entry.Location}` : "";
-      const reopened = entry.reopenedAt ? ` — _reopened ${String(entry.reopenedAt).slice(0, 10)}_` : "";
+      const reopened = entry.reopenedAt ? ` — _reopened ${calendarDate(entry.reopenedAt)}_` : "";
       return `- **${entry.Company}** - [${entry.Title}](${entry.URL})${loc}${reopened}`;
     }),
     "",

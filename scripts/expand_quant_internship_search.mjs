@@ -633,6 +633,8 @@ async function getAshbyBoard(company, token, careerPageUrl = "") {
   return { source: `Ashby:${token}`, jobs };
 }
 
+const workdayBoardCache = new Map();
+
 async function getWorkdayBoard(company, siteInfo, careerPageUrl = "") {
   let origin = siteInfo.origin;
   try {
@@ -640,44 +642,62 @@ async function getWorkdayBoard(company, siteInfo, careerPageUrl = "") {
   } catch {
     return null;
   }
-  const url = `${origin}/wday/cxs/${siteInfo.tenant}/${siteInfo.site}/jobs`;
-  try {
-    const postings = [];
-    const limit = 20;
-    for (let offset = 0; ; offset += limit) {
-      const controller = new AbortController();
-      const timeout = setTimeout(() => controller.abort(), 12000);
-      let json;
-      try {
-        const res = await fetch(url, {
-          method: "POST",
-          signal: controller.signal,
-          headers: { "accept": "application/json", "content-type": "application/json" },
-          body: JSON.stringify({ appliedFacets: {}, limit, offset, searchText: "" }),
-        });
-        if (!res.ok) return null;
-        json = await res.json();
-      } finally {
-        clearTimeout(timeout);
+  const cacheKey = `${company}|${origin}|${siteInfo.tenant}|${siteInfo.site}`;
+  if (workdayBoardCache.has(cacheKey)) return workdayBoardCache.get(cacheKey);
+
+  const request = (async () => {
+    const url = `${origin}/wday/cxs/${siteInfo.tenant}/${siteInfo.site}/jobs`;
+    try {
+      const postingsByPath = new Map();
+      const limit = 20;
+      const searchTexts = ["", "intern", "summer analyst", "summer associate", "off cycle internship", "co-op", "industrial placement"];
+      for (const searchText of searchTexts) {
+        let resultsSeen = 0;
+        const resultCap = searchText ? 200 : 40;
+        for (let offset = 0; offset < resultCap; offset += limit) {
+          const controller = new AbortController();
+          const timeout = setTimeout(() => controller.abort(), 12000);
+          let json;
+          try {
+            const res = await fetch(url, {
+              method: "POST",
+              signal: controller.signal,
+              headers: { "accept": "application/json", "content-type": "application/json" },
+              body: JSON.stringify({ appliedFacets: {}, limit, offset, searchText }),
+            });
+            if (!res.ok) break;
+            json = await res.json();
+          } finally {
+            clearTimeout(timeout);
+          }
+          const page = json.jobPostings || [];
+          for (const posting of page) {
+            const key = posting.externalPath || `${posting.title}|${posting.locationsText}`;
+            postingsByPath.set(key, posting);
+          }
+          resultsSeen += page.length;
+          if (!page.length || resultsSeen >= (json.total || resultsSeen) || page.length < limit) break;
+        }
       }
-      const page = json.jobPostings || [];
-      postings.push(...page);
-      if (!page.length || postings.length >= (json.total || postings.length) || page.length < limit) break;
+      const postings = [...postingsByPath.values()];
+      if (!postings.length) return null;
+      const jobs = postings.map((job) => ({
+        Company: company,
+        Title: job.title || "",
+        Department: "",
+        Location: job.locationsText || "",
+        URL: `${origin}/${siteInfo.site}${job.externalPath || ""}`,
+        Source: `Career page Workday:${siteInfo.tenant}/${siteInfo.site}`,
+        Status: "Confirmed official posting",
+        Notes: [careerPageUrl ? `career_page=${careerPageUrl}` : "", job.postedOn || "", ...(job.bulletFields || [])].filter(Boolean).join(" | "),
+      }));
+      return { source: `Workday:${siteInfo.tenant}/${siteInfo.site}`, jobs };
+    } catch {
+      return null;
     }
-    const jobs = postings.map((job) => ({
-      Company: company,
-      Title: job.title || "",
-      Department: "",
-      Location: job.locationsText || "",
-      URL: `${origin}/${siteInfo.site}${job.externalPath || ""}`,
-      Source: `Career page Workday:${siteInfo.tenant}/${siteInfo.site}`,
-      Status: "Confirmed official posting",
-      Notes: [careerPageUrl ? `career_page=${careerPageUrl}` : "", job.postedOn || "", ...(job.bulletFields || [])].filter(Boolean).join(" | "),
-    }));
-    return { source: `Workday:${siteInfo.tenant}/${siteInfo.site}`, jobs };
-  } catch {
-    return null;
-  }
+  })();
+  workdayBoardCache.set(cacheKey, request);
+  return request;
 }
 
 function relevantCareerJob(row) {

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-24T15:42:56.692Z",
-  "scanStartedAt": "2026-08-24T15:38:46.057Z",
+  "generatedAt": "2026-08-26T00:48:05.470Z",
+  "scanStartedAt": "2026-08-26T00:43:13.915Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 44,
+    "matching-role-found": 47,
     "confirmed-no-open-postings": 2,
-    "confirmed-openings-no-matching-role": 50,
-    "could-not-fully-verify": 208
+    "confirmed-openings-no-matching-role": 48,
+    "could-not-fully-verify": 207
   },
   "companies": [
     {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 40,
+      "jobsSeen": 137,
       "relevantInternships": 0
     },
     {
@@ -285,8 +285,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 47,
-      "relevantInternships": 8
+      "jobsSeen": 50,
+      "relevantInternships": 9
     },
     {
       "company": "Accent Groupe",
@@ -540,7 +540,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 22,
+      "jobsSeen": 24,
       "relevantInternships": 3
     },
     {
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 181,
+      "jobsSeen": 179,
       "relevantInternships": 18
     },
     {
@@ -972,7 +972,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 27,
+      "jobsSeen": 25,
       "relevantInternships": 0
     },
     {
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 232,
+      "jobsSeen": 236,
       "relevantInternships": 9
     },
     {
@@ -1026,8 +1026,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 60,
-      "relevantInternships": 6
+      "jobsSeen": 63,
+      "relevantInternships": 7
     },
     {
       "company": "Danske Commodities",
@@ -1048,14 +1048,14 @@
       "sourceRosterNames": [
         "Deutsche Bank (quant/systematic)"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://db.wd3.myworkdayjobs.com/DBWebsite/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 40,
-      "relevantInternships": 0
+      "jobsSeen": 125,
+      "relevantInternships": 4
     },
     {
       "company": "Domeyard LP",
@@ -1141,7 +1141,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 17,
+      "jobsSeen": 15,
       "relevantInternships": 2
     },
     {
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 230,
+      "jobsSeen": 231,
       "relevantInternships": 0
     },
     {
@@ -1434,7 +1434,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 46,
+      "jobsSeen": 45,
       "relevantInternships": 2
     },
     {
@@ -1624,7 +1624,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -1664,7 +1664,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 40,
+      "jobsSeen": 43,
       "relevantInternships": 0
     },
     {
@@ -1733,7 +1733,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -2009,7 +2009,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -2018,9 +2018,11 @@
         "GRW Partners"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://grwinc.applicantpro.com/jobs/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2036,7 +2038,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantInternships": 0
     },
     {
@@ -2081,7 +2083,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 33,
+      "jobsSeen": 30,
       "relevantInternships": 0
     },
     {
@@ -2112,7 +2114,7 @@
       "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 166,
-      "relevantInternships": 15
+      "relevantInternships": 16
     },
     {
       "company": "Independent Trading Group (ITG)",
@@ -2231,7 +2233,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 39,
+      "jobsSeen": 38,
       "relevantInternships": 2
     },
     {
@@ -2659,7 +2661,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 12,
+      "jobsSeen": 11,
       "relevantInternships": 2
     },
     {
@@ -3008,7 +3010,7 @@
       "careerPages": [
         "https://www.quantlab.com/careers?nl=1&p=jobs"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3050,7 +3052,7 @@
       "careerPages": [
         "https://sqmtechnologies.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3130,7 +3132,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3647,7 +3649,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 62,
+      "jobsSeen": 63,
       "relevantInternships": 0
     },
     {
@@ -3690,7 +3692,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 40,
+      "jobsSeen": 59,
       "relevantInternships": 0
     },
     {
@@ -3798,7 +3800,7 @@
       "sourceRosterNames": [
         "Wolverine Trading"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.wolve.com/careers/"
       ],
@@ -3886,7 +3888,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 86,
+      "jobsSeen": 85,
       "relevantInternships": 8
     },
     {
@@ -3945,7 +3947,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 31,
+      "jobsSeen": 32,
       "relevantInternships": 1
     },
     {
@@ -4068,7 +4070,7 @@
       "sourceRosterNames": [
         "The Voleon Group"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://jobs.ashbyhq.com/voleon",
         "https://jobs.lever.co/voleon/",
@@ -4077,8 +4079,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 57,
-      "relevantInternships": 0
+      "jobsSeen": 59,
+      "relevantInternships": 1
     },
     {
       "company": "TradeLink",
@@ -4103,7 +4105,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/transmarketgroup"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 18,
       "relevantInternships": 4
@@ -4218,7 +4220,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 103,
+      "jobsSeen": 104,
       "relevantInternships": 5
     },
     {
@@ -4249,7 +4251,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 40,
+      "jobsSeen": 95,
       "relevantInternships": 0
     },
     {

@@ -1,5 +1,49 @@
 [
   {
+    "Company": "Jane Street",
+    "Title": "Machine Learning Researcher",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.janestreet.com/join-jane-street/position/8374335002/",
+    "Source": "Official Jane Street jobs feed",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-24T15:38:46.057Z",
+    "detectedClosedAt": "2026-08-26T00:20:59.213Z"
+  },
+  {
+    "Company": "Jane Street",
+    "Title": "Quantitative Researcher",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.janestreet.com/join-jane-street/position/8343131002/",
+    "Source": "Official Jane Street jobs feed",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-24T15:38:46.057Z",
+    "detectedClosedAt": "2026-08-26T00:20:59.213Z"
+  },
+  {
+    "Company": "Jane Street",
+    "Title": "Quantitative Trader",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.janestreet.com/join-jane-street/position/7982986002/",
+    "Source": "Official Jane Street jobs feed",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-24T15:38:46.057Z",
+    "detectedClosedAt": "2026-08-26T00:20:59.213Z"
+  },
+  {
+    "Company": "Jane Street",
+    "Title": "Trading Desk Operations Engineer",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.janestreet.com/join-jane-street/position/8168747002/",
+    "Source": "Official Jane Street jobs feed",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-24T15:38:46.057Z",
+    "detectedClosedAt": "2026-08-26T00:20:59.213Z"
+  },
+  {
     "Company": "Trillium",
     "Title": "Software Engineer Intern - Summer 2027",
     "Location": "NYC",
@@ -41,7 +85,8 @@
     "Source": "Career page Workday:bpinternational/bpCareers",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-16T15:51:27.306Z",
-    "detectedClosedAt": "2026-08-19T21:31:53.494Z"
+    "detectedClosedAt": "2026-08-19T21:31:53.494Z",
+    "reopenedAt": "2026-08-26T00:30:06.029Z"
   },
   {
     "Company": "BP",
@@ -52,7 +97,8 @@
     "Source": "Career page Workday:bpinternational/bpCareers",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-16T15:51:27.306Z",
-    "detectedClosedAt": "2026-08-19T21:31:53.494Z"
+    "detectedClosedAt": "2026-08-19T21:31:53.494Z",
+    "reopenedAt": "2026-08-26T00:30:06.029Z"
   },
   {
     "Company": "BP",
@@ -63,7 +109,8 @@
     "Source": "Career page Workday:bpinternational/bpCareers",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-16T15:51:27.306Z",
-    "detectedClosedAt": "2026-08-19T21:31:53.494Z"
+    "detectedClosedAt": "2026-08-19T21:31:53.494Z",
+    "reopenedAt": "2026-08-26T00:30:06.029Z"
   },
   {
     "Company": "Goldman Sachs",
@@ -386,7 +433,8 @@
     "Source": "Career page Workday:db/DBWebsite",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T01:06:04.648Z",
-    "detectedClosedAt": "2026-07-31T13:20:58.559Z"
+    "detectedClosedAt": "2026-07-31T13:20:58.559Z",
+    "reopenedAt": "2026-08-26T00:30:06.029Z"
   },
   {
     "Company": "Deutsche Bank",
@@ -397,7 +445,8 @@
     "Source": "Career page Workday:db/DBWebsite",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T01:06:04.648Z",
-    "detectedClosedAt": "2026-07-31T13:20:58.559Z"
+    "detectedClosedAt": "2026-07-31T13:20:58.559Z",
+    "reopenedAt": "2026-08-26T00:30:06.029Z"
   },
   {
     "Company": "Jane Street",
@@ -489,7 +538,8 @@
     "Source": "Career page Workday:db/DBWebsite",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-27T00:45:29.857Z",
-    "detectedClosedAt": "2026-07-27T14:00:48.434Z"
+    "detectedClosedAt": "2026-07-27T14:00:48.434Z",
+    "reopenedAt": "2026-08-26T00:30:06.029Z"
   },
   {
     "Company": "IMC Trading",

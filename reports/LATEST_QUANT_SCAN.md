@@ -1,24 +1,24 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-08-24T15:38:46.057Z
+Last updated: 2026-08-26T00:43:13.915Z
 
 ## Summary
 
 - Companies searched: 369
-- Career pages checked: 510
-- Current retained roles: 405
-- New stable job URLs since previous scan: 2
+- Career pages checked: 511
+- Current retained roles: 425
+- New stable job URLs since previous scan: 0
 - No longer present since previous scan: 0
-- Matching-role firms: 44
+- Matching-role firms: 47
 - Confirmed no open postings: 2
-- Openings but no matching role: 50
-- Could not fully verify: 208
+- Openings but no matching role: 48
+- Could not fully verify: 207
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (0)
 
-- **Vanguard** - [College to Corporate IT Internship - Technology Operations (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788) - Malvern, PA
+_None._
 
 ### Europe (0)
 
@@ -48,9 +48,9 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **PIMCO** - [2027 Summer Intern - Global Wealth Management, Strategic Accounts Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770) - 2 Locations
+_None._
 
 ## No Longer Present
 
