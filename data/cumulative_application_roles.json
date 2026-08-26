@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T00:52:53.750Z",
-  "currentScanAt": "2026-08-26T00:43:13.915Z",
-  "total": 170,
-  "active": 168,
+  "generatedAt": "2026-08-26T12:55:21.603Z",
+  "currentScanAt": "2026-08-26T12:50:05.006Z",
+  "total": 171,
+  "active": 169,
   "notDetected": 2,
-  "newSincePreviousScan": 19,
+  "newSincePreviousScan": 1,
   "manuallyRecovered": 5,
   "roles": [
     {
@@ -219,6 +219,20 @@
     },
     {
       "Company": "Qube Research & Technologies",
+      "Title": "2027 Internship/Graduate - Quantitative Developer / Software Engineer",
+      "Location": "Hong Kong/Singapore/Shanghai",
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002",
+      "Source": "Greenhouse:quberesearchandtechnologies",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-24",
+      "first_seen": "2026-08-26",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Qube Research & Technologies",
       "Title": "2027 Internship/Graduate - Quantitative Research/Trading",
       "Location": "Hong Kong, Singapore, Shanghai, Beijing",
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002",
@@ -354,7 +368,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-25",
+      "verifiedAt": "2026-08-26",
       "status": "active"
     },
     {
@@ -429,7 +443,7 @@
     },
     {
       "Company": "AXQ Capital",
-      "Title": "2027「启元计划」暑期实习｜Quantitative Developer Intern",
+      "Title": "「启元计划」2027 暑期实习｜量化开发实习生",
       "Location": "Beijing",
       "URL": "https://job-boards.greenhouse.io/axq/jobs/5745501004",
       "Source": "Career page Greenhouse:axq",
@@ -443,7 +457,7 @@
     },
     {
       "Company": "AXQ Capital",
-      "Title": "2027「启元计划」暑期实习｜Quantitative Research Intern",
+      "Title": "「启元计划」2027 暑期实习｜量化研究实习生",
       "Location": "Shanghai",
       "URL": "https://job-boards.greenhouse.io/axq/jobs/5636192004",
       "Source": "Career page Greenhouse:axq",
@@ -2314,7 +2328,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-25",
+      "verifiedAt": "2026-08-26",
       "status": "active"
     },
     {
@@ -2328,7 +2342,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-25",
+      "verifiedAt": "2026-08-26",
       "status": "active"
     },
     {
@@ -2342,7 +2356,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-25",
+      "verifiedAt": "2026-08-26",
       "status": "active"
     },
     {
@@ -2356,7 +2370,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-25",
+      "verifiedAt": "2026-08-26",
       "status": "active"
     },
     {

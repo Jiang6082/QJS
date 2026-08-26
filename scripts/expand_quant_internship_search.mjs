@@ -705,8 +705,11 @@ function relevantCareerJob(row) {
   const title = row.Title.toLowerCase();
   const roleText = `${row.Title} ${row.Department || ""}`.toLowerCase();
   const isIntern = /\b(intern|internship|summer analyst|summer associate|co-?op|industrial placement)\b/.test(title)
+    || /实习/.test(title)
     || /^(?:internship|co-op|industrial placement year)\b/i.test((row.Notes || "").trim());
-  const hasDomain = /\b(quant|quantitative|systematic|alpha|research|portfolio|trading|trader|strats?|strategy|strategic|developer|software|engineer|technology|devops|site reliability|sre|infrastructure|data science|machine learning|risk|implementation|model|analytics|fpga)\b/.test(roleText) || /c\+\+/i.test(roleText);
+  const hasDomain = /\b(quant|quantitative|systematic|alpha|research|portfolio|trading|trader|strats?|strategy|strategic|developer|software|engineer|technology|devops|site reliability|sre|infrastructure|data science|machine learning|risk|implementation|model|analytics|fpga)\b/.test(roleText)
+    || /(量化|研究|开发|交易|策略|软件|工程|机器学习|数据科学|风险)/.test(roleText)
+    || /c\+\+/i.test(roleText);
   const blockedFullTime = /\b(new grad|new graduate|graduate programme|graduate program|full[- ]time|experienced|senior|principal|director|vp|vice president|recruiter|recruitment)\b/.test(title) || (/\bgraduate\b/.test(title) && !/\bintern/.test(title));
   const blockedTiming = hasNonTargetInternshipTiming(row.Title, row.Notes || "");
   const staleWebLead = /web-discovered|aggregator/i.test(`${row.Source} ${row.Status}`) && stalePostingDate.test(row.Notes || "");

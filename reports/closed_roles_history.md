@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 56
-Last updated: 2026-08-26T00:43:13.915Z
+Total closures recorded: 57
+Last updated: 2026-08-26T12:50:05.006Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-08-26 (1)
+
+- **D. E. Shaw** - [Fundamental Research Analyst Intern (New York) – Summer 2027](https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2027-5709) - New York
 
 ### 2026-08-25 (4)
 

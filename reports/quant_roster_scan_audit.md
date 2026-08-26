@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-08-26T00:43:13.915Z
+Scan started: 2026-08-26T12:50:05.006Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 
@@ -300,7 +300,7 @@ Canonical companies after aliases: 304
 | TSY Capital | 1/1 pages live | [link](https://tsycapital.com/career.html) |
 | Tibra | 1/1 pages live | [link](https://www.tibra.com/careers/) |
 | Tradermath | 3/3 pages live | [link](https://www.tradermath.org/login) [link](https://www.tradermath.org/subscriptions) [link](https://www.tradermath.org/signup) |
-| Trexquant | 2/2 pages live | [link](https://www.trexquant.com/careers/) [link](https://trexquant.com/careers) |
+| Trexquant | 1/2 pages live | [link](https://www.trexquant.com/careers/) [link](https://trexquant.com/careers) |
 | UC Capital | 1/1 pages live | [link](https://www.uccapital.com.tw/zh/careers) |
 | Uranus Research | 1/1 pages live | [link](https://en.uranus-research.com/talents) |
 | WEBB Traders | 1/1 pages live | [link](http://www.webbtraders.com/careers) |
@@ -323,7 +323,7 @@ Canonical companies after aliases: 304
 | TradeLink | 1/1 pages live | [link](https://www.tradelink.co/careers) |
 | UBS | 5/5 pages live | [link](https://www.ubs.com/global/en/careers.html) [link](https://www.ubs.com/global/en/careers/search-jobs.html) [link](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=searchResults&SearchType=linkquery&LinkID=15231) [link](https://www.ubs.com/global/en/careers/early-careers.html) [link](https://www.ubs.com/global/en/careers/early-careers/faq.html) |
 | Universa Investments | 1/1 pages live | [link](https://jobs.universalparks.com/universal-orlando-resort/) |
-| VS Capital | no saved page attempted | none |
+| VS Capital | 1/1 pages live | [link](https://vscapitalgrp.com/careers) |
 | Verma Research Capital | no saved page attempted | none |
 | Wallsoft Labs | no saved page attempted | none |
 | Wintermute | 1/1 pages live | [link](https://wintermute.com/careers/) |

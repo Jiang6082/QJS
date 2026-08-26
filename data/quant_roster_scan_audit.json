@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T00:48:05.470Z",
-  "scanStartedAt": "2026-08-26T00:43:13.915Z",
+  "generatedAt": "2026-08-26T12:55:06.290Z",
+  "scanStartedAt": "2026-08-26T12:50:05.006Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -74,7 +74,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 14,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 50,
+      "jobsSeen": 51,
       "relevantInternships": 9
     },
     {
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 236,
+      "jobsSeen": 237,
       "relevantInternships": 9
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 125,
+      "jobsSeen": 124,
       "relevantInternships": 4
     },
     {
@@ -1434,7 +1434,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 45,
+      "jobsSeen": 44,
       "relevantInternships": 2
     },
     {
@@ -2113,7 +2113,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 166,
+      "jobsSeen": 170,
       "relevantInternships": 16
     },
     {
@@ -2290,7 +2290,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantInternships": 0
     },
     {
@@ -2472,7 +2472,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 54,
+      "jobsSeen": 53,
       "relevantInternships": 1
     },
     {
@@ -2511,7 +2511,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 8,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {
@@ -2527,7 +2527,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 5,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -3489,7 +3489,7 @@
         "https://www.trexquant.com/careers/",
         "https://trexquant.com/careers"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3692,7 +3692,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 59,
+      "jobsSeen": 60,
       "relevantInternships": 0
     },
     {
@@ -3764,7 +3764,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 33,
+      "jobsSeen": 34,
       "relevantInternships": 0
     },
     {
@@ -3931,7 +3931,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 46,
+      "jobsSeen": 45,
       "relevantInternships": 14
     },
     {
@@ -4148,9 +4148,11 @@
         "VS Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://vscapitalgrp.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },

@@ -1,8 +1,8 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-08-24T15:38:46.057Z
-Current scan: 2026-08-26T00:43:13.915Z
-Previous rows: 405
+Previous scan: 2026-08-26T00:43:13.915Z
+Current scan: 2026-08-26T12:50:05.006Z
+Previous rows: 425
 Current rows: 425
 New stable job URLs: 0
 No longer present: 0

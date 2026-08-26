@@ -1,11 +1,11 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-08-26T00:43:13.915Z
+Last updated: 2026-08-26T12:50:05.006Z
 
 ## Summary
 
 - Companies searched: 369
-- Career pages checked: 511
+- Career pages checked: 512
 - Current retained roles: 425
 - New stable job URLs since previous scan: 0
 - No longer present since previous scan: 0
