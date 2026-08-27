@@ -2,9 +2,9 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-08-26 &nbsp;•&nbsp; **424 open roles** &nbsp;•&nbsp; **0 released today** &nbsp;•&nbsp; **120 opened in 3 weeks** &nbsp;•&nbsp; **57 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-08-26 &nbsp;•&nbsp; **431 open roles** &nbsp;•&nbsp; **7 released today** &nbsp;•&nbsp; **127 opened in 3 weeks** &nbsp;•&nbsp; **57 closed** ([history](reports/closed_roles_history.md))
 
-> **Cumulative application queue:** [171 unique roles tracked; 169 active](reports/cumulative_application_roles.md)
+> **Cumulative application queue:** [178 unique roles tracked; 176 active](reports/cumulative_application_roles.md)
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [🔥 Opened in the Last 3 Weeks](#-opened-in-the-last-3-weeks) · [📚 Cumulative Application Queue](reports/cumulative_application_roles.md) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -14,13 +14,39 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 _Scan date: 2026-08-26_
 
-_No currently open roles have a confirmed source release date of 2026-08-26._
+**7** currently open roles with a confirmed source release date of 2026-08-26:
+
+**North America**
+
+- **BMO Capital Markets** — [BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) — Toronto, ON, CAN
+- **Connor Clark & Lunn** — [Intern, Quantitative Developer](https://job-boards.greenhouse.io/cclim/jobs/4383943009) — Vancouver, British Columbia, Canada
+- **Connor Clark & Lunn** — [Intern, Quantitative Equity Analyst](https://job-boards.greenhouse.io/cclim/jobs/4383968009) — Vancouver, British Columbia, Canada
+
+**Asia**
+
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Data Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002) — Hong Kong
+- **Qube Research & Technologies** — [2027 Internship/Graduate - FPGA Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002) — Hong Kong
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Infrastructure / Cloud Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002) — Hong Kong/Singapore/Shanghai
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) — Hong Kong
 
 ---
 
 ## 🔥 Opened in the Last 3 Weeks
 
 _Official-source posting dates from 2026-08-06 through 2026-08-26. Only roles that are still present in the current scan are shown._
+
+<details>
+<summary><strong>2026-08-26</strong> — 7 roles</summary>
+
+- **BMO Capital Markets** — [BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) — Toronto, ON, CAN
+- **Connor Clark & Lunn** — [Intern, Quantitative Developer](https://job-boards.greenhouse.io/cclim/jobs/4383943009) — Vancouver, British Columbia, Canada
+- **Connor Clark & Lunn** — [Intern, Quantitative Equity Analyst](https://job-boards.greenhouse.io/cclim/jobs/4383968009) — Vancouver, British Columbia, Canada
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Data Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002) — Hong Kong
+- **Qube Research & Technologies** — [2027 Internship/Graduate - FPGA Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002) — Hong Kong
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Infrastructure / Cloud Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002) — Hong Kong/Singapore/Shanghai
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) — Hong Kong
+
+</details>
 
 <details>
 <summary><strong>2026-08-25</strong> — 6 roles</summary>
@@ -242,7 +268,7 @@ _Official-source posting dates from 2026-08-06 through 2026-08-26. Only roles th
 
 ### Newly surfaced, source date unavailable
 
-_These 2 roles first appeared in QJS during the window, but the employer does not publish a posting date. They are not included in the 120 confirmed-release count._
+_These 2 roles first appeared in QJS during the window, but the employer does not publish a posting date. They are not included in the 127 confirmed-release count._
 
 - **First seen 2026-08-16** — **D. E. Shaw** — [Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) — New York
 - **First seen 2026-08-16** — **D. E. Shaw** — [Software Developer, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) — New York
@@ -251,14 +277,14 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 
 ## 📋 All Roles Available
 
-**424** open internship roles, grouped by region. Click a title to open the official posting.
+**431** open internship roles, grouped by region. Click a title to open the official posting.
 
-**Regions:** [North America (207)](#north-america) · [Europe (94)](#europe) · [Asia (90)](#asia) · [Oceania (7)](#oceania) · [Middle East (1)](#middle-east) · [South America (1)](#south-america) · [Global / Multiple Regions (11)](#global--multiple-regions) · [Remote / Unspecified (13)](#remote--unspecified)
+**Regions:** [North America (210)](#north-america) · [Europe (94)](#europe) · [Asia (94)](#asia) · [Oceania (7)](#oceania) · [Middle East (1)](#middle-east) · [South America (1)](#south-america) · [Global / Multiple Regions (11)](#global--multiple-regions) · [Remote / Unspecified (13)](#remote--unspecified)
 
 ### North America
 
 <details>
-<summary><strong>207 roles</strong> — click to expand</summary>
+<summary><strong>210 roles</strong> — click to expand</summary>
 
 - **Akuna** — [Hardware Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) — Chicago, IL
 - **Akuna** — [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) — Chicago, IL
@@ -297,6 +323,7 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 - **BlackEdge Capital** — [Quantitative Trader Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005) — Chicago
 - **BlackRock** — [2027 Summer Internship Program - AMERS](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) — Multiple Americas offices
 - **BMO Capital Markets** — [BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1) — Toronto, ON, CAN
+- **BMO Capital Markets** — [BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) — Toronto, ON, CAN
 - **Chicago Trading Company** — [Quant Trading Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) — Chicago, Illinois, United States
 - **Chicago Trading Company** — [Software Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) — Chicago, Illinois, United States
 - **Citadel** — [Quantitative Research Analyst - Intern (US)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) — Greenwich, Miami, New York
@@ -309,6 +336,8 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 - **Citadel Securities** — [Quantitative Research Analyst - Intern (US)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/) — Miami, New York
 - **Citadel Securities** — [Quantitative Trader - Intern (US)](https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/) — Miami, New York
 - **Citadel Securities** — [Software Engineer - Intern (US)](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) — Miami, New York
+- **Connor Clark & Lunn** — [Intern, Quantitative Developer](https://job-boards.greenhouse.io/cclim/jobs/4383943009) — Vancouver, British Columbia, Canada
+- **Connor Clark & Lunn** — [Intern, Quantitative Equity Analyst](https://job-boards.greenhouse.io/cclim/jobs/4383968009) — Vancouver, British Columbia, Canada
 - **D. E. Shaw** — [Proprietary Trading Intern (New York) – Summer 2027](https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2027-5731) — New York
 - **D. E. Shaw** — [Quantitative Analyst Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) — New York
 - **D. E. Shaw** — [Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) — New York
@@ -446,8 +475,8 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 - **TransMarket Group** — [Software Engineering Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) — Chicago, Illinois, United States
 - **Trillium** — [IT Support Intern - Summer 2027](https://www.trlm.com/apply/5207070007?gh_jid=5207070007) — NYC
 - **Trillium** — [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076067007?gh_jid=5076067007) — Miami
-- **Trillium** — [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076003007?gh_jid=5076003007) — NYC
 - **Trillium** — [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) — Chicago
+- **Trillium** — [Summer 2027 Equity Trader Internship](https://www.trlm.com/apply/5076003007?gh_jid=5076003007) — NYC
 - **Two Sigma** — [AI Research Scientist - Intern [2027 Summer]](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096) — United States - NY New York
 - **Two Sigma** — [Quantitative Researcher - Intern [2027 Summer]](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-2027-Summer/13945) — United States - NY New York
 - **Vanguard** — [College to Corporate IT Internship - Data Science (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) — Malvern, PA
@@ -575,7 +604,7 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 ### Asia
 
 <details>
-<summary><strong>90 roles</strong> — click to expand</summary>
+<summary><strong>94 roles</strong> — click to expand</summary>
 
 - **AXQ Capital** — [「启元计划」2027 暑期实习｜量化开发实习生](https://job-boards.greenhouse.io/axq/jobs/5745501004) — Beijing
 - **AXQ Capital** — [「启元计划」2027 暑期实习｜量化研究实习生](https://job-boards.greenhouse.io/axq/jobs/5636192004) — Shanghai
@@ -609,17 +638,17 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 - **IMC Trading** — [Quantitative Research Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101) — Hong Kong, Hong Kong
 - **IMC Trading** — [Quantitative Trader Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101) — Hong Kong, Hong Kong
 - **IMC Trading** — [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) — Hong Kong, Hong Kong
-- **Jane Street** — [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8377831002/) — Hong Kong
 - **Jane Street** — [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8641377002/) — Hong Kong
+- **Jane Street** — [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8377831002/) — Hong Kong
 - **Jane Street** — [Linux Engineer](https://www.janestreet.com/join-jane-street/position/8625946002/) — Hong Kong
 - **Jane Street** — [Linux Engineer](https://www.janestreet.com/join-jane-street/position/8377832002/) — Hong Kong
 - **Jane Street** — [Network Engineer](https://www.janestreet.com/join-jane-street/position/8693539002/) — Singapore
 - **Jane Street** — [Quantitative Researcher](https://www.janestreet.com/join-jane-street/position/8623868002/) — Hong Kong
 - **Jane Street** — [Quantitative Trader](https://www.janestreet.com/join-jane-street/position/8623733002/) — Hong Kong
 - **Jane Street** — [Sales and Trading](https://www.janestreet.com/join-jane-street/position/8630687002/) — Hong Kong
-- **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/7582902002/) — Hong Kong
 - **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/8617298002/) — Hong Kong
 - **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/8632392002/) — Singapore
+- **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/7582902002/) — Hong Kong
 - **Jane Street** — [Strategy and Product](https://www.janestreet.com/join-jane-street/position/8630713002/) — Hong Kong
 - **Jane Street** — [Trading Desk Operations Engineer](https://www.janestreet.com/join-jane-street/position/8620505002/) — Hong Kong
 - **Jump Trading** — [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027946) — Singapore
@@ -643,8 +672,12 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 - **Point72** — [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) — Hong Kong
 - **Quantbot Technologies** — [Data Trading Analyst Summer Internship - 2027 [Hong Kong]](https://www.quantbot.com/careers/4344638009?gh_jid=4344638009) — Hong Kong
 - **Quantbot Technologies** — [Quantitative Researcher Internship - 2027 [Hong Kong]](https://www.quantbot.com/careers/4348629009?gh_jid=4348629009) — Hong Kong
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Data Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002) — Hong Kong
+- **Qube Research & Technologies** — [2027 Internship/Graduate - FPGA Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002) — Hong Kong
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Infrastructure / Cloud Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002) — Hong Kong/Singapore/Shanghai
 - **Qube Research & Technologies** — [2027 Internship/Graduate - Quantitative Developer / Software Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002) — Hong Kong/Singapore/Shanghai
 - **Qube Research & Technologies** — [2027 Internship/Graduate - Quantitative Research/Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002) — Hong Kong, Singapore, Shanghai, Beijing
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) — Hong Kong
 - **Schonfeld** — [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) — Hong Kong, Hong Kong
 - **Squarepoint Capital** — [Intern Software Developer - Singapore - 2027](https://www.squarepoint-capital.com/open-opportunities?id=6201998&gh_jid=6201998) — Singapore
 - **Susquehanna International Group** — [Equity Analyst Internship: Summer 2027](https://careers.sig.com/jobs/11361?lang=en-us) — Hong Kong, Hong Kong

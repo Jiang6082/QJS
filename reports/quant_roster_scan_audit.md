@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-08-26T12:50:05.006Z
+Scan started: 2026-08-27T00:37:35.716Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 
@@ -40,7 +40,7 @@ Canonical companies after aliases: 304
 | Old Mission Capital | 2/2 pages live | [link](https://www.oldmissioncapital.com/careers/) [link](https://job-boards.greenhouse.io/oldmissioncapital) |
 | Optiver | 12/12 pages live | [link](https://optiver.com/join-us/) [link](https://optiver.com/join-us/jobs/) [link](https://job-boards.greenhouse.io/optiverprivate) [link](https://optiver.com/join-us/locations/shanghai/) [link](https://optiver.com/join-us/students/programs/futurefocus/) [link](https://optiver.com/working-at-optiver/career-opportunities/) [link](https://optiver.com/) [link](https://optiver.com/working-at-optiver/) [link](https://prod-www.optiver.com/) [link](https://optiver.com/join-us/jobs/institutional-sales-and-trading/new-york/us-options-sales-trader/) [link](https://optiver.com/join-us/jobs/human-resources-and-recruiting/austin/) [link](https://optiver.com/join-us/jobs/human-resources-and-recruiting/) |
 | Squarepoint Capital | 1/1 pages live | [link](https://www.squarepoint-capital.com/open-opportunities) |
-| Trillium | 5/5 pages live | [link](https://www.trlm.com/careers/) [link](https://job-boards.greenhouse.io/trillium) [link](https://www.trilliumhealthresources.org/explore-trillium/careers/internship-practicum) [link](https://www.trilliumhealth.org/join-the-team) [link](https://www.trilliumhealthresources.org/explore-trillium/careers) |
+| Trillium | 4/5 pages live | [link](https://www.trlm.com/careers/) [link](https://job-boards.greenhouse.io/trillium) [link](https://www.trilliumhealthresources.org/explore-trillium/careers/internship-practicum) [link](https://www.trilliumhealth.org/join-the-team) [link](https://www.trilliumhealthresources.org/explore-trillium/careers) |
 | Wolverine Trading | 1/1 pages live | [link](https://www.wolve.com/careers/) |
 | XTX Markets | 1/1 pages live | [link](https://www.xtxmarkets.com/careers/) |
 | Tower Research Capital | 2/2 pages live | [link](https://www.tower-research.com/open-positions/) [link](https://job-boards.greenhouse.io/towerresearchcapital) |
@@ -49,7 +49,7 @@ Canonical companies after aliases: 304
 | Verition Fund Management | 2/3 pages live | [link](https://www.verition.com/careers/) [link](https://www.verition.com/careers) [link](https://www.verition.com/open-positions) |
 | Walleye Capital | 3/3 pages live | [link](https://job-boards.greenhouse.io/walleyecapital-external-students) [link](https://walleyecapital.com/careers) [link](https://job-boards.greenhouse.io/walleyecapital-external-fulltime) |
 | Wincent | 1/1 pages live | [link](https://www.wincent.com/careers/) |
-| Voleon Group | 3/4 pages live | [link](https://jobs.ashbyhq.com/voleon) [link](https://jobs.lever.co/voleon/) [link](https://www.voleon.com/careers/) [link](https://www.voleon.com/jobs/) |
+| Voleon Group | 2/4 pages live | [link](https://jobs.ashbyhq.com/voleon) [link](https://jobs.lever.co/voleon/) [link](https://www.voleon.com/careers/) [link](https://www.voleon.com/jobs/) |
 | TransMarket Group | 1/1 pages live | [link](https://job-boards.greenhouse.io/transmarketgroup) |
 | Voloridge | 2/2 pages live | [link](https://www.voloridge.com/our-approach) [link](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement) |
 | WorldQuant | 3/3 pages live | [link](https://job-boards.greenhouse.io/worldquant) [link](https://job-boards.greenhouse.io/worldquant?error=true) [link](https://www.worldquant.com/careers/) |
@@ -300,7 +300,7 @@ Canonical companies after aliases: 304
 | TSY Capital | 1/1 pages live | [link](https://tsycapital.com/career.html) |
 | Tibra | 1/1 pages live | [link](https://www.tibra.com/careers/) |
 | Tradermath | 3/3 pages live | [link](https://www.tradermath.org/login) [link](https://www.tradermath.org/subscriptions) [link](https://www.tradermath.org/signup) |
-| Trexquant | 1/2 pages live | [link](https://www.trexquant.com/careers/) [link](https://trexquant.com/careers) |
+| Trexquant | 2/2 pages live | [link](https://www.trexquant.com/careers/) [link](https://trexquant.com/careers) |
 | UC Capital | 1/1 pages live | [link](https://www.uccapital.com.tw/zh/careers) |
 | Uranus Research | 1/1 pages live | [link](https://en.uranus-research.com/talents) |
 | WEBB Traders | 1/1 pages live | [link](http://www.webbtraders.com/careers) |

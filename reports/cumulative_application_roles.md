@@ -2,15 +2,21 @@
 
 _Updated 2026-08-26. Roles remain in this ledger when they age out of the rolling 21-day report._
 
-- **171** unique role URLs tracked
-- **169** active or manually verified today
+- **178** unique role URLs tracked
+- **176** active or manually verified today
 - **2** not detected in the latest scan
-- **1** new scanner URLs since the previous scan
+- **7** new scanner URLs since the previous scan
 - **5** live Scientech roles recovered from its nested official Ashby board
 
-## New scanner URLs since the previous scan (1)
+## New scanner URLs since the previous scan (7)
 
-- **Qube Research & Technologies** — [2027 Internship/Graduate - Quantitative Developer / Software Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002) — Hong Kong/Singapore/Shanghai — released 2026-08-24
+- **BMO Capital Markets** — [BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) — Toronto, ON, CAN — released 2026-08-26
+- **Connor Clark & Lunn** — [Intern, Quantitative Developer](https://job-boards.greenhouse.io/cclim/jobs/4383943009) — Vancouver, British Columbia, Canada — released 2026-08-26
+- **Connor Clark & Lunn** — [Intern, Quantitative Equity Analyst](https://job-boards.greenhouse.io/cclim/jobs/4383968009) — Vancouver, British Columbia, Canada — released 2026-08-26
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Data Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002) — Hong Kong — released 2026-08-26
+- **Qube Research & Technologies** — [2027 Internship/Graduate - FPGA Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002) — Hong Kong — released 2026-08-26
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Infrastructure / Cloud Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002) — Hong Kong/Singapore/Shanghai — released 2026-08-26
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) — Hong Kong — released 2026-08-26
 
 ## Scientech roles recovered from the nested official board (5)
 
@@ -22,7 +28,7 @@ _These roles are live on Scientech's official Ashby board but absent from the sc
 - **Scientech Research Capital** — [Quantitative Researcher Intern](https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80) — New Jersey — released 2025-01-23
 - **Scientech Research Capital** — [Quantitative Researcher Intern](https://jobs.ashbyhq.com/scientech-research/c344ad5a-b148-4a96-8d6c-a660e6f86896) — Shanghai — released 2025-01-23
 
-## Active cumulative queue (169)
+## Active cumulative queue (176)
 
 ### AQR Capital Management (3)
 
@@ -67,8 +73,9 @@ _These roles are live on Scientech's official Ashby board but absent from the sc
 - **Belvedere Trading** — [Quantitative Trading Intern - Winter Quarter 2027](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) — Chicago, Illinois — released 2026-08-04
 - **Belvedere Trading** — [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) — Chicago, Illinois — released 2026-08-04
 
-### BMO Capital Markets (1)
+### BMO Capital Markets (2)
 
+- **BMO Capital Markets** — [BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) — Toronto, ON, CAN — released 2026-08-26
 - **BMO Capital Markets** — [BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1) — Toronto, ON, CAN — released 2026-08-25
 
 ### BP (3)
@@ -76,6 +83,11 @@ _These roles are live on Scientech's official Ashby board but absent from the sc
 - **BP** — [6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2) — Singapore - Singapore — released 2026-08-14
 - **BP** — [Summer Internship - Finance & Risk - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217) — Singapore - Singapore — released 2026-08-14
 - **BP** — [Summer Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2) — Singapore - Singapore — released 2026-08-14
+
+### Connor Clark & Lunn (2)
+
+- **Connor Clark & Lunn** — [Intern, Quantitative Developer](https://job-boards.greenhouse.io/cclim/jobs/4383943009) — Vancouver, British Columbia, Canada — released 2026-08-26
+- **Connor Clark & Lunn** — [Intern, Quantitative Equity Analyst](https://job-boards.greenhouse.io/cclim/jobs/4383968009) — Vancouver, British Columbia, Canada — released 2026-08-26
 
 ### D. E. Shaw (2)
 
@@ -231,8 +243,12 @@ _These roles are live on Scientech's official Ashby board but absent from the sc
 - **Quantbot Technologies** — [Quantitative Developer Internship - 2027 [New York]](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) — New York — released 2026-08-07
 - **Quantbot Technologies** — [Quantitative Researcher Internship - 2027 [New York]](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) — New York — released 2026-08-07
 
-### Qube Research & Technologies (2)
+### Qube Research & Technologies (6)
 
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Data Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002) — Hong Kong — released 2026-08-26
+- **Qube Research & Technologies** — [2027 Internship/Graduate - FPGA Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002) — Hong Kong — released 2026-08-26
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Infrastructure / Cloud Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002) — Hong Kong/Singapore/Shanghai — released 2026-08-26
+- **Qube Research & Technologies** — [2027 Internship/Graduate - Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) — Hong Kong — released 2026-08-26
 - **Qube Research & Technologies** — [2027 Internship/Graduate - Quantitative Developer / Software Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002) — Hong Kong/Singapore/Shanghai — released 2026-08-24
 - **Qube Research & Technologies** — [2027 Internship/Graduate - Quantitative Research/Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002) — Hong Kong, Singapore, Shanghai, Beijing — released 2026-08-24
 

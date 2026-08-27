@@ -5,6 +5,7 @@ import { isKnownWrongCareerPage } from "../tools/career-source-guards.mjs";
 const baseCsvPath = "reports/quant_internship_roles_scan.csv";
 const careerPageDbPath = "inputs/company_career_pages.json";
 const firmRosterPath = "inputs/quant_firm_roster.json";
+const previousRawPath = ".scan-state/previous_quant_v2_raw.json";
 const firmRoster = JSON.parse(await fs.readFile(firmRosterPath, "utf8"));
 const rosterCompanies = firmRoster.companies.map((company) => firmRoster.aliases?.[company] || company);
 
@@ -1187,6 +1188,47 @@ async function readBaseCsv() {
   }
 }
 
+function workdayDetailUrl(value = "") {
+  try {
+    const url = new URL(value);
+    if (!/\.myworkdayjobs\.com$/i.test(url.hostname)) return null;
+    const parts = url.pathname.split("/").filter(Boolean);
+    if (parts.length < 3 || parts[1].toLowerCase() !== "job") return null;
+    const tenant = url.hostname.split(".")[0];
+    return `${url.origin}/wday/cxs/${tenant}/${parts[0]}/${parts.slice(1).join("/")}`;
+  } catch {
+    return null;
+  }
+}
+
+async function getLivePreviousWorkdayRows() {
+  let previous;
+  try {
+    previous = JSON.parse(await fs.readFile(previousRawPath, "utf8"));
+  } catch {
+    return [];
+  }
+  const candidates = (previous.rows || []).filter((row) => workdayDetailUrl(row.URL));
+  const verified = await mapLimit(candidates, 6, async (row) => {
+    const detailUrl = workdayDetailUrl(row.URL);
+    const response = await fetchText(detailUrl);
+    if (!response.ok) return null;
+    let payload;
+    try { payload = JSON.parse(response.text); } catch { return null; }
+    const posting = payload.jobPostingInfo;
+    if (!posting?.title) return null;
+    return {
+      ...row,
+      Title: posting.title,
+      Location: posting.location || row.Location || "",
+      Source: row.Source || "Previously seen official Workday posting",
+      Status: "Confirmed official posting",
+      Notes: [row.Notes || "", posting.postedOn || "", "revalidated_from_previous_scan=true"].filter(Boolean).join(" | "),
+    };
+  }, "workday-revalidate");
+  return verified.filter(Boolean);
+}
+
 const baseRows = (await readBaseCsv()).map((row) => ({
   Company: row.Company,
   Title: row.Title,
@@ -1200,6 +1242,7 @@ const baseRows = (await readBaseCsv()).map((row) => ({
 const searchedAt = new Date().toISOString();
 const careerPageDb = await ensureCareerPageDb();
 const careerPageScan = await scanCareerPages(careerPageDb);
+const livePreviousWorkdayRows = await getLivePreviousWorkdayRows();
 const janeStreetRows = await getJaneStreetStudentRows();
 const deshawRows = await getDeshawInternRows();
 const twoSigmaRows = await getTwoSigmaInternRows();
@@ -1213,8 +1256,9 @@ const customSourceAudits = [
   { company: "Susquehanna International Group", source: "Official paginated jobs API", jobsRetained: sigRows.length },
   { company: "Balyasny Asset Management", source: "Official Salesforce Experience Cloud feed", jobsRetained: balyasnyRows.length },
   { company: "Goldman Sachs", source: "Official Higher campus GraphQL API", jobsRetained: goldmanRows.length },
+  { company: "Previously seen Workday roles", source: "Official Workday job-detail APIs", jobsRetained: livePreviousWorkdayRows.length },
 ];
-const careerPageRows = [...careerPageScan.rows, ...janeStreetRows, ...deshawRows, ...twoSigmaRows, ...sigRows, ...balyasnyRows, ...goldmanRows];
+const careerPageRows = [...careerPageScan.rows, ...livePreviousWorkdayRows, ...janeStreetRows, ...deshawRows, ...twoSigmaRows, ...sigRows, ...balyasnyRows, ...goldmanRows];
 const discoveredNested = await mapLimit(companies, 8, async (company) => {
   const companyHits = [];
   const seen = new Set();

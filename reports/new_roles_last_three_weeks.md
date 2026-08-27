@@ -1,4 +1,4 @@
-# Roles released 2026-08-06 → 2026-08-26 (120 with confirmed release dates)
+# Roles released 2026-08-06 → 2026-08-26 (127 with confirmed release dates)
 
 ## Goldman Sachs (26)
 - **2026-08-15** — [2027 | Americas | Dallas Metro Area | Asset and Wealth Management Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/171532) — Dallas, TX, United States
@@ -75,6 +75,14 @@
 - **2026-08-17** — [College to Corporate IT Internship - Risk & Security - Engineer  (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1) — Charlotte, NC
 - **2026-08-17** — [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) — Malvern, PA
 
+## Qube Research & Technologies (6)
+- **2026-08-26** — [2027 Internship/Graduate - Data Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002) — Hong Kong
+- **2026-08-26** — [2027 Internship/Graduate - FPGA Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002) — Hong Kong
+- **2026-08-26** — [2027 Internship/Graduate - Infrastructure / Cloud Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002) — Hong Kong/Singapore/Shanghai
+- **2026-08-26** — [2027 Internship/Graduate - Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) — Hong Kong
+- **2026-08-24** — [2027 Internship/Graduate - Quantitative Developer / Software Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002) — Hong Kong/Singapore/Shanghai
+- **2026-08-24** — [2027 Internship/Graduate - Quantitative Research/Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002) — Hong Kong, Singapore, Shanghai, Beijing
+
 ## Susquehanna International Group (6)
 - **2026-08-25** — [Equity Analyst Internship: Summer 2027](https://careers.sig.com/jobs/11361?lang=en-us) — Hong Kong, Hong Kong
 - **2026-08-25** — [Macro Analyst Internship: Summer 2027](https://careers.sig.com/jobs/11362?lang=en-us) — Hong Kong, Hong Kong
@@ -128,9 +136,13 @@
 - **2026-08-14** — [Summer Internship - Finance & Risk - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217) — Singapore - Singapore
 - **2026-08-14** — [Summer Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2) — Singapore - Singapore
 
-## Qube Research & Technologies (2)
-- **2026-08-24** — [2027 Internship/Graduate - Quantitative Developer / Software Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002) — Hong Kong/Singapore/Shanghai
-- **2026-08-24** — [2027 Internship/Graduate - Quantitative Research/Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002) — Hong Kong, Singapore, Shanghai, Beijing
+## BMO Capital Markets (2)
+- **2026-08-26** — [BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) — Toronto, ON, CAN
+- **2026-08-25** — [BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1) — Toronto, ON, CAN
+
+## Connor Clark & Lunn (2)
+- **2026-08-26** — [Intern, Quantitative Developer](https://job-boards.greenhouse.io/cclim/jobs/4383943009) — Vancouver, British Columbia, Canada
+- **2026-08-26** — [Intern, Quantitative Equity Analyst](https://job-boards.greenhouse.io/cclim/jobs/4383968009) — Vancouver, British Columbia, Canada
 
 ## Xantium (2)
 - **2026-08-17** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) — London, England, New York, New York
@@ -143,9 +155,6 @@
 ## Arrowstreet (2)
 - **2026-08-07** — [Quantitative Developer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) — Boston
 - **2026-08-07** — [Quantitative Researcher Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) — Boston
-
-## BMO Capital Markets (1)
-- **2026-08-25** — [BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1) — Toronto, ON, CAN
 
 ## Verition Fund Management (1)
 - **2026-08-19** — [2027 Technology Internship (US)](https://www.verition.com/open-positions?gh_jid=5214784007) — Chicago, Illinois, United States; Greenwich, Connecticut, United States; Houston, Texas, United States; Miami, Florida, United States; New York, NY, USA; Norwalk, CT
