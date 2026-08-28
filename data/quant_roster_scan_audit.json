@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-27T00:43:43.315Z",
-  "scanStartedAt": "2026-08-27T00:37:35.716Z",
+  "generatedAt": "2026-08-28T00:52:48.117Z",
+  "scanStartedAt": "2026-08-28T00:47:40.240Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 139,
+      "jobsSeen": 140,
       "relevantInternships": 0
     },
     {
@@ -156,7 +156,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantInternships": 2
     },
     {
@@ -285,8 +285,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 51,
-      "relevantInternships": 9
+      "jobsSeen": 53,
+      "relevantInternships": 10
     },
     {
       "company": "Accent Groupe",
@@ -341,7 +341,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantInternships": 2
     },
     {
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 158,
+      "jobsSeen": 174,
       "relevantInternships": 18
     },
     {
@@ -871,9 +871,9 @@
         "https://www.b2c2.com/join-b2c2/careers",
         "https://job-boards.greenhouse.io/b2c2"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
-      "jobsSeen": 2,
+      "jobsSeen": 3,
       "relevantInternships": 0
     },
     {
@@ -946,7 +946,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 14,
+      "jobsSeen": 11,
       "relevantInternships": 0
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 63,
+      "jobsSeen": 62,
       "relevantInternships": 7
     },
     {
@@ -1054,8 +1054,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 124,
-      "relevantInternships": 4
+      "jobsSeen": 122,
+      "relevantInternships": 5
     },
     {
       "company": "Domeyard LP",
@@ -1240,7 +1240,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 70,
+      "jobsSeen": 73,
       "relevantInternships": 3
     },
     {
@@ -1378,7 +1378,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 19,
       "relevantInternships": 0
@@ -1434,7 +1434,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 44,
+      "jobsSeen": 42,
       "relevantInternships": 2
     },
     {
@@ -1664,7 +1664,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 43,
+      "jobsSeen": 41,
       "relevantInternships": 0
     },
     {
@@ -1733,7 +1733,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantInternships": 0
     },
     {
@@ -2083,7 +2083,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 30,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -2113,8 +2113,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 171,
-      "relevantInternships": 16
+      "jobsSeen": 173,
+      "relevantInternships": 17
     },
     {
       "company": "Independent Trading Group (ITG)",
@@ -2288,9 +2288,9 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/nksecuritiesresearch?error=true"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 16,
+      "jobsSeen": 17,
       "relevantInternships": 0
     },
     {
@@ -2766,14 +2766,14 @@
       "sourceRosterNames": [
         "Scientech Research Capital"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.scientechresearch.io/jobopenings"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "jobsSeen": 17,
+      "relevantInternships": 5
     },
     {
       "company": "Simplex Trading",
@@ -3052,7 +3052,7 @@
       "careerPages": [
         "https://sqmtechnologies.com/careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3132,7 +3132,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3245,7 +3245,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 36,
+      "jobsSeen": 35,
       "relevantInternships": 1
     },
     {
@@ -3692,7 +3692,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 60,
+      "jobsSeen": 59,
       "relevantInternships": 0
     },
     {
@@ -3708,7 +3708,7 @@
         "https://www.trilliumhealth.org/join-the-team",
         "https://www.trilliumhealthresources.org/explore-trillium/careers"
       ],
-      "livePages": 4,
+      "livePages": 5,
       "attemptedPages": 5,
       "jobsSeen": 10,
       "relevantInternships": 4
@@ -3800,7 +3800,7 @@
       "sourceRosterNames": [
         "Wolverine Trading"
       ],
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.wolve.com/careers/"
       ],
@@ -3873,7 +3873,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantInternships": 0
     },
     {
@@ -3945,10 +3945,10 @@
         "https://www.verition.com/careers",
         "https://www.verition.com/open-positions"
       ],
-      "livePages": 2,
+      "livePages": 0,
       "attemptedPages": 3,
-      "jobsSeen": 33,
-      "relevantInternships": 1
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "VivCourt Trading",
@@ -3975,9 +3975,9 @@
         "https://walleyecapital.com/careers",
         "https://job-boards.greenhouse.io/walleyecapital-external-fulltime"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 15,
+      "jobsSeen": 11,
       "relevantInternships": 2
     },
     {
@@ -4077,7 +4077,7 @@
         "https://www.voleon.com/careers/",
         "https://www.voleon.com/jobs/"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 4,
       "jobsSeen": 59,
       "relevantInternships": 1
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 94,
+      "jobsSeen": 92,
       "relevantInternships": 0
     },
     {
@@ -4267,7 +4267,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 5,
       "relevantInternships": 1
     }
   ]

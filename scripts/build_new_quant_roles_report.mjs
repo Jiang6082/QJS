@@ -4,6 +4,7 @@ import { calendarDate } from "./calendar-date.mjs";
 
 const previousPath = ".scan-state/previous_quant_v2_raw.json";
 const currentPath = "data/quant_internship_roles_scan_v2_raw.json";
+const confirmedRerun = process.argv.includes("--confirmed-rerun");
 
 // Query params that are pure tracking noise and never identify a job posting.
 // Everything else (gh_jid, id, jobId, gh_src, ...) is kept, so distinct jobs on
@@ -93,6 +94,11 @@ try {
 const current = JSON.parse(await fs.readFile(currentPath, "utf8"));
 const previousUrls = new Set((previous.rows || []).map((row) => stableUrl(row.URL)));
 const currentUrls = new Set((current.rows || []).map((row) => stableUrl(row.URL)));
+let manuallyVerifiedUrls = new Set();
+try {
+  const manual = JSON.parse(await fs.readFile("inputs/manually_verified_roles.json", "utf8"));
+  manuallyVerifiedUrls = new Set((manual.roles || []).map((row) => stableUrl(row.URL)));
+} catch {}
 
 // --- Stability guard ---------------------------------------------------------
 // A role is only reported as newly added once it has appeared in TWO consecutive
@@ -120,6 +126,16 @@ try {
   stable = null;
 }
 
+// Manually verified roles are already in the cumulative application ledger.
+// If a scanner fix later discovers them automatically, do not mislabel that
+// technical recovery as a newly opened job.
+if (stable !== null) {
+  for (const url of manuallyVerifiedUrls) {
+    const row = currentByUrl.get(url);
+    if (row && !stable.has(url)) stable.set(url, roleMeta(row));
+  }
+}
+
 let added, removed;
 if (stable === null) {
   // First run under the guard: seed the confirmed set from the current roles and
@@ -128,8 +144,12 @@ if (stable === null) {
   added = [];
   removed = [];
 } else {
-  // Confirmed added: present in BOTH this scan and the previous one, not yet stable.
-  const confirmedAdded = [...currentUrls].filter((u) => previousUrls.has(u) && !stable.has(u));
+  // Confirmed added: normally present in BOTH this scan and the previous one.
+  // After a second full source scan, report the exact committed-baseline delta;
+  // manually verified roles are excluded because they were already surfaced.
+  const confirmedAdded = confirmedRerun
+    ? [...currentUrls].filter((u) => !previousUrls.has(u) && !manuallyVerifiedUrls.has(u))
+    : [...currentUrls].filter((u) => previousUrls.has(u) && !stable.has(u));
   // Confirmed closed: in the stable set but absent from BOTH this and the previous scan.
   const confirmedRemoved = [...stable.keys()].filter((u) => !currentUrls.has(u) && !previousUrls.has(u));
   added = confirmedAdded.map((u) => roleMeta(currentByUrl.get(u)));

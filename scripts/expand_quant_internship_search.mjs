@@ -138,6 +138,7 @@ const seedCareerPages = {
 const seedAtsTokens = {
   "Chicago Trading Company": { greenhouse: ["ctccampusboard"] },
   "Hudson River Trading": { greenhouse: ["wehrtyou"] },
+  "Scientech Research Capital": { ashby: ["scientech-research"] },
   "Stevens Capital Management": { greenhouse: ["scm"] },
   "RRS Group": { smartrecruiters: ["RRSGroup"] },
 };
@@ -1201,6 +1202,19 @@ function workdayDetailUrl(value = "") {
   }
 }
 
+function greenhouseDetailUrl(row = {}) {
+  const token = String(row.Source || "").match(/Greenhouse:([^\s|]+)/i)?.[1];
+  if (!token) return null;
+  try {
+    const url = new URL(row.URL || "");
+    const jobId = url.searchParams.get("gh_jid") || url.pathname.match(/\/jobs\/(\d+)/i)?.[1];
+    if (!jobId) return null;
+    return `https://boards-api.greenhouse.io/v1/boards/${token}/jobs/${jobId}`;
+  } catch {
+    return null;
+  }
+}
+
 async function getLivePreviousWorkdayRows() {
   let previous;
   try {
@@ -1229,6 +1243,34 @@ async function getLivePreviousWorkdayRows() {
   return verified.filter(Boolean);
 }
 
+async function getLivePreviousGreenhouseRows() {
+  let previous;
+  try {
+    previous = JSON.parse(await fs.readFile(previousRawPath, "utf8"));
+  } catch {
+    return [];
+  }
+  const candidates = (previous.rows || []).filter((row) => greenhouseDetailUrl(row));
+  const verified = await mapLimit(candidates, 6, async (row) => {
+    const detailUrl = greenhouseDetailUrl(row);
+    const response = await fetchText(detailUrl);
+    if (!response.ok) return null;
+    let posting;
+    try { posting = JSON.parse(response.text); } catch { return null; }
+    if (!posting?.title) return null;
+    return {
+      ...row,
+      Title: posting.title,
+      Department: (posting.departments || []).map((department) => department.name).filter(Boolean).join(", ") || row.Department || "",
+      Location: posting.location?.name || row.Location || "",
+      Source: row.Source || "Previously seen official Greenhouse posting",
+      Status: "Confirmed official posting",
+      Notes: [row.Notes || "", "revalidated_from_previous_scan=true"].filter(Boolean).join(" | "),
+    };
+  }, "greenhouse-revalidate");
+  return verified.filter(Boolean);
+}
+
 const baseRows = (await readBaseCsv()).map((row) => ({
   Company: row.Company,
   Title: row.Title,
@@ -1243,6 +1285,7 @@ const searchedAt = new Date().toISOString();
 const careerPageDb = await ensureCareerPageDb();
 const careerPageScan = await scanCareerPages(careerPageDb);
 const livePreviousWorkdayRows = await getLivePreviousWorkdayRows();
+const livePreviousGreenhouseRows = await getLivePreviousGreenhouseRows();
 const janeStreetRows = await getJaneStreetStudentRows();
 const deshawRows = await getDeshawInternRows();
 const twoSigmaRows = await getTwoSigmaInternRows();
@@ -1257,8 +1300,9 @@ const customSourceAudits = [
   { company: "Balyasny Asset Management", source: "Official Salesforce Experience Cloud feed", jobsRetained: balyasnyRows.length },
   { company: "Goldman Sachs", source: "Official Higher campus GraphQL API", jobsRetained: goldmanRows.length },
   { company: "Previously seen Workday roles", source: "Official Workday job-detail APIs", jobsRetained: livePreviousWorkdayRows.length },
+  { company: "Previously seen Greenhouse roles", source: "Official Greenhouse job-detail APIs", jobsRetained: livePreviousGreenhouseRows.length },
 ];
-const careerPageRows = [...careerPageScan.rows, ...livePreviousWorkdayRows, ...janeStreetRows, ...deshawRows, ...twoSigmaRows, ...sigRows, ...balyasnyRows, ...goldmanRows];
+const careerPageRows = [...careerPageScan.rows, ...livePreviousWorkdayRows, ...livePreviousGreenhouseRows, ...janeStreetRows, ...deshawRows, ...twoSigmaRows, ...sigRows, ...balyasnyRows, ...goldmanRows];
 const discoveredNested = await mapLimit(companies, 8, async (company) => {
   const companyHits = [];
   const seen = new Set();

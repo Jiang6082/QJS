@@ -1,12 +1,82 @@
 {
-  "generatedAt": "2026-08-27T00:43:53.780Z",
-  "currentScanAt": "2026-08-27T00:37:35.716Z",
-  "total": 178,
-  "active": 176,
-  "notDetected": 2,
-  "newSincePreviousScan": 7,
+  "generatedAt": "2026-08-28T00:52:58.776Z",
+  "currentScanAt": "2026-08-28T00:47:40.240Z",
+  "total": 183,
+  "active": 180,
+  "notDetected": 3,
+  "newSincePreviousScan": 5,
   "manuallyRecovered": 5,
   "roles": [
+    {
+      "Company": "AQR Capital Management",
+      "Title": "2027 Portfolio Finance Summer Analyst",
+      "Location": "Greenwich, CT",
+      "URL": "https://careers.aqr.com/jobs?gh_jid=8161563&gh_jid=8161563",
+      "Source": "Career page Greenhouse:aqr",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-27",
+      "first_seen": "2026-08-27",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Deutsche Bank",
+      "Title": "DWS Liquidity Risk Intern",
+      "Location": "Luxembourg 2 Blvd K. Adenauer",
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Liquidity-Risk-Intern_R0446573-1",
+      "Source": "Career page Workday:db/DBWebsite",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-27",
+      "first_seen": "2026-08-27",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Dimensional Fund Advisors",
+      "Title": "Internship in Investment/Strategy Research (Undergraduate & Master's)",
+      "Location": "2 Locations",
+      "URL": "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Investment-Strategy-Research--Undergraduate-and-Masters-_2026-9037",
+      "Source": "Career page Workday:dimensional/DFA_Careers",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-27",
+      "first_seen": "2026-08-27",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "IMC Financial Markets",
+      "Title": "Performance Engineer Intern - Summer 2027",
+      "Location": "Chicago, United States",
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
+      "Source": "Greenhouse:imc",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-27",
+      "first_seen": "2026-08-27",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Windows Engineer",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8755768002/",
+      "Source": "Official Jane Street jobs feed",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-27",
+      "first_seen": "2026-08-27",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
     {
       "Company": "BMO Capital Markets",
       "Title": "BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)",
@@ -466,7 +536,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-26",
+      "verifiedAt": "2026-08-27",
       "status": "active"
     },
     {
@@ -806,20 +876,6 @@
       "status": "active"
     },
     {
-      "Company": "Vanguard",
-      "Title": "College to Corporate IT Internship - Risk & Security - Engineer  (PA)",
-      "Location": "Malvern, PA",
-      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1",
-      "Source": "Career page Workday:vanguard/vanguard_external",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-08-17",
-      "first_seen": "2026-08-25",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "Xantium",
       "Title": "Quantitative Developer Intern",
       "Location": "London, England, New York, New York",
@@ -835,7 +891,7 @@
     },
     {
       "Company": "Xantium",
-      "Title": "Quantitative Researcher Internship",
+      "Title": "Quantitative Researcher Intern",
       "Location": "London, England, New York, New York",
       "URL": "https://job-boards.greenhouse.io/xantium/jobs/4371217009",
       "Source": "Career page Greenhouse:xantium",
@@ -2426,7 +2482,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-26",
+      "verifiedAt": "2026-08-27",
       "status": "active"
     },
     {
@@ -2440,7 +2496,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-26",
+      "verifiedAt": "2026-08-27",
       "status": "active"
     },
     {
@@ -2454,7 +2510,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-26",
+      "verifiedAt": "2026-08-27",
       "status": "active"
     },
     {
@@ -2468,7 +2524,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-26",
+      "verifiedAt": "2026-08-27",
       "status": "active"
     },
     {
@@ -2480,6 +2536,20 @@
       "source_status": "",
       "release_date": null,
       "first_seen": "2026-08-17",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship - Risk & Security - Engineer  (PA)",
+      "Location": "Malvern, PA",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-17",
+      "first_seen": "2026-08-25",
       "discovery_note": null,
       "manually_verified": false,
       "verifiedAt": null,

@@ -1,9 +1,55 @@
 {
-  "generatedAt": "2026-08-27T00:43:43.433Z",
-  "previousScanAt": "2026-08-26T12:50:05.006Z",
-  "currentScanAt": "2026-08-27T00:37:35.716Z",
-  "previousRows": 425,
-  "currentRows": 432,
-  "added": [],
+  "generatedAt": "2026-08-28T00:52:48.233Z",
+  "previousScanAt": "2026-08-27T00:37:35.716Z",
+  "currentScanAt": "2026-08-28T00:47:40.240Z",
+  "previousRows": 432,
+  "currentRows": 440,
+  "added": [
+    {
+      "Company": "AQR Capital Management",
+      "Title": "2027 Portfolio Finance Summer Analyst",
+      "Location": "Greenwich, CT",
+      "Region": "North America",
+      "URL": "https://careers.aqr.com/jobs?gh_jid=8161563&gh_jid=8161563",
+      "Source": "Career page Greenhouse:aqr",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Deutsche Bank",
+      "Title": "DWS Liquidity Risk Intern",
+      "Location": "Luxembourg 2 Blvd K. Adenauer",
+      "Region": "Remote / Unspecified",
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Liquidity-Risk-Intern_R0446573-1",
+      "Source": "Career page Workday:db/DBWebsite",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Dimensional Fund Advisors",
+      "Title": "Internship in Investment/Strategy Research (Undergraduate & Master's)",
+      "Location": "2 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Investment-Strategy-Research--Undergraduate-and-Masters-_2026-9037",
+      "Source": "Career page Workday:dimensional/DFA_Careers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "IMC Financial Markets",
+      "Title": "Performance Engineer Intern - Summer 2027",
+      "Location": "Chicago, United States",
+      "Region": "North America",
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
+      "Source": "Greenhouse:imc",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Windows Engineer",
+      "Location": "London",
+      "Region": "Europe",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8755768002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting"
+    }
+  ],
   "removed": []
 }

@@ -151,8 +151,10 @@ const roles = [...ledger.values()].map((role) => ({
   return bd.localeCompare(ad) || a.Company.localeCompare(b.Company) || a.Title.localeCompare(b.Title) || a.Location.localeCompare(b.Location);
 });
 
-const scannerNewUrls = new Set(currentRoleRows.filter((row) => !previousUrls.has(row.URL)).map((row) => row.URL));
 const manuallyRecoveredUrls = new Set((manual.roles || []).map((role) => role.URL));
+const scannerNewUrls = new Set(currentRoleRows
+  .filter((row) => !previousUrls.has(row.URL) && !manuallyRecoveredUrls.has(row.URL))
+  .map((row) => row.URL));
 const active = roles.filter((role) => role.status === "active");
 const notDetected = roles.filter((role) => role.status === "not_detected");
 const scannerNew = roles.filter((role) => scannerNewUrls.has(role.URL));
@@ -181,13 +183,13 @@ md += `- **${roles.length}** unique role URLs tracked\n`;
 md += `- **${active.length}** active or manually verified today\n`;
 md += `- **${notDetected.length}** not detected in the latest scan\n`;
 md += `- **${scannerNew.length}** new scanner URLs since the previous scan\n`;
-md += `- **${manuallyRecovered.length}** live Scientech roles recovered from its nested official Ashby board\n\n`;
+md += `- **${manuallyRecovered.length}** live Scientech roles verified on its nested official Ashby board\n\n`;
 
 md += `## New scanner URLs since the previous scan (${scannerNew.length})\n\n`;
 for (const role of scannerNew) md += `${line(role)}\n`;
 
-md += `\n## Scientech roles recovered from the nested official board (${manuallyRecovered.length})\n\n`;
-md += `_These roles are live on Scientech's official Ashby board but absent from the scanner because the configured Wix page hides the board inside nested iframes._\n\n`;
+md += `\n## Scientech roles verified on the nested official board (${manuallyRecovered.length})\n\n`;
+md += `_The outer Wix careers page hides this board inside nested iframes. QJS now enumerates the official Ashby board directly with a saved board token._\n\n`;
 for (const role of manuallyRecovered) md += `${line(role)}\n`;
 
 md += `\n## Active cumulative queue (${active.length})\n\n`;
