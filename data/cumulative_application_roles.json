@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T00:52:58.776Z",
-  "currentScanAt": "2026-08-28T00:47:40.240Z",
+  "generatedAt": "2026-08-30T03:37:16.703Z",
+  "currentScanAt": "2026-08-30T03:32:26.077Z",
   "total": 183,
-  "active": 180,
-  "notDetected": 3,
-  "newSincePreviousScan": 5,
+  "active": 177,
+  "notDetected": 6,
+  "newSincePreviousScan": 0,
   "manuallyRecovered": 5,
   "roles": [
     {
@@ -289,8 +289,8 @@
     },
     {
       "Company": "Jump Trading",
-      "Title": "Campus Quantitative Research Intern (Off-Cycle - Winter/Spring 2027)",
-      "Location": "Hong Kong, Shanghai",
+      "Title": "Campus Quantitative Researcher (Off-Cycle - Winter/Spring 2027 Intern)",
+      "Location": "Hong Kong; Shanghai",
       "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027898",
       "Source": "Greenhouse:jumptrading",
       "source_status": "Confirmed official posting",
@@ -360,7 +360,7 @@
     {
       "Company": "Jump Trading",
       "Title": "Campus Quantitative Researcher (Intern)",
-      "Location": "Hong Kong, Shanghai",
+      "Location": "Hong Kong; Shanghai",
       "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
       "Source": "Greenhouse:jumptrading",
       "source_status": "Confirmed official posting",
@@ -374,7 +374,7 @@
     {
       "Company": "Jump Trading",
       "Title": "Campus Quantitative Trader (Intern)",
-      "Location": "Hong Kong, Shanghai",
+      "Location": "Hong Kong; Shanghai",
       "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
       "Source": "Greenhouse:jumptrading",
       "source_status": "Confirmed official posting",
@@ -536,7 +536,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-27",
+      "verifiedAt": "2026-08-29",
       "status": "active"
     },
     {
@@ -548,20 +548,6 @@
       "source_status": "Confirmed official posting",
       "release_date": "2026-08-20",
       "first_seen": "2026-08-20",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "Vanguard",
-      "Title": "College to Corporate IT Internship - Data Science (NC)",
-      "Location": "Charlotte, NC",
-      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765",
-      "Source": "Career page Workday:vanguard/vanguard_external",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-08-20",
-      "first_seen": "2026-08-21",
       "discovery_note": null,
       "manually_verified": false,
       "verifiedAt": null,
@@ -1969,34 +1955,6 @@
     },
     {
       "Company": "Quantbot Technologies",
-      "Title": "Machine Learning Research Engineer Internship - 2027 [New York]",
-      "Location": "New York",
-      "URL": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009",
-      "Source": "Greenhouse:quantbot-technologies",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-08-07",
-      "first_seen": "2026-08-21",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "Quantbot Technologies",
-      "Title": "Quantitative Developer Internship - 2027 [New York]",
-      "Location": "New York",
-      "URL": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009",
-      "Source": "Greenhouse:quantbot-technologies",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-08-07",
-      "first_seen": "2026-08-21",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "Quantbot Technologies",
       "Title": "Quantitative Researcher Internship - 2027 [New York]",
       "Location": "New York",
       "URL": "https://www.quantbot.com/careers/4299496009?gh_jid=4299496009",
@@ -2482,7 +2440,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-27",
+      "verifiedAt": "2026-08-29",
       "status": "active"
     },
     {
@@ -2496,7 +2454,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-27",
+      "verifiedAt": "2026-08-29",
       "status": "active"
     },
     {
@@ -2510,7 +2468,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-27",
+      "verifiedAt": "2026-08-29",
       "status": "active"
     },
     {
@@ -2524,8 +2482,22 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-27",
+      "verifiedAt": "2026-08-29",
       "status": "active"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship - Data Science (NC)",
+      "Location": "Charlotte, NC",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-20",
+      "first_seen": "2026-08-21",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
     },
     {
       "Company": "Goldman Sachs",
@@ -2550,6 +2522,34 @@
       "source_status": "Confirmed official posting",
       "release_date": "2026-08-17",
       "first_seen": "2026-08-25",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Quantbot Technologies",
+      "Title": "Machine Learning Research Engineer Internship - 2027 [New York]",
+      "Location": "New York",
+      "URL": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009",
+      "Source": "Greenhouse:quantbot-technologies",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-07",
+      "first_seen": "2026-08-21",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Quantbot Technologies",
+      "Title": "Quantitative Developer Internship - 2027 [New York]",
+      "Location": "New York",
+      "URL": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009",
+      "Source": "Greenhouse:quantbot-technologies",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-07",
+      "first_seen": "2026-08-21",
       "discovery_note": null,
       "manually_verified": false,
       "verifiedAt": null,

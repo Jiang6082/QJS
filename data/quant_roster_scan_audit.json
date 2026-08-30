@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-28T00:52:48.117Z",
-  "scanStartedAt": "2026-08-28T00:47:40.240Z",
+  "generatedAt": "2026-08-30T03:37:06.944Z",
+  "scanStartedAt": "2026-08-30T03:32:26.077Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
     "matching-role-found": 47,
     "confirmed-no-open-postings": 2,
-    "confirmed-openings-no-matching-role": 48,
-    "could-not-fully-verify": 207
+    "confirmed-openings-no-matching-role": 47,
+    "could-not-fully-verify": 208
   },
   "companies": [
     {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 140,
+      "jobsSeen": 136,
       "relevantInternships": 0
     },
     {
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 53,
+      "jobsSeen": 54,
       "relevantInternships": 10
     },
     {
@@ -540,7 +540,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 24,
+      "jobsSeen": 25,
       "relevantInternships": 3
     },
     {
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 174,
+      "jobsSeen": 172,
       "relevantInternships": 18
     },
     {
@@ -871,7 +871,7 @@
         "https://www.b2c2.com/join-b2c2/careers",
         "https://job-boards.greenhouse.io/b2c2"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 3,
       "relevantInternships": 0
@@ -972,7 +972,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 25,
+      "jobsSeen": 24,
       "relevantInternships": 0
     },
     {
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 236,
+      "jobsSeen": 239,
       "relevantInternships": 9
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 122,
+      "jobsSeen": 120,
       "relevantInternships": 5
     },
     {
@@ -1240,7 +1240,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 73,
+      "jobsSeen": 74,
       "relevantInternships": 3
     },
     {
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 234,
+      "jobsSeen": 233,
       "relevantInternships": 0
     },
     {
@@ -1378,7 +1378,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 19,
       "relevantInternships": 0
@@ -1664,7 +1664,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 41,
+      "jobsSeen": 42,
       "relevantInternships": 0
     },
     {
@@ -1814,7 +1814,7 @@
       "careerPages": [
         "https://hyperithm.career.greetinghr.com/ko/open-positions"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2009,7 +2009,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 2,
+      "jobsSeen": 1,
       "relevantInternships": 0
     },
     {
@@ -2083,7 +2083,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 31,
+      "jobsSeen": 30,
       "relevantInternships": 0
     },
     {
@@ -2288,9 +2288,9 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/nksecuritiesresearch?error=true"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 17,
+      "jobsSeen": 18,
       "relevantInternships": 0
     },
     {
@@ -2472,7 +2472,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 54,
+      "jobsSeen": 55,
       "relevantInternships": 1
     },
     {
@@ -2661,7 +2661,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantInternships": 2
     },
     {
@@ -3132,7 +3132,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3649,7 +3649,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 63,
+      "jobsSeen": 64,
       "relevantInternships": 0
     },
     {
@@ -3692,7 +3692,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 59,
+      "jobsSeen": 58,
       "relevantInternships": 0
     },
     {
@@ -3776,7 +3776,7 @@
       "careerPages": [
         "https://www.simplyhired.com/browse-jobs/companies/Wh-Trading-LLC"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3786,13 +3786,13 @@
       "sourceRosterNames": [
         "Whistler Trading"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://job-boards.greenhouse.io/whistlertrading"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 6,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3873,7 +3873,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 12,
+      "jobsSeen": 9,
       "relevantInternships": 0
     },
     {
@@ -3945,10 +3945,10 @@
         "https://www.verition.com/careers",
         "https://www.verition.com/open-positions"
       ],
-      "livePages": 0,
+      "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "jobsSeen": 32,
+      "relevantInternships": 1
     },
     {
       "company": "VivCourt Trading",
@@ -3975,9 +3975,9 @@
         "https://walleyecapital.com/careers",
         "https://job-boards.greenhouse.io/walleyecapital-external-fulltime"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 11,
+      "jobsSeen": 16,
       "relevantInternships": 2
     },
     {
@@ -4180,7 +4180,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 6,
+      "jobsSeen": 7,
       "relevantInternships": 2
     },
     {
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 92,
+      "jobsSeen": 91,
       "relevantInternships": 0
     },
     {
@@ -4267,7 +4267,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 5,
+      "jobsSeen": 4,
       "relevantInternships": 1
     }
   ]

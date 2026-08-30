@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-28T00:52:58.279Z",
+  "generatedAt": "2026-08-30T03:37:16.213Z",
   "scope": "quant",
-  "since": "2026-08-07",
-  "until": "2026-08-27",
-  "count": 132,
+  "since": "2026-08-09",
+  "until": "2026-08-29",
+  "count": 124,
   "roles": [
     {
       "Company": "AQR Capital Management",
@@ -13,8 +13,8 @@
       "URL": "https://careers.aqr.com/jobs?gh_jid=8161563&gh_jid=8161563",
       "Source": "Career page Greenhouse:aqr",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=8161563 | internship timing: Summer; graduation eligibility mentions: 2027, 2028 | AQR Capital Management AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998. At AQR, our employees share a common spirit of academic excellence, intellectual honesty, and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assumptio...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=8161563 | internship timing: Summer; graduation eligibility mentions: 2027, 2028 | About AQR Capital Management AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998. At AQR, our employees share a common spirit of academic excellence, intellectual honesty and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assu...",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-27"
     },
     {
@@ -25,8 +25,8 @@
       "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Liquidity-Risk-Intern_R0446573-1",
       "Source": "Career page Workday:db/DBWebsite",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0446573",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted 2 Days Ago | R0446573",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-27"
     },
     {
@@ -37,8 +37,8 @@
       "URL": "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Investment-Strategy-Research--Undergraduate-and-Masters-_2026-9037",
       "Source": "Career page Workday:dimensional/DFA_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://dimensional.wd5.myworkdayjobs.com/DFA_Careers | Posted Today | 2026-9037",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://dimensional.wd5.myworkdayjobs.com/DFA_Careers | Posted 2 Days Ago | 2026-9037",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-27"
     },
     {
@@ -49,8 +49,8 @@
       "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
       "Source": "Greenhouse:imc",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-27"
     },
     {
@@ -62,7 +62,7 @@
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Technology",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-27"
     },
     {
@@ -73,8 +73,8 @@
       "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769",
       "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260021769 | Posted Yesterday | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260021769 | Posted Yesterday | revalidated_from_previous_scan=true | Posted 3 Days Ago | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-26"
     },
     {
@@ -86,7 +86,7 @@
       "Source": "Career page Greenhouse:cclim",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/cclim | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4383943009 | internship timing not stated in title | We are a special software team embedded in a top performing quantitative equity fund that manages over $111 billion in financial assets. This is a fantastic opportunity in the exciting intersection of finance and technology where investment decisions are made using technology. Quantitative equity funds use programmed investment strategies and as a result, our developers are crucial to its success. The team is headquartered and deeply rooted in West Coast Vancouver. We place high value on maintaining an entrepreneurial spirit and creating a culture where each of us has opportunities to succeed. What You Will Do Developers play an essential role through innovative technologies: machine learning, cloud computing, optimization e...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-26"
     },
     {
@@ -98,7 +98,7 @@
       "Source": "Career page Greenhouse:cclim",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/cclim | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4383968009 | internship timing not stated in title | Are you a self-starter who loves tackling challenging problems in a team-oriented, fast-paced environment? Do you love the idea of living in Vancouver? Our quantitative equity team is expanding, and we are looking for talented individuals whose skills and interests are aligned with the team’s mission to deliver superior investment performance to our clients through a disciplined, systematic investment approach. Jobs within our team lie at the exciting intersection of research, data science, finance, and technology. A culture of innovation, career growth and success through collaboration has enabled us to deliver superior investment performance to our clients for over two decades. Today, our clients entrust us with over $111 ...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-26"
     },
     {
@@ -109,8 +109,8 @@
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002",
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-26"
     },
     {
@@ -121,8 +121,8 @@
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002",
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-26"
     },
     {
@@ -133,8 +133,8 @@
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002",
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-26"
     },
     {
@@ -145,8 +145,8 @@
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002",
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-26"
     },
     {
@@ -157,8 +157,8 @@
       "URL": "https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993",
       "Source": "Career page Greenhouse:aqr",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=8156993 | internship timing: Summer | About AQR Arbitrage AQR Arbitrage is an affiliate of AQR Capital Management, specializing in the research, development, and management of arbitrage and corporate event strategies. Since 2001, AQR Arbitrage has combined rigorous research and disciplined processes to deliver long-term value to clients. Co-founders Mark Mitchell and Todd Pulvino are pioneering researchers and former professors at the University of Chicago, Northwestern University, and Harvard University. Their published work has fundamentally shaped how scholars and practitioners understand arbitrage markets, corporate events, and market dislocations. AQR Arbitrage focuses solely on research and portfolio management while leveraging AQR’s infrastructure for all other investment management functions...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=8156993 | internship timing: Summer | About AQR Capital Management AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998. At AQR, our employees share a common spirit of academic excellence, intellectual honesty and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assumption. We recognize and respect the power of...",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-25"
     },
     {
@@ -169,8 +169,8 @@
       "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1",
       "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Yesterday | R260018951 | Posted Yesterday | revalidated_from_previous_scan=true | Posted 2 Days Ago | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Yesterday | R260018951 | Posted Yesterday | revalidated_from_previous_scan=true | Posted 2 Days Ago | revalidated_from_previous_scan=true | Posted 4 Days Ago | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-25"
     },
     {
@@ -182,19 +182,19 @@
       "Source": "Career page Greenhouse:dvtrading",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4722749005 | internship timing: Summer 2027 | Location: New York Office Duration: Summer 2027 (4 weeks) Department: DV Securities Liquid Products Group About DV Securities: DV Securities is a registered broker-dealer and a member of both FINRA and FICC, with a core focus on fixed income markets. We are active participants in the U.S. Treasury and agency MBS repo markets, supported by a growing platform that facilitates both principal and riskless principal trading activity. The firm is rooted in a culture of innovation, excellence, and collaboration. As part of the broader DV ecosystem—a global network of trading firms active across futures, equities, and structured products—DV Securities benefits from the reach and resources of a multi-asset organization with offices in North America, Eur...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-25"
     },
     {
       "Company": "Jump Trading",
-      "Title": "Campus Quantitative Research Intern (Off-Cycle - Winter/Spring 2027)",
-      "Location": "Hong Kong, Shanghai",
+      "Title": "Campus Quantitative Researcher (Off-Cycle - Winter/Spring 2027 Intern)",
+      "Location": "Hong Kong; Shanghai",
       "Region": "Asia",
       "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027898",
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing: Spring 2027; graduation eligibility mentions: 2027; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing: Spring 2027; graduation eligibility mentions: 2027; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-25"
     },
     {
@@ -206,7 +206,7 @@
       "Source": "Official SIG jobs API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-25T10:02:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Susquehanna is looking for highly motivated full-time students for our 10-week Equity Research summer internship program based at our US Headquarters. This program offers students currently enrolled at universities in Hong Kong or Singapore the opportunity to intern in the US with the intention of long-term placement in our Hong Kong office. As a Summer Analyst on Susquehanna's Equity Research team, you will be partnered with our senior analysts and traders to assist in identifying investment opportunities in the equity and options markets. You will learn to perform in-depth company analysis around future catalyst events and provide real-time opinions on breaking news throughout the trading day. You will gain experience in the financial markets by tracking ...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-25"
     },
     {
@@ -218,7 +218,7 @@
       "Source": "Official SIG jobs API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-25T10:09:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Susquehanna is looking for highly motivated full-time students for our 10-week Macro Research summer internship program based at our US Headquarters. This program offers students currently enrolled at universities in Hong Kong or Singapore the opportunity to intern in the US with the intention of long-term placement in our Hong Kong office. As a Summer Analyst on Susquehanna's Macro Research team, you will be partnered with our senior analysts and traders to assist in identifying investment opportunities in the equity, index, and options markets. You will learn to perform in-depth company analysis around future catalyst events and provide real-time opinions on breaking news throughout the trading day. You will gain experience in the financial markets by tra...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-25"
     },
     {
@@ -230,7 +230,7 @@
       "Source": "Career page Greenhouse:imc",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4956547101 | internship timing: Summer 2027 | ROLE OVERVIEW Our Machine Learning Internship is designed for curious, ambitious researchers who want to apply machine learning to complex, real-world problems. Over 10–12 weeks, you'll work alongside experienced researchers and mentors to develop models, analyze large-scale datasets, and contribute to research that informs IMC's trading strategies across global equities, futures, and options markets. You'll gain hands-on experience designing experiments, evaluating novel approaches, and tackling challenging problems in a collaborative, fast-paced environment where your work can have real-world impact. Throughout the program, you'll deepen your understanding of quantitative trading through a combination of classroom and on...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-24"
     },
     {
@@ -242,31 +242,31 @@
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Technology",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-24"
     },
     {
       "Company": "Jump Trading",
       "Title": "Campus Quantitative Researcher (Intern)",
-      "Location": "Hong Kong, Shanghai",
+      "Location": "Hong Kong; Shanghai",
       "Region": "Asia",
       "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-24"
     },
     {
       "Company": "Jump Trading",
       "Title": "Campus Quantitative Trader (Intern)",
-      "Location": "Hong Kong, Shanghai",
+      "Location": "Hong Kong; Shanghai",
       "Region": "Asia",
       "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-24"
     },
     {
@@ -277,8 +277,8 @@
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002",
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-24"
     },
     {
@@ -289,8 +289,8 @@
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002",
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-24"
     },
     {
@@ -301,8 +301,8 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 6 Days Ago | R106770",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 8 Days Ago | R106770",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-21"
     },
     {
@@ -314,7 +314,7 @@
       "Source": "Official SIG jobs API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-21T14:12:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based at our EU Headquarters in Dublin, Ireland. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into financial markets and Susquehanna's approach to trading. You will also work on challenging projects for our trading strategy development teams in spaces such as signal creation and detection, quantitative strategy analysis, and low latency C++ strategy development. Additionally, you'll have the opportu...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-21"
     },
     {
@@ -326,7 +326,7 @@
       "Source": "Official SIG jobs API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-21T14:12:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into financial markets and Susquehanna's approach to trading. You will also work on challenging projects for our trading strategy development teams in spaces such as signal creation and detection, quantitative strategy analysis, and low latency C++ strategy development. Additiona...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-21"
     },
     {
@@ -338,7 +338,7 @@
       "Source": "Official SIG jobs API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-21T14:13:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based at our EU Headquarters in Dublin, Ireland. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into financial markets and Susquehanna's approach to trading. You will also work on challenging projects for our trading strategy development teams in low latency C++ trading system development. Additionally, you'll have the opportunity to work on projects side by side with senior developers who understand the nua...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-21"
     },
     {
@@ -350,7 +350,7 @@
       "Source": "Official SIG jobs API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-21T14:13:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based between our EU Headquarters in Dublin, Ireland, and our London office. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into financial markets and Susquehanna's approach to trading. You will also work on challenging projects for our trading strategy development teams in low latency C++ trading system development. Additionally, you'll have the opportunity to work on projects side by side with senior devel...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-21"
     },
     {
@@ -361,8 +361,8 @@
       "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788",
       "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted Today | 181788",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 2 Days Ago | 181788",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-21"
     },
     {
@@ -374,7 +374,7 @@
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Technology",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-20"
     },
     {
@@ -385,8 +385,8 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 7 Days Ago | R106763",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 9 Days Ago | R106763",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-20"
     },
     {
@@ -398,7 +398,7 @@
       "Source": "Career page Ashby:scientech-research",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.scientechresearch.io/jobopenings | internship timing not stated in title | Job Responsibilities: Assisting senior quantitative researchers to carry out quantitative strategy design, research and development of global futures, stocks and options market. Statistically analyzing large scale tick by tick financial data to extract alpha patterns. Qualifications: Advanced degrees from top universities, majoring in science and engineering, preferably Statistics, Mathematics, Computer Science, EE, and Physics. Have formal trainings of independent academic research. Programming skills: proficient in at least one of following programming languages - C/C++, Python/R. Mathematical basics: having a good understanding of data science, being critical in learning knowledge, understanding at least one of statistical modeling, machine learning, econometrics or optimization. Being f...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-20"
     },
     {
@@ -410,19 +410,7 @@
       "Source": "Career page Greenhouse:towerresearchcapital",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://tower-research.com/open-positions/ | company_wrapper=https://tower-research.com/open-positions/job?gh_jid=8143756 | internship timing not stated in title | Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization. Engineers thrive at Tower while developing electronic trading infrastructure at a world class level. Our engineers solve challenging problems in the realms of low-latency programming, FPGA technology, hardware acceleration and machine learning. Our ongoing investment in top engineering talent and technology ensures our platform remains unmatched in terms of functionality, scalability and performance. At Tower, every employee plays a role in our success. Our Business Supp...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
-      "date": "2026-08-20"
-    },
-    {
-      "Company": "Vanguard",
-      "Title": "College to Corporate IT Internship - Data Science (NC)",
-      "Location": "Charlotte, NC",
-      "Region": "Remote / Unspecified",
-      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765",
-      "Source": "Career page Workday:vanguard/vanguard_external",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 7 Days Ago | 181765",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-20"
     },
     {
@@ -433,8 +421,8 @@
       "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766",
       "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 7 Days Ago | 181766",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 9 Days Ago | 181766",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-20"
     },
     {
@@ -445,8 +433,8 @@
       "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764",
       "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted Today | 181764",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 2 Days Ago | 181764",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-20"
     },
     {
@@ -457,8 +445,8 @@
       "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_181762",
       "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted Today | 181762",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 2 Days Ago | 181762",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-20"
     },
     {
@@ -470,7 +458,7 @@
       "Source": "Career page Greenhouse:veritiongroupllc",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.verition.com/open-positions | company_wrapper=https://www.verition.com/job?gh_jid=5214784007 | internship timing not stated in title | Verition Fund Management LLC (“Verition”) is a multi-strategy, multi-manager hedge fund founded in 2008. Verition focuses on global investment strategies including Credit, Fixed Income & Macro, Convertible & Volatility Arbitrage, Event-Driven, Equity Long/Short & Capital Markets, and Quantitative Strategies. About the Program Our 10-week Summer Internship Program pairs you with a technology team where you'll take on real, high-impact work, while getting a structured, firm-wide view of how a global multi-strategy hedge fund operates. You'll work alongside portfolio managers, analysts, and experienced professionals, partner with your fellow interns on cross-functional projects, and present your work directly to senior leaders by the ...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-19"
     },
     {
@@ -481,8 +469,8 @@
       "URL": "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Portfolio-Management--Undergraduate---Master-s-_2026-8998",
       "Source": "Career page Workday:dimensional/DFA_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://dimensional.wd5.myworkdayjobs.com/DFA_Careers | Posted 9 Days Ago | 2026-8998",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://dimensional.wd5.myworkdayjobs.com/DFA_Careers | Posted 11 Days Ago | 2026-8998",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-18"
     },
     {
@@ -493,8 +481,8 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 9 Days Ago | R106605",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted Yesterday | R106605",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-18"
     },
     {
@@ -505,8 +493,8 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 9 Days Ago | R106626",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 11 Days Ago | R106626",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-18"
     },
     {
@@ -517,8 +505,8 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 9 Days Ago | R106745",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 11 Days Ago | R106745",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-18"
     },
     {
@@ -530,7 +518,7 @@
       "Source": "Career page Greenhouse:towerresearchcapital",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://tower-research.com/open-positions/ | company_wrapper=https://tower-research.com/open-positions/job?gh_jid=8138524 | internship timing not stated in title | Tower Research Capital is a leading quantitative trading firm founded in 1998. Tower has built its business on a high-performance platform and independent trading teams. We have a 25+ year track record of innovation and a reputation for discovering unique market opportunities. Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization. Engineers thrive at Tower while developing electronic trading infrastructure at a world class level. Our engineers solve challenging problems in the realms of low-latency programming, FPGA technolo...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-18"
     },
     {
@@ -542,7 +530,7 @@
       "Source": "Career page Greenhouse:dvtrading",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719134005 | internship timing: Summer 2027; graduation eligibility mentions: 2028 | About Us : Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. DV Commodities is a division within DV Group that specializes in tradi...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-17"
     },
     {
@@ -553,8 +541,8 @@
       "URL": "https://www.optiver.com/join-us/jobs/8713775002/?gh_jid=8713775002",
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-17"
     },
     {
@@ -565,8 +553,8 @@
       "URL": "https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002",
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-17"
     },
     {
@@ -577,8 +565,8 @@
       "URL": "https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002",
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-17"
     },
     {
@@ -589,8 +577,8 @@
       "URL": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-17"
     },
     {
@@ -601,8 +589,8 @@
       "URL": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-17"
     },
     {
@@ -614,7 +602,7 @@
       "Source": "Career page Greenhouse:point72",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8721562002 | internship timing not stated in title; graduation eligibility mentions: 2027 | About the Team A highly collaborative, fast-growing team, Point72 Internal Alpha Capture (IAC) is developing scalable quantitative equity trading signals that leverage rigorous research, state-of-the-art machine learning methods, a broad range of public and proprietary data sources, and unparalleled computing power. We are looking for exceptional students to join us as quantitative developer interns for Winter 2027 (January to April). Our interns will work closely with our team, receive comprehensive, in-depth training, and help develop novel signals that may have a real impact. WHAT YOU'LL DO Build and enhance reliable, low-latency Java components such as messaging handlers and market data parsers wi...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-17"
     },
     {
@@ -625,8 +613,8 @@
       "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1",
       "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 10 Days Ago | 177688",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 12 Days Ago | 177688",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-17"
     },
     {
@@ -638,7 +626,7 @@
       "Source": "Career page Greenhouse:xantium",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/xantium?gh_src=Trackr | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4360768009 | internship timing not stated in title | Xantium is seeking Quantitative Developer Interns for our New York and London offices for Summer 2027. Candidates must be in their penultimate year, studying Computer Science. Quantitative Developer Interns will work closely with our team of Quantitative Developers and Researchers on projects powering our quantitative trading. Examples of recent projects by our full-time Quantitative Developers: Providing fast market data to a trading system Building an integrated research and execution framework for fast predictors Creating simulation and research frameworks in a cloud environment Providing a robust research framework for a new asset class Our tech stack is a blend of Python and C++ that runs both on-prem an...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-17"
     },
     {
@@ -650,7 +638,7 @@
       "Source": "Career page Greenhouse:xantium",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/xantium?gh_src=Trackr | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4371217009 | internship timing not stated in title | Xantium is seeking Quantitative Researcher Interns for our New York and London offices for Summer 2027. Ideal candidates will be in their penultimate year of their PhD studies in a highly quantitative field. We may consider individuals pursuing bachelor's and master’s degrees, provided they can demonstrate strong competitive math backgrounds and strong academic records. Examples of responsibilities of full-time Quantitative Researchers include: Analyzing and evaluating financial and alternative datasets Researching existing and developing new techniques in machine learning Researching, developing and implementing quantitative trading signals/models Developing and maintaining modeling infrastructure Supporting...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-17"
     },
     {
@@ -662,7 +650,7 @@
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted Today | requisition=REQ8462 | department=Investment Professionals | experience=Internships",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-16"
     },
     {
@@ -674,7 +662,7 @@
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted Today | requisition=REQ8463 | department=Risk | experience=Internships",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-16"
     },
     {
@@ -686,7 +674,7 @@
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted Today | requisition=REQ8460 | department=Investment Professionals | experience=Internships",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-16"
     },
     {
@@ -698,7 +686,7 @@
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted Today | requisition=REQ8461 | department=Investment Professionals | experience=Internships",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-16"
     },
     {
@@ -710,7 +698,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=171532 | program=Summer Analyst | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -722,7 +710,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=171548 | program=Summer Analyst | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -734,7 +722,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=171534 | program=Summer Analyst | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -746,7 +734,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=171546 | program=Summer Associate | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -758,7 +746,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=171550 | program=Summer Analyst | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -770,7 +758,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=171552 | program=Summer Associate | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -782,7 +770,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=171563 | program=Summer Analyst | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -794,7 +782,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=171566 | program=Summer Associate | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -806,7 +794,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=171547 | program=Summer Analyst | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -818,7 +806,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=171533 | program=Summer Analyst | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -830,7 +818,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=171535 | program=Summer Associate | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -842,7 +830,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=171549 | program=Summer Analyst | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -854,7 +842,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=171551 | program=Summer Analyst | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -866,7 +854,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=181628 | program=Summer Analyst | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -878,7 +866,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=175421 | program=Summer Analyst | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -890,7 +878,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=175423 | program=Summer Associate | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -902,7 +890,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=175424 | program=Seasonal | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -914,7 +902,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=175428 | program=Summer Analyst | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -926,7 +914,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=175426 | program=Summer Analyst | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -938,7 +926,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=175427 | program=Summer Associate | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -950,7 +938,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=170860 | program=Summer Analyst | division=Asset & Wealth Management",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -962,7 +950,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=175429 | program=Seasonal | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -974,7 +962,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=175430 | program=Seasonal | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -986,7 +974,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=170663 | program=Seasonal | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -998,7 +986,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-15 | role_id=175433 | program=Summer Analyst | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-15"
     },
     {
@@ -1009,8 +997,8 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8474",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 14 Days Ago | requisition=REQ8474 | department=Investment Professionals | experience=Internships",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 16 Days Ago | requisition=REQ8474 | department=Investment Professionals | experience=Internships",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1021,8 +1009,8 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Macro---Commodities-Investment-Teams--Summer-Internship-_REQ8477",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 14 Days Ago | requisition=REQ8477 | department=Investment Professionals | experience=Internships",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 16 Days Ago | requisition=REQ8477 | department=Investment Professionals | experience=Internships",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1033,8 +1021,8 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8454",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 14 Days Ago | requisition=REQ8454 | department=Investment Professionals | experience=Internships",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 16 Days Ago | requisition=REQ8454 | department=Investment Professionals | experience=Internships",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1045,8 +1033,8 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Macro-Investment-Team--Summer-Internship-_REQ8453",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 14 Days Ago | requisition=REQ8453 | department=Investment Professionals | experience=Internships",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 16 Days Ago | requisition=REQ8453 | department=Investment Professionals | experience=Internships",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1057,8 +1045,8 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Quantitative-Strategies--Summer-Internship-_REQ8479",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 14 Days Ago | requisition=REQ8479 | department=Investment Professionals | experience=Internships",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 16 Days Ago | requisition=REQ8479 | department=Investment Professionals | experience=Internships",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1069,8 +1057,8 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Risk--Summer-Internship-_REQ8478",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 14 Days Ago | requisition=REQ8478 | department=Investment Professionals | experience=Internships",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 16 Days Ago | requisition=REQ8478 | department=Investment Professionals | experience=Internships",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1081,8 +1069,8 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8115",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 14 Days Ago | requisition=REQ8115 | department=Technology | experience=Internships",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 16 Days Ago | requisition=REQ8115 | department=Technology | experience=Internships",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1093,8 +1081,8 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8445",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 14 Days Ago | requisition=REQ8445 | department=Technology | experience=Internships",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 16 Days Ago | requisition=REQ8445 | department=Technology | experience=Internships",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1105,8 +1093,8 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8446",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 14 Days Ago | requisition=REQ8446 | department=Technology | experience=Internships",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 16 Days Ago | requisition=REQ8446 | department=Technology | experience=Internships",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1117,8 +1105,8 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 13 Days Ago | JR-0000128099",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 15 Days Ago | JR-0000128099",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1129,8 +1117,8 @@
       "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2",
       "Source": "Career page Workday:bpinternational/bpCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 13 Days Ago | RQ114483",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 15 Days Ago | RQ114483",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1141,8 +1129,8 @@
       "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217",
       "Source": "Career page Workday:bpinternational/bpCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 13 Days Ago | RQ114217",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 15 Days Ago | RQ114217",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1153,8 +1141,8 @@
       "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2",
       "Source": "Career page Workday:bpinternational/bpCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 13 Days Ago | RQ114218",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 15 Days Ago | RQ114218",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1166,7 +1154,7 @@
       "Source": "Career page Greenhouse:transmarketgroup",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.transmarketgroup.com/careers | company_wrapper=https://www.transmarketgroup.com/job?gh_jid=5212335007 | internship timing not stated in title | Who We Are Founded in 1980 as Aardvark Financial, TransMarket Group (TMG) is a privately held global markets proprietary trading firm in Chicago. We use next-generation technology to capture opportunities around the world and manage risk in financial markets. Our mission is to bless others through the services we provide and through the generous stewardship of the wealth we create. TMG is a well-established and profitable business as a respected member of the global financial system for over 40 years, but also is like a startup because the potential of our group is at least one order of magnitude greater than what we are currently producing. We have an entrepreneurial culture and collaboratively develop our business with p...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1178,7 +1166,7 @@
       "Source": "Career page Ashby:voleon",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://jobs.ashbyhq.com/voleon | internship timing: Summer 2027; graduation eligibility mentions: 2028 | The Voleon Group is a quantitative hedge fund headquartered in Berkeley, CA. We apply statistical machine learning to get an edge in highly competitive, fast-moving financial markets. We employ world-class engineering and research talent to solve financial prediction problems. We are seeking passionate software engineers who can tackle hard problems in a high-stakes environment. You should be a highly motivated individual who can push a project through to completion, as well as demonstrate excellence in designing clean, robust software. At Voleon, software engineers design and build complex, high-performance systems such as: - Real-time trading systems - Large-scale distributed data processing - Research infrastructure to develop the next generation of machine learning mo...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-14"
     },
     {
@@ -1190,7 +1178,7 @@
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8127242 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Engineer Intern (Data Engineering), you'll join the Commodities trading group to build data pipelines for the ingestion and analysis of datasets. The role entails working closely with senior data engineers and key stakeholders across both greenfield and established projects. It will be focused on building efficient and resilient data pipelines to get valuable data to our traders, with opportunities to help design and build the core data infrastructure, frameworks and services used across the group as your experience grows. While your days will have you engrossed with complex data-related ...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-13"
     },
     {
@@ -1202,7 +1190,7 @@
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-13 | role_id=169906 | program=Summer Associate | division=Engineering Division",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-13"
     },
     {
@@ -1214,7 +1202,7 @@
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-13"
     },
     {
@@ -1225,8 +1213,8 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst--Commodities--Seasonal-Internship-_REQ8467",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 16 Days Ago | requisition=REQ8467 | department=Investment Professionals | experience=Internships",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 18 Days Ago | requisition=REQ8467 | department=Investment Professionals | experience=Internships",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-12"
     },
     {
@@ -1238,7 +1226,7 @@
       "Source": "Career page Greenhouse:dvtrading",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719135005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. DV Commodities is a division within DV Group that specializes in...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-12"
     },
     {
@@ -1250,7 +1238,7 @@
       "Source": "Career page Greenhouse:imc",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4941208101 | internship timing not stated in title | IMC is a leading global trading firm that combines technology, advanced quantitative research, and cutting-edge machine learning techniques to trade a broad range of products globally. With a strong focus on innovation, we leverage quantitative models, high-performance computing, and a deep understanding of the markets to drive our trading decisions. As a Quantitative Research Intern, you’ll work at the intersection of data science, financial markets, and algorithmic trading, solving real-world challenges that drive our trading strategies. This internship program offers a unique opportunity to gain hands-on experience in quantitative research, supported by structured learning, real-world project work, and direct men...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-12"
     },
     {
@@ -1262,7 +1250,7 @@
       "Source": "Career page Greenhouse:imc",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4941205101 | internship timing not stated in title | IMC is a fast, dynamic environment where you’re trusted to make decisions from day one. We trade a wide range of financial instruments in many different ways. This means we look for different types of traders, from the quantitative minds who enjoy the mathematical side of trading to those who want more of the fast-paced, hands-on style of trading and have a higher appetite for risk. Our quantitative traders all share one thing in common — they are at their best when solving complex problems. Their insights into global events, market shifts, and pricing ensure that we always trade in the right place, at the right time. Our 10-week trading internship is your chance to experience life as a trader at IMC. You’ll have al...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-12"
     },
     {
@@ -1274,7 +1262,7 @@
       "Source": "Career page Greenhouse:imc",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://job-boards.greenhouse.io/imc?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4941206101 | internship timing not stated in title | At IMC, Software Engineers don’t just write code and design technology. They are responsible for spotting new opportunities, developing new technologies, and solving problems. Every day, our software makes millions of trading decisions in some of the most competitive markets across the globe, and we win by making smarter and faster decisions than our competition. Our Software Engineers deliver results and make a difference. As a Software Engineer Intern at IMC, you will be supported by a mentor who will oversee your projects and professional development, while having access to pair programming and code reviews. During your internship, you will work on a real project, providing value to developers and traders. This y...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-12"
     },
     {
@@ -1285,8 +1273,8 @@
       "URL": "https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002",
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing: Summer; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing: Summer; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-12"
     },
     {
@@ -1297,8 +1285,8 @@
       "URL": "https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002",
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing: Summer; graduation eligibility mentions: 2028; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing: Summer; graduation eligibility mentions: 2028; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-12"
     },
     {
@@ -1309,8 +1297,8 @@
       "URL": "https://www.optiver.com/join-us/jobs/8623927002/?gh_jid=8623927002",
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing: Summer; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing: Summer; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-12"
     },
     {
@@ -1321,8 +1309,8 @@
       "URL": "https://www.optiver.com/join-us/jobs/8644376002/?gh_jid=8644376002",
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing: Summer 2027; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing: Summer 2027; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-12"
     },
     {
@@ -1333,8 +1321,8 @@
       "URL": "https://www.optiver.com/join-us/jobs/8623923002/?gh_jid=8623923002",
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing: Summer 2027; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing: Summer 2027; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-12"
     },
     {
@@ -1346,7 +1334,7 @@
       "Source": "Career page Greenhouse:towerresearchcapital",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://tower-research.com/open-positions/ | company_wrapper=https://tower-research.com/open-positions/job?gh_jid=8113986 | internship timing not stated in title | Tower Research Capital is a leading quantitative trading firm founded in 1998. Tower has built its business on a high-performance platform and independent trading teams. We have a 25+ year track record of innovation and a reputation for discovering unique market opportunities. Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization. Engineers thrive at Tower while developing electronic trading infrastructure at a world-class level. Our engineers solve challenging problems in the realms of low-latency programming, FPGA technolo...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-12"
     },
     {
@@ -1358,7 +1346,7 @@
       "Source": "Career page Greenhouse:virtu",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.virtu.com/careers/ | company_wrapper=https://www.virtu.com/careers/job?gh_jid=8638124002 | internship timing not stated in title; graduation eligibility mentions: 2028 | Virtu is a leading financial firm that leverages cutting edge technology to deliver liquidity to the global markets and innovative, transparent trading solutions to our clients. As a market maker, Virtu provides deep liquidity that helps to create more efficient markets around the world. Our market structure expertise, broad diversification, and execution technology enables us to provide competitive bids and offers in over 19,000 securities, at over 235 venues, in 36 countries worldwide. Virtu's internship programme offers students an extraordinary opportunity to learn about the firm and the world’s financial markets. We have built a thoughtful and challenging curriculum with projects that introdu...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-12"
     },
     {
@@ -1369,8 +1357,8 @@
       "URL": "https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378",
       "Source": "Career page Greenhouse:aqr",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=8122378 | internship timing: Summer | AQR Capital Management AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998. At AQR, our employees share a common spirit of academic excellence, intellectual honesty and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assumption. We recognize and respect the power of colla...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=8122378 | internship timing: Summer | About AQR Capital Management AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998. At AQR, our employees share a common spirit of academic excellence, intellectual honesty and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assumption. We recognize and respect the power of...",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-11"
     },
     {
@@ -1382,7 +1370,7 @@
       "Source": "Career page Greenhouse:aqr",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=8123095 | internship timing: Summer; graduation eligibility mentions: 2027, 2028 | About AQR Capital Management AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998. At AQR, our employees share a common spirit of academic excellence, intellectual honesty and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assu...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-11"
     },
     {
@@ -1393,8 +1381,8 @@
       "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
       "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted 9 Days Ago | R-15052",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted 11 Days Ago | R-15052",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-11"
     },
     {
@@ -1405,8 +1393,8 @@
       "URL": "https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057-1",
       "Source": "Career page Workday:peak6group/PEAK6",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 16 Days Ago | JR105057",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 18 Days Ago | JR105057",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-11"
     },
     {
@@ -1417,8 +1405,8 @@
       "URL": "https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Internship-for-Women--Summer-2027_JR105061",
       "Source": "Career page Workday:peak6group/PEAK6",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 16 Days Ago | JR105061",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "career_page=https://peak6group.wd1.myworkdayjobs.com/PEAK6 | Posted 18 Days Ago | JR105061",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-11"
     },
     {
@@ -1429,8 +1417,8 @@
       "URL": "https://www.quantbot.com/careers/4344638009?gh_jid=4344638009",
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing: Summer; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing: Summer; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-11"
     },
     {
@@ -1441,8 +1429,8 @@
       "URL": "https://www.quantbot.com/careers/4299858009?gh_jid=4299858009",
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing: Summer; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing: Summer; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-11"
     },
     {
@@ -1453,8 +1441,8 @@
       "URL": "https://www.quantbot.com/careers/4348629009?gh_jid=4348629009",
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-11"
     },
     {
@@ -1465,8 +1453,8 @@
       "URL": "https://www.quantbot.com/careers/4299863009?gh_jid=4299863009",
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-11"
     },
     {
@@ -1478,7 +1466,7 @@
       "Source": "Career page Greenhouse:dvtrading",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719119005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. DV Commodities is a division within DV Group that specializes in...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-10"
     },
     {
@@ -1490,7 +1478,7 @@
       "Source": "Career page Greenhouse:dvtrading",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719125005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. DV Commodities is a division within DV Group that specializes in...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-10"
     },
     {
@@ -1502,92 +1490,8 @@
       "Source": "Career page SmartRecruiters:RRSGroup",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.myrrsgroup.org/careers/ | released=2026-08-09T14:55:15.629Z | internship timing not stated in title",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "date": "2026-08-09"
-    },
-    {
-      "Company": "Arrowstreet",
-      "Title": "Quantitative Developer Intern, Summer 2027",
-      "Location": "Boston",
-      "Region": "North America",
-      "URL": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
-      "Source": "Career page Workday:arrowstreetcapital/Campus_Careers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 20 Days Ago | R1506",
-      "scanAt": "2026-08-28T00:47:40.240Z",
-      "date": "2026-08-07"
-    },
-    {
-      "Company": "Arrowstreet",
-      "Title": "Quantitative Researcher Intern, Summer 2027",
-      "Location": "Boston",
-      "Region": "North America",
-      "URL": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
-      "Source": "Career page Workday:arrowstreetcapital/Campus_Careers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted 20 Days Ago | R1505",
-      "scanAt": "2026-08-28T00:47:40.240Z",
-      "date": "2026-08-07"
-    },
-    {
-      "Company": "Quantbot Technologies",
-      "Title": "Data Trading Analyst Summer Internship - 2027 [New York]",
-      "Location": "New York",
-      "Region": "North America",
-      "URL": "https://www.quantbot.com/careers/4299767009?gh_jid=4299767009",
-      "Source": "Greenhouse:quantbot-technologies",
-      "Status": "Confirmed official posting",
-      "Notes": "internship timing: Summer; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
-      "date": "2026-08-07"
-    },
-    {
-      "Company": "Quantbot Technologies",
-      "Title": "Machine Learning Research Engineer Internship - 2027 [New York]",
-      "Location": "New York",
-      "Region": "North America",
-      "URL": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009",
-      "Source": "Greenhouse:quantbot-technologies",
-      "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
-      "date": "2026-08-07"
-    },
-    {
-      "Company": "Quantbot Technologies",
-      "Title": "Quantitative Developer Internship - 2027 [New York]",
-      "Location": "New York",
-      "Region": "North America",
-      "URL": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009",
-      "Source": "Greenhouse:quantbot-technologies",
-      "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
-      "date": "2026-08-07"
-    },
-    {
-      "Company": "Quantbot Technologies",
-      "Title": "Quantitative Researcher Internship - 2027 [New York]",
-      "Location": "New York",
-      "Region": "North America",
-      "URL": "https://www.quantbot.com/careers/4299496009?gh_jid=4299496009",
-      "Source": "Greenhouse:quantbot-technologies",
-      "Status": "Confirmed official posting",
-      "Notes": "internship timing not stated in title; undergrad/BS/MS language found | revalidated_from_previous_scan=true",
-      "scanAt": "2026-08-28T00:47:40.240Z",
-      "date": "2026-08-07"
-    },
-    {
-      "Company": "Trillium",
-      "Title": "IT Support Intern - Summer 2027",
-      "Location": "NYC",
-      "Region": "North America",
-      "URL": "https://www.trlm.com/apply/5207070007?gh_jid=5207070007",
-      "Source": "Career page Greenhouse:trillium",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.trlm.com/careers-trader/ | company_wrapper=https://www.trlm.com/careers-trader/job?gh_jid=5207070007 | internship timing: Summer 2027 | Trillium is a leading proprietary trading firm active in US Equities, US Options, Canadian Equities, and OTC Equities. With trading technology built, tested, and optimized in-house, our engineers and technologists collaborate with our traders to deliver tools and functionality designed to support their needs. Our passion for the markets and our drive to succeed have propelled our track record of growth and profitability for over 20 years. At Trillium, we are a team of problem solvers and independent thinkers dedicated to seizing market opportunities. We are headquartered in New York City, with additional trading floors in Chicago and Miami. To learn more about Trillium, visit www.trlm.com The Role Trillium is seeking a motivated, ...",
-      "scanAt": "2026-08-28T00:47:40.240Z",
-      "date": "2026-08-07"
     }
   ],
   "undatedFirstSeen": [
@@ -1600,7 +1504,7 @@
       "Source": "Official D. E. Shaw internships page",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.deshaw.com/careers/internships | department=Quantitative Strategies | internship timing: Summer 2027 | official detail page checked | Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "first_seen": "2026-08-16"
     },
     {
@@ -1612,7 +1516,7 @@
       "Source": "Official D. E. Shaw internships page",
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.deshaw.com/careers/internships | department=Software Development | internship timing: Summer 2027 | official detail page checked | Software Developer, Ph.D. Intern (New York) – Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your P",
-      "scanAt": "2026-08-28T00:47:40.240Z",
+      "scanAt": "2026-08-30T03:32:26.077Z",
       "first_seen": "2026-08-16"
     }
   ]

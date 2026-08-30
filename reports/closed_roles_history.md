@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 57
-Last updated: 2026-08-28T00:47:40.240Z
+Total closures recorded: 55
+Last updated: 2026-08-30T03:32:26.077Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-08-29 (1)
+
+- **Vanguard** - [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) - Malvern, PA
 
 ### 2026-08-26 (1)
 
@@ -38,11 +42,8 @@ Each role below was present in an earlier scan and absent in a later one. "Detec
 - **Goldman Sachs** - [2027 | Americas | New York City Area | Wealth Management, Quantitative Finance | Summer Analyst](https://higher.gs.com/roles/155800) - New York
 - **Susquehanna International Group** - [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10718?lang=en-us) - New York, New York
 
-### 2026-08-16 (4)
+### 2026-08-16 (1)
 
-- **Quant Matter** - [2027 Quantitative Research - Risk and Treasury - Summer Internship ...](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978)
-- **Quant Matter** - [Five Rings Summer Intern 2027 Quantitative Trader Internship in New ...](https://opportunitiesforyouth.org/2026/07/27/five-rings-summer-intern-2027-quantitative-trader-internship-in-new-york-300000-annualized-salary-sign-on-bonus-corporate-housing/)
-- **Quant Matter** - [Quantitative Trading Intern Summer 2027 - Flow Traders](https://www.flowtraders.com/careers/job-description/8047166)
 - **Walleye Capital** - [Equity Volatility Quant Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) - Miami, FL
 
 ### 2026-08-14 (3)
