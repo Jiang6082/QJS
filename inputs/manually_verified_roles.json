@@ -1,0 +1,60 @@
+{
+  "verifiedAt": "2026-08-30",
+  "roles": [
+    {
+      "Company": "Scientech Research Capital",
+      "Title": "Quantitative Researcher Intern",
+      "Location": "New Jersey",
+      "URL": "https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80",
+      "Source": "Official Ashby job board",
+      "release_date": "2025-01-23",
+      "first_seen": "2026-08-21",
+      "verifiedAt": "2026-08-30",
+      "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page."
+    },
+    {
+      "Company": "Scientech Research Capital",
+      "Title": "Quantitative Researcher Intern",
+      "Location": "Shanghai",
+      "URL": "https://jobs.ashbyhq.com/scientech-research/c344ad5a-b148-4a96-8d6c-a660e6f86896",
+      "Source": "Official Ashby job board",
+      "release_date": "2025-01-23",
+      "first_seen": "2026-08-21",
+      "verifiedAt": "2026-08-30",
+      "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page."
+    },
+    {
+      "Company": "Scientech Research Capital",
+      "Title": "Quantitative Developer Intern",
+      "Location": "New Jersey",
+      "URL": "https://jobs.ashbyhq.com/scientech-research/47be106e-4a2a-4814-bca8-4a7b97816d7c",
+      "Source": "Official Ashby job board",
+      "release_date": "2025-03-04",
+      "first_seen": "2026-08-21",
+      "verifiedAt": "2026-08-30",
+      "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page."
+    },
+    {
+      "Company": "Scientech Research Capital",
+      "Title": "Quantitative Developer Intern",
+      "Location": "Shanghai",
+      "URL": "https://jobs.ashbyhq.com/scientech-research/5f8ecd5a-6970-4cb8-a9f9-031d68a0f446",
+      "Source": "Official Ashby job board",
+      "release_date": "2025-03-05",
+      "first_seen": "2026-08-21",
+      "verifiedAt": "2026-08-30",
+      "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page."
+    },
+    {
+      "Company": "Scientech Research Capital",
+      "Title": "Quantitative Researcher Intern-Daily",
+      "Location": "Shanghai",
+      "URL": "https://jobs.ashbyhq.com/scientech-research/11c106c6-feed-4da8-a94a-c8d27d8832f7",
+      "Source": "Official Ashby job board",
+      "release_date": "2026-08-20",
+      "first_seen": "2026-08-21",
+      "verifiedAt": "2026-08-30",
+      "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page."
+    }
+  ]
+}

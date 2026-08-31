@@ -5,6 +5,7 @@ import { isKnownWrongCareerPage } from "../tools/career-source-guards.mjs";
 const baseCsvPath = "reports/quant_internship_roles_scan.csv";
 const careerPageDbPath = "inputs/company_career_pages.json";
 const firmRosterPath = "inputs/quant_firm_roster.json";
+const previousRawPath = ".scan-state/previous_quant_v2_raw.json";
 const firmRoster = JSON.parse(await fs.readFile(firmRosterPath, "utf8"));
 const rosterCompanies = firmRoster.companies.map((company) => firmRoster.aliases?.[company] || company);
 
@@ -137,6 +138,7 @@ const seedCareerPages = {
 const seedAtsTokens = {
   "Chicago Trading Company": { greenhouse: ["ctccampusboard"] },
   "Hudson River Trading": { greenhouse: ["wehrtyou"] },
+  "Scientech Research Capital": { ashby: ["scientech-research"] },
   "Stevens Capital Management": { greenhouse: ["scm"] },
   "RRS Group": { smartrecruiters: ["RRSGroup"] },
 };
@@ -229,6 +231,53 @@ function firstJsonLd(html = "") {
   const match = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/i);
   if (!match) return null;
   try { return JSON.parse(match[1]); } catch { return null; }
+}
+
+function jobPostingJsonLd(html = "") {
+  const scripts = [...html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)];
+  const findPosting = (value) => {
+    if (!value || typeof value !== "object") return null;
+    if (Array.isArray(value)) {
+      for (const item of value) {
+        const found = findPosting(item);
+        if (found) return found;
+      }
+      return null;
+    }
+    if (String(value["@type"] || "").toLowerCase() === "jobposting") return value;
+    return findPosting(value["@graph"]);
+  };
+  for (const script of scripts) {
+    try {
+      const found = findPosting(JSON.parse(script[1]));
+      if (found) return found;
+    } catch {}
+  }
+  return null;
+}
+
+const officialJobHitCache = new Map();
+async function enrichOfficialJobHit(url) {
+  if (officialJobHitCache.has(url)) return officialJobHitCache.get(url);
+  const result = (async () => {
+    const res = await fetchText(url);
+    if (!res.ok) return null;
+    const posting = jobPostingJsonLd(res.text);
+    if (!posting) return null;
+    const address = (Array.isArray(posting.jobLocation) ? posting.jobLocation[0] : posting.jobLocation)?.address || {};
+    const location = [address.addressLocality, address.addressRegion, address.addressCountry]
+      .filter(Boolean)
+      .filter((value, index, values) => values.indexOf(value) === index)
+      .join(", ");
+    return {
+      title: decodeHtml(String(posting.title || "")),
+      location: decodeHtml(location),
+      datePosted: typeof posting.datePosted === "string" ? posting.datePosted.slice(0, 10) : "",
+      canonicalUrl: decodeHtml(String(posting.url || res.url || url)),
+    };
+  })();
+  officialJobHitCache.set(url, result);
+  return result;
 }
 
 async function normalizeOpenQuantHit(hitUrl) {
@@ -633,6 +682,8 @@ async function getAshbyBoard(company, token, careerPageUrl = "") {
   return { source: `Ashby:${token}`, jobs };
 }
 
+const workdayBoardCache = new Map();
+
 async function getWorkdayBoard(company, siteInfo, careerPageUrl = "") {
   let origin = siteInfo.origin;
   try {
@@ -640,44 +691,62 @@ async function getWorkdayBoard(company, siteInfo, careerPageUrl = "") {
   } catch {
     return null;
   }
-  const url = `${origin}/wday/cxs/${siteInfo.tenant}/${siteInfo.site}/jobs`;
-  try {
-    const postings = [];
-    const limit = 20;
-    for (let offset = 0; ; offset += limit) {
-      const controller = new AbortController();
-      const timeout = setTimeout(() => controller.abort(), 12000);
-      let json;
-      try {
-        const res = await fetch(url, {
-          method: "POST",
-          signal: controller.signal,
-          headers: { "accept": "application/json", "content-type": "application/json" },
-          body: JSON.stringify({ appliedFacets: {}, limit, offset, searchText: "" }),
-        });
-        if (!res.ok) return null;
-        json = await res.json();
-      } finally {
-        clearTimeout(timeout);
+  const cacheKey = `${company}|${origin}|${siteInfo.tenant}|${siteInfo.site}`;
+  if (workdayBoardCache.has(cacheKey)) return workdayBoardCache.get(cacheKey);
+
+  const request = (async () => {
+    const url = `${origin}/wday/cxs/${siteInfo.tenant}/${siteInfo.site}/jobs`;
+    try {
+      const postingsByPath = new Map();
+      const limit = 20;
+      const searchTexts = ["", "intern", "summer analyst", "summer associate", "off cycle internship", "co-op", "industrial placement"];
+      for (const searchText of searchTexts) {
+        let resultsSeen = 0;
+        const resultCap = searchText ? 200 : 40;
+        for (let offset = 0; offset < resultCap; offset += limit) {
+          const controller = new AbortController();
+          const timeout = setTimeout(() => controller.abort(), 12000);
+          let json;
+          try {
+            const res = await fetch(url, {
+              method: "POST",
+              signal: controller.signal,
+              headers: { "accept": "application/json", "content-type": "application/json" },
+              body: JSON.stringify({ appliedFacets: {}, limit, offset, searchText }),
+            });
+            if (!res.ok) break;
+            json = await res.json();
+          } finally {
+            clearTimeout(timeout);
+          }
+          const page = json.jobPostings || [];
+          for (const posting of page) {
+            const key = posting.externalPath || `${posting.title}|${posting.locationsText}`;
+            postingsByPath.set(key, posting);
+          }
+          resultsSeen += page.length;
+          if (!page.length || resultsSeen >= (json.total || resultsSeen) || page.length < limit) break;
+        }
       }
-      const page = json.jobPostings || [];
-      postings.push(...page);
-      if (!page.length || postings.length >= (json.total || postings.length) || page.length < limit) break;
+      const postings = [...postingsByPath.values()];
+      if (!postings.length) return null;
+      const jobs = postings.map((job) => ({
+        Company: company,
+        Title: job.title || "",
+        Department: "",
+        Location: job.locationsText || "",
+        URL: `${origin}/${siteInfo.site}${job.externalPath || ""}`,
+        Source: `Career page Workday:${siteInfo.tenant}/${siteInfo.site}`,
+        Status: "Confirmed official posting",
+        Notes: [careerPageUrl ? `career_page=${careerPageUrl}` : "", job.postedOn || "", ...(job.bulletFields || [])].filter(Boolean).join(" | "),
+      }));
+      return { source: `Workday:${siteInfo.tenant}/${siteInfo.site}`, jobs };
+    } catch {
+      return null;
     }
-    const jobs = postings.map((job) => ({
-      Company: company,
-      Title: job.title || "",
-      Department: "",
-      Location: job.locationsText || "",
-      URL: `${origin}/${siteInfo.site}${job.externalPath || ""}`,
-      Source: `Career page Workday:${siteInfo.tenant}/${siteInfo.site}`,
-      Status: "Confirmed official posting",
-      Notes: [careerPageUrl ? `career_page=${careerPageUrl}` : "", job.postedOn || "", ...(job.bulletFields || [])].filter(Boolean).join(" | "),
-    }));
-    return { source: `Workday:${siteInfo.tenant}/${siteInfo.site}`, jobs };
-  } catch {
-    return null;
-  }
+  })();
+  workdayBoardCache.set(cacheKey, request);
+  return request;
 }
 
 function relevantCareerJob(row) {
@@ -685,13 +754,15 @@ function relevantCareerJob(row) {
   const title = row.Title.toLowerCase();
   const roleText = `${row.Title} ${row.Department || ""}`.toLowerCase();
   const isIntern = /\b(intern|internship|summer analyst|summer associate|co-?op|industrial placement)\b/.test(title)
+    || /实习/.test(title)
     || /^(?:internship|co-op|industrial placement year)\b/i.test((row.Notes || "").trim());
-  const hasDomain = /\b(quant|quantitative|systematic|alpha|research|portfolio|trading|trader|strats?|strategy|strategic|developer|software|engineer|technology|devops|site reliability|sre|infrastructure|data science|machine learning|risk|implementation|model|analytics|fpga)\b/.test(roleText) || /c\+\+/i.test(roleText);
-  const blockedEducation = /\b(phd|ph\.d|doctoral|doctorate|postdoc|postdoctoral|mba)\b/.test(title) && !/\b(bs|bachelor|undergrad|undergraduate|master|ms)\b/.test(text);
+  const hasDomain = /\b(quant|quantitative|systematic|alpha|research|portfolio|trading|trader|strats?|strategy|strategic|developer|software|engineer|technology|devops|site reliability|sre|infrastructure|data science|machine learning|risk|implementation|model|analytics|fpga)\b/.test(roleText)
+    || /(量化|研究|开发|交易|策略|软件|工程|机器学习|数据科学|风险)/.test(roleText)
+    || /c\+\+/i.test(roleText);
   const blockedFullTime = /\b(new grad|new graduate|graduate programme|graduate program|full[- ]time|experienced|senior|principal|director|vp|vice president|recruiter|recruitment)\b/.test(title) || (/\bgraduate\b/.test(title) && !/\bintern/.test(title));
   const blockedTiming = hasNonTargetInternshipTiming(row.Title, row.Notes || "");
   const staleWebLead = /web-discovered|aggregator/i.test(`${row.Source} ${row.Status}`) && stalePostingDate.test(row.Notes || "");
-  return isIntern && hasDomain && !blockedEducation && !blockedFullTime && !blockedTiming && !staleWebLead;
+  return isIntern && hasDomain && !blockedFullTime && !blockedTiming && !staleWebLead;
 }
 
 async function scanCareerPage(company, pageUrl) {
@@ -710,7 +781,30 @@ async function scanCareerPage(company, pageUrl) {
   tokens.lever = [...new Set([...tokens.lever, ...(seededTokens.lever || [])])];
   tokens.ashby = [...new Set([...tokens.ashby, ...(seededTokens.ashby || [])])];
   tokens.smartrecruiters = [...new Set([...(tokens.smartrecruiters || []), ...(seededTokens.smartrecruiters || [])])];
+  const directPosting = page.ok ? jobPostingJsonLd(page.text) : null;
+  const directAddress = (Array.isArray(directPosting?.jobLocation) ? directPosting.jobLocation[0] : directPosting?.jobLocation)?.address || {};
+  const directLocation = [directAddress.addressLocality, directAddress.addressRegion, directAddress.addressCountry]
+    .filter(Boolean)
+    .filter((value, index, values) => values.indexOf(value) === index)
+    .join(", ");
+  const directBoard = directPosting?.title ? {
+    source: "Official JSON-LD job posting",
+    jobs: [{
+      Company: company,
+      Title: decodeHtml(String(directPosting.title)),
+      Department: "",
+      Location: decodeHtml(directLocation),
+      URL: decodeHtml(String(directPosting.url || page.url)),
+      Source: "Career page JSON-LD",
+      Status: "Confirmed official posting",
+      Notes: [
+        `career_page=${pageUrl}`,
+        typeof directPosting.datePosted === "string" ? `datePosted=${directPosting.datePosted.slice(0, 10)}` : "",
+      ].filter(Boolean).join(" | "),
+    }],
+  } : null;
   const boards = [
+    directBoard,
     ...(await Promise.all(tokens.greenhouse.map((token) => getGreenhouseBoard(company, token, page.url)))),
     ...(await Promise.all(tokens.lever.map((token) => getLeverBoard(company, token, page.url)))),
     ...(await Promise.all(tokens.ashby.map((token) => getAshbyBoard(company, token, page.url)))),
@@ -932,6 +1026,173 @@ async function getSigInternRows() {
   })).filter(relevantCareerJob);
 }
 
+async function getBalyasnyInternRows() {
+  const boardUrl = "https://bambusdev.my.site.com/s/";
+  const page = await fetchText(boardUrl);
+  if (!page.ok) return [];
+
+  // The BAM board is a Salesforce Experience Cloud app. Its initial HTML has
+  // no job links and an empty search returns "No jobs found", so enumerate the
+  // public Apex search method with the board's live Aura bootstrap context.
+  const contextMatch = page.text.match(/\/s\/sfsites\/l\/([^/?]+)\/inline\.js/i);
+  if (!contextMatch) return [];
+
+  let auraContext;
+  try {
+    auraContext = JSON.parse(decodeURIComponent(contextMatch[1]));
+  } catch {
+    return [];
+  }
+
+  const message = {
+    actions: [{
+      id: "1;a",
+      descriptor: "aura://ApexActionController/ACTION$execute",
+      callingDescriptor: "UNKNOWN",
+      params: {
+        namespace: "",
+        classname: "BamJobRequisitionInfoDataService",
+        method: "searchJobRequisitions",
+        params: {
+          isVendorPortal: false,
+          site: "BAM Website",
+          searchKey: "intern",
+          locationFilters: [],
+          departmentFilter: [],
+          availableLocations: [],
+          experienceLevelFilter: [],
+        },
+        cacheable: true,
+        isContinuation: false,
+      },
+    }],
+  };
+  const body = new URLSearchParams({
+    message: JSON.stringify(message),
+    "aura.context": JSON.stringify(auraContext),
+    "aura.pageURI": "/s/",
+    "aura.token": "null",
+  });
+
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 15000);
+  try {
+    const response = await fetch(new URL("/s/sfsites/aura", boardUrl), {
+      method: "POST",
+      signal: controller.signal,
+      headers: {
+        "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+        origin: new URL(boardUrl).origin,
+        referer: boardUrl,
+        "user-agent": "Mozilla/5.0 internship-research",
+      },
+      body,
+    });
+    if (!response.ok) return [];
+    const payload = await response.json();
+    const jobs = payload.actions?.[0]?.returnValue?.returnValue || [];
+    return jobs.map((job) => {
+      const positions = job.Job_Requisition_Positions__r || [];
+      const locations = [...new Set(positions.flatMap((position) => [
+        position.Location__r?.External_Name__c,
+        ...(position.Job_Requisition_Position_Locations__r || [])
+          .map((entry) => entry.Location__r?.External_Name__c),
+      ]).filter(Boolean))];
+      const routeKey = `${job.Job_Req_Title_in_URL__c || ""}_${job.Requisition_Number__c || ""}`;
+      return {
+        Company: "Balyasny Asset Management",
+        Title: job.Publish_Title__c || job.Name || "",
+        Department: job.Department__c || "",
+        Location: locations.join(", "),
+        URL: `${new URL("/s/details", boardUrl).href}?jobReq=${encodeURIComponent(routeKey)}`,
+        Source: "Official Balyasny Salesforce Experience Cloud feed",
+        Status: "Confirmed official posting",
+        Notes: [
+          `career_page=${boardUrl}`,
+          job.Posted_Ago__c || "",
+          job.Requisition_Number__c ? `requisition=${job.Requisition_Number__c}` : "",
+          job.Department__c ? `department=${job.Department__c}` : "",
+          job.Experience_Level__c ? `experience=${job.Experience_Level__c}` : "",
+        ].filter(Boolean).join(" | "),
+      };
+    }).filter(relevantCareerJob);
+  } catch {
+    return [];
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+async function getGoldmanQuantRows() {
+  const endpoint = "https://api-higher.gs.com/gateway/api/v1/graphql";
+  const query = `query GetCampusRoles($searchQueryInput: RoleSearchQueryInput!) {
+    roleSearch(searchQueryInput: $searchQueryInput) {
+      totalCount
+      items {
+        roleId corporateTitle jobTitle jobFunction status division lastPostedDate
+        locations { primary state country city }
+        externalSource { sourceId }
+      }
+    }
+  }`;
+  const variables = {
+    searchQueryInput: {
+      page: { pageSize: 100, pageNumber: 0 },
+      sort: { sortStrategy: "POSTED_DATE", sortOrder: "DESC" },
+      filters: [],
+      experiences: ["CAMPUS"],
+      searchTerm: "Quantitative",
+    },
+  };
+
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 15000);
+  try {
+    const response = await fetch(endpoint, {
+      method: "POST",
+      signal: controller.signal,
+      headers: {
+        "content-type": "application/json",
+        origin: "https://higher.gs.com",
+        referer: "https://higher.gs.com/results",
+        "user-agent": "Mozilla/5.0 internship-research",
+      },
+      body: JSON.stringify({ query, variables }),
+    });
+    if (!response.ok) return [];
+    const payload = await response.json();
+    const jobs = payload.data?.roleSearch?.items || [];
+    return jobs.filter((job) => job.status === "POSTED").map((job) => {
+      const sourceId = job.externalSource?.sourceId || String(job.roleId || "").split("_")[0];
+      const locations = [...new Set((job.locations || []).map((location) => [
+        location.city,
+        location.state,
+        location.country,
+      ].filter(Boolean).join(", ")).filter(Boolean))];
+      return {
+        Company: "Goldman Sachs",
+        Title: job.jobTitle || "",
+        Department: [job.division, job.jobFunction].filter(Boolean).join(", "),
+        Location: locations.join(" / "),
+        URL: `https://higher.gs.com/roles/${sourceId}`,
+        Source: "Official Goldman Sachs Higher API",
+        Status: "Confirmed official posting",
+        Notes: [
+          job.lastPostedDate ? `posted=${job.lastPostedDate.slice(0, 10)}` : "",
+          sourceId ? `role_id=${sourceId}` : "",
+          job.corporateTitle ? `program=${job.corporateTitle}` : "",
+          job.division ? `division=${job.division}` : "",
+          job.jobFunction ? `function=${job.jobFunction}` : "",
+        ].filter(Boolean).join(" | "),
+      };
+    }).filter(relevantCareerJob);
+  } catch {
+    return [];
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
 function companyQueries(company) {
   const quoted = `"${company}"`;
   return [
@@ -998,6 +1259,88 @@ async function readBaseCsv() {
   }
 }
 
+function workdayDetailUrl(value = "") {
+  try {
+    const url = new URL(value);
+    if (!/\.myworkdayjobs\.com$/i.test(url.hostname)) return null;
+    const parts = url.pathname.split("/").filter(Boolean);
+    if (parts.length < 3 || parts[1].toLowerCase() !== "job") return null;
+    const tenant = url.hostname.split(".")[0];
+    return `${url.origin}/wday/cxs/${tenant}/${parts[0]}/${parts.slice(1).join("/")}`;
+  } catch {
+    return null;
+  }
+}
+
+function greenhouseDetailUrl(row = {}) {
+  const token = String(row.Source || "").match(/Greenhouse:([^\s|]+)/i)?.[1];
+  if (!token) return null;
+  try {
+    const url = new URL(row.URL || "");
+    const jobId = url.searchParams.get("gh_jid") || url.pathname.match(/\/jobs\/(\d+)/i)?.[1];
+    if (!jobId) return null;
+    return `https://boards-api.greenhouse.io/v1/boards/${token}/jobs/${jobId}`;
+  } catch {
+    return null;
+  }
+}
+
+async function getLivePreviousWorkdayRows() {
+  let previous;
+  try {
+    previous = JSON.parse(await fs.readFile(previousRawPath, "utf8"));
+  } catch {
+    return [];
+  }
+  const candidates = (previous.rows || []).filter((row) => workdayDetailUrl(row.URL));
+  const verified = await mapLimit(candidates, 6, async (row) => {
+    const detailUrl = workdayDetailUrl(row.URL);
+    const response = await fetchText(detailUrl);
+    if (!response.ok) return null;
+    let payload;
+    try { payload = JSON.parse(response.text); } catch { return null; }
+    const posting = payload.jobPostingInfo;
+    if (!posting?.title) return null;
+    return {
+      ...row,
+      Title: posting.title,
+      Location: posting.location || row.Location || "",
+      Source: row.Source || "Previously seen official Workday posting",
+      Status: "Confirmed official posting",
+      Notes: [row.Notes || "", posting.postedOn || "", "revalidated_from_previous_scan=true"].filter(Boolean).join(" | "),
+    };
+  }, "workday-revalidate");
+  return verified.filter(Boolean);
+}
+
+async function getLivePreviousGreenhouseRows() {
+  let previous;
+  try {
+    previous = JSON.parse(await fs.readFile(previousRawPath, "utf8"));
+  } catch {
+    return [];
+  }
+  const candidates = (previous.rows || []).filter((row) => greenhouseDetailUrl(row));
+  const verified = await mapLimit(candidates, 6, async (row) => {
+    const detailUrl = greenhouseDetailUrl(row);
+    const response = await fetchText(detailUrl);
+    if (!response.ok) return null;
+    let posting;
+    try { posting = JSON.parse(response.text); } catch { return null; }
+    if (!posting?.title) return null;
+    return {
+      ...row,
+      Title: posting.title,
+      Department: (posting.departments || []).map((department) => department.name).filter(Boolean).join(", ") || row.Department || "",
+      Location: posting.location?.name || row.Location || "",
+      Source: row.Source || "Previously seen official Greenhouse posting",
+      Status: "Confirmed official posting",
+      Notes: [row.Notes || "", "revalidated_from_previous_scan=true"].filter(Boolean).join(" | "),
+    };
+  }, "greenhouse-revalidate");
+  return verified.filter(Boolean);
+}
+
 const baseRows = (await readBaseCsv()).map((row) => ({
   Company: row.Company,
   Title: row.Title,
@@ -1011,17 +1354,25 @@ const baseRows = (await readBaseCsv()).map((row) => ({
 const searchedAt = new Date().toISOString();
 const careerPageDb = await ensureCareerPageDb();
 const careerPageScan = await scanCareerPages(careerPageDb);
+const livePreviousWorkdayRows = await getLivePreviousWorkdayRows();
+const livePreviousGreenhouseRows = await getLivePreviousGreenhouseRows();
 const janeStreetRows = await getJaneStreetStudentRows();
 const deshawRows = await getDeshawInternRows();
 const twoSigmaRows = await getTwoSigmaInternRows();
 const sigRows = await getSigInternRows();
+const balyasnyRows = await getBalyasnyInternRows();
+const goldmanRows = await getGoldmanQuantRows();
 const customSourceAudits = [
   { company: "Jane Street", source: "Official jobs feed", jobsRetained: janeStreetRows.length },
   { company: "D. E. Shaw", source: "Official internships page", jobsRetained: deshawRows.length },
   { company: "Two Sigma", source: "Official paginated careers portal", jobsRetained: twoSigmaRows.length },
   { company: "Susquehanna International Group", source: "Official paginated jobs API", jobsRetained: sigRows.length },
+  { company: "Balyasny Asset Management", source: "Official Salesforce Experience Cloud feed", jobsRetained: balyasnyRows.length },
+  { company: "Goldman Sachs", source: "Official Higher campus GraphQL API", jobsRetained: goldmanRows.length },
+  { company: "Previously seen Workday roles", source: "Official Workday job-detail APIs", jobsRetained: livePreviousWorkdayRows.length },
+  { company: "Previously seen Greenhouse roles", source: "Official Greenhouse job-detail APIs", jobsRetained: livePreviousGreenhouseRows.length },
 ];
-const careerPageRows = [...careerPageScan.rows, ...janeStreetRows, ...deshawRows, ...twoSigmaRows, ...sigRows];
+const careerPageRows = [...careerPageScan.rows, ...livePreviousWorkdayRows, ...livePreviousGreenhouseRows, ...janeStreetRows, ...deshawRows, ...twoSigmaRows, ...sigRows, ...balyasnyRows, ...goldmanRows];
 const discoveredNested = await mapLimit(companies, 8, async (company) => {
   const companyHits = [];
   const seen = new Set();
@@ -1050,7 +1401,17 @@ const discoveredNested = await mapLimit(companies, 8, async (company) => {
 
       const sourceType = classifySource(company, url);
       if (sourceType !== "Official posting/page" && !/\b2027\b/.test(`${title} ${notes}`)) continue;
-      const confidence = sourceType === "Official posting/page" ? "Likely official; verify application form" : "Aggregator/web lead; verify on official site";
+      let confidence = sourceType === "Official posting/page" ? "Likely official; verify application form" : "Aggregator/web lead; verify on official site";
+      if (sourceType === "Official posting/page") {
+        const enriched = await enrichOfficialJobHit(url);
+        if (enriched) {
+          url = enriched.canonicalUrl || url;
+          title = enriched.title || title;
+          location = enriched.location || location;
+          notes = [enriched.datePosted ? `datePosted=${enriched.datePosted}` : "", notes].filter(Boolean).join(" | ");
+          confidence = "Confirmed official posting";
+        }
+      }
       companyHits.push({
         Company: company,
         Title: title,
@@ -1175,24 +1536,6 @@ const manualLeads = [
     Notes: "Official page says applications are open and candidates can apply to functions such as Investment Research and Analytics & Modeling.",
   },
   {
-    Company: "Goldman Sachs",
-    Title: "2027 | Americas | New York City Area | Wealth Management, Quantitative Finance | Summer Analyst",
-    Location: "New York",
-    URL: "https://higher.gs.com/roles/155800",
-    Source: "Official careers page",
-    Status: "Confirmed official posting",
-    Notes: "Official Goldman Sachs Higher role page; Summer Analyst program for bachelor's/graduate degree students.",
-  },
-  {
-    Company: "Goldman Sachs",
-    Title: "2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst",
-    Location: "Singapore",
-    URL: "https://higher.gs.com/roles/170600",
-    Source: "Official careers page",
-    Status: "Confirmed official posting",
-    Notes: "Official Goldman Sachs Higher role page; quantitative strategists construct quantitative models for global markets.",
-  },
-  {
     Company: "J.P. Morgan",
     Title: "Markets Summer Analyst Program",
     Location: "Varies by open location",
@@ -1229,6 +1572,7 @@ const discoveredRows = discoveredCandidates.filter((row) => row.Source === "Offi
 const manualLeadUrls = new Set(manualLeads.map((row) => row.URL.toLowerCase().replace(/\/$/, "")));
 for (const row of [...careerPageRows, ...baseRows, ...manualLeads, ...discoveredRows]) {
   if (!row.URL) continue;
+  if (/aggregator|web-discovered|web lead/i.test(`${row.Source} ${row.Status}`)) continue;
   const urlKey = row.URL.toLowerCase();
   if (rowsByUrl.has(urlKey)) continue;
   if (!manualLeadUrls.has(urlKey.replace(/\/$/, "")) && !relevantCareerJob(row)) continue;

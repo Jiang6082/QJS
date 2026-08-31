@@ -9,6 +9,8 @@ const modeArg = userArgs.find((arg) => arg.startsWith("--mode="));
 const positionalMode = userArgs.find((arg) => !arg.startsWith("-"));
 const mode = modeArg ? modeArg.split("=")[1] : positionalMode || "all";
 const shouldPublish = userArgs.includes("--publish") || process.env.QJS_AUTO_PUBLISH === "1";
+const scanOnly = userArgs.includes("--scan-only");
+const preserveBaseline = userArgs.includes("--preserve-baseline");
 
 if (!validModes.has(mode)) {
   console.error(`Invalid mode: ${mode}`);
@@ -29,7 +31,7 @@ await fs.mkdir(stateDir, { recursive: true });
 await fs.mkdir(resolve(rootDir, "reports"), { recursive: true });
 await fs.mkdir(resolve(rootDir, "data"), { recursive: true });
 
-if (["v2", "all"].includes(mode)) {
+if (["v2", "all"].includes(mode) && !preserveBaseline) {
   try {
     await fs.copyFile(quantV2RawPath, previousQuantV2RawPath);
   } catch {}
@@ -75,7 +77,7 @@ for (const script of scripts) {
   });
 }
 
-if (["v2", "all"].includes(mode)) {
+if (["v2", "all"].includes(mode) && !scanOnly) {
   await new Promise((resolvePromise, reject) => {
     const child = spawn(process.execPath, [resolve(scriptDir, "build_quant_roster_scan_audit.mjs")], {
       cwd: rootDir,
@@ -107,6 +109,33 @@ if (["v2", "all"].includes(mode)) {
     child.on("close", (code) => code === 0
       ? resolvePromise()
       : reject(new Error(`build_scan_dashboard.mjs exited with code ${code}`)));
+  });
+
+  await new Promise((resolvePromise, reject) => {
+    const child = spawn(process.execPath, [
+      resolve(scriptDir, "report-new-roles.mjs"),
+      "--days=21",
+      "--scope=quant",
+      "--write",
+    ], {
+      cwd: rootDir,
+      stdio: "inherit",
+    });
+    child.on("error", reject);
+    child.on("close", (code) => code === 0
+      ? resolvePromise()
+      : reject(new Error(`report-new-roles.mjs exited with code ${code}`)));
+  });
+
+  await new Promise((resolvePromise, reject) => {
+    const child = spawn(process.execPath, [resolve(scriptDir, "build-cumulative-application-report.mjs")], {
+      cwd: rootDir,
+      stdio: "inherit",
+    });
+    child.on("error", reject);
+    child.on("close", (code) => code === 0
+      ? resolvePromise()
+      : reject(new Error(`build-cumulative-application-report.mjs exited with code ${code}`)));
   });
 
   await new Promise((resolvePromise, reject) => {
