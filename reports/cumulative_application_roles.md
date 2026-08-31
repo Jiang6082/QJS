@@ -1,15 +1,17 @@
 # Cumulative application queue
 
-_Updated 2026-08-29. Roles remain in this ledger when they age out of the rolling 21-day report._
+_Updated 2026-08-30. Roles remain in this ledger when they age out of the rolling 21-day report._
 
-- **183** unique role URLs tracked
-- **177** active or manually verified today
+- **185** unique role URLs tracked
+- **179** active or manually verified today
 - **6** not detected in the latest scan
-- **0** new scanner URLs since the previous scan
+- **2** new scanner URLs since the previous scan
 - **5** live Scientech roles verified on its nested official Ashby board
 
-## New scanner URLs since the previous scan (0)
+## New scanner URLs since the previous scan (2)
 
+- **BNP Paribas** — [2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading](https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading) — New York, US — first seen 2026-08-30
+- **PIMCO** — [2027 Summer Intern - Technology Analyst, Software Engineering, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800) — London, GBR — released 2026-08-30
 
 ## Scientech roles verified on the nested official board (5)
 
@@ -21,7 +23,7 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Scientech Research Capital** — [Quantitative Researcher Intern](https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80) — New Jersey — released 2025-01-23
 - **Scientech Research Capital** — [Quantitative Researcher Intern](https://jobs.ashbyhq.com/scientech-research/c344ad5a-b148-4a96-8d6c-a660e6f86896) — Shanghai — released 2025-01-23
 
-## Active cumulative queue (177)
+## Active cumulative queue (179)
 
 ### AQR Capital Management (4)
 
@@ -71,6 +73,10 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 
 - **BMO Capital Markets** — [BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) — Toronto, ON, CAN — released 2026-08-26
 - **BMO Capital Markets** — [BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1) — Toronto, ON, CAN — released 2026-08-25
+
+### BNP Paribas (1)
+
+- **BNP Paribas** — [2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading](https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading) — New York, US — first seen 2026-08-30
 
 ### BP (3)
 
@@ -221,8 +227,9 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Peak6** — [Trading Bootcamp Micro-Internship - Summer 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057-1) — Chicago, IL — released 2026-08-11
 - **Peak6** — [Trading Internship for Women+ Summer 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Internship-for-Women--Summer-2027_JR105061) — Chicago, IL — released 2026-08-11
 
-### PIMCO (5)
+### PIMCO (6)
 
+- **PIMCO** — [2027 Summer Intern - Technology Analyst, Software Engineering, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800) — London, GBR — released 2026-08-30
 - **PIMCO** — [2027 Summer Intern - Global Wealth Management, Strategic Accounts Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770) — 2 Locations — released 2026-08-21
 - **PIMCO** — [2027 Summer Intern – Trading Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763) — Newport Beach, CA USA — released 2026-08-20
 - **PIMCO** — [2027 Summer Intern - Client Solutions & Analytics Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605) — Newport Beach, CA USA — released 2026-08-18

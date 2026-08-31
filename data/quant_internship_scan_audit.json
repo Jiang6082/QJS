@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-30T03:23:10.359Z",
+  "scannedAt": "2026-08-31T00:41:52.276Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -988,14 +988,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 174
+          "count": 175
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 174,
+      "jobsSeen": 175,
       "relevantInternships": 19
     },
     {

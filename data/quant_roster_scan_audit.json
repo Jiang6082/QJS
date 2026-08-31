@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T03:37:06.944Z",
-  "scanStartedAt": "2026-08-30T03:32:26.077Z",
+  "generatedAt": "2026-08-31T00:50:41.877Z",
+  "scanStartedAt": "2026-08-31T00:46:21.936Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 136,
+      "jobsSeen": 137,
       "relevantInternships": 0
     },
     {
@@ -1814,7 +1814,7 @@
       "careerPages": [
         "https://hyperithm.career.greetinghr.com/ko/open-positions"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3776,7 +3776,7 @@
       "careerPages": [
         "https://www.simplyhired.com/browse-jobs/companies/Wh-Trading-LLC"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 91,
+      "jobsSeen": 92,
       "relevantInternships": 0
     },
     {

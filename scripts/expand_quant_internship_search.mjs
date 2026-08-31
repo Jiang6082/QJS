@@ -233,6 +233,53 @@ function firstJsonLd(html = "") {
   try { return JSON.parse(match[1]); } catch { return null; }
 }
 
+function jobPostingJsonLd(html = "") {
+  const scripts = [...html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)];
+  const findPosting = (value) => {
+    if (!value || typeof value !== "object") return null;
+    if (Array.isArray(value)) {
+      for (const item of value) {
+        const found = findPosting(item);
+        if (found) return found;
+      }
+      return null;
+    }
+    if (String(value["@type"] || "").toLowerCase() === "jobposting") return value;
+    return findPosting(value["@graph"]);
+  };
+  for (const script of scripts) {
+    try {
+      const found = findPosting(JSON.parse(script[1]));
+      if (found) return found;
+    } catch {}
+  }
+  return null;
+}
+
+const officialJobHitCache = new Map();
+async function enrichOfficialJobHit(url) {
+  if (officialJobHitCache.has(url)) return officialJobHitCache.get(url);
+  const result = (async () => {
+    const res = await fetchText(url);
+    if (!res.ok) return null;
+    const posting = jobPostingJsonLd(res.text);
+    if (!posting) return null;
+    const address = (Array.isArray(posting.jobLocation) ? posting.jobLocation[0] : posting.jobLocation)?.address || {};
+    const location = [address.addressLocality, address.addressRegion, address.addressCountry]
+      .filter(Boolean)
+      .filter((value, index, values) => values.indexOf(value) === index)
+      .join(", ");
+    return {
+      title: decodeHtml(String(posting.title || "")),
+      location: decodeHtml(location),
+      datePosted: typeof posting.datePosted === "string" ? posting.datePosted.slice(0, 10) : "",
+      canonicalUrl: decodeHtml(String(posting.url || res.url || url)),
+    };
+  })();
+  officialJobHitCache.set(url, result);
+  return result;
+}
+
 async function normalizeOpenQuantHit(hitUrl) {
   const res = await fetchText(hitUrl);
   if (!res.ok) return null;
@@ -734,7 +781,30 @@ async function scanCareerPage(company, pageUrl) {
   tokens.lever = [...new Set([...tokens.lever, ...(seededTokens.lever || [])])];
   tokens.ashby = [...new Set([...tokens.ashby, ...(seededTokens.ashby || [])])];
   tokens.smartrecruiters = [...new Set([...(tokens.smartrecruiters || []), ...(seededTokens.smartrecruiters || [])])];
+  const directPosting = page.ok ? jobPostingJsonLd(page.text) : null;
+  const directAddress = (Array.isArray(directPosting?.jobLocation) ? directPosting.jobLocation[0] : directPosting?.jobLocation)?.address || {};
+  const directLocation = [directAddress.addressLocality, directAddress.addressRegion, directAddress.addressCountry]
+    .filter(Boolean)
+    .filter((value, index, values) => values.indexOf(value) === index)
+    .join(", ");
+  const directBoard = directPosting?.title ? {
+    source: "Official JSON-LD job posting",
+    jobs: [{
+      Company: company,
+      Title: decodeHtml(String(directPosting.title)),
+      Department: "",
+      Location: decodeHtml(directLocation),
+      URL: decodeHtml(String(directPosting.url || page.url)),
+      Source: "Career page JSON-LD",
+      Status: "Confirmed official posting",
+      Notes: [
+        `career_page=${pageUrl}`,
+        typeof directPosting.datePosted === "string" ? `datePosted=${directPosting.datePosted.slice(0, 10)}` : "",
+      ].filter(Boolean).join(" | "),
+    }],
+  } : null;
   const boards = [
+    directBoard,
     ...(await Promise.all(tokens.greenhouse.map((token) => getGreenhouseBoard(company, token, page.url)))),
     ...(await Promise.all(tokens.lever.map((token) => getLeverBoard(company, token, page.url)))),
     ...(await Promise.all(tokens.ashby.map((token) => getAshbyBoard(company, token, page.url)))),
@@ -1331,7 +1401,17 @@ const discoveredNested = await mapLimit(companies, 8, async (company) => {
 
       const sourceType = classifySource(company, url);
       if (sourceType !== "Official posting/page" && !/\b2027\b/.test(`${title} ${notes}`)) continue;
-      const confidence = sourceType === "Official posting/page" ? "Likely official; verify application form" : "Aggregator/web lead; verify on official site";
+      let confidence = sourceType === "Official posting/page" ? "Likely official; verify application form" : "Aggregator/web lead; verify on official site";
+      if (sourceType === "Official posting/page") {
+        const enriched = await enrichOfficialJobHit(url);
+        if (enriched) {
+          url = enriched.canonicalUrl || url;
+          title = enriched.title || title;
+          location = enriched.location || location;
+          notes = [enriched.datePosted ? `datePosted=${enriched.datePosted}` : "", notes].filter(Boolean).join(" | ");
+          confidence = "Confirmed official posting";
+        }
+      }
       companyHits.push({
         Company: company,
         Title: title,
@@ -1492,6 +1572,7 @@ const discoveredRows = discoveredCandidates.filter((row) => row.Source === "Offi
 const manualLeadUrls = new Set(manualLeads.map((row) => row.URL.toLowerCase().replace(/\/$/, "")));
 for (const row of [...careerPageRows, ...baseRows, ...manualLeads, ...discoveredRows]) {
   if (!row.URL) continue;
+  if (/aggregator|web-discovered|web lead/i.test(`${row.Source} ${row.Status}`)) continue;
   const urlKey = row.URL.toLowerCase();
   if (rowsByUrl.has(urlKey)) continue;
   if (!manualLeadUrls.has(urlKey.replace(/\/$/, "")) && !relevantCareerJob(row)) continue;

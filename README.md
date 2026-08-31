@@ -2,9 +2,9 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-08-29 &nbsp;•&nbsp; **436 open roles** &nbsp;•&nbsp; **0 released today** &nbsp;•&nbsp; **124 opened in 3 weeks** &nbsp;•&nbsp; **55 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-08-30 &nbsp;•&nbsp; **438 open roles** &nbsp;•&nbsp; **1 released today** &nbsp;•&nbsp; **124 opened in 3 weeks** &nbsp;•&nbsp; **59 closed** ([history](reports/closed_roles_history.md))
 
-> **Cumulative application queue:** [183 unique roles tracked; 177 active](reports/cumulative_application_roles.md)
+> **Cumulative application queue:** [185 unique roles tracked; 179 active](reports/cumulative_application_roles.md)
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [🔥 Opened in the Last 3 Weeks](#-opened-in-the-last-3-weeks) · [📚 Cumulative Application Queue](reports/cumulative_application_roles.md) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -12,15 +12,26 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-08-29_
+_Scan date: 2026-08-30_
 
-_No currently open roles have a confirmed source release date of 2026-08-29._
+**1** currently open role with a confirmed source release date of 2026-08-30:
+
+**Europe**
+
+- **PIMCO** — [2027 Summer Intern - Technology Analyst, Software Engineering, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800) — London, GBR
 
 ---
 
 ## 🔥 Opened in the Last 3 Weeks
 
-_Official-source posting dates from 2026-08-09 through 2026-08-29. Only roles that are still present in the current scan are shown._
+_Official-source posting dates from 2026-08-10 through 2026-08-30. Only roles that are still present in the current scan are shown._
+
+<details>
+<summary><strong>2026-08-30</strong> — 1 role</summary>
+
+- **PIMCO** — [2027 Summer Intern - Technology Analyst, Software Engineering, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800) — London, GBR
+
+</details>
 
 <details>
 <summary><strong>2026-08-27</strong> — 5 roles</summary>
@@ -241,13 +252,6 @@ _Official-source posting dates from 2026-08-09 through 2026-08-29. Only roles th
 
 </details>
 
-<details>
-<summary><strong>2026-08-09</strong> — 1 role</summary>
-
-- **RRS Group** — [2027 Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209) — Remote
-
-</details>
-
 [Standalone three-week report](reports/new_roles_last_three_weeks.md)
 
 ### Newly surfaced, source date unavailable
@@ -261,14 +265,14 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 
 ## 📋 All Roles Available
 
-**436** open internship roles, grouped by region. Click a title to open the official posting.
+**438** open internship roles, grouped by region. Click a title to open the official posting.
 
-**Regions:** [North America (210)](#north-america) · [Europe (95)](#europe) · [Asia (97)](#asia) · [Oceania (7)](#oceania) · [Middle East (1)](#middle-east) · [South America (1)](#south-america) · [Global / Multiple Regions (11)](#global--multiple-regions) · [Remote / Unspecified (14)](#remote--unspecified)
+**Regions:** [North America (211)](#north-america) · [Europe (96)](#europe) · [Asia (97)](#asia) · [Oceania (7)](#oceania) · [Middle East (1)](#middle-east) · [South America (1)](#south-america) · [Global / Multiple Regions (11)](#global--multiple-regions) · [Remote / Unspecified (14)](#remote--unspecified)
 
 ### North America
 
 <details>
-<summary><strong>210 roles</strong> — click to expand</summary>
+<summary><strong>211 roles</strong> — click to expand</summary>
 
 - **Akuna** — [Hardware Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) — Chicago, IL
 - **Akuna** — [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) — Chicago, IL
@@ -309,6 +313,7 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 - **BlackRock** — [2027 Summer Internship Program - AMERS](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) — Multiple Americas offices
 - **BMO Capital Markets** — [BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1) — Toronto, ON, CAN
 - **BMO Capital Markets** — [BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) — Toronto, ON, CAN
+- **BNP Paribas** — [2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading](https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading) — New York, US
 - **Chicago Trading Company** — [Quant Trading Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) — Chicago, Illinois, United States
 - **Chicago Trading Company** — [Software Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) — Chicago, Illinois, United States
 - **Citadel** — [Quantitative Research Analyst - Intern (US)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) — Greenwich, Miami, New York
@@ -486,7 +491,7 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 ### Europe
 
 <details>
-<summary><strong>95 roles</strong> — click to expand</summary>
+<summary><strong>96 roles</strong> — click to expand</summary>
 
 - **Balyasny Asset Management** — [Quantitative Analyst - Macro & Commodities Investment Teams (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Macro---Commodities-Investment-Teams--Summer-Internship-_REQ8477) — London
 - **Balyasny Asset Management** — [Quantitative Analyst, Commodities (Seasonal Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst--Commodities--Seasonal-Internship-_REQ8467) — London
@@ -561,6 +566,7 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 - **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002) — Amsterdam, North Holland, Netherlands
 - **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) — London, England, United Kingdom
 - **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) — Amsterdam, North Holland, Netherlands
+- **PIMCO** — [2027 Summer Intern - Technology Analyst, Software Engineering, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800) — London, GBR
 - **Quantbot Technologies** — [Data Trading Analyst Summer Internship - 2027 [London]](https://www.quantbot.com/careers/4299858009?gh_jid=4299858009) — London
 - **Quantbot Technologies** — [Quantitative Researcher Internship - 2027 [London]](https://www.quantbot.com/careers/4299863009?gh_jid=4299863009) — London
 - **Squarepoint Capital** — [Intern Software Developer - London - 2027](https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006) — London
@@ -772,10 +778,10 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 Requires **Node.js 18+**. From the repo folder:
 
 ```bash
-npm run scan:all          # run the full workflow
-npm run scan:v2           # known ATS boards + expanded quant career-page/web search
-npm run scan:v2:publish   # scan, rebuild reports, and push to GitHub
-npm run scan:all:publish  # run every scanner and publish
+npm run refresh:v2          # portable two-pass quant scan, reports, and validation
+npm run refresh:v2:publish  # same workflow, then commit and push
+npm run scan:v2             # single diagnostic scan pass
+npm run scan:all            # run every scanner once
 ```
 
 **Scan modes:** `v1` (known ATS boards) · `v2` (ATS + expanded quant search) · `broad` (ATS + broader US financial-services) · `swe` (2027 software/eng roles) · `all` (full workflow).
@@ -783,11 +789,11 @@ npm run scan:all:publish  # run every scanner and publish
 ### Normal workflow on any machine
 
 ```bash
-git pull
-npm run scan:v2:publish
+git pull --ff-only
+npm run refresh:v2:publish
 ```
 
-Every `v2`/`all` run rebuilds [reports/LATEST_QUANT_SCAN.md](reports/LATEST_QUANT_SCAN.md) and this README. The publish step then commits the changed scanner files and reports and pushes to `origin`. To publish already-generated local changes without scanning, run `npm run publish`.
+Run the portable workflow from a clean worktree. It copies the committed raw scan into the local comparison baseline, performs two independent source passes, refreshes manually verified official roles, rebuilds every quant report in dependency order, and runs [workflow validation](reports/scan_validation.md). The confirmed-role stability state is tracked in [data/stable_quant_roles.json](data/stable_quant_roles.json), so additions and two-scan closures behave the same on a fresh clone; do not copy `.scan-state` between machines. The publish step commits the generated files and pushes the currently checked-out branch to `origin`. To publish already-generated local changes without scanning, run `npm run publish`.
 
 ## Repo Layout
 
@@ -810,7 +816,9 @@ Every `v2`/`all` run rebuilds [reports/LATEST_QUANT_SCAN.md](reports/LATEST_QUAN
 | [reports/quant_internship_roles_scan_v2.csv](reports/quant_internship_roles_scan_v2.csv) | Full current role list (spreadsheet) |
 | [reports/current_quant_roles_not_in_tracker.md](reports/current_quant_roles_not_in_tracker.md) | Current roles absent from the older application tracker |
 | [reports/quant_roster_scan_audit.md](reports/quant_roster_scan_audit.md) | 303-firm roster split into confirmed vs. unverifiable states |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (55 so far) |
+| [reports/scan_validation.md](reports/scan_validation.md) | Portable baseline delta and integrity checks for the latest refresh |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (59 so far) |
+| [data/stable_quant_roles.json](data/stable_quant_roles.json) | Cross-device confirmed-present state for the two-scan closure guard |
 | [inputs/company_career_pages.json](inputs/company_career_pages.json) | Seeded career-page database |
 | [inputs/quant_firm_roster.json](inputs/quant_firm_roster.json) | Complete 303-entry firm list + canonical aliases |
 

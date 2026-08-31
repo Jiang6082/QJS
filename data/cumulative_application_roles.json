@@ -1,12 +1,40 @@
 {
-  "generatedAt": "2026-08-30T03:37:16.703Z",
-  "currentScanAt": "2026-08-30T03:32:26.077Z",
-  "total": 183,
-  "active": 177,
+  "generatedAt": "2026-08-31T00:50:51.131Z",
+  "currentScanAt": "2026-08-31T00:46:21.936Z",
+  "total": 185,
+  "active": 179,
   "notDetected": 6,
-  "newSincePreviousScan": 0,
+  "newSincePreviousScan": 2,
   "manuallyRecovered": 5,
   "roles": [
+    {
+      "Company": "BNP Paribas",
+      "Title": "2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading",
+      "Location": "New York, US",
+      "URL": "https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading",
+      "Source": "Career page JSON-LD",
+      "source_status": "Confirmed official posting",
+      "release_date": null,
+      "first_seen": "2026-08-30",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Technology Analyst, Software Engineering, EMEA",
+      "Location": "London, GBR",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-30",
+      "first_seen": "2026-08-30",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
     {
       "Company": "AQR Capital Management",
       "Title": "2027 Portfolio Finance Summer Analyst",
@@ -536,7 +564,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-29",
+      "verifiedAt": "2026-08-30",
       "status": "active"
     },
     {
@@ -2440,7 +2468,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-29",
+      "verifiedAt": "2026-08-30",
       "status": "active"
     },
     {
@@ -2454,7 +2482,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-29",
+      "verifiedAt": "2026-08-30",
       "status": "active"
     },
     {
@@ -2468,7 +2496,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-29",
+      "verifiedAt": "2026-08-30",
       "status": "active"
     },
     {
@@ -2482,7 +2510,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-08-29",
+      "verifiedAt": "2026-08-30",
       "status": "active"
     },
     {

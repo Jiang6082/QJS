@@ -1,5 +1,49 @@
 [
   {
+    "Company": "D. E. Shaw",
+    "Title": "Systems Administrator Intern (New York)",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921",
+    "Source": "Official D. E. Shaw internships page",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-30T03:32:26.077Z",
+    "detectedClosedAt": "2026-08-31T00:33:48.797Z"
+  },
+  {
+    "Company": "Quantbot Technologies",
+    "Title": "Machine Learning Research Engineer Internship - 2027 [New York]",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009",
+    "Source": "Greenhouse:quantbot-technologies",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-30T03:32:26.077Z",
+    "detectedClosedAt": "2026-08-31T00:33:48.797Z"
+  },
+  {
+    "Company": "Quantbot Technologies",
+    "Title": "Quantitative Developer Internship - 2027 [New York]",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009",
+    "Source": "Greenhouse:quantbot-technologies",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-30T03:32:26.077Z",
+    "detectedClosedAt": "2026-08-31T00:33:48.797Z"
+  },
+  {
+    "Company": "Vanguard",
+    "Title": "College to Corporate IT Internship - Data Science (NC)",
+    "Location": "Charlotte, NC",
+    "Region": "Remote / Unspecified",
+    "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765",
+    "Source": "Career page Workday:vanguard/vanguard_external",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-30T03:32:26.077Z",
+    "detectedClosedAt": "2026-08-31T00:33:48.797Z"
+  },
+  {
     "Company": "Vanguard",
     "Title": "College to Corporate IT Internship - Risk & Security - Engineer  (PA)",
     "Location": "Malvern, PA",

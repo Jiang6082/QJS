@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-08-30T03:32:26.077Z
+Scan started: 2026-08-31T00:46:21.936Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 
@@ -208,7 +208,7 @@ Canonical companies after aliases: 304
 | Forest Creek Capital | no saved page attempted | none |
 | Gift Street Capital | no saved page attempted | none |
 | Grasshopper | 1/1 pages live | [link](https://grasshopperasia.com/careers/) |
-| Hyperithm | 0/1 pages live | [link](https://hyperithm.career.greetinghr.com/ko/open-positions) |
+| Hyperithm | 1/1 pages live | [link](https://hyperithm.career.greetinghr.com/ko/open-positions) |
 | InCommodities Asset Management | 1/1 pages live | [link](https://incommodities.com/join-us) |
 | J.E. Moody & Company LLC | 1/1 pages live | [link](http://jemoody.com/) |
 | Lehi Capital Corp | 0/1 pages live | [link](https://lehicap.com/colab) |
@@ -309,7 +309,7 @@ Canonical companies after aliases: 304
 | Tidal Energy Marketing | 1/1 pages live | [link](https://www.tidal-energy.com/careers) |
 | UTR8 Group | 0/1 pages live | [link](https://utr8-group.com/careers/) |
 | VICI Holdings | no saved page attempted | none |
-| WH Trading | 0/1 pages live | [link](https://www.simplyhired.com/browse-jobs/companies/Wh-Trading-LLC) |
+| WH Trading | 1/1 pages live | [link](https://www.simplyhired.com/browse-jobs/companies/Wh-Trading-LLC) |
 | Whistler Trading | 0/1 pages live | [link](https://job-boards.greenhouse.io/whistlertrading) |
 | Wolverine Trading | 1/1 pages live | [link](https://www.wolve.com/careers/) |
 | Z22 Technologies AG | no saved page attempted | none |

@@ -110,8 +110,10 @@ try {
 // scans, and only reported as closed once it has been absent from TWO consecutive
 // scans. This makes a single-scan board hiccup (e.g. a feed transiently returning
 // zero jobs) a non-event instead of churning the reports and closure archive.
-// State lives in .scan-state (git-ignored, per-machine), like previous_quant_v2_raw.
-const stablePath = ".scan-state/stable_roles.json";
+// Confirmed-present state is tracked so the two-scan guard behaves identically
+// on every clone. The legacy local path is read once for migration.
+const stablePath = "data/stable_quant_roles.json";
+const legacyStablePath = ".scan-state/stable_roles.json";
 const roleMeta = (row) => ({
   Company: row.Company,
   Title: row.Title,
@@ -130,7 +132,14 @@ try {
     .filter((row) => !isAggregatorLead(row))
     .map((row) => [stableUrl(row.URL), row]));
 } catch {
-  stable = null;
+  try {
+    const parsed = JSON.parse(await fs.readFile(legacyStablePath, "utf8"));
+    stable = new Map((parsed.roles || [])
+      .filter((row) => !isAggregatorLead(row))
+      .map((row) => [stableUrl(row.URL), row]));
+  } catch {
+    stable = null;
+  }
 }
 
 // Manually verified roles are already in the cumulative application ledger.

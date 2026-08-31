@@ -1,11 +1,18 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 55
-Last updated: 2026-08-30T03:32:26.077Z
+Total closures recorded: 59
+Last updated: 2026-08-31T00:46:21.936Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-08-30 (4)
+
+- **D. E. Shaw** - [Systems Administrator Intern (New York)](https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921) - New York
+- **Quantbot Technologies** - [Machine Learning Research Engineer Internship - 2027 [New York]](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) - New York
+- **Quantbot Technologies** - [Quantitative Developer Internship - 2027 [New York]](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) - New York
+- **Vanguard** - [College to Corporate IT Internship - Data Science (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765) - Charlotte, NC
 
 ### 2026-08-29 (1)
 

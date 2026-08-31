@@ -6,7 +6,9 @@
   "scripts": {
     "scan:v1": "node ./scripts/run-quant-scan.mjs --mode=v1",
     "scan:v2": "node ./scripts/run-quant-scan.mjs --mode=v2",
-    "scan:v2:publish": "node ./scripts/run-quant-scan.mjs --mode=v2 --publish",
+    "scan:v2:publish": "node ./scripts/refresh-quant-workflow.mjs --publish",
+    "refresh:v2": "node ./scripts/refresh-quant-workflow.mjs",
+    "refresh:v2:publish": "node ./scripts/refresh-quant-workflow.mjs --publish",
     "scan:broad": "node ./scripts/run-quant-scan.mjs --mode=broad",
     "scan:swe": "node ./scripts/run-quant-scan.mjs --mode=swe",
     "scan:all": "node ./scripts/run-quant-scan.mjs --mode=all",
@@ -14,7 +16,8 @@
     "publish": "node ./scripts/publish_scan_results.mjs",
     "report:new": "node ./scripts/report-new-roles.mjs",
     "report:cumulative": "node ./scripts/build-cumulative-application-report.mjs",
-    "readme": "node ./scripts/build-readme.mjs"
+    "readme": "node ./scripts/build-readme.mjs",
+    "validate:v2": "node ./scripts/validate-quant-workflow.mjs"
   },
   "engines": {
     "node": ">=18"

@@ -1,4 +1,4 @@
-# Roles released 2026-08-09 → 2026-08-29 (124 with confirmed release dates)
+# Roles released 2026-08-10 → 2026-08-30 (124 with confirmed release dates)
 
 ## Goldman Sachs (26)
 - **2026-08-15** — [2027 | Americas | Dallas Metro Area | Asset and Wealth Management Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/171532) — Dallas, TX, United States
@@ -56,6 +56,14 @@
 - **2026-08-12** — [Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)](https://www.optiver.com/join-us/jobs/8644376002/?gh_jid=8644376002) — Shanghai, China
 - **2026-08-12** — [Quantitative Trading Internship (Summer 2027 - Shanghai)](https://www.optiver.com/join-us/jobs/8623923002/?gh_jid=8623923002) — Shanghai, China
 
+## PIMCO (6)
+- **2026-08-30** — [2027 Summer Intern - Technology Analyst, Software Engineering, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800) — London, GBR
+- **2026-08-21** — [2027 Summer Intern - Global Wealth Management, Strategic Accounts Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770) — 2 Locations
+- **2026-08-20** — [2027 Summer Intern – Trading Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763) — Newport Beach, CA USA
+- **2026-08-18** — [2027 Summer Intern - Client Solutions & Analytics Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605) — Newport Beach, CA USA
+- **2026-08-18** — [2027 Summer Intern - Product Strategy Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626) — Newport Beach, CA USA
+- **2026-08-18** — [2027 Summer Intern - Technology Analyst, Software Engineering](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) — Austin, TX USA
+
 ## Qube Research & Technologies (6)
 - **2026-08-26** — [2027 Internship/Graduate - Data Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002) — Hong Kong
 - **2026-08-26** — [2027 Internship/Graduate - FPGA Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002) — Hong Kong
@@ -78,13 +86,6 @@
 - **2026-08-12** — [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) — London
 - **2026-08-10** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) — New York
 - **2026-08-10** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) — London
-
-## PIMCO (5)
-- **2026-08-21** — [2027 Summer Intern - Global Wealth Management, Strategic Accounts Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770) — 2 Locations
-- **2026-08-20** — [2027 Summer Intern – Trading Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763) — Newport Beach, CA USA
-- **2026-08-18** — [2027 Summer Intern - Client Solutions & Analytics Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605) — Newport Beach, CA USA
-- **2026-08-18** — [2027 Summer Intern - Product Strategy Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626) — Newport Beach, CA USA
-- **2026-08-18** — [2027 Summer Intern - Technology Analyst, Software Engineering](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) — Austin, TX USA
 
 ## Vanguard (5)
 - **2026-08-21** — [College to Corporate IT Internship - Technology Operations (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788) — Malvern, PA
@@ -184,9 +185,6 @@
 
 ## Invesco (1)
 - **2026-08-11** — [Early Career Intern - Investments (Risk)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1) — New York, New York
-
-## RRS Group (1)
-- **2026-08-09** — [2027 Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209) — Remote
 
 ## First seen in this window, but source posting date unavailable (2)
 

@@ -1,10 +1,37 @@
 {
-  "generatedAt": "2026-08-31T00:50:42.008Z",
-  "previousScanAt": "2026-08-30T03:32:26.077Z",
+  "generatedAt": "2026-08-31T00:52:40.373Z",
+  "scanDate": "2026-08-30",
+  "status": "passed",
+  "baselineScanAt": "2026-08-30T03:32:26.077Z",
   "currentScanAt": "2026-08-31T00:46:21.936Z",
-  "previousRows": 436,
+  "baselineRows": 436,
   "currentRows": 438,
-  "added": [
+  "exactAdded": [
+    {
+      "Company": "BNP Paribas",
+      "Title": "2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading",
+      "Department": "",
+      "Location": "New York, US",
+      "URL": "https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading",
+      "Source": "Career page JSON-LD",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading | datePosted=2026-07-24",
+      "Region": "North America"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Technology Analyst, Software Engineering, EMEA",
+      "Department": "",
+      "Location": "London, GBR",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.pimco.com/us/en/about-us/careers/professionals | Posted Today | R106800",
+      "Region": "Europe"
+    }
+  ],
+  "exactRemoved": [],
+  "reportedAdded": [
     {
       "Company": "BNP Paribas",
       "Title": "2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading",
@@ -24,7 +51,7 @@
       "Status": "Confirmed official posting"
     }
   ],
-  "removed": [
+  "reportedRemoved": [
     {
       "Company": "D. E. Shaw",
       "Title": "Systems Administrator Intern (New York)",
@@ -69,5 +96,22 @@
       "lastSeenOpenAt": "2026-08-30T03:32:26.077Z",
       "detectedClosedAt": "2026-08-31T00:33:48.797Z"
     }
-  ]
+  ],
+  "rollingDated": 124,
+  "rollingUndated": 2,
+  "cumulativeTotal": 185,
+  "cumulativeActive": 179,
+  "cumulativeNotDetected": 6,
+  "manuallyVerifiedToday": 5,
+  "scientechJobsSeen": 17,
+  "scientechRolesRetained": 5,
+  "checks": {
+    "duplicateUrls": 0,
+    "aggregatorRows": 0,
+    "futureDated": 0,
+    "priorCumulativeMissing": 0,
+    "verifiedManualMissing": 0,
+    "invalidJson": 0
+  },
+  "failures": []
 }

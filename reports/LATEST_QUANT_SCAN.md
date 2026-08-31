@@ -1,14 +1,14 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-08-30T03:32:26.077Z
+Last updated: 2026-08-31T00:46:21.936Z
 
 ## Summary
 
 - Companies searched: 369
-- Career pages checked: 512
-- Current retained roles: 436
-- New stable job URLs since previous scan: 0
-- No longer present since previous scan: 1
+- Career pages checked: 513
+- Current retained roles: 438
+- New stable job URLs since previous scan: 2
+- No longer present since previous scan: 4
 - Matching-role firms: 47
 - Confirmed no open postings: 2
 - Openings but no matching role: 47
@@ -16,13 +16,13 @@ Last updated: 2026-08-30T03:32:26.077Z
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (1)
 
-_None._
+- **BNP Paribas** - [2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading](https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading) - New York, US
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **PIMCO** - [2027 Summer Intern - Technology Analyst, Software Engineering, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800) - London, GBR
 
 ### Asia (0)
 
@@ -54,7 +54,10 @@ _None._
 
 ## No Longer Present
 
-- **Vanguard** - [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) - Malvern, PA
+- **D. E. Shaw** - [Systems Administrator Intern (New York)](https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921) - New York
+- **Quantbot Technologies** - [Machine Learning Research Engineer Internship - 2027 [New York]](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) - New York
+- **Quantbot Technologies** - [Quantitative Developer Internship - 2027 [New York]](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) - New York
+- **Vanguard** - [College to Corporate IT Internship - Data Science (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765) - Charlotte, NC
 
 ## Full Reports
 
