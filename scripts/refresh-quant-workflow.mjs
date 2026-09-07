@@ -38,6 +38,16 @@ mkdirSync(stateDir, { recursive: true });
 writeFileSync(resolve(stateDir, "previous_quant_v2_raw.json"), `${committedRaw}\n`);
 console.log("Saved the committed raw scan as the exact comparison baseline.");
 
+for (const relativePath of [
+  "data/stable_quant_roles.json",
+  "data/closed_roles_history.json",
+  "data/cumulative_application_roles.json",
+]) {
+  const committed = output("git", ["show", `HEAD:${relativePath}`]);
+  writeFileSync(resolve(repo, relativePath), `${committed}\n`);
+}
+console.log("Restored committed cumulative and stability state before rebuilding reports.");
+
 const nodeSteps = [
   ["Verify manually tracked official roles", "verify-manually-verified-roles.mjs", []],
   ["Run first source pass", "run-quant-scan.mjs", ["--mode=v2", "--scan-only", "--preserve-baseline"]],

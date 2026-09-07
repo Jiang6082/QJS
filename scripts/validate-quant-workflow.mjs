@@ -34,6 +34,19 @@ function isAggregatorLead(row = {}) {
     || /(?:glassdoor\.com|extern\.com)/i.test(row.URL || "");
 }
 
+function workdayRequisitionIdentity(row = {}) {
+  try {
+    const url = new URL(row.URL || "");
+    if (!/\.myworkday(?:jobs|site)\.com$/i.test(url.hostname)) return "";
+    const tail = url.pathname.split("/").filter(Boolean).at(-1) || "";
+    const match = tail.match(/_([A-Z]*-?\d+)(?:-\d+)?$/i);
+    if (!match) return "";
+    return `${row.Company}\n${match[1]}\n${row.Title}`.toLowerCase();
+  } catch {
+    return "";
+  }
+}
+
 async function jsonFilesUnder(relativeDir) {
   const root = resolve(repo, relativeDir);
   const found = [];
@@ -71,6 +84,8 @@ const exactRemoved = [...previousByUrl.keys()].filter((url) => !currentByUrl.has
 const expectedReportedAdded = exactAdded.filter((url) => !manualUrls.has(url)).sort();
 const reportedAdded = (newReport.added || []).map((row) => stableUrl(row.URL)).sort();
 const duplicateUrls = currentStableUrls.filter((url, index, all) => all.indexOf(url) !== index);
+const workdayIdentityList = (current.rows || []).map(workdayRequisitionIdentity).filter(Boolean);
+const duplicateWorkdayRequisitions = workdayIdentityList.filter((identity, index, all) => all.indexOf(identity) !== index);
 const aggregatorRows = (current.rows || []).filter(isAggregatorLead);
 const futureDated = (recent.roles || []).filter((row) => row.date && row.date > today);
 const priorCumulativeMissing = (priorCumulative.roles || []).filter((row) => !(cumulative.roles || []).some((currentRole) => currentRole.URL === row.URL));
@@ -91,6 +106,7 @@ for (const file of [...await jsonFilesUnder("data"), ...await jsonFilesUnder("in
 
 const failures = [];
 if (duplicateUrls.length) failures.push(`${duplicateUrls.length} duplicate stable URLs`);
+if (duplicateWorkdayRequisitions.length) failures.push(`${duplicateWorkdayRequisitions.length} duplicate Workday requisitions`);
 if (aggregatorRows.length) failures.push(`${aggregatorRows.length} aggregator rows in the applicant scan`);
 if (futureDated.length) failures.push(`${futureDated.length} future-dated rolling-report roles`);
 if (priorCumulativeMissing.length) failures.push(`${priorCumulativeMissing.length} prior cumulative URLs were lost`);
@@ -121,6 +137,7 @@ const summary = {
   scientechRolesRetained: scientechAudit?.relevantInternships || 0,
   checks: {
     duplicateUrls: duplicateUrls.length,
+    duplicateWorkdayRequisitions: duplicateWorkdayRequisitions.length,
     aggregatorRows: aggregatorRows.length,
     futureDated: futureDated.length,
     priorCumulativeMissing: priorCumulativeMissing.length,
@@ -156,6 +173,7 @@ const markdown = [
   "## Integrity checks",
   "",
   `- Duplicate URLs: ${summary.checks.duplicateUrls}`,
+  `- Duplicate Workday requisitions: ${summary.checks.duplicateWorkdayRequisitions}`,
   `- Aggregator rows: ${summary.checks.aggregatorRows}`,
   `- Future-dated roles: ${summary.checks.futureDated}`,
   `- Prior cumulative URLs lost: ${summary.checks.priorCumulativeMissing}`,

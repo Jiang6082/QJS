@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-31T00:50:41.877Z",
-  "scanStartedAt": "2026-08-31T00:46:21.936Z",
+  "generatedAt": "2026-09-07T22:30:36.686Z",
+  "scanStartedAt": "2026-09-07T22:26:15.607Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 47,
+    "matching-role-found": 50,
     "confirmed-no-open-postings": 2,
-    "confirmed-openings-no-matching-role": 47,
+    "confirmed-openings-no-matching-role": 44,
     "could-not-fully-verify": 208
   },
   "companies": [
@@ -67,15 +67,15 @@
       "sourceRosterNames": [
         "AlphaGrep"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.alpha-grep.com/career/",
         "https://job-boards.greenhouse.io/alphagrepsecurities"
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 15,
-      "relevantInternships": 0
+      "jobsSeen": 14,
+      "relevantInternships": 1
     },
     {
       "company": "Apolis SAM",
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 137,
+      "jobsSeen": 135,
       "relevantInternships": 0
     },
     {
@@ -170,7 +170,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantInternships": 0
     },
     {
@@ -417,7 +417,7 @@
       "sourceRosterNames": [
         "Brevan Howard"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967",
         "https://brevanhoward.wd3.myworkdayjobs.com/wday/cxs/brevanhoward/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2025-Trading-Graduate-Program---Abu-Dhabi_JR100942",
@@ -427,8 +427,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 15,
-      "relevantInternships": 0
+      "jobsSeen": 14,
+      "relevantInternships": 4
     },
     {
       "company": "Campbell and Company",
@@ -540,8 +540,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 25,
-      "relevantInternships": 3
+      "jobsSeen": 27,
+      "relevantInternships": 4
     },
     {
       "company": "Ace Capital Saires",
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 172,
+      "jobsSeen": 177,
       "relevantInternships": 18
     },
     {
@@ -946,7 +946,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 11,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -972,7 +972,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 24,
+      "jobsSeen": 26,
       "relevantInternships": 0
     },
     {
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 239,
+      "jobsSeen": 227,
       "relevantInternships": 9
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 62,
+      "jobsSeen": 57,
       "relevantInternships": 7
     },
     {
@@ -1054,8 +1054,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 120,
-      "relevantInternships": 5
+      "jobsSeen": 129,
+      "relevantInternships": 4
     },
     {
       "company": "Domeyard LP",
@@ -1141,7 +1141,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantInternships": 2
     },
     {
@@ -1240,8 +1240,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 74,
-      "relevantInternships": 3
+      "jobsSeen": 77,
+      "relevantInternships": 4
     },
     {
       "company": "IV Capital",
@@ -1252,7 +1252,7 @@
       "careerPages": [
         "https://iv-capital.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 233,
+      "jobsSeen": 230,
       "relevantInternships": 0
     },
     {
@@ -1380,7 +1380,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 19,
+      "jobsSeen": 18,
       "relevantInternships": 0
     },
     {
@@ -1664,7 +1664,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 42,
+      "jobsSeen": 38,
       "relevantInternships": 0
     },
     {
@@ -1733,7 +1733,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 12,
       "relevantInternships": 0
     },
     {
@@ -1748,7 +1748,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 18,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -2009,7 +2009,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -2038,7 +2038,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 12,
+      "jobsSeen": 9,
       "relevantInternships": 0
     },
     {
@@ -2075,7 +2075,7 @@
       "sourceRosterNames": [
         "Gunvor Group"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://gunvorgroup.com/careers/",
         "https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers",
@@ -2083,8 +2083,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 30,
-      "relevantInternships": 0
+      "jobsSeen": 36,
+      "relevantInternships": 1
     },
     {
       "company": "High-Flyer",
@@ -2113,7 +2113,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 173,
+      "jobsSeen": 177,
       "relevantInternships": 17
     },
     {
@@ -2233,7 +2233,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 38,
+      "jobsSeen": 45,
       "relevantInternships": 2
     },
     {
@@ -2290,7 +2290,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 18,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -2362,7 +2362,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantInternships": 2
     },
     {
@@ -2472,8 +2472,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 55,
-      "relevantInternships": 1
+      "jobsSeen": 66,
+      "relevantInternships": 10
     },
     {
       "company": "Silver Valley Management",
@@ -2511,7 +2511,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 7,
+      "jobsSeen": 9,
       "relevantInternships": 0
     },
     {
@@ -2541,7 +2541,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -2661,7 +2661,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantInternships": 2
     },
     {
@@ -2807,7 +2807,7 @@
       "sourceRosterNames": [
         "Man Group (Man AHL)"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://mangroupplc.wd3.myworkdayjobs.com/Man_Group_Careers",
         "https://job-boards.eu.greenhouse.io/mangroup",
@@ -2982,7 +2982,7 @@
       "careerPages": [
         "https://priogen.com/careers/home/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3132,7 +3132,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3245,7 +3245,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 35,
+      "jobsSeen": 37,
       "relevantInternships": 1
     },
     {
@@ -3649,7 +3649,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 64,
+      "jobsSeen": 74,
       "relevantInternships": 0
     },
     {
@@ -3692,7 +3692,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 58,
+      "jobsSeen": 53,
       "relevantInternships": 0
     },
     {
@@ -3750,7 +3750,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantInternships": 1
     },
     {
@@ -3764,7 +3764,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 33,
+      "jobsSeen": 35,
       "relevantInternships": 0
     },
     {
@@ -3820,7 +3820,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantInternships": 1
     },
     {
@@ -3888,8 +3888,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 85,
-      "relevantInternships": 8
+      "jobsSeen": 86,
+      "relevantInternships": 11
     },
     {
       "company": "Two Sigma",
@@ -3931,7 +3931,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 47,
+      "jobsSeen": 50,
       "relevantInternships": 14
     },
     {
@@ -4079,7 +4079,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 59,
+      "jobsSeen": 57,
       "relevantInternships": 1
     },
     {
@@ -4107,7 +4107,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 18,
+      "jobsSeen": 19,
       "relevantInternships": 4
     },
     {
@@ -4180,7 +4180,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 2
     },
     {
@@ -4222,8 +4222,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 104,
-      "relevantInternships": 5
+      "jobsSeen": 101,
+      "relevantInternships": 6
     },
     {
       "company": "Xantium",
@@ -4236,7 +4236,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 2
     },
     {
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 92,
+      "jobsSeen": 90,
       "relevantInternships": 0
     },
     {
@@ -4261,14 +4261,14 @@
       "sourceRosterNames": [
         "RRS Group"
       ],
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://jobs.smartrecruiters.com/RRSGroup"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 4,
-      "relevantInternships": 1
+      "jobsSeen": 1,
+      "relevantInternships": 0
     }
   ]
 }

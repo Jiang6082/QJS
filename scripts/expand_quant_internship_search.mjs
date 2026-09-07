@@ -175,7 +175,9 @@ const nonTargetInternshipTiming = /\b(?:(?:spring|summer|fall|autumn|winter|janu
 const stalePostingDate = /\b(?:datePosted=202[0-5]|(?:jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|sep(?:tember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\s+\d{1,2},\s+202[0-5])\b/i;
 
 function hasNonTargetInternshipTiming(title = "", notes = "") {
-  if (nonTargetInternshipTiming.test(`${title} ${notes}`)) return true;
+  const text = `${title} ${notes}`;
+  if (nonTargetInternshipTiming.test(text)) return true;
+  if (/\b202[0-6]\s*(?:年\s*)?(?:(?:春|夏|秋|冬)季|暑期)?\s*实习|\b202[0-6]\s*(?:年\s*)?(?:春|夏|秋|冬)季/u.test(text)) return true;
   return /\b202[0-6]\b/.test(title) && internSignal.test(title);
 }
 
@@ -1556,6 +1558,7 @@ const manualLeads = [
 ];
 
 const rowsByUrl = new Map();
+const workdayIdentities = new Set();
 const officialIdentities = new Set();
 const officialTitleIdentities = new Set();
 const companiesWithEnumeratedRows = new Set([...careerPageRows, ...baseRows].map((row) => row.Company));
@@ -1570,6 +1573,18 @@ const companiesWithOfficialDiscoveredRows = new Set(discoveredCandidates
   .map((row) => row.Company));
 const discoveredRows = discoveredCandidates.filter((row) => row.Source === "Official posting/page" || !companiesWithOfficialDiscoveredRows.has(row.Company));
 const manualLeadUrls = new Set(manualLeads.map((row) => row.URL.toLowerCase().replace(/\/$/, "")));
+function workdayRequisitionIdentity(row) {
+  try {
+    const url = new URL(row.URL || "");
+    if (!/\.myworkday(?:jobs|site)\.com$/i.test(url.hostname)) return "";
+    const tail = url.pathname.split("/").filter(Boolean).at(-1) || "";
+    const match = tail.match(/_([A-Z]*-?\d+)(?:-\d+)?$/i);
+    if (!match) return "";
+    return `${row.Company}\n${match[1]}\n${row.Title}`.toLowerCase();
+  } catch {
+    return "";
+  }
+}
 for (const row of [...careerPageRows, ...baseRows, ...manualLeads, ...discoveredRows]) {
   if (!row.URL) continue;
   if (/aggregator|web-discovered|web lead/i.test(`${row.Source} ${row.Status}`)) continue;
@@ -1580,6 +1595,8 @@ for (const row of [...careerPageRows, ...baseRows, ...manualLeads, ...discovered
   if (row.Company !== "IMC Financial Markets" && /IMC Trading|www\.imc\.com/i.test(`${row.Title} ${row.Notes} ${row.URL}`)) continue;
   if (row.Company !== "J.P. Morgan" && /jpmorgan|jpmorganchase/i.test(`${row.Title} ${row.Notes} ${row.URL}`)) continue;
   row.Title = row.Title.replace(/\s+null$/i, "").trim();
+  const workdayIdentity = workdayRequisitionIdentity(row);
+  if (workdayIdentity && workdayIdentities.has(workdayIdentity)) continue;
   const identityKey = `${row.Company}\n${row.Title}\n${row.Location}`.toLowerCase();
   const titleIdentityKey = `${row.Company}\n${row.Title}`.toLowerCase();
   const isOfficial = /official|career page/i.test(`${row.Source} ${row.Status}`) && !/aggregator|web lead/i.test(`${row.Source} ${row.Status}`);
@@ -1587,6 +1604,7 @@ for (const row of [...careerPageRows, ...baseRows, ...manualLeads, ...discovered
   if (!isOfficial && (officialIdentities.has(identityKey) || officialTitleIdentities.has(titleIdentityKey))) continue;
   if (row.Notes?.length > 900) row.Notes = `${row.Notes.slice(0, 900)}...`;
   rowsByUrl.set(urlKey, row);
+  if (workdayIdentity) workdayIdentities.add(workdayIdentity);
   if (isOfficial) {
     officialIdentities.add(identityKey);
     officialTitleIdentities.add(titleIdentityKey);
