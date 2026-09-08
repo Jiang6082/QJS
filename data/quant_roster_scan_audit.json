@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-07T22:30:36.686Z",
-  "scanStartedAt": "2026-09-07T22:26:15.607Z",
+  "generatedAt": "2026-09-08T13:22:31.074Z",
+  "scanStartedAt": "2026-09-08T13:17:19.298Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
     "matching-role-found": 50,
-    "confirmed-no-open-postings": 2,
-    "confirmed-openings-no-matching-role": 44,
+    "confirmed-no-open-postings": 3,
+    "confirmed-openings-no-matching-role": 43,
     "could-not-fully-verify": 208
   },
   "companies": [
@@ -74,7 +74,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 14,
+      "jobsSeen": 16,
       "relevantInternships": 1
     },
     {
@@ -540,7 +540,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 27,
+      "jobsSeen": 28,
       "relevantInternships": 4
     },
     {
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 227,
+      "jobsSeen": 226,
       "relevantInternships": 9
     },
     {
@@ -1380,7 +1380,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 18,
+      "jobsSeen": 19,
       "relevantInternships": 0
     },
     {
@@ -2083,7 +2083,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 36,
+      "jobsSeen": 34,
       "relevantInternships": 1
     },
     {
@@ -2113,7 +2113,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 177,
+      "jobsSeen": 176,
       "relevantInternships": 17
     },
     {
@@ -2157,13 +2157,13 @@
       "sourceRosterNames": [
         "Kronos Research"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "confirmed-no-open-postings",
       "careerPages": [
         "https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -2472,7 +2472,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 66,
+      "jobsSeen": 65,
       "relevantInternships": 10
     },
     {
@@ -2772,7 +2772,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantInternships": 5
     },
     {
@@ -3132,7 +3132,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3649,7 +3649,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 74,
+      "jobsSeen": 73,
       "relevantInternships": 0
     },
     {
@@ -3692,7 +3692,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 53,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -3888,7 +3888,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 86,
+      "jobsSeen": 85,
       "relevantInternships": 11
     },
     {
@@ -3947,7 +3947,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 32,
+      "jobsSeen": 33,
       "relevantInternships": 1
     },
     {
@@ -4267,7 +4267,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1,
+      "jobsSeen": 4,
       "relevantInternships": 0
     }
   ]

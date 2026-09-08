@@ -1,12 +1,26 @@
 {
-  "generatedAt": "2026-09-07T22:30:45.037Z",
-  "currentScanAt": "2026-09-07T22:26:15.607Z",
-  "total": 264,
-  "active": 253,
-  "notDetected": 11,
-  "newSincePreviousScan": 81,
+  "generatedAt": "2026-09-08T13:22:59.226Z",
+  "currentScanAt": "2026-09-08T13:17:19.298Z",
+  "total": 265,
+  "active": 252,
+  "notDetected": 13,
+  "newSincePreviousScan": 1,
   "manuallyRecovered": 5,
   "roles": [
+    {
+      "Company": "Invesco",
+      "Title": "Intern, Client Portfolio Management, Invesco Real Estate Korea (6 months)",
+      "Location": "Seoul, Seoul",
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Seoul-Seoul/Intern--Client-Portfolio-Management--Invesco-Real-Estate-Korea--6-months-_R-15500-1",
+      "Source": "Career page Workday:invesco/IVZ",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-08",
+      "first_seen": "2026-09-08",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
     {
       "Company": "Barclays",
       "Title": "Quantitative Analytics Associate Off Cycle Internship Programme 2027 Paris",
@@ -1072,20 +1086,6 @@
       "status": "active"
     },
     {
-      "Company": "PGIM",
-      "Title": "2027 Technology, Internship Program",
-      "Location": "2 Locations",
-      "URL": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Newark-NJ-USA/XMLNAME-2027-Technology--Internship-Program_R-124923-1",
-      "Source": "Career page Workday:pru/PGIM_Careers",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-08-31",
-      "first_seen": "2026-09-07",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "Tower Research Capital",
       "Title": "Quantitative Researcher Intern, PhD or Postdoc",
       "Location": "Singapore, Hong Kong, Shanghai, Sydney",
@@ -1227,9 +1227,9 @@
     },
     {
       "Company": "Qube Research & Technologies",
-      "Title": "2027 Internship/Graduate - Data Engineer",
+      "Title": "2027 - Internship, Security Engineer",
       "Location": "Hong Kong",
-      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002",
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002",
       "Source": "Greenhouse:quberesearchandtechnologies",
       "source_status": "Confirmed official posting",
       "release_date": "2026-08-26",
@@ -1241,7 +1241,7 @@
     },
     {
       "Company": "Qube Research & Technologies",
-      "Title": "2027 Internship/Graduate - FPGA Engineer",
+      "Title": "2027 – Internship or Graduate, FPGA Engineering",
       "Location": "Hong Kong",
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002",
       "Source": "Greenhouse:quberesearchandtechnologies",
@@ -1255,9 +1255,9 @@
     },
     {
       "Company": "Qube Research & Technologies",
-      "Title": "2027 Internship/Graduate - Infrastructure / Cloud Engineer",
-      "Location": "Hong Kong/Singapore/Shanghai",
-      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002",
+      "Title": "2027 – Internship, Data Engineering",
+      "Location": "Hong Kong, Singapore",
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002",
       "Source": "Greenhouse:quberesearchandtechnologies",
       "source_status": "Confirmed official posting",
       "release_date": "2026-08-26",
@@ -1269,9 +1269,9 @@
     },
     {
       "Company": "Qube Research & Technologies",
-      "Title": "2027 Internship/Graduate - Security Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002",
+      "Title": "2027 – Internship, Infrastructure Engineering",
+      "Location": "Hong Kong, Singapore, Shanghai",
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002",
       "Source": "Greenhouse:quberesearchandtechnologies",
       "source_status": "Confirmed official posting",
       "release_date": "2026-08-26",
@@ -1287,20 +1287,6 @@
       "Location": "Greenwich, CT",
       "URL": "https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993",
       "Source": "Career page Greenhouse:aqr",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-08-25",
-      "first_seen": "2026-08-25",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "BMO Capital Markets",
-      "Title": "BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship)",
-      "Location": "Toronto, ON, CAN",
-      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1",
-      "Source": "Career page Workday:bmo/External",
       "source_status": "Confirmed official posting",
       "release_date": "2026-08-25",
       "first_seen": "2026-08-25",
@@ -1479,8 +1465,8 @@
     },
     {
       "Company": "Qube Research & Technologies",
-      "Title": "2027 Internship/Graduate - Quantitative Developer / Software Engineer",
-      "Location": "Hong Kong/Singapore/Shanghai",
+      "Title": "2027 – Internship or Graduate, Software Engineer",
+      "Location": "Hong Kong, Singapore",
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002",
       "Source": "Greenhouse:quberesearchandtechnologies",
       "source_status": "Confirmed official posting",
@@ -1493,7 +1479,7 @@
     },
     {
       "Company": "Qube Research & Technologies",
-      "Title": "2027 Internship/Graduate - Quantitative Research/Trading",
+      "Title": "2027 – Internship, Quantitative Research and Trading",
       "Location": "Hong Kong, Singapore, Shanghai, Beijing",
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002",
       "Source": "Greenhouse:quberesearchandtechnologies",
@@ -1628,7 +1614,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-07",
+      "verifiedAt": "2026-09-08",
       "status": "active"
     },
     {
@@ -3504,7 +3490,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-07",
+      "verifiedAt": "2026-09-08",
       "status": "active"
     },
     {
@@ -3518,7 +3504,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-07",
+      "verifiedAt": "2026-09-08",
       "status": "active"
     },
     {
@@ -3532,7 +3518,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-07",
+      "verifiedAt": "2026-09-08",
       "status": "active"
     },
     {
@@ -3546,8 +3532,22 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-07",
+      "verifiedAt": "2026-09-08",
       "status": "active"
+    },
+    {
+      "Company": "PGIM",
+      "Title": "2027 Technology, Internship Program",
+      "Location": "2 Locations",
+      "URL": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Newark-NJ-USA/XMLNAME-2027-Technology--Internship-Program_R-124923-1",
+      "Source": "Career page Workday:pru/PGIM_Careers",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-31",
+      "first_seen": "2026-09-07",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
     },
     {
       "Company": "Connor Clark & Lunn",
@@ -3572,6 +3572,20 @@
       "source_status": "Confirmed official posting",
       "release_date": "2026-08-26",
       "first_seen": "2026-08-26",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship)",
+      "Location": "Toronto, ON, CAN",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1",
+      "Source": "Career page Workday:bmo/External",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-25",
+      "first_seen": "2026-08-25",
       "discovery_note": null,
       "manually_verified": false,
       "verifiedAt": null,

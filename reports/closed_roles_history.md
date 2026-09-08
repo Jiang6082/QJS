@@ -1,11 +1,24 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 59
-Last updated: 2026-09-07T22:26:15.607Z
+Total closures recorded: 69
+Last updated: 2026-09-08T13:17:19.298Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-09-08 (10)
+
+- **Balyasny Asset Management** - [Quantitative Researcher (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Summer-Internship-_REQ8057) - Hong Kong
+- **Invesco** - [Early Career Intern - Investments (Risk)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1) - New York, New York
+- **Jane Street** - [Software Engineer](https://www.janestreet.com/join-jane-street/position/7582902002/) - Hong Kong
+- **Jump Trading** - [Campus FPGA Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003013) - Chicago
+- **Jump Trading** - [Campus Trading Team Software Engineer  (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) - Hong Kong
+- **RRS Group** - [2027 Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209) - Remote
+- **Tower Research Capital** - [Junior Execution Trader Intern](https://www.tower-research.com/open-positions/?gh_jid=8091833) - Gift City
+- **Tower Research Capital** - [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) - Singapore
+- **Connor Clark & Lunn** - [Intern, Quantitative Developer](https://job-boards.greenhouse.io/cclim/jobs/4383943009) - Vancouver, British Columbia, Canada
+- **Connor Clark & Lunn** - [Intern, Quantitative Equity Analyst](https://job-boards.greenhouse.io/cclim/jobs/4383968009) - Vancouver, British Columbia, Canada
 
 ### 2026-08-30 (4)
 

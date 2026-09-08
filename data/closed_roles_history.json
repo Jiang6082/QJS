@@ -1,5 +1,115 @@
 [
   {
+    "Company": "Balyasny Asset Management",
+    "Title": "Quantitative Researcher (Summer Internship)",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Summer-Internship-_REQ8057",
+    "Source": "Official Balyasny Salesforce Experience Cloud feed",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-07T22:26:15.607Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z"
+  },
+  {
+    "Company": "Invesco",
+    "Title": "Early Career Intern - Investments (Risk)",
+    "Location": "New York, New York",
+    "Region": "North America",
+    "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
+    "Source": "Career page Workday:invesco/IVZ",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-07T22:26:15.607Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z"
+  },
+  {
+    "Company": "Jane Street",
+    "Title": "Software Engineer",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.janestreet.com/join-jane-street/position/7582902002/",
+    "Source": "Official Jane Street jobs feed",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-07T22:26:15.607Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z"
+  },
+  {
+    "Company": "Jump Trading",
+    "Title": "Campus FPGA Engineer (Intern)",
+    "Location": "Chicago",
+    "Region": "North America",
+    "URL": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+    "Source": "Greenhouse:jumptrading",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-07T22:26:15.607Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z"
+  },
+  {
+    "Company": "Jump Trading",
+    "Title": "Campus Trading Team Software Engineer  (Intern)",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.jumptrading.com/hr/job?gh_jid=7565728",
+    "Source": "Greenhouse:jumptrading",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-07T22:26:15.607Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z"
+  },
+  {
+    "Company": "RRS Group",
+    "Title": "2027 Software Engineer Intern - Placement Year",
+    "Location": "Remote",
+    "Region": "Remote / Unspecified",
+    "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000142513209",
+    "Source": "Career page SmartRecruiters:RRSGroup",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-07T22:26:15.607Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z"
+  },
+  {
+    "Company": "Tower Research Capital",
+    "Title": "Junior Execution Trader Intern",
+    "Location": "Gift City",
+    "Region": "Remote / Unspecified",
+    "URL": "https://www.tower-research.com/open-positions/?gh_jid=8091833",
+    "Source": "Career page Greenhouse:towerresearchcapital",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-07T22:26:15.607Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z"
+  },
+  {
+    "Company": "Tower Research Capital",
+    "Title": "Risk Intern - 6 Month Internship Opportunity",
+    "Location": "Singapore",
+    "Region": "Asia",
+    "URL": "https://www.tower-research.com/open-positions/?gh_jid=7789933",
+    "Source": "Career page Greenhouse:towerresearchcapital",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-07T22:26:15.607Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z"
+  },
+  {
+    "Company": "Connor Clark & Lunn",
+    "Title": "Intern, Quantitative Developer",
+    "Location": "Vancouver, British Columbia, Canada",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/cclim/jobs/4383943009",
+    "Source": "Career page Greenhouse:cclim",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-07T22:26:15.607Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z"
+  },
+  {
+    "Company": "Connor Clark & Lunn",
+    "Title": "Intern, Quantitative Equity Analyst",
+    "Location": "Vancouver, British Columbia, Canada",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/cclim/jobs/4383968009",
+    "Source": "Career page Greenhouse:cclim",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-07T22:26:15.607Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z"
+  },
+  {
     "Company": "D. E. Shaw",
     "Title": "Systems Administrator Intern (New York)",
     "Location": "New York",

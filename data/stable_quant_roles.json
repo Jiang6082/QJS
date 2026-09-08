@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T22:26:15.607Z",
+  "updatedAt": "2026-09-08T13:17:19.298Z",
   "roles": [
     {
       "Company": "Akuna",
@@ -295,15 +295,6 @@
       "Location": "New York",
       "Region": "North America",
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Systematic--Multi-Asset-Arbitrage--Summer-Internship-_REQ8461",
-      "Source": "Official Balyasny Salesforce Experience Cloud feed",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Balyasny Asset Management",
-      "Title": "Quantitative Researcher (Summer Internship)",
-      "Location": "Hong Kong",
-      "Region": "Asia",
-      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Summer-Internship-_REQ8057",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting"
     },
@@ -1532,15 +1523,6 @@
       "Status": "Confirmed official posting"
     },
     {
-      "Company": "Invesco",
-      "Title": "Early Career Intern - Investments (Risk)",
-      "Location": "New York, New York",
-      "Region": "North America",
-      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
-      "Source": "Career page Workday:invesco/IVZ",
-      "Status": "Confirmed official posting"
-    },
-    {
       "Company": "J.P. Morgan",
       "Title": "Asset Management Summer Analyst Program",
       "Location": "Varies by open location",
@@ -1821,15 +1803,6 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Software Engineer",
-      "Location": "Hong Kong",
-      "Region": "Asia",
-      "URL": "https://www.janestreet.com/join-jane-street/position/7582902002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Jane Street",
       "Title": "Strategy and Product",
       "Location": "Hong Kong",
       "Region": "Asia",
@@ -1983,15 +1956,6 @@
     },
     {
       "Company": "Jump Trading",
-      "Title": "Campus FPGA Engineer (Intern)",
-      "Location": "Chicago",
-      "Region": "North America",
-      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
-      "Source": "Greenhouse:jumptrading",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Jump Trading",
       "Title": "Campus ML Research Engineer (Intern)",
       "Location": "London",
       "Region": "Europe",
@@ -2113,15 +2077,6 @@
       "Location": "Singapore",
       "Region": "Asia",
       "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "Source": "Greenhouse:jumptrading",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Jump Trading",
-      "Title": "Campus Trading Team Software Engineer  (Intern)",
-      "Location": "Hong Kong",
-      "Region": "Asia",
-      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7565728",
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting"
     },
@@ -2492,15 +2447,6 @@
       "Region": "North America",
       "URL": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002",
       "Source": "Career page Greenhouse:radixuniversity",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "RRS Group",
-      "Title": "2027 Software Engineer Intern - Placement Year",
-      "Location": "Remote",
-      "Region": "Remote / Unspecified",
-      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000142513209",
-      "Source": "Career page SmartRecruiters:RRSGroup",
       "Status": "Confirmed official posting"
     },
     {
@@ -2901,15 +2847,6 @@
     },
     {
       "Company": "Tower Research Capital",
-      "Title": "Junior Execution Trader Intern",
-      "Location": "Gift City",
-      "Region": "Remote / Unspecified",
-      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8091833",
-      "Source": "Career page Greenhouse:towerresearchcapital",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Tower Research Capital",
       "Title": "Quantitative Developer Intern - Summer 2027",
       "Location": "New York, Chicago",
       "Region": "North America",
@@ -2941,15 +2878,6 @@
       "Location": "New York, Chicago",
       "Region": "North America",
       "URL": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
-      "Source": "Career page Greenhouse:towerresearchcapital",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Tower Research Capital",
-      "Title": "Risk Intern - 6 Month Internship Opportunity",
-      "Location": "Singapore",
-      "Region": "Asia",
-      "URL": "https://www.tower-research.com/open-positions/?gh_jid=7789933",
       "Source": "Career page Greenhouse:towerresearchcapital",
       "Status": "Confirmed official posting"
     },
@@ -3638,24 +3566,6 @@
       "Status": "Confirmed official posting"
     },
     {
-      "Company": "BP",
-      "Title": "Summer Internship - Supply, Trading & Shipping - Singapore (2027)",
-      "Location": "Singapore - Singapore",
-      "Region": "Asia",
-      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2",
-      "Source": "Career page Workday:bpinternational/bpCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Deutsche Bank",
-      "Title": "DWS Investment Risk Intern",
-      "Location": "Luxembourg 2 Blvd K. Adenauer",
-      "Region": "Remote / Unspecified",
-      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Investment-Risk-Intern_R0445580-1",
-      "Source": "Career page Workday:db/DBWebsite",
-      "Status": "Confirmed official posting"
-    },
-    {
       "Company": "Deutsche Bank",
       "Title": "Global Technology Governance Intern",
       "Location": "Sao Paulo Edificio Pedro Mariz",
@@ -3779,24 +3689,6 @@
       "Region": "North America",
       "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769",
       "Source": "Career page Workday:bmo/External",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Connor Clark & Lunn",
-      "Title": "Intern, Quantitative Developer",
-      "Location": "Vancouver, British Columbia, Canada",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/cclim/jobs/4383943009",
-      "Source": "Career page Greenhouse:cclim",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Connor Clark & Lunn",
-      "Title": "Intern, Quantitative Equity Analyst",
-      "Location": "Vancouver, British Columbia, Canada",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/cclim/jobs/4383968009",
-      "Source": "Career page Greenhouse:cclim",
       "Status": "Confirmed official posting"
     },
     {
@@ -4670,6 +4562,15 @@
       "Region": "Europe",
       "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4393652006",
       "Source": "Career page Greenhouse:worldquant",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Invesco",
+      "Title": "Intern, Client Portfolio Management, Invesco Real Estate Korea (6 months)",
+      "Location": "Seoul, Seoul",
+      "Region": "Asia",
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Seoul-Seoul/Intern--Client-Portfolio-Management--Invesco-Real-Estate-Korea--6-months-_R-15500-1",
+      "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting"
     }
   ]
