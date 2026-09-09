@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-09-08T13:17:19.298Z
+Scan started: 2026-09-09T23:26:20.538Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 
@@ -67,7 +67,7 @@ Canonical companies after aliases: 304
 | Kronos Research | 1/1 pages live | [link](https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us) |
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
 
-## Confirmed Openings, No Matching Role (43)
+## Confirmed Openings, No Matching Role (42)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -111,11 +111,10 @@ Canonical companies after aliases: 304
 | Vatic Labs | 1/1 pages live | [link](https://job-boards.greenhouse.io/vaticlabs/jobs/3137555) |
 | Vitol | 1/1 pages live | [link](https://careers.smartrecruiters.com/Vitol?oga=true) |
 | Teza Technologies | 2/2 pages live | [link](https://www.teza.com/careers/) [link](https://jobs.ashbyhq.com/teza-technologies) |
-| VivCourt Trading | 1/1 pages live | [link](https://www.vivcourt.com/careers/trading-internship/) |
 | Morningstar | 4/4 pages live | [link](https://morningstar.wd5.myworkdayjobs.com/morningstar) [link](https://morningstar.wd5.myworkdayjobs.com/Americas/) [link](https://morningstar.wd5.myworkdayjobs.com/MorningstarDBRS) [link](https://www.morningstar.com/company/careers) |
 | RRS Group | 1/1 pages live | [link](https://jobs.smartrecruiters.com/RRSGroup) |
 
-## Could Not Fully Verify (208)
+## Could Not Fully Verify (209)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -147,7 +146,7 @@ Canonical companies after aliases: 304
 | D2X | 1/1 pages live | [link](https://d2x.com/careers) |
 | Ace Capital Saires | 1/1 pages live | [link](https://careers.acehardware.com/) |
 | All Options | 1/1 pages live | [link](https://www.alloptions-international.com/careers/) |
-| Amsterdam Investment Club | 1/1 pages live | [link](https://www.amsterdaminvestmentclub.com/pages/vacancy/equity-analyst) |
+| Amsterdam Investment Club | 0/1 pages live | [link](https://www.amsterdaminvestmentclub.com/pages/vacancy/equity-analyst) |
 | Aquion | no saved page attempted | none |
 | Aros Commodities | 1/1 pages live | [link](https://cornerstonecapital.teamtailor.com/pages/careers-aros-commodities) |
 | Axinoss | no saved page attempted | none |
@@ -315,6 +314,7 @@ Canonical companies after aliases: 304
 | Z22 Technologies AG | no saved page attempted | none |
 | Sumo | no saved page attempted | none |
 | Ubiquant | no saved page attempted | none |
+| VivCourt Trading | 1/1 pages live | [link](https://www.vivcourt.com/careers/trading-internship/) |
 | Woorton | 1/1 pages live | [link](https://www.woorton.com/about-us) |
 | XY Capital | 1/2 pages live | [link](https://job-boards.greenhouse.io/xycapital?error=true) [link](https://www.xycapitalgroup.com/careers/) |
 | iRage / iRage Capital | 1/1 pages live | [link](https://irage.in/recruitment.php) |

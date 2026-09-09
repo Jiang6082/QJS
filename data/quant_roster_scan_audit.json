@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-08T13:22:31.074Z",
-  "scanStartedAt": "2026-09-08T13:17:19.298Z",
+  "generatedAt": "2026-09-09T23:31:51.930Z",
+  "scanStartedAt": "2026-09-09T23:26:20.538Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
     "matching-role-found": 50,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 43,
-    "could-not-fully-verify": 208
+    "confirmed-openings-no-matching-role": 42,
+    "could-not-fully-verify": 209
   },
   "companies": [
     {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 135,
+      "jobsSeen": 143,
       "relevantInternships": 0
     },
     {
@@ -427,8 +427,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 14,
-      "relevantInternships": 4
+      "jobsSeen": 16,
+      "relevantInternships": 5
     },
     {
       "company": "Campbell and Company",
@@ -540,7 +540,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 28,
+      "jobsSeen": 29,
       "relevantInternships": 4
     },
     {
@@ -580,7 +580,7 @@
       "careerPages": [
         "https://www.amsterdaminvestmentclub.com/pages/vacancy/equity-analyst"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -763,8 +763,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 177,
-      "relevantInternships": 18
+      "jobsSeen": 174,
+      "relevantInternships": 17
     },
     {
       "company": "ABC Arbitrage",
@@ -972,7 +972,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 26,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 226,
+      "jobsSeen": 227,
       "relevantInternships": 9
     },
     {
@@ -1026,8 +1026,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 57,
-      "relevantInternships": 7
+      "jobsSeen": 60,
+      "relevantInternships": 9
     },
     {
       "company": "Danske Commodities",
@@ -1054,8 +1054,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 129,
-      "relevantInternships": 4
+      "jobsSeen": 126,
+      "relevantInternships": 3
     },
     {
       "company": "Domeyard LP",
@@ -1240,7 +1240,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 77,
+      "jobsSeen": 80,
       "relevantInternships": 4
     },
     {
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 230,
+      "jobsSeen": 232,
       "relevantInternships": 0
     },
     {
@@ -1664,7 +1664,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 38,
+      "jobsSeen": 36,
       "relevantInternships": 0
     },
     {
@@ -1733,7 +1733,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -2083,7 +2083,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 34,
+      "jobsSeen": 36,
       "relevantInternships": 1
     },
     {
@@ -2113,7 +2113,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 176,
+      "jobsSeen": 171,
       "relevantInternships": 17
     },
     {
@@ -2233,7 +2233,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 45,
+      "jobsSeen": 47,
       "relevantInternships": 2
     },
     {
@@ -2472,8 +2472,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 65,
-      "relevantInternships": 10
+      "jobsSeen": 68,
+      "relevantInternships": 11
     },
     {
       "company": "Silver Valley Management",
@@ -2661,7 +2661,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 12,
+      "jobsSeen": 14,
       "relevantInternships": 2
     },
     {
@@ -3245,7 +3245,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 37,
+      "jobsSeen": 38,
       "relevantInternships": 1
     },
     {
@@ -3649,7 +3649,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 73,
+      "jobsSeen": 79,
       "relevantInternships": 0
     },
     {
@@ -3764,7 +3764,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 35,
+      "jobsSeen": 34,
       "relevantInternships": 0
     },
     {
@@ -3888,8 +3888,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 85,
-      "relevantInternships": 11
+      "jobsSeen": 83,
+      "relevantInternships": 10
     },
     {
       "company": "Two Sigma",
@@ -3932,7 +3932,7 @@
       "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 50,
-      "relevantInternships": 14
+      "relevantInternships": 13
     },
     {
       "company": "Verition Fund Management",
@@ -3955,13 +3955,13 @@
       "sourceRosterNames": [
         "VivCourt Trading"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.vivcourt.com/careers/trading-internship/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3977,7 +3977,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 16,
+      "jobsSeen": 15,
       "relevantInternships": 2
     },
     {
@@ -4222,7 +4222,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 101,
+      "jobsSeen": 99,
       "relevantInternships": 6
     },
     {
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 90,
+      "jobsSeen": 98,
       "relevantInternships": 0
     },
     {
@@ -4267,7 +4267,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 4,
+      "jobsSeen": 5,
       "relevantInternships": 0
     }
   ]

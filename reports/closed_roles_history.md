@@ -1,11 +1,16 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 69
-Last updated: 2026-09-08T13:17:19.298Z
+Total closures recorded: 71
+Last updated: 2026-09-09T23:26:20.538Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-09-09 (2)
+
+- **BMO Capital Markets** - [BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1) - Toronto, ON, CAN
+- **PGIM** - [2027 Technology, Internship Program](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Newark-NJ-USA/XMLNAME-2027-Technology--Internship-Program_R-124923-1) - 2 Locations
 
 ### 2026-09-08 (10)
 

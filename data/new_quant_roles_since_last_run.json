@@ -1,91 +1,143 @@
 {
-  "generatedAt": "2026-09-08T13:22:31.259Z",
-  "previousScanAt": "2026-09-07T22:26:15.607Z",
-  "currentScanAt": "2026-09-08T13:17:19.298Z",
-  "previousRows": 507,
-  "currentRows": 506,
+  "generatedAt": "2026-09-09T23:31:52.109Z",
+  "previousScanAt": "2026-09-08T13:17:19.298Z",
+  "currentScanAt": "2026-09-09T23:26:20.538Z",
+  "previousRows": 506,
+  "currentRows": 528,
   "added": [
     {
-      "Company": "Invesco",
-      "Title": "Intern, Client Portfolio Management, Invesco Real Estate Korea (6 months)",
-      "Location": "Seoul, Seoul",
-      "Region": "Asia",
-      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Seoul-Seoul/Intern--Client-Portfolio-Management--Invesco-Real-Estate-Korea--6-months-_R-15500-1",
-      "Source": "Career page Workday:invesco/IVZ",
-      "Status": "Confirmed official posting"
-    }
-  ],
-  "removed": [
-    {
-      "Company": "Balyasny Asset Management",
-      "Title": "Quantitative Researcher (Summer Internship)",
-      "Location": "Hong Kong",
-      "Region": "Asia",
-      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Summer-Internship-_REQ8057",
-      "Source": "Official Balyasny Salesforce Experience Cloud feed",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Invesco",
-      "Title": "Early Career Intern - Investments (Risk)",
-      "Location": "New York, New York",
-      "Region": "North America",
-      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
-      "Source": "Career page Workday:invesco/IVZ",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Software Engineer",
-      "Location": "Hong Kong",
-      "Region": "Asia",
-      "URL": "https://www.janestreet.com/join-jane-street/position/7582902002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Jump Trading",
-      "Title": "Campus FPGA Engineer (Intern)",
-      "Location": "Chicago",
-      "Region": "North America",
-      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
-      "Source": "Greenhouse:jumptrading",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Jump Trading",
-      "Title": "Campus Trading Team Software Engineer  (Intern)",
-      "Location": "Hong Kong",
-      "Region": "Asia",
-      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7565728",
-      "Source": "Greenhouse:jumptrading",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "RRS Group",
-      "Title": "2027 Software Engineer Intern - Placement Year",
-      "Location": "Remote",
+      "Company": "Barclays",
+      "Title": "2027 Customer and Digital - Data and Analytics Summer Internship Programme Glasgow",
+      "Location": "Glasgow Campus",
       "Region": "Remote / Unspecified",
-      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000142513209",
-      "Source": "Career page SmartRecruiters:RRSGroup",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting"
     },
     {
-      "Company": "Tower Research Capital",
-      "Title": "Junior Execution Trader Intern",
-      "Location": "Gift City",
+      "Company": "Barclays",
+      "Title": "2027 Customer and Digital - Data and Analytics Summer Internship Programme London",
+      "Location": "Canary Wharf, 1 Churchill Place",
       "Region": "Remote / Unspecified",
-      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8091833",
-      "Source": "Career page Greenhouse:towerresearchcapital",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting"
     },
     {
-      "Company": "Tower Research Capital",
-      "Title": "Risk Intern - 6 Month Internship Opportunity",
-      "Location": "Singapore",
-      "Region": "Asia",
-      "URL": "https://www.tower-research.com/open-positions/?gh_jid=7789933",
-      "Source": "Career page Greenhouse:towerresearchcapital",
+      "Company": "Barclays",
+      "Title": "2027 Risk Analyst Summer Internship Programme Glasgow",
+      "Location": "Glasgow Campus",
+      "Region": "Remote / Unspecified",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Risk-Analyst-Summer-Internship-Programme-Glasgow_JR-0000129109",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "2027 Risk Analyst Summer Internship Programme London",
+      "Location": "Canary Wharf, 1 Churchill Place",
+      "Region": "Remote / Unspecified",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Risk-Analyst-Summer-Internship-Programme-London_JR-0000129108",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "2027 Technology Analyst Summer Internship Programme Glasgow",
+      "Location": "Glasgow Campus",
+      "Region": "Remote / Unspecified",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Glasgow_JR-0000129503",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "2027 Technology Analyst Summer Internship Programme Knutsford",
+      "Location": "Knutsford, Radbroke Hall",
+      "Region": "Remote / Unspecified",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Knutsford_JR-0000129510",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "2027 Technology Analyst Summer Internship Programme London",
+      "Location": "Canary Wharf, 1 Churchill Place",
+      "Region": "Remote / Unspecified",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-London_JR-0000129434",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "2027 Technology Analyst Summer Internship Programme Northampton",
+      "Location": "Northampton, Barclays Campus, Pavilion Drive",
+      "Region": "Remote / Unspecified",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Northampton_JR-0000129498",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "2027 Technology Cyber and Security Summer Internship Programme Knutsford",
+      "Location": "Knutsford, Radbroke Hall",
+      "Region": "Remote / Unspecified",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "2027 Technology Developer Summer Internship Programme Glasgow",
+      "Location": "Glasgow Campus",
+      "Region": "Remote / Unspecified",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "2027 Technology Developer Summer Internship Programme Knutsford",
+      "Location": "Knutsford, Radbroke Hall",
+      "Region": "Remote / Unspecified",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "2027 Technology Developer Summer Internship Programme London",
+      "Location": "Canary Wharf, 1 Churchill Place",
+      "Region": "Remote / Unspecified",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "2027 Technology Developer Summer Internship Programme Northampton",
+      "Location": "Northampton, Barclays Campus, Pavilion Drive",
+      "Region": "Remote / Unspecified",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "Sales, Trading and Structuring Off Cycle Internship Programme 2027 London",
+      "Location": "Canary Wharf, 1 Churchill Place",
+      "Region": "Remote / Unspecified",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-London_JR-0000124716",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "Sales, Trading and Structuring Summer Internship Programme 2027 London",
+      "Location": "Canary Wharf, 1 Churchill Place",
+      "Region": "Remote / Unspecified",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-London_JR-0000124692",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting"
     },
     {
@@ -98,30 +150,149 @@
       "Status": "Confirmed official posting"
     },
     {
-      "Company": "Deutsche Bank",
-      "Title": "DWS Investment Risk Intern",
-      "Location": "Luxembourg 2 Blvd K. Adenauer",
+      "Company": "Brevan Howard",
+      "Title": "2027 Summer Internship Program – Systematic Trading, New York",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591",
+      "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Dimensional Fund Advisors",
+      "Title": "Internship in Technology - Software Engineer",
+      "Location": "Austin",
+      "Region": "North America",
+      "URL": "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022",
+      "Source": "Career page Workday:dimensional/DFA_Careers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "AI Engineer Intern - Summer 2027",
+      "Location": "Chicago",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "DevOps Engineer Intern - Summer 2027",
+      "Location": "Chicago",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Northern Trust Asset Management",
+      "Title": "Risk and Compliance Intern",
+      "Location": "Chicago, IL",
+      "Region": "North America",
+      "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Risk-and-Compliance-Intern_R160771-1",
+      "Source": "Career page Workday:ntrs/northerntrust",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Qube Research & Technologies",
+      "Title": "2027 - Internship, Quantitative Research and Trading",
+      "Location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
+      "Region": "Global / Multiple Regions",
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
+      "Source": "Greenhouse:quberesearchandtechnologies",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Qube Research & Technologies",
+      "Title": "2027 - Internship, Software Engineering and Quantitative Development",
+      "Location": "London, Paris, Wrocław, Zurich, Dubai",
+      "Region": "Global / Multiple Regions",
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
+      "Source": "Greenhouse:quberesearchandtechnologies",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Qube Research & Technologies",
+      "Title": "2027 Internship/Graduate - FPGA Engineering",
+      "Location": "London",
+      "Region": "Europe",
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002",
+      "Source": "Greenhouse:quberesearchandtechnologies",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Qube Research & Technologies",
+      "Title": "2027 Internship/Graduate - Infrastructure Engineering",
+      "Location": "London, Paris",
+      "Region": "Europe",
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002",
+      "Source": "Greenhouse:quberesearchandtechnologies",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Schonfeld",
+      "Title": "2027 DMFI Quant Research Intern",
+      "Location": "London, England, United Kingdom",
+      "Region": "Europe",
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
+      "Source": "Career page Greenhouse:schonfeld",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Talos",
+      "Title": "Quantitative Analyst Intern",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b",
+      "Source": "Career page Ashby:Talos-Trading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Talos",
+      "Title": "Software Engineer Intern, Dealer",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977",
+      "Source": "Career page Ashby:Talos-Trading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Talos",
+      "Title": "Software Engineer Intern, RFQ",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285",
+      "Source": "Career page Ashby:Talos-Trading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Two Sigma",
+      "Title": "Software Engineering Internship (Summer 2027)",
+      "Location": "United States - NY New York",
+      "Region": "North America",
+      "URL": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016",
+      "Source": "Official Two Sigma careers portal",
+      "Status": "Confirmed official posting"
+    }
+  ],
+  "removed": [
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship)",
+      "Location": "Toronto, ON, CAN",
+      "Region": "North America",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "PGIM",
+      "Title": "2027 Technology, Internship Program",
+      "Location": "2 Locations",
       "Region": "Remote / Unspecified",
-      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Investment-Risk-Intern_R0445580-1",
-      "Source": "Career page Workday:db/DBWebsite",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Connor Clark & Lunn",
-      "Title": "Intern, Quantitative Developer",
-      "Location": "Vancouver, British Columbia, Canada",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/cclim/jobs/4383943009",
-      "Source": "Career page Greenhouse:cclim",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Connor Clark & Lunn",
-      "Title": "Intern, Quantitative Equity Analyst",
-      "Location": "Vancouver, British Columbia, Canada",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/cclim/jobs/4383968009",
-      "Source": "Career page Greenhouse:cclim",
+      "URL": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Newark-NJ-USA/XMLNAME-2027-Technology--Internship-Program_R-124923-1",
+      "Source": "Career page Workday:pru/PGIM_Careers",
       "Status": "Confirmed official posting"
     }
   ]
