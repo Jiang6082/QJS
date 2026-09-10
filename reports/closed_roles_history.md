@@ -1,11 +1,20 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 71
-Last updated: 2026-09-09T23:26:20.538Z
+Total closures recorded: 77
+Last updated: 2026-09-10T14:14:51.943Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-09-10 (6)
+
+- **DRW** - [Quantitative Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) - Singapore
+- **Tower Research Capital** - [Quantitative Trader Intern, PhD](https://www.tower-research.com/open-positions/?gh_jid=8024138) - New York
+- **Virtu Financial** - [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) - New York
+- **Susquehanna International Group** - [Technology Co-op with McGill University](https://careers.sig.com/jobs/11379?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
 
 ### 2026-09-09 (2)
 

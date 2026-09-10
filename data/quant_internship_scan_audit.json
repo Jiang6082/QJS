@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-09T23:20:23.377Z",
+  "scannedAt": "2026-09-10T14:08:12.111Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -186,10 +186,10 @@
         },
         {
           "source": "Ashby:jane",
-          "count": 27
+          "count": 28
         }
       ],
-      "jobsSeen": 259,
+      "jobsSeen": 260,
       "relevantInternships": 0
     },
     {
@@ -253,8 +253,13 @@
     },
     {
       "company": "3red Partners",
-      "resolvedBoards": [],
-      "jobsSeen": 0,
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:3redpartners",
+          "count": 8
+        }
+      ],
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -268,10 +273,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:akunacapital",
-          "count": 36
+          "count": 37
         }
       ],
-      "jobsSeen": 36,
+      "jobsSeen": 37,
       "relevantInternships": 8
     },
     {
@@ -541,11 +546,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:dvtrading",
-          "count": 60
+          "count": 61
         }
       ],
-      "jobsSeen": 60,
-      "relevantInternships": 9
+      "jobsSeen": 61,
+      "relevantInternships": 10
     },
     {
       "company": "Edgehog Trading",
@@ -659,11 +664,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 42
+          "count": 40
         }
       ],
-      "jobsSeen": 42,
-      "relevantInternships": 2
+      "jobsSeen": 40,
+      "relevantInternships": 1
     },
     {
       "company": "Freestone Grove Partners",
@@ -805,10 +810,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 171
+          "count": 170
         }
       ],
-      "jobsSeen": 171,
+      "jobsSeen": 170,
       "relevantInternships": 16
     },
     {
@@ -901,10 +906,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 52
+          "count": 51
         }
       ],
-      "jobsSeen": 52,
+      "jobsSeen": 51,
       "relevantInternships": 1
     },
     {
@@ -983,14 +988,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 165
+          "count": 164
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 165,
+      "jobsSeen": 164,
       "relevantInternships": 20
     },
     {
@@ -1076,9 +1081,14 @@
     },
     {
       "company": "Quantbot Technologies",
-      "resolvedBoards": [],
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:quantbot-technologies",
+          "count": 7
+        }
+      ],
+      "jobsSeen": 7,
+      "relevantInternships": 7
     },
     {
       "company": "Quantbox Research",
@@ -1109,11 +1119,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 198
+          "count": 197
         }
       ],
-      "jobsSeen": 198,
-      "relevantInternships": 10
+      "jobsSeen": 197,
+      "relevantInternships": 8
     },
     {
       "company": "QVR Advisors",
@@ -1156,10 +1166,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:schonfeld",
-          "count": 68
+          "count": 69
         }
       ],
-      "jobsSeen": 68,
+      "jobsSeen": 69,
       "relevantInternships": 5
     },
     {
@@ -1191,10 +1201,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 93
+          "count": 92
         }
       ],
-      "jobsSeen": 93,
+      "jobsSeen": 92,
       "relevantInternships": 4
     },
     {
@@ -1521,10 +1531,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:worldquant",
-          "count": 99
+          "count": 102
         }
       ],
-      "jobsSeen": 99,
+      "jobsSeen": 102,
       "relevantInternships": 7
     },
     {

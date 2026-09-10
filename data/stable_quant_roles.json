@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T23:26:20.538Z",
+  "updatedAt": "2026-09-10T14:14:51.943Z",
   "roles": [
     {
       "Company": "Akuna",
@@ -853,15 +853,6 @@
       "Location": "Chicago",
       "Region": "North America",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7997729",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Quantitative Developer Intern (Python)",
-      "Location": "Singapore",
-      "Region": "Asia",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7981754",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting"
     },
@@ -2865,15 +2856,6 @@
     },
     {
       "Company": "Tower Research Capital",
-      "Title": "Quantitative Trader Intern, PhD",
-      "Location": "New York",
-      "Region": "North America",
-      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8024138",
-      "Source": "Career page Greenhouse:towerresearchcapital",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Tower Research Capital",
       "Title": "Quantitative Trader/Researcher Intern - Summer 2027",
       "Location": "New York, Chicago",
       "Region": "North America",
@@ -2986,15 +2968,6 @@
       "Location": "Dublin, Ireland",
       "Region": "Europe",
       "URL": "https://job-boards.greenhouse.io/virtu/jobs/8638124002",
-      "Source": "Career page Greenhouse:virtu",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Virtu Financial",
-      "Title": "2027 Internship - Frontend Engineer (UI)",
-      "Location": "New York",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
       "Source": "Career page Greenhouse:virtu",
       "Status": "Confirmed official posting"
     },
@@ -3571,15 +3544,6 @@
       "Location": "Milano Bicocca Calendario 3",
       "Region": "Remote / Unspecified",
       "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Implementation-Support---Corporate-Bank-Milan--f-m-x-_R0442822",
-      "Source": "Career page Workday:db/DBWebsite",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Deutsche Bank",
-      "Title": "Internship - Technology Process Analysis (f/m/x)",
-      "Location": "Milano Bicocca Calendario 3",
-      "Region": "Remote / Unspecified",
-      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474",
       "Source": "Career page Workday:db/DBWebsite",
       "Status": "Confirmed official posting"
     },
@@ -4421,33 +4385,6 @@
       "Status": "Confirmed official posting"
     },
     {
-      "Company": "Susquehanna International Group",
-      "Title": "Technology Co-op with McGill University",
-      "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
-      "Region": "North America",
-      "URL": "https://careers.sig.com/jobs/11379?lang=en-us",
-      "Source": "Official SIG jobs API",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Susquehanna International Group",
-      "Title": "Technology Co-op with Northeastern University",
-      "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
-      "Region": "North America",
-      "URL": "https://careers.sig.com/jobs/11377?lang=en-us",
-      "Source": "Official SIG jobs API",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Susquehanna International Group",
-      "Title": "Technology Co-op with RIT",
-      "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
-      "Region": "North America",
-      "URL": "https://careers.sig.com/jobs/11378?lang=en-us",
-      "Source": "Official SIG jobs API",
-      "Status": "Confirmed official posting"
-    },
-    {
       "Company": "T. Rowe Price",
       "Title": "2027 Digital Assets Strategy Internship Program",
       "Location": "Baltimore, MD",
@@ -4823,6 +4760,24 @@
       "Region": "North America",
       "URL": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016",
       "Source": "Official Two Sigma careers portal",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Client Platforms Engineer Intern - Summer 2027",
+      "Location": "Chicago",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
+      "Source": "Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Qube Research & Technologies",
+      "Title": "2027 Internship – Security Engineer",
+      "Location": "London, Paris",
+      "Region": "Europe",
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
+      "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting"
     }
   ]

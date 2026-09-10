@@ -1,12 +1,26 @@
 {
-  "generatedAt": "2026-09-09T23:32:05.416Z",
-  "currentScanAt": "2026-09-09T23:26:20.538Z",
-  "total": 294,
-  "active": 276,
-  "notDetected": 18,
-  "newSincePreviousScan": 30,
+  "generatedAt": "2026-09-10T14:21:03.198Z",
+  "currentScanAt": "2026-09-10T14:14:51.943Z",
+  "total": 296,
+  "active": 279,
+  "notDetected": 17,
+  "newSincePreviousScan": 3,
   "manuallyRecovered": 5,
   "roles": [
+    {
+      "Company": "DV Trading",
+      "Title": "Client Platforms Engineer Intern - Summer 2027",
+      "Location": "Chicago",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
+      "Source": "Greenhouse:dvtrading",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-10",
+      "first_seen": "2026-09-10",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
     {
       "Company": "Barclays",
       "Title": "2027 Customer and Digital - Data and Analytics Summer Internship Programme Glasgow",
@@ -359,7 +373,21 @@
     },
     {
       "Company": "Qube Research & Technologies",
-      "Title": "2027 Internship/Graduate - FPGA Engineering",
+      "Title": "2027 – Graduate or Internship, Infrastructure Engineer",
+      "Location": "London, Paris",
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002",
+      "Source": "Greenhouse:quberesearchandtechnologies",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-08",
+      "first_seen": "2026-09-09",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Qube Research & Technologies",
+      "Title": "2027 – Internship or Graduate, FPGA Engineering",
       "Location": "London",
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002",
       "Source": "Greenhouse:quberesearchandtechnologies",
@@ -373,13 +401,13 @@
     },
     {
       "Company": "Qube Research & Technologies",
-      "Title": "2027 Internship/Graduate - Infrastructure Engineering",
+      "Title": "2027 Internship – Security Engineer",
       "Location": "London, Paris",
-      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002",
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
       "Source": "Greenhouse:quberesearchandtechnologies",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-08",
-      "first_seen": "2026-09-09",
+      "first_seen": "2026-09-10",
       "discovery_note": null,
       "manually_verified": false,
       "verifiedAt": null,
@@ -1964,7 +1992,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-09",
+      "verifiedAt": "2026-09-10",
       "status": "active"
     },
     {
@@ -3382,6 +3410,20 @@
       "status": "active"
     },
     {
+      "Company": "Quantbot Technologies",
+      "Title": "Quantitative Researcher Internship - 2027 [New York]",
+      "Location": "New York",
+      "URL": "https://www.quantbot.com/careers/4299496009?gh_jid=4299496009",
+      "Source": "Greenhouse:quantbot-technologies",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-07",
+      "first_seen": "2026-08-21",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
       "Company": "Trillium",
       "Title": "IT Support Intern - Summer 2027",
       "Location": "NYC",
@@ -3826,7 +3868,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-09",
+      "verifiedAt": "2026-09-10",
       "status": "active"
     },
     {
@@ -3840,7 +3882,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-09",
+      "verifiedAt": "2026-09-10",
       "status": "active"
     },
     {
@@ -3854,7 +3896,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-09",
+      "verifiedAt": "2026-09-10",
       "status": "active"
     },
     {
@@ -3868,7 +3910,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-09",
+      "verifiedAt": "2026-09-10",
       "status": "active"
     },
     {
@@ -4058,20 +4100,6 @@
       "Title": "Quantitative Developer Internship - 2027 [New York]",
       "Location": "New York",
       "URL": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009",
-      "Source": "Greenhouse:quantbot-technologies",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-08-07",
-      "first_seen": "2026-08-21",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "not_detected"
-    },
-    {
-      "Company": "Quantbot Technologies",
-      "Title": "Quantitative Researcher Internship - 2027 [New York]",
-      "Location": "New York",
-      "URL": "https://www.quantbot.com/careers/4299496009?gh_jid=4299496009",
       "Source": "Greenhouse:quantbot-technologies",
       "source_status": "Confirmed official posting",
       "release_date": "2026-08-07",

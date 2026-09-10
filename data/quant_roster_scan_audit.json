@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T23:31:51.930Z",
-  "scanStartedAt": "2026-09-09T23:26:20.538Z",
+  "generatedAt": "2026-09-10T14:20:49.436Z",
+  "scanStartedAt": "2026-09-10T14:14:51.943Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 143,
+      "jobsSeen": 142,
       "relevantInternships": 0
     },
     {
@@ -763,8 +763,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 174,
-      "relevantInternships": 17
+      "jobsSeen": 172,
+      "relevantInternships": 16
     },
     {
       "company": "ABC Arbitrage",
@@ -1026,8 +1026,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 60,
-      "relevantInternships": 9
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Danske Commodities",
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 126,
+      "jobsSeen": 125,
       "relevantInternships": 3
     },
     {
@@ -1434,8 +1434,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 42,
-      "relevantInternships": 2
+      "jobsSeen": 40,
+      "relevantInternships": 1
     },
     {
       "company": "G-Research",
@@ -1786,7 +1786,7 @@
       "careerPages": [
         "https://www.group1.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2083,7 +2083,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 36,
+      "jobsSeen": 37,
       "relevantInternships": 1
     },
     {
@@ -2113,7 +2113,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 171,
+      "jobsSeen": 170,
       "relevantInternships": 17
     },
     {
@@ -2360,7 +2360,7 @@
         "https://pdtpartners.com/careers",
         "https://job-boards.greenhouse.io/pdtpartners"
       ],
-      "livePages": 4,
+      "livePages": 2,
       "attemptedPages": 5,
       "jobsSeen": 9,
       "relevantInternships": 2
@@ -2429,7 +2429,7 @@
         "https://job-boards.greenhouse.io/radixuniversity",
         "https://job-boards.greenhouse.io/radixexperienced"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 4,
       "jobsSeen": 23,
       "relevantInternships": 2
@@ -2472,7 +2472,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 68,
+      "jobsSeen": 69,
       "relevantInternships": 11
     },
     {
@@ -3820,7 +3820,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 11,
       "relevantInternships": 1
     },
     {
@@ -3886,7 +3886,7 @@
         "https://www.tower-research.com/open-positions/",
         "https://job-boards.greenhouse.io/towerresearchcapital"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 83,
       "relevantInternships": 10
@@ -4222,7 +4222,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 99,
+      "jobsSeen": 102,
       "relevantInternships": 6
     },
     {
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 98,
+      "jobsSeen": 97,
       "relevantInternships": 0
     },
     {
