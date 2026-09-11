@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T04:52:43.820Z",
+  "updatedAt": "2026-09-11T21:32:29.509Z",
   "roles": [
     {
       "Company": "Akuna",
@@ -4007,24 +4007,6 @@
       "Status": "Confirmed official posting"
     },
     {
-      "Company": "Fidelity Investments",
-      "Title": "Equity Research Associate Intern - Hong Kong (Summer 2027)",
-      "Location": "38/F One International Finance Centre, Central Hong Kong",
-      "Region": "Asia",
-      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/38F-One-International-Finance-Centre-Central-Hong-Kong/Equity-Research-Associate-Intern---Hong-Kong--Summer-2027-_2132214",
-      "Source": "Career page Workday:fmr/fidelitycareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Fidelity Investments",
-      "Title": "Equity Research Associate Intern Summer 2027 -Tokyo",
-      "Location": "Tokyo, Japan",
-      "Region": "Asia",
-      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Tokyo-Japan/Equity-Research-Associate-Intern-Summer-2027--Tokyo_2132215",
-      "Source": "Career page Workday:fmr/fidelitycareers",
-      "Status": "Confirmed official posting"
-    },
-    {
       "Company": "Gunvor",
       "Title": "Research Intern",
       "Location": "Singapore",
@@ -4805,6 +4787,42 @@
       "Region": "North America",
       "URL": "https://job-boards.greenhouse.io/genevatrading/jobs/5232641007",
       "Source": "Career page Greenhouse:genevatrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Quantitative Research Intern - Summer 2027 (DV Equities)",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Quantitative Trading Intern - Summer 2027 (DV Equities)",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4702083005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Software Developer Intern - Summer 2027 (DV Equities)",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship - Risk & Security - Engineer  (PA)",
+      "Location": "Malvern, PA",
+      "Region": "North America",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1",
+      "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting"
     }
   ]

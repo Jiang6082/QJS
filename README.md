@@ -2,9 +2,9 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-09-11 &nbsp;•&nbsp; **532 open roles** &nbsp;•&nbsp; **3 released today** &nbsp;•&nbsp; **131 opened in 3 weeks** &nbsp;•&nbsp; **80 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-09-11 &nbsp;•&nbsp; **533 open roles** &nbsp;•&nbsp; **6 released today** &nbsp;•&nbsp; **134 opened in 3 weeks** &nbsp;•&nbsp; **82 closed** ([history](reports/closed_roles_history.md))
 
-> **Cumulative application queue:** [302 unique roles tracked; 283 active](reports/cumulative_application_roles.md)
+> **Cumulative application queue:** [305 unique roles tracked; 287 active](reports/cumulative_application_roles.md)
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [🔥 Opened in the Last 3 Weeks](#-opened-in-the-last-3-weeks) · [📚 Cumulative Application Queue](reports/cumulative_application_roles.md) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -14,13 +14,16 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 _Scan date: 2026-09-11_
 
-**3** currently open roles with a confirmed source release date of 2026-09-11:
+**6** currently open roles with a confirmed source release date of 2026-09-11:
 
 **North America**
 
 - **Brevan Howard** — [2027 Summer Internship Program – Systematic Data Strategy, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596) — New York
 - **Brevan Howard** — [2027 Summer Internship Program – Systematic Execution Research, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595) — New York
 - **Brevan Howard** — [2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597) — New York
+- **DV Trading** — [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) — New York
+- **DV Trading** — [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) — New York
+- **DV Trading** — [Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) — New York
 
 ---
 
@@ -29,20 +32,23 @@ _Scan date: 2026-09-11_
 _Official-source posting dates from 2026-08-22 through 2026-09-11. Only roles that are still present in the current scan are shown._
 
 <details>
-<summary><strong>2026-09-11</strong> — 3 roles</summary>
+<summary><strong>2026-09-11</strong> — 6 roles</summary>
 
 - **Brevan Howard** — [2027 Summer Internship Program – Systematic Data Strategy, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596) — New York
 - **Brevan Howard** — [2027 Summer Internship Program – Systematic Execution Research, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595) — New York
 - **Brevan Howard** — [2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597) — New York
+- **DV Trading** — [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) — New York
+- **DV Trading** — [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) — New York
+- **DV Trading** — [Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) — New York
 
 </details>
 
 <details>
 <summary><strong>2026-09-10</strong> — 4 roles</summary>
 
-- **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732683005) — Chicago
 - **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005) — London
 - **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005) — New York
+- **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732683005) — Chicago
 - **Geneva Trading** — [Quantitative Trading Internship – Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5232641007) — Chicago Office
 
 </details>
@@ -135,8 +141,8 @@ _Official-source posting dates from 2026-08-22 through 2026-09-11. Only roles th
 - **Schonfeld** — [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) — Miami, Florida, United States
 - **Schonfeld** — [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) — New York, New York, United States
 - **Schonfeld** — [2027 DMFI Technology Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171772) — New York, New York, United States
-- **Schonfeld** — [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) — Miami, Florida, United States
 - **Schonfeld** — [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) — New York, New York, United States
+- **Schonfeld** — [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) — Miami, Florida, United States
 - **Schonfeld** — [2027 Risk Analyst (DMFI) Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172053) — London, England, United Kingdom
 - **Schonfeld** — [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8180089) — New York, New York, United States
 - **Schonfeld** — [2027 Systematic COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172059) — New York, New York, United States
@@ -259,7 +265,7 @@ _Official-source posting dates from 2026-08-22 through 2026-09-11. Only roles th
 
 ### Newly surfaced, source date unavailable
 
-_These 1 roles first appeared in QJS during the window, but the employer does not publish a posting date. They are not included in the 131 confirmed-release count._
+_These 1 roles first appeared in QJS during the window, but the employer does not publish a posting date. They are not included in the 134 confirmed-release count._
 
 - **First seen 2026-09-09** — **Two Sigma** — [Software Engineering Internship (Summer 2027)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016) — United States - NY New York
 
@@ -267,16 +273,15 @@ _These 1 roles first appeared in QJS during the window, but the employer does no
 
 ## 📋 All Roles Available
 
-**532** open internship roles, grouped by region. Click a title to open the official posting.
+**533** open internship roles, grouped by region. Click a title to open the official posting.
 
-**Regions:** [North America (252)](#north-america) · [Europe (116)](#europe) · [Asia (102)](#asia) · [Oceania (7)](#oceania) · [Middle East (2)](#middle-east) · [South America (1)](#south-america) · [Global / Multiple Regions (15)](#global--multiple-regions) · [Remote / Unspecified (37)](#remote--unspecified)
+**Regions:** [North America (253)](#north-america) · [Europe (116)](#europe) · [Asia (102)](#asia) · [Oceania (7)](#oceania) · [Middle East (2)](#middle-east) · [South America (1)](#south-america) · [Global / Multiple Regions (15)](#global--multiple-regions) · [Remote / Unspecified (37)](#remote--unspecified)
 
 ### North America
 
 <details>
-<summary><strong>252 roles</strong> — click to expand</summary>
+<summary><strong>253 roles</strong> — click to expand</summary>
 
-- **Akuna** — [Hardware Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) — Chicago, IL
 - **Akuna** — [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) — Chicago, IL
 - **Akuna** — [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) — Chicago, IL
 - **Akuna** — [Quantitative Research Intern, Summer 2027](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) — Chicago, IL
@@ -356,15 +361,18 @@ _These 1 roles first appeared in QJS during the window, but the employer does no
 - **DRW** — [Platform Engineer Intern](https://job-boards.greenhouse.io/drweng/jobs/7997729) — Chicago
 - **DRW** — [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) — Chicago, New York City
 - **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) — Chicago, Illinois
-- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) — Montreal
 - **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) — Chicago
+- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) — Montreal
 - **DRW** — [Strategy Intern](https://job-boards.greenhouse.io/drweng/jobs/7992670) — Chicago, IL
 - **DV Trading** — [AI Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732429005) — Chicago
-- **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732683005) — Chicago
 - **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005) — New York
+- **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732683005) — Chicago
 - **DV Trading** — [DevOps Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4730886005) — Chicago
 - **DV Trading** — [Futures & Options Trading Analyst Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) — New York
+- **DV Trading** — [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) — New York
 - **DV Trading** — [Quantitative Risk Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) — Chicago
+- **DV Trading** — [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) — New York
+- **DV Trading** — [Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) — New York
 - **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) — New York
 - **DV Trading** — [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) — New York
 - **Five Rings** — [Summer Intern 2027 - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) — New York
@@ -465,8 +473,8 @@ _These 1 roles first appeared in QJS during the window, but the employer does no
 - **Schonfeld** — [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) — Miami, Florida, United States
 - **Schonfeld** — [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) — New York, New York, United States
 - **Schonfeld** — [2027 DMFI Technology Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171772) — New York, New York, United States
-- **Schonfeld** — [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) — Miami, Florida, United States
 - **Schonfeld** — [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) — New York, New York, United States
+- **Schonfeld** — [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) — Miami, Florida, United States
 - **Schonfeld** — [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8180089) — New York, New York, United States
 - **Schonfeld** — [2027 Systematic COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172059) — New York, New York, United States
 - **Scientech Research Capital** — [Quantitative Developer Intern](https://jobs.ashbyhq.com/scientech-research/47be106e-4a2a-4814-bca8-4a7b97816d7c) — New Jersey
@@ -493,8 +501,6 @@ _These 1 roles first appeared in QJS during the window, but the employer does no
 - **Susquehanna International Group** — [Quantitative Systematic Trading Internship - PhD: Summer 2027](https://careers.sig.com/jobs/10821?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **Susquehanna International Group** — [Quantitative Systematic Trading Internship – Master's: Summer 2027](https://careers.sig.com/jobs/10824?lang=en-us) — New York, New York
 - **Susquehanna International Group** — [Quantitative Systematic Trading Internship – Master's: Summer 2027](https://careers.sig.com/jobs/10823?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Susquehanna International Group** — [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10849?lang=en-us) — Chicago, Illinois
-- **Susquehanna International Group** — [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10717?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **Susquehanna International Group** — [Trading System Engineering Internship: Summer 2027](https://careers.sig.com/jobs/10837?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **Talos** — [Quantitative Analyst Intern](https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b) — New York
 - **Talos** — [Software Engineer Intern, Dealer](https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977) — New York
@@ -515,6 +521,7 @@ _These 1 roles first appeared in QJS during the window, but the employer does no
 - **Vanguard** — [College to Corporate IT Internship - Data Science (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) — Malvern, PA
 - **Vanguard** — [College to Corporate IT Internship - Risk & Security - Analyst  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_181762) — Malvern, PA
 - **Vanguard** — [College to Corporate IT Internship - Risk & Security - Engineer](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851) — Dallas/Ft. Worth, TX
+- **Vanguard** — [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) — Malvern, PA
 - **Vanguard** — [College to Corporate IT Internship - Technology Operations (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788) — Malvern, PA
 - **Verition Fund Management** — [2027 Technology Internship (US)](https://www.verition.com/open-positions?gh_jid=5214784007) — Chicago, Illinois, United States; Greenwich, Connecticut, United States; Houston, Texas, United States; Miami, Florida, United States; New York, NY, USA; Norwalk, CT
 - **Virtu Financial** — [2027 Internship - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/virtu/jobs/8624424002) — New York
@@ -563,8 +570,8 @@ _These 1 roles first appeared in QJS during the window, but the employer does no
 - **DRW** — [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8070392) — London
 - **DRW** — [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7957756) — London
 - **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243) — London
-- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364) — Amsterdam
 - **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) — London
+- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364) — Amsterdam
 - **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005) — London
 - **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) — London
 - **DV Trading** — [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) — London
@@ -727,8 +734,8 @@ _These 1 roles first appeared in QJS during the window, but the employer does no
 - **Optiver** — [Quantitative Trading Internship (Taiwan) - 2027](https://www.optiver.com/join-us/jobs/8011956002/?gh_jid=8011956002) — Taipei, Taiwan
 - **PIMCO** — [2027 MBA Summer Internship  PM - Public - Credit Research APAC](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Hong-Kong/XMLNAME-2027-MBA-Summer-Internship--PM---Public---Credit-Research-APAC_R106834) — Hong Kong
 - **PIMCO** — [2027 Summer Internship – Portfolio Management - Special Situations Team, APAC](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Singapore/XMLNAME-2027-Summer-Internship---Portfolio-Management---Special-Situations-Team--APAC_R106835) — Singapore
-- **Point72** — [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) — Singapore
 - **Point72** — [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) — Hong Kong
+- **Point72** — [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) — Singapore
 - **Quantbot Technologies** — [Data Trading Analyst Summer Internship - 2027 [Hong Kong]](https://www.quantbot.com/careers/4344638009?gh_jid=4344638009) — Hong Kong
 - **Quantbot Technologies** — [Quantitative Researcher Internship - 2027 [Hong Kong]](https://www.quantbot.com/careers/4348629009?gh_jid=4348629009) — Hong Kong
 - **Qube Research & Technologies** — [2027 - Internship, Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) — Hong Kong
@@ -913,7 +920,7 @@ Run the portable workflow from a clean worktree. It copies the committed raw sca
 | [reports/current_quant_roles_not_in_tracker.md](reports/current_quant_roles_not_in_tracker.md) | Current roles absent from the older application tracker |
 | [reports/quant_roster_scan_audit.md](reports/quant_roster_scan_audit.md) | 303-firm roster split into confirmed vs. unverifiable states |
 | [reports/scan_validation.md](reports/scan_validation.md) | Portable baseline delta and integrity checks for the latest refresh |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (80 so far) |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (82 so far) |
 | [data/stable_quant_roles.json](data/stable_quant_roles.json) | Cross-device confirmed-present state for the two-scan closure guard |
 | [inputs/company_career_pages.json](inputs/company_career_pages.json) | Seeded career-page database |
 | [inputs/quant_firm_roster.json](inputs/quant_firm_roster.json) | Complete 303-entry firm list + canonical aliases |

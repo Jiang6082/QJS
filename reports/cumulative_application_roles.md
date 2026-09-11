@@ -2,20 +2,18 @@
 
 _Updated 2026-09-11. Roles remain in this ledger when they age out of the rolling 21-day report._
 
-- **302** unique role URLs tracked
-- **283** active or manually verified today
-- **19** not detected in the latest scan
-- **6** new scanner URLs since the previous scan
+- **305** unique role URLs tracked
+- **287** active or manually verified today
+- **18** not detected in the latest scan
+- **4** new scanner URLs since the previous scan
 - **5** live Scientech roles verified on its nested official Ashby board
 
-## New scanner URLs since the previous scan (6)
+## New scanner URLs since the previous scan (4)
 
-- **Brevan Howard** — [2027 Summer Internship Program – Systematic Data Strategy, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596) — New York — released 2026-09-11
-- **Brevan Howard** — [2027 Summer Internship Program – Systematic Execution Research, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595) — New York — released 2026-09-11
-- **Brevan Howard** — [2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597) — New York — released 2026-09-11
-- **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005) — London — released 2026-09-10
-- **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005) — New York — released 2026-09-10
-- **Geneva Trading** — [Quantitative Trading Internship – Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5232641007) — Chicago Office — released 2026-09-10
+- **DV Trading** — [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) — New York — released 2026-09-11
+- **DV Trading** — [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) — New York — released 2026-09-11
+- **DV Trading** — [Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) — New York — released 2026-09-11
+- **Vanguard** — [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) — Malvern, PA — released 2026-08-17
 
 ## Scientech roles verified on the nested official board (5)
 
@@ -27,7 +25,7 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Scientech Research Capital** — [Quantitative Researcher Intern](https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80) — New Jersey — released 2025-01-23
 - **Scientech Research Capital** — [Quantitative Researcher Intern](https://jobs.ashbyhq.com/scientech-research/c344ad5a-b148-4a96-8d6c-a660e6f86896) — Shanghai — released 2025-01-23
 
-## Active cumulative queue (283)
+## Active cumulative queue (287)
 
 ### AlphaGrep (1)
 
@@ -161,8 +159,11 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **DRW** — [Software Engineer Intern (Data Engineering)](https://job-boards.greenhouse.io/drweng/jobs/8127242) — Singapore — released 2026-08-13
 - **DRW** — [Platform Engineer Intern](https://job-boards.greenhouse.io/drweng/jobs/7997729) — Chicago — released 2026-07-30
 
-### DV Trading (11)
+### DV Trading (14)
 
+- **DV Trading** — [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) — New York — released 2026-09-11
+- **DV Trading** — [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) — New York — released 2026-09-11
+- **DV Trading** — [Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) — New York — released 2026-09-11
 - **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732683005) — Chicago — released 2026-09-10
 - **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005) — London — released 2026-09-10
 - **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005) — New York — released 2026-09-10
@@ -436,7 +437,7 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 
 - **Two Sigma** — [Software Engineering Internship (Summer 2027)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016) — United States - NY New York — first seen 2026-09-09
 
-### Vanguard (7)
+### Vanguard (8)
 
 - **Vanguard** — [College to Corporate IT Internship - Risk & Security - Engineer](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851) — Dallas/Ft. Worth, TX — released 2026-08-31
 - **Vanguard** — [College to Corporate IT Internship - Technology Operations (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788) — Malvern, PA — released 2026-08-21
@@ -445,6 +446,7 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Vanguard** — [College to Corporate IT Internship - Risk & Security - Analyst  (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764) — Charlotte, NC — released 2026-08-20
 - **Vanguard** — [College to Corporate IT Internship - Risk & Security - Analyst  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_181762) — Malvern, PA — released 2026-08-20
 - **Vanguard** — [College to Corporate IT Internship - Risk & Security - Engineer  (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1) — Charlotte, NC — released 2026-08-17
+- **Vanguard** — [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) — Malvern, PA — released 2026-08-17
 
 ### Verition Fund Management (1)
 
@@ -468,7 +470,7 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Xantium** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) — London, England, New York, New York — released 2026-08-17
 - **Xantium** — [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York — released 2026-08-17
 
-## Not detected in the latest scan (19)
+## Not detected in the latest scan (18)
 
 _These entries are preserved for history. A single missing scan is not proof that an employer closed the posting._
 
@@ -484,7 +486,6 @@ _These entries are preserved for history. A single missing scan is not proof tha
 - **Deutsche Bank** — [DWS Investment Risk Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Investment-Risk-Intern_R0445580-1) — Luxembourg 2 Blvd K. Adenauer — first seen 2026-08-25
 - **Deutsche Bank** — [Internship - Technology Process Analysis (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474) — Milano Bicocca Calendario 3 — first seen 2026-08-25
 - **Goldman Sachs** — [2027 \| Americas \| New York City Area \| Wealth Management, Quantitative Finance \| Summer Analyst](https://higher.gs.com/roles/155800) — New York — first seen 2026-08-17
-- **Vanguard** — [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) — Malvern, PA — released 2026-08-17
 - **Invesco** — [Early Career Intern - Investments (Risk)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1) — New York, New York — released 2026-08-11
 - **RRS Group** — [2027 Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209) — Remote — released 2026-08-09
 - **Quantbot Technologies** — [Quantitative Developer Internship - 2027 [New York]](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) — New York — released 2026-08-07

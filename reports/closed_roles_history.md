@@ -1,14 +1,16 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 80
-Last updated: 2026-09-11T04:52:43.820Z
+Total closures recorded: 82
+Last updated: 2026-09-11T21:32:29.509Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
 
-### 2026-09-11 (3)
+### 2026-09-11 (5)
 
+- **Fidelity Investments** - [Equity Research Associate Intern - Hong Kong (Summer 2027)](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/38F-One-International-Finance-Centre-Central-Hong-Kong/Equity-Research-Associate-Intern---Hong-Kong--Summer-2027-_2132214) - 38/F One International Finance Centre, Central Hong Kong
+- **Fidelity Investments** - [Equity Research Associate Intern Summer 2027 -Tokyo](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Tokyo-Japan/Equity-Research-Associate-Intern-Summer-2027--Tokyo_2132215) - Tokyo, Japan
 - **D. E. Shaw** - [Trader/Analyst Intern (London) – Summer 2027](https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2027-5862) - London
 - **DRW** - [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/8014919) - Singapore
 - **Flow Traders** - [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) - New York
@@ -49,7 +51,7 @@ Each role below was present in an earlier scan and absent in a later one. "Detec
 
 ### 2026-08-29 (1)
 
-- **Vanguard** - [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) - Malvern, PA
+- **Vanguard** - [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) - Malvern, PA — _reopened 2026-09-11_
 
 ### 2026-08-26 (1)
 

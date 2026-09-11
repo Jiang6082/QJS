@@ -1,5 +1,27 @@
 [
   {
+    "Company": "Fidelity Investments",
+    "Title": "Equity Research Associate Intern - Hong Kong (Summer 2027)",
+    "Location": "38/F One International Finance Centre, Central Hong Kong",
+    "Region": "Asia",
+    "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/38F-One-International-Finance-Centre-Central-Hong-Kong/Equity-Research-Associate-Intern---Hong-Kong--Summer-2027-_2132214",
+    "Source": "Career page Workday:fmr/fidelitycareers",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-11T04:52:43.820Z",
+    "detectedClosedAt": "2026-09-11T21:32:29.509Z"
+  },
+  {
+    "Company": "Fidelity Investments",
+    "Title": "Equity Research Associate Intern Summer 2027 -Tokyo",
+    "Location": "Tokyo, Japan",
+    "Region": "Asia",
+    "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Tokyo-Japan/Equity-Research-Associate-Intern-Summer-2027--Tokyo_2132215",
+    "Source": "Career page Workday:fmr/fidelitycareers",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-11T04:52:43.820Z",
+    "detectedClosedAt": "2026-09-11T21:32:29.509Z"
+  },
+  {
     "Company": "D. E. Shaw",
     "Title": "Trader/Analyst Intern (London) – Summer 2027",
     "Location": "London",
@@ -285,7 +307,8 @@
     "Source": "Career page Workday:vanguard/vanguard_external",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-28T00:47:40.240Z",
-    "detectedClosedAt": "2026-08-30T03:23:17.651Z"
+    "detectedClosedAt": "2026-08-30T03:23:17.651Z",
+    "reopenedAt": "2026-09-11T21:32:29.509Z"
   },
   {
     "Company": "D. E. Shaw",

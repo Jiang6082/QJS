@@ -2,26 +2,25 @@
 
 Status: **PASSED**
 Scan date: 2026-09-11
-Baseline rows: 528
-Current rows: 532
-Exact additions: 6
-Exact removals: 2
-Rolling report: 131 dated + 1 undated
-Cumulative queue: 302 total / 283 active / 19 not detected
+Baseline rows: 532
+Current rows: 533
+Exact additions: 4
+Exact removals: 3
+Rolling report: 134 dated + 1 undated
+Cumulative queue: 305 total / 287 active / 18 not detected
 
 ## Exact additions
 
-- **Brevan Howard** — [2027 Summer Internship Program – Systematic Data Strategy, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596)
-- **Brevan Howard** — [2027 Summer Internship Program – Systematic Execution Research, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595)
-- **Brevan Howard** — [2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597)
-- **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005)
-- **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005)
-- **Geneva Trading** — [Quantitative Trading Internship – Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5232641007)
+- **DV Trading** — [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005)
+- **DV Trading** — [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005)
+- **DV Trading** — [Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005)
+- **Vanguard** — [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1)
 
 ## Exact removals
 
-- **Fidelity Investments** — [Equity Research Associate Intern - Hong Kong (Summer 2027)](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/38F-One-International-Finance-Centre-Central-Hong-Kong/Equity-Research-Associate-Intern---Hong-Kong--Summer-2027-_2132214)
-- **Fidelity Investments** — [Equity Research Associate Intern Summer 2027 -Tokyo](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Tokyo-Japan/Equity-Research-Associate-Intern-Summer-2027--Tokyo_2132215)
+- **Akuna** — [Hardware Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880)
+- **Susquehanna International Group** — [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10849?lang=en-us)
+- **Susquehanna International Group** — [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10717?lang=en-us)
 
 ## Integrity checks
 
