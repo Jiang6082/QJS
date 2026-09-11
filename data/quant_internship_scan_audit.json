@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-17T16:47:11.416Z",
+  "scannedAt": "2026-09-11T21:27:06.945Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -182,14 +182,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:janestreet",
-          "count": 233
+          "count": 230
         },
         {
           "source": "Ashby:jane",
           "count": 27
         }
       ],
-      "jobsSeen": 260,
+      "jobsSeen": 257,
       "relevantInternships": 0
     },
     {
@@ -209,14 +209,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:point72",
-          "count": 227
+          "count": 229
         },
         {
           "source": "Ashby:point",
           "count": 0
         }
       ],
-      "jobsSeen": 227,
+      "jobsSeen": 229,
       "relevantInternships": 7
     },
     {
@@ -224,25 +224,25 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 69
+          "count": 77
         },
         {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 69,
-      "relevantInternships": 2
+      "jobsSeen": 77,
+      "relevantInternships": 3
     },
     {
       "company": "Five Rings",
       "resolvedBoards": [
         {
           "source": "Greenhouse:fiveringsllc",
-          "count": 17
+          "count": 16
         }
       ],
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantInternships": 2
     },
     {
@@ -273,11 +273,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:akunacapital",
-          "count": 33
+          "count": 37
         }
       ],
-      "jobsSeen": 33,
-      "relevantInternships": 8
+      "jobsSeen": 37,
+      "relevantInternships": 7
     },
     {
       "company": "Albatross Labs",
@@ -347,11 +347,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:axq",
-          "count": 21
+          "count": 29
         }
       ],
-      "jobsSeen": 21,
-      "relevantInternships": 1
+      "jobsSeen": 29,
+      "relevantInternships": 2
     },
     {
       "company": "Balyasny Asset Management",
@@ -370,10 +370,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:belvederetrading",
-          "count": 14
+          "count": 16
         }
       ],
-      "jobsSeen": 14,
+      "jobsSeen": 16,
       "relevantInternships": 3
     },
     {
@@ -381,10 +381,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:blackedgecapital",
-          "count": 7
+          "count": 6
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantInternships": 2
     },
     {
@@ -409,10 +409,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:boerboeltrading",
-          "count": 3
+          "count": 4
         }
       ],
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantInternships": 0
     },
     {
@@ -432,10 +432,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:bridgewater89",
-          "count": 17
+          "count": 14
         }
       ],
-      "jobsSeen": 17,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -449,10 +449,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 43
+          "count": 40
         }
       ],
-      "jobsSeen": 43,
+      "jobsSeen": 40,
       "relevantInternships": 0
     },
     {
@@ -460,10 +460,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 43
+          "count": 40
         }
       ],
-      "jobsSeen": 43,
+      "jobsSeen": 40,
       "relevantInternships": 0
     },
     {
@@ -495,14 +495,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:chicagotrading",
-          "count": 23
+          "count": 25
         },
         {
           "source": "Greenhouse:chicago",
-          "count": 1
+          "count": 0
         }
       ],
-      "jobsSeen": 24,
+      "jobsSeen": 25,
       "relevantInternships": 0
     },
     {
@@ -546,11 +546,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:dvtrading",
-          "count": 60
+          "count": 67
         }
       ],
-      "jobsSeen": 60,
-      "relevantInternships": 5
+      "jobsSeen": 67,
+      "relevantInternships": 15
     },
     {
       "company": "Edgehog Trading",
@@ -636,10 +636,10 @@
         },
         {
           "source": "Greenhouse:evergreen",
-          "count": 0
+          "count": 1
         }
       ],
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantInternships": 0
     },
     {
@@ -664,11 +664,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 46
+          "count": 41
         }
       ],
-      "jobsSeen": 46,
-      "relevantInternships": 2
+      "jobsSeen": 41,
+      "relevantInternships": 1
     },
     {
       "company": "Freestone Grove Partners",
@@ -699,10 +699,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:gelbergroup",
-          "count": 19
+          "count": 8
         }
       ],
-      "jobsSeen": 19,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -710,11 +710,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:genevatrading",
-          "count": 13
+          "count": 11
         }
       ],
-      "jobsSeen": 13,
-      "relevantInternships": 0
+      "jobsSeen": 11,
+      "relevantInternships": 1
     },
     {
       "company": "Geode Capital Management",
@@ -727,10 +727,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:grahamcapitalmanagement",
-          "count": 10
+          "count": 7
         }
       ],
-      "jobsSeen": 10,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {
@@ -738,10 +738,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:gravitonresearchcapital",
-          "count": 21
+          "count": 20
         }
       ],
-      "jobsSeen": 21,
+      "jobsSeen": 20,
       "relevantInternships": 0
     },
     {
@@ -795,26 +795,26 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 69
+          "count": 77
         },
         {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 69,
-      "relevantInternships": 2
+      "jobsSeen": 77,
+      "relevantInternships": 3
     },
     {
       "company": "IMC Financial Markets",
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 166
+          "count": 171
         }
       ],
-      "jobsSeen": 166,
-      "relevantInternships": 14
+      "jobsSeen": 171,
+      "relevantInternships": 16
     },
     {
       "company": "Jacobs Levy Equity Management",
@@ -839,15 +839,15 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:jumptrading",
-          "count": 107
+          "count": 106
         },
         {
           "source": "Ashby:jump",
-          "count": 3
+          "count": 4
         }
       ],
       "jobsSeen": 110,
-      "relevantInternships": 26
+      "relevantInternships": 29
     },
     {
       "company": "Kepos Capital",
@@ -895,10 +895,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mako",
-          "count": 7
+          "count": 8
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -910,7 +910,7 @@
         }
       ],
       "jobsSeen": 53,
-      "relevantInternships": 0
+      "relevantInternships": 1
     },
     {
       "company": "Mana Partners",
@@ -940,15 +940,15 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mavensecuritiesholdingltd",
-          "count": 37
+          "count": 46
         },
         {
           "source": "Ashby:maven",
           "count": 0
         }
       ],
-      "jobsSeen": 37,
-      "relevantInternships": 2
+      "jobsSeen": 46,
+      "relevantInternships": 5
     },
     {
       "company": "Millburn",
@@ -973,14 +973,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:oldmissioncapital",
-          "count": 35
+          "count": 38
         },
         {
           "source": "Ashby:old-mission-capital",
-          "count": 35
+          "count": 38
         }
       ],
-      "jobsSeen": 70,
+      "jobsSeen": 76,
       "relevantInternships": 2
     },
     {
@@ -988,15 +988,15 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 177
+          "count": 164
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 177,
-      "relevantInternships": 19
+      "jobsSeen": 164,
+      "relevantInternships": 20
     },
     {
       "company": "Paloma Partners",
@@ -1031,10 +1031,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:pdtpartners",
-          "count": 10
+          "count": 9
         }
       ],
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantInternships": 2
     },
     {
@@ -1084,11 +1084,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quantbot-technologies",
-          "count": 8
+          "count": 7
         }
       ],
-      "jobsSeen": 8,
-      "relevantInternships": 8
+      "jobsSeen": 7,
+      "relevantInternships": 7
     },
     {
       "company": "Quantbox Research",
@@ -1119,11 +1119,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 190
+          "count": 198
         }
       ],
-      "jobsSeen": 190,
-      "relevantInternships": 4
+      "jobsSeen": 198,
+      "relevantInternships": 8
     },
     {
       "company": "QVR Advisors",
@@ -1166,11 +1166,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:schonfeld",
-          "count": 53
+          "count": 71
         }
       ],
-      "jobsSeen": 53,
-      "relevantInternships": 1
+      "jobsSeen": 71,
+      "relevantInternships": 5
     },
     {
       "company": "Segantii Capital Management",
@@ -1201,11 +1201,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 91
+          "count": 93
         }
       ],
-      "jobsSeen": 91,
-      "relevantInternships": 3
+      "jobsSeen": 93,
+      "relevantInternships": 4
     },
     {
       "company": "Stevens Capital Management",
@@ -1235,18 +1235,18 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:sunrise",
-          "count": 17
+          "count": 15
         },
         {
           "source": "Ashby:sunrise",
-          "count": 14
+          "count": 11
         },
         {
           "source": "Trakstar:sunrisefutures",
           "count": 5
         }
       ],
-      "jobsSeen": 36,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -1277,10 +1277,10 @@
       "resolvedBoards": [
         {
           "source": "Ashby:teza-technologies",
-          "count": 11
+          "count": 9
         }
       ],
-      "jobsSeen": 11,
+      "jobsSeen": 9,
       "relevantInternships": 0
     },
     {
@@ -1294,11 +1294,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:towerresearchcapital",
-          "count": 80
+          "count": 86
         }
       ],
-      "jobsSeen": 80,
-      "relevantInternships": 5
+      "jobsSeen": 86,
+      "relevantInternships": 9
     },
     {
       "company": "Tradebot",
@@ -1317,10 +1317,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:transmarketgroup",
-          "count": 18
+          "count": 19
         }
       ],
-      "jobsSeen": 18,
+      "jobsSeen": 19,
       "relevantInternships": 4
     },
     {
@@ -1357,10 +1357,10 @@
       "resolvedBoards": [
         {
           "source": "Ashby:vector",
-          "count": 7
+          "count": 6
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantInternships": 0
     },
     {
@@ -1374,11 +1374,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:virtu",
-          "count": 47
+          "count": 50
         }
       ],
-      "jobsSeen": 47,
-      "relevantInternships": 13
+      "jobsSeen": 50,
+      "relevantInternships": 12
     },
     {
       "company": "Volant Trading",
@@ -1399,21 +1399,21 @@
         }
       ],
       "jobsSeen": 57,
-      "relevantInternships": 0
+      "relevantInternships": 1
     },
     {
       "company": "Voloridge Investment Management",
       "resolvedBoards": [
         {
           "source": "Greenhouse:voloridgeinvestmentmanagement",
-          "count": 6
+          "count": 8
         },
         {
           "source": "HiringThing:voloridge-investment-management",
           "count": 0
         }
       ],
-      "jobsSeen": 6,
+      "jobsSeen": 8,
       "relevantInternships": 2
     },
     {
@@ -1421,10 +1421,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:weissassetmanagement",
-          "count": 3
+          "count": 4
         }
       ],
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantInternships": 0
     },
     {
@@ -1535,18 +1535,18 @@
         }
       ],
       "jobsSeen": 102,
-      "relevantInternships": 6
+      "relevantInternships": 7
     },
     {
       "company": "Xantium",
       "resolvedBoards": [
         {
           "source": "Greenhouse:xantium",
-          "count": 5
+          "count": 8
         }
       ],
-      "jobsSeen": 5,
-      "relevantInternships": 0
+      "jobsSeen": 8,
+      "relevantInternships": 2
     },
     {
       "company": "XR Trading",
@@ -1571,21 +1571,21 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:trillium",
-          "count": 12
+          "count": 10
         }
       ],
-      "jobsSeen": 12,
-      "relevantInternships": 5
+      "jobsSeen": 10,
+      "relevantInternships": 4
     },
     {
       "company": "DL Trading",
       "resolvedBoards": [
         {
           "source": "Greenhouse:confidentialsportstradingfirm",
-          "count": 9
+          "count": 8
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantInternships": 2
     },
     {
@@ -1593,10 +1593,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:bluecrestcapitalmanagement",
-          "count": 5
+          "count": 9
         }
       ],
-      "jobsSeen": 5,
+      "jobsSeen": 9,
       "relevantInternships": 0
     },
     {

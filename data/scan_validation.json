@@ -1,0 +1,166 @@
+{
+  "generatedAt": "2026-09-11T21:38:28.516Z",
+  "scanDate": "2026-09-11",
+  "status": "passed",
+  "baselineScanAt": "2026-09-11T04:52:43.820Z",
+  "currentScanAt": "2026-09-11T21:32:29.509Z",
+  "baselineRows": 532,
+  "currentRows": 533,
+  "exactAdded": [
+    {
+      "Company": "DV Trading",
+      "Title": "Quantitative Research Intern - Summer 2027 (DV Equities)",
+      "Department": "DV Equities",
+      "Location": "New York",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4733133005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded 20 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America, Europe and Asia. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. Overview: We are looking for a 2027 Quantitative Research Intern to joi...",
+      "Region": "North America"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Quantitative Trading Intern - Summer 2027 (DV Equities)",
+      "Department": "DV Equities",
+      "Location": "New York",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4702083005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4702083005 | internship timing: Summer 2027; graduation eligibility mentions: 2027 | About Us : Founded 20 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America, Europe and Asia. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. Overview: As a Quantitative Trading Intern, you will work with our DV Equitie...",
+      "Region": "North America"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Software Developer Intern - Summer 2027 (DV Equities)",
+      "Department": "DV Equities",
+      "Location": "New York",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4733138005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded 20 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America, Europe and Asia. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. Overview: We are seeking a highly motivated, quick-learning student dev...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship - Risk & Security - Engineer  (PA)",
+      "Department": "",
+      "Location": "Malvern, PA",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted Today | 177687",
+      "Region": "North America"
+    }
+  ],
+  "exactRemoved": [
+    {
+      "Company": "Akuna",
+      "Title": "Hardware Engineer Intern, Summer 2027",
+      "Location": "Chicago, IL ",
+      "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+      "Source": "Greenhouse:akunacapital",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing: Summer 2027; graduation eligibility mentions: 2029; undergrad/BS/MS language found | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "Region": "North America",
+      "Department": "Engineering"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Quantitative Trader Internship: Summer 2027",
+      "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
+      "Location": "Chicago, Illinois",
+      "URL": "https://careers.sig.com/jobs/10849?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-06-30T16:30:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Susquehanna’s trading internship provides a distinctive opportunity to learn about quantitative trading. Splitting their day between working on a trading desk and education in a classroom setting, interns receive the best preparation possible for careers in quant trading. During their time on the trading floor, interns will be fully embedded within a trading desk, working side by side with an experienced trader who will serve as a mentor. While in education, interns will receive industry-leading training in options theory and decision science from traders fully dedicated to trader development. Students with a STEM background can leverage their quantitative skills and learn how Susquehanna uses game theory, decision science, and cutting-edge technology to ma...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Quantitative Trader Internship: Summer 2027",
+      "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
+      "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+      "URL": "https://careers.sig.com/jobs/10717?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-04-17T20:33:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Susquehanna’s trading internship provides a distinctive opportunity to learn about quantitative trading. Splitting their day between working on a trading desk and education in a classroom setting, interns receive the best preparation possible for careers in quant trading. During their time on the trading floor, interns will be fully embedded within a trading desk, working side by side with an experienced trader who will serve as a mentor. While in education, interns will receive industry-leading training in options theory and decision science from traders fully dedicated to trader development. Students with a STEM background can leverage their quantitative skills and learn how Susquehanna uses game theory, decision science, and cutting-edge technology to ma...",
+      "Region": "North America"
+    }
+  ],
+  "reportedAdded": [
+    {
+      "Company": "DV Trading",
+      "Title": "Quantitative Research Intern - Summer 2027 (DV Equities)",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Quantitative Trading Intern - Summer 2027 (DV Equities)",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4702083005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Software Developer Intern - Summer 2027 (DV Equities)",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship - Risk & Security - Engineer  (PA)",
+      "Location": "Malvern, PA",
+      "Region": "North America",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "Status": "Confirmed official posting"
+    }
+  ],
+  "reportedRemoved": [
+    {
+      "Company": "Fidelity Investments",
+      "Title": "Equity Research Associate Intern - Hong Kong (Summer 2027)",
+      "Location": "38/F One International Finance Centre, Central Hong Kong",
+      "Region": "Asia",
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/38F-One-International-Finance-Centre-Central-Hong-Kong/Equity-Research-Associate-Intern---Hong-Kong--Summer-2027-_2132214",
+      "Source": "Career page Workday:fmr/fidelitycareers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Fidelity Investments",
+      "Title": "Equity Research Associate Intern Summer 2027 -Tokyo",
+      "Location": "Tokyo, Japan",
+      "Region": "Asia",
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Tokyo-Japan/Equity-Research-Associate-Intern-Summer-2027--Tokyo_2132215",
+      "Source": "Career page Workday:fmr/fidelitycareers",
+      "Status": "Confirmed official posting"
+    }
+  ],
+  "rollingDated": 134,
+  "rollingUndated": 1,
+  "cumulativeTotal": 305,
+  "cumulativeActive": 287,
+  "cumulativeNotDetected": 18,
+  "manuallyVerifiedToday": 5,
+  "scientechJobsSeen": 16,
+  "scientechRolesRetained": 5,
+  "checks": {
+    "duplicateUrls": 0,
+    "duplicateWorkdayRequisitions": 0,
+    "aggregatorRows": 0,
+    "futureDated": 0,
+    "priorCumulativeMissing": 0,
+    "verifiedManualMissing": 0,
+    "invalidJson": 0
+  },
+  "failures": []
+}

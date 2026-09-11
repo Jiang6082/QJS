@@ -1,8 +1,10 @@
 import fs from "node:fs/promises";
 import { groupedRoleMarkdown, regionForLocation } from "../tools/regions.mjs";
+import { calendarDate } from "./calendar-date.mjs";
 
 const previousPath = ".scan-state/previous_quant_v2_raw.json";
 const currentPath = "data/quant_internship_roles_scan_v2_raw.json";
+const confirmedRerun = process.argv.includes("--confirmed-rerun");
 
 // Query params that are pure tracking noise and never identify a job posting.
 // Everything else (gh_jid, id, jobId, gh_src, ...) is kept, so distinct jobs on
@@ -38,6 +40,11 @@ function looseUrl(value = "") {
   } catch {
     return value.toLowerCase().replace(/[?#].*$/, "").replace(/\/$/, "");
   }
+}
+
+function isAggregatorLead(row = {}) {
+  return /aggregator|web-discovered|web lead/i.test(`${row.Source || ""} ${row.Status || ""}`)
+    || /(?:glassdoor\.com|extern\.com)/i.test(row.URL || "");
 }
 
 function parseCsv(text = "") {
@@ -92,14 +99,21 @@ try {
 const current = JSON.parse(await fs.readFile(currentPath, "utf8"));
 const previousUrls = new Set((previous.rows || []).map((row) => stableUrl(row.URL)));
 const currentUrls = new Set((current.rows || []).map((row) => stableUrl(row.URL)));
+let manuallyVerifiedUrls = new Set();
+try {
+  const manual = JSON.parse(await fs.readFile("inputs/manually_verified_roles.json", "utf8"));
+  manuallyVerifiedUrls = new Set((manual.roles || []).map((row) => stableUrl(row.URL)));
+} catch {}
 
 // --- Stability guard ---------------------------------------------------------
 // A role is only reported as newly added once it has appeared in TWO consecutive
 // scans, and only reported as closed once it has been absent from TWO consecutive
 // scans. This makes a single-scan board hiccup (e.g. a feed transiently returning
 // zero jobs) a non-event instead of churning the reports and closure archive.
-// State lives in .scan-state (git-ignored, per-machine), like previous_quant_v2_raw.
-const stablePath = ".scan-state/stable_roles.json";
+// Confirmed-present state is tracked so the two-scan guard behaves identically
+// on every clone. The legacy local path is read once for migration.
+const stablePath = "data/stable_quant_roles.json";
+const legacyStablePath = ".scan-state/stable_roles.json";
 const roleMeta = (row) => ({
   Company: row.Company,
   Title: row.Title,
@@ -114,23 +128,51 @@ const currentByUrl = new Map((current.rows || []).map((row) => [stableUrl(row.UR
 let stable; // Map: stableUrl -> role meta (the confirmed-present set)
 try {
   const parsed = JSON.parse(await fs.readFile(stablePath, "utf8"));
-  stable = new Map((parsed.roles || []).map((r) => [stableUrl(r.URL), r]));
+  stable = new Map((parsed.roles || [])
+    .filter((row) => !isAggregatorLead(row))
+    .map((row) => [stableUrl(row.URL), row]));
 } catch {
-  stable = null;
+  try {
+    const parsed = JSON.parse(await fs.readFile(legacyStablePath, "utf8"));
+    stable = new Map((parsed.roles || [])
+      .filter((row) => !isAggregatorLead(row))
+      .map((row) => [stableUrl(row.URL), row]));
+  } catch {
+    stable = null;
+  }
+}
+
+// Manually verified roles are already in the cumulative application ledger.
+// If a scanner fix later discovers them automatically, do not mislabel that
+// technical recovery as a newly opened job.
+if (stable !== null) {
+  for (const url of manuallyVerifiedUrls) {
+    const row = currentByUrl.get(url);
+    if (row && !stable.has(url)) stable.set(url, roleMeta(row));
+  }
 }
 
 let added, removed;
 if (stable === null) {
   // First run under the guard: seed the confirmed set from the current roles and
   // report nothing, so we don't flag the whole existing list as "new".
-  stable = new Map((current.rows || []).map((row) => [stableUrl(row.URL), roleMeta(row)]));
+  stable = new Map((current.rows || [])
+    .filter((row) => !isAggregatorLead(row))
+    .map((row) => [stableUrl(row.URL), roleMeta(row)]));
   added = [];
   removed = [];
 } else {
-  // Confirmed added: present in BOTH this scan and the previous one, not yet stable.
-  const confirmedAdded = [...currentUrls].filter((u) => previousUrls.has(u) && !stable.has(u));
+  // Confirmed added: normally present in BOTH this scan and the previous one.
+  // After a second full source scan, report the exact committed-baseline delta;
+  // manually verified roles are excluded because they were already surfaced.
+  const confirmedAdded = confirmedRerun
+    ? [...currentUrls].filter((u) => !previousUrls.has(u) && !manuallyVerifiedUrls.has(u))
+    : [...currentUrls].filter((u) => previousUrls.has(u) && !stable.has(u));
   // Confirmed closed: in the stable set but absent from BOTH this and the previous scan.
-  const confirmedRemoved = [...stable.keys()].filter((u) => !currentUrls.has(u) && !previousUrls.has(u));
+  const confirmedRemoved = [...stable.keys()].filter((u) => {
+    const row = stable.get(u);
+    return !isAggregatorLead(row) && !currentUrls.has(u) && !previousUrls.has(u);
+  });
   added = confirmedAdded.map((u) => roleMeta(currentByUrl.get(u)));
   removed = confirmedRemoved.map((u) => stable.get(u));
   for (const u of confirmedAdded) stable.set(u, roleMeta(currentByUrl.get(u)));
@@ -142,37 +184,6 @@ const enrichedAdded = added.map((row) => ({ ...row, Region: row.Region || region
 const trackerUrls = await historicalTrackerUrls();
 const notInTracker = (current.rows || []).filter((row) => !trackerUrls.has(looseUrl(row.URL)));
 
-const report = {
-  generatedAt: new Date().toISOString(),
-  previousScanAt: previous.searchedAt,
-  currentScanAt: current.searchedAt,
-  previousRows: previous.rows?.length || 0,
-  currentRows: current.rows?.length || 0,
-  added: enrichedAdded,
-  removed,
-};
-await fs.writeFile("data/new_quant_roles_since_last_run.json", `${JSON.stringify(report, null, 2)}\n`, "utf8");
-
-const markdown = [
-  "# New Quant Roles Since Last Run",
-  "",
-  `Previous scan: ${previous.searchedAt}`,
-  `Current scan: ${current.searchedAt}`,
-  `Previous rows: ${report.previousRows}`,
-  `Current rows: ${report.currentRows}`,
-  `New stable job URLs: ${added.length}`,
-  `No longer present: ${removed.length}`,
-  "",
-  "## New Roles By Region",
-  "",
-  ...groupedRoleMarkdown(enrichedAdded),
-  "## No Longer Present",
-  "",
-  removed.length ? removed.map((row) => `- **${row.Company}** - [${row.Title}](${row.URL})`).join("\n") : "_None._",
-  "",
-].join("\n");
-await fs.writeFile("reports/new_quant_roles_since_last_run.md", markdown, "utf8");
-
 // --- Persistent closed/removed-role archive ---
 // Each role that disappears between two scans is recorded once (keyed by URL),
 // with the last scan that still saw it open and the scan that first saw it gone.
@@ -181,7 +192,7 @@ const closedHistoryPath = "data/closed_roles_history.json";
 let closedHistory = [];
 try {
   const parsed = JSON.parse(await fs.readFile(closedHistoryPath, "utf8"));
-  if (Array.isArray(parsed)) closedHistory = parsed;
+  if (Array.isArray(parsed)) closedHistory = parsed.filter((row) => !isAggregatorLead(row));
 } catch {}
 const closedByUrl = new Map(closedHistory.map((entry) => [stableUrl(entry.URL), entry]));
 
@@ -216,9 +227,55 @@ for (const row of removed) {
 closedHistory.sort((a, b) => String(b.detectedClosedAt).localeCompare(String(a.detectedClosedAt)));
 await fs.writeFile(closedHistoryPath, `${JSON.stringify(closedHistory, null, 2)}\n`, "utf8");
 
+// Keep confirmed-rerun output reproducible when the report builder is called
+// more than once for the same scan.
+if (confirmedRerun) {
+  const removedUrls = new Set(removed.map((row) => stableUrl(row.URL)));
+  for (const entry of closedHistory) {
+    const key = stableUrl(entry.URL);
+    const detectedThisRun = entry.lastSeenOpenAt === previous.searchedAt
+      && calendarDate(entry.detectedClosedAt) === calendarDate(current.searchedAt);
+    if (detectedThisRun && !removedUrls.has(key)) {
+      removed.push(entry);
+      removedUrls.add(key);
+    }
+  }
+}
+
+const report = {
+  generatedAt: new Date().toISOString(),
+  previousScanAt: previous.searchedAt,
+  currentScanAt: current.searchedAt,
+  previousRows: previous.rows?.length || 0,
+  currentRows: current.rows?.length || 0,
+  added: enrichedAdded,
+  removed,
+};
+await fs.writeFile("data/new_quant_roles_since_last_run.json", `${JSON.stringify(report, null, 2)}\n`, "utf8");
+
+const markdown = [
+  "# New Quant Roles Since Last Run",
+  "",
+  `Previous scan: ${previous.searchedAt}`,
+  `Current scan: ${current.searchedAt}`,
+  `Previous rows: ${report.previousRows}`,
+  `Current rows: ${report.currentRows}`,
+  `New stable job URLs: ${added.length}`,
+  `No longer present: ${removed.length}`,
+  "",
+  "## New Roles By Region",
+  "",
+  ...groupedRoleMarkdown(enrichedAdded),
+  "## No Longer Present",
+  "",
+  removed.length ? removed.map((row) => `- **${row.Company}** - [${row.Title}](${row.URL})`).join("\n") : "_None._",
+  "",
+].join("\n");
+await fs.writeFile("reports/new_quant_roles_since_last_run.md", markdown, "utf8");
+
 const closedByDay = new Map();
 for (const entry of closedHistory) {
-  const day = String(entry.detectedClosedAt).slice(0, 10) || "unknown";
+  const day = calendarDate(entry.detectedClosedAt) || "unknown";
   if (!closedByDay.has(day)) closedByDay.set(day, []);
   closedByDay.get(day).push(entry);
 }
@@ -238,7 +295,7 @@ const closedMarkdown = [
     "",
     ...closedByDay.get(day).map((entry) => {
       const loc = entry.Location ? ` - ${entry.Location}` : "";
-      const reopened = entry.reopenedAt ? ` — _reopened ${String(entry.reopenedAt).slice(0, 10)}_` : "";
+      const reopened = entry.reopenedAt ? ` — _reopened ${calendarDate(entry.reopenedAt)}_` : "";
       return `- **${entry.Company}** - [${entry.Title}](${entry.URL})${loc}${reopened}`;
     }),
     "",

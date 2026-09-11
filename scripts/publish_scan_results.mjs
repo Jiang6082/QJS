@@ -1,4 +1,5 @@
 import { spawnSync } from "node:child_process";
+import { calendarDate } from "./calendar-date.mjs";
 
 function run(command, args, options = {}) {
   const result = spawnSync(command, args, {
@@ -41,7 +42,7 @@ if (!staged) {
   process.exit(0);
 }
 
-const now = new Date().toISOString().slice(0, 10);
+const now = calendarDate();
 const shortSha = maybeRun("git", ["rev-parse", "--short", "HEAD"]).output || "";
 const message = `Update scan results ${now}`;
 

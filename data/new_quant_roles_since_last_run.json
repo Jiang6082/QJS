@@ -1,9 +1,65 @@
 {
-  "generatedAt": "2026-08-17T17:07:40.427Z",
-  "previousScanAt": "2026-08-16T14:55:30.101Z",
-  "currentScanAt": "2026-08-17T16:47:40.019Z",
-  "previousRows": 322,
-  "currentRows": 325,
-  "added": [],
-  "removed": []
+  "generatedAt": "2026-09-11T21:37:46.237Z",
+  "previousScanAt": "2026-09-11T04:52:43.820Z",
+  "currentScanAt": "2026-09-11T21:32:29.509Z",
+  "previousRows": 532,
+  "currentRows": 533,
+  "added": [
+    {
+      "Company": "DV Trading",
+      "Title": "Quantitative Research Intern - Summer 2027 (DV Equities)",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Quantitative Trading Intern - Summer 2027 (DV Equities)",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4702083005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Software Developer Intern - Summer 2027 (DV Equities)",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship - Risk & Security - Engineer  (PA)",
+      "Location": "Malvern, PA",
+      "Region": "North America",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "Status": "Confirmed official posting"
+    }
+  ],
+  "removed": [
+    {
+      "Company": "Fidelity Investments",
+      "Title": "Equity Research Associate Intern - Hong Kong (Summer 2027)",
+      "Location": "38/F One International Finance Centre, Central Hong Kong",
+      "Region": "Asia",
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/38F-One-International-Finance-Centre-Central-Hong-Kong/Equity-Research-Associate-Intern---Hong-Kong--Summer-2027-_2132214",
+      "Source": "Career page Workday:fmr/fidelitycareers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Fidelity Investments",
+      "Title": "Equity Research Associate Intern Summer 2027 -Tokyo",
+      "Location": "Tokyo, Japan",
+      "Region": "Asia",
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Tokyo-Japan/Equity-Research-Associate-Intern-Summer-2027--Tokyo_2132215",
+      "Source": "Career page Workday:fmr/fidelitycareers",
+      "Status": "Confirmed official posting"
+    }
+  ]
 }

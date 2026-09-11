@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-17T17:07:40.384Z",
-  "scanStartedAt": "2026-08-17T16:47:40.019Z",
+  "generatedAt": "2026-09-11T21:37:46.096Z",
+  "scanStartedAt": "2026-09-11T21:32:29.509Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 40,
-    "confirmed-no-open-postings": 2,
-    "confirmed-openings-no-matching-role": 51,
-    "could-not-fully-verify": 211
+    "matching-role-found": 51,
+    "confirmed-no-open-postings": 3,
+    "confirmed-openings-no-matching-role": 40,
+    "could-not-fully-verify": 210
   },
   "companies": [
     {
@@ -74,7 +74,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantInternships": 1
     },
     {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 40,
+      "jobsSeen": 138,
       "relevantInternships": 0
     },
     {
@@ -156,7 +156,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantInternships": 2
     },
     {
@@ -285,8 +285,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 47,
-      "relevantInternships": 8
+      "jobsSeen": 54,
+      "relevantInternships": 10
     },
     {
       "company": "Accent Groupe",
@@ -341,7 +341,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantInternships": 2
     },
     {
@@ -395,7 +395,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 14,
+      "jobsSeen": 16,
       "relevantInternships": 3
     },
     {
@@ -417,7 +417,7 @@
       "sourceRosterNames": [
         "Brevan Howard"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967",
         "https://brevanhoward.wd3.myworkdayjobs.com/wday/cxs/brevanhoward/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2025-Trading-Graduate-Program---Abu-Dhabi_JR100942",
@@ -427,8 +427,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 16,
-      "relevantInternships": 0
+      "jobsSeen": 19,
+      "relevantInternships": 8
     },
     {
       "company": "Campbell and Company",
@@ -478,9 +478,11 @@
         "Consolidated Trading"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://pagesxyz.com/companies/consolidated-trading/jobs"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -517,14 +519,14 @@
       "sourceRosterNames": [
         "3Red Partners"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.3redpartners.com/careers/",
         "https://job-boards.greenhouse.io/3redpartners"
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 8,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -538,8 +540,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 21,
-      "relevantInternships": 1
+      "jobsSeen": 29,
+      "relevantInternships": 4
     },
     {
       "company": "Ace Capital Saires",
@@ -578,7 +580,7 @@
       "careerPages": [
         "https://www.amsterdaminvestmentclub.com/pages/vacancy/equity-analyst"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -626,7 +628,7 @@
       "sourceRosterNames": [
         "Balyasny Asset Management"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.bamfunds.com/careers/"
       ],
@@ -761,8 +763,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 179,
-      "relevantInternships": 18
+      "jobsSeen": 175,
+      "relevantInternships": 16
     },
     {
       "company": "ABC Arbitrage",
@@ -883,7 +885,7 @@
       "careerPages": [
         "https://barakmarketmaking.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -944,7 +946,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -970,7 +972,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 28,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -996,8 +998,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 227,
-      "relevantInternships": 8
+      "jobsSeen": 229,
+      "relevantInternships": 9
     },
     {
       "company": "DSV Fund",
@@ -1024,8 +1026,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 60,
-      "relevantInternships": 5
+      "jobsSeen": 67,
+      "relevantInternships": 15
     },
     {
       "company": "Danske Commodities",
@@ -1046,14 +1048,14 @@
       "sourceRosterNames": [
         "Deutsche Bank (quant/systematic)"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://db.wd3.myworkdayjobs.com/DBWebsite/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 40,
-      "relevantInternships": 0
+      "jobsSeen": 127,
+      "relevantInternships": 3
     },
     {
       "company": "Domeyard LP",
@@ -1137,10 +1139,10 @@
         "https://fiveringsfinancial.com/join-our-team/",
         "https://fiverings.com/careers/"
       ],
-      "livePages": 4,
+      "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 17,
-      "relevantInternships": 1
+      "jobsSeen": 16,
+      "relevantInternships": 2
     },
     {
       "company": "Futures First",
@@ -1238,8 +1240,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 72,
-      "relevantInternships": 2
+      "jobsSeen": 80,
+      "relevantInternships": 4
     },
     {
       "company": "IV Capital",
@@ -1250,7 +1252,7 @@
       "careerPages": [
         "https://iv-capital.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1282,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 233,
+      "jobsSeen": 230,
       "relevantInternships": 0
     },
     {
@@ -1320,7 +1322,7 @@
       "careerPages": [
         "https://www.dwf-labs.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1345,9 +1347,13 @@
         "Dexterity Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://wellfound.com/company/dexterity-capital",
+        "https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us",
+        "https://app.welcometothejungle.com/companies/Dexterity-Capital"
+      ],
+      "livePages": 1,
+      "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -1372,9 +1378,9 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 16,
+      "jobsSeen": 18,
       "relevantInternships": 0
     },
     {
@@ -1428,8 +1434,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 46,
-      "relevantInternships": 2
+      "jobsSeen": 41,
+      "relevantInternships": 1
     },
     {
       "company": "G-Research",
@@ -1456,7 +1462,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 6,
+      "jobsSeen": 5,
       "relevantInternships": 0
     },
     {
@@ -1618,7 +1624,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 20,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -1658,7 +1664,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 40,
+      "jobsSeen": 39,
       "relevantInternships": 0
     },
     {
@@ -1667,9 +1673,12 @@
         "Entropy Trading Group"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.entropy-trading.com/careers",
+        "https://www.rocketpunch.com/en/companies/entropy-trading-group/recruit"
+      ],
+      "livePages": 1,
+      "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -1724,7 +1733,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -1739,7 +1748,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 19,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -1952,13 +1961,13 @@
       "sourceRosterNames": [
         "Epoch Capital"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://job-boards.greenhouse.io/epochcapital"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -1994,13 +2003,13 @@
       "sourceRosterNames": [
         "Freepoint Commodities"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.freepoint.com/life-at-freepoint/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -2009,9 +2018,11 @@
         "GRW Partners"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://grwinc.applicantpro.com/jobs/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2020,15 +2031,15 @@
       "sourceRosterNames": [
         "Geneva Trading"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.genevatrading.com/careers/",
         "https://job-boards.greenhouse.io/genevatrading"
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 13,
-      "relevantInternships": 0
+      "jobsSeen": 11,
+      "relevantInternships": 1
     },
     {
       "company": "Glencore",
@@ -2064,7 +2075,7 @@
       "sourceRosterNames": [
         "Gunvor Group"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://gunvorgroup.com/careers/",
         "https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers",
@@ -2073,7 +2084,7 @@
       "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 36,
-      "relevantInternships": 0
+      "relevantInternships": 1
     },
     {
       "company": "High-Flyer",
@@ -2102,8 +2113,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 166,
-      "relevantInternships": 14
+      "jobsSeen": 171,
+      "relevantInternships": 17
     },
     {
       "company": "Independent Trading Group (ITG)",
@@ -2146,13 +2157,13 @@
       "sourceRosterNames": [
         "Kronos Research"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "confirmed-no-open-postings",
       "careerPages": [
         "https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -2222,7 +2233,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 5,
-      "jobsSeen": 37,
+      "jobsSeen": 46,
       "relevantInternships": 2
     },
     {
@@ -2279,7 +2290,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 18,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -2351,7 +2362,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantInternships": 2
     },
     {
@@ -2461,8 +2472,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 53,
-      "relevantInternships": 1
+      "jobsSeen": 71,
+      "relevantInternships": 11
     },
     {
       "company": "Silver Valley Management",
@@ -2500,7 +2511,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -2516,7 +2527,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 5,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {
@@ -2528,9 +2539,9 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/maverickderivatives?error=true"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -2650,7 +2661,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 14,
       "relevantInternships": 2
     },
     {
@@ -2696,7 +2707,7 @@
       "sourceRosterNames": [
         "Qube Research & Technologies"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.qube-rt.com/careers/"
       ],
@@ -2755,14 +2766,14 @@
       "sourceRosterNames": [
         "Scientech Research Capital"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.scientechresearch.io/jobopenings"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "jobsSeen": 16,
+      "relevantInternships": 5
     },
     {
       "company": "Simplex Trading",
@@ -2796,7 +2807,7 @@
       "sourceRosterNames": [
         "Man Group (Man AHL)"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://mangroupplc.wd3.myworkdayjobs.com/Man_Group_Careers",
         "https://job-boards.eu.greenhouse.io/mangroup",
@@ -2971,7 +2982,7 @@
       "careerPages": [
         "https://priogen.com/careers/home/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2999,7 +3010,7 @@
       "careerPages": [
         "https://www.quantlab.com/careers?nl=1&p=jobs"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3121,7 +3132,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3234,7 +3245,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 35,
+      "jobsSeen": 38,
       "relevantInternships": 1
     },
     {
@@ -3636,9 +3647,9 @@
         "https://boards.greenhouse.io/tekion/jobs/6263631003",
         "https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 58,
+      "jobsSeen": 80,
       "relevantInternships": 0
     },
     {
@@ -3681,7 +3692,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 40,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -3699,8 +3710,8 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 12,
-      "relevantInternships": 5
+      "jobsSeen": 10,
+      "relevantInternships": 4
     },
     {
       "company": "UTR8 Group",
@@ -3739,7 +3750,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantInternships": 1
     },
     {
@@ -3753,7 +3764,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 32,
+      "jobsSeen": 34,
       "relevantInternships": 0
     },
     {
@@ -3762,9 +3773,11 @@
         "WH Trading"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.simplyhired.com/browse-jobs/companies/Wh-Trading-LLC"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3773,13 +3786,13 @@
       "sourceRosterNames": [
         "Whistler Trading"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://job-boards.greenhouse.io/whistlertrading"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 6,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3801,14 +3814,14 @@
       "sourceRosterNames": [
         "XTX Markets"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.xtxmarkets.com/careers/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "jobsSeen": 10,
+      "relevantInternships": 1
     },
     {
       "company": "Z22 Technologies AG",
@@ -3860,7 +3873,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 11,
+      "jobsSeen": 9,
       "relevantInternships": 0
     },
     {
@@ -3875,8 +3888,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 80,
-      "relevantInternships": 5
+      "jobsSeen": 86,
+      "relevantInternships": 10
     },
     {
       "company": "Two Sigma",
@@ -3918,7 +3931,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 47,
+      "jobsSeen": 50,
       "relevantInternships": 13
     },
     {
@@ -3926,7 +3939,7 @@
       "sourceRosterNames": [
         "Verition Fund Management"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.verition.com/careers/",
         "https://www.verition.com/careers",
@@ -3934,21 +3947,21 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 30,
-      "relevantInternships": 0
+      "jobsSeen": 32,
+      "relevantInternships": 1
     },
     {
       "company": "VivCourt Trading",
       "sourceRosterNames": [
         "VivCourt Trading"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.vivcourt.com/careers/trading-internship/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3964,8 +3977,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 14,
-      "relevantInternships": 1
+      "jobsSeen": 15,
+      "relevantInternships": 2
     },
     {
       "company": "Wincent",
@@ -4057,7 +4070,7 @@
       "sourceRosterNames": [
         "The Voleon Group"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://jobs.ashbyhq.com/voleon",
         "https://jobs.lever.co/voleon/",
@@ -4067,7 +4080,7 @@
       "livePages": 3,
       "attemptedPages": 4,
       "jobsSeen": 57,
-      "relevantInternships": 0
+      "relevantInternships": 1
     },
     {
       "company": "TradeLink",
@@ -4094,7 +4107,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 18,
+      "jobsSeen": 19,
       "relevantInternships": 4
     },
     {
@@ -4135,9 +4148,11 @@
         "VS Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://vscapitalgrp.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -4165,7 +4180,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 6,
+      "jobsSeen": 8,
       "relevantInternships": 2
     },
     {
@@ -4208,21 +4223,21 @@
       "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 102,
-      "relevantInternships": 5
+      "relevantInternships": 6
     },
     {
       "company": "Xantium",
       "sourceRosterNames": [
         "Xantium"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://job-boards.greenhouse.io/xantium?gh_src=Trackr"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 5,
-      "relevantInternships": 0
+      "jobsSeen": 8,
+      "relevantInternships": 2
     },
     {
       "company": "Morningstar",
@@ -4238,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 40,
+      "jobsSeen": 82,
       "relevantInternships": 0
     },
     {
@@ -4246,14 +4261,14 @@
       "sourceRosterNames": [
         "RRS Group"
       ],
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://jobs.smartrecruiters.com/RRSGroup"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
-      "relevantInternships": 1
+      "jobsSeen": 3,
+      "relevantInternships": 0
     }
   ]
 }
