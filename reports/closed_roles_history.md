@@ -1,11 +1,17 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 77
-Last updated: 2026-09-10T14:14:51.943Z
+Total closures recorded: 80
+Last updated: 2026-09-11T04:52:43.820Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-09-11 (3)
+
+- **D. E. Shaw** - [Trader/Analyst Intern (London) – Summer 2027](https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2027-5862) - London
+- **DRW** - [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/8014919) - Singapore
+- **Flow Traders** - [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) - New York
 
 ### 2026-09-10 (6)
 

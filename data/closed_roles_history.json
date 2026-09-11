@@ -1,5 +1,38 @@
 [
   {
+    "Company": "D. E. Shaw",
+    "Title": "Trader/Analyst Intern (London) – Summer 2027",
+    "Location": "London",
+    "Region": "Europe",
+    "URL": "https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2027-5862",
+    "Source": "Official D. E. Shaw internships page",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-10T14:14:51.943Z",
+    "detectedClosedAt": "2026-09-11T04:52:43.820Z"
+  },
+  {
+    "Company": "DRW",
+    "Title": "Quantitative Trading Analyst Intern",
+    "Location": "Singapore",
+    "Region": "Asia",
+    "URL": "https://job-boards.greenhouse.io/drweng/jobs/8014919",
+    "Source": "Career page Greenhouse:drweng",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-10T14:14:51.943Z",
+    "detectedClosedAt": "2026-09-11T04:52:43.820Z"
+  },
+  {
+    "Company": "Flow Traders",
+    "Title": "Quantitative Trading Intern Summer 2027",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
+    "Source": "Career page Greenhouse:flowtraders",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-10T14:14:51.943Z",
+    "detectedClosedAt": "2026-09-11T04:52:43.820Z"
+  },
+  {
     "Company": "DRW",
     "Title": "Quantitative Developer Intern (Python)",
     "Location": "Singapore",

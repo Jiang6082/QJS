@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T14:14:51.943Z",
+  "updatedAt": "2026-09-11T04:52:43.820Z",
   "roles": [
     {
       "Company": "Akuna",
@@ -785,15 +785,6 @@
       "Status": "Confirmed official posting"
     },
     {
-      "Company": "D. E. Shaw",
-      "Title": "Trader/Analyst Intern (London) – Summer 2027",
-      "Location": "London",
-      "Region": "Europe",
-      "URL": "https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2027-5862",
-      "Source": "Official D. E. Shaw internships page",
-      "Status": "Confirmed official posting"
-    },
-    {
       "Company": "Da Vinci Derivatives",
       "Title": "Quant Trading Intern",
       "Location": "Amsterdam, North Holland, Netherlands",
@@ -898,15 +889,6 @@
       "Location": "London",
       "Region": "Europe",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Quantitative Trading Analyst Intern",
-      "Location": "Singapore",
-      "Region": "Asia",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8014919",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting"
     },
@@ -1052,15 +1034,6 @@
       "Region": "North America",
       "URL": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
       "Source": "Greenhouse:fiveringsllc",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Flow Traders",
-      "Title": "Quantitative Trading Intern Summer 2027",
-      "Location": "New York",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
-      "Source": "Career page Greenhouse:flowtraders",
       "Status": "Confirmed official posting"
     },
     {
@@ -4778,6 +4751,60 @@
       "Region": "Europe",
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
       "Source": "Greenhouse:quberesearchandtechnologies",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Brevan Howard",
+      "Title": "2027 Summer Internship Program – Systematic Data Strategy, New York",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596",
+      "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Brevan Howard",
+      "Title": "2027 Summer Internship Program – Systematic Execution Research, New York",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595",
+      "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Brevan Howard",
+      "Title": "2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597",
+      "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Client Platforms Engineer Intern - Summer 2027",
+      "Location": "London",
+      "Region": "Europe",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4732700005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Client Platforms Engineer Intern - Summer 2027",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Geneva Trading",
+      "Title": "Quantitative Trading Internship – Summer 2027",
+      "Location": "Chicago Office",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/genevatrading/jobs/5232641007",
+      "Source": "Career page Greenhouse:genevatrading",
       "Status": "Confirmed official posting"
     }
   ]

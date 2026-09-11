@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-10T14:20:49.436Z",
-  "scanStartedAt": "2026-09-10T14:14:51.943Z",
+  "generatedAt": "2026-09-11T04:57:58.446Z",
+  "scanStartedAt": "2026-09-11T04:52:43.820Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 50,
-    "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 42,
-    "could-not-fully-verify": 209
+    "matching-role-found": 51,
+    "confirmed-no-open-postings": 4,
+    "confirmed-openings-no-matching-role": 41,
+    "could-not-fully-verify": 208
   },
   "companies": [
     {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 142,
+      "jobsSeen": 140,
       "relevantInternships": 0
     },
     {
@@ -427,8 +427,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 16,
-      "relevantInternships": 5
+      "jobsSeen": 19,
+      "relevantInternships": 8
     },
     {
       "company": "Campbell and Company",
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 172,
+      "jobsSeen": 175,
       "relevantInternships": 16
     },
     {
@@ -1026,8 +1026,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "jobsSeen": 64,
+      "relevantInternships": 12
     },
     {
       "company": "Danske Commodities",
@@ -1238,9 +1238,9 @@
         "https://www.hudsonrivertrading.com/careers/",
         "https://www.hudsonrivertrading.com/careers/job/"
       ],
-      "livePages": 2,
+      "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 80,
+      "jobsSeen": 77,
       "relevantInternships": 4
     },
     {
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 232,
+      "jobsSeen": 230,
       "relevantInternships": 0
     },
     {
@@ -1664,7 +1664,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 36,
+      "jobsSeen": 38,
       "relevantInternships": 0
     },
     {
@@ -1733,7 +1733,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -1786,7 +1786,7 @@
       "careerPages": [
         "https://www.group1.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2031,15 +2031,15 @@
       "sourceRosterNames": [
         "Geneva Trading"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.genevatrading.com/careers/",
         "https://job-boards.greenhouse.io/genevatrading"
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 9,
-      "relevantInternships": 0
+      "jobsSeen": 10,
+      "relevantInternships": 1
     },
     {
       "company": "Glencore",
@@ -2083,7 +2083,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 37,
+      "jobsSeen": 35,
       "relevantInternships": 1
     },
     {
@@ -2233,7 +2233,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 47,
+      "jobsSeen": 46,
       "relevantInternships": 2
     },
     {
@@ -2360,7 +2360,7 @@
         "https://pdtpartners.com/careers",
         "https://job-boards.greenhouse.io/pdtpartners"
       ],
-      "livePages": 2,
+      "livePages": 4,
       "attemptedPages": 5,
       "jobsSeen": 9,
       "relevantInternships": 2
@@ -2429,7 +2429,7 @@
         "https://job-boards.greenhouse.io/radixuniversity",
         "https://job-boards.greenhouse.io/radixexperienced"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 4,
       "jobsSeen": 23,
       "relevantInternships": 2
@@ -2472,7 +2472,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 69,
+      "jobsSeen": 70,
       "relevantInternships": 11
     },
     {
@@ -2511,7 +2511,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -2519,7 +2519,7 @@
       "sourceRosterNames": [
         "Marshall Wace"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "confirmed-no-open-postings",
       "careerPages": [
         "https://job-boards.greenhouse.io/mw-tech-grad",
         "https://www.mwam.com/join-us/",
@@ -2527,7 +2527,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 8,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3649,7 +3649,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 79,
+      "jobsSeen": 78,
       "relevantInternships": 0
     },
     {
@@ -3692,7 +3692,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 55,
+      "jobsSeen": 54,
       "relevantInternships": 0
     },
     {
@@ -3886,9 +3886,9 @@
         "https://www.tower-research.com/open-positions/",
         "https://job-boards.greenhouse.io/towerresearchcapital"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 83,
+      "jobsSeen": 85,
       "relevantInternships": 10
     },
     {
@@ -3947,7 +3947,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 33,
+      "jobsSeen": 32,
       "relevantInternships": 1
     },
     {
@@ -4222,7 +4222,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 102,
+      "jobsSeen": 103,
       "relevantInternships": 6
     },
     {
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 97,
+      "jobsSeen": 95,
       "relevantInternships": 0
     },
     {
