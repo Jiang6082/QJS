@@ -20,6 +20,23 @@ if (!validModes.has(mode)) {
 
 const scriptDir = dirname(fileURLToPath(import.meta.url));
 const rootDir = resolve(scriptDir, "..");
+async function invoke(script, args = []) {
+  await new Promise((resolvePromise, reject) => {
+    const child = spawn(process.execPath, [resolve(scriptDir, script), ...args], { cwd: rootDir, stdio: "inherit" });
+    child.on("error", reject);
+    child.on("close", (code) => code === 0 ? resolvePromise() : reject(new Error(`${script} exited with code ${code}`)));
+  });
+}
+if (scanOnly && shouldPublish) throw new Error("A diagnostic scan cannot publish; use refresh:v2:publish.");
+if (["v2", "all"].includes(mode) && !scanOnly) {
+  await invoke("refresh-quant-workflow.mjs", mode === "v2" && shouldPublish ? ["--publish"] : []);
+  if (mode === "all") {
+    await invoke("expand_us_financial_services_search.mjs");
+    await invoke("scan_swe_2027_internships.mjs");
+    if (shouldPublish) await invoke("publish_scan_results.mjs");
+  }
+  process.exit(0);
+}
 const stateDir = resolve(rootDir, ".scan-state");
 const previousRunFile = resolve(stateDir, "previous_scan_time.txt");
 const broadRawPath = resolve(rootDir, "data/us_financial_services_internship_scan_raw.json");
@@ -77,78 +94,6 @@ for (const script of scripts) {
   });
 }
 
-if (["v2", "all"].includes(mode) && !scanOnly) {
-  await new Promise((resolvePromise, reject) => {
-    const child = spawn(process.execPath, [resolve(scriptDir, "build_quant_roster_scan_audit.mjs")], {
-      cwd: rootDir,
-      stdio: "inherit",
-    });
-    child.on("error", reject);
-    child.on("close", (code) => code === 0
-      ? resolvePromise()
-      : reject(new Error(`build_quant_roster_scan_audit.mjs exited with code ${code}`)));
-  });
-
-  await new Promise((resolvePromise, reject) => {
-    const child = spawn(process.execPath, [resolve(scriptDir, "build_new_quant_roles_report.mjs")], {
-      cwd: rootDir,
-      stdio: "inherit",
-    });
-    child.on("error", reject);
-    child.on("close", (code) => code === 0
-      ? resolvePromise()
-      : reject(new Error(`build_new_quant_roles_report.mjs exited with code ${code}`)));
-  });
-
-  await new Promise((resolvePromise, reject) => {
-    const child = spawn(process.execPath, [resolve(scriptDir, "build_scan_dashboard.mjs")], {
-      cwd: rootDir,
-      stdio: "inherit",
-    });
-    child.on("error", reject);
-    child.on("close", (code) => code === 0
-      ? resolvePromise()
-      : reject(new Error(`build_scan_dashboard.mjs exited with code ${code}`)));
-  });
-
-  await new Promise((resolvePromise, reject) => {
-    const child = spawn(process.execPath, [
-      resolve(scriptDir, "report-new-roles.mjs"),
-      "--days=21",
-      "--scope=quant",
-      "--write",
-    ], {
-      cwd: rootDir,
-      stdio: "inherit",
-    });
-    child.on("error", reject);
-    child.on("close", (code) => code === 0
-      ? resolvePromise()
-      : reject(new Error(`report-new-roles.mjs exited with code ${code}`)));
-  });
-
-  await new Promise((resolvePromise, reject) => {
-    const child = spawn(process.execPath, [resolve(scriptDir, "build-cumulative-application-report.mjs")], {
-      cwd: rootDir,
-      stdio: "inherit",
-    });
-    child.on("error", reject);
-    child.on("close", (code) => code === 0
-      ? resolvePromise()
-      : reject(new Error(`build-cumulative-application-report.mjs exited with code ${code}`)));
-  });
-
-  await new Promise((resolvePromise, reject) => {
-    const child = spawn(process.execPath, [resolve(scriptDir, "build-readme.mjs")], {
-      cwd: rootDir,
-      stdio: "inherit",
-    });
-    child.on("error", reject);
-    child.on("close", (code) => code === 0
-      ? resolvePromise()
-      : reject(new Error(`build-readme.mjs exited with code ${code}`)));
-  });
-}
 
 if (shouldPublish) {
   await new Promise((resolvePromise, reject) => {

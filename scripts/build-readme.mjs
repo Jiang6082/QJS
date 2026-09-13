@@ -79,9 +79,9 @@ let scanDate;
 try {
   const scanMd = fs.readFileSync(scanPath, 'utf8');
   const m = scanMd.match(/Last updated:\s*(\S+)/);
-  scanDate = recentData.until || calendarDate(m ? m[1] : (newData.currentScanAt || new Date()));
+  scanDate = calendarDate(newData.currentScanAt);
 } catch {
-  scanDate = recentData.until || calendarDate(newData.currentScanAt || new Date());
+  scanDate = calendarDate(newData.currentScanAt);
 }
 const releasedToday = recentRoles.filter((role) => role.date === scanDate);
 
@@ -116,7 +116,7 @@ out += `# QJS — Quant & Trading Internship Scanner\n\n`;
 out += `Automated scan of quant, trading, research, strategy, and engineering internships across a `;
 out += `**300+ firm universe**. `;
 out += `GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.\n\n`;
-out += `> **Last scan:** ${scanDate} &nbsp;•&nbsp; **${roles.length} open roles** &nbsp;•&nbsp; **${releasedToday.length} released today** &nbsp;•&nbsp; **${recentRoles.length} opened in 3 weeks**${closedCount ? ` &nbsp;•&nbsp; **${closedCount} closed** ([history](reports/closed_roles_history.md))` : ''}\n\n`;
+out += `> **Last scan:** ${scanDate} &nbsp;•&nbsp; **${roles.length} open roles** &nbsp;•&nbsp; **${releasedToday.length} released today** &nbsp;•&nbsp; **${recentRoles.length} opened in 3 weeks**${closedCount ? ` &nbsp;•&nbsp; **${closedCount} closure events** ([history](reports/closed_roles_history.md))` : ''}\n\n`;
 if (cumulativeData) {
   out += `> **Cumulative application queue:** [${cumulativeData.total} unique roles tracked; ${cumulativeData.active} active](reports/cumulative_application_roles.md)\n\n`;
 }
@@ -172,7 +172,8 @@ out += `---\n\n`;
 
 // --- Section 3: All roles ---
 out += `## 📋 All Roles Available\n\n`;
-out += `**${roles.length}** open internship roles, grouped by region. Click a title to open the official posting.\n\n`;
+out += `**${roles.length}** open internship roles detected in the latest source pass, grouped by region. Click a title to open the official posting.\n\n`;
+if (newData.pending?.length) out += `**${newData.pending.length}** previously seen roles could not be confirmed open or closed. See [guarded absences](reports/new_quant_roles_since_last_run.md#missing-but-not-confirmed-closed).\n\n`;
 
 const byRegion = {};
 for (const r of roles) {
@@ -207,8 +208,9 @@ out += `Requires **Node.js 18+**. From the repo folder:\n\n`;
 out += '```bash\n';
 out += 'npm run refresh:v2          # portable two-pass quant scan, reports, and validation\n';
 out += 'npm run refresh:v2:publish  # same workflow, then commit and push\n';
-out += 'npm run scan:v2             # single diagnostic scan pass\n';
-out += 'npm run scan:all            # run every scanner once\n';
+out += 'npm run scan:v2             # alias for the protected refresh\n';
+out += 'npm run scan:v2:diagnostic  # one pass; does not rebuild or publish reports\n';
+out += 'npm run scan:all            # protected quant refresh plus the other scanners\n';
 out += '```\n\n';
 out += `**Scan modes:** \`v1\` (known ATS boards) · \`v2\` (ATS + expanded quant search) · \`broad\` (ATS + broader US financial-services) · \`swe\` (2027 software/eng roles) · \`all\` (full workflow).\n\n`;
 out += `### Normal workflow on any machine\n\n`;
@@ -216,7 +218,8 @@ out += '```bash\n';
 out += 'git pull --ff-only\n';
 out += 'npm run refresh:v2:publish\n';
 out += '```\n\n';
-out += `Run the portable workflow from a clean worktree. It copies the committed raw scan into the local comparison baseline, performs two independent source passes, refreshes manually verified official roles, rebuilds every quant report in dependency order, and runs [workflow validation](reports/scan_validation.md). The confirmed-role stability state is tracked in [data/stable_quant_roles.json](data/stable_quant_roles.json), so additions and two-scan closures behave the same on a fresh clone; do not copy \`.scan-state\` between machines. The publish step commits the generated files and pushes the currently checked-out branch to \`origin\`. To publish already-generated local changes without scanning, run \`npm run publish\`.\n\n`;
+out += `Run the portable workflow from a clean worktree. It records the committed baseline and two complete source passes, rechecks manually tracked postings, rebuilds all quant reports, and validates the README too. Additions must appear in both passes. Closures require successful absence evidence from the role's own source in both passes; failures remain guarded. [Confirmation evidence](data/scan_confirmation.json), [stability history](data/stable_quant_roles.json), and [date history](data/role_date_history.json) travel with the repository; do not copy \`.scan-state\` between machines. A failed refresh restores the previous reports, and a lock prevents concurrent refreshes.\n\n`;
+out += `Publishing stages generated artifacts only, refuses unrelated staged files, validates before committing, and verifies the remote commit. Run \`npm run publish\` to publish completed reports or retry a failed push. The PowerShell entry point delegates to the same workflow. Run \`npm test\` for regression checks.\n\n`;
 
 out += `## Repo Layout\n\n`;
 out += `- **Root** — only \`README.md\`, \`package.json\`, and \`.gitignore\`.\n`;
@@ -236,7 +239,7 @@ out += `| [reports/quant_internship_roles_scan_v2.csv](reports/quant_internship_
 out += `| [reports/current_quant_roles_not_in_tracker.md](reports/current_quant_roles_not_in_tracker.md) | Current roles absent from the older application tracker |\n`;
 out += `| [reports/quant_roster_scan_audit.md](reports/quant_roster_scan_audit.md) | 303-firm roster split into confirmed vs. unverifiable states |\n`;
 out += `| [reports/scan_validation.md](reports/scan_validation.md) | Portable baseline delta and integrity checks for the latest refresh |\n`;
-out += `| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (${closedCount} so far) |\n`;
+out += `| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (${closedCount} closure events recorded) |\n`;
 out += `| [data/stable_quant_roles.json](data/stable_quant_roles.json) | Cross-device confirmed-present state for the two-scan closure guard |\n`;
 out += `| [inputs/company_career_pages.json](inputs/company_career_pages.json) | Seeded career-page database |\n`;
 out += `| [inputs/quant_firm_roster.json](inputs/quant_firm_roster.json) | Complete 303-entry firm list + canonical aliases |\n\n`;

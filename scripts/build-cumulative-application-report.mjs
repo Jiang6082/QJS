@@ -4,6 +4,7 @@ import { execFileSync } from "node:child_process";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { calendarDate } from "./calendar-date.mjs";
+import { roleIdentity } from "../tools/role-identity.mjs";
 
 const repo = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const dataPath = path.join(repo, "data/cumulative_application_roles.json");
@@ -15,7 +16,7 @@ const manualPath = path.join(repo, "inputs/manually_verified_roles.json");
 
 function readJson(file, fallback = null) {
   try { return JSON.parse(fs.readFileSync(file, "utf8")); }
-  catch { return fallback; }
+  catch (error) { if (error.code === "ENOENT") return fallback; throw error; }
 }
 
 function gitJson(spec) {
@@ -32,7 +33,7 @@ function cleanRow(row) {
   return {
     Company: row.Company || row.company || "Unknown",
     Title: row.Title || row.title || "Untitled role",
-    Location: row.Location || row.location || "n/a",
+    Location: String(row.Location || row.location || "n/a").trim(),
     URL: String(row.URL || row.url || "").trim(),
     Source: row.Source || row.source || "",
     source_status: row.source_status || row.Status || row.StatusLabel || "",
@@ -52,15 +53,16 @@ function isAggregatorLead(row) {
 function mergeRole(ledger, row, defaults = {}) {
   const incoming = cleanRow({ ...defaults, ...row });
   if (!incoming.URL) return;
-  const previous = ledger.get(incoming.URL) || {};
-  ledger.set(incoming.URL, {
+  const key = roleIdentity(incoming);
+  const previous = ledger.get(key) || {};
+  ledger.set(key, {
     ...previous,
     ...incoming,
     release_date: incoming.release_date || previous.release_date || null,
     first_seen: previous.first_seen || incoming.first_seen || null,
     discovery_note: incoming.discovery_note || previous.discovery_note || null,
     manually_verified: incoming.manually_verified || previous.manually_verified || false,
-    verifiedAt: incoming.verifiedAt || previous.verifiedAt || null,
+    verifiedAt: Object.hasOwn(row, "verifiedAt") ? row.verifiedAt : incoming.verifiedAt || previous.verifiedAt || null,
   });
 }
 
@@ -107,20 +109,28 @@ function bootstrapLedger() {
   return ledger;
 }
 
-const existing = readJson(dataPath);
-const ledger = existing?.roles?.length
-  ? new Map(existing.roles.map((role) => [role.URL, cleanRow(role)]))
-  : bootstrapLedger();
+const confirmation = readJson(path.join(repo, "data/scan_confirmation.json"));
+const existing = confirmation
+  ? gitJson(`${confirmation.baselineCommit}:data/cumulative_application_roles.json`)
+  : readJson(dataPath);
+if (confirmation && !existing) throw new Error("Cumulative baseline commit is unavailable; use a clone with history.");
+const ledger = existing?.roles?.length ? new Map() : bootstrapLedger();
+for (const role of existing?.roles || []) mergeRole(ledger, role);
 const currentRaw = readJson(currentRawPath, { searchedAt: new Date().toISOString(), rows: [] });
 const scanDate = calendarDate(currentRaw.searchedAt) || calendarDate();
-const previousRaw = readJson(previousRawPath, { rows: [] });
+const previousRaw = confirmation
+  ? gitJson(`${confirmation.baselineCommit}:data/quant_internship_roles_scan_v2_raw.json`)
+  : readJson(previousRawPath, { rows: [] });
+if (!previousRaw) throw new Error("Previous scan baseline is unavailable.");
 const recent = readJson(recentPath, { roles: [], undatedFirstSeen: [] });
 const manual = readJson(manualPath, { roles: [] });
 const { dates: currentDates, firstSeen: currentFirstSeen } = reportDates(recent);
 const previousRoleRows = (previousRaw.rows || []).filter((row) => !isAggregatorLead(row));
 const currentRoleRows = (currentRaw.rows || []).filter((row) => !isAggregatorLead(row));
-const previousUrls = new Set(previousRoleRows.map((row) => row.URL));
-const currentUrls = new Set(currentRoleRows.map((row) => row.URL));
+const previousUrls = new Set(previousRoleRows.map(roleIdentity));
+const currentUrls = new Set(currentRoleRows.map(roleIdentity));
+const confirmedReport = readJson(path.join(repo, "data/new_quant_roles_since_last_run.json"), { added: [] });
+const dateHistory = readJson(path.join(repo, "data/role_date_history.json"), { roles: {} }).roles;
 
 for (const [url, role] of ledger) {
   if (isAggregatorLead(role)) ledger.delete(url);
@@ -129,10 +139,10 @@ for (const [url, role] of ledger) {
 for (const role of recent.roles || []) if (!isAggregatorLead(role)) mergeRole(ledger, role, { release_date: role.date });
 for (const role of recent.undatedFirstSeen || []) if (!isAggregatorLead(role)) mergeRole(ledger, role, { first_seen: role.first_seen });
 for (const row of currentRoleRows) {
-  if (!previousUrls.has(row.URL) || ledger.has(row.URL)) {
+  if (!previousUrls.has(roleIdentity(row)) || ledger.has(roleIdentity(row))) {
     mergeRole(ledger, row, {
       release_date: currentDates.get(row.URL) || null,
-      first_seen: currentFirstSeen.get(row.URL) || scanDate,
+      first_seen: dateHistory[roleIdentity(row)]?.first_seen || currentFirstSeen.get(row.URL) || scanDate,
     });
   }
 }
@@ -141,7 +151,7 @@ for (const role of manual.roles || []) mergeRole(ledger, role, { manually_verifi
 const roles = [...ledger.values()].map((role) => ({
   ...role,
   first_seen: role.first_seen && role.first_seen > scanDate ? scanDate : role.first_seen,
-  status: currentUrls.has(role.URL) || (role.manually_verified && role.verifiedAt === scanDate)
+  status: currentUrls.has(roleIdentity(role)) || (role.manually_verified && role.verifiedAt === scanDate)
     ? "active"
     : "not_detected",
 })).sort((a, b) => {
@@ -151,14 +161,12 @@ const roles = [...ledger.values()].map((role) => ({
   return bd.localeCompare(ad) || a.Company.localeCompare(b.Company) || a.Title.localeCompare(b.Title) || a.Location.localeCompare(b.Location);
 });
 
-const manuallyRecoveredUrls = new Set((manual.roles || []).map((role) => role.URL));
-const scannerNewUrls = new Set(currentRoleRows
-  .filter((row) => !previousUrls.has(row.URL) && !manuallyRecoveredUrls.has(row.URL))
-  .map((row) => row.URL));
+const manuallyRecoveredUrls = new Set((manual.roles || []).filter((role) => role.verifiedAt === scanDate && role.verificationStatus !== "not_detected").map(roleIdentity));
+const scannerNewUrls = new Set((confirmedReport.added || []).map(roleIdentity));
 const active = roles.filter((role) => role.status === "active");
 const notDetected = roles.filter((role) => role.status === "not_detected");
-const scannerNew = roles.filter((role) => scannerNewUrls.has(role.URL));
-const manuallyRecovered = roles.filter((role) => manuallyRecoveredUrls.has(role.URL));
+const scannerNew = roles.filter((role) => scannerNewUrls.has(roleIdentity(role)));
+const manuallyRecovered = roles.filter((role) => manuallyRecoveredUrls.has(roleIdentity(role)));
 
 const output = {
   generatedAt: new Date().toISOString(),

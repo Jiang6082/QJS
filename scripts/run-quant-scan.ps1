@@ -1,82 +1,18 @@
 param(
   [ValidateSet("v1", "v2", "broad", "swe", "all")]
-  [string]$Mode = "all",
+  [string]$Mode = "v2",
   [string]$SourceDir = $PSScriptRoot,
-  [string]$NodePath = ""
+  [string]$NodePath = "",
+  [switch]$Publish
 )
-
 $ErrorActionPreference = "Stop"
-
-function Resolve-Node {
-  param([string]$RequestedNodePath)
-
-  if ($RequestedNodePath -and (Test-Path -LiteralPath $RequestedNodePath)) {
-    return (Resolve-Path -LiteralPath $RequestedNodePath).Path
-  }
-
-  $codexNode = Join-Path $env:USERPROFILE ".cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe"
-  if (Test-Path -LiteralPath $codexNode) {
-    return $codexNode
-  }
-
+if (-not $NodePath) {
   $pathNode = Get-Command node -ErrorAction SilentlyContinue
-  if ($pathNode) {
-    return $pathNode.Source
-  }
-
-  throw "Node.js was not found. Install Node 18+ or pass -NodePath C:\path\to\node.exe."
+  if (-not $pathNode) { throw "Install Node.js 18+ or pass -NodePath." }
+  $NodePath = $pathNode.Source
 }
-
-if (-not (Test-Path -LiteralPath $SourceDir)) {
-  throw "SourceDir not found: $SourceDir"
-}
-
-$ScriptDir = (Resolve-Path -LiteralPath $SourceDir).Path
-$RootDir = Split-Path -Parent $ScriptDir
-$NodePath = Resolve-Node -RequestedNodePath $NodePath
-
-$stateDir = Join-Path $RootDir ".scan-state"
-New-Item -ItemType Directory -Force -Path $stateDir | Out-Null
-New-Item -ItemType Directory -Force -Path (Join-Path $RootDir "reports") | Out-Null
-New-Item -ItemType Directory -Force -Path (Join-Path $RootDir "data") | Out-Null
-
-$previousRunFile = Join-Path $stateDir "previous_scan_time.txt"
-$currentRunStartedAt = (Get-Date).ToUniversalTime().ToString("o")
-if (Test-Path -LiteralPath (Join-Path $RootDir "data/us_financial_services_internship_scan_raw.json")) {
-  $raw = Get-Content -LiteralPath (Join-Path $RootDir "data/us_financial_services_internship_scan_raw.json") -Raw | ConvertFrom-Json
-  if ($raw.searchedAt) {
-    Set-Content -LiteralPath $previousRunFile -Value $raw.searchedAt -NoNewline
-  }
-} elseif (-not (Test-Path -LiteralPath $previousRunFile)) {
-  Set-Content -LiteralPath $previousRunFile -Value $currentRunStartedAt -NoNewline
-}
-
-Push-Location -LiteralPath $RootDir
-try {
-  Write-Host "Using Node: $NodePath"
-  Write-Host "Running scan mode: $Mode"
-
-  if ($Mode -eq "v1" -or $Mode -eq "v2" -or $Mode -eq "broad" -or $Mode -eq "all") {
-    & $NodePath (Join-Path $ScriptDir "scan_quant_internships.mjs")
-  }
-
-  if ($Mode -eq "v2" -or $Mode -eq "all") {
-    & $NodePath (Join-Path $ScriptDir "expand_quant_internship_search.mjs")
-  }
-
-  if ($Mode -eq "broad" -or $Mode -eq "all") {
-    & $NodePath (Join-Path $ScriptDir "expand_us_financial_services_search.mjs")
-  }
-
-  if ($Mode -eq "swe" -or $Mode -eq "all") {
-    & $NodePath (Join-Path $ScriptDir "scan_swe_2027_internships.mjs")
-  }
-} finally {
-  Pop-Location
-}
-
-Write-Host ""
-Write-Host "Done. Generated CSV, Markdown, raw JSON, and audit JSON files in:"
-Write-Host $RootDir
-Write-Host "Previous run timestamp saved at:"
-Write-Host $previousRunFile
+$entryPoint = Join-Path $SourceDir "run-quant-scan.mjs"
+$scanArguments = @($entryPoint, "--mode=$Mode")
+if ($Publish) { $scanArguments += "--publish" }
+& $NodePath @scanArguments
+exit $LASTEXITCODE

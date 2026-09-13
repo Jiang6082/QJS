@@ -11,7 +11,7 @@ export const regionOrder = [
 ];
 
 const patterns = {
-  "North America": /\b(?:united states|u\.?s\.?a?|americas?|amers|canada|mexico|new york|chicago|boston|miami|greenwich|houston|austin|stamford|san francisco|los angeles|washington|jersey city|philadelphia|montreal|toronto|vancouver|camden|hanover|connecticut|illinois|massachusetts|california|texas|florida|new jersey|pennsylvania|nyc|n\.y\.|ct|il|ma|ca|tx|fl|nj|pa)\b/i,
+  "North America": /\b(?:united states|u\.?s\.?a?|americas|amers|canada|mexico|new york|chicago|boston|miami|greenwich|houston|austin|stamford|san francisco|los angeles|washington|jersey city|philadelphia|montreal|toronto|vancouver|camden|hanover|connecticut|illinois|massachusetts|california|texas|florida|new jersey|pennsylvania|nyc|n\.y\.|ct|il|ma|ca|tx|fl|nj|pa)\b/i,
   "Europe": /\b(?:europe|emea|united kingdom|u\.?k\.?|england|ireland|france|germany|netherlands|switzerland|poland|spain|italy|sweden|norway|denmark|finland|austria|belgium|czech|romania|hungary|slovakia|portugal|london|paris|zurich|dublin|amsterdam|geneva|berlin|munich|frankfurt|warsaw|krakow|prague|madrid|milan|stockholm|oslo|copenhagen|helsinki|vienna|brussels|budapest|bucharest|lisbon|bristol|bratislava)\b/i,
   "Asia": /\b(?:asia|apac|apej|singapore|hong kong|china|japan|india|taiwan|south korea|korea|vietnam|thailand|malaysia|indonesia|philippines|beijing|shanghai|shenzhen|tokyo|seoul|mumbai|bengaluru|bangalore|hyderabad|ho chi minh|hanoi|kuala lumpur)\b/i,
   "Oceania": /\b(?:oceania|australia|new zealand|sydney|melbourne|brisbane|perth|auckland)\b/i,
@@ -22,8 +22,16 @@ const patterns = {
 
 export function regionForLocation(location = "") {
   const value = String(location).replace(/\s+/g, " ").trim();
+  if (/\b(?:emea|global|worldwide)\b/i.test(value)) return "Global / Multiple Regions";
+  // Match explicit regional names before the generic word "America".
+  if (/^(?:south america|latin america|latam)$/i.test(value)) return "South America";
+  const extra = {
+    Europe: /\b(?:glasgow|knutsford|northampton|edinburgh|luxembourg|wrocław|wroclaw|aarhus)\b/i,
+    "North America": /\b(?:whippany|wilmington|bala cynwyd|newport beach|baltimore|dallas|fort worth|pittsburgh)\b/i,
+    Asia: /\bgift city\b/i,
+  };
   const matched = Object.entries(patterns)
-    .filter(([, pattern]) => pattern.test(value))
+    .filter(([region, pattern]) => pattern.test(value) || extra[region]?.test(value))
     .map(([region]) => region);
   if (matched.length > 1) return "Global / Multiple Regions";
   if (matched.length === 1) return matched[0];

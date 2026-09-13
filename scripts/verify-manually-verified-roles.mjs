@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { calendarDate } from "./calendar-date.mjs";
+import { employerDate } from "../tools/role-dates.mjs";
 
 const repo = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const inputPath = resolve(repo, "inputs/manually_verified_roles.json");
@@ -27,31 +28,38 @@ const jobsByToken = new Map();
 for (const token of boardTokens) {
   const response = await fetch(`https://api.ashbyhq.com/posting-api/job-board/${token}`, {
     headers: { "user-agent": "Mozilla/5.0 QJS manual-role verifier", accept: "application/json" },
+    signal: AbortSignal.timeout(15000),
   });
   if (!response.ok) throw new Error(`Ashby board ${token} returned HTTP ${response.status}`);
   const payload = await response.json();
   if (!Array.isArray(payload.jobs)) throw new Error(`Ashby board ${token} returned an invalid payload`);
-  jobsByToken.set(token, new Map(payload.jobs.map((job) => [String(job.id), job])));
+  jobsByToken.set(token, new Map(payload.jobs.map((job) => [String(job.id || ashbyReference(job.jobUrl)?.id), job])));
 }
 
 let verified = 0;
 let missing = 0;
 let unsupported = 0;
 for (const role of input.roles || []) {
+  role.checkedAt = today;
   const reference = ashbyReference(role.URL);
   if (!reference) {
+    role.verificationStatus = "unsupported";
+    role.verifiedAt = null;
     unsupported += 1;
     continue;
   }
   const job = jobsByToken.get(reference.token)?.get(reference.id);
   if (!job || job.isListed === false) {
+    role.verificationStatus = "not_detected";
+    role.verifiedAt = null;
     missing += 1;
     continue;
   }
   role.Title = job.title || role.Title;
   role.Location = job.location || job.locationName || role.Location;
-  role.release_date = calendarDate(job.publishedAt) || role.release_date;
+  role.release_date = employerDate(job.publishedAt) || role.release_date;
   role.verifiedAt = today;
+  role.verificationStatus = "active";
   verified += 1;
 }
 

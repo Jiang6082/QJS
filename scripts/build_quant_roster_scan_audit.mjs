@@ -13,7 +13,7 @@ const noOpenPostings = new Set(scan.confirmedNoOpenPostings || []);
 const noMatchingRoles = new Set(scan.confirmedNoMatchingRoles || []);
 
 function statusFor(company) {
-  if (!noRows.has(company)) return "matching-role-found";
+  if ((scan.rows || []).some((row) => canonical(row.Company) === company)) return "matching-role-found";
   if (noOpenPostings.has(company)) return "confirmed-no-open-postings";
   if (noMatchingRoles.has(company)) return "confirmed-openings-no-matching-role";
   return "could-not-fully-verify";

@@ -1,30 +1,14 @@
 # Quant Workflow Validation
 
 Status: **PASSED**
-Scan date: 2026-09-12
+Scan date: 2026-09-13
 Baseline rows: 533
-Current rows: 533
-Exact additions: 0
-Exact removals: 0
-Rolling report: 134 dated + 1 undated
-Cumulative queue: 305 total / 287 active / 18 not detected
+Current rows: 541
+Exact additions: 40; additions confirmed in both passes: 40
+Exact absences: 32; confirmed closures: 0; guarded absences: 32
+Differences between source passes: 2
+Rolling report: 138 source-dated + 5 undated
+Cumulative queue: 345 total / 327 active / 18 not detected
 
-## Exact additions
-
-_None._
-
-## Exact removals
-
-_None._
-
-## Integrity checks
-
-- Duplicate URLs: 0
-- Duplicate Workday requisitions: 0
-- Aggregator rows: 0
-- Future-dated roles: 0
-- Prior cumulative URLs lost: 0
-- Verified manual roles missing: 0
-- Invalid JSON files: 0
-- Scientech official board: 16 jobs seen / 5 matching internships
+Checks cover identities, independent confirmation, critical source health, closure evidence, reopened roles, report timestamps and membership, date windows, cumulative preservation, manual verification, README counts, and JSON validity.
 

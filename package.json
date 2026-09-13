@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "scan:v1": "node ./scripts/run-quant-scan.mjs --mode=v1",
-    "scan:v2": "node ./scripts/run-quant-scan.mjs --mode=v2",
+    "scan:v2": "node ./scripts/refresh-quant-workflow.mjs",
+    "scan:v2:diagnostic": "node ./scripts/run-quant-scan.mjs --mode=v2 --scan-only",
     "scan:v2:publish": "node ./scripts/refresh-quant-workflow.mjs --publish",
     "refresh:v2": "node ./scripts/refresh-quant-workflow.mjs",
     "refresh:v2:publish": "node ./scripts/refresh-quant-workflow.mjs --publish",
@@ -17,7 +18,8 @@
     "report:new": "node ./scripts/report-new-roles.mjs",
     "report:cumulative": "node ./scripts/build-cumulative-application-report.mjs",
     "readme": "node ./scripts/build-readme.mjs",
-    "validate:v2": "node ./scripts/validate-quant-workflow.mjs"
+    "validate:v2": "node ./scripts/validate-quant-workflow.mjs",
+    "test": "node --test"
   },
   "engines": {
     "node": ">=18"
