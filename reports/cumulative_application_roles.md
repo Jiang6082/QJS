@@ -1,19 +1,15 @@
 # Cumulative application queue
 
-_Updated 2026-09-11. Roles remain in this ledger when they age out of the rolling 21-day report._
+_Updated 2026-09-12. Roles remain in this ledger when they age out of the rolling 21-day report._
 
 - **305** unique role URLs tracked
 - **287** active or manually verified today
 - **18** not detected in the latest scan
-- **4** new scanner URLs since the previous scan
+- **0** new scanner URLs since the previous scan
 - **5** live Scientech roles verified on its nested official Ashby board
 
-## New scanner URLs since the previous scan (4)
+## New scanner URLs since the previous scan (0)
 
-- **DV Trading** — [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) — New York — released 2026-09-11
-- **DV Trading** — [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) — New York — released 2026-09-11
-- **DV Trading** — [Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) — New York — released 2026-09-11
-- **Vanguard** — [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) — Malvern, PA — released 2026-08-17
 
 ## Scientech roles verified on the nested official board (5)
 

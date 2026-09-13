@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T21:38:02.279Z",
-  "currentScanAt": "2026-09-11T21:32:29.509Z",
+  "generatedAt": "2026-09-13T01:14:34.945Z",
+  "currentScanAt": "2026-09-13T01:06:24.899Z",
   "total": 305,
   "active": 287,
   "notDetected": 18,
-  "newSincePreviousScan": 4,
+  "newSincePreviousScan": 0,
   "manuallyRecovered": 5,
   "roles": [
     {
@@ -2090,7 +2090,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-11",
+      "verifiedAt": "2026-09-12",
       "status": "active"
     },
     {
@@ -3980,7 +3980,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-11",
+      "verifiedAt": "2026-09-12",
       "status": "active"
     },
     {
@@ -3994,7 +3994,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-11",
+      "verifiedAt": "2026-09-12",
       "status": "active"
     },
     {
@@ -4008,7 +4008,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-11",
+      "verifiedAt": "2026-09-12",
       "status": "active"
     },
     {
@@ -4022,7 +4022,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-11",
+      "verifiedAt": "2026-09-12",
       "status": "active"
     },
     {

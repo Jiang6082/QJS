@@ -1,4 +1,4 @@
-# Roles released 2026-08-22 → 2026-09-11 (134 with confirmed release dates)
+# Roles released 2026-08-23 → 2026-09-12 (134 with confirmed release dates)
 
 ## Barclays (25)
 - **2026-09-09** — [2027 Customer and Digital - Data and Analytics Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278) — Glasgow Campus

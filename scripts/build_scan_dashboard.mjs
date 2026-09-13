@@ -4,7 +4,8 @@ const quantReportPath = "data/new_quant_roles_since_last_run.json";
 const quantRawPath = "data/quant_internship_roles_scan_v2_raw.json";
 
 function rowLink(row) {
-  return `- **${row.Company}** - [${row.Title}](${row.URL}) - ${row.Location || "Location not listed"}`;
+  const location = String(row.Location || "").trim() || "Location not listed";
+  return `- **${row.Company}** - [${row.Title}](${row.URL}) - ${location}`;
 }
 
 function groupedRows(rows = []) {

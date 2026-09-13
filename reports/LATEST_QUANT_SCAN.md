@@ -1,14 +1,14 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-09-11T21:32:29.509Z
+Last updated: 2026-09-13T01:06:24.899Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 513
 - Current retained roles: 533
-- New stable job URLs since previous scan: 4
-- No longer present since previous scan: 2
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 3
 - Matching-role firms: 51
 - Confirmed no open postings: 3
 - Openings but no matching role: 40
@@ -16,12 +16,9 @@ Last updated: 2026-09-11T21:32:29.509Z
 
 ## New Roles Since Previous Scan
 
-### North America (4)
+### North America (0)
 
-- **DV Trading** - [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) - New York
-- **DV Trading** - [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) - New York
-- **DV Trading** - [Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) - New York
-- **Vanguard** - [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) - Malvern, PA
+_None._
 
 ### Europe (0)
 
@@ -57,8 +54,9 @@ _None._
 
 ## No Longer Present
 
-- **Fidelity Investments** - [Equity Research Associate Intern - Hong Kong (Summer 2027)](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/38F-One-International-Finance-Centre-Central-Hong-Kong/Equity-Research-Associate-Intern---Hong-Kong--Summer-2027-_2132214) - 38/F One International Finance Centre, Central Hong Kong
-- **Fidelity Investments** - [Equity Research Associate Intern Summer 2027 -Tokyo](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Tokyo-Japan/Equity-Research-Associate-Intern-Summer-2027--Tokyo_2132215) - Tokyo, Japan
+- **Akuna** - [Hardware Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) - Chicago, IL
+- **Susquehanna International Group** - [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10849?lang=en-us) - Chicago, Illinois
+- **Susquehanna International Group** - [Quantitative Trader Internship: Summer 2027](https://careers.sig.com/jobs/10717?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
 
 ## Full Reports
 

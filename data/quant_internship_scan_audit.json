@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-11T21:27:06.945Z",
+  "scannedAt": "2026-09-13T01:00:20.890Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -302,10 +302,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:alphataraxia",
-          "count": 1
+          "count": 0
         }
       ],
-      "jobsSeen": 1,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -839,14 +839,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:jumptrading",
-          "count": 106
+          "count": 107
         },
         {
           "source": "Ashby:jump",
           "count": 4
         }
       ],
-      "jobsSeen": 110,
+      "jobsSeen": 111,
       "relevantInternships": 29
     },
     {
@@ -1593,10 +1593,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:bluecrestcapitalmanagement",
-          "count": 9
+          "count": 10
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantInternships": 0
     },
     {

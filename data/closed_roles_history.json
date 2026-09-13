@@ -1,5 +1,38 @@
 [
   {
+    "Company": "Akuna",
+    "Title": "Hardware Engineer Intern, Summer 2027",
+    "Location": "Chicago, IL",
+    "Region": "North America",
+    "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+    "Source": "Greenhouse:akunacapital",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-11T21:32:29.509Z",
+    "detectedClosedAt": "2026-09-13T01:06:24.899Z"
+  },
+  {
+    "Company": "Susquehanna International Group",
+    "Title": "Quantitative Trader Internship: Summer 2027",
+    "Location": "Chicago, Illinois",
+    "Region": "North America",
+    "URL": "https://careers.sig.com/jobs/10849?lang=en-us",
+    "Source": "Official SIG jobs API",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-11T21:32:29.509Z",
+    "detectedClosedAt": "2026-09-13T01:06:24.899Z"
+  },
+  {
+    "Company": "Susquehanna International Group",
+    "Title": "Quantitative Trader Internship: Summer 2027",
+    "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "Region": "North America",
+    "URL": "https://careers.sig.com/jobs/10717?lang=en-us",
+    "Source": "Official SIG jobs API",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-11T21:32:29.509Z",
+    "detectedClosedAt": "2026-09-13T01:06:24.899Z"
+  },
+  {
     "Company": "Fidelity Investments",
     "Title": "Equity Research Associate Intern - Hong Kong (Summer 2027)",
     "Location": "38/F One International Finance Centre, Central Hong Kong",

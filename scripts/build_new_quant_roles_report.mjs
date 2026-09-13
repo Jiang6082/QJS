@@ -117,8 +117,8 @@ const legacyStablePath = ".scan-state/stable_roles.json";
 const roleMeta = (row) => ({
   Company: row.Company,
   Title: row.Title,
-  Location: row.Location || "",
-  Region: row.Region || regionForLocation(row.Location),
+  Location: String(row.Location || "").trim(),
+  Region: row.Region || regionForLocation(String(row.Location || "").trim()),
   URL: row.URL,
   Source: row.Source || "",
   Status: row.Status || "",
@@ -192,7 +192,11 @@ const closedHistoryPath = "data/closed_roles_history.json";
 let closedHistory = [];
 try {
   const parsed = JSON.parse(await fs.readFile(closedHistoryPath, "utf8"));
-  if (Array.isArray(parsed)) closedHistory = parsed.filter((row) => !isAggregatorLead(row));
+  if (Array.isArray(parsed)) {
+    closedHistory = parsed
+      .filter((row) => !isAggregatorLead(row))
+      .map((row) => ({ ...row, Location: String(row.Location || "").trim() }));
+  }
 } catch {}
 const closedByUrl = new Map(closedHistory.map((entry) => [stableUrl(entry.URL), entry]));
 
@@ -294,7 +298,8 @@ const closedMarkdown = [
     `### ${day} (${closedByDay.get(day).length})`,
     "",
     ...closedByDay.get(day).map((entry) => {
-      const loc = entry.Location ? ` - ${entry.Location}` : "";
+      const location = String(entry.Location || "").trim();
+      const loc = location ? ` - ${location}` : "";
       const reopened = entry.reopenedAt ? ` — _reopened ${calendarDate(entry.reopenedAt)}_` : "";
       return `- **${entry.Company}** - [${entry.Title}](${entry.URL})${loc}${reopened}`;
     }),

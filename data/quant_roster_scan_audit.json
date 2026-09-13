@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-11T21:37:46.096Z",
-  "scanStartedAt": "2026-09-11T21:32:29.509Z",
+  "generatedAt": "2026-09-13T01:11:42.870Z",
+  "scanStartedAt": "2026-09-13T01:06:24.899Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -519,14 +519,14 @@
       "sourceRosterNames": [
         "3Red Partners"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.3redpartners.com/careers/",
         "https://job-boards.greenhouse.io/3redpartners"
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 0,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 127,
+      "jobsSeen": 126,
       "relevantInternships": 3
     },
     {
@@ -1139,7 +1139,7 @@
         "https://fiveringsfinancial.com/join-our-team/",
         "https://fiverings.com/careers/"
       ],
-      "livePages": 3,
+      "livePages": 4,
       "attemptedPages": 4,
       "jobsSeen": 16,
       "relevantInternships": 2
@@ -1961,13 +1961,13 @@
       "sourceRosterNames": [
         "Epoch Capital"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://job-boards.greenhouse.io/epochcapital"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 1,
       "relevantInternships": 0
     },
     {
@@ -2231,7 +2231,7 @@
         "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7208381",
         "https://job-boards.greenhouse.io/mavensecuritiesholdingltd"
       ],
-      "livePages": 3,
+      "livePages": 4,
       "attemptedPages": 5,
       "jobsSeen": 46,
       "relevantInternships": 2
@@ -2288,7 +2288,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/nksecuritiesresearch?error=true"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 15,
       "relevantInternships": 0
@@ -2851,13 +2851,13 @@
       "sourceRosterNames": [
         "Midpoint Markets"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://job-boards.greenhouse.io/midpointmarkets/jobs/4408679008"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3132,7 +3132,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3541,13 +3541,13 @@
       "sourceRosterNames": [
         "Viking Global Investors"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://job-boards.greenhouse.io/vikingglobalinvestors?error=true"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3573,7 +3573,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/wil"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 3,
       "relevantInternships": 0
@@ -4105,7 +4105,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/transmarketgroup"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 19,
       "relevantInternships": 4
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 82,
+      "jobsSeen": 84,
       "relevantInternships": 0
     },
     {

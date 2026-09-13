@@ -2,7 +2,7 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-09-11 &nbsp;•&nbsp; **533 open roles** &nbsp;•&nbsp; **6 released today** &nbsp;•&nbsp; **134 opened in 3 weeks** &nbsp;•&nbsp; **82 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-09-12 &nbsp;•&nbsp; **533 open roles** &nbsp;•&nbsp; **0 released today** &nbsp;•&nbsp; **134 opened in 3 weeks** &nbsp;•&nbsp; **85 closed** ([history](reports/closed_roles_history.md))
 
 > **Cumulative application queue:** [305 unique roles tracked; 287 active](reports/cumulative_application_roles.md)
 
@@ -12,24 +12,15 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-09-11_
+_Scan date: 2026-09-12_
 
-**6** currently open roles with a confirmed source release date of 2026-09-11:
-
-**North America**
-
-- **Brevan Howard** — [2027 Summer Internship Program – Systematic Data Strategy, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596) — New York
-- **Brevan Howard** — [2027 Summer Internship Program – Systematic Execution Research, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595) — New York
-- **Brevan Howard** — [2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597) — New York
-- **DV Trading** — [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) — New York
-- **DV Trading** — [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) — New York
-- **DV Trading** — [Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) — New York
+_No currently open roles have a confirmed source release date of 2026-09-12._
 
 ---
 
 ## 🔥 Opened in the Last 3 Weeks
 
-_Official-source posting dates from 2026-08-22 through 2026-09-11. Only roles that are still present in the current scan are shown._
+_Official-source posting dates from 2026-08-23 through 2026-09-12. Only roles that are still present in the current scan are shown._
 
 <details>
 <summary><strong>2026-09-11</strong> — 6 roles</summary>
@@ -920,7 +911,7 @@ Run the portable workflow from a clean worktree. It copies the committed raw sca
 | [reports/current_quant_roles_not_in_tracker.md](reports/current_quant_roles_not_in_tracker.md) | Current roles absent from the older application tracker |
 | [reports/quant_roster_scan_audit.md](reports/quant_roster_scan_audit.md) | 303-firm roster split into confirmed vs. unverifiable states |
 | [reports/scan_validation.md](reports/scan_validation.md) | Portable baseline delta and integrity checks for the latest refresh |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (82 so far) |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (85 so far) |
 | [data/stable_quant_roles.json](data/stable_quant_roles.json) | Cross-device confirmed-present state for the two-scan closure guard |
 | [inputs/company_career_pages.json](inputs/company_career_pages.json) | Seeded career-page database |
 | [inputs/quant_firm_roster.json](inputs/quant_firm_roster.json) | Complete 303-entry firm list + canonical aliases |

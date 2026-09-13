@@ -1,65 +1,43 @@
 {
-  "generatedAt": "2026-09-11T21:37:46.237Z",
-  "previousScanAt": "2026-09-11T04:52:43.820Z",
-  "currentScanAt": "2026-09-11T21:32:29.509Z",
-  "previousRows": 532,
+  "generatedAt": "2026-09-13T01:13:33.188Z",
+  "previousScanAt": "2026-09-11T21:32:29.509Z",
+  "currentScanAt": "2026-09-13T01:06:24.899Z",
+  "previousRows": 533,
   "currentRows": 533,
-  "added": [
-    {
-      "Company": "DV Trading",
-      "Title": "Quantitative Research Intern - Summer 2027 (DV Equities)",
-      "Location": "New York",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005",
-      "Source": "Career page Greenhouse:dvtrading",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "DV Trading",
-      "Title": "Quantitative Trading Intern - Summer 2027 (DV Equities)",
-      "Location": "New York",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4702083005",
-      "Source": "Career page Greenhouse:dvtrading",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "DV Trading",
-      "Title": "Software Developer Intern - Summer 2027 (DV Equities)",
-      "Location": "New York",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005",
-      "Source": "Career page Greenhouse:dvtrading",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Vanguard",
-      "Title": "College to Corporate IT Internship - Risk & Security - Engineer  (PA)",
-      "Location": "Malvern, PA",
-      "Region": "North America",
-      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1",
-      "Source": "Career page Workday:vanguard/vanguard_external",
-      "Status": "Confirmed official posting"
-    }
-  ],
+  "added": [],
   "removed": [
     {
-      "Company": "Fidelity Investments",
-      "Title": "Equity Research Associate Intern - Hong Kong (Summer 2027)",
-      "Location": "38/F One International Finance Centre, Central Hong Kong",
-      "Region": "Asia",
-      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/38F-One-International-Finance-Centre-Central-Hong-Kong/Equity-Research-Associate-Intern---Hong-Kong--Summer-2027-_2132214",
-      "Source": "Career page Workday:fmr/fidelitycareers",
-      "Status": "Confirmed official posting"
+      "Company": "Akuna",
+      "Title": "Hardware Engineer Intern, Summer 2027",
+      "Location": "Chicago, IL",
+      "Region": "North America",
+      "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+      "Source": "Greenhouse:akunacapital",
+      "Status": "Confirmed official posting",
+      "lastSeenOpenAt": "2026-09-11T21:32:29.509Z",
+      "detectedClosedAt": "2026-09-13T01:06:24.899Z"
     },
     {
-      "Company": "Fidelity Investments",
-      "Title": "Equity Research Associate Intern Summer 2027 -Tokyo",
-      "Location": "Tokyo, Japan",
-      "Region": "Asia",
-      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Tokyo-Japan/Equity-Research-Associate-Intern-Summer-2027--Tokyo_2132215",
-      "Source": "Career page Workday:fmr/fidelitycareers",
-      "Status": "Confirmed official posting"
+      "Company": "Susquehanna International Group",
+      "Title": "Quantitative Trader Internship: Summer 2027",
+      "Location": "Chicago, Illinois",
+      "Region": "North America",
+      "URL": "https://careers.sig.com/jobs/10849?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "lastSeenOpenAt": "2026-09-11T21:32:29.509Z",
+      "detectedClosedAt": "2026-09-13T01:06:24.899Z"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Quantitative Trader Internship: Summer 2027",
+      "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+      "Region": "North America",
+      "URL": "https://careers.sig.com/jobs/10717?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "lastSeenOpenAt": "2026-09-11T21:32:29.509Z",
+      "detectedClosedAt": "2026-09-13T01:06:24.899Z"
     }
   ]
 }
