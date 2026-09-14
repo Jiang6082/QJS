@@ -1,80 +1,50 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-09-13T04:40:14.158Z
+Last updated: 2026-09-14T19:38:05.061Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 513
-- Current retained roles: 541
-- New stable job URLs since previous scan: 40
-- No longer present since previous scan: 0
-- Missing without enough closure evidence: 32
+- Current retained roles: 548
+- New stable job URLs since previous scan: 9
+- No longer present since previous scan: 1
+- Missing without enough closure evidence: 33
 - Matching-role firms: 48
 - Confirmed no open postings: 3
-- Openings but no matching role: 37
-- Could not fully verify: 216
+- Openings but no matching role: 36
+- Could not fully verify: 217
 
 ## New Roles Since Previous Scan
 
-### North America (8)
+### North America (4)
 
-- **Goldman Sachs** - [2027 | Americas | Dallas Metro Area | Internal Audit, Technology Audit | Summer Analyst](https://higher.gs.com/roles/170724) - Dallas, TX, United States
-- **Goldman Sachs** - [2027 | Americas | Dallas Metro Area | Risk | Summer Analyst](https://higher.gs.com/roles/164006) - Dallas, TX, United States
-- **Goldman Sachs** - [2027 | Americas | New York City Area | Internal Audit, Technology Audit | Summer Analyst](https://higher.gs.com/roles/170695) - New York, NY, United States
-- **Goldman Sachs** - [2027 | Americas | Salt Lake City | Internal Audit, Technology Audit | Summer Analyst](https://higher.gs.com/roles/170698) - Salt Lake City, UT, United States
-- **Goldman Sachs** - [2027 | Americas | Salt Lake City | Risk | Summer Analyst](https://higher.gs.com/roles/164007) - Salt Lake City, UT, United States
-- **Goldman Sachs** - [2027 I Americas I New York City Area I Global Investment Research, Equity Research I Summer Associate](https://higher.gs.com/roles/184069) - New York, NY, United States
-- **Point72** - [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002) - New York
-- **Susquehanna International Group** - [Technology Co-op with Drexel University](https://careers.sig.com/jobs/11422?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **BMO Capital Markets** - [Portfolio Assistant, Winter 2027 (Co-op/Internship), Montreal - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Portfolio-Assistant--Winter-2027--Co-op-Internship---Montreal---4-months_R260025949-2) - MONTREAL, QC, CAN
+- **BMO Capital Markets** - [Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3) - Toronto, ON, CAN
+- **Brevan Howard** - [2027 Summer Internship Program – AI & Quantitative Analyst, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) - New York
+- **Hudson River Trading** - [Women in Trading and Technology Internship (WiTTI) – Winter 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637) - New York, NY, United States
 
-### Europe (14)
+### Europe (3)
 
-- **Goldman Sachs** - [2027 | EMEA | London | Asset Management, Infrastructure Private Equity | Seasonal/Off-Cycle](https://higher.gs.com/roles/183954) - London, Greater London, England, United Kingdom
-- **Goldman Sachs** - [2027 | EMEA | London | FICC & Equities (Sales & Trading) | Seasonal/OffCycle](https://higher.gs.com/roles/171437) - London, Greater London, England, United Kingdom
-- **Goldman Sachs** - [2027 | EMEA | London | FICC & Equities (Sales & Trading) | Summer Analyst](https://higher.gs.com/roles/170675) - London, Greater London, England, United Kingdom
-- **Goldman Sachs** - [2027 | EMEA | London | Global Investment Research | Macro Research, Commodities | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170874) - London, Greater London, England, United Kingdom
-- **Goldman Sachs** - [2027 | EMEA | London | Global Investment Research | Macro Research, Economics | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170880) - London, Greater London, England, United Kingdom
-- **Goldman Sachs** - [2027 | EMEA | London | Global Investment Research | Macro Research, Portfolio Strategy | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170877) - London, Greater London, England, United Kingdom
-- **Goldman Sachs** - [2027 | EMEA | London | Global Investment Research, Equity Research | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170901) - London, Greater London, England, United Kingdom
-- **Goldman Sachs** - [2027 | EMEA | London | Global Investment Research, Equity Research | Summer Analyst](https://higher.gs.com/roles/170863) - London, Greater London, England, United Kingdom
-- **Goldman Sachs** - [2027 | EMEA | London | Risk | Summer Analyst](https://higher.gs.com/roles/172894) - London, Greater London, England, United Kingdom
-- **Goldman Sachs** - [2027 | EMEA | Paris | FICC & Equities (Sales & Trading) | Seasonal/OffCycle](https://higher.gs.com/roles/171438) - Paris, Ile-de-France, France
-- **Goldman Sachs** - [2027 | EMEA | Paris | FICC & Equities (Sales & Trading) | Summer Analyst](https://higher.gs.com/roles/170676) - Paris, Ile-de-France, France
-- **Goldman Sachs** - [2027 | EMEA | Warsaw | Risk | Summer Analyst](https://higher.gs.com/roles/170171) - Warsaw, Mazowieckie, Poland
-- **Qube Research & Technologies** - [2027 - Internship, Data Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002) - Paris, London
-- **Tower Research Capital** - [Business Analytics Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8041512) - Amsterdam
+- **Fidelity Investments** - [Summer 2027 Equity Research Associate Intern - London](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1) - London, Great Britain
+- **PGIM** - [PGIM | Intern, Real Estate Private Equity Portfolio Management (all genders) as of Q1 2027, Based in Frankfurt](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1) - Frankfurt, Germany
+- **PIMCO** - [2027 Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805) - London, GBR
 
-### Asia (16)
+### Asia (0)
 
-- **Goldman Sachs** - [2026 | Japan | Tokyo | Global Investment Research | Seasonal / Off-cycle](https://higher.gs.com/roles/161037) - Tokyo, Japan
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169893) - Hong Kong, Hong Kong
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170819) - Hong Kong, Hong Kong
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Global Investment Research, Consumer | Seasonal / Off-cycle Internship](https://higher.gs.com/roles/179947) - Hong Kong, Hong Kong
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Global Investment Research, Macro Research, Economics | Seasonal / Off-cycle Internship](https://higher.gs.com/roles/180086) - Hong Kong, Hong Kong
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Risk, Credit Risk | Summer Analyst](https://higher.gs.com/roles/170824) - Hong Kong, Hong Kong
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Risk, Market Risk | Summer Analyst](https://higher.gs.com/roles/170823) - Hong Kong, Hong Kong
-- **Goldman Sachs** - [2027 | APEJ | Mumbai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/183942) - Mumbai, Maharashtra, India
-- **Goldman Sachs** - [2027 | APEJ | Seoul | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169895) - Seoul, Seoul, Korea, Republic of
-- **Goldman Sachs** - [2027 | APEJ | Shanghai | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/170827) - Shanghai, Shanghai, China
-- **Goldman Sachs** - [2027 | APEJ | Shanghai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170820) - Shanghai, Shanghai, China
-- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169894) - Singapore
-- **Goldman Sachs** - [2027 | APEJ | Singapore | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170822) - Singapore
-- **Goldman Sachs** - [2027 | APEJ | Singapore | Internal Audit, Technology Audit | Summer Analyst](https://higher.gs.com/roles/170764) - Singapore
-- **Goldman Sachs** - [2027 | Japan | Tokyo | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170821) - Tokyo, Japan
-- **Optiver** - [2027 Shanghai Performance Researcher Summer Internship](https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002) - Shanghai, China
+_None._
 
-### Oceania (1)
+### Oceania (0)
 
-- **Goldman Sachs** - [2027 | APEJ | Sydney | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/155759) - Sydney, NSW, Australia
+_None._
 
 ### Middle East (0)
 
 _None._
 
-### South America (1)
+### South America (0)
 
-- **Goldman Sachs** - [2027 | Americas | Sao Paulo | Global Investment Research | Seasonal/Off Cycle Internship](https://higher.gs.com/roles/182548) - Sao Paulo, Sao Paulo, Brazil
+_None._
 
 ### Africa (0)
 
@@ -84,13 +54,14 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (2)
 
-_None._
+- **Balyasny Asset Management** - [Software Engineer – Physical Commodities Teams (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Software-Engineer---Physical-Commodities-Teams--Summer-Internship-_REQ8596) - Aalborg
+- **BMO Capital Markets** - [R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726) - Brossard, QC, CAN
 
 ## No Longer Present
 
-_None._
+- **Vatic Investments** - [AI Research Internship (UAE)](https://job-boards.greenhouse.io/vaticlabs/jobs/7268318) - Abu Dhabi
 
 ## Full Reports
 

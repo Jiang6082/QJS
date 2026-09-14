@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-13T04:39:52.936Z",
+  "scannedAt": "2026-09-14T19:37:26.859Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -182,11 +182,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:janestreet",
-          "count": 230
+          "count": 229
         },
         {
           "source": "Ashby:jane",
-          "count": 27
+          "count": 28
         }
       ],
       "jobsSeen": 257,
@@ -209,14 +209,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:point72",
-          "count": 229
+          "count": 230
         },
         {
           "source": "Ashby:point",
           "count": 0
         }
       ],
-      "jobsSeen": 229,
+      "jobsSeen": 230,
       "relevantInternships": 7
     },
     {
@@ -224,26 +224,21 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 77
+          "count": 78
         },
         {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 77,
-      "relevantInternships": 3
+      "jobsSeen": 78,
+      "relevantInternships": 4
     },
     {
       "company": "Five Rings",
-      "resolvedBoards": [
-        {
-          "source": "Greenhouse:fiveringsllc",
-          "count": 16
-        }
-      ],
-      "jobsSeen": 16,
-      "relevantInternships": 2
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Arrowstreet",
@@ -446,13 +441,8 @@
     },
     {
       "company": "Capital Fund Management",
-      "resolvedBoards": [
-        {
-          "source": "Lever:capital",
-          "count": 40
-        }
-      ],
-      "jobsSeen": 40,
+      "resolvedBoards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -460,10 +450,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 40
+          "count": 41
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 41,
       "relevantInternships": 0
     },
     {
@@ -647,11 +637,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:exoduspoint",
-          "count": 2
+          "count": 3
         }
       ],
-      "jobsSeen": 2,
-      "relevantInternships": 0
+      "jobsSeen": 3,
+      "relevantInternships": 1
     },
     {
       "company": "Florin Court Capital",
@@ -664,10 +654,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 41
+          "count": 42
         }
       ],
-      "jobsSeen": 41,
+      "jobsSeen": 42,
       "relevantInternships": 1
     },
     {
@@ -795,25 +785,25 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 77
+          "count": 78
         },
         {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 77,
-      "relevantInternships": 3
+      "jobsSeen": 78,
+      "relevantInternships": 4
     },
     {
       "company": "IMC Financial Markets",
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 171
+          "count": 173
         }
       ],
-      "jobsSeen": 171,
+      "jobsSeen": 173,
       "relevantInternships": 16
     },
     {
@@ -839,14 +829,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:jumptrading",
-          "count": 107
+          "count": 108
         },
         {
           "source": "Ashby:jump",
           "count": 4
         }
       ],
-      "jobsSeen": 111,
+      "jobsSeen": 112,
       "relevantInternships": 29
     },
     {
@@ -906,10 +896,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 53
+          "count": 51
         }
       ],
-      "jobsSeen": 53,
+      "jobsSeen": 51,
       "relevantInternships": 1
     },
     {
@@ -988,14 +978,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 164
+          "count": 161
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 164,
+      "jobsSeen": 161,
       "relevantInternships": 20
     },
     {
@@ -1119,10 +1109,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 198
+          "count": 200
         }
       ],
-      "jobsSeen": 198,
+      "jobsSeen": 200,
       "relevantInternships": 8
     },
     {
@@ -1166,10 +1156,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:schonfeld",
-          "count": 71
+          "count": 72
         }
       ],
-      "jobsSeen": 71,
+      "jobsSeen": 72,
       "relevantInternships": 5
     },
     {
@@ -1201,10 +1191,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 93
+          "count": 95
         }
       ],
-      "jobsSeen": 93,
+      "jobsSeen": 95,
       "relevantInternships": 4
     },
     {
@@ -1294,10 +1284,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:towerresearchcapital",
-          "count": 86
+          "count": 87
         }
       ],
-      "jobsSeen": 86,
+      "jobsSeen": 87,
       "relevantInternships": 9
     },
     {
@@ -1604,10 +1594,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:davinciderivatives",
-          "count": 13
+          "count": 14
         }
       ],
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantInternships": 1
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T04:40:14.158Z",
+  "updatedAt": "2026-09-14T19:38:05.061Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -3894,6 +3894,60 @@
       "first_seen": "2026-09-13",
       "date": "2026-07-03",
       "evidence": "employer_field"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineer---Physical-Commodities-Teams--Summer-Internship-_REQ8596": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineer---Physical-Commodities-Teams--Summer-Internship-_REQ8596",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260025949|portfolio assistant, winter 2027 (co-op/internship), montreal - 4 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Portfolio-Assistant--Winter-2027--Co-op-Internship---Montreal---4-months_R260025949-2",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260026715|quantitative developer (alpha research team) - gam, summer 2027 (co-op/internship) - 12 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260026726|r260025949 portfolio assistant, winter 2027 (co-op/internship), brossard - 4 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "brevanhoward|JR101602|2027 summer internship program – ai & quantitative analyst, new york": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "fmr|2129754|summer 2027 equity research associate intern - london": {
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "https://www.hudsonrivertrading.com/careers/job?gh_jid=8188637": {
+      "URL": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_field"
+    },
+    "pru|R-125016|pgim | intern, real estate private equity portfolio management (all genders) as of q1 2027, based in frankfurt": {
+      "URL": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "pimco|R106805|2027 summer intern - credit research analyst, emea": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
     }
   }
 }

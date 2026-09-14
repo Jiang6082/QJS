@@ -1,9 +1,13 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 85
-Last updated: 2026-09-13T04:40:14.158Z
+Total closure events recorded: 86
+Last updated: 2026-09-14T19:38:05.061Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-09-14 (1)
+
+- **Vatic Investments** - [AI Research Internship (UAE)](https://job-boards.greenhouse.io/vaticlabs/jobs/7268318) - Abu Dhabi
 
 ### 2026-09-12 (3)
 

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-13T04:45:25.647Z",
-  "scanStartedAt": "2026-09-13T04:40:14.158Z",
+  "generatedAt": "2026-09-14T19:44:16.817Z",
+  "scanStartedAt": "2026-09-14T19:38:05.061Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
     "matching-role-found": 48,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 37,
-    "could-not-fully-verify": 216
+    "confirmed-openings-no-matching-role": 36,
+    "could-not-fully-verify": 217
   },
   "companies": [
     {
@@ -74,7 +74,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 16,
+      "jobsSeen": 15,
       "relevantInternships": 1
     },
     {
@@ -170,7 +170,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 4,
+      "jobsSeen": 6,
       "relevantInternships": 0
     },
     {
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 54,
+      "jobsSeen": 55,
       "relevantInternships": 10
     },
     {
@@ -427,8 +427,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 19,
-      "relevantInternships": 8
+      "jobsSeen": 22,
+      "relevantInternships": 9
     },
     {
       "company": "Campbell and Company",
@@ -684,7 +684,7 @@
       "sourceRosterNames": [
         "Capital Fund Management (CFM)"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.cfm.com/join-us/"
       ],
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 175,
+      "jobsSeen": 174,
       "relevantInternships": 16
     },
     {
@@ -946,7 +946,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -970,9 +970,9 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/clearstreet?gh_src=bdd2c3261"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 31,
+      "jobsSeen": 32,
       "relevantInternships": 0
     },
     {
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 229,
+      "jobsSeen": 230,
       "relevantInternships": 10
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 126,
+      "jobsSeen": 128,
       "relevantInternships": 3
     },
     {
@@ -1124,7 +1124,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 2,
+      "jobsSeen": 3,
       "relevantInternships": 0
     },
     {
@@ -1240,8 +1240,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 80,
-      "relevantInternships": 4
+      "jobsSeen": 81,
+      "relevantInternships": 5
     },
     {
       "company": "IV Capital",
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 230,
+      "jobsSeen": 229,
       "relevantInternships": 0
     },
     {
@@ -1434,7 +1434,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 41,
+      "jobsSeen": 42,
       "relevantInternships": 1
     },
     {
@@ -1664,7 +1664,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 39,
+      "jobsSeen": 42,
       "relevantInternships": 0
     },
     {
@@ -1733,7 +1733,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -2083,7 +2083,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 36,
+      "jobsSeen": 33,
       "relevantInternships": 1
     },
     {
@@ -2113,7 +2113,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 171,
+      "jobsSeen": 173,
       "relevantInternships": 17
     },
     {
@@ -2472,7 +2472,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 71,
+      "jobsSeen": 72,
       "relevantInternships": 11
     },
     {
@@ -2685,7 +2685,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/quadraturecapital?error=true"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 4,
       "relevantInternships": 0
@@ -3132,7 +3132,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3692,7 +3692,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 55,
+      "jobsSeen": 57,
       "relevantInternships": 0
     },
     {
@@ -3750,8 +3750,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
-      "relevantInternships": 1
+      "jobsSeen": 8,
+      "relevantInternships": 0
     },
     {
       "company": "Vitol",
@@ -3888,7 +3888,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 86,
+      "jobsSeen": 87,
       "relevantInternships": 11
     },
     {
@@ -3947,7 +3947,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 32,
+      "jobsSeen": 33,
       "relevantInternships": 1
     },
     {
@@ -3977,7 +3977,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantInternships": 2
     },
     {
@@ -4105,7 +4105,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/transmarketgroup"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 19,
       "relevantInternships": 4
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 84,
+      "jobsSeen": 86,
       "relevantInternships": 0
     },
     {
