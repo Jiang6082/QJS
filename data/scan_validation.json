@@ -1,0 +1,260 @@
+{
+  "generatedAt": "2026-09-14T19:44:18.152Z",
+  "scanDate": "2026-09-14",
+  "baselineCommit": "16564f9dc544c759dfa6d35c89212c6c7a970fbf",
+  "baselineScanAt": "2026-09-13T04:40:14.158Z",
+  "currentScanAt": "2026-09-14T19:38:05.061Z",
+  "status": "passed",
+  "baselineRows": 541,
+  "currentRows": 548,
+  "exactAdded": [
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Software Engineer – Physical Commodities Teams (Summer Internship)",
+      "Department": "Investment Professionals",
+      "Location": "Aalborg",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineer---Physical-Commodities-Teams--Summer-Internship-_REQ8596",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted Today | requisition=REQ8596 | department=Investment Professionals | experience=Internships",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "Portfolio Assistant, Winter 2027 (Co-op/Internship), Montreal - 4 months",
+      "Department": "",
+      "Location": "MONTREAL, QC, CAN",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Portfolio-Assistant--Winter-2027--Co-op-Internship---Montreal---4-months_R260025949-2",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260025949",
+      "Region": "North America"
+    },
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+      "Department": "",
+      "Location": "Toronto, ON, CAN",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260026715",
+      "Region": "North America"
+    },
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months",
+      "Department": "",
+      "Location": "Brossard, QC, CAN",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260026726",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Brevan Howard",
+      "Title": "2027 Summer Internship Program – AI & Quantitative Analyst, New York",
+      "Department": "",
+      "Location": "New York",
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
+      "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted Today | JR101602",
+      "Region": "North America"
+    },
+    {
+      "Company": "Fidelity Investments",
+      "Title": "Summer 2027 Equity Research Associate Intern - London",
+      "Department": "",
+      "Location": "London, Great Britain",
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1",
+      "Source": "Career page Workday:fmr/fidelitycareers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://fmr.wd1.myworkdayjobs.com/fidelitycareers/ | Posted Today | 2129754",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Hudson River Trading",
+      "Title": "Women in Trading and Technology Internship (WiTTI) – Winter 2027",
+      "Department": "Trading Tech",
+      "Location": "New York, NY, United States",
+      "URL": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637",
+      "Source": "Career page Greenhouse:wehrtyou",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-09-14T09:55:26-04:00 | career_page=https://www.hudsonrivertrading.com/careers/ | company_wrapper=https://www.hudsonrivertrading.com/careers/job?gh_jid=8188637 | internship timing: Winter 2027; graduation eligibility mentions: 2028, 2030 | The application deadline for this position is October 16, 2026. At Hudson River Trading (HRT), we believe that by celebrating our differences and fostering a sense of belonging, we will drive innovation, enhance decision-making, and build the future of trading — together. HRT is committed to creating a space where all individuals, including women+ and non-binary students, can thrive. We are therefore thrilled to provide a focused internship experience for students interested in the work we do. People of all identities are welcome to apply. Our Women in Trading and Technology Internship (WiTTI) is a 2-4 week exploration into quantitative trad...",
+      "Region": "North America"
+    },
+    {
+      "Company": "PGIM",
+      "Title": "PGIM | Intern, Real Estate Private Equity Portfolio Management (all genders) as of Q1 2027, Based in Frankfurt",
+      "Department": "",
+      "Location": "Frankfurt, Germany",
+      "URL": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1",
+      "Source": "Career page Workday:pru/PGIM_Careers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://pru.wd5.myworkdayjobs.com/PGIM_Careers | Posted Today | R-125016",
+      "Region": "Europe"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Credit Research Analyst, EMEA",
+      "Department": "",
+      "Location": "London, GBR",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted Today | R106805",
+      "Region": "Europe"
+    }
+  ],
+  "exactRemoved": [
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)",
+      "Location": "Toronto, ON, CAN",
+      "Region": "North America",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting",
+      "Notes": "revalidated_from_previous_scan=true"
+    },
+    {
+      "Company": "Vatic Investments",
+      "Title": "AI Research Internship (UAE)",
+      "Department": "Campus Recruiting",
+      "Location": "Abu Dhabi",
+      "URL": "https://job-boards.greenhouse.io/vaticlabs/jobs/7268318",
+      "Source": "Career page Greenhouse:vaticlabs",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2025-09-22T12:41:17-04:00 | career_page=https://www.vaticlabs.ai/careers/ | company_wrapper=https://www.vaticlabs.ai/careers/job?gh_jid=7268318 | internship timing not stated in title | Vatic Labs is a quantitative trading firm in New York and Abu Dhabi. Our traders, AI researchers, and technologists collaborate to develop autonomous trading agents and cutting edge technology. As an AI Research Intern at Vatic Labs, you will contribute to the research and development of fully autonomous trading agents with some of the brightest researchers, traders, and technologists in the world. As a part of your internship at Vatic Labs, you will explore vast amounts of market data, research different AI approaches, apply cutting edge machine learning algorithms and statistical approaches to this data to discover and capitalize on trading opportunities. We are seeking researchers who have demon...",
+      "Region": "Middle East"
+    }
+  ],
+  "reportedAdded": [
+    {
+      "Company": "Balyasny Asset Management",
+      "Title": "Software Engineer – Physical Commodities Teams (Summer Internship)",
+      "Department": "Investment Professionals",
+      "Location": "Aalborg",
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineer---Physical-Commodities-Teams--Summer-Internship-_REQ8596",
+      "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted Today | requisition=REQ8596 | department=Investment Professionals | experience=Internships",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "Portfolio Assistant, Winter 2027 (Co-op/Internship), Montreal - 4 months",
+      "Department": "",
+      "Location": "MONTREAL, QC, CAN",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Portfolio-Assistant--Winter-2027--Co-op-Internship---Montreal---4-months_R260025949-2",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260025949",
+      "Region": "North America"
+    },
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+      "Department": "",
+      "Location": "Toronto, ON, CAN",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260026715",
+      "Region": "North America"
+    },
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months",
+      "Department": "",
+      "Location": "Brossard, QC, CAN",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260026726",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Brevan Howard",
+      "Title": "2027 Summer Internship Program – AI & Quantitative Analyst, New York",
+      "Department": "",
+      "Location": "New York",
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
+      "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted Today | JR101602",
+      "Region": "North America"
+    },
+    {
+      "Company": "Fidelity Investments",
+      "Title": "Summer 2027 Equity Research Associate Intern - London",
+      "Department": "",
+      "Location": "London, Great Britain",
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1",
+      "Source": "Career page Workday:fmr/fidelitycareers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://fmr.wd1.myworkdayjobs.com/fidelitycareers/ | Posted Today | 2129754",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Hudson River Trading",
+      "Title": "Women in Trading and Technology Internship (WiTTI) – Winter 2027",
+      "Department": "Trading Tech",
+      "Location": "New York, NY, United States",
+      "URL": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637",
+      "Source": "Career page Greenhouse:wehrtyou",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-09-14T09:55:26-04:00 | career_page=https://www.hudsonrivertrading.com/careers/ | company_wrapper=https://www.hudsonrivertrading.com/careers/job?gh_jid=8188637 | internship timing: Winter 2027; graduation eligibility mentions: 2028, 2030 | The application deadline for this position is October 16, 2026. At Hudson River Trading (HRT), we believe that by celebrating our differences and fostering a sense of belonging, we will drive innovation, enhance decision-making, and build the future of trading — together. HRT is committed to creating a space where all individuals, including women+ and non-binary students, can thrive. We are therefore thrilled to provide a focused internship experience for students interested in the work we do. People of all identities are welcome to apply. Our Women in Trading and Technology Internship (WiTTI) is a 2-4 week exploration into quantitative trad...",
+      "Region": "North America"
+    },
+    {
+      "Company": "PGIM",
+      "Title": "PGIM | Intern, Real Estate Private Equity Portfolio Management (all genders) as of Q1 2027, Based in Frankfurt",
+      "Department": "",
+      "Location": "Frankfurt, Germany",
+      "URL": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1",
+      "Source": "Career page Workday:pru/PGIM_Careers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://pru.wd5.myworkdayjobs.com/PGIM_Careers | Posted Today | R-125016",
+      "Region": "Europe"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 Summer Intern - Credit Research Analyst, EMEA",
+      "Department": "",
+      "Location": "London, GBR",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted Today | R106805",
+      "Region": "Europe"
+    }
+  ],
+  "reportedRemoved": [
+    {
+      "Company": "Vatic Investments",
+      "Title": "AI Research Internship (UAE)",
+      "Location": "Abu Dhabi",
+      "Region": "Middle East",
+      "URL": "https://job-boards.greenhouse.io/vaticlabs/jobs/7268318",
+      "Source": "Career page Greenhouse:vaticlabs",
+      "Status": "Confirmed official posting",
+      "Department": "Campus Recruiting",
+      "Notes": "posted=2025-09-22T12:41:17-04:00 | career_page=https://www.vaticlabs.ai/careers/ | company_wrapper=https://www.vaticlabs.ai/careers/job?gh_jid=7268318 | internship timing not stated in title | Vatic Labs is a quantitative trading firm in New York and Abu Dhabi. Our traders, AI researchers, and technologists collaborate to develop autonomous trading agents and cutting edge technology. As an AI Research Intern at Vatic Labs, you will contribute to the research and development of fully autonomous trading agents with some of the brightest researchers, traders, and technologists in the world. As a part of your internship at Vatic Labs, you will explore vast amounts of market data, research different AI approaches, apply cutting edge machine learning algorithms and statistical approaches to this data to discover and capitalize on trading opportunities. We are seeking researchers who have demon...",
+      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z",
+      "lastSeenEvidence": "recorded_scan",
+      "detectedClosedAt": "2026-09-14T19:38:05.061Z"
+    }
+  ],
+  "pendingAbsences": 33,
+  "passDifference": 3,
+  "rollingDated": 141,
+  "rollingUndated": 5,
+  "cumulativeTotal": 354,
+  "cumulativeActive": 335,
+  "cumulativeNotDetected": 19,
+  "manuallyVerifiedToday": 5,
+  "failures": []
+}

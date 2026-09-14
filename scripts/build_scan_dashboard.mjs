@@ -4,7 +4,8 @@ const quantReportPath = "data/new_quant_roles_since_last_run.json";
 const quantRawPath = "data/quant_internship_roles_scan_v2_raw.json";
 
 function rowLink(row) {
-  return `- **${row.Company}** - [${row.Title}](${row.URL}) - ${row.Location || "Location not listed"}`;
+  const location = String(row.Location || "").trim() || "Location not listed";
+  return `- **${row.Company}** - [${row.Title}](${row.URL}) - ${location}`;
 }
 
 function groupedRows(rows = []) {
@@ -67,6 +68,7 @@ const lines = [
   `- Current retained roles: ${report.currentRows || (raw.rows || []).length}`,
   `- New stable job URLs since previous scan: ${(report.added || []).length}`,
   `- No longer present since previous scan: ${(report.removed || []).length}`,
+  `- Missing without enough closure evidence: ${(report.pending || []).length}`,
   `- Matching-role firms: ${auditCounts["matching-role-found"] ?? "unknown"}`,
   `- Confirmed no open postings: ${auditCounts["confirmed-no-open-postings"] ?? "unknown"}`,
   `- Openings but no matching role: ${auditCounts["confirmed-openings-no-matching-role"] ?? "unknown"}`,

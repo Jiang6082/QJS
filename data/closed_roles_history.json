@@ -1,36 +1,551 @@
 [
   {
-    "Company": "Quant Matter",
-    "Title": "2027 Quantitative Research - Risk and Treasury - Summer Internship ...",
-    "Location": "",
-    "Region": "Remote / Unspecified",
-    "URL": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978",
-    "Source": "Web-discovered lead",
-    "Status": "Aggregator/web lead; verify on official site",
-    "lastSeenOpenAt": "2026-08-15T20:19:54.951Z",
-    "detectedClosedAt": "2026-08-16T14:55:30.101Z"
+    "Company": "Vatic Investments",
+    "Title": "AI Research Internship (UAE)",
+    "Location": "Abu Dhabi",
+    "Region": "Middle East",
+    "URL": "https://job-boards.greenhouse.io/vaticlabs/jobs/7268318",
+    "Source": "Career page Greenhouse:vaticlabs",
+    "Status": "Confirmed official posting",
+    "Department": "Campus Recruiting",
+    "Notes": "posted=2025-09-22T12:41:17-04:00 | career_page=https://www.vaticlabs.ai/careers/ | company_wrapper=https://www.vaticlabs.ai/careers/job?gh_jid=7268318 | internship timing not stated in title | Vatic Labs is a quantitative trading firm in New York and Abu Dhabi. Our traders, AI researchers, and technologists collaborate to develop autonomous trading agents and cutting edge technology. As an AI Research Intern at Vatic Labs, you will contribute to the research and development of fully autonomous trading agents with some of the brightest researchers, traders, and technologists in the world. As a part of your internship at Vatic Labs, you will explore vast amounts of market data, research different AI approaches, apply cutting edge machine learning algorithms and statistical approaches to this data to discover and capitalize on trading opportunities. We are seeking researchers who have demon...",
+    "lastSeenOpenAt": "2026-09-13T04:40:14.158Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-14T19:38:05.061Z"
   },
   {
-    "Company": "Quant Matter",
-    "Title": "Five Rings Summer Intern 2027 Quantitative Trader Internship in New ...",
-    "Location": "",
-    "Region": "Remote / Unspecified",
-    "URL": "https://opportunitiesforyouth.org/2026/07/27/five-rings-summer-intern-2027-quantitative-trader-internship-in-new-york-300000-annualized-salary-sign-on-bonus-corporate-housing/",
-    "Source": "Web-discovered lead",
-    "Status": "Aggregator/web lead; verify on official site",
-    "lastSeenOpenAt": "2026-08-15T20:19:54.951Z",
-    "detectedClosedAt": "2026-08-16T14:55:30.101Z"
+    "Company": "Akuna",
+    "Title": "Hardware Engineer Intern, Summer 2027",
+    "Location": "Chicago, IL",
+    "Region": "North America",
+    "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+    "Source": "Greenhouse:akunacapital",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-11T04:52:43.820Z",
+    "detectedClosedAt": "2026-09-13T01:06:24.899Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
-    "Company": "Quant Matter",
-    "Title": "Quantitative Trading Intern Summer 2027 - Flow Traders",
-    "Location": "",
+    "Company": "Susquehanna International Group",
+    "Title": "Quantitative Trader Internship: Summer 2027",
+    "Location": "Chicago, Illinois",
+    "Region": "North America",
+    "URL": "https://careers.sig.com/jobs/10849?lang=en-us",
+    "Source": "Official SIG jobs API",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-11T04:52:43.820Z",
+    "detectedClosedAt": "2026-09-13T01:06:24.899Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Susquehanna International Group",
+    "Title": "Quantitative Trader Internship: Summer 2027",
+    "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "Region": "North America",
+    "URL": "https://careers.sig.com/jobs/10717?lang=en-us",
+    "Source": "Official SIG jobs API",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-11T04:52:43.820Z",
+    "detectedClosedAt": "2026-09-13T01:06:24.899Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Fidelity Investments",
+    "Title": "Equity Research Associate Intern - Hong Kong (Summer 2027)",
+    "Location": "38/F One International Finance Centre, Central Hong Kong",
+    "Region": "Asia",
+    "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/38F-One-International-Finance-Centre-Central-Hong-Kong/Equity-Research-Associate-Intern---Hong-Kong--Summer-2027-_2132214",
+    "Source": "Career page Workday:fmr/fidelitycareers",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-10T14:14:51.943Z",
+    "detectedClosedAt": "2026-09-11T21:32:29.509Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Fidelity Investments",
+    "Title": "Equity Research Associate Intern Summer 2027 -Tokyo",
+    "Location": "Tokyo, Japan",
+    "Region": "Asia",
+    "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Tokyo-Japan/Equity-Research-Associate-Intern-Summer-2027--Tokyo_2132215",
+    "Source": "Career page Workday:fmr/fidelitycareers",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-10T14:14:51.943Z",
+    "detectedClosedAt": "2026-09-11T21:32:29.509Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "D. E. Shaw",
+    "Title": "Trader/Analyst Intern (London) – Summer 2027",
+    "Location": "London",
+    "Region": "Europe",
+    "URL": "https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2027-5862",
+    "Source": "Official D. E. Shaw internships page",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-09T23:26:20.538Z",
+    "detectedClosedAt": "2026-09-11T04:52:43.820Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "DRW",
+    "Title": "Quantitative Trading Analyst Intern",
+    "Location": "Singapore",
+    "Region": "Asia",
+    "URL": "https://job-boards.greenhouse.io/drweng/jobs/8014919",
+    "Source": "Career page Greenhouse:drweng",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-09T23:26:20.538Z",
+    "detectedClosedAt": "2026-09-11T04:52:43.820Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Flow Traders",
+    "Title": "Quantitative Trading Intern Summer 2027",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
+    "Source": "Career page Greenhouse:flowtraders",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-09T23:26:20.538Z",
+    "detectedClosedAt": "2026-09-11T04:52:43.820Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "DRW",
+    "Title": "Quantitative Developer Intern (Python)",
+    "Location": "Singapore",
+    "Region": "Asia",
+    "URL": "https://job-boards.greenhouse.io/drweng/jobs/7981754",
+    "Source": "Career page Greenhouse:drweng",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-08T13:17:19.298Z",
+    "detectedClosedAt": "2026-09-10T14:14:51.943Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Tower Research Capital",
+    "Title": "Quantitative Trader Intern, PhD",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://www.tower-research.com/open-positions/?gh_jid=8024138",
+    "Source": "Career page Greenhouse:towerresearchcapital",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-08T13:17:19.298Z",
+    "detectedClosedAt": "2026-09-10T14:14:51.943Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Virtu Financial",
+    "Title": "2027 Internship - Frontend Engineer (UI)",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+    "Source": "Career page Greenhouse:virtu",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-08T13:17:19.298Z",
+    "detectedClosedAt": "2026-09-10T14:14:51.943Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Susquehanna International Group",
+    "Title": "Technology Co-op with McGill University",
+    "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "Region": "North America",
+    "URL": "https://careers.sig.com/jobs/11379?lang=en-us",
+    "Source": "Official SIG jobs API",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-08T13:17:19.298Z",
+    "detectedClosedAt": "2026-09-10T14:14:51.943Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Susquehanna International Group",
+    "Title": "Technology Co-op with Northeastern University",
+    "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "Region": "North America",
+    "URL": "https://careers.sig.com/jobs/11377?lang=en-us",
+    "Source": "Official SIG jobs API",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-08T13:17:19.298Z",
+    "detectedClosedAt": "2026-09-10T14:14:51.943Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Susquehanna International Group",
+    "Title": "Technology Co-op with RIT",
+    "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "Region": "North America",
+    "URL": "https://careers.sig.com/jobs/11378?lang=en-us",
+    "Source": "Official SIG jobs API",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-08T13:17:19.298Z",
+    "detectedClosedAt": "2026-09-10T14:14:51.943Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "BMO Capital Markets",
+    "Title": "BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship)",
+    "Location": "Toronto, ON, CAN",
+    "Region": "North America",
+    "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1",
+    "Source": "Career page Workday:bmo/External",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-07T22:26:15.607Z",
+    "detectedClosedAt": "2026-09-09T23:26:20.538Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "PGIM",
+    "Title": "2027 Technology, Internship Program",
+    "Location": "2 Locations",
     "Region": "Remote / Unspecified",
-    "URL": "https://www.flowtraders.com/careers/job-description/8047166",
-    "Source": "Web-discovered lead",
-    "Status": "Aggregator/web lead; verify on official site",
-    "lastSeenOpenAt": "2026-08-15T20:19:54.951Z",
-    "detectedClosedAt": "2026-08-16T14:55:30.101Z"
+    "URL": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Newark-NJ-USA/XMLNAME-2027-Technology--Internship-Program_R-124923-1",
+    "Source": "Career page Workday:pru/PGIM_Careers",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-07T22:26:15.607Z",
+    "detectedClosedAt": "2026-09-09T23:26:20.538Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Balyasny Asset Management",
+    "Title": "Quantitative Researcher (Summer Internship)",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Summer-Internship-_REQ8057",
+    "Source": "Official Balyasny Salesforce Experience Cloud feed",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-31T00:46:21.936Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Invesco",
+    "Title": "Early Career Intern - Investments (Risk)",
+    "Location": "New York, New York",
+    "Region": "North America",
+    "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
+    "Source": "Career page Workday:invesco/IVZ",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-31T00:46:21.936Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Jane Street",
+    "Title": "Software Engineer",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.janestreet.com/join-jane-street/position/7582902002/",
+    "Source": "Official Jane Street jobs feed",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-31T00:46:21.936Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Jump Trading",
+    "Title": "Campus FPGA Engineer (Intern)",
+    "Location": "Chicago",
+    "Region": "North America",
+    "URL": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+    "Source": "Greenhouse:jumptrading",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-31T00:46:21.936Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Jump Trading",
+    "Title": "Campus Trading Team Software Engineer  (Intern)",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.jumptrading.com/hr/job?gh_jid=7565728",
+    "Source": "Greenhouse:jumptrading",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-31T00:46:21.936Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "RRS Group",
+    "Title": "2027 Software Engineer Intern - Placement Year",
+    "Location": "Remote",
+    "Region": "Remote / Unspecified",
+    "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000142513209",
+    "Source": "Career page SmartRecruiters:RRSGroup",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-31T00:46:21.936Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Tower Research Capital",
+    "Title": "Junior Execution Trader Intern",
+    "Location": "Gift City",
+    "Region": "Remote / Unspecified",
+    "URL": "https://www.tower-research.com/open-positions/?gh_jid=8091833",
+    "Source": "Career page Greenhouse:towerresearchcapital",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-31T00:46:21.936Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Tower Research Capital",
+    "Title": "Risk Intern - 6 Month Internship Opportunity",
+    "Location": "Singapore",
+    "Region": "Asia",
+    "URL": "https://www.tower-research.com/open-positions/?gh_jid=7789933",
+    "Source": "Career page Greenhouse:towerresearchcapital",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-31T00:46:21.936Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Connor Clark & Lunn",
+    "Title": "Intern, Quantitative Developer",
+    "Location": "Vancouver, British Columbia, Canada",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/cclim/jobs/4383943009",
+    "Source": "Career page Greenhouse:cclim",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-31T00:46:21.936Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Connor Clark & Lunn",
+    "Title": "Intern, Quantitative Equity Analyst",
+    "Location": "Vancouver, British Columbia, Canada",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/cclim/jobs/4383968009",
+    "Source": "Career page Greenhouse:cclim",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-31T00:46:21.936Z",
+    "detectedClosedAt": "2026-09-08T13:17:19.298Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "D. E. Shaw",
+    "Title": "Systems Administrator Intern (New York)",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921",
+    "Source": "Official D. E. Shaw internships page",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-28T00:47:40.240Z",
+    "detectedClosedAt": "2026-08-31T00:33:48.797Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Quantbot Technologies",
+    "Title": "Machine Learning Research Engineer Internship - 2027 [New York]",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009",
+    "Source": "Greenhouse:quantbot-technologies",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-28T00:47:40.240Z",
+    "detectedClosedAt": "2026-08-31T00:33:48.797Z",
+    "reopenedAt": "2026-09-07T22:26:15.607Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Quantbot Technologies",
+    "Title": "Quantitative Developer Internship - 2027 [New York]",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009",
+    "Source": "Greenhouse:quantbot-technologies",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-28T00:47:40.240Z",
+    "detectedClosedAt": "2026-08-31T00:33:48.797Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Vanguard",
+    "Title": "College to Corporate IT Internship - Data Science (NC)",
+    "Location": "Charlotte, NC",
+    "Region": "Remote / Unspecified",
+    "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765",
+    "Source": "Career page Workday:vanguard/vanguard_external",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-28T00:47:40.240Z",
+    "detectedClosedAt": "2026-08-31T00:33:48.797Z",
+    "reopenedAt": "2026-09-07T22:26:15.607Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Vanguard",
+    "Title": "College to Corporate IT Internship - Risk & Security - Engineer  (PA)",
+    "Location": "Malvern, PA",
+    "Region": "North America",
+    "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1",
+    "Source": "Career page Workday:vanguard/vanguard_external",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-27T00:37:35.716Z",
+    "detectedClosedAt": "2026-08-30T03:23:17.651Z",
+    "reopenedAt": "2026-09-11T21:32:29.509Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "D. E. Shaw",
+    "Title": "Fundamental Research Analyst Intern (New York) – Summer 2027",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2027-5709",
+    "Source": "Official D. E. Shaw internships page",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-24T15:38:46.057Z",
+    "detectedClosedAt": "2026-08-26T12:42:54.577Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Jane Street",
+    "Title": "Machine Learning Researcher",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.janestreet.com/join-jane-street/position/8374335002/",
+    "Source": "Official Jane Street jobs feed",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-22T21:04:47.820Z",
+    "detectedClosedAt": "2026-08-26T00:20:59.213Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Jane Street",
+    "Title": "Quantitative Researcher",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.janestreet.com/join-jane-street/position/8343131002/",
+    "Source": "Official Jane Street jobs feed",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-22T21:04:47.820Z",
+    "detectedClosedAt": "2026-08-26T00:20:59.213Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Jane Street",
+    "Title": "Quantitative Trader",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.janestreet.com/join-jane-street/position/7982986002/",
+    "Source": "Official Jane Street jobs feed",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-22T21:04:47.820Z",
+    "detectedClosedAt": "2026-08-26T00:20:59.213Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Jane Street",
+    "Title": "Trading Desk Operations Engineer",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.janestreet.com/join-jane-street/position/8168747002/",
+    "Source": "Official Jane Street jobs feed",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-22T21:04:47.820Z",
+    "detectedClosedAt": "2026-08-26T00:20:59.213Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Trillium",
+    "Title": "Software Engineer Intern - Summer 2027",
+    "Location": "NYC",
+    "Region": "North America",
+    "URL": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007",
+    "Source": "Career page Greenhouse:trillium",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-20T14:28:37.460Z",
+    "detectedClosedAt": "2026-08-22T21:04:47.820Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "AlphaGrep",
+    "Title": "Quantitative Developer Intern",
+    "Location": "Mumbai",
+    "Region": "Asia",
+    "URL": "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002",
+    "Source": "Career page Greenhouse:alphagrepsecurities",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-19T21:31:53.494Z",
+    "detectedClosedAt": "2026-08-21T17:36:26.218Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Point 72/Cubist",
+    "Title": "Quantitative Developer Intern",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002",
+    "Source": "Greenhouse:point72",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-17T16:47:40.019Z",
+    "detectedClosedAt": "2026-08-20T14:28:37.460Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "BP",
+    "Title": "6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)",
+    "Location": "Singapore - Singapore",
+    "Region": "Asia",
+    "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2",
+    "Source": "Career page Workday:bpinternational/bpCareers",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-16T15:51:27.306Z",
+    "detectedClosedAt": "2026-08-19T21:31:53.494Z",
+    "reopenedAt": "2026-08-26T00:30:06.029Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "BP",
+    "Title": "Summer Internship - Finance & Risk - Singapore (2027)",
+    "Location": "Singapore - Singapore",
+    "Region": "Asia",
+    "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217",
+    "Source": "Career page Workday:bpinternational/bpCareers",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-16T15:51:27.306Z",
+    "detectedClosedAt": "2026-08-19T21:31:53.494Z",
+    "reopenedAt": "2026-08-26T00:30:06.029Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "BP",
+    "Title": "Summer Internship - Supply, Trading & Shipping - Singapore (2027)",
+    "Location": "Singapore - Singapore",
+    "Region": "Asia",
+    "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2",
+    "Source": "Career page Workday:bpinternational/bpCareers",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-16T15:51:27.306Z",
+    "detectedClosedAt": "2026-08-19T21:31:53.494Z",
+    "reopenedAt": "2026-08-26T00:30:06.029Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Goldman Sachs",
+    "Title": "2027 | Americas | New York City Area | Wealth Management, Quantitative Finance | Summer Analyst",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://higher.gs.com/roles/155800",
+    "Source": "Official careers page",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-17T16:47:40.019Z",
+    "detectedClosedAt": "2026-08-19T21:31:53.494Z",
+    "lastSeenEvidence": "committed_scan_history"
+  },
+  {
+    "Company": "Susquehanna International Group",
+    "Title": "Quantitative Trader Internship: Summer 2027",
+    "Location": "New York, New York",
+    "Region": "North America",
+    "URL": "https://careers.sig.com/jobs/10718?lang=en-us",
+    "Source": "Official SIG jobs API",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-08-16T15:51:27.306Z",
+    "detectedClosedAt": "2026-08-19T21:31:53.494Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Walleye Capital",
@@ -40,8 +555,9 @@
     "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
     "Source": "Career page Greenhouse:walleyecapital-external-students",
     "Status": "Confirmed official posting",
-    "lastSeenOpenAt": "2026-08-15T20:19:54.951Z",
-    "detectedClosedAt": "2026-08-16T14:55:30.101Z"
+    "lastSeenOpenAt": "2026-08-14T15:59:31.729Z",
+    "detectedClosedAt": "2026-08-16T14:55:30.101Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Morningstar",
@@ -52,7 +568,8 @@
     "Source": "Career page Workday:morningstar/morningstar",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-13T22:13:39.033Z",
-    "detectedClosedAt": "2026-08-14T15:59:31.729Z"
+    "detectedClosedAt": "2026-08-14T15:59:31.729Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Morningstar",
@@ -63,7 +580,8 @@
     "Source": "Career page Workday:morningstar/morningstar",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-13T22:13:39.033Z",
-    "detectedClosedAt": "2026-08-14T15:59:31.729Z"
+    "detectedClosedAt": "2026-08-14T15:59:31.729Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "PIMCO",
@@ -75,7 +593,8 @@
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-13T22:13:39.033Z",
     "detectedClosedAt": "2026-08-14T15:59:31.729Z",
-    "reopenedAt": "2026-08-17T16:47:40.019Z"
+    "reopenedAt": "2026-08-17T16:47:40.019Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "D. E. Shaw",
@@ -86,7 +605,8 @@
     "Source": "Official D. E. Shaw internships page",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-13T03:34:59.574Z",
-    "detectedClosedAt": "2026-08-13T14:34:14.492Z"
+    "detectedClosedAt": "2026-08-13T14:34:14.492Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Quantbot Technologies",
@@ -97,7 +617,8 @@
     "Source": "Greenhouse:quantbot-technologies",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-12T13:22:55.976Z",
-    "detectedClosedAt": "2026-08-13T03:34:59.574Z"
+    "detectedClosedAt": "2026-08-13T03:34:59.574Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "WorldQuant",
@@ -108,7 +629,8 @@
     "Source": "Career page Greenhouse:worldquant",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-12T13:22:55.976Z",
-    "detectedClosedAt": "2026-08-13T03:34:59.574Z"
+    "detectedClosedAt": "2026-08-13T03:34:59.574Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "AQR Capital Management",
@@ -119,7 +641,8 @@
     "Source": "Career page Greenhouse:aqr",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-11T16:40:38.156Z",
-    "detectedClosedAt": "2026-08-12T13:22:55.976Z"
+    "detectedClosedAt": "2026-08-12T13:22:55.976Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Five Rings",
@@ -131,7 +654,8 @@
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-11T16:40:38.156Z",
     "detectedClosedAt": "2026-08-12T13:22:55.976Z",
-    "reopenedAt": "2026-08-13T03:34:59.574Z"
+    "reopenedAt": "2026-08-13T03:34:59.574Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Susquehanna International Group",
@@ -143,7 +667,8 @@
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-11T16:40:38.156Z",
     "detectedClosedAt": "2026-08-12T13:22:55.976Z",
-    "reopenedAt": "2026-08-13T03:34:59.574Z"
+    "reopenedAt": "2026-08-13T03:34:59.574Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "RRS Group",
@@ -153,8 +678,9 @@
     "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000130592319",
     "Source": "Career page SmartRecruiters:RRSGroup",
     "Status": "Confirmed official posting",
-    "lastSeenOpenAt": "2026-08-08T21:33:37.463Z",
-    "detectedClosedAt": "2026-08-10T01:18:04.515Z"
+    "lastSeenOpenAt": "2026-08-07T23:51:50.203Z",
+    "detectedClosedAt": "2026-08-10T01:18:04.515Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Susquehanna International Group",
@@ -164,8 +690,9 @@
     "URL": "https://careers.sig.com/jobs/10626?lang=en-us",
     "Source": "Official SIG jobs API",
     "Status": "Confirmed official posting",
-    "lastSeenOpenAt": "2026-08-07T13:08:31.588Z",
-    "detectedClosedAt": "2026-08-07T21:30:42.775Z"
+    "lastSeenOpenAt": "2026-08-06T15:41:47.671Z",
+    "detectedClosedAt": "2026-08-07T21:30:42.775Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Old Mission Capital",
@@ -176,7 +703,8 @@
     "Source": "Career page Greenhouse:oldmissioncapital",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-06T02:41:12.076Z",
-    "detectedClosedAt": "2026-08-06T15:41:47.671Z"
+    "detectedClosedAt": "2026-08-06T15:41:47.671Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "AlphaGrep",
@@ -187,7 +715,8 @@
     "Source": "Career page Greenhouse:alphagrepsecurities",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
-    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "AlphaGrep",
@@ -198,7 +727,8 @@
     "Source": "Career page Greenhouse:alphagrepsecurities",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
-    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "IMC Trading",
@@ -209,7 +739,8 @@
     "Source": "Career page Greenhouse:imc",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
-    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Walleye Capital",
@@ -220,7 +751,8 @@
     "Source": "Career page Greenhouse:walleyecapital-external-students",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
-    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Walleye Capital",
@@ -231,7 +763,8 @@
     "Source": "Career page Greenhouse:walleyecapital-external-students",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
-    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Walleye Capital",
@@ -242,7 +775,8 @@
     "Source": "Career page Greenhouse:walleyecapital-external-students",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
-    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Walleye Capital",
@@ -254,7 +788,8 @@
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
     "detectedClosedAt": "2026-08-04T00:01:47.770Z",
-    "reopenedAt": "2026-08-04T23:38:20.713Z"
+    "reopenedAt": "2026-08-04T23:38:20.713Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Walleye Capital",
@@ -265,7 +800,8 @@
     "Source": "Career page Greenhouse:walleyecapital-external-students",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
-    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Walleye Capital",
@@ -276,7 +812,8 @@
     "Source": "Career page Greenhouse:walleyecapital-external-students",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
-    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Walleye Capital",
@@ -287,7 +824,8 @@
     "Source": "Career page Greenhouse:walleyecapital-external-students",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T13:20:58.559Z",
-    "detectedClosedAt": "2026-08-04T00:01:47.770Z"
+    "detectedClosedAt": "2026-08-04T00:01:47.770Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Deutsche Bank",
@@ -298,7 +836,9 @@
     "Source": "Career page Workday:db/DBWebsite",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T01:06:04.648Z",
-    "detectedClosedAt": "2026-07-31T13:20:58.559Z"
+    "detectedClosedAt": "2026-07-31T13:20:58.559Z",
+    "reopenedAt": "2026-08-26T00:30:06.029Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Deutsche Bank",
@@ -309,7 +849,9 @@
     "Source": "Career page Workday:db/DBWebsite",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T01:06:04.648Z",
-    "detectedClosedAt": "2026-07-31T13:20:58.559Z"
+    "detectedClosedAt": "2026-07-31T13:20:58.559Z",
+    "reopenedAt": "2026-08-26T00:30:06.029Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Jane Street",
@@ -320,7 +862,8 @@
     "Source": "Official Jane Street jobs feed",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-31T01:06:04.648Z",
-    "detectedClosedAt": "2026-07-31T13:20:58.559Z"
+    "detectedClosedAt": "2026-07-31T13:20:58.559Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Aquatic Capital",
@@ -332,7 +875,8 @@
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-30T15:21:50.529Z",
     "detectedClosedAt": "2026-07-31T01:06:04.648Z",
-    "reopenedAt": "2026-07-31T13:20:58.559Z"
+    "reopenedAt": "2026-07-31T13:20:58.559Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Aquatic Capital",
@@ -344,7 +888,8 @@
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-30T15:21:50.529Z",
     "detectedClosedAt": "2026-07-31T01:06:04.648Z",
-    "reopenedAt": "2026-07-31T13:20:58.559Z"
+    "reopenedAt": "2026-07-31T13:20:58.559Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Barclays",
@@ -356,7 +901,8 @@
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-30T15:21:50.529Z",
     "detectedClosedAt": "2026-07-31T01:06:04.648Z",
-    "reopenedAt": "2026-07-31T13:20:58.559Z"
+    "reopenedAt": "2026-07-31T13:20:58.559Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Squarepoint Capital",
@@ -368,7 +914,8 @@
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-07-28T16:40:43.388Z",
     "detectedClosedAt": "2026-07-29T01:13:51.385Z",
-    "reopenedAt": "2026-07-29T14:58:48.979Z"
+    "reopenedAt": "2026-07-29T14:58:48.979Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Flow Traders",
@@ -378,8 +925,9 @@
     "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/7100637",
     "Source": "Greenhouse:flowtraders",
     "Status": "Confirmed official posting",
-    "lastSeenOpenAt": "2026-07-27T17:17:37.434Z",
-    "detectedClosedAt": "2026-07-28T03:53:31.527Z"
+    "lastSeenOpenAt": "2026-07-27T14:00:48.434Z",
+    "detectedClosedAt": "2026-07-28T03:53:31.527Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Connor Clark & Lunn",
@@ -389,8 +937,9 @@
     "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4233121009",
     "Source": "Career page Greenhouse:cclfg",
     "Status": "Confirmed official posting",
-    "lastSeenOpenAt": "2026-07-27T00:45:29.857Z",
-    "detectedClosedAt": "2026-07-27T14:00:48.434Z"
+    "lastSeenOpenAt": "2026-07-26T15:38:23.331Z",
+    "detectedClosedAt": "2026-07-27T14:00:48.434Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "Deutsche Bank",
@@ -400,8 +949,10 @@
     "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474",
     "Source": "Career page Workday:db/DBWebsite",
     "Status": "Confirmed official posting",
-    "lastSeenOpenAt": "2026-07-27T00:45:29.857Z",
-    "detectedClosedAt": "2026-07-27T14:00:48.434Z"
+    "lastSeenOpenAt": "2026-07-26T15:38:23.331Z",
+    "detectedClosedAt": "2026-07-27T14:00:48.434Z",
+    "reopenedAt": "2026-08-26T00:30:06.029Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "IMC Trading",
@@ -411,9 +962,10 @@
     "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4860306101",
     "Source": "",
     "Status": "",
-    "lastSeenOpenAt": "2026-07-25T18:16:34.334Z",
+    "lastSeenOpenAt": "2026-07-25T15:41:58.537Z",
     "detectedClosedAt": "2026-07-26T15:38:23.331Z",
-    "backfilled": true
+    "backfilled": true,
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "IMC Trading",
@@ -423,9 +975,10 @@
     "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4860277101",
     "Source": "",
     "Status": "",
-    "lastSeenOpenAt": "2026-07-25T18:16:34.334Z",
+    "lastSeenOpenAt": "2026-07-25T15:41:58.537Z",
     "detectedClosedAt": "2026-07-26T15:38:23.331Z",
-    "backfilled": true
+    "backfilled": true,
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "IMC Trading",
@@ -435,9 +988,10 @@
     "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4860319101",
     "Source": "",
     "Status": "",
-    "lastSeenOpenAt": "2026-07-25T18:16:34.334Z",
+    "lastSeenOpenAt": "2026-07-25T15:41:58.537Z",
     "detectedClosedAt": "2026-07-26T15:38:23.331Z",
-    "backfilled": true
+    "backfilled": true,
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "T. Rowe Price",
@@ -447,10 +1001,11 @@
     "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
     "Source": "",
     "Status": "",
-    "lastSeenOpenAt": "2026-07-25T18:16:34.334Z",
+    "lastSeenOpenAt": "2026-07-25T15:41:58.537Z",
     "detectedClosedAt": "2026-07-26T15:38:23.331Z",
     "backfilled": true,
-    "reopenedAt": "2026-08-06T02:41:12.076Z"
+    "reopenedAt": "2026-08-06T02:41:12.076Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "T. Rowe Price",
@@ -460,10 +1015,11 @@
     "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
     "Source": "",
     "Status": "",
-    "lastSeenOpenAt": "2026-07-25T18:16:34.334Z",
+    "lastSeenOpenAt": "2026-07-25T15:41:58.537Z",
     "detectedClosedAt": "2026-07-26T15:38:23.331Z",
     "backfilled": true,
-    "reopenedAt": "2026-08-06T02:41:12.076Z"
+    "reopenedAt": "2026-08-06T02:41:12.076Z",
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "T. Rowe Price",
@@ -473,9 +1029,10 @@
     "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677",
     "Source": "",
     "Status": "",
-    "lastSeenOpenAt": "2026-07-25T18:16:34.334Z",
+    "lastSeenOpenAt": "2026-07-25T15:41:58.537Z",
     "detectedClosedAt": "2026-07-26T15:38:23.331Z",
-    "backfilled": true
+    "backfilled": true,
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "IMC Trading",
@@ -487,7 +1044,8 @@
     "Status": "",
     "lastSeenOpenAt": "2026-07-23T15:22:48.772Z",
     "detectedClosedAt": "2026-07-23T21:04:40.981Z",
-    "backfilled": true
+    "backfilled": true,
+    "lastSeenEvidence": "committed_scan_history"
   },
   {
     "Company": "IMC Trading",
@@ -499,6 +1057,7 @@
     "Status": "",
     "lastSeenOpenAt": "2026-07-23T15:22:48.772Z",
     "detectedClosedAt": "2026-07-23T21:04:40.981Z",
-    "backfilled": true
+    "backfilled": true,
+    "lastSeenEvidence": "committed_scan_history"
   }
 ]

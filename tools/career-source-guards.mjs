@@ -1,4 +1,5 @@
 const knownWrongSources = new Map([
+  ["Aureas Finance", /aresmgmt\.wd1\.myworkdayjobs\.com/i],
   ["Campbell and Company", /(?:thecampbellscompany\.com|campbellsoup\.)/i],
 ]);
 

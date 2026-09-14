@@ -1,91 +1,107 @@
-// Stateless "what opened recently" reporter.
-//
-// Reads the current scan outputs and re-derives each role's true release date
-// from the source ATS (Greenhouse first_published, Eightfold t_create, Workable
-// published, Ashby publishedAt), then prints roles released within a window.
-// No saved state needed, so it is safe to run in a fresh cloud session daily:
-//   node report-new-roles.mjs --days=3
-//   node report-new-roles.mjs --since=2026-07-27
+// Build the rolling report from the same confirmed scan as the README.
+// Date observations are persisted so report rendering never depends on another
+// live request and fresh clones keep the same discovery history.
 import fs from "node:fs";
-
-const arg = (k, d) => { const m = process.argv.find((a) => a.startsWith(`--${k}=`)); return m ? m.split("=")[1] : d; };
-const days = Number(arg("days", "1"));
-const since = arg("since", new Date(Date.now() - days * 864e5).toISOString().slice(0, 10));
-const until = arg("until", new Date().toISOString().slice(0, 10));
-const inWindow = (iso) => { if (!iso) return false; const d = iso.slice(0, 10); return d >= since && d <= until; };
-
-const files = [
-  "data/quant_internship_scan_raw.json",
-  "data/quant_internship_roles_scan_v2_raw.json",
-  "data/us_financial_services_internship_scan_raw.json",
-  "data/swe_2027_internship_scan_raw.json",
-];
-const rows = [];
-for (const f of files) {
-  try {
-    const j = JSON.parse(fs.readFileSync(f, "utf8"));
-    const scanAt = j.searchedAt || j.scannedAt || null;
-    (j.rows || j.matches || []).forEach((r) => rows.push({
-      Company: r.Company || r.company, Title: r.Title || r.title,
-      Location: r.Location || r.location, URL: (r.URL || r.url || "").trim(), Source: r.Source || r.source || "",
-      Notes: r.Notes || r.notes || "", scanAt,
-    }));
-  } catch { /* output missing — skip */ }
-}
-const byUrl = new Map();
-for (const r of rows) if (r.URL && !byUrl.has(r.URL)) byUrl.set(r.URL, r);
-const uniq = [...byUrl.values()];
-
-async function jget(url, opts) { try { const c = new AbortController(); const t = setTimeout(() => c.abort(), 15000); const r = await fetch(url, { signal: c.signal, headers: { "user-agent": "Mozilla/5.0" }, ...opts }); clearTimeout(t); return r.ok ? await r.json() : null; } catch { return null; } }
-const idOf = (u) => { const m = (u || "").match(/(\d{5,})/g); return m ? m[m.length - 1] : null; };
-
-const gh = new Set(["janestreet"]), ef = new Set(), wk = new Set(), ash = new Set();
-for (const r of uniq) {
-  let m;
-  if ((m = r.Source.match(/Greenhouse:([^ ]+)/))) gh.add(m[1]);
-  else if ((m = r.Source.match(/Eightfold:([^ ]+)/))) ef.add(m[1]);
-  else if ((m = r.Source.match(/Workable:([^ ]+)/))) wk.add(m[1]);
-  else if ((m = r.Source.match(/Ashby:([^ ]+)/))) ash.add(m[1]);
-}
-const dateByUrl = new Map(), dateById = new Map();
-for (const tok of gh) { const j = await jget(`https://boards-api.greenhouse.io/v1/boards/${tok}/jobs?content=true`); for (const job of (j?.jobs || [])) { const d = job.first_published; if (job.absolute_url) dateByUrl.set(job.absolute_url, d); if (job.id) dateById.set(String(job.id), d); } }
-for (const host of ef) { const j = await jget(`https://${host}/api/apply/v2/jobs?domain=${host.includes("mlp") ? "mlp.com" : host.split(".").slice(-2).join(".")}&start=0&num=100&sort_by=relevance`); for (const p of (j?.positions || [])) { const d = p.t_create ? new Date(p.t_create * 1000).toISOString() : null; if (p.canonicalPositionUrl) dateByUrl.set(p.canonicalPositionUrl, d); if (p.id) dateById.set(String(p.id), d); } }
-for (const acc of wk) { const j = await jget(`https://apply.workable.com/api/v3/accounts/${acc}/jobs`, { method: "POST", headers: { "content-type": "application/json" }, body: "{}" }); for (const job of (j?.results || [])) { if (job.published) dateByUrl.set(`https://apply.workable.com/${acc}/j/${job.shortcode}/`, job.published); } }
-for (const tok of ash) { const j = await jget(`https://api.ashbyhq.com/posting-api/job-board/${tok}`); for (const job of (j?.jobs || [])) { const d = job.publishedAt || job.updatedAt; if (job.jobUrl) dateByUrl.set(job.jobUrl, d); } }
-
-// Workday boards expose only a relative "Posted Today / N Days Ago" string, which
-// the scan captures in Notes. Re-anchor it to that file's scan time to get an
-// absolute date (day granularity; "30+ Days Ago" is a floor, always pre-window).
-function workdayDate(notes, scanAtIso) {
-  if (!notes || !scanAtIso) return null;
-  const m = notes.match(/Posted\s+(Today|Yesterday|(\d+)\+?\s+Days?\s+Ago)/i);
-  if (!m) return null;
-  const base = new Date(scanAtIso);
-  if (Number.isNaN(base.getTime())) return null;
-  const daysAgo = /Today/i.test(m[1]) ? 0 : /Yesterday/i.test(m[1]) ? 1 : Number(m[2]);
-  base.setUTCDate(base.getUTCDate() - daysAgo);
-  return base.toISOString();
-}
-for (const r of uniq) {
-  if (dateByUrl.has(r.URL)) continue;
-  if (/myworkdayjobs|Workday/i.test(`${r.URL} ${r.Source}`)) {
-    const d = workdayDate(r.Notes, r.scanAt);
-    if (d) dateByUrl.set(r.URL, d);
+import { execFileSync } from "node:child_process";
+import { dirname, resolve } from "node:path";
+import { fileURLToPath } from "node:url";
+import { calendarDate, shiftCalendarDate } from "./calendar-date.mjs";
+import { roleIdentity, isAggregatorLead } from "../tools/role-identity.mjs";
+import { sourceDateFromNotes, employerDate, inDateWindow } from "../tools/role-dates.mjs";
+const repo = resolve(dirname(fileURLToPath(import.meta.url)), "..");
+process.chdir(repo);
+const arg = (key, fallback) => process.argv.find((value) => value.startsWith(`--${key}=`))?.slice(key.length + 3) ?? fallback;
+const scope = arg("scope", "quant");
+if (!["quant", "all"].includes(scope)) throw new Error("scope must be quant or all");
+const days = Number(arg("days", "21"));
+if (!Number.isInteger(days) || days < 1) throw new Error("days must be a positive integer");
+const read = (file) => JSON.parse(fs.readFileSync(file, "utf8"));
+const current = read("data/quant_internship_roles_scan_v2_raw.json");
+const until = arg("until", calendarDate(current.searchedAt));
+const since = arg("since", shiftCalendarDate(until, -(days - 1)));
+if (!employerDate(until) || !employerDate(since) || since > until) throw new Error("Invalid report date window");
+const rows = current.rows.map((row) => ({ ...row, scanAt: current.searchedAt }));
+if (scope === "all") {
+  for (const file of ["data/us_financial_services_internship_scan_raw.json", "data/swe_2027_internship_scan_raw.json"]) {
+    if (fs.existsSync(file)) {
+      const source = read(file);
+      rows.push(...(source.rows || []).map((row) => ({ ...row, scanAt: source.searchedAt || source.scannedAt })));
+    }
   }
 }
-
-const released = [];
-for (const r of uniq) {
-  let d = dateByUrl.get(r.URL);
-  if (!d) { const id = idOf(r.URL); if (id) d = dateById.get(id); }
-  if (d && inWindow(d)) released.push({ ...r, date: d.slice(0, 10) });
+const uniq = [...new Map(rows.filter((row) => row.URL && !isAggregatorLead(row)).map((row) => [roleIdentity(row), row])).values()];
+const historyPath = "data/role_date_history.json";
+const observations = fs.existsSync(historyPath) ? read(historyPath).roles : {};
+function gitJson(commit, file) {
+  return JSON.parse(execFileSync("git", ["show", `${commit}:${file}`], { encoding: "utf8", maxBuffer: 40 * 1024 * 1024 }));
 }
-released.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : a.Company.localeCompare(b.Company)));
-const byco = {};
-for (const r of released) (byco[r.Company] ||= []).push(r);
-let out = `# Roles released ${since} → ${until} (${released.length} with confirmed release dates)\n`;
-for (const [co, list] of Object.entries(byco).sort((a, b) => b[1].length - a[1].length)) {
-  out += `\n## ${co} (${list.length})\n`;
-  for (const r of list) out += `- **${r.date}** — [${r.Title}](${r.URL}) — ${r.Location || "n/a"}\n`;
+if (!fs.existsSync(historyPath)) {
+  const rawPath = "data/quant_internship_roles_scan_v2_raw.json";
+  const commits = execFileSync("git", ["log", "--reverse", "--format=%H", "--", rawPath], { encoding: "utf8" }).trim().split(/\r?\n/).filter(Boolean);
+  for (const commit of commits) {
+    const scan = gitJson(commit, rawPath);
+    for (const row of scan.rows || []) {
+      const key = roleIdentity(row);
+      const day = calendarDate(scan.searchedAt);
+      const previous = observations[key] || {};
+      const source = sourceDateFromNotes(row.Notes, scan.searchedAt);
+      observations[key] = {
+        ...previous, URL: row.URL,
+        first_seen: previous.first_seen || day,
+        date: previous.date || source?.date || null,
+        evidence: previous.evidence || source?.evidence || null,
+      };
+    }
+  }
+  // Migrate old relative-label dates when their provenance is the same employer
+  // source. Other legacy date lookups used unscoped IDs and are not trusted.
+  const reportPath = "data/new_roles_last_three_weeks.json";
+  const reports = execFileSync("git", ["log", "--reverse", "--format=%H", "--", reportPath], { encoding: "utf8" }).trim().split(/\r?\n/).filter(Boolean);
+  for (const commit of reports) {
+    for (const row of gitJson(commit, reportPath).roles || []) {
+      if (!/Workday|Salesforce Experience Cloud/i.test(row.Source || "") || !employerDate(row.date)) continue;
+      const previous = observations[roleIdentity(row)] ||= { URL: row.URL };
+      if (!previous.date || row.date < previous.date) {
+        previous.date = row.date;
+        previous.evidence = "employer_relative_label";
+      }
+    }
+  }
 }
-process.stdout.write(out);
+const released = [], undatedFirstSeen = [];
+for (const row of uniq) {
+  const key = roleIdentity(row);
+  const prior = observations[key] || {};
+  const source = sourceDateFromNotes(row.Notes, row.scanAt);
+  // Repeated relative labels cannot move an existing role's release forward.
+  const date = source?.evidence === "employer_field" ? source.date : prior.date || source?.date || null;
+  const evidence = source?.evidence === "employer_field" ? source.evidence : prior.evidence || source?.evidence || null;
+  const first_seen = prior.first_seen || calendarDate(row.scanAt);
+  observations[key] = { URL: row.URL, first_seen, date, evidence };
+  const role = { ...row };
+  if (date && inDateWindow(date, since, until)) released.push({ ...role, date, dateEvidence: evidence });
+  else if (!date && inDateWindow(first_seen, since, until)) undatedFirstSeen.push({ ...role, first_seen });
+}
+released.sort((a, b) => b.date.localeCompare(a.date) || a.Company.localeCompare(b.Company) || a.Title.localeCompare(b.Title));
+undatedFirstSeen.sort((a, b) => b.first_seen.localeCompare(a.first_seen) || a.Company.localeCompare(b.Company));
+const byCompany = new Map();
+for (const row of released) {
+  if (!byCompany.has(row.Company)) byCompany.set(row.Company, []);
+  byCompany.get(row.Company).push(row);
+}
+let out = `# Roles posted ${since} → ${until} (${released.length} with source posting dates)\n\n`;
+out += "_Dates come from employer publication fields or dated relative labels. Relative labels have day-level precision; source publication dates can reflect a repost. Internship start dates and edit timestamps are not release dates._\n";
+for (const [company, companyRows] of [...byCompany].sort((a, b) => b[1].length - a[1].length)) {
+  out += `\n## ${company} (${companyRows.length})\n\n`;
+  for (const row of companyRows) out += `- **${row.date}** — [${row.Title}](${row.URL}) — ${String(row.Location || "n/a").trim()}${row.dateEvidence === "employer_relative_label" ? " _(relative source date)_" : ""}\n`;
+}
+out += `\n## First seen in this window, source posting date unavailable (${undatedFirstSeen.length})\n\n_Discovery dates are from the available QJS history._\n\n`;
+for (const row of undatedFirstSeen) out += `- **first seen ${row.first_seen}** — **${row.Company}** — [${row.Title}](${row.URL}) — ${String(row.Location || "n/a").trim()}\n`;
+if (process.argv.includes("--write")) {
+  fs.writeFileSync(arg("markdown", "reports/new_roles_last_three_weeks.md"), out);
+  fs.writeFileSync(arg("json", "data/new_roles_last_three_weeks.json"), JSON.stringify({
+    generatedAt: new Date().toISOString(), currentScanAt: current.searchedAt, scope, since, until, count: released.length, roles: released, undatedFirstSeen,
+  }, null, 2) + "\n");
+  if (scope === "quant") fs.writeFileSync(historyPath, JSON.stringify({ updatedAt: current.searchedAt, roles: observations }, null, 2) + "\n");
+  console.log(`rolling report: ${released.length} source-dated + ${undatedFirstSeen.length} undated (${since} through ${until})`);
+} else process.stdout.write(out);
