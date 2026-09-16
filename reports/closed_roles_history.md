@@ -1,7 +1,7 @@
 # Closed / Removed Roles History
 
 Total closure events recorded: 86
-Last updated: 2026-09-14T19:38:05.061Z
+Last updated: 2026-09-16T03:09:11.438Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
 
@@ -29,8 +29,8 @@ Closures require two independent successful observations of absence from the rol
 - **Tower Research Capital** - [Quantitative Trader Intern, PhD](https://www.tower-research.com/open-positions/?gh_jid=8024138) - New York
 - **Virtu Financial** - [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) - New York
 - **Susquehanna International Group** - [Technology Co-op with McGill University](https://careers.sig.com/jobs/11379?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania — _reopened 2026-09-15_
+- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania — _reopened 2026-09-15_
 
 ### 2026-09-09 (2)
 

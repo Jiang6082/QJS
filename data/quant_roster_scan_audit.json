@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-14T19:44:16.817Z",
-  "scanStartedAt": "2026-09-14T19:38:05.061Z",
+  "generatedAt": "2026-09-16T03:14:36.615Z",
+  "scanStartedAt": "2026-09-16T03:09:11.438Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 48,
+    "matching-role-found": 50,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 36,
-    "could-not-fully-verify": 217
+    "confirmed-openings-no-matching-role": 37,
+    "could-not-fully-verify": 214
   },
   "companies": [
     {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 138,
+      "jobsSeen": 141,
       "relevantInternships": 0
     },
     {
@@ -283,9 +283,9 @@
         "https://www.aqr.com/Our-Firm/Careers",
         "https://job-boards.greenhouse.io/aqr"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 55,
+      "jobsSeen": 54,
       "relevantInternships": 10
     },
     {
@@ -427,8 +427,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 22,
-      "relevantInternships": 9
+      "jobsSeen": 25,
+      "relevantInternships": 10
     },
     {
       "company": "Campbell and Company",
@@ -540,7 +540,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 29,
+      "jobsSeen": 28,
       "relevantInternships": 4
     },
     {
@@ -684,7 +684,7 @@
       "sourceRosterNames": [
         "Capital Fund Management (CFM)"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.cfm.com/join-us/"
       ],
@@ -712,7 +712,7 @@
       "sourceRosterNames": [
         "Citadel Securities"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.citadelsecurities.com/careers/",
         "https://www.citadel.com/careers/",
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 174,
+      "jobsSeen": 168,
       "relevantInternships": 16
     },
     {
@@ -946,7 +946,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 14,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -970,7 +970,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/clearstreet?gh_src=bdd2c3261"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 32,
       "relevantInternships": 0
@@ -1027,7 +1027,7 @@
       "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 67,
-      "relevantInternships": 15
+      "relevantInternships": 16
     },
     {
       "company": "Danske Commodities",
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 128,
+      "jobsSeen": 130,
       "relevantInternships": 3
     },
     {
@@ -1096,7 +1096,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 1
     },
     {
@@ -1124,7 +1124,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -1141,8 +1141,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 16,
-      "relevantInternships": 3
+      "jobsSeen": 17,
+      "relevantInternships": 4
     },
     {
       "company": "Futures First",
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 229,
+      "jobsSeen": 231,
       "relevantInternships": 0
     },
     {
@@ -1434,8 +1434,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 42,
-      "relevantInternships": 1
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "G-Research",
@@ -1664,7 +1664,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 42,
+      "jobsSeen": 44,
       "relevantInternships": 0
     },
     {
@@ -1733,7 +1733,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 14,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -2233,7 +2233,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 46,
+      "jobsSeen": 47,
       "relevantInternships": 5
     },
     {
@@ -2290,7 +2290,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 15,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -2472,7 +2472,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 72,
+      "jobsSeen": 71,
       "relevantInternships": 11
     },
     {
@@ -2685,7 +2685,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/quadraturecapital?error=true"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 4,
       "relevantInternships": 0
@@ -3132,7 +3132,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3245,7 +3245,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 38,
+      "jobsSeen": 39,
       "relevantInternships": 1
     },
     {
@@ -3649,7 +3649,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 80,
+      "jobsSeen": 81,
       "relevantInternships": 0
     },
     {
@@ -3888,7 +3888,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 87,
+      "jobsSeen": 89,
       "relevantInternships": 11
     },
     {
@@ -3947,7 +3947,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 33,
+      "jobsSeen": 32,
       "relevantInternships": 1
     },
     {
@@ -4079,7 +4079,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 57,
+      "jobsSeen": 55,
       "relevantInternships": 1
     },
     {
@@ -4105,7 +4105,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/transmarketgroup"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 19,
       "relevantInternships": 4
@@ -4222,7 +4222,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 102,
+      "jobsSeen": 103,
       "relevantInternships": 7
     },
     {
@@ -4244,7 +4244,7 @@
       "sourceRosterNames": [
         "Morningstar"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://morningstar.wd5.myworkdayjobs.com/morningstar",
         "https://morningstar.wd5.myworkdayjobs.com/Americas/",
@@ -4254,7 +4254,7 @@
       "livePages": 4,
       "attemptedPages": 4,
       "jobsSeen": 86,
-      "relevantInternships": 0
+      "relevantInternships": 1
     },
     {
       "company": "RRS Group",

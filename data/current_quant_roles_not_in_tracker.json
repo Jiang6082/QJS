@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T19:44:17.236Z",
-  "currentScanAt": "2026-09-14T19:38:05.061Z",
+  "generatedAt": "2026-09-16T03:14:37.024Z",
+  "currentScanAt": "2026-09-16T03:09:11.438Z",
   "rows": [
     {
       "Company": "Akuna",
@@ -11,8 +11,8 @@
       "Source": "Greenhouse:akunacapital",
       "Status": "Confirmed official posting",
       "Department": "Engineering",
-      "Notes": "posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Akuna",
@@ -23,8 +23,8 @@
       "Source": "Greenhouse:akunacapital",
       "Status": "Confirmed official posting",
       "Department": "Quant",
-      "Notes": "posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Akuna",
@@ -35,8 +35,8 @@
       "Source": "Greenhouse:akunacapital",
       "Status": "Confirmed official posting",
       "Department": "Quant",
-      "Notes": "posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Akuna",
@@ -47,8 +47,8 @@
       "Source": "Greenhouse:akunacapital",
       "Status": "Confirmed official posting",
       "Department": "Engineering",
-      "Notes": "posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Akuna",
@@ -59,8 +59,8 @@
       "Source": "Greenhouse:akunacapital",
       "Status": "Confirmed official posting",
       "Department": "Engineering",
-      "Notes": "posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Akuna",
@@ -71,8 +71,8 @@
       "Source": "Greenhouse:akunacapital",
       "Status": "Confirmed official posting",
       "Department": "Engineering",
-      "Notes": "posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Akuna",
@@ -83,8 +83,8 @@
       "Source": "Greenhouse:akunacapital",
       "Status": "Confirmed official posting",
       "Department": "Engineering",
-      "Notes": "posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "AlphaGrep",
@@ -241,6 +241,28 @@
       "Region": "North America"
     },
     {
+      "Company": "Baillie Gifford",
+      "Title": "Cloud, Infrastructure & Security Summer Internship 2027",
+      "Department": "",
+      "Location": "Edinburgh",
+      "URL": "https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Cloud--Infrastructure---Security-Summer-Internship-2027_R0004565",
+      "Source": "Career page Workday:bailliegifford/BaillieGiffordEarlyCareers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.bailliegifford.com/en/uk/individual-investors/careers/early-careers/internships/ | Posted Yesterday | R0004565",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Baillie Gifford",
+      "Title": "Software Engineering & Innovation Summer Internship 2027",
+      "Department": "",
+      "Location": "Edinburgh",
+      "URL": "https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Software-Engineering---Innovation-Summer-Internship-2027_R0004566",
+      "Source": "Career page Workday:bailliegifford/BaillieGiffordEarlyCareers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.bailliegifford.com/en/uk/individual-investors/careers/early-careers/internships/ | Posted Yesterday | R0004566",
+      "Region": "Europe"
+    },
+    {
       "Company": "Balyasny Asset Management",
       "Title": "Quantitative Analyst - Commodities Investment Team (Summer Internship)",
       "Department": "Investment Professionals",
@@ -248,7 +270,7 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8474",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 31 Days Ago | requisition=REQ8474 | department=Investment Professionals | experience=Internships",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 33 Days Ago | requisition=REQ8474 | department=Investment Professionals | experience=Internships",
       "Region": "Asia"
     },
     {
@@ -259,7 +281,7 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Macro---Commodities-Investment-Teams--Summer-Internship-_REQ8477",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 31 Days Ago | requisition=REQ8477 | department=Investment Professionals | experience=Internships",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 33 Days Ago | requisition=REQ8477 | department=Investment Professionals | experience=Internships",
       "Region": "Europe"
     },
     {
@@ -270,7 +292,7 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8454",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 31 Days Ago | requisition=REQ8454 | department=Investment Professionals | experience=Internships",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 33 Days Ago | requisition=REQ8454 | department=Investment Professionals | experience=Internships",
       "Region": "North America"
     },
     {
@@ -281,7 +303,7 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Macro-Investment-Team--Summer-Internship-_REQ8453",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 31 Days Ago | requisition=REQ8453 | department=Investment Professionals | experience=Internships",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 33 Days Ago | requisition=REQ8453 | department=Investment Professionals | experience=Internships",
       "Region": "North America"
     },
     {
@@ -292,7 +314,7 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst--Commodities--Seasonal-Internship-_REQ8467",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 33 Days Ago | requisition=REQ8467 | department=Investment Professionals | experience=Internships",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 35 Days Ago | requisition=REQ8467 | department=Investment Professionals | experience=Internships",
       "Region": "Europe"
     },
     {
@@ -314,7 +336,7 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Quantitative-Strategies--Summer-Internship-_REQ8479",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 31 Days Ago | requisition=REQ8479 | department=Investment Professionals | experience=Internships",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 33 Days Ago | requisition=REQ8479 | department=Investment Professionals | experience=Internships",
       "Region": "Europe"
     },
     {
@@ -336,7 +358,7 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Risk--Summer-Internship-_REQ8478",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 31 Days Ago | requisition=REQ8478 | department=Investment Professionals | experience=Internships",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 33 Days Ago | requisition=REQ8478 | department=Investment Professionals | experience=Internships",
       "Region": "Europe"
     },
     {
@@ -369,7 +391,7 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineer---Physical-Commodities-Teams--Summer-Internship-_REQ8596",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted Today | requisition=REQ8596 | department=Investment Professionals | experience=Internships",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 2 Days Ago | requisition=REQ8596 | department=Investment Professionals | experience=Internships",
       "Region": "Remote / Unspecified"
     },
     {
@@ -380,7 +402,7 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8115",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 31 Days Ago | requisition=REQ8115 | department=Technology | experience=Internships",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 33 Days Ago | requisition=REQ8115 | department=Technology | experience=Internships",
       "Region": "Europe"
     },
     {
@@ -391,7 +413,7 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8446",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 31 Days Ago | requisition=REQ8446 | department=Technology | experience=Internships",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 33 Days Ago | requisition=REQ8446 | department=Technology | experience=Internships",
       "Region": "Asia"
     },
     {
@@ -402,7 +424,7 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8445",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 31 Days Ago | requisition=REQ8445 | department=Technology | experience=Internships",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 33 Days Ago | requisition=REQ8445 | department=Technology | experience=Internships",
       "Region": "North America"
     },
     {
@@ -413,7 +435,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000129278",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000129278",
       "Region": "Europe"
     },
     {
@@ -424,7 +446,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000129280",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000129280",
       "Region": "Remote / Unspecified"
     },
     {
@@ -435,7 +457,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Risk-Analyst-Summer-Internship-Program-Wilmington_JR-0000123226",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 10 Days Ago | JR-0000123226",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 11 Days Ago | JR-0000123226",
       "Region": "North America"
     },
     {
@@ -446,7 +468,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Risk-Analyst-Summer-Internship-Programme-Glasgow_JR-0000129109",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000129109",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000129109",
       "Region": "Europe"
     },
     {
@@ -457,7 +479,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Risk-Analyst-Summer-Internship-Programme-London_JR-0000129108",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000129108",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000129108",
       "Region": "Remote / Unspecified"
     },
     {
@@ -468,7 +490,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Glasgow_JR-0000129503",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000129503",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000129503",
       "Region": "Europe"
     },
     {
@@ -479,7 +501,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Knutsford_JR-0000129510",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000129510",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000129510",
       "Region": "Europe"
     },
     {
@@ -490,7 +512,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-London_JR-0000129434",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000129434",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000129434",
       "Region": "Remote / Unspecified"
     },
     {
@@ -501,7 +523,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Northampton_JR-0000129498",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000129498",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000129498",
       "Region": "Europe"
     },
     {
@@ -512,7 +534,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/XMLNAME-2027-Technology-Cyber---Security-Summer-Internship-Program-Whippany_JR-0000123233",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 10 Days Ago | JR-0000123233",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 11 Days Ago | JR-0000123233",
       "Region": "North America"
     },
     {
@@ -523,7 +545,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000129173",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000129173",
       "Region": "Europe"
     },
     {
@@ -534,7 +556,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Whippany_JR-0000123234",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 10 Days Ago | JR-0000123234",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 11 Days Ago | JR-0000123234",
       "Region": "North America"
     },
     {
@@ -545,7 +567,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 10 Days Ago | JR-0000123236",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 11 Days Ago | JR-0000123236",
       "Region": "North America"
     },
     {
@@ -556,7 +578,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000129387",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000129387",
       "Region": "Europe"
     },
     {
@@ -567,7 +589,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000129381",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000129381",
       "Region": "Europe"
     },
     {
@@ -578,7 +600,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000129397",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000129397",
       "Region": "Remote / Unspecified"
     },
     {
@@ -589,7 +611,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000129379",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000129379",
       "Region": "Europe"
     },
     {
@@ -644,7 +666,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Quantitative-Analytics-Associate-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124726",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 7 Days Ago | JR-0000124726",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 8 Days Ago | JR-0000124726",
       "Region": "Europe"
     },
     {
@@ -655,7 +677,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 10 Days Ago | JR-0000124685",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 11 Days Ago | JR-0000124685",
       "Region": "Remote / Unspecified"
     },
     {
@@ -666,7 +688,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 4 Days Ago | JR-0000128099",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000128099",
       "Region": "North America"
     },
     {
@@ -688,7 +710,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Frankfurt-Taunus-Turm/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Frankfurt_JR-0000124757-1",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 11 Days Ago | JR-0000124757",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 12 Days Ago | JR-0000124757",
       "Region": "Europe"
     },
     {
@@ -699,7 +721,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-London_JR-0000124716",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000124716",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000124716",
       "Region": "Remote / Unspecified"
     },
     {
@@ -710,7 +732,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/The-Medelan-Building-Milan/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Milan_JR-0000124759",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 11 Days Ago | JR-0000124759",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 12 Days Ago | JR-0000124759",
       "Region": "Europe"
     },
     {
@@ -721,7 +743,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124763",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 11 Days Ago | JR-0000124763",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 12 Days Ago | JR-0000124763",
       "Region": "Europe"
     },
     {
@@ -732,7 +754,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Zurich-Beethovenstrasse-19/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Zurich_JR-0000124764",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 11 Days Ago | JR-0000124764",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 12 Days Ago | JR-0000124764",
       "Region": "Europe"
     },
     {
@@ -754,7 +776,7 @@
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-London_JR-0000124692",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 5 Days Ago | JR-0000124692",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 6 Days Ago | JR-0000124692",
       "Region": "Remote / Unspecified"
     },
     {
@@ -824,6 +846,138 @@
       "Region": "North America"
     },
     {
+      "Company": "BlackRock",
+      "Title": "2027 MBA Internship Program - Client & Product Functions - Research & Markets Advisory - New York",
+      "Department": "",
+      "Location": "New York, NY",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted Today | R266467",
+      "Region": "North America"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York",
+      "Department": "",
+      "Location": "New York, NY",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted Today | R266468",
+      "Region": "North America"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco",
+      "Department": "",
+      "Location": "San Francisco, CA",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted Today | R266469",
+      "Region": "North America"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Investments - Portfolio Management - Atlanta",
+      "Department": "",
+      "Location": "Atlanta, GA",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted Today | R266470",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York",
+      "Department": "",
+      "Location": "New York, NY",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted Today | R266471",
+      "Region": "North America"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Investments - Portfolio Management - San Francisco",
+      "Department": "",
+      "Location": "San Francisco, CA",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---San-Francisco_R266472",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted Today | R266472",
+      "Region": "North America"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Investments - Quantitative Investing - New York",
+      "Department": "",
+      "Location": "New York, NY",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---New-York_R266473",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted Today | R266473",
+      "Region": "North America"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Investments - Quantitative Investing - San Francisco",
+      "Department": "",
+      "Location": "San Francisco, CA",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---San-Francisco_R266474",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted Today | R266474",
+      "Region": "North America"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional Wealth - Chicago",
+      "Department": "",
+      "Location": "Chicago, IL",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted Today | R266475",
+      "Region": "North America"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York",
+      "Department": "",
+      "Location": "New York, NY",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted Today | R266477",
+      "Region": "North America"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco",
+      "Department": "",
+      "Location": "San Francisco, CA",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted Today | R266476",
+      "Region": "North America"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London",
+      "Department": "",
+      "Location": "London, Greater London",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted Today | R266465",
+      "Region": "Europe"
+    },
+    {
       "Company": "BMO Capital Markets",
       "Title": "Climate Risk Reporting Analyst, Winter 2027 (Co-op/Internship) - 4 Months",
       "Location": "Toronto, ON, CAN",
@@ -832,7 +986,7 @@
       "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
       "Notes": "revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "BMO Capital Markets",
@@ -843,7 +997,7 @@
       "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
       "Notes": "revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "BMO Capital Markets",
@@ -854,7 +1008,7 @@
       "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
       "Notes": "revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "BMO Capital Markets",
@@ -865,7 +1019,7 @@
       "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
       "Notes": "revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "BMO Capital Markets",
@@ -876,7 +1030,7 @@
       "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
       "Notes": "revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "BMO Capital Markets",
@@ -886,7 +1040,7 @@
       "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650-1",
       "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted 7 Days Ago | R260024650",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted 8 Days Ago | R260024650",
       "Region": "North America"
     },
     {
@@ -897,8 +1051,9 @@
       "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Portfolio-Assistant--Winter-2027--Co-op-Internship---Montreal---4-months_R260025949-2",
       "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260025949",
-      "Region": "North America"
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260025949 | revalidated_from_previous_scan=true",
+      "Region": "North America",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "BMO Capital Markets",
@@ -908,7 +1063,7 @@
       "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
       "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260026715",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Yesterday | R260026715",
       "Region": "North America"
     },
     {
@@ -919,8 +1074,9 @@
       "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726",
       "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260026726",
-      "Region": "Remote / Unspecified"
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260026726 | revalidated_from_previous_scan=true",
+      "Region": "Remote / Unspecified",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "BMO Capital Markets",
@@ -930,7 +1086,7 @@
       "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-1",
       "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted 7 Days Ago | R260024678",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted 8 Days Ago | R260024678",
       "Region": "North America"
     },
     {
@@ -941,7 +1097,7 @@
       "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638",
       "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted 7 Days Ago | R260024638",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted 8 Days Ago | R260024638",
       "Region": "North America"
     },
     {
@@ -952,7 +1108,7 @@
       "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-3",
       "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted 7 Days Ago | R260024640",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted 8 Days Ago | R260024640",
       "Region": "North America"
     },
     {
@@ -996,7 +1152,7 @@
       "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2",
       "Source": "Career page Workday:bpinternational/bpCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 5 Days Ago | RQ114218",
+      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 6 Days Ago | RQ114218",
       "Region": "Asia"
     },
     {
@@ -1007,7 +1163,7 @@
       "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2",
       "Source": "Career page Workday:bpinternational/bpCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 7 Days Ago | RQ115469",
+      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 8 Days Ago | RQ115469",
       "Region": "Asia"
     },
     {
@@ -1018,7 +1174,7 @@
       "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Enterprise-Technology--Malaysia_RQ115470-1",
       "Source": "Career page Workday:bpinternational/bpCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 7 Days Ago | RQ115470",
+      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 8 Days Ago | RQ115470",
       "Region": "Asia"
     },
     {
@@ -1029,7 +1185,7 @@
       "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
       "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted Today | JR101602",
+      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted Yesterday | JR101602",
       "Region": "North America"
     },
     {
@@ -1040,7 +1196,7 @@
       "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596",
       "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 4 Days Ago | JR101596",
+      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 5 Days Ago | JR101596",
       "Region": "North America"
     },
     {
@@ -1051,7 +1207,7 @@
       "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595",
       "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 4 Days Ago | JR101595",
+      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 5 Days Ago | JR101595",
       "Region": "North America"
     },
     {
@@ -1062,7 +1218,7 @@
       "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597",
       "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 4 Days Ago | JR101597",
+      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 5 Days Ago | JR101597",
       "Region": "North America"
     },
     {
@@ -1073,7 +1229,7 @@
       "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591",
       "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 4 Days Ago | JR101591",
+      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 5 Days Ago | JR101591",
       "Region": "North America"
     },
     {
@@ -1084,8 +1240,19 @@
       "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2027-Summer-Internship-Program---Trading--Abu-Dhabi_JR101586",
       "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 7 Days Ago | JR101586",
+      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 8 Days Ago | JR101586",
       "Region": "Middle East"
+    },
+    {
+      "Company": "Brevan Howard",
+      "Title": "2027 Summer Internship Program – Trading, Geneva",
+      "Department": "",
+      "Location": "Geneva",
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607",
+      "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted Today | JR101607",
+      "Region": "Europe"
     },
     {
       "Company": "Brevan Howard",
@@ -1095,7 +1262,7 @@
       "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Trading--London_JR101584",
       "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 7 Days Ago | JR101584",
+      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 8 Days Ago | JR101584",
       "Region": "Europe"
     },
     {
@@ -1106,7 +1273,7 @@
       "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Trading--New-York_JR101583",
       "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 6 Days Ago | JR101583",
+      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 7 Days Ago | JR101583",
       "Region": "North America"
     },
     {
@@ -1117,7 +1284,7 @@
       "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Singapore/XMLNAME-2027-Summer-Internship-Program---Trading--Singapore_JR101587",
       "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 6 Days Ago | JR101587",
+      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 7 Days Ago | JR101587",
       "Region": "Asia"
     },
     {
@@ -1152,6 +1319,28 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-07-20T11:59:16-04:00 | career_page=https://www.chicagotrading.com/careers/ | company_wrapper=https://www.chicagotrading.com/careers/job?gh_jid=4708230005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Chicago Trading Company (CTC) is a premier proprietary trading firm specializing in options market making. Our collaborative culture fuels innovation in quantitative research, systematic trading strategies, and cutting-edge trading technology. For over three decades CTC has provided critical liquidity across derivatives exchanges worldwide - making them fairer, more transparent, and more efficient. We strive to be the most innovative firm in the industry today, tomorrow, and long into the future while upholding ethical excellence. We believe that CTC makes a positive impact on the markets, the lives of our employees, and all the communities to wh...",
       "Region": "North America"
+    },
+    {
+      "Company": "Citadel",
+      "Title": "Investment & Trading - Intern (Europe)",
+      "Department": "",
+      "Location": "London, Paris",
+      "URL": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "Quantitative Trading - Intern (Europe)",
+      "Department": "",
+      "Location": "London, Paris",
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting",
+      "Notes": "internship timing not stated in title",
+      "Region": "Europe"
     },
     {
       "Company": "D. E. Shaw",
@@ -1239,8 +1428,8 @@
       "Source": "Greenhouse:davinciderivatives",
       "Status": "Confirmed official posting",
       "Department": "Trading",
-      "Notes": "posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Deutsche Bank",
@@ -1250,7 +1439,7 @@
       "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Liquidity-Risk-Intern_R0446573-1",
       "Source": "Career page Workday:db/DBWebsite",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted 18 Days Ago | R0446573",
+      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted 19 Days Ago | R0446573",
       "Region": "Europe"
     },
     {
@@ -1272,7 +1461,7 @@
       "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Implementation-Support---Corporate-Bank-Milan--f-m-x-_R0442822",
       "Source": "Career page Workday:db/DBWebsite",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0442822",
+      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Yesterday | R0442822",
       "Region": "Remote / Unspecified"
     },
     {
@@ -1283,7 +1472,7 @@
       "URL": "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Investment-Strategy-Research--Undergraduate-and-Masters-_2026-9037",
       "Source": "Career page Workday:dimensional/DFA_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://careers.dimensional.com/ | Posted 18 Days Ago | 2026-9037",
+      "Notes": "career_page=https://careers.dimensional.com/ | Posted 19 Days Ago | 2026-9037",
       "Region": "Remote / Unspecified"
     },
     {
@@ -1294,7 +1483,7 @@
       "URL": "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Portfolio-Management--Undergraduate---Master-s-_2026-8998",
       "Source": "Career page Workday:dimensional/DFA_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://careers.dimensional.com/ | Posted 27 Days Ago | 2026-8998",
+      "Notes": "career_page=https://careers.dimensional.com/ | Posted 28 Days Ago | 2026-8998",
       "Region": "Remote / Unspecified"
     },
     {
@@ -1305,7 +1494,7 @@
       "URL": "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022",
       "Source": "Career page Workday:dimensional/DFA_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://careers.dimensional.com/ | Posted 6 Days Ago | 2026-9022",
+      "Notes": "career_page=https://careers.dimensional.com/ | Posted 7 Days Ago | 2026-9022",
       "Region": "North America"
     },
     {
@@ -1317,8 +1506,8 @@
       "Source": "Greenhouse:confidentialsportstradingfirm",
       "Status": "Confirmed official posting",
       "Department": "Technology",
-      "Notes": "posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "DL Trading",
@@ -1329,8 +1518,8 @@
       "Source": "Greenhouse:confidentialsportstradingfirm",
       "Status": "Confirmed official posting",
       "Department": "Technology",
-      "Notes": "posted=2026-07-23T18:11:50-04:00 | posted=2026-07-23T18:11:50-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-23T18:11:50-04:00 | posted=2026-07-23T18:11:50-04:00 | posted=2026-07-23T18:11:50-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "DRW",
@@ -1379,17 +1568,6 @@
     {
       "Company": "DRW",
       "Title": "Quantitative Research Intern",
-      "Department": "Campus",
-      "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-07-13T05:11:55-04:00 | career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7957756 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse back...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Quantitative Research Intern",
       "Department": "Campus Quantitative Research",
       "Location": "Chicago, New York City",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
@@ -1397,6 +1575,17 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-07-13T10:32:14-04:00 | career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7818540 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse back...",
       "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Quantitative Research Intern",
+      "Department": "Campus",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-07-13T05:11:55-04:00 | career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7957756 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Research Intern you will have an opportunity to solve challenging problems arising in a trading environment while utilizing the latest statistical scientific algorithms, machine learning techniques and derivatives pricing theory. The teams focus on non-latency sensitive investment opportunities and multi-asset class derivatives strategies across geographies. Our teams emphasize cutting-edge innovative scientific research and collaboration, allowing you to gain a deeper understanding of quantitative trading. You will find great minds with diverse back...",
+      "Region": "Europe"
     },
     {
       "Company": "DRW",
@@ -1434,17 +1623,6 @@
     {
       "Company": "DRW",
       "Title": "Software Developer Intern",
-      "Department": "Campus",
-      "Location": "Chicago",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-07-13T10:09:04-04:00 | career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, ...",
-      "Region": "North America"
-    },
-    {
-      "Company": "DRW",
-      "Title": "Software Developer Intern",
       "Department": "Campus Software Engineering",
       "Location": "Amsterdam",
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
@@ -1456,13 +1634,13 @@
     {
       "Company": "DRW",
       "Title": "Software Developer Intern",
-      "Department": "Campus Software Engineering",
-      "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "Department": "Campus",
+      "Location": "Chicago",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
       "Source": "Career page Greenhouse:drweng",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-07-13T05:04:35-04:00 | career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7942281 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organised social events to truly discover what it is like to live and work in London. How you will make an impact… Design, d...",
-      "Region": "Europe"
+      "Notes": "posted=2026-07-13T10:09:04-04:00 | career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7992936 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, ...",
+      "Region": "North America"
     },
     {
       "Company": "DRW",
@@ -1474,6 +1652,17 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-07-13T11:00:15-04:00 | career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7991196 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will join one of our development teams supporting our network development initiatives or trading businesses. Depending on the team you join, you will build advanced trading, analysis and risk applications, or advanced monitoring and automation systems leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your internship. While your days will have you immersed in complex projects direct...",
       "Region": "North America"
+    },
+    {
+      "Company": "DRW",
+      "Title": "Software Developer Intern",
+      "Department": "Campus Software Engineering",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-07-13T05:04:35-04:00 | career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=7942281 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Developer Intern , you will build advanced trading and risk applications leveraging cutting-edge technology. DRW enables our Software Developer Interns to develop computationally intensive software under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organised social events to truly discover what it is like to live and work in London. How you will make an impact… Design, d...",
+      "Region": "Europe"
     },
     {
       "Company": "DRW",
@@ -1510,6 +1699,17 @@
     },
     {
       "Company": "DV Trading",
+      "Title": "2027 Quantitative Research Intern (DV Equities)",
+      "Department": "DV Equities",
+      "Location": "Hong Kong",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733877005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-09-15T22:59:27-04:00 | career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4733877005 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | About Us: Founded 20 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America, Europe and Asia. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. Overview: We are looking for a...",
+      "Region": "Asia"
+    },
+    {
+      "Company": "DV Trading",
       "Title": "AI Engineer Intern - Summer 2027",
       "Department": "Technology",
       "Location": "Chicago",
@@ -1523,23 +1723,23 @@
       "Company": "DV Trading",
       "Title": "Client Platforms Engineer Intern - Summer 2027",
       "Department": "Technology",
-      "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4732700005",
-      "Source": "Career page Greenhouse:dvtrading",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-10T10:11:10-04:00 | career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4732700005 | internship timing: Summer 2027; graduation eligibility mentions: 2028 | About Us : Founded 20 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America, Europe and Asia. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. Role Overview: DV Trading is looking for a...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DV Trading",
-      "Title": "Client Platforms Engineer Intern - Summer 2027",
-      "Department": "Technology",
       "Location": "New York",
       "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
       "Source": "Career page Greenhouse:dvtrading",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-09-10T10:08:34-04:00 | career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4732697005 | internship timing: Summer 2027; graduation eligibility mentions: 2028 | About Us : Founded 20 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America, Europe and Asia. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. Role Overview: DV Trading is looking for a...",
       "Region": "North America"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Client Platforms Engineer Intern - Summer 2027",
+      "Department": "Technology",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4732700005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-09-10T10:11:10-04:00 | career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4732700005 | internship timing: Summer 2027; graduation eligibility mentions: 2028 | About Us : Founded 20 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America, Europe and Asia. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. Role Overview: DV Trading is looking for a...",
+      "Region": "Europe"
     },
     {
       "Company": "DV Trading",
@@ -1644,23 +1844,23 @@
       "Company": "DV Trading",
       "Title": "Trading Intern - Summer 2027 (DV Commodities)",
       "Department": "DV Commodities",
-      "Location": "London",
-      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
-      "Source": "Career page Greenhouse:dvtrading",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-08-12T10:25:45-04:00 | career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719135005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. DV Commodities is a division ...",
-      "Region": "Europe"
-    },
-    {
-      "Company": "DV Trading",
-      "Title": "Trading Intern - Summer 2027 (DV Commodities)",
-      "Department": "DV Commodities",
       "Location": "New York",
       "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719134005",
       "Source": "Career page Greenhouse:dvtrading",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-08-17T14:04:12-04:00 | career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719134005 | internship timing: Summer 2027; graduation eligibility mentions: 2028 | About Us : Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. DV Commodities is a division within...",
       "Region": "North America"
+    },
+    {
+      "Company": "DV Trading",
+      "Title": "Trading Intern - Summer 2027 (DV Commodities)",
+      "Department": "DV Commodities",
+      "Location": "London",
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
+      "Source": "Career page Greenhouse:dvtrading",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-08-12T10:25:45-04:00 | career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4719135005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | About Us : Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. DV Commodities is a division ...",
+      "Region": "Europe"
     },
     {
       "Company": "Fidelity Investments",
@@ -1670,8 +1870,19 @@
       "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1",
       "Source": "Career page Workday:fmr/fidelitycareers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://fmr.wd1.myworkdayjobs.com/fidelitycareers/ | Posted Today | 2129754",
+      "Notes": "career_page=https://fmr.wd1.myworkdayjobs.com/fidelitycareers/ | Posted Yesterday | 2129754",
       "Region": "Europe"
+    },
+    {
+      "Company": "Five Rings",
+      "Title": "Summer 2027 - Trading Operations Engineer Intern",
+      "Department": "Trading Operations",
+      "Location": "New York",
+      "URL": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008",
+      "Source": "Career page Greenhouse:fiveringsllc",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-09-15T09:36:38-04:00 | career_page=https://job-boards.greenhouse.io/fiveringsllc | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=5420708008 | internship timing: Summer 2027 | About Five Rings Five Rings is a proprietary trading firm founded with a vision of combining strategy, innovation and technology to succeed in today’s global markets. With offices in New York, Boca Raton, London and Amsterdam, Five Rings trades in various domestic and international markets, both established and esoteric. Our team constantly seeks new opportunities, analyzes their risks and rewards, and creates strategies and tools to capitalize on them. We have an open culture and encourage the flow of knowledge and ideas between all areas of the firm. About the Role Five Rings offers an intensive summer internship program. The program includes immersion in both hands-on projects and classr...",
+      "Region": "North America"
     },
     {
       "Company": "Five Rings",
@@ -1709,13 +1920,14 @@
     {
       "Company": "Flow Traders",
       "Title": "Trading Intern",
-      "Department": "Trading",
       "Location": "Hong Kong",
+      "Region": "Asia",
       "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/8102618",
       "Source": "Career page Greenhouse:flowtraders",
       "Status": "Confirmed official posting",
+      "Department": "Trading",
       "Notes": "posted=2026-08-04T03:37:55-04:00 | career_page=https://www.flowtraders.com/careers | company_wrapper=https://www.flowtraders.com/job?gh_jid=8102618 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Flow Traders is looking for entrepreneurial, competitive, and analytical students to join our Trading department as an Intern. What better way to find out if a career in Trading is something for you, than by experiencing it yourself as a Trading Intern! You will get a 360-degree view of our role in the financial markets, how our Traders seize opportunities, and how they work together as a team to optimize and improve their trading desk. This Trading internship is about immersing yourself in the financial markets and experiencing trading up close. You do not need to have a financial background; we will teach you all you need to know. Experience with a scient...",
-      "Region": "Asia"
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Geneva Trading",
@@ -2264,7 +2476,7 @@
       "URL": "https://higher.gs.com/roles/170863",
       "Source": "Official Goldman Sachs Higher API",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-09 | role_id=170863 | program=Summer Analyst | division=Global Investment Research Division",
+      "Notes": "posted=2026-09-15 | role_id=170863 | program=Summer Analyst | division=Global Investment Research Division",
       "Region": "Europe"
     },
     {
@@ -2429,7 +2641,7 @@
       "URL": "https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Singapore/Research-Intern_JR102797-1",
       "Source": "Career page Workday:gunvor/Gunvor_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers | Posted 11 Days Ago | JR102797",
+      "Notes": "career_page=https://gunvorgroup.com/careers/ | Posted 12 Days Ago | JR102797",
       "Region": "Asia"
     },
     {
@@ -2496,8 +2708,8 @@
       "Source": "Greenhouse:imc",
       "Status": "Confirmed official posting",
       "Department": "Development (Group)",
-      "Notes": "posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "IMC Trading",
@@ -2606,7 +2818,7 @@
       "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Strategy-and-Transformation_R-15374-1",
       "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted 11 Days Ago | R-15374",
+      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted 12 Days Ago | R-15374",
       "Region": "Remote / Unspecified"
     },
     {
@@ -2617,7 +2829,7 @@
       "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Seoul-Seoul/Intern--Client-Portfolio-Management--Invesco-Real-Estate-Korea--6-months-_R-15500-1",
       "Source": "Career page Workday:invesco/IVZ",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted 6 Days Ago | R-15500",
+      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Today | R-15500",
       "Region": "Asia"
     },
     {
@@ -2653,12 +2865,12 @@
     {
       "Company": "Jane Street",
       "Title": "IT Operations Engineer",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8651274002/",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8641377002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Technology",
-      "Region": "Europe"
+      "Notes": "Internship; May-August; Technology",
+      "Region": "Asia"
     },
     {
       "Company": "Jane Street",
@@ -2673,12 +2885,22 @@
     {
       "Company": "Jane Street",
       "Title": "IT Operations Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8641377002/",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8651274002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; June-September; Technology",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Linux Engineer",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8626260002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Technology",
-      "Region": "Asia"
+      "Region": "North America"
     },
     {
       "Company": "Jane Street",
@@ -2699,16 +2921,6 @@
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Technology",
       "Region": "Asia"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Linux Engineer",
-      "Location": "New York",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8626260002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Technology",
-      "Region": "North America"
     },
     {
       "Company": "Jane Street",
@@ -2753,22 +2965,22 @@
     {
       "Company": "Jane Street",
       "Title": "Quantitative Researcher",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8623868002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Quantitative Researcher",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8474416002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
       "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Quantitative Researcher",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8623868002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
+      "Region": "Asia"
     },
     {
       "Company": "Jane Street",
@@ -2793,16 +3005,6 @@
     {
       "Company": "Jane Street",
       "Title": "Sales and Trading",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8537797002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Institutional Sales and Trading",
-      "Region": "Europe"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Sales and Trading",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8630687002/",
       "Source": "Official Jane Street jobs feed",
@@ -2812,13 +3014,13 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Software Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8617298002/",
+      "Title": "Sales and Trading",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8537797002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Technology",
-      "Region": "Asia"
+      "Notes": "Internship; June-September; Institutional Sales and Trading",
+      "Region": "Europe"
     },
     {
       "Company": "Jane Street",
@@ -2835,6 +3037,16 @@
       "Title": "Software Engineer",
       "Location": "Singapore",
       "URL": "https://www.janestreet.com/join-jane-street/position/8632392002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Technology",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Software Engineer",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8617298002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; May-August; Technology",
@@ -2909,8 +3121,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -2921,8 +3133,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -2933,8 +3145,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -2945,8 +3157,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -2957,8 +3169,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -2969,8 +3181,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -2981,8 +3193,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -2993,8 +3205,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -3005,8 +3217,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -3017,8 +3229,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -3029,8 +3241,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -3041,8 +3253,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -3053,8 +3265,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -3065,8 +3277,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -3077,8 +3289,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -3089,8 +3301,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -3101,8 +3313,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -3113,8 +3325,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "IT Infrastructure + WCW",
-      "Notes": "posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -3125,8 +3337,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "IT Infrastructure + WCW",
-      "Notes": "posted=2026-07-13T08:39:57-04:00 | posted=2026-07-13T08:39:57-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T08:39:57-04:00 | posted=2026-07-13T08:39:57-04:00 | posted=2026-07-13T08:39:57-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Jump Trading",
@@ -3137,8 +3349,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Man Group",
@@ -3149,8 +3361,8 @@
       "Source": "Greenhouse:mangroup",
       "Status": "Confirmed official posting",
       "Department": "Systematic",
-      "Notes": "posted=2026-09-04T12:06:19-04:00 | posted=2026-09-04T12:06:19-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-09-04T12:06:19-04:00 | posted=2026-09-04T12:06:19-04:00 | posted=2026-09-04T12:06:19-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Maven Securities",
@@ -3208,6 +3420,17 @@
       "Region": "North America"
     },
     {
+      "Company": "Morningstar",
+      "Title": "Morningstar Internship Program- Quantitative Research Intern 2027 (Campus)",
+      "Department": "",
+      "Location": "Chicago",
+      "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027--Campus-_REQ-058465",
+      "Source": "Career page Workday:morningstar/morningstar",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted Today | REQ-058465",
+      "Region": "North America"
+    },
+    {
       "Company": "Northern Trust Asset Management",
       "Title": "Risk and Compliance Intern",
       "Department": "",
@@ -3215,7 +3438,7 @@
       "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Risk-and-Compliance-Intern_R160771-1",
       "Source": "Career page Workday:ntrs/northerntrust",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://ntrs.wd1.myworkdayjobs.com/northerntrust | Posted 5 Days Ago | R160771",
+      "Notes": "career_page=https://ntrs.wd1.myworkdayjobs.com/northerntrust | Posted Today | R160771",
       "Region": "North America"
     },
     {
@@ -3226,7 +3449,7 @@
       "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1",
       "Source": "Career page Workday:ntrs/northerntrust",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://ntrs.wd1.myworkdayjobs.com/northerntrust | Posted 13 Days Ago | R160865",
+      "Notes": "career_page=https://ntrs.wd1.myworkdayjobs.com/northerntrust | Posted 14 Days Ago | R160865",
       "Region": "North America"
     },
     {
@@ -3237,7 +3460,7 @@
       "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1",
       "Source": "Career page Workday:ntrs/northerntrust",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://ntrs.wd1.myworkdayjobs.com/northerntrust | Posted 13 Days Ago | R160869",
+      "Notes": "career_page=https://ntrs.wd1.myworkdayjobs.com/northerntrust | Posted 14 Days Ago | R160869",
       "Region": "North America"
     },
     {
@@ -3248,7 +3471,7 @@
       "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1",
       "Source": "Career page Workday:ntrs/northerntrust",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://ntrs.wd1.myworkdayjobs.com/northerntrust | Posted 13 Days Ago | R160872",
+      "Notes": "career_page=https://ntrs.wd1.myworkdayjobs.com/northerntrust | Posted 14 Days Ago | R160872",
       "Region": "North America"
     },
     {
@@ -3259,7 +3482,7 @@
       "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1",
       "Source": "Career page Workday:ntrs/northerntrust",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://ntrs.wd1.myworkdayjobs.com/northerntrust | Posted 13 Days Ago | R160832",
+      "Notes": "career_page=https://ntrs.wd1.myworkdayjobs.com/northerntrust | Posted 14 Days Ago | R160832",
       "Region": "North America"
     },
     {
@@ -3293,8 +3516,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Hardware",
-      "Notes": "posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3305,8 +3528,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Software",
-      "Notes": "posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3316,9 +3539,9 @@
       "URL": "https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002",
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-07T21:18:06-04:00; internship timing: Summer; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | posted=2026-09-07T21:18:06-04:00 | revalidated_from_previous_scan=true",
+      "Notes": "posted=2026-09-07T21:18:06-04:00; internship timing: Summer; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | revalidated_from_previous_scan=true",
       "Region": "Asia",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3329,8 +3552,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Software",
-      "Notes": "posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3341,8 +3564,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Hardware",
-      "Notes": "posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3353,8 +3576,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Hardware",
-      "Notes": "posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3365,8 +3588,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Hardware",
-      "Notes": "posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3388,8 +3611,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Quantitative Traders",
-      "Notes": "posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3400,8 +3623,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Quantitative Research",
-      "Notes": "posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3412,8 +3635,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Quantitative Research",
-      "Notes": "posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3424,8 +3647,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Quantitative Traders",
-      "Notes": "posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3436,8 +3659,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Quantitative Traders",
-      "Notes": "posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3448,8 +3671,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Quantitative Traders",
-      "Notes": "posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3460,8 +3683,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Quantitative Traders",
-      "Notes": "posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3472,8 +3695,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Software",
-      "Notes": "posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3484,8 +3707,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Software",
-      "Notes": "posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Optiver",
@@ -3496,8 +3719,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Trading Analysts",
-      "Notes": "posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "PDT Partners",
@@ -3551,7 +3774,7 @@
       "URL": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1",
       "Source": "Career page Workday:pru/PGIM_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pru.wd5.myworkdayjobs.com/PGIM_Careers | Posted Today | R-125016",
+      "Notes": "career_page=https://pru.wd5.myworkdayjobs.com/PGIM_Careers | Posted Yesterday | R-125016",
       "Region": "Europe"
     },
     {
@@ -3564,7 +3787,7 @@
       "Status": "Confirmed official posting",
       "Department": "",
       "Notes": "career_page=https://pru.wd5.myworkdayjobs.com/Careers | Posted 11 Days Ago | R-124796 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "PIMCO",
@@ -3574,7 +3797,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-MBA--MFE-Summer-Intern---Associate--Portfolio-Management_R106832",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 13 Days Ago | R106832",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 14 Days Ago | R106832",
       "Region": "North America"
     },
     {
@@ -3585,19 +3808,8 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-MBA-Summer-Intern---Credit-Research-Analyst--US_R106831-1",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 13 Days Ago | R106831",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 14 Days Ago | R106831",
       "Region": "North America"
-    },
-    {
-      "Company": "PIMCO",
-      "Title": "2027 MBA Summer Intern – Strategist, Product Strategy Group, APAC",
-      "Department": "",
-      "Location": "4 Locations",
-      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Singapore/XMLNAME-2027-MBA-Summer-Intern---Strategist--Product-Strategy-Group--APAC_R106820",
-      "Source": "Career page Workday:pimco/pimco-careers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 13 Days Ago | R106820",
-      "Region": "Remote / Unspecified"
     },
     {
       "Company": "PIMCO",
@@ -3607,7 +3819,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Hong-Kong/XMLNAME-2027-MBA-Summer-Internship--PM---Public---Credit-Research-APAC_R106834",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 12 Days Ago | R106834",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 13 Days Ago | R106834",
       "Region": "Asia"
     },
     {
@@ -3618,7 +3830,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 13 Days Ago | R106749",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 14 Days Ago | R106749",
       "Region": "North America"
     },
     {
@@ -3629,7 +3841,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 13 Days Ago | R106830",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 14 Days Ago | R106830",
       "Region": "North America"
     },
     {
@@ -3640,7 +3852,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 17 Days Ago | R106605",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 18 Days Ago | R106605",
       "Region": "North America"
     },
     {
@@ -3651,7 +3863,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 13 Days Ago | R106804",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 14 Days Ago | R106804",
       "Region": "Europe"
     },
     {
@@ -3673,7 +3885,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 24 Days Ago | R106770",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 25 Days Ago | R106770",
       "Region": "Remote / Unspecified"
     },
     {
@@ -3684,7 +3896,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 13 Days Ago | R106816",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 14 Days Ago | R106816",
       "Region": "North America"
     },
     {
@@ -3695,7 +3907,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Portfolio-Management---Private-Strategies-Analyst--London_R106810-1",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 13 Days Ago | R106810",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 14 Days Ago | R106810",
       "Region": "Europe"
     },
     {
@@ -3706,7 +3918,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 27 Days Ago | R106626",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 28 Days Ago | R106626",
       "Region": "North America"
     },
     {
@@ -3717,7 +3929,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 27 Days Ago | R106745",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 28 Days Ago | R106745",
       "Region": "North America"
     },
     {
@@ -3728,7 +3940,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 14 Days Ago | R106800",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 15 Days Ago | R106800",
       "Region": "Europe"
     },
     {
@@ -3739,7 +3951,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 13 Days Ago | R106815",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 14 Days Ago | R106815",
       "Region": "North America"
     },
     {
@@ -3750,7 +3962,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 25 Days Ago | R106763",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 26 Days Ago | R106763",
       "Region": "North America"
     },
     {
@@ -3761,7 +3973,7 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Singapore/XMLNAME-2027-Summer-Internship---Portfolio-Management---Special-Situations-Team--APAC_R106835",
       "Source": "Career page Workday:pimco/pimco-careers",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 10 Days Ago | R106835",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 11 Days Ago | R106835",
       "Region": "Asia"
     },
     {
@@ -3784,8 +3996,8 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Department": "Internships",
-      "Notes": "posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Quantbot Technologies",
@@ -3796,8 +4008,8 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Department": "Internships",
-      "Notes": "posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Quantbot Technologies",
@@ -3808,8 +4020,8 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Department": "Internships",
-      "Notes": "posted=2026-08-07T13:51:59-04:00 | posted=2026-08-07T13:51:59-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-07T13:51:59-04:00 | posted=2026-08-07T13:51:59-04:00 | posted=2026-08-07T13:51:59-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Quantbot Technologies",
@@ -3820,8 +4032,8 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Department": "Internships",
-      "Notes": "posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Quantbot Technologies",
@@ -3832,8 +4044,8 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Department": "Internships",
-      "Notes": "posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Quantbot Technologies",
@@ -3844,8 +4056,8 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Department": "Internships",
-      "Notes": "posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Quantbot Technologies",
@@ -3856,8 +4068,8 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Department": "Internships",
-      "Notes": "posted=2026-08-07T13:44:08-04:00 | posted=2026-08-07T13:44:08-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-07T13:44:08-04:00 | posted=2026-08-07T13:44:08-04:00 | posted=2026-08-07T13:44:08-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -3867,9 +4079,9 @@
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002",
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-09T03:35:35-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-09-09T03:35:35-04:00 | revalidated_from_previous_scan=true",
+      "Notes": "posted=2026-09-09T03:35:35-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | revalidated_from_previous_scan=true",
       "Region": "Europe",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -3880,8 +4092,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Research/Trading",
-      "Notes": "posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -3892,8 +4104,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -3904,8 +4116,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -3916,8 +4128,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -3928,8 +4140,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -3940,8 +4152,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -3952,8 +4164,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -3964,8 +4176,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -3976,8 +4188,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -3988,8 +4200,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Research/Trading",
-      "Notes": "posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -4000,8 +4212,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Radix Trading",
@@ -4188,19 +4400,20 @@
       "Source": "Greenhouse:squarepointcapital",
       "Status": "Confirmed official posting",
       "Department": "Investment",
-      "Notes": "posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Squarepoint Capital",
       "Title": "Intern Software Developer - London - 2027",
-      "Department": "Technology",
       "Location": "London",
+      "Region": "Europe",
       "URL": "https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006",
       "Source": "Greenhouse:squarepointcapital",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2025-09-05T05:54:45-04:00; internship timing not stated in title; undergrad/BS/MS language found",
-      "Region": "Europe"
+      "Department": "Technology",
+      "Notes": "posted=2025-09-05T05:54:45-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2025-09-05T05:54:45-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Squarepoint Capital",
@@ -4211,8 +4424,8 @@
       "Source": "Greenhouse:squarepointcapital",
       "Status": "Confirmed official posting",
       "Department": "Technology",
-      "Notes": "posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Squarepoint Capital",
@@ -4223,8 +4436,8 @@
       "Source": "Greenhouse:squarepointcapital",
       "Status": "Confirmed official posting",
       "Department": "Technology",
-      "Notes": "posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+      "Notes": "posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
     },
     {
       "Company": "Stevens Capital Management",
@@ -4690,6 +4903,28 @@
     },
     {
       "Company": "Susquehanna International Group",
+      "Title": "Technology Co-op with Northeastern University",
+      "Department": "Technology - Software Engineering, Interns + Co-ops",
+      "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+      "URL": "https://careers.sig.com/jobs/11377?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-09-15T15:00:00+0000 | January 2027 Start | internship timing not stated in title | Overview Susquehanna’s co-op students directly impact day-to-day projects in our technology teams. The Susquehanna Co-op Program gives you an opportunity to apply what you learn in class to real world scenarios. We offer co-op classes at Susquehanna designed to further familiarize you with our business, the markets, and the different entities that operate under the Susquehanna umbrella. With experts in almost every discipline, we build some of the most powerful trading systems in the financial industry. By integrating sophisticated coding techniques with innovative engineering ideas, we design and optimize systems that can process massive amounts of data while still ensuring high performance and stability. We focus on the entire technology stack, always with an eye towards evolving a stable, sc...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Susquehanna International Group",
+      "Title": "Technology Co-op with RIT",
+      "Department": "Technology - Software Engineering, Interns + Co-ops",
+      "Location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+      "URL": "https://careers.sig.com/jobs/11378?lang=en-us",
+      "Source": "Official SIG jobs API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-09-15T15:01:00+0000 | January 2027 Start | internship timing not stated in title | Overview Susquehanna’s co-op students directly impact day-to-day projects in our technology teams. The Susquehanna Co-op Program gives you an opportunity to apply what you learn in class to real world scenarios. We offer co-op classes at Susquehanna designed to further familiarize you with our business, the markets, and the different entities that operate under the Susquehanna umbrella. With experts in almost every discipline, we build some of the most powerful trading systems in the financial industry. By integrating sophisticated coding techniques with innovative engineering ideas, we design and optimize systems that can process massive amounts of data while still ensuring high performance and stability. We focus on the entire technology stack, always with an eye towards evolving a stable, sc...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Susquehanna International Group",
       "Title": "Trading Operations Analyst Internship: Summer 2027",
       "Department": "Operations, Interns + Co-ops",
       "Location": "Hong Kong, Hong Kong",
@@ -4751,7 +4986,7 @@
       "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Digital-Assets-Strategy-Internship-Program_83497",
       "Source": "Career page Workday:troweprice/TRowePrice",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted 10 Days Ago | 83497",
+      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted 11 Days Ago | 83497",
       "Region": "North America"
     },
     {
@@ -4762,7 +4997,7 @@
       "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
       "Source": "Career page Workday:troweprice/TRowePrice",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted 10 Days Ago | 82718",
+      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted 11 Days Ago | 82718",
       "Region": "North America"
     },
     {
@@ -4773,7 +5008,7 @@
       "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
       "Source": "Career page Workday:troweprice/TRowePrice",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted 10 Days Ago | 82699",
+      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted 11 Days Ago | 82699",
       "Region": "North America"
     },
     {
@@ -4916,7 +5151,7 @@
       "URL": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151581007?gh_jid=5151581007",
       "Source": "Career page Greenhouse:transmarketgroup",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-08-03T10:53:55-04:00 | career_page=https://job-boards.greenhouse.io/transmarketgroup | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=5151581007 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Who We Are Founded in 1980 as Aardvark Financial, TransMarket Group (TMG) is a privately held global markets proprietary trading firm in Chicago. We use next-generation technology to capture opportunities around the world and manage risk in financial markets. Our mission is to bless others through the services we provide and through the generous stewardship of the wealth we create. TMG is a well-established and profitable business as a respected member of the global financial system for over 40 years, but also is like a startup because the potential of our group is at least one order of magnitude greater than what we are currently prod...",
+      "Notes": "posted=2026-08-03T10:53:55-04:00 | career_page=https://www.transmarketgroup.com/careers | company_wrapper=https://www.transmarketgroup.com/job?gh_jid=5151581007 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Who We Are Founded in 1980 as Aardvark Financial, TransMarket Group (TMG) is a privately held global markets proprietary trading firm in Chicago. We use next-generation technology to capture opportunities around the world and manage risk in financial markets. Our mission is to bless others through the services we provide and through the generous stewardship of the wealth we create. TMG is a well-established and profitable business as a respected member of the global financial system for over 40 years, but also is like a startup because the potential of our group is at least one order of magnitude greater than what we are currently producing. We...",
       "Region": "North America"
     },
     {
@@ -4927,7 +5162,7 @@
       "URL": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007",
       "Source": "Career page Greenhouse:transmarketgroup",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-08-14T11:18:03-04:00 | career_page=https://job-boards.greenhouse.io/transmarketgroup | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=5212335007 | internship timing not stated in title | Who We Are Founded in 1980 as Aardvark Financial, TransMarket Group (TMG) is a privately held global markets proprietary trading firm in Chicago. We use next-generation technology to capture opportunities around the world and manage risk in financial markets. Our mission is to bless others through the services we provide and through the generous stewardship of the wealth we create. TMG is a well-established and profitable business as a respected member of the global financial system for over 40 years, but also is like a startup because the potential of our group is at least one order of magnitude greater than what we are currently producing. We have an entrepreneurial culture and...",
+      "Notes": "posted=2026-08-14T11:18:03-04:00 | career_page=https://www.transmarketgroup.com/careers | company_wrapper=https://www.transmarketgroup.com/job?gh_jid=5212335007 | internship timing not stated in title | Who We Are Founded in 1980 as Aardvark Financial, TransMarket Group (TMG) is a privately held global markets proprietary trading firm in Chicago. We use next-generation technology to capture opportunities around the world and manage risk in financial markets. Our mission is to bless others through the services we provide and through the generous stewardship of the wealth we create. TMG is a well-established and profitable business as a respected member of the global financial system for over 40 years, but also is like a startup because the potential of our group is at least one order of magnitude greater than what we are currently producing. We have an entrepreneurial culture and collabor...",
       "Region": "North America"
     },
     {
@@ -5015,7 +5250,7 @@
       "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765",
       "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 14 Days Ago | 181765",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 15 Days Ago | 181765",
       "Region": "Remote / Unspecified"
     },
     {
@@ -5026,7 +5261,7 @@
       "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766",
       "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 14 Days Ago | 181766",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 15 Days Ago | 181766",
       "Region": "North America"
     },
     {
@@ -5037,7 +5272,7 @@
       "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764",
       "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 3 Days Ago | 181764",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 4 Days Ago | 181764",
       "Region": "Remote / Unspecified"
     },
     {
@@ -5048,7 +5283,7 @@
       "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_181762",
       "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 3 Days Ago | 181762",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 4 Days Ago | 181762",
       "Region": "North America"
     },
     {
@@ -5059,7 +5294,7 @@
       "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851",
       "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 14 Days Ago | 181851",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 15 Days Ago | 181851",
       "Region": "North America"
     },
     {
@@ -5070,7 +5305,7 @@
       "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1",
       "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 28 Days Ago | 177688",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 29 Days Ago | 177688",
       "Region": "Remote / Unspecified"
     },
     {
@@ -5081,7 +5316,7 @@
       "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1",
       "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 3 Days Ago | 177687",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 4 Days Ago | 177687",
       "Region": "North America"
     },
     {
@@ -5092,7 +5327,7 @@
       "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788",
       "Source": "Career page Workday:vanguard/vanguard_external",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 18 Days Ago | 181788",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 19 Days Ago | 181788",
       "Region": "North America"
     },
     {

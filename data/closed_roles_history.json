@@ -167,7 +167,8 @@
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-09-08T13:17:19.298Z",
     "detectedClosedAt": "2026-09-10T14:14:51.943Z",
-    "lastSeenEvidence": "committed_scan_history"
+    "lastSeenEvidence": "committed_scan_history",
+    "reopenedAt": "2026-09-16T03:09:11.438Z"
   },
   {
     "Company": "Susquehanna International Group",
@@ -179,7 +180,8 @@
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-09-08T13:17:19.298Z",
     "detectedClosedAt": "2026-09-10T14:14:51.943Z",
-    "lastSeenEvidence": "committed_scan_history"
+    "lastSeenEvidence": "committed_scan_history",
+    "reopenedAt": "2026-09-16T03:09:11.438Z"
   },
   {
     "Company": "BMO Capital Markets",

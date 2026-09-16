@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T19:38:05.061Z",
+  "updatedAt": "2026-09-16T03:09:11.438Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -3346,13 +3346,13 @@
     "https://careers.sig.com/jobs/11377?lang=en-us": {
       "URL": "https://careers.sig.com/jobs/11377?lang=en-us",
       "first_seen": "2026-09-07",
-      "date": "2026-09-04",
+      "date": "2026-09-15",
       "evidence": "employer_field"
     },
     "https://careers.sig.com/jobs/11378?lang=en-us": {
       "URL": "https://careers.sig.com/jobs/11378?lang=en-us",
       "first_seen": "2026-09-07",
-      "date": "2026-09-04",
+      "date": "2026-09-15",
       "evidence": "employer_field"
     },
     "troweprice|83497|2027 digital assets strategy internship program": {
@@ -3826,7 +3826,7 @@
     "https://higher.gs.com/roles/170863": {
       "URL": "https://higher.gs.com/roles/170863",
       "first_seen": "2026-09-13",
-      "date": "2026-09-09",
+      "date": "2026-09-15",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/172894": {
@@ -3947,6 +3947,114 @@
       "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805",
       "first_seen": "2026-09-14",
       "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "bailliegifford|R0004565|cloud, infrastructure & security summer internship 2027": {
+      "URL": "https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Cloud--Infrastructure---Security-Summer-Internship-2027_R0004565",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "bailliegifford|R0004566|software engineering & innovation summer internship 2027": {
+      "URL": "https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Software-Engineering---Innovation-Summer-Internship-2027_R0004566",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266467|2027 mba internship program - client & product functions - research & markets advisory - new york": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266468|2027 quantitative masters internship program - investments - global capital markets - new york": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266469|2027 quantitative masters internship program - investments - global capital markets - san francisco": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266470|2027 quantitative masters internship program - investments - portfolio management - atlanta": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266471|2027 quantitative masters internship program - investments - portfolio management - new york": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266472|2027 quantitative masters internship program - investments - portfolio management - san francisco": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---San-Francisco_R266472",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266473|2027 quantitative masters internship program - investments - quantitative investing - new york": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---New-York_R266473",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266474|2027 quantitative masters internship program - investments - quantitative investing - san francisco": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---San-Francisco_R266474",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266475|2027 quantitative masters internship program - sales & relationship management - institutional wealth - chicago": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266477|2027 quantitative masters internship program - technology - analytics & modeling - new york": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266476|2027 quantitative masters internship program - technology - analytics & modeling - san francisco": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266465|2027 quantitative masters internship programme - investments - quantitative investing - london": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "brevanhoward|JR101607|2027 summer internship program – trading, geneva": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4733877005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733877005",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008": {
+      "URL": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_field"
+    },
+    "morningstar|REQ-058465|morningstar internship program- quantitative research intern 2027 (campus)": {
+      "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027--Campus-_REQ-058465",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
       "evidence": "employer_relative_label"
     }
   }
