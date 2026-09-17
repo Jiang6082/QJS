@@ -1,9 +1,16 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 86
-Last updated: 2026-09-16T03:09:11.438Z
+Total closure events recorded: 90
+Last updated: 2026-09-17T19:22:12.755Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-09-17 (4)
+
+- **Jane Street** - [IT Operations Engineer](https://www.janestreet.com/join-jane-street/position/8377831002/) - Hong Kong
+- **Jane Street** - [Linux Engineer](https://www.janestreet.com/join-jane-street/position/8377832002/) - Hong Kong
+- **Point72** - [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) - New York
+- **Tower Research Capital** - [Business Analytics Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8041512) - Amsterdam
 
 ### 2026-09-14 (1)
 
@@ -54,7 +61,7 @@ Closures require two independent successful observations of absence from the rol
 
 - **D. E. Shaw** - [Systems Administrator Intern (New York)](https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921) - New York
 - **Quantbot Technologies** - [Machine Learning Research Engineer Internship - 2027 [New York]](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) - New York — _reopened 2026-09-07_
-- **Quantbot Technologies** - [Quantitative Developer Internship - 2027 [New York]](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) - New York
+- **Quantbot Technologies** - [Quantitative Developer Internship - 2027 [New York]](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) - New York — _reopened 2026-09-17_
 - **Vanguard** - [College to Corporate IT Internship - Data Science (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765) - Charlotte, NC — _reopened 2026-09-07_
 
 ### 2026-08-29 (1)
@@ -168,7 +175,7 @@ Closures require two independent successful observations of absence from the rol
 - **IMC Trading** - [2027 - Software Engineering Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860319101) - Mumbai, India
 - **T. Rowe Price** - [2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) - Baltimore, MD — _reopened 2026-08-05_
 - **T. Rowe Price** - [2027 Quantitative Equity Investing Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) - Baltimore, MD — _reopened 2026-08-05_
-- **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) - 2 Locations
+- **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) - 2 Locations — _reopened 2026-09-17_
 
 ### 2026-07-23 (2)
 

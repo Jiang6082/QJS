@@ -1,5 +1,59 @@
 [
   {
+    "Company": "Jane Street",
+    "Title": "IT Operations Engineer",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.janestreet.com/join-jane-street/position/8377831002/",
+    "Source": "Official Jane Street jobs feed",
+    "Status": "Confirmed official posting",
+    "Notes": "Internship; December-February; Technology",
+    "lastSeenOpenAt": "2026-09-16T03:09:11.438Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-17T19:22:12.755Z"
+  },
+  {
+    "Company": "Jane Street",
+    "Title": "Linux Engineer",
+    "Location": "Hong Kong",
+    "Region": "Asia",
+    "URL": "https://www.janestreet.com/join-jane-street/position/8377832002/",
+    "Source": "Official Jane Street jobs feed",
+    "Status": "Confirmed official posting",
+    "Notes": "Internship; December-February; Technology",
+    "lastSeenOpenAt": "2026-09-16T03:09:11.438Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-17T19:22:12.755Z"
+  },
+  {
+    "Company": "Point72",
+    "Title": "Quantitative Developer Intern",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
+    "Source": "Career page Greenhouse:point72",
+    "Status": "Confirmed official posting",
+    "Department": "Quant Management",
+    "Notes": "posted=2026-08-17T14:03:15-04:00 | career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8721562002 | internship timing not stated in title; graduation eligibility mentions: 2027 | About the Team A highly collaborative, fast-growing team, Point72 Internal Alpha Capture (IAC) is developing scalable quantitative equity trading signals that leverage rigorous research, state-of-the-art machine learning methods, a broad range of public and proprietary data sources, and unparalleled computing power. We are looking for exceptional students to join us as quantitative developer interns for Winter 2027 (January to April). Our interns will work closely with our team, receive comprehensive, in-depth training, and help develop novel signals that may have a real impact. WHAT YOU'LL DO Build and enhance reliable, low-latency Java components such as messaging ...",
+    "lastSeenOpenAt": "2026-09-16T03:09:11.438Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-17T19:22:12.755Z"
+  },
+  {
+    "Company": "Tower Research Capital",
+    "Title": "Business Analytics Intern - 6 Month Internship Opportunity",
+    "Department": "Operations",
+    "Location": "Amsterdam",
+    "URL": "https://www.tower-research.com/open-positions/?gh_jid=8041512",
+    "Source": "Career page Greenhouse:towerresearchcapital",
+    "Status": "Confirmed official posting",
+    "Notes": "posted=2026-07-03T04:44:43-04:00 | career_page=https://tower-research.com/open-positions/ | company_wrapper=https://tower-research.com/open-positions/job?gh_jid=8041512 | internship timing not stated in title | Tower Research Capital is a leading quantitative trading firm founded in 1998. Tower has built its business on a high-performance platform and independent trading teams. We have a 25+ year track record of innovation and a reputation for discovering unique market opportunities. Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization. Engineers thrive at Tower while developing electronic trading infrastructure at a world class level. Our engineers solve challenging problems in the realms of low...",
+    "Region": "Europe",
+    "lastSeenOpenAt": "2026-09-16T03:09:11.438Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-17T19:22:12.755Z"
+  },
+  {
     "Company": "Vatic Investments",
     "Title": "AI Research Internship (UAE)",
     "Location": "Abu Dhabi",
@@ -362,7 +416,8 @@
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-28T00:47:40.240Z",
     "detectedClosedAt": "2026-08-31T00:33:48.797Z",
-    "lastSeenEvidence": "committed_scan_history"
+    "lastSeenEvidence": "committed_scan_history",
+    "reopenedAt": "2026-09-17T19:22:12.755Z"
   },
   {
     "Company": "Vanguard",
@@ -1034,7 +1089,8 @@
     "lastSeenOpenAt": "2026-07-25T15:41:58.537Z",
     "detectedClosedAt": "2026-07-26T15:38:23.331Z",
     "backfilled": true,
-    "lastSeenEvidence": "committed_scan_history"
+    "lastSeenEvidence": "committed_scan_history",
+    "reopenedAt": "2026-09-17T19:22:12.755Z"
   },
   {
     "Company": "IMC Trading",

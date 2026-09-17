@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T03:09:11.438Z",
+  "updatedAt": "2026-09-17T19:22:12.755Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -1972,8 +1972,8 @@
     "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009": {
       "URL": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009",
       "first_seen": "2026-08-11",
-      "date": null,
-      "evidence": null
+      "date": "2026-08-07",
+      "evidence": "employer_field"
     },
     "https://www.quantbot.com/careers/4299496009?gh_jid=4299496009": {
       "URL": "https://www.quantbot.com/careers/4299496009?gh_jid=4299496009",
@@ -4055,6 +4055,84 @@
       "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027--Campus-_REQ-058465",
       "first_seen": "2026-09-15",
       "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/cclfg/jobs/4407698009": {
+      "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4407698009",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4733880005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733880005",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-15",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/genevatrading/jobs/5240107007": {
+      "URL": "https://job-boards.greenhouse.io/genevatrading/jobs/5240107007",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-17",
+      "evidence": "employer_field"
+    },
+    "https://www.janestreet.com/join-jane-street/position/8810604002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8810604002/",
+      "first_seen": "2026-09-17",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101": {
+      "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-17",
+      "evidence": "employer_field"
+    },
+    "pimco|R106830|2027 phd/mfe summer intern – quantitative portfolio management": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8207942": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/Talos-Trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935": {
+      "URL": "https://jobs.ashbyhq.com/Talos-Trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d": {
+      "URL": "https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e": {
+      "URL": "https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_field"
+    },
+    "wellington|R94829|portfolio reference data analyst co-op": {
+      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_relative_label"
+    },
+    "wellington|R94827|quantitative trading co-op": {
+      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_relative_label"
+    },
+    "wellington|R94873|supervisory practices & analytics co-op": {
+      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Supervisory-Practices---Analytics-Co-Op_R94873-1",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-17",
       "evidence": "employer_relative_label"
     }
   }
