@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T19:26:50.859Z",
-  "scanStartedAt": "2026-09-17T19:22:12.755Z",
+  "generatedAt": "2026-09-18T12:57:34.953Z",
+  "scanStartedAt": "2026-09-18T12:52:39.011Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 142,
+      "jobsSeen": 141,
       "relevantInternships": 0
     },
     {
@@ -353,7 +353,7 @@
       "careerPages": [
         "http://www.armadausa.com/careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -540,7 +540,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 28,
+      "jobsSeen": 27,
       "relevantInternships": 4
     },
     {
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 173,
+      "jobsSeen": 176,
       "relevantInternships": 16
     },
     {
@@ -885,7 +885,7 @@
       "careerPages": [
         "https://barakmarketmaking.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 231,
+      "jobsSeen": 232,
       "relevantInternships": 9
     },
     {
@@ -1054,8 +1054,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 130,
-      "relevantInternships": 3
+      "jobsSeen": 131,
+      "relevantInternships": 2
     },
     {
       "company": "Domeyard LP",
@@ -1240,7 +1240,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 83,
+      "jobsSeen": 84,
       "relevantInternships": 5
     },
     {
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 230,
+      "jobsSeen": 229,
       "relevantInternships": 0
     },
     {
@@ -1434,7 +1434,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 42,
+      "jobsSeen": 45,
       "relevantInternships": 1
     },
     {
@@ -1664,7 +1664,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 63,
+      "jobsSeen": 62,
       "relevantInternships": 0
     },
     {
@@ -2113,7 +2113,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 173,
+      "jobsSeen": 171,
       "relevantInternships": 17
     },
     {
@@ -2161,7 +2161,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2472,7 +2472,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 78,
+      "jobsSeen": 77,
       "relevantInternships": 12
     },
     {
@@ -3692,7 +3692,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 56,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -3764,7 +3764,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 30,
+      "jobsSeen": 29,
       "relevantInternships": 0
     },
     {
@@ -3888,8 +3888,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 87,
-      "relevantInternships": 10
+      "jobsSeen": 89,
+      "relevantInternships": 12
     },
     {
       "company": "Two Sigma",
@@ -3931,7 +3931,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 49,
+      "jobsSeen": 51,
       "relevantInternships": 13
     },
     {
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 87,
+      "jobsSeen": 85,
       "relevantInternships": 1
     },
     {
@@ -4267,7 +4267,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 2,
       "relevantInternships": 0
     }
   ]

@@ -2,9 +2,9 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-09-17 &nbsp;•&nbsp; **574 open roles** &nbsp;•&nbsp; **3 released today** &nbsp;•&nbsp; **156 opened in 3 weeks** &nbsp;•&nbsp; **90 closure events** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-09-18 &nbsp;•&nbsp; **575 open roles** &nbsp;•&nbsp; **5 released today** &nbsp;•&nbsp; **163 opened in 3 weeks** &nbsp;•&nbsp; **91 closure events** ([history](reports/closed_roles_history.md))
 
-> **Cumulative application queue:** [389 unique roles tracked; 363 active](reports/cumulative_application_roles.md)
+> **Cumulative application queue:** [391 unique roles tracked; 364 active](reports/cumulative_application_roles.md)
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [🔥 Opened in the Last 3 Weeks](#-opened-in-the-last-3-weeks) · [📚 Cumulative Application Queue](reports/cumulative_application_roles.md) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -12,30 +12,42 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-09-17_
+_Scan date: 2026-09-18_
 
-**3** currently open roles with a confirmed source release date of 2026-09-17:
+**5** currently open roles with a confirmed source release date of 2026-09-18:
 
-**North America**
+**Asia**
 
-- **Geneva Trading** — [AI Engineer Internship - Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5240107007) — Chicago Office
-- **Wellington Management** — [Supervisory Practices & Analytics Co-Op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Supervisory-Practices---Analytics-Co-Op_R94873-1) — Boston, MA, United States
-
-**Europe**
-
-- **Man Group** — [2027 Summer Technology Internship Programme](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101) — London
+- **Goldman Sachs** — [2026 \| Japan \| Tokyo \| Global Investment Research \| Seasonal / Off-cycle](https://higher.gs.com/roles/161037) — Tokyo, Japan
+- **Goldman Sachs** — [2027 \| APEJ \| Hong Kong \| Global Investment Research \| Summer Analyst](https://higher.gs.com/roles/170819) — Hong Kong, Hong Kong
+- **Goldman Sachs** — [2027 \| APEJ \| Hong Kong \| Global Investment Research, Macro Research, Economics \| Seasonal / Off-cycle Internship](https://higher.gs.com/roles/180086) — Hong Kong, Hong Kong
+- **Goldman Sachs** — [2027 \| APEJ \| Shanghai \| Global Investment Research \| Summer Analyst](https://higher.gs.com/roles/170820) — Shanghai, Shanghai, China
+- **Goldman Sachs** — [2027 \| Japan \| Tokyo \| Global Investment Research \| Summer Analyst](https://higher.gs.com/roles/170821) — Tokyo, Japan
 
 ---
 
 ## 🔥 Opened in the Last 3 Weeks
 
-_Official-source posting dates from 2026-08-28 through 2026-09-17. Only roles that are still present in the current scan are shown._
+_Official-source posting dates from 2026-08-29 through 2026-09-18. Only roles that are still present in the current scan are shown._
 
 <details>
-<summary><strong>2026-09-17</strong> — 3 roles</summary>
+<summary><strong>2026-09-18</strong> — 5 roles</summary>
+
+- **Goldman Sachs** — [2026 \| Japan \| Tokyo \| Global Investment Research \| Seasonal / Off-cycle](https://higher.gs.com/roles/161037) — Tokyo, Japan
+- **Goldman Sachs** — [2027 \| APEJ \| Hong Kong \| Global Investment Research \| Summer Analyst](https://higher.gs.com/roles/170819) — Hong Kong, Hong Kong
+- **Goldman Sachs** — [2027 \| APEJ \| Hong Kong \| Global Investment Research, Macro Research, Economics \| Seasonal / Off-cycle Internship](https://higher.gs.com/roles/180086) — Hong Kong, Hong Kong
+- **Goldman Sachs** — [2027 \| APEJ \| Shanghai \| Global Investment Research \| Summer Analyst](https://higher.gs.com/roles/170820) — Shanghai, Shanghai, China
+- **Goldman Sachs** — [2027 \| Japan \| Tokyo \| Global Investment Research \| Summer Analyst](https://higher.gs.com/roles/170821) — Tokyo, Japan
+
+</details>
+
+<details>
+<summary><strong>2026-09-17</strong> — 5 roles</summary>
 
 - **Geneva Trading** — [AI Engineer Internship - Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5240107007) — Chicago Office
 - **Man Group** — [2027 Summer Technology Internship Programme](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101) — London
+- **Tower Research Capital** — [Software Engineer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212158) — New York
+- **Tower Research Capital** — [Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212179) — Montreal
 - **Wellington Management** — [Supervisory Practices & Analytics Co-Op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Supervisory-Practices---Analytics-Co-Op_R94873-1) — Boston, MA, United States
 
 </details>
@@ -121,7 +133,7 @@ _Official-source posting dates from 2026-08-28 through 2026-09-17. Only roles th
 </details>
 
 <details>
-<summary><strong>2026-09-09</strong> — 19 roles</summary>
+<summary><strong>2026-09-09</strong> — 20 roles</summary>
 
 - **Barclays** — [2027 Customer and Digital - Data and Analytics Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278) — Glasgow Campus
 - **Barclays** — [2027 Customer and Digital - Data and Analytics Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280) — Canary Wharf, 1 Churchill Place
@@ -131,6 +143,7 @@ _Official-source posting dates from 2026-08-28 through 2026-09-17. Only roles th
 - **Barclays** — [2027 Technology Analyst Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Knutsford_JR-0000129510) — Knutsford, Radbroke Hall
 - **Barclays** — [2027 Technology Analyst Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-London_JR-0000129434) — Canary Wharf, 1 Churchill Place
 - **Barclays** — [2027 Technology Analyst Summer Internship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Northampton_JR-0000129498) — Northampton, Barclays Campus, Pavilion Drive
+- **Barclays** — [2027 Technology Cyber and Security Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173) — Knutsford, Radbroke Hall
 - **Barclays** — [2027 Technology Developer Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) — Glasgow Campus
 - **Barclays** — [2027 Technology Developer Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381) — Knutsford, Radbroke Hall
 - **Barclays** — [2027 Technology Developer Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397) — Canary Wharf, 1 Churchill Place
@@ -282,18 +295,11 @@ _Official-source posting dates from 2026-08-28 through 2026-09-17. Only roles th
 
 </details>
 
-<details>
-<summary><strong>2026-08-28</strong> — 1 role</summary>
-
-- **Goldman Sachs** — [2027 \| APEJ \| Hong Kong \| FICC and Equities, Sales and Trading \| Summer Analyst](https://higher.gs.com/roles/169893) — Hong Kong, Hong Kong
-
-</details>
-
 [Standalone three-week report](reports/new_roles_last_three_weeks.md)
 
 ### Newly surfaced, source date unavailable
 
-_These 2 roles first appeared in QJS during the window, but the employer does not publish a posting date. They are not included in the 156 confirmed-release count._
+_These 2 roles first appeared in QJS during the window, but the employer does not publish a posting date. They are not included in the 163 confirmed-release count._
 
 - **First seen 2026-09-17** — **Jane Street** — [Cybersecurity Engineer - Security Operations Center (SOC)](https://www.janestreet.com/join-jane-street/position/8810604002/) — Hong Kong
 - **First seen 2026-09-09** — **Two Sigma** — [Software Engineering Internship (Summer 2027)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016) — United States - NY New York
@@ -302,16 +308,16 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 
 ## 📋 All Roles Available
 
-**574** open internship roles detected in the latest source pass, grouped by region. Click a title to open the official posting.
+**575** open internship roles detected in the latest source pass, grouped by region. Click a title to open the official posting.
 
 **38** previously seen roles could not be confirmed open or closed. See [guarded absences](reports/new_quant_roles_since_last_run.md#missing-but-not-confirmed-closed).
 
-**Regions:** [North America (276)](#north-america) · [Europe (141)](#europe) · [Asia (116)](#asia) · [Oceania (4)](#oceania) · [Middle East (1)](#middle-east) · [South America (2)](#south-america) · [Global / Multiple Regions (14)](#global--multiple-regions) · [Remote / Unspecified (20)](#remote--unspecified)
+**Regions:** [North America (278)](#north-america) · [Europe (142)](#europe) · [Asia (116)](#asia) · [Oceania (3)](#oceania) · [Middle East (1)](#middle-east) · [South America (1)](#south-america) · [Global / Multiple Regions (14)](#global--multiple-regions) · [Remote / Unspecified (20)](#remote--unspecified)
 
 ### North America
 
 <details>
-<summary><strong>276 roles</strong> — click to expand</summary>
+<summary><strong>278 roles</strong> — click to expand</summary>
 
 - **Akuna** — [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) — Chicago, IL
 - **Akuna** — [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) — Chicago, IL
@@ -558,6 +564,8 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 - **Talos** — [Software Engineer Intern, RFQ](https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285) — New York
 - **Tower Research Capital** — [Quantitative Developer Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8044334) — New York, Chicago
 - **Tower Research Capital** — [Quantitative Trader/Researcher Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) — New York, Chicago
+- **Tower Research Capital** — [Software Engineer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212158) — New York
+- **Tower Research Capital** — [Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212179) — Montreal
 - **TransMarket Group** — [Algorithmic Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151581007?gh_jid=5151581007) — Chicago, Illinois, United States
 - **TransMarket Group** — [DevOps/SRE Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) — Chicago, Illinois, United States
 - **TransMarket Group** — [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) — Chicago, Illinois, United States
@@ -595,7 +603,7 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 ### Europe
 
 <details>
-<summary><strong>141 roles</strong> — click to expand</summary>
+<summary><strong>142 roles</strong> — click to expand</summary>
 
 - **Baillie Gifford** — [Cloud, Infrastructure & Security Summer Internship 2027](https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Cloud--Infrastructure---Security-Summer-Internship-2027_R0004565) — Edinburgh
 - **Baillie Gifford** — [Software Engineering & Innovation Summer Internship 2027](https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Software-Engineering---Innovation-Summer-Internship-2027_R0004566) — Edinburgh
@@ -609,6 +617,7 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 - **Barclays** — [2027 Technology Analyst Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Glasgow_JR-0000129503) — Glasgow Campus
 - **Barclays** — [2027 Technology Analyst Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Knutsford_JR-0000129510) — Knutsford, Radbroke Hall
 - **Barclays** — [2027 Technology Analyst Summer Internship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Northampton_JR-0000129498) — Northampton, Barclays Campus, Pavilion Drive
+- **Barclays** — [2027 Technology Cyber and Security Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173) — Knutsford, Radbroke Hall
 - **Barclays** — [2027 Technology Developer Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) — Glasgow Campus
 - **Barclays** — [2027 Technology Developer Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381) — Knutsford, Radbroke Hall
 - **Barclays** — [2027 Technology Developer Summer Internship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379) — Northampton, Barclays Campus, Pavilion Drive
@@ -802,8 +811,8 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 - **Jane Street** — [Quantitative Researcher](https://www.janestreet.com/join-jane-street/position/8623868002/) — Hong Kong
 - **Jane Street** — [Quantitative Trader](https://www.janestreet.com/join-jane-street/position/8623733002/) — Hong Kong
 - **Jane Street** — [Sales and Trading](https://www.janestreet.com/join-jane-street/position/8630687002/) — Hong Kong
-- **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/8617298002/) — Hong Kong
 - **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/8632392002/) — Singapore
+- **Jane Street** — [Software Engineer](https://www.janestreet.com/join-jane-street/position/8617298002/) — Hong Kong
 - **Jane Street** — [Strategy and Product](https://www.janestreet.com/join-jane-street/position/8630713002/) — Hong Kong
 - **Jane Street** — [Trading Desk Operations Engineer](https://www.janestreet.com/join-jane-street/position/8620505002/) — Hong Kong
 - **Jump Trading** — [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027860) — Shanghai
@@ -853,7 +862,7 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 - **Susquehanna International Group** — [Trading System Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11169?lang=en-us) — Hong Kong, Hong Kong
 - **Tower Research Capital** — [Intern](https://www.tower-research.com/open-positions/?gh_jid=8184771) — Gift City
 - **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8138524) — Singapore
-- **Virtu Financial** — [2027 Internship - Quantitative Strategist](https://job-boards.greenhouse.io/virtu/jobs/7617953002) — Singapore
+- **Virtu Financial** — [2027 Internship - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/virtu/jobs/7617953002) — Singapore
 - **Virtu Financial** — [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/5208637002) — Singapore
 - **Virtu Financial** — [2027 Internship – Core Operations Engineer](https://job-boards.greenhouse.io/virtu/jobs/6329460002) — Singapore
 - **Virtu Financial** — [2027 Internship – Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/5513756002) — Singapore
@@ -868,9 +877,8 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 ### Oceania
 
 <details>
-<summary><strong>4 roles</strong> — click to expand</summary>
+<summary><strong>3 roles</strong> — click to expand</summary>
 
-- **Goldman Sachs** — [2027 \| APEJ \| Sydney \| Global Investment Research \| Summer Analyst](https://higher.gs.com/roles/155759) — Sydney, NSW, Australia
 - **IMC Trading** — [Machine Learning Research Intern - Summer 2027 - Sydney](https://job-boards.eu.greenhouse.io/imc/jobs/4956547101) — Sydney,  Australia
 - **Susquehanna International Group** — [Quantitative Research Internship - PhD](https://careers.sig.com/jobs/10429?lang=en-us) — Sydney, Australia
 - **Susquehanna International Group** — [Quantitative Systematic Trading Internship – PhD](https://careers.sig.com/jobs/10435?lang=en-us) — Sydney, Australia
@@ -889,9 +897,8 @@ _These 2 roles first appeared in QJS during the window, but the employer does no
 ### South America
 
 <details>
-<summary><strong>2 roles</strong> — click to expand</summary>
+<summary><strong>1 role</strong> — click to expand</summary>
 
-- **Deutsche Bank** — [Global Technology Governance Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Global-Technology-Governance-Intern_R0432013) — Sao Paulo Edificio Pedro Mariz
 - **Goldman Sachs** — [2027 \| Americas \| Sao Paulo \| Global Investment Research \| Seasonal/Off Cycle Internship](https://higher.gs.com/roles/182548) — Sao Paulo, Sao Paulo, Brazil
 
 </details>
@@ -995,7 +1002,7 @@ Publishing stages generated artifacts only, refuses unrelated staged files, vali
 | [reports/current_quant_roles_not_in_tracker.md](reports/current_quant_roles_not_in_tracker.md) | Current roles absent from the older application tracker |
 | [reports/quant_roster_scan_audit.md](reports/quant_roster_scan_audit.md) | 303-firm roster split into confirmed vs. unverifiable states |
 | [reports/scan_validation.md](reports/scan_validation.md) | Portable baseline delta and integrity checks for the latest refresh |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (90 closure events recorded) |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (91 closure events recorded) |
 | [data/stable_quant_roles.json](data/stable_quant_roles.json) | Cross-device confirmed-present state for the two-scan closure guard |
 | [inputs/company_career_pages.json](inputs/company_career_pages.json) | Seeded career-page database |
 | [inputs/quant_firm_roster.json](inputs/quant_firm_roster.json) | Complete 303-entry firm list + canonical aliases |

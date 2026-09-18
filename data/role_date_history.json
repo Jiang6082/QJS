@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T19:22:12.755Z",
+  "updatedAt": "2026-09-18T12:52:39.011Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -3658,7 +3658,7 @@
     "https://higher.gs.com/roles/161037": {
       "URL": "https://higher.gs.com/roles/161037",
       "first_seen": "2026-09-13",
-      "date": "2026-05-07",
+      "date": "2026-09-18",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/170724": {
@@ -3706,7 +3706,7 @@
     "https://higher.gs.com/roles/170819": {
       "URL": "https://higher.gs.com/roles/170819",
       "first_seen": "2026-09-13",
-      "date": "2026-06-30",
+      "date": "2026-09-18",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/179947": {
@@ -3718,7 +3718,7 @@
     "https://higher.gs.com/roles/180086": {
       "URL": "https://higher.gs.com/roles/180086",
       "first_seen": "2026-09-13",
-      "date": "2026-07-23",
+      "date": "2026-09-18",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/170824": {
@@ -3754,7 +3754,7 @@
     "https://higher.gs.com/roles/170820": {
       "URL": "https://higher.gs.com/roles/170820",
       "first_seen": "2026-09-13",
-      "date": "2026-06-30",
+      "date": "2026-09-18",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/169894": {
@@ -3856,7 +3856,7 @@
     "https://higher.gs.com/roles/170821": {
       "URL": "https://higher.gs.com/roles/170821",
       "first_seen": "2026-09-13",
-      "date": "2026-06-30",
+      "date": "2026-09-18",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/184069": {
@@ -4134,6 +4134,18 @@
       "first_seen": "2026-09-17",
       "date": "2026-09-17",
       "evidence": "employer_relative_label"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8212158": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8212158",
+      "first_seen": "2026-09-18",
+      "date": "2026-09-17",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8212179": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8212179",
+      "first_seen": "2026-09-18",
+      "date": "2026-09-17",
+      "evidence": "employer_field"
     }
   }
 }

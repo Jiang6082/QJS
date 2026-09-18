@@ -1,9 +1,13 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 90
-Last updated: 2026-09-17T19:22:12.755Z
+Total closure events recorded: 91
+Last updated: 2026-09-18T12:52:39.011Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-09-18 (1)
+
+- **Goldman Sachs** - [2027 | APEJ | Sydney | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/155759) - Sydney, NSW, Australia
 
 ### 2026-09-17 (4)
 

@@ -1,5 +1,19 @@
 [
   {
+    "Company": "Goldman Sachs",
+    "Title": "2027 | APEJ | Sydney | Global Investment Research | Summer Analyst",
+    "Department": "Global Investment Research Division",
+    "Location": "Sydney, NSW, Australia",
+    "URL": "https://higher.gs.com/roles/155759",
+    "Source": "Official Goldman Sachs Higher API",
+    "Status": "Confirmed official posting",
+    "Notes": "posted=2026-01-13 | role_id=155759 | program=Summer Analyst | division=Global Investment Research Division",
+    "Region": "Oceania",
+    "lastSeenOpenAt": "2026-09-17T19:22:12.755Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-18T12:52:39.011Z"
+  },
+  {
     "Company": "Jane Street",
     "Title": "IT Operations Engineer",
     "Location": "Hong Kong",

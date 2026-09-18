@@ -1,8 +1,8 @@
-# Roles posted 2026-08-28 → 2026-09-17 (156 with source posting dates)
+# Roles posted 2026-08-29 → 2026-09-18 (163 with source posting dates)
 
 _Dates come from employer publication fields or dated relative labels. Relative labels have day-level precision; source publication dates can reflect a repost. Internship start dates and edit timestamps are not release dates._
 
-## Barclays (24)
+## Barclays (25)
 
 - **2026-09-09** — [2027 Customer and Digital - Data and Analytics Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278) — Glasgow Campus _(relative source date)_
 - **2026-09-09** — [2027 Customer and Digital - Data and Analytics Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280) — Canary Wharf, 1 Churchill Place _(relative source date)_
@@ -12,6 +12,7 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-09** — [2027 Technology Analyst Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Knutsford_JR-0000129510) — Knutsford, Radbroke Hall _(relative source date)_
 - **2026-09-09** — [2027 Technology Analyst Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-London_JR-0000129434) — Canary Wharf, 1 Churchill Place _(relative source date)_
 - **2026-09-09** — [2027 Technology Analyst Summer Internship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Northampton_JR-0000129498) — Northampton, Barclays Campus, Pavilion Drive _(relative source date)_
+- **2026-09-09** — [2027 Technology Cyber and Security Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173) — Knutsford, Radbroke Hall _(relative source date)_
 - **2026-09-09** — [2027 Technology Developer Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) — Glasgow Campus _(relative source date)_
 - **2026-09-09** — [2027 Technology Developer Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381) — Knutsford, Radbroke Hall _(relative source date)_
 - **2026-09-09** — [2027 Technology Developer Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397) — Canary Wharf, 1 Churchill Place _(relative source date)_
@@ -114,6 +115,27 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-09** — [AI Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732429005) — Chicago
 - **2026-09-09** — [DevOps Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4730886005) — Chicago
 
+## Goldman Sachs (9)
+
+- **2026-09-18** — [2026 | Japan | Tokyo | Global Investment Research | Seasonal / Off-cycle](https://higher.gs.com/roles/161037) — Tokyo, Japan
+- **2026-09-18** — [2027 | APEJ | Hong Kong | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170819) — Hong Kong, Hong Kong
+- **2026-09-18** — [2027 | APEJ | Hong Kong | Global Investment Research, Macro Research, Economics | Seasonal / Off-cycle Internship](https://higher.gs.com/roles/180086) — Hong Kong, Hong Kong
+- **2026-09-18** — [2027 | APEJ | Shanghai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170820) — Shanghai, Shanghai, China
+- **2026-09-18** — [2027 | Japan | Tokyo | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170821) — Tokyo, Japan
+- **2026-09-15** — [2027 | EMEA | London | Global Investment Research, Equity Research | Summer Analyst](https://higher.gs.com/roles/170863) — London, Greater London, England, United Kingdom
+- **2026-09-10** — [2027 | EMEA | London | Asset Management, Infrastructure Private Equity | Seasonal/Off-Cycle](https://higher.gs.com/roles/183954) — London, Greater London, England, United Kingdom
+- **2026-09-08** — [2027 I Americas I New York City Area I Global Investment Research, Equity Research I Summer Associate](https://higher.gs.com/roles/184069) — New York, NY, United States
+- **2026-09-07** — [2027 | APEJ | Mumbai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/183942) — Mumbai, Maharashtra, India
+
+## Tower Research Capital (6)
+
+- **2026-09-17** — [Software Engineer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212158) — New York
+- **2026-09-17** — [Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212179) — Montreal
+- **2026-09-07** — [Intern](https://www.tower-research.com/open-positions/?gh_jid=8184771) — Gift City
+- **2026-09-01** — [Quantitative Researcher Intern, Bachelor's or Master's](https://www.tower-research.com/open-positions/?gh_jid=8168750) — Singapore, Hong Kong, Shanghai, Sydney
+- **2026-09-01** — [Quantitative Trader/Researcher Summer Internship 2027 (2028 Graduates)](https://www.tower-research.com/open-positions/?gh_jid=8037860) — London
+- **2026-08-31** — [Quantitative Researcher Intern, PhD or Postdoc](https://www.tower-research.com/open-positions/?gh_jid=8168634) — Singapore, Hong Kong, Shanghai, Sydney
+
 ## Qube Research & Technologies (6)
 
 - **2026-09-09** — [2027 - Internship, Data Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002) — Paris, London
@@ -131,14 +153,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-08** — [Software Engineer Intern, Dealer](https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977) — New York
 - **2026-09-08** — [Software Engineer Intern, RFQ](https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285) — New York
 
-## Goldman Sachs (5)
-
-- **2026-09-15** — [2027 | EMEA | London | Global Investment Research, Equity Research | Summer Analyst](https://higher.gs.com/roles/170863) — London, Greater London, England, United Kingdom
-- **2026-09-10** — [2027 | EMEA | London | Asset Management, Infrastructure Private Equity | Seasonal/Off-Cycle](https://higher.gs.com/roles/183954) — London, Greater London, England, United Kingdom
-- **2026-09-08** — [2027 I Americas I New York City Area I Global Investment Research, Equity Research I Summer Associate](https://higher.gs.com/roles/184069) — New York, NY, United States
-- **2026-09-07** — [2027 | APEJ | Mumbai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/183942) — Mumbai, Maharashtra, India
-- **2026-08-28** — [2027 | APEJ | Hong Kong | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169893) — Hong Kong, Hong Kong
-
 ## Susquehanna International Group (5)
 
 - **2026-09-15** — [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
@@ -154,13 +168,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-01** — [Technology Intern – Information Security](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1) — Chicago, IL _(relative source date)_
 - **2026-09-01** — [Technology Intern – Infrastructure and IT Management](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1) — Chicago, IL _(relative source date)_
 - **2026-09-01** — [Technology Intern – Software Engineering](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1) — Chicago, IL _(relative source date)_
-
-## Tower Research Capital (4)
-
-- **2026-09-07** — [Intern](https://www.tower-research.com/open-positions/?gh_jid=8184771) — Gift City
-- **2026-09-01** — [Quantitative Researcher Intern, Bachelor's or Master's](https://www.tower-research.com/open-positions/?gh_jid=8168750) — Singapore, Hong Kong, Shanghai, Sydney
-- **2026-09-01** — [Quantitative Trader/Researcher Summer Internship 2027 (2028 Graduates)](https://www.tower-research.com/open-positions/?gh_jid=8037860) — London
-- **2026-08-31** — [Quantitative Researcher Intern, PhD or Postdoc](https://www.tower-research.com/open-positions/?gh_jid=8168634) — Singapore, Hong Kong, Shanghai, Sydney
 
 ## Wellington Management (3)
 

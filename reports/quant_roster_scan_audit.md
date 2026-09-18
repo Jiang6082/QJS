@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-09-17T19:22:12.755Z
+Scan started: 2026-09-18T12:52:39.011Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 
@@ -63,7 +63,7 @@ Canonical companies after aliases: 304
 | Company | Source health | Saved pages |
 | --- | --- | --- |
 | HAP Capital | 0/1 pages live | [link](https://jobs.lever.co/hap-capital) |
-| Kronos Research | 0/1 pages live | [link](https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us) |
+| Kronos Research | 1/1 pages live | [link](https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us) |
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
 
 ## Confirmed Openings, No Matching Role (37)
@@ -129,7 +129,7 @@ Canonical companies after aliases: 304
 | Accent Groupe | 1/1 pages live | [link](https://www.accentgroupe.com/career) |
 | Algorithmic Trading Group | 1/1 pages live | [link](https://www.algorithmictradinggroup.com/opportunities) |
 | Amber Group | 1/1 pages live | [link](https://www.ambergroup.io/applyJob) |
-| Armada Technologies | 0/1 pages live | [link](http://www.armadausa.com/careers) |
+| Armada Technologies | 1/1 pages live | [link](http://www.armadausa.com/careers) |
 | Automaton Trading LLC | no saved page attempted | none |
 | BP Supply Trading & Shipping | 0/1 pages live | [link](https://www.bp.com/en/global/bp-supply-trading-and-shipping/careers.html) |
 | BlockTech | 1/1 pages live | [link](https://www.block-tech.io/careers) |
@@ -157,7 +157,7 @@ Canonical companies after aliases: 304
 | ArbitragePoint Trading | no saved page attempted | none |
 | Arrowstreet Capital | 1/1 pages live | [link](https://www.arrowstreetcapital.com/professional-careers/) |
 | B2C2 | 2/2 pages live | [link](https://www.b2c2.com/join-b2c2/careers) [link](https://job-boards.greenhouse.io/b2c2) |
-| Barak Capital | 1/1 pages live | [link](https://barakmarketmaking.com/careers/) |
+| Barak Capital | 0/1 pages live | [link](https://barakmarketmaking.com/careers/) |
 | Black Eagle Financial Group | 1/1 pages live | [link](https://blackeaglefg.com/stock-market-job/) |
 | Boston Energy Trading and Marketing | 1/1 pages live | [link](https://www.betm.com/careers) |
 | CTS Global Equity Group | 2/2 pages live | [link](https://www.ctsglobalgroup.com/) [link](https://www.ctsglobalgroup.com/internship) |
