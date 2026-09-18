@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T12:57:34.953Z",
-  "scanStartedAt": "2026-09-18T12:52:39.011Z",
+  "generatedAt": "2026-09-18T19:09:06.031Z",
+  "scanStartedAt": "2026-09-18T19:02:36.382Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -100,7 +100,7 @@
       "careerPages": [
         "https://www.arfima.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 141,
+      "jobsSeen": 143,
       "relevantInternships": 0
     },
     {
@@ -427,7 +427,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 25,
+      "jobsSeen": 24,
       "relevantInternships": 10
     },
     {
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 176,
+      "jobsSeen": 178,
       "relevantInternships": 16
     },
     {
@@ -885,7 +885,7 @@
       "careerPages": [
         "https://barakmarketmaking.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1096,8 +1096,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
-      "relevantInternships": 1
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Estee Advisors",
@@ -1141,7 +1141,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantInternships": 4
     },
     {
@@ -1240,7 +1240,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 84,
+      "jobsSeen": 85,
       "relevantInternships": 5
     },
     {
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 229,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -1871,7 +1871,7 @@
         "https://keyrock.com/careers/",
         "https://jobs.ashbyhq.com/keyrock"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 18,
       "relevantInternships": 0
@@ -2036,7 +2036,7 @@
         "https://www.genevatrading.com/careers/",
         "https://job-boards.greenhouse.io/genevatrading"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 11,
       "relevantInternships": 2
@@ -2113,7 +2113,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 171,
+      "jobsSeen": 172,
       "relevantInternships": 17
     },
     {
@@ -2472,7 +2472,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 77,
+      "jobsSeen": 79,
       "relevantInternships": 12
     },
     {
@@ -3078,7 +3078,7 @@
       "careerPages": [
         "https://www.seveneightcapital.com/join-us"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3132,7 +3132,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3245,7 +3245,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 39,
+      "jobsSeen": 38,
       "relevantInternships": 1
     },
     {
@@ -3296,7 +3296,7 @@
       "careerPages": [
         "https://www.qcpgroup.com/career/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3649,7 +3649,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 82,
+      "jobsSeen": 81,
       "relevantInternships": 0
     },
     {
@@ -3748,7 +3748,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/vaticlabs/jobs/3137555"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 8,
       "relevantInternships": 0
@@ -3776,7 +3776,7 @@
       "careerPages": [
         "https://www.simplyhired.com/browse-jobs/companies/Wh-Trading-LLC"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3929,7 +3929,7 @@
         "https://www.virtu.com/careers/",
         "https://job-boards.greenhouse.io/virtu"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 51,
       "relevantInternships": 13
@@ -3947,7 +3947,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 31,
+      "jobsSeen": 30,
       "relevantInternships": 1
     },
     {
@@ -4079,7 +4079,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 56,
+      "jobsSeen": 55,
       "relevantInternships": 2
     },
     {
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 85,
+      "jobsSeen": 82,
       "relevantInternships": 1
     },
     {

@@ -1,4 +1,4 @@
-# Roles posted 2026-08-29 → 2026-09-18 (163 with source posting dates)
+# Roles posted 2026-08-29 → 2026-09-18 (165 with source posting dates)
 
 _Dates come from employer publication fields or dated relative labels. Relative labels have day-level precision; source publication dates can reflect a repost. Internship start dates and edit timestamps are not release dates._
 
@@ -29,6 +29,22 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-03** — [Sales, Trading and Structuring Off Cycle Internship Programme 2027 Milan](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/The-Medelan-Building-Milan/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Milan_JR-0000124759) — The Medelan Building, Milan _(relative source date)_
 - **2026-09-03** — [Sales, Trading and Structuring Off Cycle Internship Programme 2027 Paris](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124763) — Paris, 52 avenue Hoche _(relative source date)_
 - **2026-09-03** — [Sales, Trading and Structuring Off Cycle Internship Programme 2027 Zurich](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Zurich-Beethovenstrasse-19/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Zurich_JR-0000124764) — Zurich, Beethovenstrasse 19 _(relative source date)_
+
+## Goldman Sachs (13)
+
+- **2026-09-18** — [2026 | Japan | Tokyo | Global Investment Research | Seasonal / Off-cycle](https://higher.gs.com/roles/161037) — Tokyo, Japan
+- **2026-09-18** — [2027 | APEJ | Hong Kong | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170819) — Hong Kong, Hong Kong
+- **2026-09-18** — [2027 | APEJ | Hong Kong | Global Investment Research, Macro Research, Economics | Seasonal / Off-cycle Internship](https://higher.gs.com/roles/180086) — Hong Kong, Hong Kong
+- **2026-09-18** — [2027 | APEJ | Shanghai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170820) — Shanghai, Shanghai, China
+- **2026-09-18** — [2027 | EMEA | London | FICC & Equities (Sales & Trading) | Seasonal/OffCycle](https://higher.gs.com/roles/171437) — London, Greater London, England, United Kingdom
+- **2026-09-18** — [2027 | EMEA | London | FICC & Equities (Sales & Trading) | Summer Analyst](https://higher.gs.com/roles/170675) — London, Greater London, England, United Kingdom
+- **2026-09-18** — [2027 | EMEA | Paris | FICC & Equities (Sales & Trading) | Seasonal/OffCycle](https://higher.gs.com/roles/171438) — Paris, Ile-de-France, France
+- **2026-09-18** — [2027 | EMEA | Paris | FICC & Equities (Sales & Trading) | Summer Analyst](https://higher.gs.com/roles/170676) — Paris, Ile-de-France, France
+- **2026-09-18** — [2027 | Japan | Tokyo | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170821) — Tokyo, Japan
+- **2026-09-15** — [2027 | EMEA | London | Global Investment Research, Equity Research | Summer Analyst](https://higher.gs.com/roles/170863) — London, Greater London, England, United Kingdom
+- **2026-09-10** — [2027 | EMEA | London | Asset Management, Infrastructure Private Equity | Seasonal/Off-Cycle](https://higher.gs.com/roles/183954) — London, Greater London, England, United Kingdom
+- **2026-09-08** — [2027 I Americas I New York City Area I Global Investment Research, Equity Research I Summer Associate](https://higher.gs.com/roles/184069) — New York, NY, United States
+- **2026-09-07** — [2027 | APEJ | Mumbai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/183942) — Mumbai, Maharashtra, India
 
 ## PIMCO (12)
 
@@ -115,18 +131,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-09** — [AI Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732429005) — Chicago
 - **2026-09-09** — [DevOps Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4730886005) — Chicago
 
-## Goldman Sachs (9)
-
-- **2026-09-18** — [2026 | Japan | Tokyo | Global Investment Research | Seasonal / Off-cycle](https://higher.gs.com/roles/161037) — Tokyo, Japan
-- **2026-09-18** — [2027 | APEJ | Hong Kong | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170819) — Hong Kong, Hong Kong
-- **2026-09-18** — [2027 | APEJ | Hong Kong | Global Investment Research, Macro Research, Economics | Seasonal / Off-cycle Internship](https://higher.gs.com/roles/180086) — Hong Kong, Hong Kong
-- **2026-09-18** — [2027 | APEJ | Shanghai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170820) — Shanghai, Shanghai, China
-- **2026-09-18** — [2027 | Japan | Tokyo | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170821) — Tokyo, Japan
-- **2026-09-15** — [2027 | EMEA | London | Global Investment Research, Equity Research | Summer Analyst](https://higher.gs.com/roles/170863) — London, Greater London, England, United Kingdom
-- **2026-09-10** — [2027 | EMEA | London | Asset Management, Infrastructure Private Equity | Seasonal/Off-Cycle](https://higher.gs.com/roles/183954) — London, Greater London, England, United Kingdom
-- **2026-09-08** — [2027 I Americas I New York City Area I Global Investment Research, Equity Research I Summer Associate](https://higher.gs.com/roles/184069) — New York, NY, United States
-- **2026-09-07** — [2027 | APEJ | Mumbai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/183942) — Mumbai, Maharashtra, India
-
 ## Tower Research Capital (6)
 
 - **2026-09-17** — [Software Engineer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212158) — New York
@@ -201,11 +205,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-14** — [Women in Trading and Technology Internship (WiTTI) – Winter 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637) — New York, NY, United States
 - **2026-08-31** — [Hardware Engineer Internship - Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) — New York, NY, United States
 
-## PGIM (2)
-
-- **2026-09-14** — [PGIM | Intern, Real Estate Private Equity Portfolio Management (all genders) as of Q1 2027, Based in Frankfurt](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1) — Frankfurt, Germany _(relative source date)_
-- **2026-09-01** — [Prudential: 2027 Corporate, Risk Management Internship Program](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796) — Newark, NJ, USA _(relative source date)_
-
 ## Invesco (2)
 
 - **2026-09-08** — [Intern, Client Portfolio Management, Invesco Real Estate Korea (6 months)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Seoul-Seoul/Intern--Client-Portfolio-Management--Invesco-Real-Estate-Korea--6-months-_R-15500-1) — Seoul, Seoul _(relative source date)_
@@ -241,9 +240,9 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 
 - **2026-09-14** — [Software Engineer – Physical Commodities Teams (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Software-Engineer---Physical-Commodities-Teams--Summer-Internship-_REQ8596) — Aalborg _(relative source date)_
 
-## Fidelity Investments (1)
+## PGIM (1)
 
-- **2026-09-14** — [Summer 2027 Equity Research Associate Intern - London](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1) — London, Great Britain _(relative source date)_
+- **2026-09-14** — [PGIM | Intern, Real Estate Private Equity Portfolio Management (all genders) as of Q1 2027, Based in Frankfurt](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1) — Frankfurt, Germany _(relative source date)_
 
 ## Dimensional Fund Advisors (1)
 

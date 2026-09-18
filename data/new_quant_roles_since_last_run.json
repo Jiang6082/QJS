@@ -1,59 +1,23 @@
 {
-  "generatedAt": "2026-09-18T12:57:35.172Z",
-  "baselineCommit": "18ddf17ed2619127539efc0fbef870ba91305b69",
-  "previousScanAt": "2026-09-17T19:22:12.755Z",
-  "currentScanAt": "2026-09-18T12:52:39.011Z",
-  "previousRows": 574,
-  "currentRows": 575,
-  "added": [
-    {
-      "Company": "Barclays",
-      "Title": "2027 Technology Cyber and Security Summer Internship Programme Knutsford",
-      "Department": "",
-      "Location": "Knutsford, Radbroke Hall",
-      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173",
-      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000129173",
-      "Region": "Europe"
-    },
-    {
-      "Company": "Tower Research Capital",
-      "Title": "Software Engineer Intern (Summer 2027)",
-      "Department": "On-Campus Recruiting",
-      "Location": "New York",
-      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8212158",
-      "Source": "Career page Greenhouse:towerresearchcapital",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-17T16:55:21-04:00 | career_page=https://tower-research.com/open-positions/ | company_wrapper=https://tower-research.com/open-positions/job?gh_jid=8212158 | internship timing: Summer 2027 | Tower Research Capital is a leading quantitative trading firm founded in 1998. Tower has built its business on a high-performance platform and independent trading teams. We have a 25+ year track record of innovation and a reputation for discovering unique market opportunities. Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization. Engineers thrive at Tower while developing electronic trading infrastructure at a world class level. Our engineers solve challenging problems in the realms of low-latenc...",
-      "Region": "North America"
-    },
-    {
-      "Company": "Tower Research Capital",
-      "Title": "Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)",
-      "Department": "On-Campus Recruiting",
-      "Location": "Montreal",
-      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8212179",
-      "Source": "Career page Greenhouse:towerresearchcapital",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-17T16:59:48-04:00 | career_page=https://tower-research.com/open-positions/ | company_wrapper=https://tower-research.com/open-positions/job?gh_jid=8212179 | internship timing: Summer 2027 | Tower Research Capital est une société renommée de négociation quantitative fondée en 1998. Tower a fondé ses affaires en se basant sur une plateforme à haute performance et sur des équipes de négociation indépendantes. Nous avons plus de 25 ans d’expérience en innovation et une réputation de découvrir des occasions uniques sur le marché. Tower abrite certains des meilleurs talents mondiaux en matière de négociation systématique et d’ingénierie. Nous permettons aux gestionnaires de portefeuille de bâtir leurs équipes et leurs stratégies de façon indépendante tout en offrant les économies d’échelle qui proviennent d’une grande organisation mondiale. Les ingénieurs prospèrent chez Tower to...",
-      "Region": "North America"
-    }
-  ],
+  "generatedAt": "2026-09-18T19:09:06.532Z",
+  "baselineCommit": "1da2958ef58d9e2dfe35cdacf89e01538c029829",
+  "previousScanAt": "2026-09-18T12:52:39.011Z",
+  "currentScanAt": "2026-09-18T19:02:36.382Z",
+  "previousRows": 575,
+  "currentRows": 573,
+  "added": [],
   "removed": [
     {
-      "Company": "Goldman Sachs",
-      "Title": "2027 | APEJ | Sydney | Global Investment Research | Summer Analyst",
-      "Department": "Global Investment Research Division",
-      "Location": "Sydney, NSW, Australia",
-      "URL": "https://higher.gs.com/roles/155759",
-      "Source": "Official Goldman Sachs Higher API",
+      "Company": "Citadel Securities",
+      "Title": "Quantitative Research Analyst - Intern (US)",
+      "Location": "Miami, New York",
+      "Region": "North America",
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-01-13 | role_id=155759 | program=Summer Analyst | division=Global Investment Research Division",
-      "Region": "Oceania",
-      "lastSeenOpenAt": "2026-09-17T19:22:12.755Z",
-      "lastSeenEvidence": "recorded_scan",
-      "detectedClosedAt": "2026-09-18T12:52:39.011Z"
+      "lastSeenOpenAt": null,
+      "lastSeenEvidence": "unavailable",
+      "detectedClosedAt": "2026-09-18T19:02:36.382Z"
     }
   ],
   "pending": [
@@ -204,15 +168,6 @@
       "Location": "Miami, New York",
       "Region": "North America",
       "URL": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
-      "Source": "Official careers page (browser-audited 2026-07-14)",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Citadel Securities",
-      "Title": "Quantitative Research Analyst - Intern (US)",
-      "Location": "Miami, New York",
-      "Region": "North America",
-      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
       "Source": "Official careers page (browser-audited 2026-07-14)",
       "Status": "Confirmed official posting"
     },
@@ -378,6 +333,18 @@
       "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
     },
     {
+      "Company": "PGIM",
+      "Title": "Prudential: 2027 Corporate, Risk Management Internship Program",
+      "Location": "Newark, NJ, USA",
+      "Region": "North America",
+      "URL": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796",
+      "Source": "Career page Workday:pru/Careers",
+      "Status": "Confirmed official posting",
+      "Department": "",
+      "Notes": "career_page=https://pru.wd5.myworkdayjobs.com/Careers | Posted 11 Days Ago | R-124796 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-18T12:52:39.011Z"
+    },
+    {
       "Company": "PIMCO",
       "Title": "2027 MBA Summer Intern – Strategist, Product Strategy Group, APAC",
       "Location": "4 Locations",
@@ -424,6 +391,18 @@
       "Department": "",
       "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 6 Days Ago | RQ114218",
       "lastSeenOpenAt": "2026-09-16T03:09:11.438Z"
+    },
+    {
+      "Company": "Fidelity Investments",
+      "Title": "Summer 2027 Equity Research Associate Intern - London",
+      "Department": "",
+      "Location": "London, Great Britain",
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1",
+      "Source": "Career page Workday:fmr/fidelitycareers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://fmr.wd1.myworkdayjobs.com/fidelitycareers/ | Posted 4 Days Ago | 2129754",
+      "Region": "Europe",
+      "lastSeenOpenAt": "2026-09-18T12:52:39.011Z"
     }
   ]
 }

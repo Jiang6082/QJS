@@ -1,12 +1,13 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 91
-Last updated: 2026-09-18T12:52:39.011Z
+Total closure events recorded: 92
+Last updated: 2026-09-18T19:02:36.382Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
 
-### 2026-09-18 (1)
+### 2026-09-18 (2)
 
+- **Citadel Securities** - [Quantitative Research Analyst - Intern (US)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/) - Miami, New York
 - **Goldman Sachs** - [2027 | APEJ | Sydney | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/155759) - Sydney, NSW, Australia
 
 ### 2026-09-17 (4)

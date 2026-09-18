@@ -1,15 +1,15 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-09-18T12:52:39.011Z
+Last updated: 2026-09-18T19:02:36.382Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 513
-- Current retained roles: 575
-- New stable job URLs since previous scan: 3
+- Current retained roles: 573
+- New stable job URLs since previous scan: 0
 - No longer present since previous scan: 1
-- Missing without enough closure evidence: 38
+- Missing without enough closure evidence: 39
 - Matching-role firms: 49
 - Confirmed no open postings: 3
 - Openings but no matching role: 37
@@ -17,14 +17,13 @@ Last updated: 2026-09-18T12:52:39.011Z
 
 ## New Roles Since Previous Scan
 
-### North America (2)
+### North America (0)
 
-- **Tower Research Capital** - [Software Engineer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212158) - New York
-- **Tower Research Capital** - [Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212179) - Montreal
+_None._
 
-### Europe (1)
+### Europe (0)
 
-- **Barclays** - [2027 Technology Cyber and Security Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173) - Knutsford, Radbroke Hall
+_None._
 
 ### Asia (0)
 
@@ -56,7 +55,7 @@ _None._
 
 ## No Longer Present
 
-- **Goldman Sachs** - [2027 | APEJ | Sydney | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/155759) - Sydney, NSW, Australia
+- **Citadel Securities** - [Quantitative Research Analyst - Intern (US)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/) - Miami, New York
 
 ## Full Reports
 
