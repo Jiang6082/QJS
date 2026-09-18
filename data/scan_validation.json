@@ -1,0 +1,60 @@
+{
+  "generatedAt": "2026-09-18T19:09:07.456Z",
+  "scanDate": "2026-09-18",
+  "baselineCommit": "1da2958ef58d9e2dfe35cdacf89e01538c029829",
+  "baselineScanAt": "2026-09-18T12:52:39.011Z",
+  "currentScanAt": "2026-09-18T19:02:36.382Z",
+  "status": "passed",
+  "baselineRows": 575,
+  "currentRows": 573,
+  "exactAdded": [],
+  "exactRemoved": [
+    {
+      "Company": "Fidelity Investments",
+      "Title": "Summer 2027 Equity Research Associate Intern - London",
+      "Department": "",
+      "Location": "London, Great Britain",
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1",
+      "Source": "Career page Workday:fmr/fidelitycareers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://fmr.wd1.myworkdayjobs.com/fidelitycareers/ | Posted 4 Days Ago | 2129754",
+      "Region": "Europe"
+    },
+    {
+      "Company": "PGIM",
+      "Title": "Prudential: 2027 Corporate, Risk Management Internship Program",
+      "Location": "Newark, NJ, USA",
+      "Region": "North America",
+      "URL": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796",
+      "Source": "Career page Workday:pru/Careers",
+      "Status": "Confirmed official posting",
+      "Department": "",
+      "Notes": "career_page=https://pru.wd5.myworkdayjobs.com/Careers | Posted 11 Days Ago | R-124796 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-17T19:22:12.755Z"
+    }
+  ],
+  "reportedAdded": [],
+  "reportedRemoved": [
+    {
+      "Company": "Citadel Securities",
+      "Title": "Quantitative Research Analyst - Intern (US)",
+      "Location": "Miami, New York",
+      "Region": "North America",
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting",
+      "lastSeenOpenAt": null,
+      "lastSeenEvidence": "unavailable",
+      "detectedClosedAt": "2026-09-18T19:02:36.382Z"
+    }
+  ],
+  "pendingAbsences": 39,
+  "passDifference": 2,
+  "rollingDated": 165,
+  "rollingUndated": 2,
+  "cumulativeTotal": 391,
+  "cumulativeActive": 362,
+  "cumulativeNotDetected": 29,
+  "manuallyVerifiedToday": 5,
+  "failures": []
+}

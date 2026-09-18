@@ -1,0 +1,4151 @@
+{
+  "updatedAt": "2026-09-18T19:02:36.382Z",
+  "roles": {
+    "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
+      "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.akunacapital.com/careers/job/8018856?gh_jid=8018856": {
+      "URL": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.akunacapital.com/careers/job/8021481?gh_jid=8021481": {
+      "URL": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.akunacapital.com/careers/job/8036614?gh_jid=8036614": {
+      "URL": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.akunacapital.com/careers/job/8018886?gh_jid=8018886": {
+      "URL": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.akunacapital.com/careers/job/8018847?gh_jid=8018847": {
+      "URL": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.akunacapital.com/careers/job/8018893?gh_jid=8018893": {
+      "URL": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.akunacapital.com/careers/job/8018853?gh_jid=8018853": {
+      "URL": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002": {
+      "URL": "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8176611002",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622004002": {
+      "URL": "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622004002",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622142002": {
+      "URL": "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8622142002",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://careers.aqr.com/jobs?gh_jid=7895562": {
+      "URL": "https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562",
+      "first_seen": "2026-07-23",
+      "date": "2026-05-15",
+      "evidence": "employer_field"
+    },
+    "https://careers.aqr.com/jobs?gh_jid=8041362": {
+      "URL": "https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_field"
+    },
+    "https://careers.aqr.com/jobs?gh_jid=7957728": {
+      "URL": "https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728",
+      "first_seen": "2026-07-23",
+      "date": "2026-05-26",
+      "evidence": "employer_field"
+    },
+    "https://careers.aqr.com/jobs?gh_jid=7926704": {
+      "URL": "https://careers.aqr.com/jobs?gh_jid=7926704&gh_jid=7926704",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://careers.aqr.com/jobs?gh_jid=7895583": {
+      "URL": "https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583",
+      "first_seen": "2026-07-23",
+      "date": "2026-05-15",
+      "evidence": "employer_field"
+    },
+    "https://careers.aqr.com/jobs?gh_jid=7926692": {
+      "URL": "https://careers.aqr.com/jobs?gh_jid=7926692&gh_jid=7926692",
+      "first_seen": "2026-07-23",
+      "date": "2026-05-15",
+      "evidence": "employer_field"
+    },
+    "https://careers.aqr.com/jobs?gh_jid=8077110": {
+      "URL": "https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-21",
+      "evidence": "employer_field"
+    },
+    "https://www.aqr.com/about-us/our-internship-program": {
+      "URL": "https://www.aqr.com/about-us/our-internship-program",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002": {
+      "URL": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002",
+      "first_seen": "2026-07-23",
+      "date": "2026-04-01",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002": {
+      "URL": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
+      "first_seen": "2026-07-23",
+      "date": "2026-04-01",
+      "evidence": "employer_field"
+    },
+    "arrowstreetcapital|R1506|quantitative developer intern, summer 2027": {
+      "URL": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-10",
+      "evidence": "employer_relative_label"
+    },
+    "arrowstreetcapital|R1505|quantitative researcher intern, summer 2027": {
+      "URL": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-16",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/axq/jobs/5575450004": {
+      "URL": "https://job-boards.greenhouse.io/axq/jobs/5575450004",
+      "first_seen": "2026-07-23",
+      "date": "2025-06-30",
+      "evidence": "employer_field"
+    },
+    "barclays|JR-0000121763|2027 technology developer summer internship programme singapore": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Singapore_JR-0000121763",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-07",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000117566|electronic trading associate summer internship programme 2027 hong kong": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Electronic-Trading-Associate-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117566",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000117565|quantitative analytics associate off cycle internship 2027 hong kong": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Hong-Kong_JR-0000117565",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000117563|quantitative analytics associate off cycle internship 2027 singapore": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Singapore_JR-0000117563",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000119610|research analyst summer internship programme 2027 singapore": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Research-Analyst-Summer-Internship-Programme-2027-Singapore_JR-0000119610",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000117559|sales, trading and structuring summer internship programme 2027 hong kong": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117559",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000117562|sales, trading and structuring summer internship programme 2027 singapore": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Singapore_JR-0000117562",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005": {
+      "URL": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-21",
+      "evidence": "employer_field"
+    },
+    "https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544": {
+      "URL": "https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE": {
+      "URL": "https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005": {
+      "URL": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-20",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005": {
+      "URL": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-21",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005": {
+      "URL": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-20",
+      "evidence": "employer_field"
+    },
+    "https://www.citadel.com/careers/details/international-equities-associate-intern-europe": {
+      "URL": "https://www.citadel.com/careers/details/international-equities-associate-intern-europe/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadel.com/careers/details/investment-trading-intern-europe": {
+      "URL": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us": {
+      "URL": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia": {
+      "URL": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe": {
+      "URL": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us": {
+      "URL": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadel.com/careers/details/software-engineer-intern-europe": {
+      "URL": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadel.com/careers/details/software-engineer-intern-us": {
+      "URL": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us": {
+      "URL": "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us": {
+      "URL": "https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us": {
+      "URL": "https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-australia": {
+      "URL": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-australia/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us": {
+      "URL": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us": {
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia": {
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-australia": {
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-australia/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe": {
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us": {
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-australia": {
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-australia/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe": {
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe": {
+      "URL": "https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/sector-data-analyst-intern-europe": {
+      "URL": "https://www.citadelsecurities.com/careers/details/sector-data-analyst-intern-europe/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/software-engineer-intern-australia": {
+      "URL": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-australia/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us": {
+      "URL": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us-2": {
+      "URL": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us-2/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/cclfg/jobs/4233121009": {
+      "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4233121009",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2027-5709": {
+      "URL": "https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2027-5709",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.deshaw.com/careers/investor-relations-intern-london-summer-2027-5917": {
+      "URL": "https://www.deshaw.com/careers/investor-relations-intern-london-summer-2027-5917",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2027-5731": {
+      "URL": "https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2027-5731",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890": {
+      "URL": "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894": {
+      "URL": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.deshaw.com/careers/strategy-and-business-development-intern-new-york-summer-2027-5730": {
+      "URL": "https://www.deshaw.com/careers/strategy-and-business-development-intern-new-york-summer-2027-5730",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921": {
+      "URL": "https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2027-5925": {
+      "URL": "https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2027-5925",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916": {
+      "URL": "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2027-5862": {
+      "URL": "https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2027-5862",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/7991171": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7991171",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/8070392": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-16",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/8038923": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/7981754": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7981754",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/7957756": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/7818540": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/8014915": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8014915",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/7668776": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/7957243": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/8014919": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8014919",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/7992936": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/7942281": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/8020364": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/7991196": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/8014910": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8014910",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/7992670": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7992670",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4691295005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4691295005",
+      "first_seen": "2026-07-23",
+      "date": "2026-05-04",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/engineersgate/jobs/7946542": {
+      "URL": "https://job-boards.greenhouse.io/engineersgate/jobs/7946542",
+      "first_seen": "2026-07-23",
+      "date": "2026-05-20",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008": {
+      "URL": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-14",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008": {
+      "URL": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-14",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/flowtraders/jobs/8047166": {
+      "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/flowtraders/jobs/7100637": {
+      "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/7100637",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://higher.gs.com/roles/155800": {
+      "URL": "https://higher.gs.com/roles/155800",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://higher.gs.com/roles/170600": {
+      "URL": "https://higher.gs.com/roles/170600",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-30",
+      "evidence": "employer_field"
+    },
+    "https://group1.applicantpro.com/jobs/3859850": {
+      "URL": "https://group1.applicantpro.com/jobs/3859850",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.gsacapital.com/careers/gh?gh_jid=8570661002": {
+      "URL": "https://www.gsacapital.com/careers/gh/?gh_jid=8570661002",
+      "first_seen": "2026-07-23",
+      "date": "2026-05-29",
+      "evidence": "employer_field"
+    },
+    "https://www.gsacapital.com/careers/gh?gh_jid=8570668002": {
+      "URL": "https://www.gsacapital.com/careers/gh/?gh_jid=8570668002",
+      "first_seen": "2026-07-23",
+      "date": "2026-05-29",
+      "evidence": "employer_field"
+    },
+    "https://www.hudsonrivertrading.com/careers/job?gh_jid=7964062": {
+      "URL": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.hudsonrivertrading.com/careers/job?gh_jid=8052083": {
+      "URL": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4823923101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4823923101",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4860306101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4860306101",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4860277101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4860277101",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4917441101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4917441101",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4917549101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4917549101",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4860319101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4860319101",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4917535101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4917535101",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-06",
+      "evidence": "employer_field"
+    },
+    "https://careers.jpmorgan.com/US/en/students/programs/asset-management-summer-analyst": {
+      "URL": "https://careers.jpmorgan.com/US/en/students/programs/asset-management-summer-analyst",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://careers.jpmorgan.com/us/en/students/programs/markets-summer-analyst": {
+      "URL": "https://careers.jpmorgan.com/us/en/students/programs/markets-summer-analyst",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8631973002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8631973002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8347286002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8347286002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8624440002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8624440002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8641377002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8641377002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8377831002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8377831002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8625946002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8625946002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8377832002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8377832002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8626260002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8626260002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8611307002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8374335002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8374335002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8384490002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8384490002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8620793002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8620793002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8343131002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8343131002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8498547002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8498547002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8623868002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8623868002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/7982986002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/7982986002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8617344002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8617344002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8623733002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8623733002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8630687002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8630687002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8347385002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8347385002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8419303002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8419303002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/7582902002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/7582902002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8599644002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8599644002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8617298002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8617298002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8632392002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8632392002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8630713002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8630713002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8621552002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8621552002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8370012002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8370012002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/5866838002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/5866838002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/5869205002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/5869205002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8620505002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8620505002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8621450002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8621450002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8168747002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8168747002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8628843002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8628843002/",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8052338": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8052338",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-08",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8052351": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8052351",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-08",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8052281": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8052281",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-08",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=7974837": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7974837",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8002998": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-08",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=7975008": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=7974391": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7974391",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8003013": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=7977145": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7977145",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8010307": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8059384": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8059384",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=7982648": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7982648",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-08",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=7848371": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-08",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8050772": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8002989": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-08",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=7975026": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8007788": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-08",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8000323": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=7565728": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7565728",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8003019": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-08",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=7974943": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5ae2f1abc6f7/candidate/so/pm/1/pl/1/opp/21270-2027-Institutional-Equity-Division-Quantitative-Finance-Summer-Analyst-Associate-Program-Hong-Kong/en-GB": {
+      "URL": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5ae2f1abc6f7/candidate/so/pm/1/pl/1/opp/21270-2027-Institutional-Equity-Division-Quantitative-Finance-Summer-Analyst-Associate-Program-Hong-Kong/en-GB",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.oldmissioncapital.com/careers?gh_jid=7796180003": {
+      "URL": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-15",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6": {
+      "URL": "https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-15",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8641352002?gh_jid=8641352002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-21",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8402114002?gh_jid=8402114002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-16",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002": {
+      "URL": "https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-23",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8402215002?gh_jid=8402215002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8642260002?gh_jid=8642260002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8642260002/?gh_jid=8642260002",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-20",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8011956002?gh_jid=8011956002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8011956002/?gh_jid=8011956002",
+      "first_seen": "2026-07-23",
+      "date": "2025-06-27",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8401052002?gh_jid=8401052002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8604760002?gh_jid=8604760002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8489582002?gh_jid=8489582002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-15",
+      "evidence": "employer_field"
+    },
+    "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "first_seen": "2026-07-23",
+      "date": "2024-08-15",
+      "evidence": "employer_field"
+    },
+    "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "first_seen": "2026-07-23",
+      "date": "2024-08-15",
+      "evidence": "employer_field"
+    },
+    "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
+      "first_seen": "2026-07-23",
+      "date": "2024-08-15",
+      "evidence": "employer_field"
+    },
+    "https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002",
+      "first_seen": "2026-07-23",
+      "date": "2024-08-15",
+      "evidence": "employer_field"
+    },
+    "https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002",
+      "first_seen": "2026-07-23",
+      "date": "2025-05-31",
+      "evidence": "employer_field"
+    },
+    "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
+      "first_seen": "2026-07-23",
+      "date": "2024-08-15",
+      "evidence": "employer_field"
+    },
+    "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
+      "first_seen": "2026-07-23",
+      "date": "2024-08-15",
+      "evidence": "employer_field"
+    },
+    "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002",
+      "first_seen": "2026-07-23",
+      "date": "2024-08-15",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002": {
+      "URL": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002",
+      "first_seen": "2026-07-23",
+      "date": "2026-04-09",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/7185553": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/7185553",
+      "first_seen": "2026-07-23",
+      "date": "2025-08-22",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/scm/jobs/721888": {
+      "URL": "https://job-boards.greenhouse.io/scm/jobs/721888",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/scm/jobs/721895": {
+      "URL": "https://job-boards.greenhouse.io/scm/jobs/721895",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://careers.sig.com/jobs/10794?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10794?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-04-10",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10945?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10945?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-04",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11216?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11216?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-23",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10723?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10723?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-03-26",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10573?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10573?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-03-23",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10876?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10876?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-17",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11085?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11085?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-17",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10716?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10716?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-03-31",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10724?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10724?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-03-23",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10725?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10725?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-03-23",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11121?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11121?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-30",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10820?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10820?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-29",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10819?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10819?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-04-21",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11007?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11007?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-15",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10843?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10843?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-15",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11170?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11170?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-06",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10838?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10838?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-04-23",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11122?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11122?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-30",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10824?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10824?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-29",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10823?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10823?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-04-21",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11006?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11006?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-15",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10841?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10841?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-15",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10849?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10849?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-30",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10718?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10718?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-30",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10717?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10717?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-04-17",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11005?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11005?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-15",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10839?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10839?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-15",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11169?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11169?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-06",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10837?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10837?lang=en-us",
+      "first_seen": "2026-07-23",
+      "date": "2026-04-23",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8044334": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-05",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8024128": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-05",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=7789933": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=7789933",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007": {
+      "URL": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-02",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007": {
+      "URL": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-02",
+      "evidence": "employer_field"
+    },
+    "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096": {
+      "URL": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-2027-Summer/13945": {
+      "URL": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-2027-Summer/13945",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/vaticlabs/jobs/7268318": {
+      "URL": "https://job-boards.greenhouse.io/vaticlabs/jobs/7268318",
+      "first_seen": "2026-07-23",
+      "date": "2025-09-22",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/virtu/jobs/8142539002": {
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
+      "first_seen": "2026-07-23",
+      "date": "2025-09-12",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/virtu/jobs/8631180002": {
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8631180002",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-14",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/virtu/jobs/8547254002": {
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8547254002",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-01",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/virtu/jobs/8551566002": {
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8551566002",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-20",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/virtu/jobs/8624408002": {
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-21",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/virtu/jobs/8624410002": {
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-21",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009": {
+      "URL": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-11",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009": {
+      "URL": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-11",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006": {
+      "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006": {
+      "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006": {
+      "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006": {
+      "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006": {
+      "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-01",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006": {
+      "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006": {
+      "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006": {
+      "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006",
+      "first_seen": "2026-07-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://jobs.ashbyhq.com/wincent/984bf12c-8d80-431f-9789-04a9739cfc99": {
+      "URL": "https://jobs.ashbyhq.com/wincent/984bf12c-8d80-431f-9789-04a9739cfc99",
+      "first_seen": "2026-07-23",
+      "date": "2026-06-08",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/worldquant/jobs/4069460006": {
+      "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4069460006",
+      "first_seen": "2026-07-23",
+      "date": "2023-08-22",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/worldquant/jobs/4084570006": {
+      "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4084570006",
+      "first_seen": "2026-07-23",
+      "date": "2023-08-22",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/worldquant/jobs/4434997006": {
+      "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4434997006",
+      "first_seen": "2026-07-23",
+      "date": "2025-01-21",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/worldquant/jobs/4655484006": {
+      "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4655484006",
+      "first_seen": "2026-07-23",
+      "date": "2026-02-24",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/worldquant/jobs/4652485006": {
+      "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4652485006",
+      "first_seen": "2026-07-23",
+      "date": "2026-02-22",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003": {
+      "URL": "https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003",
+      "first_seen": "2026-07-23",
+      "date": "2024-11-18",
+      "evidence": "employer_field"
+    },
+    "troweprice|82718|2027 global trading internship program": {
+      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-23",
+      "evidence": "employer_relative_label"
+    },
+    "troweprice|82699|2027 quantitative equity investing internship program": {
+      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-23",
+      "evidence": "employer_relative_label"
+    },
+    "troweprice|82677|2027 technology and data internship": {
+      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677",
+      "first_seen": "2026-07-23",
+      "date": "2026-07-23",
+      "evidence": "employer_relative_label"
+    },
+    "db|R0429474|internship - technology process analysis (f/m/x)": {
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Technology-Process-Team--f-m-x-_R0429474",
+      "first_seen": "2026-07-24",
+      "date": "2026-07-24",
+      "evidence": "employer_relative_label"
+    },
+    "https://www.trlm.com/apply/5076003007?gh_jid=5076003007": {
+      "URL": "https://www.trlm.com/apply/5076003007?gh_jid=5076003007",
+      "first_seen": "2026-07-24",
+      "date": "2026-03-31",
+      "evidence": "employer_field"
+    },
+    "https://www.trlm.com/apply/5076017007?gh_jid=5076017007": {
+      "URL": "https://www.trlm.com/apply/5076017007?gh_jid=5076017007",
+      "first_seen": "2026-07-24",
+      "date": "2026-03-31",
+      "evidence": "employer_field"
+    },
+    "https://www.trlm.com/apply/5076067007?gh_jid=5076067007": {
+      "URL": "https://www.trlm.com/apply/5076067007?gh_jid=5076067007",
+      "first_seen": "2026-07-24",
+      "date": "2026-03-31",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005": {
+      "URL": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005",
+      "first_seen": "2026-07-24",
+      "date": "2026-07-24",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685": {
+      "URL": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "first_seen": "2026-07-24",
+      "date": "2026-07-24",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292": {
+      "URL": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
+      "first_seen": "2026-07-24",
+      "date": "2026-07-24",
+      "evidence": "employer_field"
+    },
+    "https://builtin.com/job/quant-trading-intern-may-2027/8098013": {
+      "URL": "https://builtin.com/job/quant-trading-intern-may-2027/8098013",
+      "first_seen": "2026-07-25",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?gh_jid=243853&id=243853": {
+      "URL": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
+      "first_seen": "2026-07-27",
+      "date": "2023-07-06",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8091833": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8091833",
+      "first_seen": "2026-07-29",
+      "date": null,
+      "evidence": null
+    },
+    "barclays|JR-0000124913|2027 technology developer summer internship programme india": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-India_JR-0000124913",
+      "first_seen": "2026-07-30",
+      "date": "2026-07-30",
+      "evidence": "employer_relative_label"
+    },
+    "db|R0445580|dws investment risk intern": {
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Investment-Risk-Intern_R0445580-1",
+      "first_seen": "2026-07-30",
+      "date": "2026-07-30",
+      "evidence": "employer_relative_label"
+    },
+    "db|R0442822|internship - implementation support - corporate bank milan (f/m/x)": {
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship---Implementation-Support---Corporate-Bank-Milan--f-m-x-_R0442822",
+      "first_seen": "2026-07-30",
+      "date": "2026-07-30",
+      "evidence": "employer_relative_label"
+    },
+    "https://careers.sig.com/jobs/11244?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11244?lang=en-us",
+      "first_seen": "2026-07-30",
+      "date": "2026-07-30",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/virtu/jobs/7617953002": {
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/7617953002",
+      "first_seen": "2026-07-30",
+      "date": "2024-08-30",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/virtu/jobs/5208637002": {
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/5208637002",
+      "first_seen": "2026-07-30",
+      "date": "2021-04-16",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/virtu/jobs/6329460002": {
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/6329460002",
+      "first_seen": "2026-07-30",
+      "date": "2022-08-15",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/virtu/jobs/5513756002": {
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/5513756002",
+      "first_seen": "2026-07-30",
+      "date": "2021-08-31",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/worldquant/jobs/4572988006": {
+      "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4572988006",
+      "first_seen": "2026-07-30",
+      "date": "2025-06-03",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/worldquant/jobs/4314066006": {
+      "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4314066006",
+      "first_seen": "2026-07-30",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/7997729": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/7997729",
+      "first_seen": "2026-07-30",
+      "date": "2026-07-30",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101": {
+      "URL": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101",
+      "first_seen": "2026-08-03",
+      "date": "2023-07-19",
+      "evidence": "employer_field"
+    },
+    "https://www.dltrading.io/careers?gh_jid=7814660003": {
+      "URL": "https://www.dltrading.io/careers?gh_jid=7814660003",
+      "first_seen": "2026-08-03",
+      "date": "2026-07-23",
+      "evidence": "employer_field"
+    },
+    "https://www.dltrading.io/careers?gh_jid=7814754003": {
+      "URL": "https://www.dltrading.io/careers?gh_jid=7814754003",
+      "first_seen": "2026-08-03",
+      "date": "2026-07-23",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4927149101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4927149101",
+      "first_seen": "2026-08-03",
+      "date": "2026-07-31",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4941380101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4941380101",
+      "first_seen": "2026-08-03",
+      "date": "2026-07-31",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4936262101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4936262101",
+      "first_seen": "2026-08-03",
+      "date": "2026-07-31",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4667854101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4667854101",
+      "first_seen": "2026-08-03",
+      "date": "2026-05-07",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4939846101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4939846101",
+      "first_seen": "2026-08-03",
+      "date": "2026-07-31",
+      "evidence": "employer_field"
+    },
+    "https://www.janestreet.com/join-jane-street/position/8651323002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8651323002/",
+      "first_seen": "2026-08-03",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8651274002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8651274002/",
+      "first_seen": "2026-08-03",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8626146002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8626146002/",
+      "first_seen": "2026-08-03",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8648474002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8648474002/",
+      "first_seen": "2026-08-03",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8474416002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8474416002/",
+      "first_seen": "2026-08-03",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8474407002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8474407002/",
+      "first_seen": "2026-08-03",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8537797002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8537797002/",
+      "first_seen": "2026-08-03",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8589868002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8589868002/",
+      "first_seen": "2026-08-03",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8518854002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8518854002/",
+      "first_seen": "2026-08-03",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8027946": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027946",
+      "first_seen": "2026-08-03",
+      "date": "2026-08-03",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8027955": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027955",
+      "first_seen": "2026-08-03",
+      "date": "2026-08-03",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8027939": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+      "first_seen": "2026-08-03",
+      "date": "2026-08-03",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8027941": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027941",
+      "first_seen": "2026-08-03",
+      "date": "2026-08-03",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8027952": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "first_seen": "2026-08-03",
+      "date": "2026-08-03",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552": {
+      "URL": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552",
+      "first_seen": "2026-08-03",
+      "date": "2026-07-31",
+      "evidence": "employer_field"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?gh_jid=6201998&id=6201998": {
+      "URL": "https://www.squarepoint-capital.com/open-opportunities?id=6201998&gh_jid=6201998",
+      "first_seen": "2026-08-03",
+      "date": "2024-08-28",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151581007?gh_jid=5151581007": {
+      "URL": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151581007?gh_jid=5151581007",
+      "first_seen": "2026-08-03",
+      "date": "2026-08-03",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/virtu/jobs/8657500002": {
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+      "first_seen": "2026-08-03",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/virtu/jobs/8657286002": {
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8657286002",
+      "first_seen": "2026-08-03",
+      "date": "2026-07-29",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/flowtraders/jobs/8102618": {
+      "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/8102618",
+      "first_seen": "2026-08-04",
+      "date": "2026-08-04",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005",
+      "first_seen": "2026-08-04",
+      "date": "2026-08-04",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937": {
+      "URL": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
+      "first_seen": "2026-08-05",
+      "date": "2026-08-05",
+      "evidence": "employer_field"
+    },
+    "https://www.oldmissioncapital.com/careers?gh_jid=7828063003": {
+      "URL": "https://www.oldmissioncapital.com/careers/?gh_jid=7828063003",
+      "first_seen": "2026-08-05",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.optiver.com/join-us/jobs/8682750002?gh_jid=8682750002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002",
+      "first_seen": "2026-08-05",
+      "date": "2026-08-05",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10626?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10626?lang=en-us",
+      "first_seen": "2026-08-05",
+      "date": "2026-08-05",
+      "evidence": "employer_field"
+    },
+    "invesco|R-15052|early career intern - investments (risk)": {
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1",
+      "first_seen": "2026-08-06",
+      "date": "2026-08-06",
+      "evidence": "employer_relative_label"
+    },
+    "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab": {
+      "URL": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab",
+      "first_seen": "2026-08-07",
+      "date": "2026-08-04",
+      "evidence": "employer_field"
+    },
+    "https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0": {
+      "URL": "https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0",
+      "first_seen": "2026-08-07",
+      "date": "2026-08-04",
+      "evidence": "employer_field"
+    },
+    "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0": {
+      "URL": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+      "first_seen": "2026-08-07",
+      "date": "2026-08-04",
+      "evidence": "employer_field"
+    },
+    "https://www.trlm.com/apply/5207070007?gh_jid=5207070007": {
+      "URL": "https://www.trlm.com/apply/5207070007?gh_jid=5207070007",
+      "first_seen": "2026-08-07",
+      "date": "2026-08-07",
+      "evidence": "employer_field"
+    },
+    "https://www.trlm.com/apply/5207089007?gh_jid=5207089007": {
+      "URL": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007",
+      "first_seen": "2026-08-07",
+      "date": null,
+      "evidence": null
+    },
+    "morningstar|REQ-057999|morningstar internship program- quantitative research intern 2027": {
+      "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027_REQ-057999",
+      "first_seen": "2026-08-07",
+      "date": "2026-08-05",
+      "evidence": "employer_relative_label"
+    },
+    "https://jobs.smartrecruiters.com/RRSGroup/744000130592319": {
+      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000130592319",
+      "first_seen": "2026-08-07",
+      "date": "2026-06-05",
+      "evidence": "employer_field"
+    },
+    "morningstar|REQ-053117|morningstar internship program- quantitative research intern (campus)": {
+      "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern--Campus-_REQ-053117-2",
+      "first_seen": "2026-08-10",
+      "date": "2026-08-10",
+      "evidence": "employer_relative_label"
+    },
+    "https://jobs.smartrecruiters.com/RRSGroup/744000142513209": {
+      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000142513209",
+      "first_seen": "2026-08-10",
+      "date": "2026-08-09",
+      "evidence": "employer_field"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?gh_jid=7231006&id=7231006": {
+      "URL": "https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006",
+      "first_seen": "2026-08-10",
+      "date": "2025-09-05",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005",
+      "first_seen": "2026-08-10",
+      "date": "2026-08-10",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+      "first_seen": "2026-08-10",
+      "date": "2026-08-10",
+      "evidence": "employer_field"
+    },
+    "https://www.quantbot.com/careers/4299767009?gh_jid=4299767009": {
+      "URL": "https://www.quantbot.com/careers/4299767009?gh_jid=4299767009",
+      "first_seen": "2026-08-11",
+      "date": "2026-08-07",
+      "evidence": "employer_field"
+    },
+    "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009": {
+      "URL": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009",
+      "first_seen": "2026-08-11",
+      "date": "2026-08-07",
+      "evidence": "employer_field"
+    },
+    "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009": {
+      "URL": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009",
+      "first_seen": "2026-08-11",
+      "date": "2026-08-07",
+      "evidence": "employer_field"
+    },
+    "https://www.quantbot.com/careers/4299496009?gh_jid=4299496009": {
+      "URL": "https://www.quantbot.com/careers/4299496009?gh_jid=4299496009",
+      "first_seen": "2026-08-11",
+      "date": "2026-08-07",
+      "evidence": "employer_field"
+    },
+    "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009": {
+      "URL": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009",
+      "first_seen": "2026-08-11",
+      "date": null,
+      "evidence": null
+    },
+    "https://careers.aqr.com/jobs?gh_jid=8122378": {
+      "URL": "https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-11",
+      "evidence": "employer_field"
+    },
+    "https://careers.aqr.com/jobs?gh_jid=8123095": {
+      "URL": "https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-11",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4941208101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4941208101",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-12",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4941206101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4941206101",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-12",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-12",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8644364002?gh_jid=8644364002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-12",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8633966002?gh_jid=8633966002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-12",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8623927002?gh_jid=8623927002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8623927002/?gh_jid=8623927002",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-12",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8623923002?gh_jid=8623923002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8623923002/?gh_jid=8623923002",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-12",
+      "evidence": "employer_field"
+    },
+    "peak6group|JR105057|trading bootcamp micro-internship - summer 2027": {
+      "URL": "https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057-1",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-11",
+      "evidence": "employer_relative_label"
+    },
+    "peak6group|JR105061|trading internship for women+ summer 2027": {
+      "URL": "https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Internship-for-Women--Summer-2027_JR105061",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-11",
+      "evidence": "employer_relative_label"
+    },
+    "https://www.quantbot.com/careers/4344638009?gh_jid=4344638009": {
+      "URL": "https://www.quantbot.com/careers/4344638009?gh_jid=4344638009",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-11",
+      "evidence": "employer_field"
+    },
+    "https://www.quantbot.com/careers/4299858009?gh_jid=4299858009": {
+      "URL": "https://www.quantbot.com/careers/4299858009?gh_jid=4299858009",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-11",
+      "evidence": "employer_field"
+    },
+    "https://www.quantbot.com/careers/4348629009?gh_jid=4348629009": {
+      "URL": "https://www.quantbot.com/careers/4348629009?gh_jid=4348629009",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-11",
+      "evidence": "employer_field"
+    },
+    "https://www.quantbot.com/careers/4299863009?gh_jid=4299863009": {
+      "URL": "https://www.quantbot.com/careers/4299863009?gh_jid=4299863009",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-11",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8113986": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8113986",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-12",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-12",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8644376002?gh_jid=8644376002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8644376002/?gh_jid=8644376002",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-12",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/virtu/jobs/8638124002": {
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8638124002",
+      "first_seen": "2026-08-12",
+      "date": "2026-08-12",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/drweng/jobs/8127242": {
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8127242",
+      "first_seen": "2026-08-13",
+      "date": "2026-08-13",
+      "evidence": "employer_field"
+    },
+    "https://www.janestreet.com/join-jane-street/position/8700980002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8700980002/",
+      "first_seen": "2026-08-13",
+      "date": null,
+      "evidence": null
+    },
+    "pimco|R106605|2027 summer intern - client solutions & analytics analyst, us": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
+      "first_seen": "2026-08-13",
+      "date": "2026-08-13",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000128099|quantitative finance associate summer internship program 2027 new york": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
+      "first_seen": "2026-08-14",
+      "date": "2026-08-14",
+      "evidence": "employer_relative_label"
+    },
+    "bpinternational|RQ114483|6-month internship - supply, trading & shipping - singapore (jan - jun 2027)": {
+      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2",
+      "first_seen": "2026-08-14",
+      "date": "2026-08-14",
+      "evidence": "employer_relative_label"
+    },
+    "bpinternational|RQ114217|summer internship - finance & risk - singapore (2027)": {
+      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217",
+      "first_seen": "2026-08-14",
+      "date": "2026-08-14",
+      "evidence": "employer_relative_label"
+    },
+    "bpinternational|RQ114218|summer internship - supply, trading & shipping - singapore (2027)": {
+      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2",
+      "first_seen": "2026-08-14",
+      "date": "2026-08-14",
+      "evidence": "employer_relative_label"
+    },
+    "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978": {
+      "URL": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978",
+      "first_seen": "2026-08-14",
+      "date": null,
+      "evidence": null
+    },
+    "https://opportunitiesforyouth.org/2026/07/27/five-rings-summer-intern-2027-quantitative-trader-internship-in-new-york-300000-annualized-salary-sign-on-bonus-corporate-housing": {
+      "URL": "https://opportunitiesforyouth.org/2026/07/27/five-rings-summer-intern-2027-quantitative-trader-internship-in-new-york-300000-annualized-salary-sign-on-bonus-corporate-housing/",
+      "first_seen": "2026-08-14",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.flowtraders.com/careers/job-description/8047166": {
+      "URL": "https://www.flowtraders.com/careers/job-description/8047166",
+      "first_seen": "2026-08-14",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007": {
+      "URL": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007",
+      "first_seen": "2026-08-14",
+      "date": "2026-08-14",
+      "evidence": "employer_field"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8474": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8474",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-14",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Macro---Commodities-Investment-Teams--Summer-Internship-_REQ8477": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Macro---Commodities-Investment-Teams--Summer-Internship-_REQ8477",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-14",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8454": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8454",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-14",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Macro-Investment-Team--Summer-Internship-_REQ8453": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Macro-Investment-Team--Summer-Internship-_REQ8453",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-14",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst--Commodities--Seasonal-Internship-_REQ8467": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst--Commodities--Seasonal-Internship-_REQ8467",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-12",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Multi-Asset-Arbitrage--Summer-Internship-_REQ8462": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Multi-Asset-Arbitrage--Summer-Internship-_REQ8462",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-16",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Quantitative-Strategies--Summer-Internship-_REQ8479": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Quantitative-Strategies--Summer-Internship-_REQ8479",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-14",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Risk--Summer-Internship-_REQ8463": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Risk--Summer-Internship-_REQ8463",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-16",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Risk--Summer-Internship-_REQ8478": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Risk--Summer-Internship-_REQ8478",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-14",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Systematic-Strategies--Summer-Internship---PhD-_REQ8460": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Systematic-Strategies--Summer-Internship---PhD-_REQ8460",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-16",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Systematic--Multi-Asset-Arbitrage--Summer-Internship-_REQ8461": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Systematic--Multi-Asset-Arbitrage--Summer-Internship-_REQ8461",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-16",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Summer-Internship-_REQ8057": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Summer-Internship-_REQ8057",
+      "first_seen": "2026-08-16",
+      "date": "2026-03-24",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8115": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8115",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-14",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8445": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8445",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-14",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8446": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ8446",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-14",
+      "evidence": "employer_relative_label"
+    },
+    "https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891": {
+      "URL": "https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891",
+      "first_seen": "2026-08-16",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893": {
+      "URL": "https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893",
+      "first_seen": "2026-08-16",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008": {
+      "URL": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008",
+      "first_seen": "2026-08-16",
+      "date": "2026-07-14",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171532": {
+      "URL": "https://higher.gs.com/roles/171532",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171548": {
+      "URL": "https://higher.gs.com/roles/171548",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171534": {
+      "URL": "https://higher.gs.com/roles/171534",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171546": {
+      "URL": "https://higher.gs.com/roles/171546",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171550": {
+      "URL": "https://higher.gs.com/roles/171550",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171552": {
+      "URL": "https://higher.gs.com/roles/171552",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171563": {
+      "URL": "https://higher.gs.com/roles/171563",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171566": {
+      "URL": "https://higher.gs.com/roles/171566",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171547": {
+      "URL": "https://higher.gs.com/roles/171547",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171533": {
+      "URL": "https://higher.gs.com/roles/171533",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171535": {
+      "URL": "https://higher.gs.com/roles/171535",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171549": {
+      "URL": "https://higher.gs.com/roles/171549",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171551": {
+      "URL": "https://higher.gs.com/roles/171551",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/181628": {
+      "URL": "https://higher.gs.com/roles/181628",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/169905": {
+      "URL": "https://higher.gs.com/roles/169905",
+      "first_seen": "2026-08-16",
+      "date": "2026-06-30",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/169906": {
+      "URL": "https://higher.gs.com/roles/169906",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-13",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170601": {
+      "URL": "https://higher.gs.com/roles/170601",
+      "first_seen": "2026-08-16",
+      "date": "2026-06-30",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/175421": {
+      "URL": "https://higher.gs.com/roles/175421",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/175423": {
+      "URL": "https://higher.gs.com/roles/175423",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/175424": {
+      "URL": "https://higher.gs.com/roles/175424",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/175428": {
+      "URL": "https://higher.gs.com/roles/175428",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/175426": {
+      "URL": "https://higher.gs.com/roles/175426",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/175427": {
+      "URL": "https://higher.gs.com/roles/175427",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170860": {
+      "URL": "https://higher.gs.com/roles/170860",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/175429": {
+      "URL": "https://higher.gs.com/roles/175429",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/175430": {
+      "URL": "https://higher.gs.com/roles/175430",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170663": {
+      "URL": "https://higher.gs.com/roles/170663",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/175433": {
+      "URL": "https://higher.gs.com/roles/175433",
+      "first_seen": "2026-08-16",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://www.hudsonrivertrading.com/careers/job?gh_jid=8059837": {
+      "URL": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
+      "first_seen": "2026-08-16",
+      "date": "2026-07-13",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10785?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10785?lang=en-us",
+      "first_seen": "2026-08-16",
+      "date": "2026-04-09",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10429?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10429?lang=en-us",
+      "first_seen": "2026-08-16",
+      "date": "2026-01-05",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11083?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11083?lang=en-us",
+      "first_seen": "2026-08-16",
+      "date": "2026-06-29",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10818?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10818?lang=en-us",
+      "first_seen": "2026-08-16",
+      "date": "2026-06-29",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10817?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10817?lang=en-us",
+      "first_seen": "2026-08-16",
+      "date": "2026-04-21",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10822?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10822?lang=en-us",
+      "first_seen": "2026-08-16",
+      "date": "2026-06-29",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11084?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11084?lang=en-us",
+      "first_seen": "2026-08-16",
+      "date": "2026-06-24",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10821?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10821?lang=en-us",
+      "first_seen": "2026-08-16",
+      "date": "2026-04-21",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/10435?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/10435?lang=en-us",
+      "first_seen": "2026-08-16",
+      "date": "2026-01-05",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8024138": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8024138",
+      "first_seen": "2026-08-16",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/virtu/jobs/8624424002": {
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8624424002",
+      "first_seen": "2026-08-16",
+      "date": "2026-07-22",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006": {
+      "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006",
+      "first_seen": "2026-08-16",
+      "date": "2026-06-01",
+      "evidence": "employer_field"
+    },
+    "https://www.janestreet.com/join-jane-street/position/8641280002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8641280002/",
+      "first_seen": "2026-08-17",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.optiver.com/join-us/jobs/8713775002?gh_jid=8713775002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8713775002/?gh_jid=8713775002",
+      "first_seen": "2026-08-17",
+      "date": "2026-08-17",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8488699002?gh_jid=8488699002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002",
+      "first_seen": "2026-08-17",
+      "date": "2026-08-17",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8488701002?gh_jid=8488701002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002",
+      "first_seen": "2026-08-17",
+      "date": "2026-08-17",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8713409002?gh_jid=8713409002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
+      "first_seen": "2026-08-17",
+      "date": "2026-08-17",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8713435002?gh_jid=8713435002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
+      "first_seen": "2026-08-17",
+      "date": "2026-08-17",
+      "evidence": "employer_field"
+    },
+    "pimco|R106626|2027 summer intern - product strategy analyst, us": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626",
+      "first_seen": "2026-08-17",
+      "date": "2026-08-17",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/axq/jobs/5745501004": {
+      "URL": "https://job-boards.greenhouse.io/axq/jobs/5745501004",
+      "first_seen": "2026-08-19",
+      "date": "2025-12-30",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/axq/jobs/5636192004": {
+      "URL": "https://job-boards.greenhouse.io/axq/jobs/5636192004",
+      "first_seen": "2026-08-19",
+      "date": "2025-08-31",
+      "evidence": "employer_field"
+    },
+    "dimensional|2026|internship in portfolio management (undergraduate & master's)": {
+      "URL": "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Portfolio-Management--Undergraduate---Master-s-_2026-8998",
+      "first_seen": "2026-08-19",
+      "date": "2026-08-18",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4719134005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4719134005",
+      "first_seen": "2026-08-19",
+      "date": "2026-08-17",
+      "evidence": "employer_field"
+    },
+    "https://www.janestreet.com/join-jane-street/position/8594416002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8594416002/",
+      "first_seen": "2026-08-19",
+      "date": null,
+      "evidence": null
+    },
+    "pimco|R106745|2027 summer intern - technology analyst, software engineering": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
+      "first_seen": "2026-08-19",
+      "date": "2026-08-18",
+      "evidence": "employer_relative_label"
+    },
+    "https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
+      "first_seen": "2026-08-19",
+      "date": "2026-08-17",
+      "evidence": "employer_field"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?gh_jid=7905463&id=7905463": {
+      "URL": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
+      "first_seen": "2026-08-19",
+      "date": "2026-05-07",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8138524": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
+      "first_seen": "2026-08-19",
+      "date": "2026-08-18",
+      "evidence": "employer_field"
+    },
+    "https://www.verition.com/open-positions?gh_jid=5214784007": {
+      "URL": "https://www.verition.com/open-positions?gh_jid=5214784007",
+      "first_seen": "2026-08-19",
+      "date": "2026-08-19",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/xantium/jobs/4360768009": {
+      "URL": "https://job-boards.greenhouse.io/xantium/jobs/4360768009",
+      "first_seen": "2026-08-19",
+      "date": "2026-08-17",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/xantium/jobs/4371217009": {
+      "URL": "https://job-boards.greenhouse.io/xantium/jobs/4371217009",
+      "first_seen": "2026-08-19",
+      "date": "2026-08-17",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8143756": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8143756",
+      "first_seen": "2026-08-20",
+      "date": "2026-08-20",
+      "evidence": "employer_field"
+    },
+    "https://www.janestreet.com/join-jane-street/position/8693539002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8693539002/",
+      "first_seen": "2026-08-21",
+      "date": null,
+      "evidence": null
+    },
+    "pimco|R106763|2027 summer intern – trading analyst, us": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763",
+      "first_seen": "2026-08-21",
+      "date": "2026-08-20",
+      "evidence": "employer_relative_label"
+    },
+    "https://careers.sig.com/jobs/11332?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11332?lang=en-us",
+      "first_seen": "2026-08-21",
+      "date": "2026-08-21",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11333?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11333?lang=en-us",
+      "first_seen": "2026-08-21",
+      "date": "2026-08-21",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11335?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11335?lang=en-us",
+      "first_seen": "2026-08-21",
+      "date": "2026-08-21",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11334?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11334?lang=en-us",
+      "first_seen": "2026-08-21",
+      "date": "2026-08-21",
+      "evidence": "employer_field"
+    },
+    "vanguard|181765|college to corporate it internship - data science (nc)": {
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765",
+      "first_seen": "2026-08-21",
+      "date": "2026-08-20",
+      "evidence": "employer_relative_label"
+    },
+    "vanguard|181766|college to corporate it internship - data science (pa)": {
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766",
+      "first_seen": "2026-08-21",
+      "date": "2026-08-20",
+      "evidence": "employer_relative_label"
+    },
+    "vanguard|181764|college to corporate it internship - risk & security - analyst  (nc)": {
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764",
+      "first_seen": "2026-08-21",
+      "date": "2026-08-20",
+      "evidence": "employer_relative_label"
+    },
+    "vanguard|181762|college to corporate it internship - risk & security - analyst  (pa)": {
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_181762",
+      "first_seen": "2026-08-21",
+      "date": "2026-08-20",
+      "evidence": "employer_relative_label"
+    },
+    "pimco|R106770|2027 summer intern - global wealth management, strategic accounts analyst, us": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770",
+      "first_seen": "2026-08-22",
+      "date": "2026-08-21",
+      "evidence": "employer_relative_label"
+    },
+    "vanguard|181788|college to corporate it internship - technology operations (pa)": {
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788",
+      "first_seen": "2026-08-22",
+      "date": "2026-08-21",
+      "evidence": "employer_relative_label"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8027900": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
+      "first_seen": "2026-08-24",
+      "date": "2026-08-24",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8027922": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
+      "first_seen": "2026-08-24",
+      "date": "2026-08-24",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002": {
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002",
+      "first_seen": "2026-08-24",
+      "date": "2026-08-24",
+      "evidence": "employer_field"
+    },
+    "https://careers.aqr.com/jobs?gh_jid=8156993": {
+      "URL": "https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993",
+      "first_seen": "2026-08-25",
+      "date": "2026-08-25",
+      "evidence": "employer_field"
+    },
+    "bmo|R260018951|bmo capital markets winter 2027 global markets analyst (generalist & quantitative/developer), toronto (co-op/ internship)": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1",
+      "first_seen": "2026-08-25",
+      "date": "2026-08-25",
+      "evidence": "employer_relative_label"
+    },
+    "db|R0432013|global technology governance intern": {
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Global-Technology-Governance-Intern_R0432013",
+      "first_seen": "2026-08-25",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005",
+      "first_seen": "2026-08-25",
+      "date": "2026-08-25",
+      "evidence": "employer_field"
+    },
+    "https://www.glassdoor.com/job-listing/trading-analyst-intern-group-one-trading-JV_IC1128808_KO0,22_KE23,40.htm?jl=1009878943770": {
+      "URL": "https://www.glassdoor.com/job-listing/trading-analyst-intern-group-one-trading-JV_IC1128808_KO0,22_KE23,40.htm?jl=1009878943770",
+      "first_seen": "2026-08-25",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4956547101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4956547101",
+      "first_seen": "2026-08-25",
+      "date": "2026-08-24",
+      "evidence": "employer_field"
+    },
+    "https://www.janestreet.com/join-jane-street/position/8632723002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8632723002/",
+      "first_seen": "2026-08-25",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8675822002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8675822002/",
+      "first_seen": "2026-08-25",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8027898": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027898",
+      "first_seen": "2026-08-25",
+      "date": "2026-08-25",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11361?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11361?lang=en-us",
+      "first_seen": "2026-08-25",
+      "date": "2026-08-25",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11362?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11362?lang=en-us",
+      "first_seen": "2026-08-25",
+      "date": "2026-08-25",
+      "evidence": "employer_field"
+    },
+    "vanguard|177688|college to corporate it internship - risk & security - engineer  (nc)": {
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1",
+      "first_seen": "2026-08-25",
+      "date": "2026-08-17",
+      "evidence": "employer_relative_label"
+    },
+    "vanguard|177687|college to corporate it internship - risk & security - engineer  (pa)": {
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1",
+      "first_seen": "2026-08-25",
+      "date": "2026-08-17",
+      "evidence": "employer_relative_label"
+    },
+    "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6": {
+      "URL": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6",
+      "first_seen": "2026-08-25",
+      "date": "2026-08-14",
+      "evidence": "employer_field"
+    },
+    "https://www.extern.com/post/wolverine-trading-internship-guide": {
+      "URL": "https://www.extern.com/post/wolverine-trading-internship-guide",
+      "first_seen": "2026-08-25",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002": {
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002",
+      "first_seen": "2026-08-26",
+      "date": "2026-08-24",
+      "evidence": "employer_field"
+    },
+    "bmo|R260021769|bmo capital markets winter 2027, full stack engineer, toronto (co-op/ internship)": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769",
+      "first_seen": "2026-08-26",
+      "date": "2026-08-26",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/cclim/jobs/4383943009": {
+      "URL": "https://job-boards.greenhouse.io/cclim/jobs/4383943009",
+      "first_seen": "2026-08-26",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/cclim/jobs/4383968009": {
+      "URL": "https://job-boards.greenhouse.io/cclim/jobs/4383968009",
+      "first_seen": "2026-08-26",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002": {
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002",
+      "first_seen": "2026-08-26",
+      "date": "2026-08-26",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002": {
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002",
+      "first_seen": "2026-08-26",
+      "date": "2026-08-26",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002": {
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002",
+      "first_seen": "2026-08-26",
+      "date": "2026-08-26",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002": {
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002",
+      "first_seen": "2026-08-26",
+      "date": "2026-08-26",
+      "evidence": "employer_field"
+    },
+    "https://careers.aqr.com/jobs?gh_jid=8161563": {
+      "URL": "https://careers.aqr.com/jobs?gh_jid=8161563&gh_jid=8161563",
+      "first_seen": "2026-08-27",
+      "date": "2026-08-27",
+      "evidence": "employer_field"
+    },
+    "db|R0446573|dws liquidity risk intern": {
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Liquidity-Risk-Intern_R0446573-1",
+      "first_seen": "2026-08-27",
+      "date": "2026-08-27",
+      "evidence": "employer_relative_label"
+    },
+    "dimensional|2026|internship in investment/strategy research (undergraduate & master's)": {
+      "URL": "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Investment-Strategy-Research--Undergraduate-and-Masters-_2026-9037",
+      "first_seen": "2026-08-27",
+      "date": "2026-08-27",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
+      "first_seen": "2026-08-27",
+      "date": "2026-08-27",
+      "evidence": "employer_field"
+    },
+    "https://www.janestreet.com/join-jane-street/position/8755768002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8755768002/",
+      "first_seen": "2026-08-27",
+      "date": null,
+      "evidence": null
+    },
+    "https://jobs.ashbyhq.com/scientech-research/47be106e-4a2a-4814-bca8-4a7b97816d7c": {
+      "URL": "https://jobs.ashbyhq.com/scientech-research/47be106e-4a2a-4814-bca8-4a7b97816d7c",
+      "first_seen": "2026-08-27",
+      "date": "2025-03-04",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/scientech-research/5f8ecd5a-6970-4cb8-a9f9-031d68a0f446": {
+      "URL": "https://jobs.ashbyhq.com/scientech-research/5f8ecd5a-6970-4cb8-a9f9-031d68a0f446",
+      "first_seen": "2026-08-27",
+      "date": "2025-03-05",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80": {
+      "URL": "https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80",
+      "first_seen": "2026-08-27",
+      "date": "2025-01-23",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/scientech-research/c344ad5a-b148-4a96-8d6c-a660e6f86896": {
+      "URL": "https://jobs.ashbyhq.com/scientech-research/c344ad5a-b148-4a96-8d6c-a660e6f86896",
+      "first_seen": "2026-08-27",
+      "date": "2025-01-23",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/scientech-research/11c106c6-feed-4da8-a94a-c8d27d8832f7": {
+      "URL": "https://jobs.ashbyhq.com/scientech-research/11c106c6-feed-4da8-a94a-c8d27d8832f7",
+      "first_seen": "2026-08-27",
+      "date": "2026-08-20",
+      "evidence": "employer_field"
+    },
+    "https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading": {
+      "URL": "https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading",
+      "first_seen": "2026-08-30",
+      "date": "2026-07-24",
+      "evidence": "employer_field"
+    },
+    "pimco|R106800|2027 summer intern - technology analyst, software engineering, emea": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800",
+      "first_seen": "2026-08-30",
+      "date": "2026-08-30",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8769725002": {
+      "URL": "https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8769725002",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/axq/jobs/6181069004": {
+      "URL": "https://job-boards.greenhouse.io/axq/jobs/6181069004",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-03",
+      "evidence": "employer_field"
+    },
+    "barclays|JR-0000123226|2027 risk analyst summer internship program wilmington": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Risk-Analyst-Summer-Internship-Program-Wilmington_JR-0000123226",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000123233|2027 technology cyber & security summer internship program whippany": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/XMLNAME-2027-Technology-Cyber---Security-Summer-Internship-Program-Whippany_JR-0000123233",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000123234|2027 technology developer summer internship program whippany": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Whippany_JR-0000123234",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000123236|2027 technology developer summer internship program wilmington": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000124726|quantitative analytics associate off cycle internship programme 2027 paris": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Quantitative-Analytics-Associate-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124726",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000124685|quantitative finance associate off cycle internship programme 2027 london": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000124757|sales, trading and structuring off cycle internship programme 2027 frankfurt": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Frankfurt-Taunus-Turm/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Frankfurt_JR-0000124757-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-03",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000124759|sales, trading and structuring off cycle internship programme 2027 milan": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/The-Medelan-Building-Milan/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Milan_JR-0000124759",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-03",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000124763|sales, trading and structuring off cycle internship programme 2027 paris": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124763",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-03",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000124764|sales, trading and structuring off cycle internship programme 2027 zurich": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Zurich-Beethovenstrasse-19/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Zurich_JR-0000124764",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-03",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260024768|climate risk reporting analyst, winter 2027 (co-op/internship) - 4 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Climate-Risk-Reporting-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024768-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260024672|cloud business & strategy analytics analyst, winter 2027 (co-op/internship) - 4 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024672-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260024336|data analytics intern, winter 2027 (co-op/internship) - 8 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analytics-Intern--Winter-2027--Co-op-Internship----8-months_R260024336-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260024761|data science analyst - audit ai & analytics, winter 2027 (co-op/internship) - 4 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260024735|data science risk analyst, winter 2027 (co-op/internship) - 4 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260024650|junior software developer, winter 2027 (co-op/internship) - 4 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260024678|software developer, winter 2027 (co-op/internship) - 12 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260024638|software developer, winter 2027 (co-op/internship) - 4 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260024640|software developer, winter 2027 (co-op/internship) - 8 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-3",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "bpinternational|RQ115469|summer internship-technology-data & ai- malaysia": {
+      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "bpinternational|RQ115470|summer internship-technology-enterprise technology- malaysia": {
+      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Enterprise-Technology--Malaysia_RQ115470-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "brevanhoward|JR101586|2027 summer internship program – trading, abu dhabi": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2027-Summer-Internship-Program---Trading--Abu-Dhabi_JR101586",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "brevanhoward|JR101584|2027 summer internship program – trading, london": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Trading--London_JR101584",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "brevanhoward|JR101583|2027 summer internship program – trading, new york": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Trading--New-York_JR101583",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "brevanhoward|JR101587|2027 summer internship program – trading, singapore": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Singapore/XMLNAME-2027-Summer-Internship-Program---Trading--Singapore_JR101587",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_relative_label"
+    },
+    "fmr|2132214|equity research associate intern - hong kong (summer 2027)": {
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/38F-One-International-Finance-Centre-Central-Hong-Kong/Equity-Research-Associate-Intern---Hong-Kong--Summer-2027-_2132214",
+      "first_seen": "2026-09-07",
+      "date": "2026-08-31",
+      "evidence": "employer_relative_label"
+    },
+    "fmr|2132215|equity research associate intern summer 2027 -tokyo": {
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Tokyo-Japan/Equity-Research-Associate-Intern-Summer-2027--Tokyo_2132215",
+      "first_seen": "2026-09-07",
+      "date": "2026-08-31",
+      "evidence": "employer_relative_label"
+    },
+    "gunvor|JR102797|research intern": {
+      "URL": "https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Singapore/Research-Intern_JR102797-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-03",
+      "evidence": "employer_relative_label"
+    },
+    "https://www.hudsonrivertrading.com/careers/job?gh_jid=7899574": {
+      "URL": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
+      "first_seen": "2026-09-07",
+      "date": "2026-08-31",
+      "evidence": "employer_field"
+    },
+    "invesco|R-15374|early career intern - strategy and transformation": {
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Strategy-and-Transformation_R-15374-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-03",
+      "evidence": "employer_relative_label"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8027860": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027860",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-03",
+      "evidence": "employer_field"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=8027923": {
+      "URL": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-03",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101": {
+      "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591": {
+      "URL": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970": {
+      "URL": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987": {
+      "URL": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_field"
+    },
+    "ntrs|R160865|technology intern – data science and analytics": {
+      "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_relative_label"
+    },
+    "ntrs|R160869|technology intern – information security": {
+      "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_relative_label"
+    },
+    "ntrs|R160872|technology intern – infrastructure and it management": {
+      "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_relative_label"
+    },
+    "ntrs|R160832|technology intern – software engineering": {
+      "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_relative_label"
+    },
+    "pru|R-124923|2027 technology, internship program": {
+      "URL": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Newark-NJ-USA/XMLNAME-2027-Technology--Internship-Program_R-124923-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-08-31",
+      "evidence": "employer_relative_label"
+    },
+    "pru|R-124796|prudential: 2027 corporate, risk management internship program": {
+      "URL": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_relative_label"
+    },
+    "pimco|R106832|2027 mba /mfe summer intern – associate, portfolio management": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-MBA--MFE-Summer-Intern---Associate--Portfolio-Management_R106832",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_relative_label"
+    },
+    "pimco|R106831|2027 mba summer intern – credit research analyst, us": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-MBA-Summer-Intern---Credit-Research-Analyst--US_R106831-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_relative_label"
+    },
+    "pimco|R106820|2027 mba summer intern – strategist, product strategy group, apac": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Singapore/XMLNAME-2027-MBA-Summer-Intern---Strategist--Product-Strategy-Group--APAC_R106820",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_relative_label"
+    },
+    "pimco|R106834|2027 mba summer internship  pm - public - credit research apac": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Hong-Kong/XMLNAME-2027-MBA-Summer-Internship--PM---Public---Credit-Research-APAC_R106834",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-02",
+      "evidence": "employer_relative_label"
+    },
+    "pimco|R106749|2027 phd summer intern – portfolio management, quantitative research analyst": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_relative_label"
+    },
+    "pimco|R106830|2027 phd summer intern – quantitative portfolio management": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_relative_label"
+    },
+    "pimco|R106804|2027 summer intern - client solutions & analytics quantitative research analyst (mfe), london": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_relative_label"
+    },
+    "pimco|R106816|2027 summer intern - masters quant research analyst, client solutions & analytics, us": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_relative_label"
+    },
+    "pimco|R106810|2027 summer intern - portfolio management - private strategies analyst, london": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Portfolio-Management---Private-Strategies-Analyst--London_R106810-1",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_relative_label"
+    },
+    "pimco|R106815|2027 summer intern – phd quant research analyst, client solutions & analytics, us": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_relative_label"
+    },
+    "pimco|R106835|2027 summer internship – portfolio management - special situations team, apac": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Singapore/XMLNAME-2027-Summer-Internship---Portfolio-Management---Special-Situations-Team--APAC_R106835",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8171703": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8171703",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8172064": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8172064",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8171692": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8171772": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8171772",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8172074": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8172076": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8172053": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8172053",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8180089": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8172059": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8172059",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11446?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11446?lang=en-us",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-03",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11381?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11381?lang=en-us",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-06",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11379?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11379?lang=en-us",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11377?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11377?lang=en-us",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-15",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11378?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11378?lang=en-us",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-15",
+      "evidence": "employer_field"
+    },
+    "troweprice|83497|2027 digital assets strategy internship program": {
+      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Digital-Assets-Strategy-Internship-Program_83497",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-04",
+      "evidence": "employer_relative_label"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8184771": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8184771",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-07",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=7011493": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
+      "first_seen": "2026-09-07",
+      "date": "2025-06-25",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8168750": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8168750",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8168634": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8168634",
+      "first_seen": "2026-09-07",
+      "date": "2026-08-31",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8037860": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8037860",
+      "first_seen": "2026-09-07",
+      "date": "2026-09-01",
+      "evidence": "employer_field"
+    },
+    "vanguard|181851|college to corporate it internship - risk & security - engineer": {
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851",
+      "first_seen": "2026-09-07",
+      "date": "2026-08-31",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/worldquant/jobs/4393652006": {
+      "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4393652006",
+      "first_seen": "2026-09-07",
+      "date": "2024-09-04",
+      "evidence": "employer_field"
+    },
+    "invesco|R-15500|intern, client portfolio management, invesco real estate korea (6 months)": {
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Seoul-Seoul/Intern--Client-Portfolio-Management--Invesco-Real-Estate-Korea--6-months-_R-15500-1",
+      "first_seen": "2026-09-08",
+      "date": "2026-09-08",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000129278|2027 customer and digital - data and analytics summer internship programme glasgow": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000129280|2027 customer and digital - data and analytics summer internship programme london": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000129109|2027 risk analyst summer internship programme glasgow": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Risk-Analyst-Summer-Internship-Programme-Glasgow_JR-0000129109",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000129108|2027 risk analyst summer internship programme london": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Risk-Analyst-Summer-Internship-Programme-London_JR-0000129108",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000129503|2027 technology analyst summer internship programme glasgow": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Glasgow_JR-0000129503",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000129510|2027 technology analyst summer internship programme knutsford": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Knutsford_JR-0000129510",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000129434|2027 technology analyst summer internship programme london": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-London_JR-0000129434",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000129498|2027 technology analyst summer internship programme northampton": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Northampton_JR-0000129498",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000129173|2027 technology cyber and security summer internship programme knutsford": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000129387|2027 technology developer summer internship programme glasgow": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000129381|2027 technology developer summer internship programme knutsford": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000129397|2027 technology developer summer internship programme london": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000129379|2027 technology developer summer internship programme northampton": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000124716|sales, trading and structuring off cycle internship programme 2027 london": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-London_JR-0000124716",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000124692|sales, trading and structuring summer internship programme 2027 london": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-London_JR-0000124692",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "brevanhoward|JR101591|2027 summer internship program – systematic trading, new york": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "dimensional|2026|internship in technology - software engineer": {
+      "URL": "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-08",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_field"
+    },
+    "ntrs|R160771|risk and compliance intern": {
+      "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Risk-and-Compliance-Intern_R160771-1",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-09",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002": {
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-08",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002": {
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-08",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002": {
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-08",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002": {
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-08",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8187178": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-08",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b": {
+      "URL": "https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-08",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977": {
+      "URL": "https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-08",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285": {
+      "URL": "https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285",
+      "first_seen": "2026-09-09",
+      "date": "2026-09-08",
+      "evidence": "employer_field"
+    },
+    "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016": {
+      "URL": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016",
+      "first_seen": "2026-09-09",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
+      "first_seen": "2026-09-10",
+      "date": "2026-09-10",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002": {
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
+      "first_seen": "2026-09-10",
+      "date": "2026-09-08",
+      "evidence": "employer_field"
+    },
+    "brevanhoward|JR101596|2027 summer internship program – systematic data strategy, new york": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596",
+      "first_seen": "2026-09-11",
+      "date": "2026-09-11",
+      "evidence": "employer_relative_label"
+    },
+    "brevanhoward|JR101595|2027 summer internship program – systematic execution research, new york": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595",
+      "first_seen": "2026-09-11",
+      "date": "2026-09-11",
+      "evidence": "employer_relative_label"
+    },
+    "brevanhoward|JR101597|2027 summer internship program – systematic trading technology software engineer, new york": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597",
+      "first_seen": "2026-09-11",
+      "date": "2026-09-11",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4732700005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4732700005",
+      "first_seen": "2026-09-11",
+      "date": "2026-09-10",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
+      "first_seen": "2026-09-11",
+      "date": "2026-09-10",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/genevatrading/jobs/5232641007": {
+      "URL": "https://job-boards.greenhouse.io/genevatrading/jobs/5232641007",
+      "first_seen": "2026-09-11",
+      "date": "2026-09-10",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005",
+      "first_seen": "2026-09-11",
+      "date": "2026-09-11",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4702083005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4702083005",
+      "first_seen": "2026-09-11",
+      "date": "2026-09-11",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005",
+      "first_seen": "2026-09-11",
+      "date": "2026-09-11",
+      "evidence": "employer_field"
+    },
+    "https://www.deshaw.com/careers/Proprietary-Trading-Intern-New-York-Summer-2027-5731": {
+      "URL": "https://www.deshaw.com/careers/Proprietary-Trading-Intern-New-York-Summer-2027-5731",
+      "first_seen": "2026-09-13",
+      "date": null,
+      "evidence": null
+    },
+    "https://higher.gs.com/roles/161037": {
+      "URL": "https://higher.gs.com/roles/161037",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-18",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170724": {
+      "URL": "https://higher.gs.com/roles/170724",
+      "first_seen": "2026-09-13",
+      "date": "2026-08-21",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/164006": {
+      "URL": "https://higher.gs.com/roles/164006",
+      "first_seen": "2026-09-13",
+      "date": "2026-08-21",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170695": {
+      "URL": "https://higher.gs.com/roles/170695",
+      "first_seen": "2026-09-13",
+      "date": "2026-08-21",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170698": {
+      "URL": "https://higher.gs.com/roles/170698",
+      "first_seen": "2026-09-13",
+      "date": "2026-08-21",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/164007": {
+      "URL": "https://higher.gs.com/roles/164007",
+      "first_seen": "2026-09-13",
+      "date": "2026-08-21",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/182548": {
+      "URL": "https://higher.gs.com/roles/182548",
+      "first_seen": "2026-09-13",
+      "date": "2026-08-25",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/169893": {
+      "URL": "https://higher.gs.com/roles/169893",
+      "first_seen": "2026-09-13",
+      "date": "2026-08-28",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170819": {
+      "URL": "https://higher.gs.com/roles/170819",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-18",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/179947": {
+      "URL": "https://higher.gs.com/roles/179947",
+      "first_seen": "2026-09-13",
+      "date": "2026-07-22",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/180086": {
+      "URL": "https://higher.gs.com/roles/180086",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-18",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170824": {
+      "URL": "https://higher.gs.com/roles/170824",
+      "first_seen": "2026-09-13",
+      "date": "2026-06-30",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170823": {
+      "URL": "https://higher.gs.com/roles/170823",
+      "first_seen": "2026-09-13",
+      "date": "2026-06-30",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/183942": {
+      "URL": "https://higher.gs.com/roles/183942",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-07",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/169895": {
+      "URL": "https://higher.gs.com/roles/169895",
+      "first_seen": "2026-09-13",
+      "date": "2026-06-30",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170827": {
+      "URL": "https://higher.gs.com/roles/170827",
+      "first_seen": "2026-09-13",
+      "date": "2026-06-30",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170820": {
+      "URL": "https://higher.gs.com/roles/170820",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-18",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/169894": {
+      "URL": "https://higher.gs.com/roles/169894",
+      "first_seen": "2026-09-13",
+      "date": "2026-06-30",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170822": {
+      "URL": "https://higher.gs.com/roles/170822",
+      "first_seen": "2026-09-13",
+      "date": "2026-06-30",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170764": {
+      "URL": "https://higher.gs.com/roles/170764",
+      "first_seen": "2026-09-13",
+      "date": "2026-06-30",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/155759": {
+      "URL": "https://higher.gs.com/roles/155759",
+      "first_seen": "2026-09-13",
+      "date": "2026-01-13",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/183954": {
+      "URL": "https://higher.gs.com/roles/183954",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-10",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171437": {
+      "URL": "https://higher.gs.com/roles/171437",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-18",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170675": {
+      "URL": "https://higher.gs.com/roles/170675",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-18",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170874": {
+      "URL": "https://higher.gs.com/roles/170874",
+      "first_seen": "2026-09-13",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170880": {
+      "URL": "https://higher.gs.com/roles/170880",
+      "first_seen": "2026-09-13",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170877": {
+      "URL": "https://higher.gs.com/roles/170877",
+      "first_seen": "2026-09-13",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170901": {
+      "URL": "https://higher.gs.com/roles/170901",
+      "first_seen": "2026-09-13",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170863": {
+      "URL": "https://higher.gs.com/roles/170863",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/172894": {
+      "URL": "https://higher.gs.com/roles/172894",
+      "first_seen": "2026-09-13",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171438": {
+      "URL": "https://higher.gs.com/roles/171438",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-18",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170676": {
+      "URL": "https://higher.gs.com/roles/170676",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-18",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170171": {
+      "URL": "https://higher.gs.com/roles/170171",
+      "first_seen": "2026-09-13",
+      "date": "2026-08-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/170821": {
+      "URL": "https://higher.gs.com/roles/170821",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-18",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/184069": {
+      "URL": "https://higher.gs.com/roles/184069",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-08",
+      "evidence": "employer_field"
+    },
+    "https://www.optiver.com/join-us/jobs/8732789002?gh_jid=8732789002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-07",
+      "evidence": "employer_field"
+    },
+    "https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002",
+      "first_seen": "2026-09-13",
+      "date": "2024-08-15",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002": {
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-09",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11422?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11422?lang=en-us",
+      "first_seen": "2026-09-13",
+      "date": "2026-09-01",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8041512": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8041512",
+      "first_seen": "2026-09-13",
+      "date": "2026-07-03",
+      "evidence": "employer_field"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineer---Physical-Commodities-Teams--Summer-Internship-_REQ8596": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineer---Physical-Commodities-Teams--Summer-Internship-_REQ8596",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260025949|portfolio assistant, winter 2027 (co-op/internship), montreal - 4 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Portfolio-Assistant--Winter-2027--Co-op-Internship---Montreal---4-months_R260025949-2",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260026715|quantitative developer (alpha research team) - gam, summer 2027 (co-op/internship) - 12 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260026726|r260025949 portfolio assistant, winter 2027 (co-op/internship), brossard - 4 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "brevanhoward|JR101602|2027 summer internship program – ai & quantitative analyst, new york": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "fmr|2129754|summer 2027 equity research associate intern - london": {
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "https://www.hudsonrivertrading.com/careers/job?gh_jid=8188637": {
+      "URL": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_field"
+    },
+    "pru|R-125016|pgim | intern, real estate private equity portfolio management (all genders) as of q1 2027, based in frankfurt": {
+      "URL": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "pimco|R106805|2027 summer intern - credit research analyst, emea": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805",
+      "first_seen": "2026-09-14",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "bailliegifford|R0004565|cloud, infrastructure & security summer internship 2027": {
+      "URL": "https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Cloud--Infrastructure---Security-Summer-Internship-2027_R0004565",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "bailliegifford|R0004566|software engineering & innovation summer internship 2027": {
+      "URL": "https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Software-Engineering---Innovation-Summer-Internship-2027_R0004566",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-14",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266467|2027 mba internship program - client & product functions - research & markets advisory - new york": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266468|2027 quantitative masters internship program - investments - global capital markets - new york": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266469|2027 quantitative masters internship program - investments - global capital markets - san francisco": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266470|2027 quantitative masters internship program - investments - portfolio management - atlanta": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266471|2027 quantitative masters internship program - investments - portfolio management - new york": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266472|2027 quantitative masters internship program - investments - portfolio management - san francisco": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---San-Francisco_R266472",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266473|2027 quantitative masters internship program - investments - quantitative investing - new york": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---New-York_R266473",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266474|2027 quantitative masters internship program - investments - quantitative investing - san francisco": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---San-Francisco_R266474",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266475|2027 quantitative masters internship program - sales & relationship management - institutional wealth - chicago": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266477|2027 quantitative masters internship program - technology - analytics & modeling - new york": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266476|2027 quantitative masters internship program - technology - analytics & modeling - san francisco": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "blackrock|R266465|2027 quantitative masters internship programme - investments - quantitative investing - london": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "brevanhoward|JR101607|2027 summer internship program – trading, geneva": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4733877005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733877005",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008": {
+      "URL": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_field"
+    },
+    "morningstar|REQ-058465|morningstar internship program- quantitative research intern 2027 (campus)": {
+      "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027--Campus-_REQ-058465",
+      "first_seen": "2026-09-15",
+      "date": "2026-09-15",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/cclfg/jobs/4407698009": {
+      "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4407698009",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4733880005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4733880005",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-15",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/genevatrading/jobs/5240107007": {
+      "URL": "https://job-boards.greenhouse.io/genevatrading/jobs/5240107007",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-17",
+      "evidence": "employer_field"
+    },
+    "https://www.janestreet.com/join-jane-street/position/8810604002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8810604002/",
+      "first_seen": "2026-09-17",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101": {
+      "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-17",
+      "evidence": "employer_field"
+    },
+    "pimco|R106830|2027 phd/mfe summer intern – quantitative portfolio management": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8207942": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/Talos-Trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935": {
+      "URL": "https://jobs.ashbyhq.com/Talos-Trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d": {
+      "URL": "https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e": {
+      "URL": "https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_field"
+    },
+    "wellington|R94829|portfolio reference data analyst co-op": {
+      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_relative_label"
+    },
+    "wellington|R94827|quantitative trading co-op": {
+      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-16",
+      "evidence": "employer_relative_label"
+    },
+    "wellington|R94873|supervisory practices & analytics co-op": {
+      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Supervisory-Practices---Analytics-Co-Op_R94873-1",
+      "first_seen": "2026-09-17",
+      "date": "2026-09-17",
+      "evidence": "employer_relative_label"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8212158": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8212158",
+      "first_seen": "2026-09-18",
+      "date": "2026-09-17",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8212179": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8212179",
+      "first_seen": "2026-09-18",
+      "date": "2026-09-17",
+      "evidence": "employer_field"
+    }
+  }
+}

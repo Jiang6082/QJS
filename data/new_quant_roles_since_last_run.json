@@ -1,9 +1,408 @@
 {
-  "generatedAt": "2026-08-17T17:07:40.427Z",
-  "previousScanAt": "2026-08-16T14:55:30.101Z",
-  "currentScanAt": "2026-08-17T16:47:40.019Z",
-  "previousRows": 322,
-  "currentRows": 325,
+  "generatedAt": "2026-09-18T19:09:06.532Z",
+  "baselineCommit": "1da2958ef58d9e2dfe35cdacf89e01538c029829",
+  "previousScanAt": "2026-09-18T12:52:39.011Z",
+  "currentScanAt": "2026-09-18T19:02:36.382Z",
+  "previousRows": 575,
+  "currentRows": 573,
   "added": [],
-  "removed": []
+  "removed": [
+    {
+      "Company": "Citadel Securities",
+      "Title": "Quantitative Research Analyst - Intern (US)",
+      "Location": "Miami, New York",
+      "Region": "North America",
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting",
+      "lastSeenOpenAt": null,
+      "lastSeenEvidence": "unavailable",
+      "detectedClosedAt": "2026-09-18T19:02:36.382Z"
+    }
+  ],
+  "pending": [
+    {
+      "Company": "AQR Capital Management",
+      "Title": "AQR internship program page",
+      "Location": "Greenwich / other AQR offices",
+      "Region": "North America",
+      "URL": "https://www.aqr.com/about-us/our-internship-program",
+      "Source": "Official internship page",
+      "Status": "Official program page; roles/application timing should be checked on careers.aqr.com"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Summer Internship Program - AMERS",
+      "Location": "Multiple Americas offices",
+      "Region": "North America",
+      "URL": "https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544",
+      "Source": "Official careers page",
+      "Status": "Official broad program; select quant-relevant functions in application"
+    },
+    {
+      "Company": "Capula",
+      "Title": "2027 Trading and Research Summer Internship",
+      "Location": "London / New York / Singapore / Hong Kong",
+      "Region": "Global / Multiple Regions",
+      "URL": "https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/",
+      "Source": "Official Workable posting",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel",
+      "Title": "International Equities Associate - Intern (Europe)",
+      "Location": "London",
+      "Region": "Europe",
+      "URL": "https://www.citadel.com/careers/details/international-equities-associate-intern-europe/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel",
+      "Title": "Investment & Trading - Intern (Europe)",
+      "Location": "London, Paris",
+      "Region": "Europe",
+      "URL": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting",
+      "Department": "",
+      "Notes": "internship timing not stated in title",
+      "lastSeenOpenAt": "2026-09-16T03:09:11.438Z"
+    },
+    {
+      "Company": "Citadel",
+      "Title": "Quantitative Research Analyst - Intern (US)",
+      "Location": "Greenwich, Miami, New York",
+      "Region": "North America",
+      "URL": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel",
+      "Title": "Quantitative Research Analyst Intern - BS/MS (Asia)",
+      "Location": "Hong Kong, Singapore",
+      "Region": "Asia",
+      "URL": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting",
+      "Department": "",
+      "Notes": "internship timing not stated in title",
+      "lastSeenOpenAt": "2026-09-16T03:09:11.438Z"
+    },
+    {
+      "Company": "Citadel",
+      "Title": "Quantitative Research Analyst Intern - BS/MS (Europe)",
+      "Location": "London, Paris, Zurich",
+      "Region": "Europe",
+      "URL": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel",
+      "Title": "Quantitative Trader: Equity Quantitative Research - Intern (US)",
+      "Location": "Greenwich, Miami, New York",
+      "Region": "North America",
+      "URL": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel",
+      "Title": "Software Engineer - Intern (Europe)",
+      "Location": "London",
+      "Region": "Europe",
+      "URL": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel",
+      "Title": "Software Engineer - Intern (US)",
+      "Location": "Greenwich, Houston, Miami, New York",
+      "Region": "North America",
+      "URL": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel",
+      "Title": "Trader: Fixed Income & Macro - Intern (US)",
+      "Location": "Greenwich, Miami, New York",
+      "Region": "North America",
+      "URL": "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "Credit & Rates Rotational Trader - Intern (US)",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "Designated Market Maker (DMM) Trader - Intern (US)",
+      "Location": "New York",
+      "Region": "North America",
+      "URL": "https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "FPGA Engineer - Intern (Australia)",
+      "Location": "Sydney",
+      "Region": "Oceania",
+      "URL": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-australia/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "FPGA Engineer - Intern (US)",
+      "Location": "Miami, New York",
+      "Region": "North America",
+      "URL": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "Quantitative Research Analyst Intern - BS/MS (Asia)",
+      "Location": "Hong Kong, Singapore",
+      "Region": "Asia",
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "Quantitative Research Analyst Intern - BS/MS (Australia)",
+      "Location": "Sydney",
+      "Region": "Oceania",
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-australia/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "Quantitative Research Analyst Intern - BS/MS (Europe)",
+      "Location": "London, Paris, Zurich",
+      "Region": "Europe",
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "Quantitative Trader - Intern (US)",
+      "Location": "Miami, New York",
+      "Region": "North America",
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "Quantitative Trading - Intern (Australia)",
+      "Location": "Sydney",
+      "Region": "Oceania",
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-australia/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "Quantitative Trading - Intern (Europe)",
+      "Location": "London, Paris",
+      "Region": "Europe",
+      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting",
+      "Department": "",
+      "Notes": "internship timing not stated in title",
+      "lastSeenOpenAt": "2026-09-16T03:09:11.438Z"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "Rates Trading - Intern (Europe)",
+      "Location": "London, Paris",
+      "Region": "Europe",
+      "URL": "https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "Sector Data Analyst - Intern (Europe)",
+      "Location": "London",
+      "Region": "Europe",
+      "URL": "https://www.citadelsecurities.com/careers/details/sector-data-analyst-intern-europe/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "Software Engineer - Intern (Australia)",
+      "Location": "Sydney",
+      "Region": "Oceania",
+      "URL": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-australia/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "Software Engineer - Intern (US)",
+      "Location": "Miami, New York",
+      "Region": "North America",
+      "URL": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Citadel Securities",
+      "Title": "Software Engineer - Intern (US)",
+      "Location": "London",
+      "Region": "Europe",
+      "URL": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us-2/",
+      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Group One Trading",
+      "Title": "Trading Analyst Intern",
+      "Location": "Chicago, IL",
+      "Region": "North America",
+      "URL": "https://group1.applicantpro.com/jobs/3859850",
+      "Source": "Official ApplicantPro posting",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "J.P. Morgan",
+      "Title": "Asset Management Summer Analyst Program",
+      "Location": "Varies by open location",
+      "Region": "Remote / Unspecified",
+      "URL": "https://careers.jpmorgan.com/US/en/students/programs/asset-management-summer-analyst",
+      "Source": "Official program page",
+      "Status": "Official broad program; check currently open locations"
+    },
+    {
+      "Company": "J.P. Morgan",
+      "Title": "Markets Summer Analyst Program",
+      "Location": "Varies by open location",
+      "Region": "Remote / Unspecified",
+      "URL": "https://careers.jpmorgan.com/us/en/students/programs/markets-summer-analyst",
+      "Source": "Official program page",
+      "Status": "Official broad program; check currently open locations"
+    },
+    {
+      "Company": "Morgan Stanley",
+      "Title": "2027 Institutional Equity Division Quantitative Finance Summer Analyst / Associate Program",
+      "Location": "Hong Kong",
+      "Region": "Asia",
+      "URL": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5ae2f1abc6f7/candidate/so/pm/1/pl/1/opp/21270-2027-Institutional-Equity-Division-Quantitative-Finance-Summer-Analyst-Associate-Program-Hong-Kong/en-GB",
+      "Source": "Official Morgan Stanley campus posting",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Deutsche Bank",
+      "Title": "Global Technology Governance Intern",
+      "Location": "Sao Paulo Edificio Pedro Mariz",
+      "Region": "South America",
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Global-Technology-Governance-Intern_R0432013",
+      "Source": "Career page Workday:db/DBWebsite",
+      "Status": "Confirmed official posting",
+      "Department": "",
+      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted 30+ Days Ago | R0432013",
+      "lastSeenOpenAt": "2026-09-17T19:22:12.755Z"
+    },
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)",
+      "Location": "Toronto, ON, CAN",
+      "Region": "North America",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting",
+      "Notes": "revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-13T04:40:14.158Z"
+    },
+    {
+      "Company": "PGIM",
+      "Title": "Prudential: 2027 Corporate, Risk Management Internship Program",
+      "Location": "Newark, NJ, USA",
+      "Region": "North America",
+      "URL": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796",
+      "Source": "Career page Workday:pru/Careers",
+      "Status": "Confirmed official posting",
+      "Department": "",
+      "Notes": "career_page=https://pru.wd5.myworkdayjobs.com/Careers | Posted 11 Days Ago | R-124796 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-18T12:52:39.011Z"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 MBA Summer Intern – Strategist, Product Strategy Group, APAC",
+      "Location": "4 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Singapore/XMLNAME-2027-MBA-Summer-Intern---Strategist--Product-Strategy-Group--APAC_R106820",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting",
+      "Department": "",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 13 Days Ago | R106820",
+      "lastSeenOpenAt": "2026-09-14T19:38:05.061Z"
+    },
+    {
+      "Company": "PIMCO",
+      "Title": "2027 PhD Summer Intern – Quantitative Portfolio Management",
+      "Location": "Newport Beach, CA USA",
+      "Region": "North America",
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830",
+      "Source": "Career page Workday:pimco/pimco-careers",
+      "Status": "Confirmed official posting",
+      "Department": "",
+      "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 14 Days Ago | R106830",
+      "lastSeenOpenAt": "2026-09-16T03:09:11.438Z"
+    },
+    {
+      "Company": "T. Rowe Price",
+      "Title": "2027 Global Trading Internship Program",
+      "Location": "Baltimore, MD",
+      "Region": "North America",
+      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
+      "Source": "Career page Workday:troweprice/TRowePrice",
+      "Status": "Confirmed official posting",
+      "Department": "",
+      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted 11 Days Ago | 82718",
+      "lastSeenOpenAt": "2026-09-16T03:09:11.438Z"
+    },
+    {
+      "Company": "BP",
+      "Title": "Summer Internship - Supply, Trading & Shipping - Singapore (2027)",
+      "Location": "Singapore - Singapore",
+      "Region": "Asia",
+      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2",
+      "Source": "Career page Workday:bpinternational/bpCareers",
+      "Status": "Confirmed official posting",
+      "Department": "",
+      "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 6 Days Ago | RQ114218",
+      "lastSeenOpenAt": "2026-09-16T03:09:11.438Z"
+    },
+    {
+      "Company": "Fidelity Investments",
+      "Title": "Summer 2027 Equity Research Associate Intern - London",
+      "Department": "",
+      "Location": "London, Great Britain",
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1",
+      "Source": "Career page Workday:fmr/fidelitycareers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://fmr.wd1.myworkdayjobs.com/fidelitycareers/ | Posted 4 Days Ago | 2129754",
+      "Region": "Europe",
+      "lastSeenOpenAt": "2026-09-18T12:52:39.011Z"
+    }
+  ]
 }

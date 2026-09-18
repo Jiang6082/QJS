@@ -1,18 +1,19 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-08-17T16:47:40.019Z
+Last updated: 2026-09-18T19:02:36.382Z
 
 ## Summary
 
 - Companies searched: 369
-- Career pages checked: 503
-- Current retained roles: 325
+- Career pages checked: 513
+- Current retained roles: 573
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 0
-- Matching-role firms: 40
-- Confirmed no open postings: 2
-- Openings but no matching role: 51
-- Could not fully verify: 211
+- No longer present since previous scan: 1
+- Missing without enough closure evidence: 39
+- Matching-role firms: 49
+- Confirmed no open postings: 3
+- Openings but no matching role: 37
+- Could not fully verify: 215
 
 ## New Roles Since Previous Scan
 
@@ -54,7 +55,7 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Citadel Securities** - [Quantitative Research Analyst - Intern (US)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/) - Miami, New York
 
 ## Full Reports
 
