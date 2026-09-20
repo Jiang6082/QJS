@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-18T19:09:06.031Z",
-  "scanStartedAt": "2026-09-18T19:02:36.382Z",
+  "generatedAt": "2026-09-20T12:11:14.100Z",
+  "scanStartedAt": "2026-09-20T12:06:20.802Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 49,
+    "matching-role-found": 50,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 37,
+    "confirmed-openings-no-matching-role": 36,
     "could-not-fully-verify": 215
   },
   "companies": [
@@ -100,7 +100,7 @@
       "careerPages": [
         "https://www.arfima.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -154,7 +154,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/blackedgecapital"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 6,
       "relevantInternships": 2
@@ -353,7 +353,7 @@
       "careerPages": [
         "http://www.armadausa.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -395,7 +395,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 16,
+      "jobsSeen": 17,
       "relevantInternships": 3
     },
     {
@@ -540,7 +540,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 27,
+      "jobsSeen": 25,
       "relevantInternships": 4
     },
     {
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 178,
+      "jobsSeen": 181,
       "relevantInternships": 16
     },
     {
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 232,
+      "jobsSeen": 233,
       "relevantInternships": 9
     },
     {
@@ -1096,8 +1096,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "jobsSeen": 8,
+      "relevantInternships": 1
     },
     {
       "company": "Estee Advisors",
@@ -1240,7 +1240,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 85,
+      "jobsSeen": 83,
       "relevantInternships": 5
     },
     {
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 0,
+      "jobsSeen": 229,
       "relevantInternships": 0
     },
     {
@@ -1322,7 +1322,7 @@
       "careerPages": [
         "https://www.dwf-labs.com/careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1871,7 +1871,7 @@
         "https://keyrock.com/careers/",
         "https://jobs.ashbyhq.com/keyrock"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 18,
       "relevantInternships": 0
@@ -2288,7 +2288,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/nksecuritiesresearch?error=true"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 14,
       "relevantInternships": 0
@@ -3078,7 +3078,7 @@
       "careerPages": [
         "https://www.seveneightcapital.com/join-us"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3245,7 +3245,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 38,
+      "jobsSeen": 39,
       "relevantInternships": 1
     },
     {
@@ -3296,7 +3296,7 @@
       "careerPages": [
         "https://www.qcpgroup.com/career/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3692,7 +3692,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 55,
+      "jobsSeen": 54,
       "relevantInternships": 0
     },
     {
@@ -3748,7 +3748,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/vaticlabs/jobs/3137555"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 8,
       "relevantInternships": 0
@@ -3776,7 +3776,7 @@
       "careerPages": [
         "https://www.simplyhired.com/browse-jobs/companies/Wh-Trading-LLC"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3929,7 +3929,7 @@
         "https://www.virtu.com/careers/",
         "https://job-boards.greenhouse.io/virtu"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 51,
       "relevantInternships": 13
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 82,
+      "jobsSeen": 84,
       "relevantInternships": 1
     },
     {
@@ -4261,14 +4261,14 @@
       "sourceRosterNames": [
         "RRS Group"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://jobs.smartrecruiters.com/RRSGroup"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 2,
-      "relevantInternships": 0
+      "jobsSeen": 4,
+      "relevantInternships": 1
     }
   ]
 }

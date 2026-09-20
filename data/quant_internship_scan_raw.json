@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-18T19:01:42.420Z",
+  "scannedAt": "2026-09-20T12:06:11.143Z",
   "results": [
     {
       "company": "Jane Street",
@@ -288,7 +288,7 @@
       "boards": [
         {
           "source": "Greenhouse:point72",
-          "count": 232
+          "count": 233
         },
         {
           "source": "Ashby:point",
@@ -360,6 +360,7 @@
       "observedUrls": [
         "https://boards.greenhouse.io/point72/jobs/8726366002?gh_jid=8726366002",
         "https://boards.greenhouse.io/point72/jobs/7598678002?gh_jid=7598678002",
+        "https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002",
         "https://boards.greenhouse.io/point72/jobs/8491055002?gh_jid=8491055002",
         "https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002",
         "https://boards.greenhouse.io/point72/jobs/8729717002?gh_jid=8729717002",
@@ -397,29 +398,29 @@
         "https://boards.greenhouse.io/point72/jobs/7001158002?gh_jid=7001158002",
         "https://boards.greenhouse.io/point72/jobs/8603359002?gh_jid=8603359002",
         "https://boards.greenhouse.io/point72/jobs/7045996002?gh_jid=7045996002",
-        "https://boards.greenhouse.io/point72/jobs/7046005002?gh_jid=7046005002",
         "https://boards.greenhouse.io/point72/jobs/7045941002?gh_jid=7045941002",
+        "https://boards.greenhouse.io/point72/jobs/7046005002?gh_jid=7046005002",
         "https://boards.greenhouse.io/point72/jobs/7666604002?gh_jid=7666604002",
+        "https://boards.greenhouse.io/point72/jobs/7666631002?gh_jid=7666631002",
+        "https://boards.greenhouse.io/point72/jobs/7046019002?gh_jid=7046019002",
+        "https://boards.greenhouse.io/point72/jobs/7297555002?gh_jid=7297555002",
+        "https://boards.greenhouse.io/point72/jobs/7318012002?gh_jid=7318012002",
+        "https://boards.greenhouse.io/point72/jobs/7318005002?gh_jid=7318005002",
         "https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002",
         "https://boards.greenhouse.io/point72/jobs/7045980002?gh_jid=7045980002",
-        "https://boards.greenhouse.io/point72/jobs/7297555002?gh_jid=7297555002",
-        "https://boards.greenhouse.io/point72/jobs/7046019002?gh_jid=7046019002",
-        "https://boards.greenhouse.io/point72/jobs/7318012002?gh_jid=7318012002",
-        "https://boards.greenhouse.io/point72/jobs/7666631002?gh_jid=7666631002",
-        "https://boards.greenhouse.io/point72/jobs/7318005002?gh_jid=7318005002",
         "https://boards.greenhouse.io/point72/jobs/7045936002?gh_jid=7045936002",
         "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
         "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-        "https://boards.greenhouse.io/point72/jobs/7045979002?gh_jid=7045979002",
         "https://boards.greenhouse.io/point72/jobs/7045995002?gh_jid=7045995002",
+        "https://boards.greenhouse.io/point72/jobs/7045979002?gh_jid=7045979002",
         "https://boards.greenhouse.io/point72/jobs/8488671002?gh_jid=8488671002",
         "https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002",
         "https://boards.greenhouse.io/point72/jobs/8139593002?gh_jid=8139593002",
         "https://boards.greenhouse.io/point72/jobs/8701705002?gh_jid=8701705002",
         "https://boards.greenhouse.io/point72/jobs/8163904002?gh_jid=8163904002",
         "https://boards.greenhouse.io/point72/jobs/7667745002?gh_jid=7667745002",
-        "https://boards.greenhouse.io/point72/jobs/8691264002?gh_jid=8691264002",
         "https://boards.greenhouse.io/point72/jobs/8236337002?gh_jid=8236337002",
+        "https://boards.greenhouse.io/point72/jobs/8691264002?gh_jid=8691264002",
         "https://boards.greenhouse.io/point72/jobs/7695570002?gh_jid=7695570002",
         "https://boards.greenhouse.io/point72/jobs/8647597002?gh_jid=8647597002",
         "https://boards.greenhouse.io/point72/jobs/8488485002?gh_jid=8488485002",
@@ -445,8 +446,8 @@
         "https://boards.greenhouse.io/point72/jobs/8750591002?gh_jid=8750591002",
         "https://boards.greenhouse.io/point72/jobs/8236937002?gh_jid=8236937002",
         "https://boards.greenhouse.io/point72/jobs/8244769002?gh_jid=8244769002",
-        "https://boards.greenhouse.io/point72/jobs/8574616002?gh_jid=8574616002",
         "https://boards.greenhouse.io/point72/jobs/8773512002?gh_jid=8773512002",
+        "https://boards.greenhouse.io/point72/jobs/8574616002?gh_jid=8574616002",
         "https://boards.greenhouse.io/point72/jobs/8773518002?gh_jid=8773518002",
         "https://boards.greenhouse.io/point72/jobs/8731025002?gh_jid=8731025002",
         "https://boards.greenhouse.io/point72/jobs/8747076002?gh_jid=8747076002",
@@ -471,8 +472,8 @@
         "https://boards.greenhouse.io/point72/jobs/8599907002?gh_jid=8599907002",
         "https://boards.greenhouse.io/point72/jobs/8773520002?gh_jid=8773520002",
         "https://boards.greenhouse.io/point72/jobs/8773509002?gh_jid=8773509002",
-        "https://boards.greenhouse.io/point72/jobs/8556046002?gh_jid=8556046002",
         "https://boards.greenhouse.io/point72/jobs/8576951002?gh_jid=8576951002",
+        "https://boards.greenhouse.io/point72/jobs/8556046002?gh_jid=8556046002",
         "https://boards.greenhouse.io/point72/jobs/8794058002?gh_jid=8794058002",
         "https://boards.greenhouse.io/point72/jobs/7661997002?gh_jid=7661997002",
         "https://boards.greenhouse.io/point72/jobs/8018850002?gh_jid=8018850002",
@@ -505,15 +506,15 @@
         "https://boards.greenhouse.io/point72/jobs/7297616002?gh_jid=7297616002",
         "https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002",
         "https://boards.greenhouse.io/point72/jobs/8745810002?gh_jid=8745810002",
-        "https://boards.greenhouse.io/point72/jobs/7297511002?gh_jid=7297511002",
         "https://boards.greenhouse.io/point72/jobs/8191564002?gh_jid=8191564002",
+        "https://boards.greenhouse.io/point72/jobs/7297511002?gh_jid=7297511002",
         "https://boards.greenhouse.io/point72/jobs/7297653002?gh_jid=7297653002",
         "https://boards.greenhouse.io/point72/jobs/8561446002?gh_jid=8561446002",
         "https://boards.greenhouse.io/point72/jobs/7046014002?gh_jid=7046014002",
         "https://boards.greenhouse.io/point72/jobs/8169967002?gh_jid=8169967002",
-        "https://boards.greenhouse.io/point72/jobs/7906984002?gh_jid=7906984002",
-        "https://boards.greenhouse.io/point72/jobs/7587888002?gh_jid=7587888002",
         "https://boards.greenhouse.io/point72/jobs/7752293002?gh_jid=7752293002",
+        "https://boards.greenhouse.io/point72/jobs/7587888002?gh_jid=7587888002",
+        "https://boards.greenhouse.io/point72/jobs/7906984002?gh_jid=7906984002",
         "https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002",
         "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
         "https://boards.greenhouse.io/point72/jobs/8023550002?gh_jid=8023550002",
@@ -524,9 +525,9 @@
         "https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002",
         "https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002",
         "https://boards.greenhouse.io/point72/jobs/8036928002?gh_jid=8036928002",
-        "https://boards.greenhouse.io/point72/jobs/8604288002?gh_jid=8604288002",
         "https://boards.greenhouse.io/point72/jobs/8032153002?gh_jid=8032153002",
         "https://boards.greenhouse.io/point72/jobs/7825863002?gh_jid=7825863002",
+        "https://boards.greenhouse.io/point72/jobs/8604288002?gh_jid=8604288002",
         "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
         "https://boards.greenhouse.io/point72/jobs/8782787002?gh_jid=8782787002",
         "https://boards.greenhouse.io/point72/jobs/8408288002?gh_jid=8408288002",
@@ -537,9 +538,9 @@
         "https://boards.greenhouse.io/point72/jobs/8374726002?gh_jid=8374726002",
         "https://boards.greenhouse.io/point72/jobs/8531773002?gh_jid=8531773002",
         "https://boards.greenhouse.io/point72/jobs/8475957002?gh_jid=8475957002",
+        "https://boards.greenhouse.io/point72/jobs/8396438002?gh_jid=8396438002",
         "https://boards.greenhouse.io/point72/jobs/8599906002?gh_jid=8599906002",
         "https://boards.greenhouse.io/point72/jobs/8555513002?gh_jid=8555513002",
-        "https://boards.greenhouse.io/point72/jobs/8396438002?gh_jid=8396438002",
         "https://boards.greenhouse.io/point72/jobs/7820104002?gh_jid=7820104002",
         "https://boards.greenhouse.io/point72/jobs/8056172002?gh_jid=8056172002",
         "https://boards.greenhouse.io/point72/jobs/8568262002?gh_jid=8568262002",
@@ -550,8 +551,8 @@
         "https://boards.greenhouse.io/point72/jobs/8695884002?gh_jid=8695884002",
         "https://boards.greenhouse.io/point72/jobs/8742312002?gh_jid=8742312002",
         "https://boards.greenhouse.io/point72/jobs/8675312002?gh_jid=8675312002",
-        "https://boards.greenhouse.io/point72/jobs/8555518002?gh_jid=8555518002",
         "https://boards.greenhouse.io/point72/jobs/8445684002?gh_jid=8445684002",
+        "https://boards.greenhouse.io/point72/jobs/8555518002?gh_jid=8555518002",
         "https://boards.greenhouse.io/point72/jobs/8525045002?gh_jid=8525045002",
         "https://boards.greenhouse.io/point72/jobs/8773519002?gh_jid=8773519002",
         "https://boards.greenhouse.io/point72/jobs/8389781002?gh_jid=8389781002",
@@ -571,9 +572,9 @@
         "https://boards.greenhouse.io/point72/jobs/8794061002?gh_jid=8794061002",
         "https://boards.greenhouse.io/point72/jobs/8363166002?gh_jid=8363166002",
         "https://boards.greenhouse.io/point72/jobs/8581872002?gh_jid=8581872002",
+        "https://boards.greenhouse.io/point72/jobs/8576949002?gh_jid=8576949002",
         "https://boards.greenhouse.io/point72/jobs/8576953002?gh_jid=8576953002",
         "https://boards.greenhouse.io/point72/jobs/8576950002?gh_jid=8576950002",
-        "https://boards.greenhouse.io/point72/jobs/8576949002?gh_jid=8576949002",
         "https://boards.greenhouse.io/point72/jobs/8041594002?gh_jid=8041594002",
         "https://boards.greenhouse.io/point72/jobs/8576952002?gh_jid=8576952002",
         "https://boards.greenhouse.io/point72/jobs/8624291002?gh_jid=8624291002",
@@ -588,8 +589,8 @@
         "https://boards.greenhouse.io/point72/jobs/8773517002?gh_jid=8773517002",
         "https://boards.greenhouse.io/point72/jobs/8099477002?gh_jid=8099477002",
         "https://boards.greenhouse.io/point72/jobs/8811449002?gh_jid=8811449002",
-        "https://boards.greenhouse.io/point72/jobs/8557640002?gh_jid=8557640002",
-        "https://boards.greenhouse.io/point72/jobs/8560134002?gh_jid=8560134002"
+        "https://boards.greenhouse.io/point72/jobs/8560134002?gh_jid=8560134002",
+        "https://boards.greenhouse.io/point72/jobs/8557640002?gh_jid=8557640002"
       ]
     },
     {
@@ -597,7 +598,7 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 82
+          "count": 83
         },
         {
           "source": "Ashby:hrt",
@@ -622,7 +623,7 @@
           "department": "Trading Tech",
           "location": "New York, NY, United States",
           "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
-          "content": "The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technologies to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators.&nbsp; The FPGA/ASIC Design team and Verification team work in close collaboration, pushing boundaries in low-level computer architecture, logic design, tool writing, and the interface between hardware and software. There is often overlap in skills, and both teams work together very closely. The Hardware Engineering Summer 2027 Internship offers candidates the opportunity to explore both Design and Verification roles. During HRT’s Hardware Engineering Internship, you will have the opportunity to create hardware in SystemVerilog (design) and build complex modeling and testing environments in Python (verification). You can always expect to be challenged by the ever-changing financial markets, and find yourself working on critical infrastructure in an extremely fast-paced, real-time environment.&nbsp; What to Expect A challenging and meaningful summer internship program that will give you an introduction to all technical facets of hardware engineering in the algorithmic trading industry&nbsp; Independent projects that will have you deep dive into our hardware design and verification environments&nbsp; An opportunity to work with and learn more about cutting edge FPGA/ASIC technology&nbsp; After some intense but brief training, you’ll jump right into projects within your first two weeks of the program&nbsp; You'll learn all about HRT's research and trading infrastructure, even in areas you won’t be working in You’ll have the opportunity to learn about and gain a deeper understanding of the financial markets&nbsp; Requirements You are a full-time student in a Computer Engineering, Electrical Engineering or related program You will be graduating and looking for full-time roles in 2028 A thorough understanding of digital logic design and/or computer architecture&nbsp; Experience using a hardware design language such asSystemVerilog Familiarity with C++ and/or Python&nbsp; Knowledge of Linux and familiar with its command prompt A passion for technology and curiosity for how things work “under the hood”&nbsp; Exceptional problem solving skills&nbsp; Bonus: Familiarity with FPGAs or ASICs Bonus: Exposure to a hardware verification flow such as UVM, or open-source verification tools such as cocotb We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application. Weekly base salary of 5,800 USD and a competitive signing bonus in addition to company-paid housing, meals, and other perks. Culture Hudson River Trading (HRT) brings a scientific approach to trading financial products. We have built one of the world's most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading. At HRT we welcome a variety of expertise: mathematics and computer science, physics and engineering, media and tech. We’re a community of self-starters who are motivated by the excitement of being at the cutting edge of automation in every part of our organization—from trading, to business operations, to recruiting and beyond. We value openness and transparency, and celebrate great ideas from HRT veterans and new hires alike. At HRT we’re friends and colleagues – whether we are sharing a meal, playing the latest board game, or writing elegant code. We embrace a culture of togetherness that extends far beyond the walls of our office. Feel like you belong at HRT? Our goal is to find the best people and bring them together to do great work in a place where everyone is valued. HRT is proud of our diverse staff; we have offices all over the globe and benefit from our varied and unique perspectives. HRT is an equal opportunity employer; so whoever you are we’d love to get to know you. Please be advised: Use of AI tools during interviews or assessments is strictly prohibited, unless otherwise instructed or agreed upon. We employ various methods to evaluate the authenticity of candidate responses. If we determine that AI assistance was used during any stage of the hiring process, we reserve the right to immediately disqualify your candidacy or rescind any job offers extended.",
+          "content": "The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technologies to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators.&nbsp; The FPGA/ASIC Design team and Verification team work in close collaboration, pushing boundaries in low-level computer architecture, logic design, tool writing, and the interface between hardware and software. There is often overlap in skills, and both teams work together very closely. The Hardware Engineering Summer 2027 Internship offers candidates the opportunity to explore both Design and Verification roles. During HRT’s Hardware Engineering Internship, you will have the opportunity to create hardware in SystemVerilog (design) and build complex modeling and testing environments in Python (verification). You can always expect to be challenged by the ever-changing financial markets, and find yourself working on critical infrastructure in an extremely fast-paced, real-time environment.&nbsp; What to Expect A challenging and meaningful summer internship program that will give you an introduction to all technical facets of hardware engineering in the algorithmic trading industry&nbsp; Independent projects that will have you deep dive into our hardware design and verification environments&nbsp; An opportunity to work with and learn more about cutting edge FPGA/ASIC technology&nbsp; After some intense but brief training, you’ll jump right into projects within your first two weeks of the program&nbsp; You'll learn all about HRT's research and trading infrastructure, even in areas you won’t be working in You’ll have the opportunity to learn about and gain a deeper understanding of the financial markets&nbsp; Requirements You are a full-time student in a Computer Engineering, Electrical Engineering or related program You will be graduating and looking for full-time roles in 2028 A thorough understanding of digital logic design and/or computer architecture&nbsp; Experience using a hardware design language such as SystemVerilog Familiarity with C++ and/or Python&nbsp; Knowledge of Linux and familiar with its command prompt A passion for technology and curiosity for how things work “under the hood”&nbsp; Exceptional problem solving skills&nbsp; Bonus: Familiarity with FPGAs or ASICs Bonus: Exposure to a hardware verification flow such as UVM, or open-source verification tools such as cocotb We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application. Weekly base salary of 5,800 USD and a competitive signing bonus in addition to company-paid housing, meals, and other perks. Culture Hudson River Trading (HRT) brings a scientific approach to trading financial products. We have built one of the world's most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading. At HRT we welcome a variety of expertise: mathematics and computer science, physics and engineering, media and tech. We’re a community of self-starters who are motivated by the excitement of being at the cutting edge of automation in every part of our organization—from trading, to business operations, to recruiting and beyond. We value openness and transparency, and celebrate great ideas from HRT veterans and new hires alike. At HRT we’re friends and colleagues – whether we are sharing a meal, playing the latest board game, or writing elegant code. We embrace a culture of togetherness that extends far beyond the walls of our office. Feel like you belong at HRT? Our goal is to find the best people and bring them together to do great work in a place where everyone is valued. HRT is proud of our diverse staff; we have offices all over the globe and benefit from our varied and unique perspectives. HRT is an equal opportunity employer; so whoever you are we’d love to get to know you. Please be advised: Use of AI tools during interviews or assessments is strictly prohibited, unless otherwise instructed or agreed upon. We employ various methods to evaluate the authenticity of candidate responses. If we determine that AI assistance was used during any stage of the hiring process, we reserve the right to immediately disqualify your candidacy or rescind any job offers extended.",
           "postedAt": "2026-08-31T17:39:26-04:00"
         },
         {
@@ -657,9 +658,9 @@
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8158152",
+        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212181",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8179032",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7843354",
-        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212181",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8047119",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7980396",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8002109",
@@ -692,6 +693,7 @@
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7903723",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7958945",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8068289",
+        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7564973",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8020012",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7407294",
@@ -1019,7 +1021,7 @@
       "boards": [
         {
           "source": "Greenhouse:axq",
-          "count": 27
+          "count": 25
         }
       ],
       "matches": [
@@ -1030,7 +1032,7 @@
           "department": "Quantitative Research",
           "location": "New York",
           "url": "https://job-boards.greenhouse.io/axq/jobs/6181069004",
-          "content": "About Us AXQ Capital i s a global quantitative investment firm with offices in New York, Beijing, Shanghai, and Hong Kong . We p ursue consistent alpha through rigorous scientific research and sustained investment in technology and data infrastructure. Our strategies are deployed across global markets, spanning multiple geographies, asset classes, and trading horizons. We are growing quickly, and our interns are a core part of how we hire: you will work directly with senior researchers and portfolio managers on research that is meant to trade, and strong performers receive full-time offers. &nbsp; Job Duties&nbsp; Markets are noisy, competitive, and constantly evolving — finding a durable edge is one of the hardest problems in applied research. As a Quantitative Research Intern, you will take on that challenge directly. Over the course of your internship, you will work on one or two projects in areas such as: Developing and refining quantitative trading strategies under the guidance of experienced portfolio managers and researchers Applying tools from probability, statistics, and machine learning to uncover patterns and predictive signals in market data Leveraging agentic AI workflows to accelerate the research cycle — from hypothesis generation to automated backtesting and analysis Transforming raw, messy datasets into research-ready inputs that power alpha discovery Exploring portfolio construction and optimization techniques that combine individual strategies into robust, risk-managed portfolios &nbsp; Qualifications Undergraduate or graduate student at a top-tier university in a quantitative field (e.g., mathematics, statistics, physics, engineering, computer science, financial engineering) Strong foundation in probability and statistics, including statistical modeling, time-series analysis, and machine learning Proficient in Python for data analysis and research Intellectually curious and quick to learn, with a genuine interest in quantitative finance Clear communicator who works well in a team and under pressure &nbsp; We’d Love It If You Have Publications in leading academic journals or conferences Strong results in national or international Olympiads (math, physics, or computer science) &nbsp; Program Details This is a full-time, approximately 12-week internship based in our New York office during Summer 2027. We are targeting candidates graduating in 2027 or 2028. The internship concludes with a presentation to senior management and the opportunity to earn a full-time return offer. The anticipated hourly pay range for this role is $75 to $100, depending on prior experience and qualifications.",
+          "content": "About Us AXQ Capital is a global quantitative investment firm. We build diverse sources of investment edge across geographies, asset classes, and trading horizons. Our strategies are grounded in rigorous scientific research and deep market understanding, strengthened by sustained investment in data, technology, and AI. Our team brings together exceptional talent from leading academic institutions and the world’s most respected quantitative firms. We foster a collaborative culture built on curiosity, rigor, and ownership, where the best ideas win and people grow with the firm. We are growing quickly, and our interns are a core part of how we hire: you will work directly with senior researchers and portfolio managers on research that is meant to trade, and strong performers receive full-time offers. &nbsp; Job Duties&nbsp; Markets are noisy, competitive, and constantly evolving — finding a durable edge is one of the hardest problems in applied research. As a Quantitative Research Intern, you will take on that challenge directly. Over the course of your internship, you will work on one or two projects in areas such as: Developing and refining quantitative trading strategies under the guidance of experienced portfolio managers and researchers Applying tools from probability, statistics, and machine learning to uncover patterns and predictive signals in market data Leveraging agentic AI workflows to accelerate the research cycle — from hypothesis generation to automated backtesting and analysis Transforming raw, messy datasets into research-ready inputs that power alpha discovery Exploring portfolio construction and optimization techniques that combine individual strategies into robust, risk-managed portfolios &nbsp; Qualifications Undergraduate or graduate student at a top-tier university in a quantitative field (e.g., mathematics, statistics, physics, engineering, computer science, financial engineering) Strong foundation in probability and statistics, including statistical modeling, time-series analysis, and machine learning Proficient in Python for data analysis and research Intellectually curious and quick to learn, with a genuine interest in quantitative finance Clear communicator who works well in a team and under pressure &nbsp; We’d Love It If You Have Publications in leading academic journals or conferences Strong results in national or international Olympiads (math, physics, or computer science) &nbsp; Program Details This is a full-time, approximately 12-week internship based in our New York office during Summer 2027. We are targeting candidates graduating in 2027 or 2028. The internship concludes with a presentation to senior management and the opportunity to earn a full-time return offer. The anticipated hourly pay range for this role is $75 to $100, depending on prior experience and qualifications.",
           "postedAt": "2026-09-03T14:32:35-04:00"
         },
         {
@@ -1040,12 +1042,11 @@
           "department": "Quantitative Research",
           "location": "New York",
           "url": "https://job-boards.greenhouse.io/axq/jobs/5575450004",
-          "content": "About Us AXQ Capital i s a global quantitative investment firm with offices in New York, Beijing, Shanghai, and Hong Kong . We p ursue consistent alpha through rigorous scientific research and sustained investment in technology and data infrastructure. Our strategies are deployed across global markets, spanning multiple geographies, asset classes, and trading horizons. We are growing quickly, and our interns are a core part of how we hire: you will work directly with senior researchers and portfolio managers on research that is meant to trade, and strong performers receive full-time offers. &nbsp; Job Duties&nbsp; Markets are noisy, competitive, and constantly evolving — finding a durable edge is one of the hardest problems in applied research. As a Quantitative Research Intern, you will take on that challenge directly. Over the course of your internship, you will work on one or two projects in areas such as: Developing and refining quantitative trading strategies under the guidance of experienced portfolio managers and researchers Applying tools from probability, statistics, and machine learning to uncover patterns and predictive signals in market data Leveraging agentic AI workflows to accelerate the research cycle — from hypothesis generation to automated backtesting and analysis Transforming raw, messy datasets into research-ready inputs that power alpha discovery Exploring portfolio construction and optimization techniques that combine individual strategies into robust, risk-managed portfolios &nbsp; Qualifications Undergraduate or graduate student at a top-tier university in a quantitative field (e.g., mathematics, statistics, physics, engineering, computer science, financial engineering) Strong foundation in probability and statistics, including statistical modeling, time-series analysis, and machine learning Proficient in Python for data analysis and research Intellectually curious and quick to learn, with a genuine interest in quantitative finance Clear communicator who works well in a team and under pressure &nbsp; We’d Love It If You Have Publications in leading academic journals or conferences Strong results in national or international Olympiads (math, physics, or computer science) &nbsp; Program Details This role is open year-round. We welcome applications for full-time internships during academic breaks as well as part-time roles during the academic year, based in our New York office. We prefer candidates who will graduate within a year of completing the internship. Each internship concludes with a presentation to senior management and the opportunity to earn a full-time return offer. The anticipated hourly pay range for this role is $75 to $100, depending on prior experience and qualifications.",
+          "content": "About Us AXQ Capital is a global quantitative investment firm. We build diverse sources of investment edge across geographies, asset classes, and trading horizons. Our strategies are grounded in rigorous scientific research and deep market understanding, strengthened by sustained investment in data, technology, and AI. Our team brings together exceptional talent from leading academic institutions and the world’s most respected quantitative firms. We foster a collaborative culture built on curiosity, rigor, and ownership, where the best ideas win and people grow with the firm. We are growing quickly, and our interns are a core part of how we hire: you will work directly with senior researchers and portfolio managers on research that is meant to trade, and strong performers receive full-time offers. &nbsp; Job Duties&nbsp; Markets are noisy, competitive, and constantly evolving — finding a durable edge is one of the hardest problems in applied research. As a Quantitative Research Intern, you will take on that challenge directly. Over the course of your internship, you will work on one or two projects in areas such as: Developing and refining quantitative trading strategies under the guidance of experienced portfolio managers and researchers Applying tools from probability, statistics, and machine learning to uncover patterns and predictive signals in market data Leveraging agentic AI workflows to accelerate the research cycle — from hypothesis generation to automated backtesting and analysis Transforming raw, messy datasets into research-ready inputs that power alpha discovery Exploring portfolio construction and optimization techniques that combine individual strategies into robust, risk-managed portfolios &nbsp; Qualifications Undergraduate or graduate student at a top-tier university in a quantitative field (e.g., mathematics, statistics, physics, engineering, computer science, financial engineering) Strong foundation in probability and statistics, including statistical modeling, time-series analysis, and machine learning Proficient in Python for data analysis and research Intellectually curious and quick to learn, with a genuine interest in quantitative finance Clear communicator who works well in a team and under pressure &nbsp; We’d Love It If You Have Publications in leading academic journals or conferences Strong results in national or international Olympiads (math, physics, or computer science) &nbsp; Program Details This role is open year-round. We welcome applications for full-time internships during academic breaks as well as part-time roles during the academic year, based in our New York office. We prefer candidates who will graduate within a year of completing the internship. Each internship concludes with a presentation to senior management and the opportunity to earn a full-time return offer. The anticipated hourly pay range for this role is $75 to $100, depending on prior experience and qualifications.",
           "postedAt": "2025-06-30T13:08:44-04:00"
         }
       ],
       "observedUrls": [
-        "https://job-boards.greenhouse.io/axq/jobs/6184100004",
         "https://job-boards.greenhouse.io/axq/jobs/6147019004",
         "https://job-boards.greenhouse.io/axq/jobs/6147008004",
         "https://job-boards.greenhouse.io/axq/jobs/6010042004",
@@ -1054,14 +1055,13 @@
         "https://job-boards.greenhouse.io/axq/jobs/5826465004",
         "https://job-boards.greenhouse.io/axq/jobs/5562433004",
         "https://job-boards.greenhouse.io/axq/jobs/5569628004",
-        "https://job-boards.greenhouse.io/axq/jobs/6135944004",
         "https://job-boards.greenhouse.io/axq/jobs/6102322004",
-        "https://job-boards.greenhouse.io/axq/jobs/5789057004",
         "https://job-boards.greenhouse.io/axq/jobs/6164290004",
-        "https://job-boards.greenhouse.io/axq/jobs/5575451004",
+        "https://job-boards.greenhouse.io/axq/jobs/5789057004",
         "https://job-boards.greenhouse.io/axq/jobs/5636566004",
-        "https://job-boards.greenhouse.io/axq/jobs/5613867004",
+        "https://job-boards.greenhouse.io/axq/jobs/5575451004",
         "https://job-boards.greenhouse.io/axq/jobs/5635911004",
+        "https://job-boards.greenhouse.io/axq/jobs/5613867004",
         "https://job-boards.greenhouse.io/axq/jobs/6149705004",
         "https://job-boards.greenhouse.io/axq/jobs/6181069004",
         "https://job-boards.greenhouse.io/axq/jobs/5575450004",
@@ -1091,7 +1091,7 @@
       "boards": [
         {
           "source": "Lever:belvederetrading",
-          "count": 16
+          "count": 17
         }
       ],
       "matches": [
@@ -1128,6 +1128,7 @@
       ],
       "observedUrls": [
         "https://jobs.lever.co/belvederetrading/886e04f8-1ec2-4f0f-8237-fdbda729c14c",
+        "https://jobs.lever.co/belvederetrading/3d118f1b-08e1-4b81-8d4d-bac869d166a7",
         "https://jobs.lever.co/belvederetrading/be7ab7fc-03c2-4192-adbe-eaf85e9588fe",
         "https://jobs.lever.co/belvederetrading/9f0c0e5c-403a-4383-a25a-f5ebd191fbc4",
         "https://jobs.lever.co/belvederetrading/49e8b507-aed4-4182-925e-7c24ff5746c0",
@@ -1236,7 +1237,7 @@
       "boards": [
         {
           "source": "Greenhouse:bridgewater89",
-          "count": 13
+          "count": 14
         }
       ],
       "matches": [],
@@ -1248,6 +1249,7 @@
         "https://job-boards.greenhouse.io/bridgewater89/jobs/8294673002",
         "https://job-boards.greenhouse.io/bridgewater89/jobs/8228699002",
         "https://job-boards.greenhouse.io/bridgewater89/jobs/8490001002",
+        "https://job-boards.greenhouse.io/bridgewater89/jobs/8811725002",
         "https://job-boards.greenhouse.io/bridgewater89/jobs/8765764002",
         "https://job-boards.greenhouse.io/bridgewater89/jobs/8771165002",
         "https://job-boards.greenhouse.io/bridgewater89/jobs/8797395002",
@@ -1267,7 +1269,7 @@
       "boards": [
         {
           "source": "Lever:capital",
-          "count": 38
+          "count": 37
         }
       ],
       "matches": [],
@@ -1295,7 +1297,6 @@
         "https://jobs.lever.co/capital/c752f7ea-c514-4e0d-a9d3-4a01dc63afdb",
         "https://jobs.lever.co/capital/6e41db67-c955-4c6f-ae12-9a989c46e283",
         "https://jobs.lever.co/capital/f4740a55-bdaf-4dd9-955c-46f62c44fd05",
-        "https://jobs.lever.co/capital/119d01b5-0a3c-4109-8ea0-9b231f60d718",
         "https://jobs.lever.co/capital/27796ac0-6d19-47e9-ac82-65da2a249e6a",
         "https://jobs.lever.co/capital/2b449a68-6b41-4152-a8aa-d819da67fd83",
         "https://jobs.lever.co/capital/692e054a-a02f-4102-93d1-3870a5366c51",
@@ -1317,7 +1318,7 @@
       "boards": [
         {
           "source": "Lever:capital",
-          "count": 38
+          "count": 37
         }
       ],
       "matches": [],
@@ -1345,7 +1346,6 @@
         "https://jobs.lever.co/capital/c752f7ea-c514-4e0d-a9d3-4a01dc63afdb",
         "https://jobs.lever.co/capital/6e41db67-c955-4c6f-ae12-9a989c46e283",
         "https://jobs.lever.co/capital/f4740a55-bdaf-4dd9-955c-46f62c44fd05",
-        "https://jobs.lever.co/capital/119d01b5-0a3c-4109-8ea0-9b231f60d718",
         "https://jobs.lever.co/capital/27796ac0-6d19-47e9-ac82-65da2a249e6a",
         "https://jobs.lever.co/capital/2b449a68-6b41-4152-a8aa-d819da67fd83",
         "https://jobs.lever.co/capital/692e054a-a02f-4102-93d1-3870a5366c51",
@@ -2153,7 +2153,7 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 82
+          "count": 83
         },
         {
           "source": "Ashby:hrt",
@@ -2178,7 +2178,7 @@
           "department": "Trading Tech",
           "location": "New York, NY, United States",
           "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
-          "content": "The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technologies to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators.&nbsp; The FPGA/ASIC Design team and Verification team work in close collaboration, pushing boundaries in low-level computer architecture, logic design, tool writing, and the interface between hardware and software. There is often overlap in skills, and both teams work together very closely. The Hardware Engineering Summer 2027 Internship offers candidates the opportunity to explore both Design and Verification roles. During HRT’s Hardware Engineering Internship, you will have the opportunity to create hardware in SystemVerilog (design) and build complex modeling and testing environments in Python (verification). You can always expect to be challenged by the ever-changing financial markets, and find yourself working on critical infrastructure in an extremely fast-paced, real-time environment.&nbsp; What to Expect A challenging and meaningful summer internship program that will give you an introduction to all technical facets of hardware engineering in the algorithmic trading industry&nbsp; Independent projects that will have you deep dive into our hardware design and verification environments&nbsp; An opportunity to work with and learn more about cutting edge FPGA/ASIC technology&nbsp; After some intense but brief training, you’ll jump right into projects within your first two weeks of the program&nbsp; You'll learn all about HRT's research and trading infrastructure, even in areas you won’t be working in You’ll have the opportunity to learn about and gain a deeper understanding of the financial markets&nbsp; Requirements You are a full-time student in a Computer Engineering, Electrical Engineering or related program You will be graduating and looking for full-time roles in 2028 A thorough understanding of digital logic design and/or computer architecture&nbsp; Experience using a hardware design language such asSystemVerilog Familiarity with C++ and/or Python&nbsp; Knowledge of Linux and familiar with its command prompt A passion for technology and curiosity for how things work “under the hood”&nbsp; Exceptional problem solving skills&nbsp; Bonus: Familiarity with FPGAs or ASICs Bonus: Exposure to a hardware verification flow such as UVM, or open-source verification tools such as cocotb We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application. Weekly base salary of 5,800 USD and a competitive signing bonus in addition to company-paid housing, meals, and other perks. Culture Hudson River Trading (HRT) brings a scientific approach to trading financial products. We have built one of the world's most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading. At HRT we welcome a variety of expertise: mathematics and computer science, physics and engineering, media and tech. We’re a community of self-starters who are motivated by the excitement of being at the cutting edge of automation in every part of our organization—from trading, to business operations, to recruiting and beyond. We value openness and transparency, and celebrate great ideas from HRT veterans and new hires alike. At HRT we’re friends and colleagues – whether we are sharing a meal, playing the latest board game, or writing elegant code. We embrace a culture of togetherness that extends far beyond the walls of our office. Feel like you belong at HRT? Our goal is to find the best people and bring them together to do great work in a place where everyone is valued. HRT is proud of our diverse staff; we have offices all over the globe and benefit from our varied and unique perspectives. HRT is an equal opportunity employer; so whoever you are we’d love to get to know you. Please be advised: Use of AI tools during interviews or assessments is strictly prohibited, unless otherwise instructed or agreed upon. We employ various methods to evaluate the authenticity of candidate responses. If we determine that AI assistance was used during any stage of the hiring process, we reserve the right to immediately disqualify your candidacy or rescind any job offers extended.",
+          "content": "The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technologies to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators.&nbsp; The FPGA/ASIC Design team and Verification team work in close collaboration, pushing boundaries in low-level computer architecture, logic design, tool writing, and the interface between hardware and software. There is often overlap in skills, and both teams work together very closely. The Hardware Engineering Summer 2027 Internship offers candidates the opportunity to explore both Design and Verification roles. During HRT’s Hardware Engineering Internship, you will have the opportunity to create hardware in SystemVerilog (design) and build complex modeling and testing environments in Python (verification). You can always expect to be challenged by the ever-changing financial markets, and find yourself working on critical infrastructure in an extremely fast-paced, real-time environment.&nbsp; What to Expect A challenging and meaningful summer internship program that will give you an introduction to all technical facets of hardware engineering in the algorithmic trading industry&nbsp; Independent projects that will have you deep dive into our hardware design and verification environments&nbsp; An opportunity to work with and learn more about cutting edge FPGA/ASIC technology&nbsp; After some intense but brief training, you’ll jump right into projects within your first two weeks of the program&nbsp; You'll learn all about HRT's research and trading infrastructure, even in areas you won’t be working in You’ll have the opportunity to learn about and gain a deeper understanding of the financial markets&nbsp; Requirements You are a full-time student in a Computer Engineering, Electrical Engineering or related program You will be graduating and looking for full-time roles in 2028 A thorough understanding of digital logic design and/or computer architecture&nbsp; Experience using a hardware design language such as SystemVerilog Familiarity with C++ and/or Python&nbsp; Knowledge of Linux and familiar with its command prompt A passion for technology and curiosity for how things work “under the hood”&nbsp; Exceptional problem solving skills&nbsp; Bonus: Familiarity with FPGAs or ASICs Bonus: Exposure to a hardware verification flow such as UVM, or open-source verification tools such as cocotb We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application. Weekly base salary of 5,800 USD and a competitive signing bonus in addition to company-paid housing, meals, and other perks. Culture Hudson River Trading (HRT) brings a scientific approach to trading financial products. We have built one of the world's most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading. At HRT we welcome a variety of expertise: mathematics and computer science, physics and engineering, media and tech. We’re a community of self-starters who are motivated by the excitement of being at the cutting edge of automation in every part of our organization—from trading, to business operations, to recruiting and beyond. We value openness and transparency, and celebrate great ideas from HRT veterans and new hires alike. At HRT we’re friends and colleagues – whether we are sharing a meal, playing the latest board game, or writing elegant code. We embrace a culture of togetherness that extends far beyond the walls of our office. Feel like you belong at HRT? Our goal is to find the best people and bring them together to do great work in a place where everyone is valued. HRT is proud of our diverse staff; we have offices all over the globe and benefit from our varied and unique perspectives. HRT is an equal opportunity employer; so whoever you are we’d love to get to know you. Please be advised: Use of AI tools during interviews or assessments is strictly prohibited, unless otherwise instructed or agreed upon. We employ various methods to evaluate the authenticity of candidate responses. If we determine that AI assistance was used during any stage of the hiring process, we reserve the right to immediately disqualify your candidacy or rescind any job offers extended.",
           "postedAt": "2026-08-31T17:39:26-04:00"
         },
         {
@@ -2213,9 +2213,9 @@
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8158152",
+        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212181",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8179032",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7843354",
-        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212181",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8047119",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7980396",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8002109",
@@ -2248,6 +2248,7 @@
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7903723",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7958945",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8068289",
+        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7564973",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8020012",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7407294",
@@ -3379,11 +3380,11 @@
       "boards": [
         {
           "source": "Greenhouse:oldmissioncapital",
-          "count": 38
+          "count": 39
         },
         {
           "source": "Ashby:old-mission-capital",
-          "count": 38
+          "count": 39
         }
       ],
       "matches": [
@@ -3410,8 +3411,9 @@
       ],
       "observedUrls": [
         "https://www.oldmissioncapital.com/careers/?gh_jid=7859507003",
-        "https://www.oldmissioncapital.com/careers/?gh_jid=5607340003",
         "https://www.oldmissioncapital.com/careers/?gh_jid=5607344003",
+        "https://www.oldmissioncapital.com/careers/?gh_jid=5607340003",
+        "https://www.oldmissioncapital.com/careers/?gh_jid=6107903003",
         "https://www.oldmissioncapital.com/careers/?gh_jid=7993756003",
         "https://www.oldmissioncapital.com/careers/?gh_jid=6551116003",
         "https://www.oldmissioncapital.com/careers/?gh_jid=7982061003",
@@ -3484,7 +3486,8 @@
         "https://jobs.ashbyhq.com/old-mission-capital/ba156f96-5f08-4c34-adaf-8bcbbe9239ca",
         "https://jobs.ashbyhq.com/old-mission-capital/872722df-97c6-4f8f-aa45-be0dee3ea88d",
         "https://jobs.ashbyhq.com/old-mission-capital/c15a04cc-696a-4463-aae4-6b73bcf07162",
-        "https://jobs.ashbyhq.com/old-mission-capital/f41d3ded-526b-49e2-9cad-21223b048161"
+        "https://jobs.ashbyhq.com/old-mission-capital/f41d3ded-526b-49e2-9cad-21223b048161",
+        "https://jobs.ashbyhq.com/old-mission-capital/4894e26c-36b3-42c6-85d9-e9ba0015b18d"
       ]
     },
     {
@@ -6300,7 +6303,7 @@
       "department": "Quantitative Research",
       "location": "New York",
       "url": "https://job-boards.greenhouse.io/axq/jobs/6181069004",
-      "content": "About Us AXQ Capital i s a global quantitative investment firm with offices in New York, Beijing, Shanghai, and Hong Kong . We p ursue consistent alpha through rigorous scientific research and sustained investment in technology and data infrastructure. Our strategies are deployed across global markets, spanning multiple geographies, asset classes, and trading horizons. We are growing quickly, and our interns are a core part of how we hire: you will work directly with senior researchers and portfolio managers on research that is meant to trade, and strong performers receive full-time offers. &nbsp; Job Duties&nbsp; Markets are noisy, competitive, and constantly evolving — finding a durable edge is one of the hardest problems in applied research. As a Quantitative Research Intern, you will take on that challenge directly. Over the course of your internship, you will work on one or two projects in areas such as: Developing and refining quantitative trading strategies under the guidance of experienced portfolio managers and researchers Applying tools from probability, statistics, and machine learning to uncover patterns and predictive signals in market data Leveraging agentic AI workflows to accelerate the research cycle — from hypothesis generation to automated backtesting and analysis Transforming raw, messy datasets into research-ready inputs that power alpha discovery Exploring portfolio construction and optimization techniques that combine individual strategies into robust, risk-managed portfolios &nbsp; Qualifications Undergraduate or graduate student at a top-tier university in a quantitative field (e.g., mathematics, statistics, physics, engineering, computer science, financial engineering) Strong foundation in probability and statistics, including statistical modeling, time-series analysis, and machine learning Proficient in Python for data analysis and research Intellectually curious and quick to learn, with a genuine interest in quantitative finance Clear communicator who works well in a team and under pressure &nbsp; We’d Love It If You Have Publications in leading academic journals or conferences Strong results in national or international Olympiads (math, physics, or computer science) &nbsp; Program Details This is a full-time, approximately 12-week internship based in our New York office during Summer 2027. We are targeting candidates graduating in 2027 or 2028. The internship concludes with a presentation to senior management and the opportunity to earn a full-time return offer. The anticipated hourly pay range for this role is $75 to $100, depending on prior experience and qualifications.",
+      "content": "About Us AXQ Capital is a global quantitative investment firm. We build diverse sources of investment edge across geographies, asset classes, and trading horizons. Our strategies are grounded in rigorous scientific research and deep market understanding, strengthened by sustained investment in data, technology, and AI. Our team brings together exceptional talent from leading academic institutions and the world’s most respected quantitative firms. We foster a collaborative culture built on curiosity, rigor, and ownership, where the best ideas win and people grow with the firm. We are growing quickly, and our interns are a core part of how we hire: you will work directly with senior researchers and portfolio managers on research that is meant to trade, and strong performers receive full-time offers. &nbsp; Job Duties&nbsp; Markets are noisy, competitive, and constantly evolving — finding a durable edge is one of the hardest problems in applied research. As a Quantitative Research Intern, you will take on that challenge directly. Over the course of your internship, you will work on one or two projects in areas such as: Developing and refining quantitative trading strategies under the guidance of experienced portfolio managers and researchers Applying tools from probability, statistics, and machine learning to uncover patterns and predictive signals in market data Leveraging agentic AI workflows to accelerate the research cycle — from hypothesis generation to automated backtesting and analysis Transforming raw, messy datasets into research-ready inputs that power alpha discovery Exploring portfolio construction and optimization techniques that combine individual strategies into robust, risk-managed portfolios &nbsp; Qualifications Undergraduate or graduate student at a top-tier university in a quantitative field (e.g., mathematics, statistics, physics, engineering, computer science, financial engineering) Strong foundation in probability and statistics, including statistical modeling, time-series analysis, and machine learning Proficient in Python for data analysis and research Intellectually curious and quick to learn, with a genuine interest in quantitative finance Clear communicator who works well in a team and under pressure &nbsp; We’d Love It If You Have Publications in leading academic journals or conferences Strong results in national or international Olympiads (math, physics, or computer science) &nbsp; Program Details This is a full-time, approximately 12-week internship based in our New York office during Summer 2027. We are targeting candidates graduating in 2027 or 2028. The internship concludes with a presentation to senior management and the opportunity to earn a full-time return offer. The anticipated hourly pay range for this role is $75 to $100, depending on prior experience and qualifications.",
       "postedAt": "2026-09-03T14:32:35-04:00",
       "notes": "posted=2026-09-03T14:32:35-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found"
     },
@@ -6311,7 +6314,7 @@
       "department": "Quantitative Research",
       "location": "New York",
       "url": "https://job-boards.greenhouse.io/axq/jobs/5575450004",
-      "content": "About Us AXQ Capital i s a global quantitative investment firm with offices in New York, Beijing, Shanghai, and Hong Kong . We p ursue consistent alpha through rigorous scientific research and sustained investment in technology and data infrastructure. Our strategies are deployed across global markets, spanning multiple geographies, asset classes, and trading horizons. We are growing quickly, and our interns are a core part of how we hire: you will work directly with senior researchers and portfolio managers on research that is meant to trade, and strong performers receive full-time offers. &nbsp; Job Duties&nbsp; Markets are noisy, competitive, and constantly evolving — finding a durable edge is one of the hardest problems in applied research. As a Quantitative Research Intern, you will take on that challenge directly. Over the course of your internship, you will work on one or two projects in areas such as: Developing and refining quantitative trading strategies under the guidance of experienced portfolio managers and researchers Applying tools from probability, statistics, and machine learning to uncover patterns and predictive signals in market data Leveraging agentic AI workflows to accelerate the research cycle — from hypothesis generation to automated backtesting and analysis Transforming raw, messy datasets into research-ready inputs that power alpha discovery Exploring portfolio construction and optimization techniques that combine individual strategies into robust, risk-managed portfolios &nbsp; Qualifications Undergraduate or graduate student at a top-tier university in a quantitative field (e.g., mathematics, statistics, physics, engineering, computer science, financial engineering) Strong foundation in probability and statistics, including statistical modeling, time-series analysis, and machine learning Proficient in Python for data analysis and research Intellectually curious and quick to learn, with a genuine interest in quantitative finance Clear communicator who works well in a team and under pressure &nbsp; We’d Love It If You Have Publications in leading academic journals or conferences Strong results in national or international Olympiads (math, physics, or computer science) &nbsp; Program Details This role is open year-round. We welcome applications for full-time internships during academic breaks as well as part-time roles during the academic year, based in our New York office. We prefer candidates who will graduate within a year of completing the internship. Each internship concludes with a presentation to senior management and the opportunity to earn a full-time return offer. The anticipated hourly pay range for this role is $75 to $100, depending on prior experience and qualifications.",
+      "content": "About Us AXQ Capital is a global quantitative investment firm. We build diverse sources of investment edge across geographies, asset classes, and trading horizons. Our strategies are grounded in rigorous scientific research and deep market understanding, strengthened by sustained investment in data, technology, and AI. Our team brings together exceptional talent from leading academic institutions and the world’s most respected quantitative firms. We foster a collaborative culture built on curiosity, rigor, and ownership, where the best ideas win and people grow with the firm. We are growing quickly, and our interns are a core part of how we hire: you will work directly with senior researchers and portfolio managers on research that is meant to trade, and strong performers receive full-time offers. &nbsp; Job Duties&nbsp; Markets are noisy, competitive, and constantly evolving — finding a durable edge is one of the hardest problems in applied research. As a Quantitative Research Intern, you will take on that challenge directly. Over the course of your internship, you will work on one or two projects in areas such as: Developing and refining quantitative trading strategies under the guidance of experienced portfolio managers and researchers Applying tools from probability, statistics, and machine learning to uncover patterns and predictive signals in market data Leveraging agentic AI workflows to accelerate the research cycle — from hypothesis generation to automated backtesting and analysis Transforming raw, messy datasets into research-ready inputs that power alpha discovery Exploring portfolio construction and optimization techniques that combine individual strategies into robust, risk-managed portfolios &nbsp; Qualifications Undergraduate or graduate student at a top-tier university in a quantitative field (e.g., mathematics, statistics, physics, engineering, computer science, financial engineering) Strong foundation in probability and statistics, including statistical modeling, time-series analysis, and machine learning Proficient in Python for data analysis and research Intellectually curious and quick to learn, with a genuine interest in quantitative finance Clear communicator who works well in a team and under pressure &nbsp; We’d Love It If You Have Publications in leading academic journals or conferences Strong results in national or international Olympiads (math, physics, or computer science) &nbsp; Program Details This role is open year-round. We welcome applications for full-time internships during academic breaks as well as part-time roles during the academic year, based in our New York office. We prefer candidates who will graduate within a year of completing the internship. Each internship concludes with a presentation to senior management and the opportunity to earn a full-time return offer. The anticipated hourly pay range for this role is $75 to $100, depending on prior experience and qualifications.",
       "postedAt": "2025-06-30T13:08:44-04:00",
       "notes": "posted=2025-06-30T13:08:44-04:00; internship timing not stated in title; undergrad/BS/MS language found"
     },
@@ -6716,7 +6719,7 @@
       "department": "Trading Tech",
       "location": "New York, NY, United States",
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
-      "content": "The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technologies to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators.&nbsp; The FPGA/ASIC Design team and Verification team work in close collaboration, pushing boundaries in low-level computer architecture, logic design, tool writing, and the interface between hardware and software. There is often overlap in skills, and both teams work together very closely. The Hardware Engineering Summer 2027 Internship offers candidates the opportunity to explore both Design and Verification roles. During HRT’s Hardware Engineering Internship, you will have the opportunity to create hardware in SystemVerilog (design) and build complex modeling and testing environments in Python (verification). You can always expect to be challenged by the ever-changing financial markets, and find yourself working on critical infrastructure in an extremely fast-paced, real-time environment.&nbsp; What to Expect A challenging and meaningful summer internship program that will give you an introduction to all technical facets of hardware engineering in the algorithmic trading industry&nbsp; Independent projects that will have you deep dive into our hardware design and verification environments&nbsp; An opportunity to work with and learn more about cutting edge FPGA/ASIC technology&nbsp; After some intense but brief training, you’ll jump right into projects within your first two weeks of the program&nbsp; You'll learn all about HRT's research and trading infrastructure, even in areas you won’t be working in You’ll have the opportunity to learn about and gain a deeper understanding of the financial markets&nbsp; Requirements You are a full-time student in a Computer Engineering, Electrical Engineering or related program You will be graduating and looking for full-time roles in 2028 A thorough understanding of digital logic design and/or computer architecture&nbsp; Experience using a hardware design language such asSystemVerilog Familiarity with C++ and/or Python&nbsp; Knowledge of Linux and familiar with its command prompt A passion for technology and curiosity for how things work “under the hood”&nbsp; Exceptional problem solving skills&nbsp; Bonus: Familiarity with FPGAs or ASICs Bonus: Exposure to a hardware verification flow such as UVM, or open-source verification tools such as cocotb We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application. Weekly base salary of 5,800 USD and a competitive signing bonus in addition to company-paid housing, meals, and other perks. Culture Hudson River Trading (HRT) brings a scientific approach to trading financial products. We have built one of the world's most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading. At HRT we welcome a variety of expertise: mathematics and computer science, physics and engineering, media and tech. We’re a community of self-starters who are motivated by the excitement of being at the cutting edge of automation in every part of our organization—from trading, to business operations, to recruiting and beyond. We value openness and transparency, and celebrate great ideas from HRT veterans and new hires alike. At HRT we’re friends and colleagues – whether we are sharing a meal, playing the latest board game, or writing elegant code. We embrace a culture of togetherness that extends far beyond the walls of our office. Feel like you belong at HRT? Our goal is to find the best people and bring them together to do great work in a place where everyone is valued. HRT is proud of our diverse staff; we have offices all over the globe and benefit from our varied and unique perspectives. HRT is an equal opportunity employer; so whoever you are we’d love to get to know you. Please be advised: Use of AI tools during interviews or assessments is strictly prohibited, unless otherwise instructed or agreed upon. We employ various methods to evaluate the authenticity of candidate responses. If we determine that AI assistance was used during any stage of the hiring process, we reserve the right to immediately disqualify your candidacy or rescind any job offers extended.",
+      "content": "The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technologies to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators.&nbsp; The FPGA/ASIC Design team and Verification team work in close collaboration, pushing boundaries in low-level computer architecture, logic design, tool writing, and the interface between hardware and software. There is often overlap in skills, and both teams work together very closely. The Hardware Engineering Summer 2027 Internship offers candidates the opportunity to explore both Design and Verification roles. During HRT’s Hardware Engineering Internship, you will have the opportunity to create hardware in SystemVerilog (design) and build complex modeling and testing environments in Python (verification). You can always expect to be challenged by the ever-changing financial markets, and find yourself working on critical infrastructure in an extremely fast-paced, real-time environment.&nbsp; What to Expect A challenging and meaningful summer internship program that will give you an introduction to all technical facets of hardware engineering in the algorithmic trading industry&nbsp; Independent projects that will have you deep dive into our hardware design and verification environments&nbsp; An opportunity to work with and learn more about cutting edge FPGA/ASIC technology&nbsp; After some intense but brief training, you’ll jump right into projects within your first two weeks of the program&nbsp; You'll learn all about HRT's research and trading infrastructure, even in areas you won’t be working in You’ll have the opportunity to learn about and gain a deeper understanding of the financial markets&nbsp; Requirements You are a full-time student in a Computer Engineering, Electrical Engineering or related program You will be graduating and looking for full-time roles in 2028 A thorough understanding of digital logic design and/or computer architecture&nbsp; Experience using a hardware design language such as SystemVerilog Familiarity with C++ and/or Python&nbsp; Knowledge of Linux and familiar with its command prompt A passion for technology and curiosity for how things work “under the hood”&nbsp; Exceptional problem solving skills&nbsp; Bonus: Familiarity with FPGAs or ASICs Bonus: Exposure to a hardware verification flow such as UVM, or open-source verification tools such as cocotb We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application. Weekly base salary of 5,800 USD and a competitive signing bonus in addition to company-paid housing, meals, and other perks. Culture Hudson River Trading (HRT) brings a scientific approach to trading financial products. We have built one of the world's most sophisticated computing environments for research and development. Our researchers are at the forefront of innovation in the world of algorithmic trading. At HRT we welcome a variety of expertise: mathematics and computer science, physics and engineering, media and tech. We’re a community of self-starters who are motivated by the excitement of being at the cutting edge of automation in every part of our organization—from trading, to business operations, to recruiting and beyond. We value openness and transparency, and celebrate great ideas from HRT veterans and new hires alike. At HRT we’re friends and colleagues – whether we are sharing a meal, playing the latest board game, or writing elegant code. We embrace a culture of togetherness that extends far beyond the walls of our office. Feel like you belong at HRT? Our goal is to find the best people and bring them together to do great work in a place where everyone is valued. HRT is proud of our diverse staff; we have offices all over the globe and benefit from our varied and unique perspectives. HRT is an equal opportunity employer; so whoever you are we’d love to get to know you. Please be advised: Use of AI tools during interviews or assessments is strictly prohibited, unless otherwise instructed or agreed upon. We employ various methods to evaluate the authenticity of candidate responses. If we determine that AI assistance was used during any stage of the hiring process, we reserve the right to immediately disqualify your candidacy or rescind any job offers extended.",
       "postedAt": "2026-08-31T17:39:26-04:00",
       "notes": "posted=2026-08-31T17:39:26-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found"
     },
@@ -8520,8 +8523,8 @@
     },
     {
       "URL": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
-      "status": "absent",
-      "reason": "HTTP 404"
+      "status": "unknown",
+      "reason": "HTTP 403"
     },
     {
       "URL": "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/",
@@ -8608,7 +8611,7 @@
         "description": "The D.&nbsp;E.&nbsp;Shaw group seeks talented individuals with unique perspectives to join the firm as proprietary trading interns. Trader interns sit at the core of the firm’s discretionary investment strategies and take on complex challenges to deepen their understanding of financial markets, investment processes, and trade construction. They gain exposure to the firm’s portfolio management strategies, process-oriented investment philosophy, and risk management in a collaborative and engaging work environment. This is a ten-week program that will take place in New York and is expected to run from June to August 2027.",
         "responsibilities": "",
         "skills": "Candidates who approach problem solving with curiosity, think creatively, and can generate interesting and orthogonal insights (e.g., through involvement in coding or trading competitions, hackathons, investment clubs, or STEM research experience).\r\nIndividuals with an aptitude for deep analysis who can recognize connections across a wide range of sources and synthesize information into clear and persuasive messages.\r\nApplicants should be able to support arguments with data and quantitative analysis.\r\nWe welcome applicants from any field of study; no previous finance experience is necessary. Students in this program are usually approaching their final year of full-time study.\r\nThe position offers a monthly base salary of $25,000, overtime pay, a sign-on bonus of $10,000, travel coverage to and from the internship, and choice of furnished summer housing or a $10,000 housing allowance. It also includes a $3,300 stipend for self-study materials and a $4,000 stipend for personal technology equipment. If you have any questions about the compensation, please ask one of our recruiters.",
-        "datePosted": "Fri Sep 18 2026 19:02:28 GMT+0000 (Coordinated Universal Time)"
+        "datePosted": "Sun Sep 20 2026 12:06:20 GMT+0000 (Coordinated Universal Time)"
       }
     }
   ]

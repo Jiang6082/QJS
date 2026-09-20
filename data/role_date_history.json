@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T19:02:36.382Z",
+  "updatedAt": "2026-09-20T12:06:20.802Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -4145,6 +4145,30 @@
       "URL": "https://www.tower-research.com/open-positions/?gh_jid=8212179",
       "first_seen": "2026-09-18",
       "date": "2026-09-17",
+      "evidence": "employer_field"
+    },
+    "bmo|R260027197|software developer, winter 2027 (internship) - 4 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2",
+      "first_seen": "2026-09-20",
+      "date": "2026-09-18",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/cclfg/jobs/4410741009": {
+      "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4410741009",
+      "first_seen": "2026-09-20",
+      "date": "2026-09-18",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/cclfg/jobs/4410729009": {
+      "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4410729009",
+      "first_seen": "2026-09-20",
+      "date": "2026-09-18",
+      "evidence": "employer_field"
+    },
+    "https://jobs.smartrecruiters.com/RRSGroup/744000150509779": {
+      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000150509779",
+      "first_seen": "2026-09-20",
+      "date": "2026-09-19",
       "evidence": "employer_field"
     }
   }

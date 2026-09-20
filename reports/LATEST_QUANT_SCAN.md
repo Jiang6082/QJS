@@ -1,25 +1,27 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-09-18T19:02:36.382Z
+Last updated: 2026-09-20T12:06:20.802Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 513
-- Current retained roles: 573
-- New stable job URLs since previous scan: 0
-- No longer present since previous scan: 1
-- Missing without enough closure evidence: 39
-- Matching-role firms: 49
+- Current retained roles: 574
+- New stable job URLs since previous scan: 4
+- No longer present since previous scan: 0
+- Missing without enough closure evidence: 42
+- Matching-role firms: 50
 - Confirmed no open postings: 3
-- Openings but no matching role: 37
+- Openings but no matching role: 36
 - Could not fully verify: 215
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (3)
 
-_None._
+- **BMO Capital Markets** - [Software Developer, Winter 2027 (Internship) - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2) - San Ramon, CA, USA
+- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4410741009) - Toronto, Ontario, Canada
+- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4410729009) - Vancouver, British Columbia, Canada
 
 ### Europe (0)
 
@@ -49,13 +51,13 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **RRS Group** - [Associate IT Systems Administrator Intern - 2027](https://jobs.smartrecruiters.com/RRSGroup/744000150509779) - Remote
 
 ## No Longer Present
 
-- **Citadel Securities** - [Quantitative Research Analyst - Intern (US)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/) - Miami, New York
+_None._
 
 ## Full Reports
 

@@ -1,60 +1,147 @@
 {
-  "generatedAt": "2026-09-18T19:09:07.456Z",
-  "scanDate": "2026-09-18",
-  "baselineCommit": "1da2958ef58d9e2dfe35cdacf89e01538c029829",
-  "baselineScanAt": "2026-09-18T12:52:39.011Z",
-  "currentScanAt": "2026-09-18T19:02:36.382Z",
+  "generatedAt": "2026-09-20T12:11:15.188Z",
+  "scanDate": "2026-09-20",
+  "baselineCommit": "eb9510610906258d328437f33494d5e2dc380ac1",
+  "baselineScanAt": "2026-09-18T19:02:36.382Z",
+  "currentScanAt": "2026-09-20T12:06:20.802Z",
   "status": "passed",
-  "baselineRows": 575,
-  "currentRows": 573,
-  "exactAdded": [],
-  "exactRemoved": [
+  "baselineRows": 573,
+  "currentRows": 574,
+  "exactAdded": [
     {
-      "Company": "Fidelity Investments",
-      "Title": "Summer 2027 Equity Research Associate Intern - London",
+      "Company": "BMO Capital Markets",
+      "Title": "Software Developer, Winter 2027 (Internship) - 4 months",
       "Department": "",
-      "Location": "London, Great Britain",
-      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1",
-      "Source": "Career page Workday:fmr/fidelitycareers",
+      "Location": "San Ramon, CA, USA",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2",
+      "Source": "Career page Workday:bmo/External",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://fmr.wd1.myworkdayjobs.com/fidelitycareers/ | Posted 4 Days Ago | 2129754",
-      "Region": "Europe"
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted 2 Days Ago | R260027197",
+      "Region": "North America"
     },
     {
-      "Company": "PGIM",
-      "Title": "Prudential: 2027 Corporate, Risk Management Internship Program",
-      "Location": "Newark, NJ, USA",
-      "Region": "North America",
-      "URL": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796",
-      "Source": "Career page Workday:pru/Careers",
+      "Company": "Connor Clark & Lunn",
+      "Title": "Intern, Retail Portfolio Operations",
+      "Department": "Retail Portfolio Operations",
+      "Location": "Toronto, Ontario, Canada",
+      "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4410741009",
+      "Source": "Career page Greenhouse:cclfg",
       "Status": "Confirmed official posting",
-      "Department": "",
-      "Notes": "career_page=https://pru.wd5.myworkdayjobs.com/Careers | Posted 11 Days Ago | R-124796 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-09-17T19:22:12.755Z"
-    }
-  ],
-  "reportedAdded": [],
-  "reportedRemoved": [
+      "Notes": "posted=2026-09-18T15:45:12-04:00 | career_page=https://job-boards.greenhouse.io/cclfg | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4410741009 | internship timing not stated in title | We are looking for a Retail Portfolio Operations Intern to join our Toronto-based Investment Resource Group for an 8-month term (January-August 2027). This role offers an excellent opportunity for a student or recent graduate interested in investment operations, financial services, process improvement, and technology. The successful candidate will gain hands-on experience supporting retail portfolio operations while working alongside experienced professionals in a collaborative and entrepreneurial environment What You Will Do Assist with maintaining and reconciling client portfolio data. Support the maintenance of operational systems and data used across portfolio administration, trade mana...",
+      "Region": "North America"
+    },
     {
-      "Company": "Citadel Securities",
-      "Title": "Quantitative Research Analyst - Intern (US)",
-      "Location": "Miami, New York",
-      "Region": "North America",
-      "URL": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
-      "Source": "Official careers page (browser-audited 2026-07-14)",
+      "Company": "Connor Clark & Lunn",
+      "Title": "Intern, Retail Portfolio Operations",
+      "Department": "Retail Portfolio Operations",
+      "Location": "Vancouver, British Columbia, Canada",
+      "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4410729009",
+      "Source": "Career page Greenhouse:cclfg",
       "Status": "Confirmed official posting",
-      "lastSeenOpenAt": null,
-      "lastSeenEvidence": "unavailable",
-      "detectedClosedAt": "2026-09-18T19:02:36.382Z"
+      "Notes": "posted=2026-09-18T15:44:48-04:00 | career_page=https://job-boards.greenhouse.io/cclfg | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4410729009 | internship timing not stated in title | We are looking for a Retail Portfolio Operations Intern to join our Vancouver-based Investment Resource Group for an 8-month term (January-August 2027). This role offers an excellent opportunity for a student or recent graduate interested in investment operations, financial services, process improvement, and technology. The successful candidate will gain hands-on experience supporting retail portfolio operations while working alongside experienced professionals in a collaborative and entrepreneurial environment What You Will Do Assist with maintaining and reconciling client portfolio data. Support the maintenance of operational systems and data used across portfolio administration, trade ma...",
+      "Region": "North America"
+    },
+    {
+      "Company": "RRS Group",
+      "Title": "Associate IT Systems Administrator Intern - 2027",
+      "Department": "Information Technology",
+      "Location": "Remote",
+      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000150509779",
+      "Source": "Career page SmartRecruiters:RRSGroup",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.myrrsgroup.org/careers/ | released=2026-09-19T16:46:02.168Z | internship timing not stated in title",
+      "Region": "Remote / Unspecified"
     }
   ],
-  "pendingAbsences": 39,
-  "passDifference": 2,
+  "exactRemoved": [
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "Climate Risk Reporting Analyst, Winter 2027 (Co-op/Internship) - 4 Months",
+      "Location": "Toronto, ON, CAN",
+      "Region": "North America",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Climate-Risk-Reporting-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024768-1",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting",
+      "Notes": "revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-18T12:52:39.011Z"
+    },
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "Data Science Analyst - Audit AI & Analytics, Winter 2027 (Co-op/Internship) - 4 Months",
+      "Location": "Toronto, ON, CAN",
+      "Region": "North America",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761-1",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting",
+      "Notes": "revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-18T12:52:39.011Z"
+    },
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "Data Science Risk Analyst, Winter 2027 (Co-op/Internship) - 4 Months",
+      "Location": "Toronto, ON, CAN",
+      "Region": "North America",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735-1",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting",
+      "Notes": "revalidated_from_previous_scan=true | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-09-18T12:52:39.011Z"
+    }
+  ],
+  "reportedAdded": [
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "Software Developer, Winter 2027 (Internship) - 4 months",
+      "Department": "",
+      "Location": "San Ramon, CA, USA",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted 2 Days Ago | R260027197",
+      "Region": "North America"
+    },
+    {
+      "Company": "Connor Clark & Lunn",
+      "Title": "Intern, Retail Portfolio Operations",
+      "Department": "Retail Portfolio Operations",
+      "Location": "Toronto, Ontario, Canada",
+      "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4410741009",
+      "Source": "Career page Greenhouse:cclfg",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-09-18T15:45:12-04:00 | career_page=https://job-boards.greenhouse.io/cclfg | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4410741009 | internship timing not stated in title | We are looking for a Retail Portfolio Operations Intern to join our Toronto-based Investment Resource Group for an 8-month term (January-August 2027). This role offers an excellent opportunity for a student or recent graduate interested in investment operations, financial services, process improvement, and technology. The successful candidate will gain hands-on experience supporting retail portfolio operations while working alongside experienced professionals in a collaborative and entrepreneurial environment What You Will Do Assist with maintaining and reconciling client portfolio data. Support the maintenance of operational systems and data used across portfolio administration, trade mana...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Connor Clark & Lunn",
+      "Title": "Intern, Retail Portfolio Operations",
+      "Department": "Retail Portfolio Operations",
+      "Location": "Vancouver, British Columbia, Canada",
+      "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4410729009",
+      "Source": "Career page Greenhouse:cclfg",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-09-18T15:44:48-04:00 | career_page=https://job-boards.greenhouse.io/cclfg | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4410729009 | internship timing not stated in title | We are looking for a Retail Portfolio Operations Intern to join our Vancouver-based Investment Resource Group for an 8-month term (January-August 2027). This role offers an excellent opportunity for a student or recent graduate interested in investment operations, financial services, process improvement, and technology. The successful candidate will gain hands-on experience supporting retail portfolio operations while working alongside experienced professionals in a collaborative and entrepreneurial environment What You Will Do Assist with maintaining and reconciling client portfolio data. Support the maintenance of operational systems and data used across portfolio administration, trade ma...",
+      "Region": "North America"
+    },
+    {
+      "Company": "RRS Group",
+      "Title": "Associate IT Systems Administrator Intern - 2027",
+      "Department": "Information Technology",
+      "Location": "Remote",
+      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000150509779",
+      "Source": "Career page SmartRecruiters:RRSGroup",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://www.myrrsgroup.org/careers/ | released=2026-09-19T16:46:02.168Z | internship timing not stated in title",
+      "Region": "Remote / Unspecified"
+    }
+  ],
+  "reportedRemoved": [],
+  "pendingAbsences": 42,
+  "passDifference": 0,
   "rollingDated": 165,
   "rollingUndated": 2,
-  "cumulativeTotal": 391,
-  "cumulativeActive": 362,
-  "cumulativeNotDetected": 29,
+  "cumulativeTotal": 395,
+  "cumulativeActive": 363,
+  "cumulativeNotDetected": 32,
   "manuallyVerifiedToday": 5,
   "failures": []
 }

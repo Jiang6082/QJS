@@ -1,8 +1,8 @@
 {
-  "baselineCommit": "1da2958ef58d9e2dfe35cdacf89e01538c029829",
+  "baselineCommit": "eb9510610906258d328437f33494d5e2dc380ac1",
   "firstPass": {
-    "searchedAt": "2026-09-18T18:55:01.022Z",
-    "hash": "f6b2ba553bb4c89488b5f9925b9edfcf458e109f448c34018af25c3cbef1cdc4",
+    "searchedAt": "2026-09-20T12:01:50.390Z",
+    "hash": "8985ad9e1048bde81d9babc6960e98b5e69b15dff86f59ab43fea03cec4367f1",
     "identities": [
       "https://www.akunacapital.com/careers/job/8018856?gh_jid=8018856",
       "https://www.akunacapital.com/careers/job/8021481?gh_jid=8021481",
@@ -97,11 +97,8 @@
       "blackrock|R266477|2027 quantitative masters internship program - technology - analytics & modeling - new york",
       "blackrock|R266476|2027 quantitative masters internship program - technology - analytics & modeling - san francisco",
       "blackrock|R266465|2027 quantitative masters internship programme - investments - quantitative investing - london",
-      "bmo|R260024768|climate risk reporting analyst, winter 2027 (co-op/internship) - 4 months",
       "bmo|R260024672|cloud business & strategy analytics analyst, winter 2027 (co-op/internship) - 4 months",
       "bmo|R260024336|data analytics intern, winter 2027 (co-op/internship) - 8 months",
-      "bmo|R260024761|data science analyst - audit ai & analytics, winter 2027 (co-op/internship) - 4 months",
-      "bmo|R260024735|data science risk analyst, winter 2027 (co-op/internship) - 4 months",
       "bmo|R260024650|junior software developer, winter 2027 (co-op/internship) - 4 months",
       "bmo|R260025949|portfolio assistant, winter 2027 (co-op/internship), montreal - 4 months",
       "bmo|R260026715|quantitative developer (alpha research team) - gam, summer 2027 (co-op/internship) - 12 months",
@@ -109,6 +106,7 @@
       "bmo|R260024678|software developer, winter 2027 (co-op/internship) - 12 months",
       "bmo|R260024638|software developer, winter 2027 (co-op/internship) - 4 months",
       "bmo|R260024640|software developer, winter 2027 (co-op/internship) - 8 months",
+      "bmo|R260027197|software developer, winter 2027 (internship) - 4 months",
       "https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading",
       "bpinternational|RQ114483|6-month internship - supply, trading & shipping - singapore (jan - jun 2027)",
       "bpinternational|RQ114217|summer internship - finance & risk - singapore (2027)",
@@ -127,9 +125,9 @@
       "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
       "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005",
       "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
-      "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia",
-      "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe",
       "https://job-boards.greenhouse.io/cclfg/jobs/4407698009",
+      "https://job-boards.greenhouse.io/cclfg/jobs/4410741009",
+      "https://job-boards.greenhouse.io/cclfg/jobs/4410729009",
       "https://www.deshaw.com/careers/investor-relations-intern-london-summer-2027-5917",
       "https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2027-5731",
       "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890",
@@ -147,8 +145,8 @@
       "https://www.dltrading.io/careers?gh_jid=7814660003",
       "https://www.dltrading.io/careers?gh_jid=7814754003",
       "https://job-boards.greenhouse.io/drweng/jobs/7991171",
-      "https://job-boards.greenhouse.io/drweng/jobs/8038923",
       "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "https://job-boards.greenhouse.io/drweng/jobs/8038923",
       "https://job-boards.greenhouse.io/drweng/jobs/7997729",
       "https://job-boards.greenhouse.io/drweng/jobs/7818540",
       "https://job-boards.greenhouse.io/drweng/jobs/7957756",
@@ -156,9 +154,9 @@
       "https://job-boards.greenhouse.io/drweng/jobs/7957243",
       "https://job-boards.greenhouse.io/drweng/jobs/7668776",
       "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "https://job-boards.greenhouse.io/drweng/jobs/7991196",
       "https://job-boards.greenhouse.io/drweng/jobs/7942281",
       "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "https://job-boards.greenhouse.io/drweng/jobs/7991196",
       "https://job-boards.greenhouse.io/drweng/jobs/8014910",
       "https://job-boards.greenhouse.io/drweng/jobs/8127242",
       "https://job-boards.greenhouse.io/drweng/jobs/7992670",
@@ -436,6 +434,7 @@
       "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002",
       "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
       "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002",
+      "https://jobs.smartrecruiters.com/RRSGroup/744000150509779",
       "https://job-boards.greenhouse.io/schonfeld/jobs/8171703",
       "https://job-boards.greenhouse.io/schonfeld/jobs/8172064",
       "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
@@ -580,13 +579,11 @@
       "https://job-boards.greenhouse.io/xantium/jobs/4371217009",
       "https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003"
     ],
-    "absentUrls": [
-      "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us"
-    ]
+    "absentUrls": []
   },
   "confirmationPass": {
-    "searchedAt": "2026-09-18T19:02:36.382Z",
-    "hash": "3c78b6e19bc58799e460339fee3d547a58be1ac5c712f97259c19bd4cdcae478",
+    "searchedAt": "2026-09-20T12:06:20.802Z",
+    "hash": "83505b9a458409fb55e83a9ff265ff027a0798bfdb98e810ce1cc51724659bfb",
     "identities": [
       "https://www.akunacapital.com/careers/job/8018856?gh_jid=8018856",
       "https://www.akunacapital.com/careers/job/8021481?gh_jid=8021481",
@@ -681,11 +678,8 @@
       "blackrock|R266477|2027 quantitative masters internship program - technology - analytics & modeling - new york",
       "blackrock|R266476|2027 quantitative masters internship program - technology - analytics & modeling - san francisco",
       "blackrock|R266465|2027 quantitative masters internship programme - investments - quantitative investing - london",
-      "bmo|R260024768|climate risk reporting analyst, winter 2027 (co-op/internship) - 4 months",
       "bmo|R260024672|cloud business & strategy analytics analyst, winter 2027 (co-op/internship) - 4 months",
       "bmo|R260024336|data analytics intern, winter 2027 (co-op/internship) - 8 months",
-      "bmo|R260024761|data science analyst - audit ai & analytics, winter 2027 (co-op/internship) - 4 months",
-      "bmo|R260024735|data science risk analyst, winter 2027 (co-op/internship) - 4 months",
       "bmo|R260024650|junior software developer, winter 2027 (co-op/internship) - 4 months",
       "bmo|R260025949|portfolio assistant, winter 2027 (co-op/internship), montreal - 4 months",
       "bmo|R260026715|quantitative developer (alpha research team) - gam, summer 2027 (co-op/internship) - 12 months",
@@ -693,6 +687,7 @@
       "bmo|R260024678|software developer, winter 2027 (co-op/internship) - 12 months",
       "bmo|R260024638|software developer, winter 2027 (co-op/internship) - 4 months",
       "bmo|R260024640|software developer, winter 2027 (co-op/internship) - 8 months",
+      "bmo|R260027197|software developer, winter 2027 (internship) - 4 months",
       "https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading",
       "bpinternational|RQ114483|6-month internship - supply, trading & shipping - singapore (jan - jun 2027)",
       "bpinternational|RQ114217|summer internship - finance & risk - singapore (2027)",
@@ -712,6 +707,8 @@
       "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005",
       "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
       "https://job-boards.greenhouse.io/cclfg/jobs/4407698009",
+      "https://job-boards.greenhouse.io/cclfg/jobs/4410741009",
+      "https://job-boards.greenhouse.io/cclfg/jobs/4410729009",
       "https://www.deshaw.com/careers/investor-relations-intern-london-summer-2027-5917",
       "https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2027-5731",
       "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890",
@@ -729,8 +726,8 @@
       "https://www.dltrading.io/careers?gh_jid=7814660003",
       "https://www.dltrading.io/careers?gh_jid=7814754003",
       "https://job-boards.greenhouse.io/drweng/jobs/7991171",
-      "https://job-boards.greenhouse.io/drweng/jobs/8038923",
       "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "https://job-boards.greenhouse.io/drweng/jobs/8038923",
       "https://job-boards.greenhouse.io/drweng/jobs/7997729",
       "https://job-boards.greenhouse.io/drweng/jobs/7818540",
       "https://job-boards.greenhouse.io/drweng/jobs/7957756",
@@ -738,9 +735,9 @@
       "https://job-boards.greenhouse.io/drweng/jobs/7957243",
       "https://job-boards.greenhouse.io/drweng/jobs/7668776",
       "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "https://job-boards.greenhouse.io/drweng/jobs/7991196",
       "https://job-boards.greenhouse.io/drweng/jobs/7942281",
       "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "https://job-boards.greenhouse.io/drweng/jobs/7991196",
       "https://job-boards.greenhouse.io/drweng/jobs/8014910",
       "https://job-boards.greenhouse.io/drweng/jobs/8127242",
       "https://job-boards.greenhouse.io/drweng/jobs/7992670",
@@ -1018,6 +1015,7 @@
       "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002",
       "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
       "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002",
+      "https://jobs.smartrecruiters.com/RRSGroup/744000150509779",
       "https://job-boards.greenhouse.io/schonfeld/jobs/8171703",
       "https://job-boards.greenhouse.io/schonfeld/jobs/8172064",
       "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
@@ -1162,13 +1160,8 @@
       "https://job-boards.greenhouse.io/xantium/jobs/4371217009",
       "https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003"
     ],
-    "absentUrls": [
-      "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us"
-    ]
+    "absentUrls": []
   },
-  "onlyFirstPass": [
-    "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia",
-    "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe"
-  ],
+  "onlyFirstPass": [],
   "onlyConfirmationPass": []
 }
