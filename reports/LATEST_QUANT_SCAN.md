@@ -1,43 +1,56 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-09-20T12:06:20.802Z
+Last updated: 2026-09-23T13:34:42.967Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 513
-- Current retained roles: 574
-- New stable job URLs since previous scan: 4
-- No longer present since previous scan: 0
-- Missing without enough closure evidence: 42
-- Matching-role firms: 50
+- Current retained roles: 584
+- New stable job URLs since previous scan: 24
+- No longer present since previous scan: 5
+- Missing without enough closure evidence: 51
+- Matching-role firms: 51
 - Confirmed no open postings: 3
-- Openings but no matching role: 36
+- Openings but no matching role: 35
 - Could not fully verify: 215
 
 ## New Roles Since Previous Scan
 
-### North America (3)
+### North America (14)
 
-- **BMO Capital Markets** - [Software Developer, Winter 2027 (Internship) - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2) - San Ramon, CA, USA
-- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4410741009) - Toronto, Ontario, Canada
-- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4410729009) - Vancouver, British Columbia, Canada
+- **AQR Capital Management** - [2027 PhD Summer Associate, Machine Learning Research](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) - Greenwich, CT
+- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Los Angeles, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382) - Los Angeles
+- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (New York, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/CAMPUS--Data---Technology-Summer-Associate--New-York--2027-_JR7383) - New York
+- **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://job-boards.greenhouse.io/cclfg/jobs/4413182009) - Vancouver, British Columbia, Canada
+- **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://job-boards.greenhouse.io/cclfg/jobs/4413204009) - Toronto, Ontario, Canada
+- **Geneva Trading** - [C++ Developer (Intern)](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) - Chicago Office
+- **Geneva Trading** - [Python Developer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242196007) - Chicago Office
+- **Geneva Trading** - [Trade Support Engineer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242190007) - Chicago Office
+- **Neuberger Berman** - [Quantitative 2027 Summer Intern](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643) - New York, NY
+- **Optiver** - [High Performance Computing (HPC) Intern (Summer 2027 - Chicago)](https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002) - Chicago, Illinois, United States
+- **Optiver** - [Software Engineer Co-Op (January - April 2027)](https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002) - Chicago, Illinois, United States
+- **Viking Global Investors** - [Data Science Intern](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) - New York, NY
+- **Walleye Capital** - [Equity Volatility Quant Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) - Miami, FL
+- **Wellington Management** - [Investment Platform Technology Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Platform-Technology-Co-op_R94902-1) - Boston, MA, United States
 
-### Europe (0)
+### Europe (3)
 
-_None._
+- **Brevan Howard** - [2027 Summer Internship Program - AI & Quantitative Analyst, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605) - London
+- **DV Trading** - [Security Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4736603005) - London
+- **PIMCO** - [2027 MBA Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805) - London, GBR
 
-### Asia (0)
+### Asia (1)
 
-_None._
+- **Man Group** - [Quant Research Analyst Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4982410101) - Shanghai
 
 ### Oceania (0)
 
 _None._
 
-### Middle East (0)
+### Middle East (1)
 
-_None._
+- **Brevan Howard** - [2027 Summer Internship Program - AI & Quantitative Analyst, Abu Dhabi](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--Abu-Dhabi_JR101613) - Abu Dhabi
 
 ### South America (0)
 
@@ -51,13 +64,21 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (5)
 
-- **RRS Group** - [Associate IT Systems Administrator Intern - 2027](https://jobs.smartrecruiters.com/RRSGroup/744000150509779) - Remote
+- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Charlotte NC, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385) - Charlotte
+- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Irvine, CA, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384) - Irvine
+- **Fidelity Investments** - [Summer 2027 Undergraduate Internship - Audit, Risk, & Compliance](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Summer-2027-Undergraduate-Internship---Audit--Risk----Compliance_2134161-1) - 6 Locations
+- **Fidelity Investments** - [Summer 2027 Undergraduate Internship - Software](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524) - 3 Locations
+- **Man Group** - [Technology Summer Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978895101) - Sofia
 
 ## No Longer Present
 
-_None._
+- **DL Trading** - [Quantitative Trading Internship - 2027](https://www.dltrading.io/careers?gh_jid=7814754003) - Chicago, Illinois, United States
+- **Goldman Sachs** - [2027 | EMEA | London | Wealth Management, Quantitative Finance | Summer Analyst](https://higher.gs.com/roles/170860) - London, Greater London, England, United Kingdom
+- **WorldQuant** - [Quantitative Research Intern (LLMs & AI Agents)](https://job-boards.greenhouse.io/worldquant/jobs/4434997006) - Hanoi or Ho Chi Minh City
+- **Goldman Sachs** - [2027 | EMEA | London | FICC & Equities (Sales & Trading) | Summer Analyst](https://higher.gs.com/roles/170675) - London, Greater London, England, United Kingdom
+- **Goldman Sachs** - [2027 | EMEA | Paris | FICC & Equities (Sales & Trading) | Summer Analyst](https://higher.gs.com/roles/170676) - Paris, Ile-de-France, France
 
 ## Full Reports
 

@@ -1,5 +1,75 @@
 [
   {
+    "Company": "DL Trading",
+    "Title": "Quantitative Trading Internship - 2027",
+    "Location": "Chicago, Illinois, United States",
+    "Region": "North America",
+    "URL": "https://www.dltrading.io/careers?gh_jid=7814754003",
+    "Source": "Greenhouse:confidentialsportstradingfirm",
+    "Status": "Confirmed official posting",
+    "Department": "Technology",
+    "Notes": "posted=2026-07-23T18:11:50-04:00 | posted=2026-07-23T18:11:50-04:00 | posted=2026-07-23T18:11:50-04:00 | posted=2026-07-23T18:11:50-04:00 | posted=2026-07-23T18:11:50-04:00 | posted=2026-07-23T18:11:50-04:00 | posted=2026-07-23T18:11:50-04:00 | revalidated_from_previous_scan=true",
+    "lastSeenOpenAt": "2026-09-20T12:06:20.802Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-23T13:34:42.967Z"
+  },
+  {
+    "Company": "Goldman Sachs",
+    "Title": "2027 | EMEA | London | Wealth Management, Quantitative Finance | Summer Analyst",
+    "Location": "London, Greater London, England, United Kingdom",
+    "Region": "Europe",
+    "URL": "https://higher.gs.com/roles/170860",
+    "Source": "Official Goldman Sachs Higher API",
+    "Status": "Confirmed official posting",
+    "Department": "Asset & Wealth Management",
+    "Notes": "posted=2026-08-15 | role_id=170860 | program=Summer Analyst | division=Asset & Wealth Management",
+    "lastSeenOpenAt": "2026-09-20T12:06:20.802Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-23T13:34:42.967Z"
+  },
+  {
+    "Company": "WorldQuant",
+    "Title": "Quantitative Research Intern (LLMs & AI Agents)",
+    "Location": "Hanoi or Ho Chi Minh City",
+    "Region": "Asia",
+    "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4434997006",
+    "Source": "Career page Greenhouse:worldquant",
+    "Status": "Confirmed official posting",
+    "Department": "Research",
+    "Notes": "posted=2025-01-21T22:38:56-05:00 | career_page=https://job-boards.greenhouse.io/worldquant | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4434997006 | internship timing not stated in title | WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform. WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Employees ar...",
+    "lastSeenOpenAt": "2026-09-20T12:06:20.802Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-23T13:34:42.967Z"
+  },
+  {
+    "Company": "Goldman Sachs",
+    "Title": "2027 | EMEA | London | FICC & Equities (Sales & Trading) | Summer Analyst",
+    "Department": "Global Banking & Markets",
+    "Location": "London, Greater London, England, United Kingdom",
+    "URL": "https://higher.gs.com/roles/170675",
+    "Source": "Official Goldman Sachs Higher API",
+    "Status": "Confirmed official posting",
+    "Notes": "posted=2026-09-18 | role_id=170675 | program=Summer Analyst | division=Global Banking & Markets",
+    "Region": "Europe",
+    "lastSeenOpenAt": "2026-09-20T12:06:20.802Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-23T13:34:42.967Z"
+  },
+  {
+    "Company": "Goldman Sachs",
+    "Title": "2027 | EMEA | Paris | FICC & Equities (Sales & Trading) | Summer Analyst",
+    "Department": "Global Banking & Markets",
+    "Location": "Paris, Ile-de-France, France",
+    "URL": "https://higher.gs.com/roles/170676",
+    "Source": "Official Goldman Sachs Higher API",
+    "Status": "Confirmed official posting",
+    "Notes": "posted=2026-09-18 | role_id=170676 | program=Summer Analyst | division=Global Banking & Markets",
+    "Region": "Europe",
+    "lastSeenOpenAt": "2026-09-20T12:06:20.802Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-23T13:34:42.967Z"
+  },
+  {
     "Company": "Citadel Securities",
     "Title": "Quantitative Research Analyst - Intern (US)",
     "Location": "Miami, New York",
@@ -640,7 +710,8 @@
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-08-14T15:59:31.729Z",
     "detectedClosedAt": "2026-08-16T14:55:30.101Z",
-    "lastSeenEvidence": "committed_scan_history"
+    "lastSeenEvidence": "committed_scan_history",
+    "reopenedAt": "2026-09-23T13:34:42.967Z"
   },
   {
     "Company": "Morningstar",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T12:06:20.802Z",
+  "updatedAt": "2026-09-23T13:34:42.967Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -580,7 +580,7 @@
     "https://higher.gs.com/roles/170600": {
       "URL": "https://higher.gs.com/roles/170600",
       "first_seen": "2026-07-23",
-      "date": "2026-06-30",
+      "date": "2026-09-23",
       "evidence": "employer_field"
     },
     "https://group1.applicantpro.com/jobs/3859850": {
@@ -1456,8 +1456,8 @@
     "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006": {
       "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
       "first_seen": "2026-07-23",
-      "date": null,
-      "evidence": null
+      "date": "2026-06-01",
+      "evidence": "employer_field"
     },
     "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006": {
       "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
@@ -2362,19 +2362,19 @@
     "https://higher.gs.com/roles/169905": {
       "URL": "https://higher.gs.com/roles/169905",
       "first_seen": "2026-08-16",
-      "date": "2026-06-30",
+      "date": "2026-09-23",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/169906": {
       "URL": "https://higher.gs.com/roles/169906",
       "first_seen": "2026-08-16",
-      "date": "2026-08-13",
+      "date": "2026-09-23",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/170601": {
       "URL": "https://higher.gs.com/roles/170601",
       "first_seen": "2026-08-16",
-      "date": "2026-06-30",
+      "date": "2026-09-23",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/175421": {
@@ -3700,13 +3700,13 @@
     "https://higher.gs.com/roles/169893": {
       "URL": "https://higher.gs.com/roles/169893",
       "first_seen": "2026-09-13",
-      "date": "2026-08-28",
+      "date": "2026-09-21",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/170819": {
       "URL": "https://higher.gs.com/roles/170819",
       "first_seen": "2026-09-13",
-      "date": "2026-09-18",
+      "date": "2026-09-23",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/179947": {
@@ -3724,13 +3724,13 @@
     "https://higher.gs.com/roles/170824": {
       "URL": "https://higher.gs.com/roles/170824",
       "first_seen": "2026-09-13",
-      "date": "2026-06-30",
+      "date": "2026-09-21",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/170823": {
       "URL": "https://higher.gs.com/roles/170823",
       "first_seen": "2026-09-13",
-      "date": "2026-06-30",
+      "date": "2026-09-21",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/183942": {
@@ -3754,7 +3754,7 @@
     "https://higher.gs.com/roles/170820": {
       "URL": "https://higher.gs.com/roles/170820",
       "first_seen": "2026-09-13",
-      "date": "2026-09-18",
+      "date": "2026-09-23",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/169894": {
@@ -4170,6 +4170,144 @@
       "first_seen": "2026-09-20",
       "date": "2026-09-19",
       "evidence": "employer_field"
+    },
+    "https://careers.aqr.com/jobs?gh_jid=8224708": {
+      "URL": "https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-22",
+      "evidence": "employer_field"
+    },
+    "brevanhoward|JR101613|2027 summer internship program - ai & quantitative analyst, abu dhabi": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--Abu-Dhabi_JR101613",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-21",
+      "evidence": "employer_relative_label"
+    },
+    "brevanhoward|JR101605|2027 summer internship program - ai & quantitative analyst, london": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-22",
+      "evidence": "employer_relative_label"
+    },
+    "capgroup|JR7385|campus: data & technology summer associate (charlotte nc, 2027)": {
+      "URL": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-22",
+      "evidence": "employer_relative_label"
+    },
+    "capgroup|JR7384|campus: data & technology summer associate (irvine, ca, 2027)": {
+      "URL": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-22",
+      "evidence": "employer_relative_label"
+    },
+    "capgroup|JR7382|campus: data & technology summer associate (los angeles, 2027)": {
+      "URL": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-22",
+      "evidence": "employer_relative_label"
+    },
+    "capgroup|JR7383|campus: data & technology summer associate (new york, 2027)": {
+      "URL": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/CAMPUS--Data---Technology-Summer-Associate--New-York--2027-_JR7383",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-22",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/cclfg/jobs/4413182009": {
+      "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4413182009",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-21",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/cclfg/jobs/4413204009": {
+      "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4413204009",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-21",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4736603005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4736603005",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-22",
+      "evidence": "employer_field"
+    },
+    "fmr|2134161|summer 2027 undergraduate internship - audit, risk, & compliance": {
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Summer-2027-Undergraduate-Internship---Audit--Risk----Compliance_2134161-1",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-21",
+      "evidence": "employer_relative_label"
+    },
+    "fmr|2134524|summer 2027 undergraduate internship - software": {
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-21",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/genevatrading/jobs/5242063007": {
+      "URL": "https://job-boards.greenhouse.io/genevatrading/jobs/5242063007",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-21",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/genevatrading/jobs/5242196007": {
+      "URL": "https://job-boards.greenhouse.io/genevatrading/jobs/5242196007",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-22",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/genevatrading/jobs/5242190007": {
+      "URL": "https://job-boards.greenhouse.io/genevatrading/jobs/5242190007",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-22",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/mangroup/jobs/4982410101": {
+      "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4982410101",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-22",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978895101": {
+      "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978895101",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-23",
+      "evidence": "employer_field"
+    },
+    "nb|R0012643|quantitative 2027 summer intern": {
+      "URL": "https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-23",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002": {
+      "URL": "https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-21",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002": {
+      "URL": "https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-21",
+      "evidence": "employer_field"
+    },
+    "pimco|R106805|2027 mba summer intern - credit research analyst, emea": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-23",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004": {
+      "URL": "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-21",
+      "evidence": "employer_field"
+    },
+    "wellington|R94902|investment platform technology co-op": {
+      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Platform-Technology-Co-op_R94902-1",
+      "first_seen": "2026-09-23",
+      "date": "2026-09-21",
+      "evidence": "employer_relative_label"
     }
   }
 }

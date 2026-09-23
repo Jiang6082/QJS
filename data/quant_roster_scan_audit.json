@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-20T12:11:14.100Z",
-  "scanStartedAt": "2026-09-20T12:06:20.802Z",
+  "generatedAt": "2026-09-23T13:39:55.043Z",
+  "scanStartedAt": "2026-09-23T13:34:42.967Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 50,
+    "matching-role-found": 51,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 36,
+    "confirmed-openings-no-matching-role": 35,
     "could-not-fully-verify": 215
   },
   "companies": [
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 143,
+      "jobsSeen": 138,
       "relevantInternships": 0
     },
     {
@@ -154,7 +154,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/blackedgecapital"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 6,
       "relevantInternships": 2
@@ -285,8 +285,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 51,
-      "relevantInternships": 10
+      "jobsSeen": 53,
+      "relevantInternships": 11
     },
     {
       "company": "Accent Groupe",
@@ -341,7 +341,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
+      "jobsSeen": 7,
       "relevantInternships": 2
     },
     {
@@ -353,7 +353,7 @@
       "careerPages": [
         "http://www.armadausa.com/careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -395,7 +395,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 17,
+      "jobsSeen": 20,
       "relevantInternships": 3
     },
     {
@@ -427,8 +427,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 24,
-      "relevantInternships": 10
+      "jobsSeen": 27,
+      "relevantInternships": 12
     },
     {
       "company": "Campbell and Company",
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 181,
+      "jobsSeen": 183,
       "relevantInternships": 16
     },
     {
@@ -946,7 +946,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 15,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -972,7 +972,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 32,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 233,
+      "jobsSeen": 229,
       "relevantInternships": 9
     },
     {
@@ -1026,8 +1026,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 71,
-      "relevantInternships": 17
+      "jobsSeen": 72,
+      "relevantInternships": 18
     },
     {
       "company": "Danske Commodities",
@@ -1038,7 +1038,7 @@
       "careerPages": [
         "https://danskecommodities.com/join-us"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1054,8 +1054,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 131,
-      "relevantInternships": 2
+      "jobsSeen": 127,
+      "relevantInternships": 1
     },
     {
       "company": "Domeyard LP",
@@ -1171,7 +1171,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 10,
+      "jobsSeen": 11,
       "relevantInternships": 2
     },
     {
@@ -1240,7 +1240,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 83,
+      "jobsSeen": 88,
       "relevantInternships": 5
     },
     {
@@ -1336,7 +1336,7 @@
       "careerPages": [
         "https://deepbluecap.com/vacancies/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1434,7 +1434,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 45,
+      "jobsSeen": 47,
       "relevantInternships": 1
     },
     {
@@ -1608,7 +1608,7 @@
       "careerPages": [
         "https://davincitrading.com/job/graduate-trader/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1624,7 +1624,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 14,
+      "jobsSeen": 6,
       "relevantInternships": 0
     },
     {
@@ -1664,7 +1664,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 62,
+      "jobsSeen": 61,
       "relevantInternships": 0
     },
     {
@@ -1733,7 +1733,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 15,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -1873,7 +1873,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 2,
-      "jobsSeen": 18,
+      "jobsSeen": 20,
       "relevantInternships": 0
     },
     {
@@ -1925,7 +1925,7 @@
       "careerPages": [
         "https://dolatcapital.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2036,10 +2036,10 @@
         "https://www.genevatrading.com/careers/",
         "https://job-boards.greenhouse.io/genevatrading"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 11,
-      "relevantInternships": 2
+      "jobsSeen": 16,
+      "relevantInternships": 5
     },
     {
       "company": "Glencore",
@@ -2233,7 +2233,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 46,
+      "jobsSeen": 45,
       "relevantInternships": 5
     },
     {
@@ -2288,9 +2288,9 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/nksecuritiesresearch?error=true"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 14,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -2472,7 +2472,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 79,
+      "jobsSeen": 81,
       "relevantInternships": 12
     },
     {
@@ -2711,7 +2711,7 @@
       "careerPages": [
         "https://www.qube-rt.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3245,7 +3245,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 39,
+      "jobsSeen": 37,
       "relevantInternships": 1
     },
     {
@@ -3270,8 +3270,8 @@
       ],
       "livePages": 12,
       "attemptedPages": 12,
-      "jobsSeen": 9,
-      "relevantInternships": 1
+      "jobsSeen": 11,
+      "relevantInternships": 3
     },
     {
       "company": "Plutus Research",
@@ -3531,7 +3531,7 @@
       "careerPages": [
         "https://www.valkyrietrading.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3541,14 +3541,14 @@
       "sourceRosterNames": [
         "Viking Global Investors"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://job-boards.greenhouse.io/vikingglobalinvestors?error=true"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
-      "relevantInternships": 0
+      "jobsSeen": 4,
+      "relevantInternships": 1
     },
     {
       "company": "WEBB Traders",
@@ -3649,7 +3649,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 81,
+      "jobsSeen": 76,
       "relevantInternships": 0
     },
     {
@@ -3764,7 +3764,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 29,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -3820,7 +3820,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 8,
       "relevantInternships": 1
     },
     {
@@ -3888,7 +3888,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 89,
+      "jobsSeen": 90,
       "relevantInternships": 12
     },
     {
@@ -3931,7 +3931,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 51,
+      "jobsSeen": 49,
       "relevantInternships": 13
     },
     {
@@ -3947,7 +3947,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 30,
+      "jobsSeen": 27,
       "relevantInternships": 1
     },
     {
@@ -3977,8 +3977,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 16,
-      "relevantInternships": 2
+      "jobsSeen": 19,
+      "relevantInternships": 3
     },
     {
       "company": "Wincent",
@@ -4223,7 +4223,7 @@
       "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 104,
-      "relevantInternships": 7
+      "relevantInternships": 6
     },
     {
       "company": "Xantium",
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 84,
+      "jobsSeen": 89,
       "relevantInternships": 1
     },
     {
@@ -4267,7 +4267,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 4,
+      "jobsSeen": 2,
       "relevantInternships": 1
     }
   ]

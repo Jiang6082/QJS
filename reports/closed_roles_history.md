@@ -1,9 +1,17 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 92
-Last updated: 2026-09-20T12:06:20.802Z
+Total closure events recorded: 97
+Last updated: 2026-09-23T13:34:42.967Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-09-23 (5)
+
+- **DL Trading** - [Quantitative Trading Internship - 2027](https://www.dltrading.io/careers?gh_jid=7814754003) - Chicago, Illinois, United States
+- **Goldman Sachs** - [2027 | EMEA | London | Wealth Management, Quantitative Finance | Summer Analyst](https://higher.gs.com/roles/170860) - London, Greater London, England, United Kingdom
+- **WorldQuant** - [Quantitative Research Intern (LLMs & AI Agents)](https://job-boards.greenhouse.io/worldquant/jobs/4434997006) - Hanoi or Ho Chi Minh City
+- **Goldman Sachs** - [2027 | EMEA | London | FICC & Equities (Sales & Trading) | Summer Analyst](https://higher.gs.com/roles/170675) - London, Greater London, England, United Kingdom
+- **Goldman Sachs** - [2027 | EMEA | Paris | FICC & Equities (Sales & Trading) | Summer Analyst](https://higher.gs.com/roles/170676) - Paris, Ile-de-France, France
 
 ### 2026-09-18 (2)
 
@@ -106,7 +114,7 @@ Closures require two independent successful observations of absence from the rol
 
 ### 2026-08-16 (1)
 
-- **Walleye Capital** - [Equity Volatility Quant Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) - Miami, FL
+- **Walleye Capital** - [Equity Volatility Quant Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) - Miami, FL — _reopened 2026-09-23_
 
 ### 2026-08-14 (3)
 
