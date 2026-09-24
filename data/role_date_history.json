@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T13:34:42.967Z",
+  "updatedAt": "2026-09-24T10:00:40.192Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -562,8 +562,8 @@
     "https://job-boards.greenhouse.io/flowtraders/jobs/8047166": {
       "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
       "first_seen": "2026-07-23",
-      "date": null,
-      "evidence": null
+      "date": "2026-07-08",
+      "evidence": "employer_field"
     },
     "https://job-boards.greenhouse.io/flowtraders/jobs/7100637": {
       "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/7100637",
@@ -4307,6 +4307,48 @@
       "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Platform-Technology-Co-op_R94902-1",
       "first_seen": "2026-09-23",
       "date": "2026-09-21",
+      "evidence": "employer_relative_label"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Developer---Systematic-Strategies--Summer-Internship-_REQ8625": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Developer---Systematic-Strategies--Summer-Internship-_REQ8625",
+      "first_seen": "2026-09-24",
+      "date": "2026-09-23",
+      "evidence": "employer_relative_label"
+    },
+    "capgroup|JR7385|campus: capital group rotational program data & technology track summer associate (charlotte nc, 2027)": {
+      "URL": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385",
+      "first_seen": "2026-09-24",
+      "date": "2026-09-23",
+      "evidence": "employer_relative_label"
+    },
+    "capgroup|JR7384|campus: capital group rotational program data & technology track summer associate (irvine, 2027)": {
+      "URL": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384",
+      "first_seen": "2026-09-24",
+      "date": "2026-09-23",
+      "evidence": "employer_relative_label"
+    },
+    "capgroup|JR7382|campus: capital group rotational program data & technology track summer associate (los angeles, 2027)": {
+      "URL": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382",
+      "first_seen": "2026-09-24",
+      "date": "2026-09-23",
+      "evidence": "employer_relative_label"
+    },
+    "capgroup|JR7383|campus: capital group rotational program data & technology track summer associate (new york, 2027)": {
+      "URL": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/CAMPUS--Data---Technology-Summer-Associate--New-York--2027-_JR7383",
+      "first_seen": "2026-09-24",
+      "date": "2026-09-23",
+      "evidence": "employer_relative_label"
+    },
+    "https://jobs.smartrecruiters.com/RRSGroup/744000151541069": {
+      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000151541069",
+      "first_seen": "2026-09-24",
+      "date": "2026-09-24",
+      "evidence": "employer_field"
+    },
+    "wellington|R94778|technology undergraduate summer internship": {
+      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778-1",
+      "first_seen": "2026-09-24",
+      "date": "2026-09-23",
       "evidence": "employer_relative_label"
     }
   }

@@ -1,9 +1,17 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 97
-Last updated: 2026-09-23T13:34:42.967Z
+Total closure events recorded: 102
+Last updated: 2026-09-24T10:00:40.192Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-09-24 (5)
+
+- **AXQ Capital** - [Quantitative Research Intern (Year-Round)](https://job-boards.greenhouse.io/axq/jobs/5575450004) - New York
+- **TransMarket Group** - [Software Engineering Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) - Chicago, Illinois, United States
+- **Tower Research Capital** - [Software Engineer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212158) - New York
+- **RRS Group** - [Associate IT Systems Administrator Intern - 2027](https://jobs.smartrecruiters.com/RRSGroup/744000150509779) - Remote
+- **Optiver** - [Software Engineer Co-Op (January - April 2027)](https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002) - Chicago, Illinois, United States
 
 ### 2026-09-23 (5)
 
@@ -41,7 +49,7 @@ Closures require two independent successful observations of absence from the rol
 - **Fidelity Investments** - [Equity Research Associate Intern Summer 2027 -Tokyo](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Tokyo-Japan/Equity-Research-Associate-Intern-Summer-2027--Tokyo_2132215) - Tokyo, Japan
 - **D. E. Shaw** - [Trader/Analyst Intern (London) – Summer 2027](https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2027-5862) - London
 - **DRW** - [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/8014919) - Singapore
-- **Flow Traders** - [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) - New York
+- **Flow Traders** - [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) - New York — _reopened 2026-09-24_
 
 ### 2026-09-10 (6)
 
@@ -55,7 +63,7 @@ Closures require two independent successful observations of absence from the rol
 ### 2026-09-09 (2)
 
 - **BMO Capital Markets** - [BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1) - Toronto, ON, CAN
-- **PGIM** - [2027 Technology, Internship Program](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Newark-NJ-USA/XMLNAME-2027-Technology--Internship-Program_R-124923-1) - 2 Locations
+- **PGIM** - [2027 Technology, Internship Program](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Newark-NJ-USA/XMLNAME-2027-Technology--Internship-Program_R-124923-1) - 2 Locations — _reopened 2026-09-24_
 
 ### 2026-09-08 (10)
 

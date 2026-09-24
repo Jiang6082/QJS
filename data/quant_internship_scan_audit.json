@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-23T13:34:20.733Z",
+  "scannedAt": "2026-09-24T10:00:08.332Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -182,14 +182,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:janestreet",
-          "count": 229
+          "count": 227
         },
         {
           "source": "Ashby:jane",
-          "count": 21
+          "count": 20
         }
       ],
-      "jobsSeen": 250,
+      "jobsSeen": 247,
       "relevantInternships": 0
     },
     {
@@ -273,10 +273,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:akunacapital",
-          "count": 40
+          "count": 42
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 42,
       "relevantInternships": 7
     },
     {
@@ -347,11 +347,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:axq",
-          "count": 25
+          "count": 23
         }
       ],
-      "jobsSeen": 25,
-      "relevantInternships": 2
+      "jobsSeen": 23,
+      "relevantInternships": 1
     },
     {
       "company": "Balyasny Asset Management",
@@ -432,10 +432,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:bridgewater89",
-          "count": 12
+          "count": 13
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -449,10 +449,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 43
+          "count": 44
         }
       ],
-      "jobsSeen": 43,
+      "jobsSeen": 44,
       "relevantInternships": 0
     },
     {
@@ -460,10 +460,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 43
+          "count": 44
         }
       ],
-      "jobsSeen": 43,
+      "jobsSeen": 44,
       "relevantInternships": 0
     },
     {
@@ -546,10 +546,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:dvtrading",
-          "count": 72
+          "count": 73
         }
       ],
-      "jobsSeen": 72,
+      "jobsSeen": 73,
       "relevantInternships": 18
     },
     {
@@ -664,11 +664,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 47
+          "count": 48
         }
       ],
-      "jobsSeen": 47,
-      "relevantInternships": 1
+      "jobsSeen": 48,
+      "relevantInternships": 2
     },
     {
       "company": "Freestone Grove Partners",
@@ -810,10 +810,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 172
+          "count": 173
         }
       ],
-      "jobsSeen": 172,
+      "jobsSeen": 173,
       "relevantInternships": 16
     },
     {
@@ -895,10 +895,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mako",
-          "count": 7
+          "count": 8
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -906,10 +906,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 59
+          "count": 60
         }
       ],
-      "jobsSeen": 59,
+      "jobsSeen": 60,
       "relevantInternships": 4
     },
     {
@@ -988,14 +988,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 163
+          "count": 164
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 163,
+      "jobsSeen": 164,
       "relevantInternships": 20
     },
     {
@@ -1166,10 +1166,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:schonfeld",
-          "count": 81
+          "count": 80
         }
       ],
-      "jobsSeen": 81,
+      "jobsSeen": 80,
       "relevantInternships": 6
     },
     {
@@ -1302,7 +1302,7 @@
         }
       ],
       "jobsSeen": 90,
-      "relevantInternships": 11
+      "relevantInternships": 10
     },
     {
       "company": "Tradebot",
@@ -1321,11 +1321,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:transmarketgroup",
-          "count": 19
+          "count": 18
         }
       ],
-      "jobsSeen": 19,
-      "relevantInternships": 4
+      "jobsSeen": 18,
+      "relevantInternships": 3
     },
     {
       "company": "Trexquant Investment",
