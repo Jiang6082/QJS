@@ -1,24 +1,28 @@
 # Cumulative application queue
 
-_Updated 2026-09-24. Roles remain in this ledger when they age out of the rolling 21-day report._
+_Updated 2026-09-25. Roles remain in this ledger when they age out of the rolling 21-day report._
 
-- **430** unique role URLs tracked
-- **379** active or manually verified today
-- **51** not detected in the latest scan
-- **9** new scanner URLs since the previous scan
+- **443** unique role URLs tracked
+- **388** active or manually verified today
+- **55** not detected in the latest scan
+- **13** new scanner URLs since the previous scan
 - **5** live Scientech roles verified on its nested official Ashby board
 
-## New scanner URLs since the previous scan (9)
+## New scanner URLs since the previous scan (13)
 
-- **RRS Group** — [Associate IT Systems Administrator Intern - 2027](https://jobs.smartrecruiters.com/RRSGroup/744000151541069) — Remote — released 2026-09-24
-- **Balyasny Asset Management** — [Quantitative Developer - Systematic Strategies (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Developer---Systematic-Strategies--Summer-Internship-_REQ8625) — New York, Boston, San Francisco, Chicago — released 2026-09-23
-- **Capital Group** — [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Charlotte NC, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385) — Charlotte — released 2026-09-23
-- **Capital Group** — [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Irvine, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384) — Irvine — released 2026-09-23
-- **Capital Group** — [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Los Angeles, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382) — Los Angeles — released 2026-09-23
-- **Capital Group** — [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (New York, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/CAMPUS--Data---Technology-Summer-Associate--New-York--2027-_JR7383) — New York — released 2026-09-23
-- **Wellington Management** — [Technology Undergraduate Summer Internship](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778-1) — Boston, MA, United States — released 2026-09-23
-- **PGIM** — [2027 Technology, Internship Program](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Newark-NJ-USA/XMLNAME-2027-Technology--Internship-Program_R-124923-1) — 2 Locations — released 2026-08-31
-- **Flow Traders** — [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) — New York — first seen 2026-07-23
+- **Equinor** — [Summer Internship 2027 UK - Market Analysis & Trading](https://equinor.wd3.myworkdayjobs.com/EQNR/job/London-Great-Britain/Summer-Internship-2027-UK---Market-Analysis---Trading_JR107239) — London, Great Britain — released 2026-09-25
+- **Equinor** — [Summer Internship 2027 US - Market Analysis & Trading](https://equinor.wd3.myworkdayjobs.com/EQNR/job/Houston-Texas/Summer-Internship-2027-US---Market-Analysis---Trading_JR107240) — 2 Locations — released 2026-09-25
+- **Equinor** — [Summer Internship Programme 2027 Norway - Finance & Trading](https://equinor.wd3.myworkdayjobs.com/EQNR/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Finance---Trading_JR107237) — 3 Locations — released 2026-09-25
+- **Equinor** — [Summer Internship Programme 2027 Norway - Strategy & Management](https://equinor.wd3.myworkdayjobs.com/EQNR/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Strategy---Management--Evergreen-_JR107245) — 5 Locations — released 2026-09-25
+- **Equinor** — [Summer Internship Programme 2027 Norway - Technology & Engineering](https://equinor.wd3.myworkdayjobs.com/EQNR/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Technology---Engineering--Evergreen-_JR107246) — 11 Locations — released 2026-09-25
+- **Gelber Group** — [Discretionary Trading Internship - Summer 2027](https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006) — Chicago, IL — released 2026-09-25
+- **RRS Group** — [2027 Associate Software Engineer Intern - Sophomore Only](https://jobs.smartrecruiters.com/RRSGroup/744000151931819) — Remote — released 2026-09-25
+- **BMO Capital Markets** — [AI Engineer, Winter 2027 (Co-op/Internship) - 8 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1) — Toronto, ON, CAN — released 2026-09-24
+- **Brevan Howard** — [2027 Summer Internship Program – Systematic Trading, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619) — London — released 2026-09-24
+- **Goldman Sachs** — [2027 \| Americas \| Dallas \| Banking Analytics & Solutions Group \| Summer Analyst](https://higher.gs.com/roles/185351) — Dallas, TX, United States — released 2026-09-24
+- **Susquehanna International Group** — [Machine Learning Engineering Internship](https://careers.sig.com/jobs/11555?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania — released 2026-09-24
+- **Voloridge** — [Quantitative Trading Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009) — Jupiter, FL — released 2026-09-24
+- **DRW** — [Software Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) — Singapore — first seen 2026-07-23
 
 ## Scientech roles verified on the nested official board (5)
 
@@ -30,7 +34,7 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Scientech Research Capital** — [Quantitative Researcher Intern](https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80) — New Jersey — released 2025-01-23
 - **Scientech Research Capital** — [Quantitative Researcher Intern](https://jobs.ashbyhq.com/scientech-research/c344ad5a-b148-4a96-8d6c-a660e6f86896) — Shanghai — released 2025-01-23
 
-## Active cumulative queue (379)
+## Active cumulative queue (388)
 
 ### AlphaGrep (1)
 
@@ -129,8 +133,9 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **BlackRock** — [2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476) — San Francisco, CA — released 2026-09-15
 - **BlackRock** — [2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465) — London, Greater London — released 2026-09-15
 
-### BMO Capital Markets (4)
+### BMO Capital Markets (5)
 
+- **BMO Capital Markets** — [AI Engineer, Winter 2027 (Co-op/Internship) - 8 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1) — Toronto, ON, CAN — released 2026-09-24
 - **BMO Capital Markets** — [Software Developer, Winter 2027 (Internship) - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2) — San Ramon, CA, USA — released 2026-09-18
 - **BMO Capital Markets** — [Portfolio Assistant, Winter 2027 (Co-op/Internship), Montreal - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Portfolio-Assistant--Winter-2027--Co-op-Internship---Montreal---4-months_R260025949-2) — MONTREAL, QC, CAN — released 2026-09-14
 - **BMO Capital Markets** — [Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3) — Toronto, ON, CAN — released 2026-09-14
@@ -140,15 +145,14 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 
 - **BNP Paribas** — [2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading](https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading) — New York, US — first seen 2026-08-30
 
-### BP (4)
+### BP (2)
 
 - **BP** — [Summer Internship-Technology-Data & AI- Malaysia](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2) — Malaysia - Kuala Lumpur — released 2026-09-07
 - **BP** — [Summer Internship-Technology-Enterprise Technology- Malaysia](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Enterprise-Technology--Malaysia_RQ115470-1) — Malaysia - Kuala Lumpur — released 2026-09-07
-- **BP** — [6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2) — Singapore - Singapore — released 2026-08-14
-- **BP** — [Summer Internship - Finance & Risk - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217) — Singapore - Singapore — released 2026-08-14
 
-### Brevan Howard (12)
+### Brevan Howard (13)
 
+- **Brevan Howard** — [2027 Summer Internship Program – Systematic Trading, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619) — London — released 2026-09-24
 - **Brevan Howard** — [2027 Summer Internship Program - AI & Quantitative Analyst, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605) — London — released 2026-09-22
 - **Brevan Howard** — [2027 Summer Internship Program - AI & Quantitative Analyst, Abu Dhabi](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--Abu-Dhabi_JR101613) — Abu Dhabi — released 2026-09-21
 - **Brevan Howard** — [2027 Summer Internship Program – Trading, Geneva](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607) — Geneva — released 2026-09-15
@@ -192,10 +196,11 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Dimensional Fund Advisors** — [Internship in Investment/Strategy Research (Undergraduate & Master's)](https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Investment-Strategy-Research--Undergraduate-and-Masters-_2026-9037) — 2 Locations — released 2026-08-27
 - **Dimensional Fund Advisors** — [Internship in Portfolio Management (Undergraduate & Master's)](https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Portfolio-Management--Undergraduate---Master-s-_2026-8998) — 2 Locations — released 2026-08-18
 
-### DRW (2)
+### DRW (3)
 
 - **DRW** — [Software Engineer Intern (Data Engineering)](https://job-boards.greenhouse.io/drweng/jobs/8127242) — Singapore — released 2026-08-13
 - **DRW** — [Platform Engineer Intern](https://job-boards.greenhouse.io/drweng/jobs/7997729) — Chicago — released 2026-07-30
+- **DRW** — [Software Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) — Singapore — first seen 2026-07-23
 
 ### DV Trading (17)
 
@@ -217,6 +222,14 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) — New York — released 2026-08-10
 - **DV Trading** — [Quantitative Risk Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) — Chicago — released 2026-08-04
 
+### Equinor (5)
+
+- **Equinor** — [Summer Internship 2027 UK - Market Analysis & Trading](https://equinor.wd3.myworkdayjobs.com/EQNR/job/London-Great-Britain/Summer-Internship-2027-UK---Market-Analysis---Trading_JR107239) — London, Great Britain — released 2026-09-25
+- **Equinor** — [Summer Internship 2027 US - Market Analysis & Trading](https://equinor.wd3.myworkdayjobs.com/EQNR/job/Houston-Texas/Summer-Internship-2027-US---Market-Analysis---Trading_JR107240) — 2 Locations — released 2026-09-25
+- **Equinor** — [Summer Internship Programme 2027 Norway - Finance & Trading](https://equinor.wd3.myworkdayjobs.com/EQNR/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Finance---Trading_JR107237) — 3 Locations — released 2026-09-25
+- **Equinor** — [Summer Internship Programme 2027 Norway - Strategy & Management](https://equinor.wd3.myworkdayjobs.com/EQNR/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Strategy---Management--Evergreen-_JR107245) — 5 Locations — released 2026-09-25
+- **Equinor** — [Summer Internship Programme 2027 Norway - Technology & Engineering](https://equinor.wd3.myworkdayjobs.com/EQNR/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Technology---Engineering--Evergreen-_JR107246) — 11 Locations — released 2026-09-25
+
 ### Fidelity Investments (2)
 
 - **Fidelity Investments** — [Summer 2027 Undergraduate Internship - Audit, Risk, & Compliance](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Summer-2027-Undergraduate-Internship---Audit--Risk----Compliance_2134161-1) — 6 Locations — released 2026-09-21
@@ -231,6 +244,10 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Flow Traders** — [Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8102618) — Hong Kong — released 2026-08-04
 - **Flow Traders** — [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) — New York — first seen 2026-07-23
 
+### Gelber Group (1)
+
+- **Gelber Group** — [Discretionary Trading Internship - Summer 2027](https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006) — Chicago, IL — released 2026-09-25
+
 ### Geneva Trading (5)
 
 - **Geneva Trading** — [Python Developer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242196007) — Chicago Office — released 2026-09-22
@@ -239,8 +256,10 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Geneva Trading** — [AI Engineer Internship - Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5240107007) — Chicago Office — released 2026-09-17
 - **Geneva Trading** — [Quantitative Trading Internship – Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5232641007) — Chicago Office — released 2026-09-10
 
-### Goldman Sachs (60)
+### Goldman Sachs (61)
 
+- **Goldman Sachs** — [2027 \| EMEA \| London \| Global Investment Research, Equity Research \| Summer Analyst](https://higher.gs.com/roles/170863) — London, Greater London, England, United Kingdom — released 2026-09-25
+- **Goldman Sachs** — [2027 \| Americas \| Dallas \| Banking Analytics & Solutions Group \| Summer Analyst](https://higher.gs.com/roles/185351) — Dallas, TX, United States — released 2026-09-24
 - **Goldman Sachs** — [2027 \| APEJ \| Hong Kong \| FICC and Equities (Sales and Trading) Quantitative Strats \| Summer Analyst](https://higher.gs.com/roles/169905) — Hong Kong, Hong Kong — released 2026-09-23
 - **Goldman Sachs** — [2027 \| APEJ \| Hong Kong \| FICC and Equities (Sales and Trading) Quantitative Strats \| Summer Associate](https://higher.gs.com/roles/169906) — Hong Kong, Hong Kong — released 2026-09-23
 - **Goldman Sachs** — [2027 \| APEJ \| Hong Kong \| Global Investment Research \| Summer Analyst](https://higher.gs.com/roles/170819) — Hong Kong, Hong Kong — released 2026-09-23
@@ -255,7 +274,6 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Goldman Sachs** — [2027 \| EMEA \| London \| FICC & Equities (Sales & Trading) \| Seasonal/OffCycle](https://higher.gs.com/roles/171437) — London, Greater London, England, United Kingdom — released 2026-09-18
 - **Goldman Sachs** — [2027 \| EMEA \| Paris \| FICC & Equities (Sales & Trading) \| Seasonal/OffCycle](https://higher.gs.com/roles/171438) — Paris, Ile-de-France, France — released 2026-09-18
 - **Goldman Sachs** — [2027 \| Japan \| Tokyo \| Global Investment Research \| Summer Analyst](https://higher.gs.com/roles/170821) — Tokyo, Japan — released 2026-09-18
-- **Goldman Sachs** — [2027 \| EMEA \| London \| Global Investment Research, Equity Research \| Summer Analyst](https://higher.gs.com/roles/170863) — London, Greater London, England, United Kingdom — released 2026-09-15
 - **Goldman Sachs** — [2027 \| Americas \| Dallas Metro Area \| Internal Audit, Technology Audit \| Summer Analyst](https://higher.gs.com/roles/170724) — Dallas, TX, United States — first seen 2026-09-13
 - **Goldman Sachs** — [2027 \| Americas \| Dallas Metro Area \| Risk \| Summer Analyst](https://higher.gs.com/roles/164006) — Dallas, TX, United States — first seen 2026-09-13
 - **Goldman Sachs** — [2027 \| Americas \| New York City Area \| Internal Audit, Technology Audit \| Summer Analyst](https://higher.gs.com/roles/170695) — New York, NY, United States — first seen 2026-09-13
@@ -415,10 +433,9 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Peak6** — [Trading Bootcamp Micro-Internship - Summer 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057-1) — Chicago, IL — released 2026-08-11
 - **Peak6** — [Trading Internship for Women+ Summer 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Internship-for-Women--Summer-2027_JR105061) — Chicago, IL — released 2026-08-11
 
-### PGIM (2)
+### PGIM (1)
 
 - **PGIM** — [PGIM \| Intern, Real Estate Private Equity Portfolio Management (all genders) as of Q1 2027, Based in Frankfurt](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1) — Frankfurt, Germany — released 2026-09-14
-- **PGIM** — [2027 Technology, Internship Program](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Newark-NJ-USA/XMLNAME-2027-Technology--Internship-Program_R-124923-1) — 2 Locations — released 2026-08-31
 
 ### PIMCO (17)
 
@@ -467,11 +484,12 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Qube Research & Technologies** — [2027 – Internship or Graduate, FPGA Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002) — Hong Kong — released 2026-08-26
 - **Qube Research & Technologies** — [2027 – Internship, Data Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002) — Hong Kong, Singapore — released 2026-08-26
 - **Qube Research & Technologies** — [2027 – Internship, Infrastructure Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002) — Hong Kong, Singapore, Shanghai — released 2026-08-26
+- **Qube Research & Technologies** — [2027 – Internship or Graduate, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002) — Hong Kong, Singapore, Shanghai, Beijing — released 2026-08-24
 - **Qube Research & Technologies** — [2027 – Internship or Graduate, Software Engineer and Quantitative Developer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002) — Hong Kong, Singapore — released 2026-08-24
-- **Qube Research & Technologies** — [2027 – Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002) — Hong Kong, Singapore, Shanghai, Beijing — released 2026-08-24
 
-### RRS Group (1)
+### RRS Group (2)
 
+- **RRS Group** — [2027 Associate Software Engineer Intern - Sophomore Only](https://jobs.smartrecruiters.com/RRSGroup/744000151931819) — Remote — released 2026-09-25
 - **RRS Group** — [Associate IT Systems Administrator Intern - 2027](https://jobs.smartrecruiters.com/RRSGroup/744000151541069) — Remote — released 2026-09-24
 
 ### Schonfeld (11)
@@ -500,8 +518,9 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 
 - **Squarepoint Capital** — [Intern Software Developer - Montreal - 2027](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) — Montreal — first seen 2026-08-19
 
-### Susquehanna International Group (12)
+### Susquehanna International Group (13)
 
+- **Susquehanna International Group** — [Machine Learning Engineering Internship](https://careers.sig.com/jobs/11555?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania — released 2026-09-24
 - **Susquehanna International Group** — [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania — released 2026-09-15
 - **Susquehanna International Group** — [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania — released 2026-09-15
 - **Susquehanna International Group** — [Machine Learning Internship - PhD: 2027](https://careers.sig.com/jobs/11381?lang=en-us) — Hong Kong, Hong Kong — released 2026-09-06
@@ -525,7 +544,7 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 
 - **Talos** — [Software Engineer Intern, Infrastructure](https://jobs.ashbyhq.com/Talos-Trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935) — London — released 2026-09-16
 - **Talos** — [Software Engineer Intern, Trading](https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d) — London — released 2026-09-16
-- **Talos** — [Quantitative Analyst Intern](https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b) — New York — released 2026-09-08
+- **Talos** — [Quantitative Analyst Intern](https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b) — London, NYC — released 2026-09-08
 - **Talos** — [Software Engineer Intern, Dealer](https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977) — New York — released 2026-09-08
 - **Talos** — [Software Engineer Intern, RFQ](https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285) — New York — released 2026-09-08
 
@@ -582,6 +601,10 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Voleon Group** — [Research Intern (London)](https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e) — London — released 2026-09-16
 - **Voleon Group** — [Software Engineer Intern - (Summer 2027)](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6) — Berkeley, CA — released 2026-08-14
 
+### Voloridge (1)
+
+- **Voloridge** — [Quantitative Trading Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009) — Jupiter, FL — released 2026-09-24
+
 ### Walleye Capital (1)
 
 - **Walleye Capital** — [Equity Volatility Quant Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) — Miami, FL — first seen 2026-07-23
@@ -594,16 +617,12 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Wellington Management** — [Portfolio Reference Data Analyst Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829) — Boston, MA, United States — released 2026-09-16
 - **Wellington Management** — [Quantitative Trading Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1) — Boston, MA, United States — released 2026-09-16
 
-### WorldQuant (1)
-
-- **WorldQuant** — [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006) — Paris — first seen 2026-09-07
-
 ### Xantium (2)
 
 - **Xantium** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) — London, England, New York, New York — released 2026-08-17
 - **Xantium** — [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York — released 2026-08-17
 
-## Not detected in the latest scan (51)
+## Not detected in the latest scan (55)
 
 _These entries are preserved for history. A single missing scan is not proof that an employer closed the posting._
 
@@ -629,6 +648,7 @@ _These entries are preserved for history. A single missing scan is not proof tha
 - **BMO Capital Markets** — [Software Developer, Winter 2027 (Co-op/Internship) - 12 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-1) — Toronto, ON, CAN — released 2026-09-07
 - **BMO Capital Markets** — [Software Developer, Winter 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638) — Toronto, ON, CAN — released 2026-09-07
 - **BMO Capital Markets** — [Software Developer, Winter 2027 (Co-op/Internship) - 8 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-3) — Toronto, ON, CAN — released 2026-09-07
+- **WorldQuant** — [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006) — Paris — first seen 2026-09-07
 - **Susquehanna International Group** — [Technology Co-op with McGill University](https://careers.sig.com/jobs/11379?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania — released 2026-09-04
 - **T. Rowe Price** — [2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) — Baltimore, MD — released 2026-09-04
 - **Invesco** — [Early Career Intern - Strategy and Transformation](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Strategy-and-Transformation_R-15374-1) — Atlanta, Georgia — released 2026-09-03
@@ -637,6 +657,7 @@ _These entries are preserved for history. A single missing scan is not proof tha
 - **PIMCO** — [2027 PhD Summer Intern – Quantitative Portfolio Management](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) — Newport Beach, CA USA — released 2026-09-01
 - **Fidelity Investments** — [Equity Research Associate Intern - Hong Kong (Summer 2027)](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/38F-One-International-Finance-Centre-Central-Hong-Kong/Equity-Research-Associate-Intern---Hong-Kong--Summer-2027-_2132214) — 38/F One International Finance Centre, Central Hong Kong — released 2026-08-31
 - **Fidelity Investments** — [Equity Research Associate Intern Summer 2027 -Tokyo](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Tokyo-Japan/Equity-Research-Associate-Intern-Summer-2027--Tokyo_2132215) — Tokyo, Japan — released 2026-08-31
+- **PGIM** — [2027 Technology, Internship Program](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Newark-NJ-USA/XMLNAME-2027-Technology--Internship-Program_R-124923-1) — 2 Locations — released 2026-08-31
 - **Deutsche Bank** — [DWS Liquidity Risk Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Liquidity-Risk-Intern_R0446573-1) — Luxembourg 2 Blvd K. Adenauer — released 2026-08-27
 - **BMO Capital Markets** — [BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) — Toronto, ON, CAN — released 2026-08-26
 - **Connor Clark & Lunn** — [Intern, Quantitative Developer](https://job-boards.greenhouse.io/cclim/jobs/4383943009) — Vancouver, British Columbia, Canada — released 2026-08-26
@@ -648,6 +669,8 @@ _These entries are preserved for history. A single missing scan is not proof tha
 - **Goldman Sachs** — [2027 \| Americas \| New York City Area \| Wealth Management, Quantitative Finance \| Summer Analyst](https://higher.gs.com/roles/155800) — New York — first seen 2026-08-17
 - **Point72** — [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) — New York — released 2026-08-17
 - **Goldman Sachs** — [2027 \| EMEA \| London \| Wealth Management, Quantitative Finance \| Summer Analyst](https://higher.gs.com/roles/170860) — London, Greater London, England, United Kingdom — released 2026-08-15
+- **BP** — [6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2) — Singapore - Singapore — released 2026-08-14
+- **BP** — [Summer Internship - Finance & Risk - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217) — Singapore - Singapore — released 2026-08-14
 - **BP** — [Summer Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2) — Singapore - Singapore — released 2026-08-14
 - **TransMarket Group** — [Software Engineering Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) — Chicago, Illinois, United States — released 2026-08-14
 - **Invesco** — [Early Career Intern - Investments (Risk)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1) — New York, New York — released 2026-08-11

@@ -1,37 +1,38 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-09-24T10:00:40.192Z
+Last updated: 2026-09-26T00:21:40.686Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 513
-- Current retained roles: 584
-- New stable job URLs since previous scan: 9
+- Current retained roles: 589
+- New stable job URLs since previous scan: 13
 - No longer present since previous scan: 5
-- Missing without enough closure evidence: 55
-- Matching-role firms: 51
+- Missing without enough closure evidence: 58
+- Matching-role firms: 52
 - Confirmed no open postings: 3
-- Openings but no matching role: 35
+- Openings but no matching role: 34
 - Could not fully verify: 215
 
 ## New Roles Since Previous Scan
 
 ### North America (5)
 
-- **Balyasny Asset Management** - [Quantitative Developer - Systematic Strategies (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Developer---Systematic-Strategies--Summer-Internship-_REQ8625) - New York, Boston, San Francisco, Chicago
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Los Angeles, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382) - Los Angeles
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (New York, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/CAMPUS--Data---Technology-Summer-Associate--New-York--2027-_JR7383) - New York
-- **Flow Traders** - [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) - New York
-- **Wellington Management** - [Technology Undergraduate Summer Internship](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778-1) - Boston, MA, United States
+- **BMO Capital Markets** - [AI Engineer, Winter 2027 (Co-op/Internship) - 8 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1) - Toronto, ON, CAN
+- **Gelber Group** - [Discretionary Trading Internship - Summer 2027](https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006) - Chicago, IL
+- **Goldman Sachs** - [2027 | Americas | Dallas | Banking Analytics & Solutions Group | Summer Analyst](https://higher.gs.com/roles/185351) - Dallas, TX, United States
+- **Susquehanna International Group** - [Machine Learning Engineering Internship](https://careers.sig.com/jobs/11555?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Voloridge** - [Quantitative Trading Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009) - Jupiter, FL
 
-### Europe (0)
+### Europe (2)
 
-_None._
+- **Brevan Howard** - [2027 Summer Internship Program – Systematic Trading, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619) - London
+- **Equinor** - [Summer Internship 2027 UK - Market Analysis & Trading](https://equinor.wd3.myworkdayjobs.com/EQNR/job/London-Great-Britain/Summer-Internship-2027-UK---Market-Analysis---Trading_JR107239) - London, Great Britain
 
-### Asia (0)
+### Asia (1)
 
-_None._
+- **DRW** - [Software Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) - Singapore
 
 ### Oceania (0)
 
@@ -53,20 +54,21 @@ _None._
 
 _None._
 
-### Remote / Unspecified (4)
+### Remote / Unspecified (5)
 
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Charlotte NC, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385) - Charlotte
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Irvine, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384) - Irvine
-- **PGIM** - [2027 Technology, Internship Program](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Newark-NJ-USA/XMLNAME-2027-Technology--Internship-Program_R-124923-1) - 2 Locations
-- **RRS Group** - [Associate IT Systems Administrator Intern - 2027](https://jobs.smartrecruiters.com/RRSGroup/744000151541069) - Remote
+- **Equinor** - [Summer Internship 2027 US - Market Analysis & Trading](https://equinor.wd3.myworkdayjobs.com/EQNR/job/Houston-Texas/Summer-Internship-2027-US---Market-Analysis---Trading_JR107240) - 2 Locations
+- **Equinor** - [Summer Internship Programme 2027 Norway - Finance & Trading](https://equinor.wd3.myworkdayjobs.com/EQNR/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Finance---Trading_JR107237) - 3 Locations
+- **Equinor** - [Summer Internship Programme 2027 Norway - Strategy & Management](https://equinor.wd3.myworkdayjobs.com/EQNR/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Strategy---Management--Evergreen-_JR107245) - 5 Locations
+- **Equinor** - [Summer Internship Programme 2027 Norway - Technology & Engineering](https://equinor.wd3.myworkdayjobs.com/EQNR/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Technology---Engineering--Evergreen-_JR107246) - 11 Locations
+- **RRS Group** - [2027 Associate Software Engineer Intern - Sophomore Only](https://jobs.smartrecruiters.com/RRSGroup/744000151931819) - Remote
 
 ## No Longer Present
 
-- **AXQ Capital** - [Quantitative Research Intern (Year-Round)](https://job-boards.greenhouse.io/axq/jobs/5575450004) - New York
-- **TransMarket Group** - [Software Engineering Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) - Chicago, Illinois, United States
-- **Tower Research Capital** - [Software Engineer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212158) - New York
-- **RRS Group** - [Associate IT Systems Administrator Intern - 2027](https://jobs.smartrecruiters.com/RRSGroup/744000150509779) - Remote
-- **Optiver** - [Software Engineer Co-Op (January - April 2027)](https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002) - Chicago, Illinois, United States
+- **AQR Capital Management** - [2027 Risk Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926692&gh_jid=7926692) - Greenwich, CT
+- **Point72** - [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) - Hong Kong
+- **Point72** - [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) - Singapore
+- **WorldQuant** - [Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4655484006) - Budapest
+- **WorldQuant** - [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006) - Paris
 
 ## Full Reports
 

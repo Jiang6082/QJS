@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T10:00:40.192Z",
+  "updatedAt": "2026-09-26T00:21:40.686Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -460,8 +460,8 @@
     "https://job-boards.greenhouse.io/drweng/jobs/7981754": {
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7981754",
       "first_seen": "2026-07-23",
-      "date": null,
-      "evidence": null
+      "date": "2026-07-13",
+      "evidence": "employer_field"
     },
     "https://job-boards.greenhouse.io/drweng/jobs/7957756": {
       "URL": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
@@ -3826,7 +3826,7 @@
     "https://higher.gs.com/roles/170863": {
       "URL": "https://higher.gs.com/roles/170863",
       "first_seen": "2026-09-13",
-      "date": "2026-09-15",
+      "date": "2026-09-25",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/172894": {
@@ -4350,6 +4350,78 @@
       "first_seen": "2026-09-24",
       "date": "2026-09-23",
       "evidence": "employer_relative_label"
+    },
+    "bmo|R260027622|ai engineer, winter 2027 (co-op/internship) - 8 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1",
+      "first_seen": "2026-09-25",
+      "date": "2026-09-24",
+      "evidence": "employer_relative_label"
+    },
+    "brevanhoward|JR101619|2027 summer internship program – systematic trading, london": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619",
+      "first_seen": "2026-09-25",
+      "date": "2026-09-24",
+      "evidence": "employer_relative_label"
+    },
+    "equinor|JR107239|summer internship 2027 uk - market analysis & trading": {
+      "URL": "https://equinor.wd3.myworkdayjobs.com/EQNR/job/London-Great-Britain/Summer-Internship-2027-UK---Market-Analysis---Trading_JR107239",
+      "first_seen": "2026-09-25",
+      "date": "2026-09-25",
+      "evidence": "employer_relative_label"
+    },
+    "equinor|JR107240|summer internship 2027 us - market analysis & trading": {
+      "URL": "https://equinor.wd3.myworkdayjobs.com/EQNR/job/Houston-Texas/Summer-Internship-2027-US---Market-Analysis---Trading_JR107240",
+      "first_seen": "2026-09-25",
+      "date": "2026-09-25",
+      "evidence": "employer_relative_label"
+    },
+    "equinor|JR107237|summer internship programme 2027 norway - finance & trading": {
+      "URL": "https://equinor.wd3.myworkdayjobs.com/EQNR/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Finance---Trading_JR107237",
+      "first_seen": "2026-09-25",
+      "date": "2026-09-25",
+      "evidence": "employer_relative_label"
+    },
+    "equinor|JR107245|summer internship programme 2027 norway - strategy & management": {
+      "URL": "https://equinor.wd3.myworkdayjobs.com/EQNR/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Strategy---Management--Evergreen-_JR107245",
+      "first_seen": "2026-09-25",
+      "date": "2026-09-25",
+      "evidence": "employer_relative_label"
+    },
+    "equinor|JR107246|summer internship programme 2027 norway - technology & engineering": {
+      "URL": "https://equinor.wd3.myworkdayjobs.com/EQNR/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Technology---Engineering--Evergreen-_JR107246",
+      "first_seen": "2026-09-25",
+      "date": "2026-09-25",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006": {
+      "URL": "https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006",
+      "first_seen": "2026-09-25",
+      "date": "2026-09-25",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/185351": {
+      "URL": "https://higher.gs.com/roles/185351",
+      "first_seen": "2026-09-25",
+      "date": "2026-09-24",
+      "evidence": "employer_field"
+    },
+    "https://jobs.smartrecruiters.com/RRSGroup/744000151931819": {
+      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000151931819",
+      "first_seen": "2026-09-25",
+      "date": "2026-09-25",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11555?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11555?lang=en-us",
+      "first_seen": "2026-09-25",
+      "date": "2026-09-24",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009": {
+      "URL": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009",
+      "first_seen": "2026-09-25",
+      "date": "2026-09-24",
+      "evidence": "employer_field"
     }
   }
 }

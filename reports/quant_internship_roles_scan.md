@@ -1,8 +1,8 @@
 # Quant Internship Open Roles Scan
 
-Scanned: 2026-09-24T10:00:08.332Z
+Scanned: 2026-09-26T00:21:14.067Z
 Companies deduplicated: 174
-Open relevant roles found: 204
+Open relevant roles found: 201
 
 Criteria used: open ATS posting, internship/co-op wording, quant/trading/software/developer/research/engineering/strategy domain, excluding obvious new-grad/full-time/PhD-only roles. Graduation years are eligibility metadata, not internship timing.
 
@@ -28,13 +28,13 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **DV Trading** — [2027 Software Developer Intern  (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733880005) — Hong Kong (Greenhouse:dvtrading; posted=2026-09-15T23:39:37-04:00; internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **DV Trading** — [AI Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732429005) — Chicago (Greenhouse:dvtrading; posted=2026-09-09T15:13:24-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732683005) — Chicago (Greenhouse:dvtrading; posted=2026-09-10T10:06:46-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
-- **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005) — New York (Greenhouse:dvtrading; posted=2026-09-10T10:08:34-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005) — London (Greenhouse:dvtrading; posted=2026-09-10T10:11:10-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
+- **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005) — New York (Greenhouse:dvtrading; posted=2026-09-10T10:08:34-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **DV Trading** — [DevOps Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4730886005) — Chicago (Greenhouse:dvtrading; posted=2026-09-09T15:08:19-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **DV Trading** — [Futures & Options Trading Analyst Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) — New York (Greenhouse:dvtrading; posted=2026-08-25T17:26:43-04:00; internship timing: Summer 2027; undergrad/BS/MS language found)
 - **DV Trading** — [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) — New York (Greenhouse:dvtrading; posted=2026-09-11T10:45:34-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **DV Trading** — [Quantitative Risk Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) — Chicago (Greenhouse:dvtrading; posted=2026-08-04T14:55:54-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
-- **DV Trading** — [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) — New York (Greenhouse:dvtrading; posted=2026-09-11T10:38:34-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027; undergrad/BS/MS language found)
+- **DV Trading** — [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) — New York (Greenhouse:dvtrading; posted=2026-09-11T10:38:34-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **DV Trading** — [Quantitative Trading Intern (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4691295005) — Hong Kong (Greenhouse:dvtrading; posted=2026-05-04T17:50:45-04:00; internship timing not stated in title; graduation eligibility mentions: 2027; undergrad/BS/MS language found)
 - **DV Trading** — [Security Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4736603005) — London (Greenhouse:dvtrading; posted=2026-09-22T09:52:06-04:00; internship timing: Summer 2027; undergrad/BS/MS language found)
 - **DV Trading** — [Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) — New York (Greenhouse:dvtrading; posted=2026-09-11T10:48:29-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
@@ -48,6 +48,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Five Rings** — [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) — New York (Greenhouse:fiveringsllc; posted=2026-07-14T13:51:03-04:00; internship timing: Summer)
 - **Flow Traders** — [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) — New York (Greenhouse:flowtraders; posted=2026-07-08T15:27:38-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **Flow Traders** — [Trading Intern ](https://job-boards.greenhouse.io/flowtraders/jobs/8102618) — Hong Kong (Greenhouse:flowtraders; posted=2026-08-04T03:37:55-04:00; internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
+- **Gelber Group** — [Discretionary Trading Internship - Summer 2027](https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006) — Chicago, IL (Greenhouse:gelbergroup; posted=2026-09-25T17:18:06-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **Geneva Trading** — [AI Engineer Internship - Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5240107007) — Chicago Office (Greenhouse:genevatrading; posted=2026-09-17T12:31:45-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2026, 2027; undergrad/BS/MS language found)
 - **Geneva Trading** — [C++ Developer (Intern) ](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) — Chicago Office (Greenhouse:genevatrading; posted=2026-09-21T15:25:46-04:00; internship timing not stated in title; graduation eligibility mentions: 2024, 2026; undergrad/BS/MS language found)
 - **Geneva Trading** — [Python Developer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242196007) — Chicago Office (Greenhouse:genevatrading; posted=2026-09-22T09:51:46-04:00; internship timing not stated in title; undergrad/BS/MS language found)
@@ -122,8 +123,8 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Optiver** — [FPGA Engineer Intern (Summer 2027 - Austin)](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) — Austin, Texas, United States (Greenhouse:optiverus; posted=2026-07-21T09:38:05-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **Optiver** — [FPGA Engineer Intern (Summer 2027 - Chicago)](https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002) — Chicago, Illinois, United States (Greenhouse:optiverus; posted=2026-06-16T09:41:40-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **Optiver** — [FPGA Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713775002/?gh_jid=8713775002) — Amsterdam, North Holland, Netherlands (Greenhouse:optiverus; posted=2026-08-17T07:19:48-04:00; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
-- **Optiver** — [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) — Austin, Texas, United States (Greenhouse:optiverus; posted=2026-08-05T10:27:35-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2029; undergrad/BS/MS language found)
 - **Optiver** — [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) — Chicago, Illinois, United States (Greenhouse:optiverus; posted=2026-07-01T14:42:47-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2029; undergrad/BS/MS language found)
+- **Optiver** — [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) — Austin, Texas, United States (Greenhouse:optiverus; posted=2026-08-05T10:27:35-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2029; undergrad/BS/MS language found)
 - **Optiver** — [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002) — Amsterdam, North Holland, Netherlands (Greenhouse:optiverus; posted=2026-08-17T07:16:55-04:00; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **Optiver** — [Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)](https://www.optiver.com/join-us/jobs/8644376002/?gh_jid=8644376002) — Shanghai, China (Greenhouse:optiverus; posted=2026-08-12T23:29:42-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found)
 - **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002) — Amsterdam, North Holland, Netherlands (Greenhouse:optiverus; posted=2026-08-17T07:14:56-04:00; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
@@ -132,13 +133,11 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Optiver** — [Quantitative Trading Internship (Taiwan) - 2027](https://www.optiver.com/join-us/jobs/8011956002/?gh_jid=8011956002) — Taipei, Taiwan (Greenhouse:optiverus; posted=2025-06-27T03:33:01-04:00; internship timing not stated in title; graduation eligibility mentions: 2026; undergrad/BS/MS language found)
 - **Optiver** — [Software Engineer Intern (Summer 2027 - Austin)](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) — Austin, Texas, United States (Greenhouse:optiverus; posted=2026-07-01T14:43:13-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **Optiver** — [Software Engineer Intern (Summer 2027 - Chicago)](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) — Chicago, Illinois, United States (Greenhouse:optiverus; posted=2026-07-01T14:43:10-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
-- **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) — London, England, United Kingdom (Greenhouse:optiverus; posted=2026-08-17T07:16:49-04:00; internship timing not stated in title; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found)
 - **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) — Amsterdam, North Holland, Netherlands (Greenhouse:optiverus; posted=2026-08-17T07:16:48-04:00; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
+- **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) — London, England, United Kingdom (Greenhouse:optiverus; posted=2026-08-17T07:16:49-04:00; internship timing not stated in title; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found)
 - **Optiver** — [Trading Automation and Operations Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002) — Chicago, Illinois, United States (Greenhouse:optiverus; posted=2026-07-15T18:12:29-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **PDT Partners** — [Summer 2027 Software Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) — New York, NY (Greenhouse:pdtpartners; posted=2026-07-24T16:16:09-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027; undergrad/BS/MS language found)
 - **PDT Partners** — [Summer 2027 Systems Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) — New York, NY (Greenhouse:pdtpartners; posted=2026-07-24T16:16:11-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027; undergrad/BS/MS language found)
-- **Point 72/Cubist** — [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) — Hong Kong (Greenhouse:point72; posted=2024-08-15T17:28:35-04:00; internship timing not stated in title; undergrad/BS/MS language found)
-- **Point 72/Cubist** — [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) — Singapore (Greenhouse:point72; posted=2024-08-15T17:27:34-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Point 72/Cubist** — [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) — New York (Greenhouse:point72; posted=2024-08-15T17:11:02-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Point 72/Cubist** — [Quantitative Research Intern (NLP)](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) — New York (Greenhouse:point72; posted=2025-05-31T11:00:10-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Point 72/Cubist** — [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) — New York, London, or Paris (Greenhouse:point72; posted=2024-08-15T17:24:14-04:00; internship timing not stated in title; undergrad/BS/MS language found)
@@ -157,7 +156,6 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Qube Research & Technologies** — [2027 - Internship, Software Engineering and Quantitative Development](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002) — London, Paris, Wrocław, Zurich, Dubai (Greenhouse:quberesearchandtechnologies; posted=2026-09-08T09:56:30-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Qube Research & Technologies** — [2027 – Internship, Data Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749947002) — Hong Kong, Singapore (Greenhouse:quberesearchandtechnologies; posted=2026-08-26T11:41:44-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Qube Research & Technologies** — [2027 – Internship, Infrastructure Engineering  ](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002) — Hong Kong, Singapore, Shanghai (Greenhouse:quberesearchandtechnologies; posted=2026-08-26T10:04:56-04:00; internship timing not stated in title; undergrad/BS/MS language found)
-- **Qube Research & Technologies** — [2027 – Internship, Quantitative Research and Trading ](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002) — Hong Kong, Singapore, Shanghai, Beijing (Greenhouse:quberesearchandtechnologies; posted=2026-08-24T06:56:45-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Qube Research & Technologies** — [2027 Internship – Security Engineer ](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002) — London, Paris (Greenhouse:quberesearchandtechnologies; posted=2026-09-08T09:57:07-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Schonfeld Strategic Advisors** — [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) — Miami, Florida, United States (Greenhouse:schonfeld; posted=2026-09-04T17:01:51-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Schonfeld Strategic Advisors** — [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) — New York, New York, United States (Greenhouse:schonfeld; posted=2026-09-04T12:42:57-04:00; internship timing not stated in title; undergrad/BS/MS language found)
@@ -203,22 +201,21 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Voleon Group** — [Software Engineer Intern - (Summer 2027)](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6) — Berkeley, CA (Ashby:voleon; posted=2026-08-14T20:19:32.967+00:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **Voloridge Investment Management** — [Quantitative Developer Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) — Jupiter, FL (Greenhouse:voloridgeinvestmentmanagement; posted=2026-06-11T09:46:12-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Voloridge Investment Management** — [Quantitative Research Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) — Jupiter, FL (Greenhouse:voloridgeinvestmentmanagement; posted=2026-06-11T10:40:18-04:00; internship timing not stated in title; undergrad/BS/MS language found)
+- **Voloridge Investment Management** — [Quantitative Trading Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009) — Jupiter, FL (Greenhouse:voloridgeinvestmentmanagement; posted=2026-09-24T10:48:32-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Wincent** — [Quantitative Research Internship - Quant Research/Trading - Starting Summer 2027](https://jobs.ashbyhq.com/wincent/984bf12c-8d80-431f-9789-04a9739cfc99) — Bratislava (Ashby:wincent; posted=2026-06-08T12:34:06.218+00:00; internship timing: Summer 2027; undergrad/BS/MS language found)
 - **WorldQuant** — [Data Science Intern](https://job-boards.greenhouse.io/worldquant/jobs/4069460006) — Beijing OR Shanghai (Greenhouse:worldquant; posted=2023-08-22T07:46:57-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **WorldQuant** — [Quant Developer Intern ](https://job-boards.greenhouse.io/worldquant/jobs/4572988006) — Singapore (Greenhouse:worldquant; posted=2025-06-03T21:19:18-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **WorldQuant** — [Quantitative Research Intern](https://job-boards.greenhouse.io/worldquant/jobs/4084570006) — Beijing OR Shanghai (Greenhouse:worldquant; posted=2023-08-22T07:47:24-04:00; internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
-- **WorldQuant** — [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006) — Paris (Greenhouse:worldquant; posted=2024-09-04T08:17:08-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **WorldQuant** — [Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4652485006) — Hanoi (Greenhouse:worldquant; posted=2026-02-22T22:49:48-05:00; internship timing not stated in title; undergrad/BS/MS language found)
-- **WorldQuant** — [Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4655484006) — Budapest (Greenhouse:worldquant; posted=2026-02-24T12:23:54-05:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Xantium** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) — London, England, New York, New York (Greenhouse:xantium; posted=2026-08-17T16:10:20-04:00; internship timing not stated in title)
 - **Xantium** — [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York (Greenhouse:xantium; posted=2026-08-17T16:10:51-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 
 ## Companies With No Matching Internship Found In Checked ATS Boards
 
-- **Jane Street** — checked Greenhouse:janestreet (227); Ashby:jane (20)
+- **Jane Street** — checked Greenhouse:janestreet (228); Ashby:jane (22)
 - **Citadel** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **DRW** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **HRT** — checked Greenhouse:wehrtyou (85); Ashby:hrt (0)
+- **HRT** — checked Greenhouse:wehrtyou (86); Ashby:hrt (0)
 - **Arrowstreet** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **3red Partners** — checked Greenhouse:3redpartners (8)
 - **A Priori** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -237,15 +234,15 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Boerboel Trading** — checked Greenhouse:boerboeltrading (4)
 - **Boulder Hill Capital Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Brevan Howard** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Bridgewater Associates** — checked Greenhouse:bridgewater89 (13)
+- **Bridgewater Associates** — checked Greenhouse:bridgewater89 (15)
 - **Cantor Fitzgerald** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Capital Fund Management** — checked Lever:capital (44)
-- **Capital Markets Trading** — checked Lever:capital (44)
+- **Capital Fund Management** — checked Lever:capital (45)
+- **Capital Markets Trading** — checked Lever:capital (45)
 - **Capstone** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Capula** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Caxton Associates** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Centiva Capital** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Chicago Trading Company** — checked Greenhouse:chicagotrading (25); Greenhouse:chicago (0)
+- **Chicago Trading Company** — checked Greenhouse:chicagotrading (24); Greenhouse:chicago (0)
 - **Consolidated Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **CQS** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Dark Forest** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -267,7 +264,6 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **G-Research** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **GAM Systematic** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Garda Capital Partners** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Gelber Group** — checked Greenhouse:gelbergroup (8)
 - **Geode Capital Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Graham Capital Management** — checked Greenhouse:grahamcapitalmanagement (9)
 - **Graviton Research Capital** — checked Greenhouse:gravitonresearchcapital (19)
@@ -333,7 +329,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Vector Trading** — checked Ashby:vector (6)
 - **Verition Fund Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Volant Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Weiss Asset Management** — checked Greenhouse:weissassetmanagement (4)
+- **Weiss Asset Management** — checked Greenhouse:weissassetmanagement (5)
 - **Musket** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **BP** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Castleton Commodities International** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -344,7 +340,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Volterra Technologies** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Walleye Capital** — checked Greenhouse:walleyecapital (0)
 - **WH Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Winton Capital Management** — checked Greenhouse:winton (10)
+- **Winton Capital Management** — checked Greenhouse:winton (9)
 - **Wintermute** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Wolverine Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **XR Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan

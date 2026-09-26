@@ -1,9 +1,17 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 102
-Last updated: 2026-09-24T10:00:40.192Z
+Total closure events recorded: 107
+Last updated: 2026-09-26T00:21:40.686Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-09-25 (5)
+
+- **AQR Capital Management** - [2027 Risk Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926692&gh_jid=7926692) - Greenwich, CT
+- **Point72** - [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) - Hong Kong
+- **Point72** - [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) - Singapore
+- **WorldQuant** - [Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4655484006) - Budapest
+- **WorldQuant** - [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006) - Paris
 
 ### 2026-09-24 (5)
 
@@ -53,7 +61,7 @@ Closures require two independent successful observations of absence from the rol
 
 ### 2026-09-10 (6)
 
-- **DRW** - [Quantitative Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) - Singapore
+- **DRW** - [Quantitative Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) - Singapore — _reopened 2026-09-25_
 - **Tower Research Capital** - [Quantitative Trader Intern, PhD](https://www.tower-research.com/open-positions/?gh_jid=8024138) - New York
 - **Virtu Financial** - [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) - New York
 - **Susquehanna International Group** - [Technology Co-op with McGill University](https://careers.sig.com/jobs/11379?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania

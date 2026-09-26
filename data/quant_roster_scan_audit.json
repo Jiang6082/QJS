@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-24T10:05:56.762Z",
-  "scanStartedAt": "2026-09-24T10:00:40.192Z",
+  "generatedAt": "2026-09-26T00:26:37.764Z",
+  "scanStartedAt": "2026-09-26T00:21:40.686Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 51,
+    "matching-role-found": 52,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 35,
+    "confirmed-openings-no-matching-role": 34,
     "could-not-fully-verify": 215
   },
   "companies": [
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 144,
+      "jobsSeen": 145,
       "relevantInternships": 0
     },
     {
@@ -156,7 +156,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 6,
+      "jobsSeen": 7,
       "relevantInternships": 2
     },
     {
@@ -286,7 +286,7 @@
       "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 51,
-      "relevantInternships": 11
+      "relevantInternships": 10
     },
     {
       "company": "Accent Groupe",
@@ -353,7 +353,7 @@
       "careerPages": [
         "http://www.armadausa.com/careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -395,7 +395,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 20,
+      "jobsSeen": 21,
       "relevantInternships": 3
     },
     {
@@ -427,8 +427,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 27,
-      "relevantInternships": 12
+      "jobsSeen": 28,
+      "relevantInternships": 13
     },
     {
       "company": "Campbell and Company",
@@ -763,8 +763,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 182,
-      "relevantInternships": 16
+      "jobsSeen": 179,
+      "relevantInternships": 17
     },
     {
       "company": "ABC Arbitrage",
@@ -946,7 +946,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 14,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -972,7 +972,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 34,
+      "jobsSeen": 36,
       "relevantInternships": 0
     },
     {
@@ -998,8 +998,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 229,
-      "relevantInternships": 9
+      "jobsSeen": 220,
+      "relevantInternships": 7
     },
     {
       "company": "DSV Fund",
@@ -1026,7 +1026,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 73,
+      "jobsSeen": 72,
       "relevantInternships": 18
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 129,
+      "jobsSeen": 128,
       "relevantInternships": 1
     },
     {
@@ -1096,7 +1096,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
+      "jobsSeen": 9,
       "relevantInternships": 1
     },
     {
@@ -1171,7 +1171,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantInternships": 2
     },
     {
@@ -1238,9 +1238,9 @@
         "https://www.hudsonrivertrading.com/careers/",
         "https://www.hudsonrivertrading.com/careers/job/"
       ],
-      "livePages": 2,
+      "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 88,
+      "jobsSeen": 86,
       "relevantInternships": 5
     },
     {
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 227,
+      "jobsSeen": 228,
       "relevantInternships": 0
     },
     {
@@ -1322,7 +1322,7 @@
       "careerPages": [
         "https://www.dwf-labs.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1434,7 +1434,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 48,
+      "jobsSeen": 47,
       "relevantInternships": 2
     },
     {
@@ -1741,15 +1741,15 @@
       "sourceRosterNames": [
         "Gelber Group"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.gelbergroup.com/careers/",
         "https://job-boards.greenhouse.io/gelbergroup"
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 8,
-      "relevantInternships": 0
+      "jobsSeen": 9,
+      "relevantInternships": 1
     },
     {
       "company": "Gift Street Capital",
@@ -2038,7 +2038,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 16,
+      "jobsSeen": 15,
       "relevantInternships": 5
     },
     {
@@ -2113,7 +2113,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 173,
+      "jobsSeen": 175,
       "relevantInternships": 18
     },
     {
@@ -2661,7 +2661,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 14,
+      "jobsSeen": 15,
       "relevantInternships": 2
     },
     {
@@ -2996,7 +2996,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/quadraturecapital?error=true"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 4,
       "relevantInternships": 0
@@ -3590,7 +3590,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantInternships": 0
     },
     {
@@ -3647,9 +3647,9 @@
         "https://boards.greenhouse.io/tekion/jobs/6263631003",
         "https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 76,
+      "jobsSeen": 77,
       "relevantInternships": 0
     },
     {
@@ -3692,7 +3692,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 54,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -3888,7 +3888,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 90,
+      "jobsSeen": 91,
       "relevantInternships": 11
     },
     {
@@ -4079,7 +4079,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 55,
+      "jobsSeen": 53,
       "relevantInternships": 2
     },
     {
@@ -4105,7 +4105,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/transmarketgroup"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 18,
       "relevantInternships": 3
@@ -4180,8 +4180,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 8,
-      "relevantInternships": 2
+      "jobsSeen": 11,
+      "relevantInternships": 3
     },
     {
       "company": "Wallsoft Labs",
@@ -4222,8 +4222,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 104,
-      "relevantInternships": 6
+      "jobsSeen": 101,
+      "relevantInternships": 4
     },
     {
       "company": "Xantium",
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 91,
+      "jobsSeen": 95,
       "relevantInternships": 1
     },
     {
@@ -4267,8 +4267,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 2,
-      "relevantInternships": 1
+      "jobsSeen": 4,
+      "relevantInternships": 2
     }
   ]
 }
