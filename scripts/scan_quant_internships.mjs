@@ -1,4 +1,5 @@
 import fs from "node:fs/promises";
+import { verifyOfficialPosting } from "../tools/posting-verification.mjs";
 
 const rawCompanies = `
 Jane Street
@@ -387,6 +388,7 @@ async function getGreenhouse(company, token) {
   if (!res.ok) return null;
   let json;
   try { json = JSON.parse(res.text); } catch { return null; }
+  if (!Array.isArray(json.jobs)) return null;
   const jobs = (json.jobs || []).map((j) => ({
     company,
     source: `Greenhouse:${token}`,
@@ -395,6 +397,7 @@ async function getGreenhouse(company, token) {
     location: j.location?.name || "",
     url: j.absolute_url,
     content: stripHtml(j.content || ""),
+    postedAt: j.first_published || null,
   }));
   return { source: `Greenhouse:${token}`, count: jobs.length, jobs };
 }
@@ -414,6 +417,7 @@ async function getLever(company, token) {
     location: j.categories?.location || "",
     url: j.hostedUrl || j.applyUrl,
     content: stripHtml(`${j.descriptionPlain || ""} ${j.lists?.map((l) => `${l.text} ${l.content}`).join(" ") || ""}`),
+    postedAt: j.createdAt ? new Date(j.createdAt).toISOString() : null,
   }));
   return { source: `Lever:${token}`, count: jobs.length, jobs };
 }
@@ -425,7 +429,7 @@ async function getAshby(company, token) {
   let json;
   try { json = JSON.parse(res.text); } catch { return null; }
   if (!Array.isArray(json.jobs)) return null;
-  const jobs = json.jobs.map((j) => ({
+  const jobs = json.jobs.filter((j) => j.isListed !== false).map((j) => ({
     company,
     source: `Ashby:${token}`,
     title: j.title,
@@ -433,6 +437,7 @@ async function getAshby(company, token) {
     location: (j.locationName || j.location || "").toString(),
     url: j.jobUrl || `https://jobs.ashbyhq.com/${token}/${j.id}`,
     content: stripHtml(`${j.descriptionHtml || ""} ${j.department || ""} ${j.employmentType || ""}`),
+    postedAt: j.publishedAt || null,
   }));
   return { source: `Ashby:${token}`, count: jobs.length, jobs };
 }
@@ -456,7 +461,7 @@ async function scanCompany(company) {
       }
     }
   }
-  return { company, boards: boards.map(({ source, count }) => ({ source, count })), matches };
+  return { company, boards: boards.map(({ source, count }) => ({ source, count })), matches, observedUrls: boards.flatMap((board) => board.jobs.map((job) => job.url)) };
 }
 
 async function mapLimit(items, limit, fn) {
@@ -481,6 +486,7 @@ function summarize(job) {
   const title = job.title || "";
   const content = stripHtml(job.content || "");
   const bits = [];
+  if (job.postedAt) bits.push(`posted=${job.postedAt}`);
   const timing = title.match(/\b(spring|summer|fall|winter)\s+20\d{2}\b/i)?.[0]
     || title.match(/\b20\d{2}\s+(spring|summer|fall|winter)\b/i)?.[0]
     || title.match(/\b(spring|summer|fall|winter)\b/i)?.[0]
@@ -543,7 +549,11 @@ const manualMatches = [
   },
 ];
 const dedupe = new Map();
-for (const match of [...results.flatMap((r) => r.matches), ...manualMatches]) {
+const manualPostingAudits = await mapLimit(manualMatches, 6, async (row) => ({
+  URL: row.url, ...await verifyOfficialPosting(row),
+}));
+const verifiedManualMatches = manualMatches.filter((row) => manualPostingAudits.some((audit) => audit.URL === row.url && audit.status === "active"));
+for (const match of [...results.flatMap((r) => r.matches), ...verifiedManualMatches]) {
   dedupe.set(match.url, { ...match, notes: summarize(match) });
 }
 const matches = [...dedupe.values()];
@@ -584,7 +594,7 @@ const md = [
 
 await fs.writeFile("reports/quant_internship_roles_scan.csv", csv, "utf8");
 await fs.writeFile("reports/quant_internship_roles_scan.md", md, "utf8");
-await fs.writeFile("data/quant_internship_scan_raw.json", JSON.stringify({ scannedAt, results }, null, 2), "utf8");
+await fs.writeFile("data/quant_internship_scan_raw.json", JSON.stringify({ scannedAt, results, matches, manualPostingAudits }, null, 2), "utf8");
 await fs.writeFile("data/quant_internship_scan_audit.json", JSON.stringify({
   scannedAt,
   companies,

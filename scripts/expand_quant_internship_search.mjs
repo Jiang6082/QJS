@@ -1,10 +1,16 @@
 import fs from "node:fs/promises";
 import { groupedRoleMarkdown, regionForLocation } from "../tools/regions.mjs";
 import { isKnownWrongCareerPage } from "../tools/career-source-guards.mjs";
+import { stableUrl, workdayRequisitionIdentity as sharedWorkdayIdentity, workdayJobUrl, workdayDetailUrl as sharedWorkdayDetailUrl } from "../tools/role-identity.mjs";
+import { verifyOfficialPosting } from "../tools/posting-verification.mjs";
+import { hasNonTargetInternshipTiming as matchesOldInternship } from "../tools/role-scope.mjs";
 
 const baseCsvPath = "reports/quant_internship_roles_scan.csv";
 const careerPageDbPath = "inputs/company_career_pages.json";
 const firmRosterPath = "inputs/quant_firm_roster.json";
+const previousRawPath = ".scan-state/previous_quant_v2_raw.json";
+const postingAudits = [];
+const observedUrls = new Set();
 const firmRoster = JSON.parse(await fs.readFile(firmRosterPath, "utf8"));
 const rosterCompanies = firmRoster.companies.map((company) => firmRoster.aliases?.[company] || company);
 
@@ -137,6 +143,7 @@ const seedCareerPages = {
 const seedAtsTokens = {
   "Chicago Trading Company": { greenhouse: ["ctccampusboard"] },
   "Hudson River Trading": { greenhouse: ["wehrtyou"] },
+  "Scientech Research Capital": { ashby: ["scientech-research"] },
   "Stevens Capital Management": { greenhouse: ["scm"] },
   "RRS Group": { smartrecruiters: ["RRSGroup"] },
 };
@@ -173,8 +180,7 @@ const nonTargetInternshipTiming = /\b(?:(?:spring|summer|fall|autumn|winter|janu
 const stalePostingDate = /\b(?:datePosted=202[0-5]|(?:jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|sep(?:tember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\s+\d{1,2},\s+202[0-5])\b/i;
 
 function hasNonTargetInternshipTiming(title = "", notes = "") {
-  if (nonTargetInternshipTiming.test(`${title} ${notes}`)) return true;
-  return /\b202[0-6]\b/.test(title) && internSignal.test(title);
+  return matchesOldInternship(title, notes);
 }
 
 function decodeHtml(value = "") {
@@ -231,6 +237,53 @@ function firstJsonLd(html = "") {
   try { return JSON.parse(match[1]); } catch { return null; }
 }
 
+function jobPostingJsonLd(html = "") {
+  const scripts = [...html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)];
+  const findPosting = (value) => {
+    if (!value || typeof value !== "object") return null;
+    if (Array.isArray(value)) {
+      for (const item of value) {
+        const found = findPosting(item);
+        if (found) return found;
+      }
+      return null;
+    }
+    if (String(value["@type"] || "").toLowerCase() === "jobposting") return value;
+    return findPosting(value["@graph"]);
+  };
+  for (const script of scripts) {
+    try {
+      const found = findPosting(JSON.parse(script[1]));
+      if (found) return found;
+    } catch {}
+  }
+  return null;
+}
+
+const officialJobHitCache = new Map();
+async function enrichOfficialJobHit(url) {
+  if (officialJobHitCache.has(url)) return officialJobHitCache.get(url);
+  const result = (async () => {
+    const res = await fetchText(url);
+    if (!res.ok) return null;
+    const posting = jobPostingJsonLd(res.text);
+    if (!posting) return null;
+    const address = (Array.isArray(posting.jobLocation) ? posting.jobLocation[0] : posting.jobLocation)?.address || {};
+    const location = [address.addressLocality, address.addressRegion, address.addressCountry]
+      .filter(Boolean)
+      .filter((value, index, values) => values.indexOf(value) === index)
+      .join(", ");
+    return {
+      title: decodeHtml(String(posting.title || "")),
+      location: decodeHtml(location),
+      datePosted: typeof posting.datePosted === "string" ? posting.datePosted.slice(0, 10) : "",
+      canonicalUrl: decodeHtml(String(posting.url || res.url || url)),
+    };
+  })();
+  officialJobHitCache.set(url, result);
+  return result;
+}
+
 async function normalizeOpenQuantHit(hitUrl) {
   const res = await fetchText(hitUrl);
   if (!res.ok) return null;
@@ -250,7 +303,7 @@ async function normalizeOpenQuantHit(hitUrl) {
 function classifySource(company, url) {
   let host = "";
   try { host = new URL(url).hostname.replace(/^www\./, "").toLowerCase(); } catch {}
-  const official = (officialDomains[company] || []).some((d) => host.endsWith(d));
+  const official = (officialDomains[company] || []).some((d) => host === d || host.endsWith(`.${d}`));
   const aggregator = aggregatorDomains.some((d) => host.includes(d));
   if (official) return "Official posting/page";
   if (aggregator) return "Web-discovered posting/lead";
@@ -352,8 +405,8 @@ function isLikelyCompanyCareerHost(company, url) {
 function isTrustedCareerPageUrl(company, url) {
   try {
     const host = new URL(url).hostname.replace(/^www\./, "").toLowerCase();
-    return (officialDomains[company] || []).some((domain) => host.endsWith(domain))
-      || trustedCareerHosts.some((domain) => host.endsWith(domain))
+    return (officialDomains[company] || []).some((domain) => host === domain || host.endsWith(`.${domain}`))
+      || trustedCareerHosts.some((domain) => host === domain || host.endsWith(`.${domain}`))
       || isLikelyCompanyCareerHost(company, url);
   } catch {
     return false;
@@ -406,7 +459,7 @@ async function ensureCareerPageDb() {
 
   // Saved pages are visited every run. Discovery is only needed until a company has
   // at least one page; this keeps the expanded roster practical without weakening scans.
-  const companiesNeedingDiscovery = companies.filter((company) => !(db.companies[company]?.careerPages || []).length);
+  const companiesNeedingDiscovery = companies.filter((company) => !(db.companies[company]?.careerPages || []).filter((url) => !isKnownWrongCareerPage(company, url)).length);
   const discovered = await mapLimit(companiesNeedingDiscovery, 6, async (company) => ({
     company,
     careerPages: await discoverCareerPages(company),
@@ -542,6 +595,7 @@ async function getGreenhouseBoard(company, token, careerPageUrl = "") {
   if (!res.ok) return null;
   let json;
   try { json = JSON.parse(res.text); } catch { return null; }
+  if (!Array.isArray(json.jobs)) return null;
   const jobs = (json.jobs || []).map((job) => ({
     Company: company,
     Title: job.title || "",
@@ -551,6 +605,7 @@ async function getGreenhouseBoard(company, token, careerPageUrl = "") {
     Source: `Career page Greenhouse:${token}`,
     Status: "Confirmed official posting",
     Notes: [
+      job.first_published ? `posted=${job.first_published}` : "",
       careerPageUrl ? `career_page=${careerPageUrl}` : "",
       careerPageUrl ? `company_wrapper=${new URL(`job?gh_jid=${job.id}`, careerPageUrl).toString()}` : "",
       timingMetadata(job.title || "", job.content || ""),
@@ -562,16 +617,18 @@ async function getGreenhouseBoard(company, token, careerPageUrl = "") {
 
 async function getSmartRecruitersBoard(company, token, careerPageUrl = "") {
   const postings = [];
-  for (let offset = 0; offset < 400; offset += 100) {
+  let complete = false;
+  for (let offset = 0; offset < 10000; offset += 100) {
     const res = await fetchText(`https://api.smartrecruiters.com/v1/companies/${token}/postings?limit=100&offset=${offset}`);
     if (!res.ok) break;
     let json;
     try { json = JSON.parse(res.text); } catch { break; }
-    const page = json.content || [];
+    if (!Array.isArray(json.content)) break;
+    const page = json.content;
     postings.push(...page);
-    if (page.length < 100 || postings.length >= (json.totalFound || postings.length)) break;
+    if (page.length < 100 || postings.length >= (json.totalFound ?? Infinity)) { complete = true; break; }
   }
-  if (!postings.length) return null;
+  if (!postings.length && !complete) return null;
   const jobs = postings.map((job) => {
     const loc = job.location || {};
     const location = loc.remote ? "Remote" : [loc.city, loc.region, loc.country].filter(Boolean).join(", ");
@@ -590,7 +647,7 @@ async function getSmartRecruitersBoard(company, token, careerPageUrl = "") {
       ].filter(Boolean).join(" | "),
     };
   });
-  return { source: `SmartRecruiters:${token}`, jobs };
+  return { source: `SmartRecruiters:${token}`, jobs, complete };
 }
 
 async function getLeverBoard(company, token, careerPageUrl = "") {
@@ -608,7 +665,7 @@ async function getLeverBoard(company, token, careerPageUrl = "") {
     URL: job.hostedUrl || job.applyUrl || "",
     Source: `Career page Lever:${token}`,
     Status: "Confirmed official posting",
-    Notes: [careerPageUrl ? `career_page=${careerPageUrl}` : "", timingMetadata(job.text || "", `${job.descriptionPlain || ""} ${job.lists?.map((list) => `${list.text} ${list.content}`).join(" ") || ""}`), stripHtml(`${job.descriptionPlain || ""} ${job.lists?.map((list) => `${list.text} ${list.content}`).join(" ") || ""}`)].filter(Boolean).join(" | "),
+    Notes: [job.createdAt ? `posted=${new Date(job.createdAt).toISOString()}` : "", careerPageUrl ? `career_page=${careerPageUrl}` : "", timingMetadata(job.text || "", `${job.descriptionPlain || ""} ${job.lists?.map((list) => `${list.text} ${list.content}`).join(" ") || ""}`), stripHtml(`${job.descriptionPlain || ""} ${job.lists?.map((list) => `${list.text} ${list.content}`).join(" ") || ""}`)].filter(Boolean).join(" | "),
   }));
   return { source: `Lever:${token}`, jobs };
 }
@@ -620,7 +677,7 @@ async function getAshbyBoard(company, token, careerPageUrl = "") {
   let json;
   try { json = JSON.parse(res.text); } catch { return null; }
   if (!Array.isArray(json.jobs)) return null;
-  const jobs = json.jobs.map((job) => ({
+  const jobs = json.jobs.filter((job) => job.isListed !== false).map((job) => ({
     Company: company,
     Title: job.title || "",
     Department: job.department || "",
@@ -628,10 +685,12 @@ async function getAshbyBoard(company, token, careerPageUrl = "") {
     URL: job.jobUrl || `https://jobs.ashbyhq.com/${token}/${job.id}`,
     Source: `Career page Ashby:${token}`,
     Status: "Confirmed official posting",
-    Notes: [careerPageUrl ? `career_page=${careerPageUrl}` : "", timingMetadata(job.title || "", job.descriptionHtml || ""), stripHtml(`${job.descriptionHtml || ""} ${job.department || ""} ${job.employmentType || ""}`)].filter(Boolean).join(" | "),
+    Notes: [job.publishedAt ? `posted=${job.publishedAt}` : "", job.employmentType === "Intern" ? "employmentType=Intern" : "", careerPageUrl ? `career_page=${careerPageUrl}` : "", timingMetadata(job.title || "", job.descriptionHtml || ""), stripHtml(`${job.descriptionHtml || ""} ${job.department || ""} ${job.employmentType || ""}`)].filter(Boolean).join(" | "),
   }));
   return { source: `Ashby:${token}`, jobs };
 }
+
+const workdayBoardCache = new Map();
 
 async function getWorkdayBoard(company, siteInfo, careerPageUrl = "") {
   let origin = siteInfo.origin;
@@ -640,58 +699,85 @@ async function getWorkdayBoard(company, siteInfo, careerPageUrl = "") {
   } catch {
     return null;
   }
-  const url = `${origin}/wday/cxs/${siteInfo.tenant}/${siteInfo.site}/jobs`;
-  try {
-    const postings = [];
-    const limit = 20;
-    for (let offset = 0; ; offset += limit) {
-      const controller = new AbortController();
-      const timeout = setTimeout(() => controller.abort(), 12000);
-      let json;
-      try {
-        const res = await fetch(url, {
-          method: "POST",
-          signal: controller.signal,
-          headers: { "accept": "application/json", "content-type": "application/json" },
-          body: JSON.stringify({ appliedFacets: {}, limit, offset, searchText: "" }),
-        });
-        if (!res.ok) return null;
-        json = await res.json();
-      } finally {
-        clearTimeout(timeout);
+  const cacheKey = `${company}|${origin}|${siteInfo.tenant}|${siteInfo.site}`;
+  if (workdayBoardCache.has(cacheKey)) return workdayBoardCache.get(cacheKey);
+
+  const request = (async () => {
+    const url = `${origin}/wday/cxs/${siteInfo.tenant}/${siteInfo.site}/jobs`;
+    try {
+      const postingsByPath = new Map();
+      let complete = true;
+      const limit = 20;
+      const searchTexts = ["", "intern", "summer analyst", "summer associate", "off cycle internship", "co-op", "industrial placement"];
+      for (const searchText of searchTexts) {
+        let resultsSeen = 0;
+        const resultCap = searchText ? 10000 : 40;
+        for (let offset = 0; offset < resultCap; offset += limit) {
+          const controller = new AbortController();
+          const timeout = setTimeout(() => controller.abort(), 12000);
+          let json;
+          try {
+            const res = await fetch(url, {
+              method: "POST",
+              signal: controller.signal,
+              headers: { "accept": "application/json", "content-type": "application/json" },
+              body: JSON.stringify({ appliedFacets: {}, limit, offset, searchText }),
+            });
+            if (!res.ok) { complete = false; break; }
+            json = await res.json();
+          } finally {
+            clearTimeout(timeout);
+          }
+          if (!Array.isArray(json.jobPostings)) { complete = false; break; }
+          const page = json.jobPostings;
+          for (const posting of page) {
+            const key = posting.externalPath || `${posting.title}|${posting.locationsText}`;
+            postingsByPath.set(key, posting);
+          }
+          resultsSeen += page.length;
+          if (!page.length || resultsSeen >= (json.total ?? Infinity) || page.length < limit) break;
+          if (offset + limit >= resultCap && searchText) complete = false;
+        }
       }
-      const page = json.jobPostings || [];
-      postings.push(...page);
-      if (!page.length || postings.length >= (json.total || postings.length) || page.length < limit) break;
+      const postings = [...postingsByPath.values()];
+      if (!postings.length && !complete) return null;
+      const jobs = postings.map((job) => ({
+        Company: company,
+        Title: job.title || "",
+        Department: "",
+        Location: job.locationsText || "",
+        URL: workdayJobUrl({ ...siteInfo, origin }, job.externalPath || ""),
+        Source: `Career page Workday:${siteInfo.tenant}/${siteInfo.site}`,
+        Status: "Confirmed official posting",
+        Notes: [careerPageUrl ? `career_page=${careerPageUrl}` : "", job.postedOn || "", ...(job.bulletFields || [])].filter(Boolean).join(" | "),
+      }));
+      // Searches cover the internship terms, not the entire unfiltered board.
+      // Only direct job-detail responses may establish a Workday closure.
+      return { source: `Workday:${siteInfo.tenant}/${siteInfo.site}`, jobs, complete: false, searchComplete: complete };
+    } catch {
+      return null;
     }
-    const jobs = postings.map((job) => ({
-      Company: company,
-      Title: job.title || "",
-      Department: "",
-      Location: job.locationsText || "",
-      URL: `${origin}/${siteInfo.site}${job.externalPath || ""}`,
-      Source: `Career page Workday:${siteInfo.tenant}/${siteInfo.site}`,
-      Status: "Confirmed official posting",
-      Notes: [careerPageUrl ? `career_page=${careerPageUrl}` : "", job.postedOn || "", ...(job.bulletFields || [])].filter(Boolean).join(" | "),
-    }));
-    return { source: `Workday:${siteInfo.tenant}/${siteInfo.site}`, jobs };
-  } catch {
-    return null;
-  }
+  })();
+  workdayBoardCache.set(cacheKey, request);
+  return request;
 }
 
 function relevantCareerJob(row) {
   const text = `${row.Title} ${row.Location} ${row.Notes}`.toLowerCase();
   const title = row.Title.toLowerCase();
   const roleText = `${row.Title} ${row.Department || ""}`.toLowerCase();
-  const isIntern = /\b(intern|internship|summer analyst|summer associate|co-?op|industrial placement)\b/.test(title)
+  const isIntern = /\b(interns?|internships?|summer analyst|summer associate|co-?op|industrial placement)\b/.test(title)
+    || /实习/.test(title)
+    || (row.Source === "Official Goldman Sachs Higher API" && /seasonal|off[- /]?cycle/i.test(title))
+    || /(?:^|\|\s*)employmentType=Intern(?:\s*\||$)/i.test(row.Notes || "")
     || /^(?:internship|co-op|industrial placement year)\b/i.test((row.Notes || "").trim());
-  const hasDomain = /\b(quant|quantitative|systematic|alpha|research|portfolio|trading|trader|strats?|strategy|strategic|developer|software|engineer|technology|devops|site reliability|sre|infrastructure|data science|machine learning|risk|implementation|model|analytics|fpga)\b/.test(roleText) || /c\+\+/i.test(roleText);
-  const blockedEducation = /\b(phd|ph\.d|doctoral|doctorate|postdoc|postdoctoral|mba)\b/.test(title) && !/\b(bs|bachelor|undergrad|undergraduate|master|ms)\b/.test(text);
+  const hasDomain = /\b(quant|quantitative|systematic|alpha|research|portfolio|trading|trader|strats?|strategy|strategic|developer|software|engineer|technology|devops|site reliability|sre|infrastructure|data science|machine learning|risk|implementation|model|analytics|fpga)\b/.test(roleText)
+    || /(量化|研究|开发|交易|策略|软件|工程|机器学习|数据科学|风险)/.test(roleText)
+    || /c\+\+/i.test(roleText);
   const blockedFullTime = /\b(new grad|new graduate|graduate programme|graduate program|full[- ]time|experienced|senior|principal|director|vp|vice president|recruiter|recruitment)\b/.test(title) || (/\bgraduate\b/.test(title) && !/\bintern/.test(title));
   const blockedTiming = hasNonTargetInternshipTiming(row.Title, row.Notes || "");
   const staleWebLead = /web-discovered|aggregator/i.test(`${row.Source} ${row.Status}`) && stalePostingDate.test(row.Notes || "");
-  return isIntern && hasDomain && !blockedEducation && !blockedFullTime && !blockedTiming && !staleWebLead;
+  return isIntern && hasDomain && !blockedFullTime && !blockedTiming && !staleWebLead;
 }
 
 async function scanCareerPage(company, pageUrl) {
@@ -710,7 +796,30 @@ async function scanCareerPage(company, pageUrl) {
   tokens.lever = [...new Set([...tokens.lever, ...(seededTokens.lever || [])])];
   tokens.ashby = [...new Set([...tokens.ashby, ...(seededTokens.ashby || [])])];
   tokens.smartrecruiters = [...new Set([...(tokens.smartrecruiters || []), ...(seededTokens.smartrecruiters || [])])];
+  const directPosting = page.ok ? jobPostingJsonLd(page.text) : null;
+  const directAddress = (Array.isArray(directPosting?.jobLocation) ? directPosting.jobLocation[0] : directPosting?.jobLocation)?.address || {};
+  const directLocation = [directAddress.addressLocality, directAddress.addressRegion, directAddress.addressCountry]
+    .filter(Boolean)
+    .filter((value, index, values) => values.indexOf(value) === index)
+    .join(", ");
+  const directBoard = directPosting?.title && !(directPosting.validThrough && new Date(directPosting.validThrough).getTime() < Date.now()) ? {
+    source: "Official JSON-LD job posting",
+    jobs: [{
+      Company: company,
+      Title: decodeHtml(String(directPosting.title)),
+      Department: "",
+      Location: decodeHtml(directLocation),
+      URL: decodeHtml(String(directPosting.url || page.url)),
+      Source: "Career page JSON-LD",
+      Status: "Confirmed official posting",
+      Notes: [
+        `career_page=${pageUrl}`,
+        typeof directPosting.datePosted === "string" ? `datePosted=${directPosting.datePosted.slice(0, 10)}` : "",
+      ].filter(Boolean).join(" | "),
+    }],
+  } : null;
   const boards = [
+    directBoard,
     ...(await Promise.all(tokens.greenhouse.map((token) => getGreenhouseBoard(company, token, page.url)))),
     ...(await Promise.all(tokens.lever.map((token) => getLeverBoard(company, token, page.url)))),
     ...(await Promise.all(tokens.ashby.map((token) => getAshbyBoard(company, token, page.url)))),
@@ -720,6 +829,7 @@ async function scanCareerPage(company, pageUrl) {
       .map((siteInfo) => getWorkdayBoard(company, siteInfo, page.url)))),
   ].filter(Boolean);
   const allJobs = boards.flatMap((board) => board.jobs);
+  for (const job of allJobs) if (job.URL) observedUrls.add(job.URL);
   const rows = allJobs.filter(relevantCareerJob);
   return {
     rows,
@@ -733,6 +843,7 @@ async function scanCareerPage(company, pageUrl) {
       unsupportedAts,
       boards: boards.map((board) => ({
         source: board.source,
+        complete: board.complete !== false,
         jobsSeen: board.jobs.length,
         relevantInternships: board.jobs.filter(relevantCareerJob).length,
       })),
@@ -865,7 +976,7 @@ async function getTwoSigmaInternRows() {
   for (let offset = 0; offset < 300; offset += 10) {
     const pageUrl = `${careerPageUrl}?jobRecordsPerPage=10&jobOffset=${offset}`;
     const page = await fetchText(pageUrl);
-    if (!page.ok) break;
+    if (!page.ok) throw new Error(`Two Sigma page ${offset}: HTTP ${page.status}`);
 
     const cards = [...page.text.matchAll(/<article class="article article--result"[^>]*>([\s\S]*?)<\/article>/gi)];
     for (const card of cards) {
@@ -886,6 +997,7 @@ async function getTwoSigmaInternRows() {
     }
 
     if (cards.length < 10) break;
+    if (offset === 290) throw new Error("Two Sigma pagination limit reached; board is incomplete");
   }
 
   return mapLimit([...rowsByUrl.values()], 4, async (row) => {
@@ -908,11 +1020,13 @@ async function getSigInternRows() {
   const limit = 100;
   for (let page = 1; ; page++) {
     const response = await fetchText(`https://careers.sig.com/api/jobs?limit=${limit}&page=${page}`);
-    if (!response.ok) break;
+    if (!response.ok) throw new Error(`SIG page ${page}: HTTP ${response.status}`);
     let payload;
-    try { payload = JSON.parse(response.text); } catch { break; }
+    try { payload = JSON.parse(response.text); } catch { throw new Error("Invalid SIG response"); }
+    if (!Array.isArray(payload.jobs)) throw new Error("Missing SIG jobs list");
     jobs.push(...(payload.jobs || []).map((entry) => entry.data || {}).filter((job) => job.slug));
-    if (jobs.length >= (payload.totalCount || jobs.length) || (payload.jobs || []).length < limit) break;
+    if (jobs.length >= (payload.totalCount ?? Infinity) || payload.jobs.length < limit) break;
+    if (page >= 100) throw new Error("SIG pagination limit reached");
   }
 
   return jobs.map((job) => ({
@@ -930,6 +1044,181 @@ async function getSigInternRows() {
       stripHtml(job.description || ""),
     ].filter(Boolean).join(" | "),
   })).filter(relevantCareerJob);
+}
+
+async function getBalyasnyInternRows() {
+  const boardUrl = "https://bambusdev.my.site.com/s/";
+  const page = await fetchText(boardUrl);
+  if (!page.ok) return [];
+
+  // The BAM board is a Salesforce Experience Cloud app. Its initial HTML has
+  // no job links and an empty search returns "No jobs found", so enumerate the
+  // public Apex search method with the board's live Aura bootstrap context.
+  const contextMatch = page.text.match(/\/s\/sfsites\/l\/([^/?]+)\/inline\.js/i);
+  if (!contextMatch) return [];
+
+  let auraContext;
+  try {
+    auraContext = JSON.parse(decodeURIComponent(contextMatch[1]));
+  } catch {
+    return [];
+  }
+
+  const message = {
+    actions: [{
+      id: "1;a",
+      descriptor: "aura://ApexActionController/ACTION$execute",
+      callingDescriptor: "UNKNOWN",
+      params: {
+        namespace: "",
+        classname: "BamJobRequisitionInfoDataService",
+        method: "searchJobRequisitions",
+        params: {
+          isVendorPortal: false,
+          site: "BAM Website",
+          searchKey: "intern",
+          locationFilters: [],
+          departmentFilter: [],
+          availableLocations: [],
+          experienceLevelFilter: [],
+        },
+        cacheable: true,
+        isContinuation: false,
+      },
+    }],
+  };
+  const body = new URLSearchParams({
+    message: JSON.stringify(message),
+    "aura.context": JSON.stringify(auraContext),
+    "aura.pageURI": "/s/",
+    "aura.token": "null",
+  });
+
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 15000);
+  try {
+    const response = await fetch(new URL("/s/sfsites/aura", boardUrl), {
+      method: "POST",
+      signal: controller.signal,
+      headers: {
+        "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+        origin: new URL(boardUrl).origin,
+        referer: boardUrl,
+        "user-agent": "Mozilla/5.0 internship-research",
+      },
+      body,
+    });
+    if (!response.ok) return [];
+    const payload = await response.json();
+    const jobs = payload.actions?.[0]?.returnValue?.returnValue || [];
+    return jobs.map((job) => {
+      const positions = job.Job_Requisition_Positions__r || [];
+      const locations = [...new Set(positions.flatMap((position) => [
+        position.Location__r?.External_Name__c,
+        ...(position.Job_Requisition_Position_Locations__r || [])
+          .map((entry) => entry.Location__r?.External_Name__c),
+      ]).filter(Boolean))];
+      const routeKey = `${job.Job_Req_Title_in_URL__c || ""}_${job.Requisition_Number__c || ""}`;
+      return {
+        Company: "Balyasny Asset Management",
+        Title: job.Publish_Title__c || job.Name || "",
+        Department: job.Department__c || "",
+        Location: locations.join(", "),
+        URL: `${new URL("/s/details", boardUrl).href}?jobReq=${encodeURIComponent(routeKey)}`,
+        Source: "Official Balyasny Salesforce Experience Cloud feed",
+        Status: "Confirmed official posting",
+        Notes: [
+          `career_page=${boardUrl}`,
+          job.Posted_Ago__c || "",
+          job.Requisition_Number__c ? `requisition=${job.Requisition_Number__c}` : "",
+          job.Department__c ? `department=${job.Department__c}` : "",
+          job.Experience_Level__c ? `experience=${job.Experience_Level__c}` : "",
+        ].filter(Boolean).join(" | "),
+      };
+    }).filter(relevantCareerJob);
+  } catch {
+    return [];
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+async function getGoldmanQuantRows() {
+  const endpoint = "https://api-higher.gs.com/gateway/api/v1/graphql";
+  const query = `query GetCampusRoles($searchQueryInput: RoleSearchQueryInput!) {
+    roleSearch(searchQueryInput: $searchQueryInput) {
+      totalCount
+      items {
+        roleId corporateTitle jobTitle jobFunction status division lastPostedDate
+        locations { primary state country city }
+        externalSource { sourceId }
+      }
+    }
+  }`;
+  const variables = {
+    searchQueryInput: {
+      page: { pageSize: 100, pageNumber: 0 },
+      sort: { sortStrategy: "POSTED_DATE", sortOrder: "DESC" },
+      filters: [],
+      experiences: ["CAMPUS"],
+      searchTerm: "",
+    },
+  };
+
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 15000);
+  try {
+    const jobs = [];
+    for (let pageNumber = 0; pageNumber < 100; pageNumber++) {
+    variables.searchQueryInput.page.pageNumber = pageNumber;
+    const response = await fetch(endpoint, {
+      method: "POST",
+      signal: controller.signal,
+      headers: {
+        "content-type": "application/json",
+        origin: "https://higher.gs.com",
+        referer: "https://higher.gs.com/results",
+        "user-agent": "Mozilla/5.0 internship-research",
+      },
+      body: JSON.stringify({ query, variables }),
+    });
+    if (!response.ok) throw new Error(`Goldman Sachs page ${pageNumber}: HTTP ${response.status}`);
+    const payload = await response.json();
+    if (payload.errors?.length || !Array.isArray(payload.data?.roleSearch?.items)) throw new Error("Invalid Goldman Sachs response");
+    const pageJobs = payload.data.roleSearch.items;
+    jobs.push(...pageJobs);
+    if (pageJobs.length < 100 || jobs.length >= payload.data.roleSearch.totalCount) break;
+    if (pageNumber === 99) throw new Error("Goldman Sachs pagination limit reached");
+    }
+    return jobs.filter((job) => job.status === "POSTED").map((job) => {
+      const sourceId = job.externalSource?.sourceId || String(job.roleId || "").split("_")[0];
+      const locations = [...new Set((job.locations || []).map((location) => [
+        location.city,
+        location.state,
+        location.country,
+      ].filter(Boolean).join(", ")).filter(Boolean))];
+      return {
+        Company: "Goldman Sachs",
+        Title: job.jobTitle || "",
+        Department: [job.division, job.jobFunction].filter(Boolean).join(", "),
+        Location: locations.join(" / "),
+        URL: `https://higher.gs.com/roles/${sourceId}`,
+        Source: "Official Goldman Sachs Higher API",
+        Status: "Confirmed official posting",
+        Notes: [
+          job.lastPostedDate ? `posted=${job.lastPostedDate.slice(0, 10)}` : "",
+          sourceId ? `role_id=${sourceId}` : "",
+          job.corporateTitle ? `program=${job.corporateTitle}` : "",
+          job.division ? `division=${job.division}` : "",
+          job.jobFunction ? `function=${job.jobFunction}` : "",
+        ].filter(Boolean).join(" | "),
+      };
+    }).filter(relevantCareerJob);
+  } catch {
+    return [];
+  } finally {
+    clearTimeout(timeout);
+  }
 }
 
 function companyQueries(company) {
@@ -986,6 +1275,11 @@ function csvEscape(value) {
 
 async function readBaseCsv() {
   try {
+    const raw = JSON.parse(await fs.readFile("data/quant_internship_scan_raw.json", "utf8"));
+    if (Array.isArray(raw.matches)) return raw.matches.map((row) => ({
+      Company: row.company, Title: row.title, Department: row.department || "",
+      Location: row.location, URL: row.url, Source: row.source, Notes: row.notes,
+    }));
     const text = await fs.readFile(baseCsvPath, "utf8");
     const [headerLine, ...lines] = text.trim().split(/\r?\n/);
     const headers = parseCsvLine(headerLine);
@@ -998,9 +1292,93 @@ async function readBaseCsv() {
   }
 }
 
+function workdayDetailUrl(value = "") {
+  return sharedWorkdayDetailUrl(value);
+}
+
+function greenhouseDetailUrl(row = {}) {
+  const token = String(row.Source || "").match(/Greenhouse:([^\s|]+)/i)?.[1];
+  if (!token) return null;
+  try {
+    const url = new URL(row.URL || "");
+    const jobId = url.searchParams.get("gh_jid") || url.pathname.match(/\/jobs\/(\d+)/i)?.[1];
+    if (!jobId) return null;
+    return `https://boards-api.greenhouse.io/v1/boards/${token}/jobs/${jobId}`;
+  } catch {
+    return null;
+  }
+}
+
+async function getLivePreviousWorkdayRows() {
+  let previous;
+  try {
+    previous = JSON.parse(await fs.readFile(previousRawPath, "utf8"));
+  } catch {
+    return [];
+  }
+  const stable = JSON.parse(await fs.readFile("data/stable_quant_roles.json", "utf8"));
+  const candidates = [...new Map([...(previous.rows || []), ...(stable.roles || [])].map((row) => [stableUrl(row.URL), row])).values()].filter((row) => workdayDetailUrl(row.URL));
+  const verified = await mapLimit(candidates, 6, async (row) => {
+    const detailUrl = workdayDetailUrl(row.URL);
+    const response = await fetchText(detailUrl);
+    const audit = { URL: row.URL, status: [404, 410].includes(response.status) ? "absent" : "unknown", httpStatus: response.status };
+    postingAudits.push(audit);
+    if (!response.ok) return null;
+    let payload;
+    try { payload = JSON.parse(response.text); } catch { return null; }
+    const posting = payload.jobPostingInfo;
+    if (!posting?.title) return null;
+    audit.status = "active";
+    observedUrls.add(row.URL);
+    return {
+      ...row,
+      Title: posting.title,
+      Location: posting.location || row.Location || "",
+      Source: row.Source || "Previously seen official Workday posting",
+      Status: "Confirmed official posting",
+      Notes: [String(row.Notes || "").replace(/\s*\|\s*revalidated_from_previous_scan=true/g, ""), "revalidated_from_previous_scan=true"].filter(Boolean).join(" | "),
+    };
+  }, "workday-revalidate");
+  return verified.filter(Boolean);
+}
+
+async function getLivePreviousGreenhouseRows() {
+  let previous;
+  try {
+    previous = JSON.parse(await fs.readFile(previousRawPath, "utf8"));
+  } catch {
+    return [];
+  }
+  const stable = JSON.parse(await fs.readFile("data/stable_quant_roles.json", "utf8"));
+  const candidates = [...new Map([...(previous.rows || []), ...(stable.roles || [])].map((row) => [stableUrl(row.URL), row])).values()].filter((row) => greenhouseDetailUrl(row));
+  const verified = await mapLimit(candidates, 6, async (row) => {
+    const detailUrl = greenhouseDetailUrl(row);
+    const response = await fetchText(detailUrl);
+    const audit = { URL: row.URL, status: [404, 410].includes(response.status) ? "absent" : "unknown", httpStatus: response.status };
+    postingAudits.push(audit);
+    if (!response.ok) return null;
+    let posting;
+    try { posting = JSON.parse(response.text); } catch { return null; }
+    if (!posting?.title) return null;
+    audit.status = "active";
+    observedUrls.add(row.URL);
+    return {
+      ...row,
+      Title: posting.title,
+      Department: (posting.departments || []).map((department) => department.name).filter(Boolean).join(", ") || row.Department || "",
+      Location: posting.location?.name || row.Location || "",
+      Source: row.Source || "Previously seen official Greenhouse posting",
+      Status: "Confirmed official posting",
+      Notes: [String(row.Notes || "").replace(/\s*\|\s*revalidated_from_previous_scan=true/g, ""), posting.first_published ? `posted=${posting.first_published}` : "", "revalidated_from_previous_scan=true"].filter(Boolean).join(" | "),
+    };
+  }, "greenhouse-revalidate");
+  return verified.filter(Boolean);
+}
+
 const baseRows = (await readBaseCsv()).map((row) => ({
   Company: row.Company,
   Title: row.Title,
+  Department: row.Department || "",
   Location: row.Location,
   URL: row.URL,
   Source: row.Source || "Official ATS/careers page",
@@ -1011,17 +1389,37 @@ const baseRows = (await readBaseCsv()).map((row) => ({
 const searchedAt = new Date().toISOString();
 const careerPageDb = await ensureCareerPageDb();
 const careerPageScan = await scanCareerPages(careerPageDb);
-const janeStreetRows = await getJaneStreetStudentRows();
-const deshawRows = await getDeshawInternRows();
-const twoSigmaRows = await getTwoSigmaInternRows();
-const sigRows = await getSigInternRows();
+const livePreviousWorkdayRows = await getLivePreviousWorkdayRows();
+const livePreviousGreenhouseRows = await getLivePreviousGreenhouseRows();
+const customHealth = [];
+async function customRows(source, fn) {
+  try {
+    const rows = await fn();
+    customHealth.push({ source, complete: rows.length > 0, jobsRetained: rows.length, error: rows.length ? null : "Empty or unavailable custom feed; absence is unverified" });
+    for (const row of rows) observedUrls.add(row.URL);
+    return rows;
+  } catch (error) {
+    customHealth.push({ source, complete: false, jobsRetained: 0, error: error.message });
+    return [];
+  }
+}
+const janeStreetRows = await customRows("Official Jane Street jobs feed", getJaneStreetStudentRows);
+const deshawRows = await customRows("Official D. E. Shaw internships page", getDeshawInternRows);
+const twoSigmaRows = await customRows("Official Two Sigma careers portal", getTwoSigmaInternRows);
+const sigRows = await customRows("Official SIG jobs API", getSigInternRows);
+const balyasnyRows = await customRows("Official Balyasny Salesforce Experience Cloud feed", getBalyasnyInternRows);
+const goldmanRows = await customRows("Official Goldman Sachs Higher API", getGoldmanQuantRows);
 const customSourceAudits = [
   { company: "Jane Street", source: "Official jobs feed", jobsRetained: janeStreetRows.length },
   { company: "D. E. Shaw", source: "Official internships page", jobsRetained: deshawRows.length },
   { company: "Two Sigma", source: "Official paginated careers portal", jobsRetained: twoSigmaRows.length },
   { company: "Susquehanna International Group", source: "Official paginated jobs API", jobsRetained: sigRows.length },
+  { company: "Balyasny Asset Management", source: "Official Salesforce Experience Cloud feed", jobsRetained: balyasnyRows.length },
+  { company: "Goldman Sachs", source: "Official Higher campus GraphQL API", jobsRetained: goldmanRows.length },
+  { company: "Previously seen Workday roles", source: "Official Workday job-detail APIs", jobsRetained: livePreviousWorkdayRows.length },
+  { company: "Previously seen Greenhouse roles", source: "Official Greenhouse job-detail APIs", jobsRetained: livePreviousGreenhouseRows.length },
 ];
-const careerPageRows = [...careerPageScan.rows, ...janeStreetRows, ...deshawRows, ...twoSigmaRows, ...sigRows];
+const careerPageRows = [...careerPageScan.rows, ...livePreviousWorkdayRows, ...livePreviousGreenhouseRows, ...janeStreetRows, ...deshawRows, ...twoSigmaRows, ...sigRows, ...balyasnyRows, ...goldmanRows];
 const discoveredNested = await mapLimit(companies, 8, async (company) => {
   const companyHits = [];
   const seen = new Set();
@@ -1050,7 +1448,17 @@ const discoveredNested = await mapLimit(companies, 8, async (company) => {
 
       const sourceType = classifySource(company, url);
       if (sourceType !== "Official posting/page" && !/\b2027\b/.test(`${title} ${notes}`)) continue;
-      const confidence = sourceType === "Official posting/page" ? "Likely official; verify application form" : "Aggregator/web lead; verify on official site";
+      let confidence = sourceType === "Official posting/page" ? "Likely official; verify application form" : "Aggregator/web lead; verify on official site";
+      if (sourceType === "Official posting/page") {
+        const enriched = await enrichOfficialJobHit(url);
+        if (enriched) {
+          url = enriched.canonicalUrl || url;
+          title = enriched.title || title;
+          location = enriched.location || location;
+          notes = [enriched.datePosted ? `datePosted=${enriched.datePosted}` : "", notes].filter(Boolean).join(" | ");
+          confidence = "Confirmed official posting";
+        }
+      }
       companyHits.push({
         Company: company,
         Title: title,
@@ -1175,24 +1583,6 @@ const manualLeads = [
     Notes: "Official page says applications are open and candidates can apply to functions such as Investment Research and Analytics & Modeling.",
   },
   {
-    Company: "Goldman Sachs",
-    Title: "2027 | Americas | New York City Area | Wealth Management, Quantitative Finance | Summer Analyst",
-    Location: "New York",
-    URL: "https://higher.gs.com/roles/155800",
-    Source: "Official careers page",
-    Status: "Confirmed official posting",
-    Notes: "Official Goldman Sachs Higher role page; Summer Analyst program for bachelor's/graduate degree students.",
-  },
-  {
-    Company: "Goldman Sachs",
-    Title: "2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst",
-    Location: "Singapore",
-    URL: "https://higher.gs.com/roles/170600",
-    Source: "Official careers page",
-    Status: "Confirmed official posting",
-    Notes: "Official Goldman Sachs Higher role page; quantitative strategists construct quantitative models for global markets.",
-  },
-  {
     Company: "J.P. Morgan",
     Title: "Markets Summer Analyst Program",
     Location: "Varies by open location",
@@ -1213,13 +1603,24 @@ const manualLeads = [
 ];
 
 const rowsByUrl = new Map();
+const verifiedManualLeads = [];
+for (const row of manualLeads) {
+  if (/program page|broad program|internship page|aggregator|web-discovered/i.test(`${row.Source} ${row.Status}`)) continue;
+  const result = await verifyOfficialPosting(row);
+  postingAudits.push({ URL: row.URL, status: result.status, reason: result.reason });
+  if (result.status === "active") {
+    observedUrls.add(row.URL);
+    verifiedManualLeads.push(row);
+  }
+}
+const workdayIdentities = new Set();
 const officialIdentities = new Set();
 const officialTitleIdentities = new Set();
 const companiesWithEnumeratedRows = new Set([...careerPageRows, ...baseRows].map((row) => row.Company));
 const companiesWithEnumeratedSources = new Set([
   ...companiesWithEnumeratedRows,
   ...careerPageScan.audits.filter((audit) => audit.boards.length > 0).map((audit) => audit.company),
-  ...customSourceAudits.map((audit) => audit.company),
+  ...customSourceAudits.filter((audit) => audit.jobsRetained > 0).map((audit) => audit.company),
 ]);
 const discoveredCandidates = discoveredNested.flat().filter((row) => !companiesWithEnumeratedSources.has(row.Company));
 const companiesWithOfficialDiscoveredRows = new Set(discoveredCandidates
@@ -1227,15 +1628,32 @@ const companiesWithOfficialDiscoveredRows = new Set(discoveredCandidates
   .map((row) => row.Company));
 const discoveredRows = discoveredCandidates.filter((row) => row.Source === "Official posting/page" || !companiesWithOfficialDiscoveredRows.has(row.Company));
 const manualLeadUrls = new Set(manualLeads.map((row) => row.URL.toLowerCase().replace(/\/$/, "")));
-for (const row of [...careerPageRows, ...baseRows, ...manualLeads, ...discoveredRows]) {
+function workdayRequisitionIdentity(row) {
+  try {
+    const url = new URL(row.URL || "");
+    if (!/\.myworkday(?:jobs|site)\.com$/i.test(url.hostname)) return "";
+    const tail = url.pathname.split("/").filter(Boolean).at(-1) || "";
+    const match = tail.match(/_([A-Z]*-?\d+)(?:-\d+)?$/i);
+    if (!match) return "";
+    return `${row.Company}\n${match[1]}\n${row.Title}`.toLowerCase();
+  } catch {
+    return "";
+  }
+}
+for (const row of [...careerPageRows, ...baseRows, ...verifiedManualLeads, ...discoveredRows]) {
   if (!row.URL) continue;
-  const urlKey = row.URL.toLowerCase();
+  if (/aggregator|web-discovered|web lead/i.test(`${row.Source} ${row.Status}`)) continue;
+  const urlKey = stableUrl(row.URL);
   if (rowsByUrl.has(urlKey)) continue;
-  if (!manualLeadUrls.has(urlKey.replace(/\/$/, "")) && !relevantCareerJob(row)) continue;
+  if (!relevantCareerJob(row)) continue;
+  if (row.Source === "Official posting/page" && row.Status !== "Confirmed official posting") continue;
   if (row.Company !== "AQR Capital Management" && /\bAQR\b|AQR Capital/i.test(`${row.Title} ${row.Notes} ${row.URL}`)) continue;
   if (row.Company !== "IMC Financial Markets" && /IMC Trading|www\.imc\.com/i.test(`${row.Title} ${row.Notes} ${row.URL}`)) continue;
   if (row.Company !== "J.P. Morgan" && /jpmorgan|jpmorganchase/i.test(`${row.Title} ${row.Notes} ${row.URL}`)) continue;
   row.Title = row.Title.replace(/\s+null$/i, "").trim();
+  row.Location = String(row.Location || "").trim();
+  const workdayIdentity = sharedWorkdayIdentity(row);
+  if (workdayIdentity && workdayIdentities.has(workdayIdentity)) continue;
   const identityKey = `${row.Company}\n${row.Title}\n${row.Location}`.toLowerCase();
   const titleIdentityKey = `${row.Company}\n${row.Title}`.toLowerCase();
   const isOfficial = /official|career page/i.test(`${row.Source} ${row.Status}`) && !/aggregator|web lead/i.test(`${row.Source} ${row.Status}`);
@@ -1243,6 +1661,7 @@ for (const row of [...careerPageRows, ...baseRows, ...manualLeads, ...discovered
   if (!isOfficial && (officialIdentities.has(identityKey) || officialTitleIdentities.has(titleIdentityKey))) continue;
   if (row.Notes?.length > 900) row.Notes = `${row.Notes.slice(0, 900)}...`;
   rowsByUrl.set(urlKey, row);
+  if (workdayIdentity) workdayIdentities.add(workdayIdentity);
   if (isOfficial) {
     officialIdentities.add(identityKey);
     officialTitleIdentities.add(titleIdentityKey);
@@ -1261,6 +1680,14 @@ async function readKnownBoardCoverage() {
 }
 
 const rows = [...rowsByUrl.values()].sort((a, b) => a.Company.localeCompare(b.Company) || a.Title.localeCompare(b.Title));
+const baseRaw = JSON.parse(await fs.readFile("data/quant_internship_scan_raw.json", "utf8"));
+for (const result of baseRaw.results || []) for (const url of result.observedUrls || []) observedUrls.add(url);
+postingAudits.push(...(baseRaw.manualPostingAudits || []).map(({ URL, status, reason }) => ({ URL, status, reason })));
+const sourceHealth = [
+  ...(baseRaw.results || []).flatMap((result) => result.boards.map((board) => ({ company: result.company, source: board.source, complete: true, jobsSeen: board.count }))),
+  ...careerPageScan.audits.flatMap((audit) => audit.boards.map((board) => ({ company: audit.company, ...board }))),
+  ...customHealth,
+];
 for (const row of rows) row.Region = regionForLocation(row.Location);
 const companiesWithoutRows = companies.filter((company) => !rows.some((row) => row.Company === company)).sort();
 const enumeratedCoverage = await readKnownBoardCoverage();
@@ -1270,9 +1697,10 @@ for (const audit of careerPageScan.audits) {
   }
 }
 const companiesWithUnsupportedAts = new Set(careerPageScan.audits.filter((audit) => (audit.unsupportedAts || []).length > 0).map((audit) => audit.company));
-const confirmedNoOpenPostings = companiesWithoutRows.filter((company) => enumeratedCoverage.has(company) && enumeratedCoverage.get(company) === 0 && !companiesWithUnsupportedAts.has(company));
-const confirmedNoMatchingRoles = companiesWithoutRows.filter((company) => (enumeratedCoverage.get(company) || 0) > 0 && !companiesWithUnsupportedAts.has(company));
-const couldNotFullyVerify = companiesWithoutRows.filter((company) => !enumeratedCoverage.has(company) || companiesWithUnsupportedAts.has(company));
+const fullyEnumerated = new Set(sourceHealth.filter((source) => source.complete && source.company).map((source) => source.company));
+const confirmedNoOpenPostings = companiesWithoutRows.filter((company) => fullyEnumerated.has(company) && enumeratedCoverage.get(company) === 0 && !companiesWithUnsupportedAts.has(company));
+const confirmedNoMatchingRoles = companiesWithoutRows.filter((company) => fullyEnumerated.has(company) && (enumeratedCoverage.get(company) || 0) > 0 && !companiesWithUnsupportedAts.has(company));
+const couldNotFullyVerify = companiesWithoutRows.filter((company) => !fullyEnumerated.has(company) || companiesWithUnsupportedAts.has(company));
 const csv = [
   ["Company", "Title", "Location", "Region", "URL", "Source", "Status", "Notes"].map(csvEscape).join(","),
   ...rows.map((row) => ["Company", "Title", "Location", "Region", "URL", "Source", "Status", "Notes"].map((key) => csvEscape(row[key])).join(",")),
@@ -1318,7 +1746,7 @@ const md = [
 
 await fs.writeFile("reports/quant_internship_roles_scan_v2.csv", csv, "utf8");
 await fs.writeFile("reports/quant_internship_roles_scan_v2.md", md, "utf8");
-await fs.writeFile("data/quant_internship_roles_scan_v2_raw.json", JSON.stringify({ searchedAt, companies, careerPageDb, careerPageScanTasks: careerPageScan.tasks, careerPageScanAudits: careerPageScan.audits, customSourceAudits, careerPageRows, rows, companiesWithoutRows, confirmedNoOpenPostings, confirmedNoMatchingRoles, couldNotFullyVerify }, null, 2), "utf8");
+await fs.writeFile("data/quant_internship_roles_scan_v2_raw.json", JSON.stringify({ searchedAt, companies, careerPageDb, careerPageScanTasks: careerPageScan.tasks, careerPageScanAudits: careerPageScan.audits, customSourceAudits, sourceHealth, postingAudits, observedUrls: [...observedUrls], careerPageRows, rows, companiesWithoutRows, confirmedNoOpenPostings, confirmedNoMatchingRoles, couldNotFullyVerify }, null, 2), "utf8");
 await fs.writeFile("data/quant_internship_roles_scan_v2_audit.json", JSON.stringify({
   searchedAt,
   companies,
