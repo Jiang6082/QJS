@@ -1,0 +1,27 @@
+name: One-off validated quant scan
+on:
+  push:
+    branches: [codex/cloud-scan-2026-09-27]
+permissions:
+  contents: read
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm test
+      - run: npm run refresh:v2
+      - run: node scripts/audit-neuberger.mjs
+      - uses: actions/upload-artifact@v4
+        if: success()
+        with:
+          name: qjs-scan-2026-09-27
+          path: |
+            README.md
+            reports/
+            data/
+          retention-days: 7
