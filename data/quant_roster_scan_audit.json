@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T00:26:37.764Z",
-  "scanStartedAt": "2026-09-26T00:21:40.686Z",
+  "generatedAt": "2026-09-27T16:21:20.131Z",
+  "scanStartedAt": "2026-09-27T16:16:38.993Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -353,7 +353,7 @@
       "careerPages": [
         "http://www.armadausa.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -885,7 +885,7 @@
       "careerPages": [
         "https://barakmarketmaking.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 128,
+      "jobsSeen": 137,
       "relevantInternships": 1
     },
     {
@@ -1108,7 +1108,7 @@
       "careerPages": [
         "https://esteeadvisors.com/careers.php"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1240,7 +1240,7 @@
       ],
       "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 86,
+      "jobsSeen": 87,
       "relevantInternships": 5
     },
     {
@@ -1336,7 +1336,7 @@
       "careerPages": [
         "https://deepbluecap.com/vacancies/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1556,7 +1556,7 @@
       "careerPages": [
         "https://invemo.ch/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1608,7 +1608,7 @@
       "careerPages": [
         "https://davincitrading.com/job/graduate-trader/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2645,7 +2645,7 @@
       "careerPages": [
         "https://openfutures.in/index.php/career/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2711,7 +2711,7 @@
       "careerPages": [
         "https://www.qube-rt.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3531,7 +3531,7 @@
       "careerPages": [
         "https://www.valkyrietrading.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4253,7 +4253,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 95,
+      "jobsSeen": 96,
       "relevantInternships": 1
     },
     {
@@ -4268,7 +4268,7 @@
       "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 4,
-      "relevantInternships": 2
+      "relevantInternships": 1
     }
   ]
 }

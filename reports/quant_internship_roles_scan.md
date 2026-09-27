@@ -1,6 +1,6 @@
 # Quant Internship Open Roles Scan
 
-Scanned: 2026-09-26T00:21:14.067Z
+Scanned: 2026-09-27T16:16:20.043Z
 Companies deduplicated: 174
 Open relevant roles found: 201
 
@@ -215,7 +215,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Jane Street** — checked Greenhouse:janestreet (228); Ashby:jane (22)
 - **Citadel** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **DRW** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **HRT** — checked Greenhouse:wehrtyou (86); Ashby:hrt (0)
+- **HRT** — checked Greenhouse:wehrtyou (87); Ashby:hrt (0)
 - **Arrowstreet** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **3red Partners** — checked Greenhouse:3redpartners (8)
 - **A Priori** — no public Greenhouse/Lever/Ashby board discovered by slug scan

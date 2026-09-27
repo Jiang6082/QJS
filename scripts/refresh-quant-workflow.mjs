@@ -67,6 +67,7 @@ try {
     ["build-cumulative-application-report.mjs", []],
     ["build_scan_dashboard.mjs", []],
     ["build-readme.mjs", []],
+    ["audit-neuberger.mjs", []],
     ["validate-quant-workflow.mjs", []],
   ]) step(script, args);
   rebuilt = true;

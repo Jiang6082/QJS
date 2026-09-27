@@ -1,0 +1,58 @@
+{
+  "checkedAt": "2026-09-27T16:21:32.300Z",
+  "boards": [
+    {
+      "site": "NBCareers",
+      "jobsSeen": 71,
+      "searchComplete": true,
+      "errors": []
+    },
+    {
+      "site": "PWM",
+      "jobsSeen": 12,
+      "searchComplete": true,
+      "errors": []
+    }
+  ],
+  "roles": [
+    {
+      "title": "Quantitative 2027 Summer Intern",
+      "externalPath": "/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643",
+      "locationsText": "New York, NY",
+      "postedOn": "Posted 4 Days Ago",
+      "bulletFields": [
+        "R0012643"
+      ],
+      "URL": "https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643",
+      "inQuantScan": true,
+      "talentPool": false,
+      "detailError": null
+    },
+    {
+      "title": "Intern, Private Equity",
+      "externalPath": "/job/Tokyo/Intern--Private-Equity_R0012546",
+      "locationsText": "Tokyo",
+      "postedOn": "Posted 13 Days Ago",
+      "bulletFields": [
+        "R0012546"
+      ],
+      "URL": "https://nb.wd1.myworkdayjobs.com/NBCareers/job/Tokyo/Intern--Private-Equity_R0012546",
+      "inQuantScan": false,
+      "talentPool": false,
+      "detailError": null
+    },
+    {
+      "title": "Undergraduate & Graduate Internship Opportunities",
+      "externalPath": "/job/New-York-NY/Undergraduate---Graduate-Internship-Opportunities_R0011429",
+      "locationsText": "4 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "bulletFields": [
+        "R0011429"
+      ],
+      "URL": "https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Undergraduate---Graduate-Internship-Opportunities_R0011429",
+      "inQuantScan": false,
+      "talentPool": true,
+      "detailError": null
+    }
+  ]
+}

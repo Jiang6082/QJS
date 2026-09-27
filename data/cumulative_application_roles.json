@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T00:26:38.491Z",
-  "currentScanAt": "2026-09-26T00:21:40.686Z",
+  "generatedAt": "2026-09-27T16:21:20.895Z",
+  "currentScanAt": "2026-09-27T16:16:38.993Z",
   "total": 443,
-  "active": 388,
-  "notDetected": 55,
-  "newSincePreviousScan": 13,
+  "active": 381,
+  "notDetected": 62,
+  "newSincePreviousScan": 0,
   "manuallyRecovered": 5,
   "roles": [
     {
@@ -156,20 +156,6 @@
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-24",
       "first_seen": "2026-09-25",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "RRS Group",
-      "Title": "Associate IT Systems Administrator Intern - 2027",
-      "Location": "Remote",
-      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000151541069",
-      "Source": "Career page SmartRecruiters:RRSGroup",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-24",
-      "first_seen": "2026-09-24",
       "discovery_note": null,
       "manually_verified": false,
       "verifiedAt": null,
@@ -652,20 +638,6 @@
       "status": "active"
     },
     {
-      "Company": "Wellington Management",
-      "Title": "Investment Platform Technology Co-op",
-      "Location": "Boston, MA, United States",
-      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Platform-Technology-Co-op_R94902-1",
-      "Source": "Career page Workday:wellington/External",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-21",
-      "first_seen": "2026-09-23",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "BMO Capital Markets",
       "Title": "Software Developer, Winter 2027 (Internship) - 4 months",
       "Location": "San Ramon, CA, USA",
@@ -834,20 +806,6 @@
       "status": "active"
     },
     {
-      "Company": "Wellington Management",
-      "Title": "Supervisory Practices & Analytics Co-Op",
-      "Location": "Boston, MA, United States",
-      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Supervisory-Practices---Analytics-Co-Op_R94873-1",
-      "Source": "Career page Workday:wellington/External",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-17",
-      "first_seen": "2026-09-17",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "Connor Clark & Lunn",
       "Title": "Intern, Institutional Portfolio Operations",
       "Location": "Vancouver, British Columbia, Canada",
@@ -923,34 +881,6 @@
       "Location": "London",
       "URL": "https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e",
       "Source": "Career page Ashby:voleon",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-16",
-      "first_seen": "2026-09-17",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "Wellington Management",
-      "Title": "Portfolio Reference Data Analyst Co-op",
-      "Location": "Boston, MA, United States",
-      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829",
-      "Source": "Career page Workday:wellington/External",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-16",
-      "first_seen": "2026-09-17",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "Wellington Management",
-      "Title": "Quantitative Trading Co-op",
-      "Location": "Boston, MA, United States",
-      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1",
-      "Source": "Career page Workday:wellington/External",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-16",
       "first_seen": "2026-09-17",
@@ -2654,20 +2584,6 @@
       "status": "active"
     },
     {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Quantitative Equity Investing Internship Program",
-      "Location": "Baltimore, MD",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
-      "Source": "Career page Workday:troweprice/TRowePrice",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-04",
-      "first_seen": "2026-09-07",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "AXQ Capital",
       "Title": "Quantitative Research Intern (Summer 2027)",
       "Location": "New York",
@@ -3532,7 +3448,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-25",
+      "verifiedAt": "2026-09-27",
       "status": "active"
     },
     {
@@ -5356,20 +5272,6 @@
       "status": "active"
     },
     {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Technology and Data Internship",
-      "Location": "2 Locations",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677",
-      "Source": "Career page Workday:troweprice/TRowePrice",
-      "source_status": "Confirmed official posting",
-      "release_date": null,
-      "first_seen": "2026-07-23",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "Walleye Capital",
       "Title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
       "Location": "Miami, FL",
@@ -5394,7 +5296,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-25",
+      "verifiedAt": "2026-09-27",
       "status": "active"
     },
     {
@@ -5408,7 +5310,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-25",
+      "verifiedAt": "2026-09-27",
       "status": "active"
     },
     {
@@ -5422,7 +5324,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-25",
+      "verifiedAt": "2026-09-27",
       "status": "active"
     },
     {
@@ -5436,8 +5338,22 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-25",
+      "verifiedAt": "2026-09-27",
       "status": "active"
+    },
+    {
+      "Company": "RRS Group",
+      "Title": "Associate IT Systems Administrator Intern - 2027",
+      "Location": "Remote",
+      "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000151541069",
+      "Source": "Career page SmartRecruiters:RRSGroup",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-24",
+      "first_seen": "2026-09-24",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
     },
     {
       "Company": "Capital Group",
@@ -5510,6 +5426,20 @@
       "status": "not_detected"
     },
     {
+      "Company": "Wellington Management",
+      "Title": "Investment Platform Technology Co-op",
+      "Location": "Boston, MA, United States",
+      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Platform-Technology-Co-op_R94902-1",
+      "Source": "Career page Workday:wellington/External",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-21",
+      "first_seen": "2026-09-23",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
       "Company": "RRS Group",
       "Title": "Associate IT Systems Administrator Intern - 2027",
       "Location": "Remote",
@@ -5560,6 +5490,48 @@
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-17",
       "first_seen": "2026-09-18",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Wellington Management",
+      "Title": "Supervisory Practices & Analytics Co-Op",
+      "Location": "Boston, MA, United States",
+      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Supervisory-Practices---Analytics-Co-Op_R94873-1",
+      "Source": "Career page Workday:wellington/External",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-17",
+      "first_seen": "2026-09-17",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Wellington Management",
+      "Title": "Portfolio Reference Data Analyst Co-op",
+      "Location": "Boston, MA, United States",
+      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829",
+      "Source": "Career page Workday:wellington/External",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-16",
+      "first_seen": "2026-09-17",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Wellington Management",
+      "Title": "Quantitative Trading Co-op",
+      "Location": "Boston, MA, United States",
+      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1",
+      "Source": "Career page Workday:wellington/External",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-16",
+      "first_seen": "2026-09-17",
       "discovery_note": null,
       "manually_verified": false,
       "verifiedAt": null,
@@ -5780,6 +5752,20 @@
       "Title": "2027 Global Trading Internship Program",
       "Location": "Baltimore, MD",
       "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
+      "Source": "Career page Workday:troweprice/TRowePrice",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-04",
+      "first_seen": "2026-09-07",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "T. Rowe Price",
+      "Title": "2027 Quantitative Equity Investing Internship Program",
+      "Location": "Baltimore, MD",
+      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
       "Source": "Career page Workday:troweprice/TRowePrice",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-04",
@@ -6201,6 +6187,20 @@
       "Location": "London, Paris",
       "URL": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/",
       "Source": "Official careers page (browser-audited 2026-07-14)",
+      "source_status": "Confirmed official posting",
+      "release_date": null,
+      "first_seen": "2026-07-23",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "T. Rowe Price",
+      "Title": "2027 Technology and Data Internship",
+      "Location": "2 Locations",
+      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677",
+      "Source": "Career page Workday:troweprice/TRowePrice",
       "source_status": "Confirmed official posting",
       "release_date": null,
       "first_seen": "2026-07-23",

@@ -1,9 +1,13 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 107
-Last updated: 2026-09-26T00:21:40.686Z
+Total closure events recorded: 108
+Last updated: 2026-09-27T16:16:38.993Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-09-27 (1)
+
+- **RRS Group** - [Associate IT Systems Administrator Intern - 2027](https://jobs.smartrecruiters.com/RRSGroup/744000151541069) - Remote
 
 ### 2026-09-25 (5)
 
