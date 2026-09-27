@@ -1,4 +1,5 @@
 import fs from "node:fs/promises";
+import { collectWorkdayPostings } from "../tools/workday-search.mjs";
 import { groupedRoleMarkdown, regionForLocation } from "../tools/regions.mjs";
 import { isKnownWrongCareerPage } from "../tools/career-source-guards.mjs";
 import { stableUrl, workdayRequisitionIdentity as sharedWorkdayIdentity, workdayJobUrl, workdayDetailUrl as sharedWorkdayDetailUrl } from "../tools/role-identity.mjs";
@@ -705,14 +706,7 @@ async function getWorkdayBoard(company, siteInfo, careerPageUrl = "") {
   const request = (async () => {
     const url = `${origin}/wday/cxs/${siteInfo.tenant}/${siteInfo.site}/jobs`;
     try {
-      const postingsByPath = new Map();
-      let complete = true;
-      const limit = 20;
-      const searchTexts = ["", "intern", "summer analyst", "summer associate", "off cycle internship", "co-op", "industrial placement"];
-      for (const searchText of searchTexts) {
-        let resultsSeen = 0;
-        const resultCap = searchText ? 10000 : 40;
-        for (let offset = 0; offset < resultCap; offset += limit) {
+      const collected = await collectWorkdayPostings(async ({ searchText, offset, limit }) => {
           const controller = new AbortController();
           const timeout = setTimeout(() => controller.abort(), 12000);
           let json;
@@ -723,24 +717,15 @@ async function getWorkdayBoard(company, siteInfo, careerPageUrl = "") {
               headers: { "accept": "application/json", "content-type": "application/json" },
               body: JSON.stringify({ appliedFacets: {}, limit, offset, searchText }),
             });
-            if (!res.ok) { complete = false; break; }
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
             json = await res.json();
           } finally {
             clearTimeout(timeout);
           }
-          if (!Array.isArray(json.jobPostings)) { complete = false; break; }
-          const page = json.jobPostings;
-          for (const posting of page) {
-            const key = posting.externalPath || `${posting.title}|${posting.locationsText}`;
-            postingsByPath.set(key, posting);
-          }
-          resultsSeen += page.length;
-          if (!page.length || resultsSeen >= (json.total ?? Infinity) || page.length < limit) break;
-          if (offset + limit >= resultCap && searchText) complete = false;
-        }
-      }
-      const postings = [...postingsByPath.values()];
-      if (!postings.length && !complete) return null;
+          return json;
+      });
+      const { postings, searchComplete, errors } = collected;
+      if (!postings.length && !searchComplete) return null;
       const jobs = postings.map((job) => ({
         Company: company,
         Title: job.title || "",
@@ -753,7 +738,7 @@ async function getWorkdayBoard(company, siteInfo, careerPageUrl = "") {
       }));
       // Searches cover the internship terms, not the entire unfiltered board.
       // Only direct job-detail responses may establish a Workday closure.
-      return { source: `Workday:${siteInfo.tenant}/${siteInfo.site}`, jobs, complete: false, searchComplete: complete };
+      return { source: `Workday:${siteInfo.tenant}/${siteInfo.site}`, jobs, complete: false, searchComplete, errors };
     } catch {
       return null;
     }
@@ -844,6 +829,7 @@ async function scanCareerPage(company, pageUrl) {
       boards: boards.map((board) => ({
         source: board.source,
         complete: board.complete !== false,
+        ...(board.searchComplete === undefined ? {} : { searchComplete: board.searchComplete, errors: board.errors }),
         jobsSeen: board.jobs.length,
         relevantInternships: board.jobs.filter(relevantCareerJob).length,
       })),
