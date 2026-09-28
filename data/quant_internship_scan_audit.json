@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-27T16:16:20.043Z",
+  "scannedAt": "2026-09-28T11:11:31.919Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -347,10 +347,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:axq",
-          "count": 23
+          "count": 22
         }
       ],
-      "jobsSeen": 23,
+      "jobsSeen": 22,
       "relevantInternships": 1
     },
     {
@@ -446,13 +446,8 @@
     },
     {
       "company": "Capital Fund Management",
-      "resolvedBoards": [
-        {
-          "source": "Lever:capital",
-          "count": 45
-        }
-      ],
-      "jobsSeen": 45,
+      "resolvedBoards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -460,10 +455,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 45
+          "count": 46
         }
       ],
-      "jobsSeen": 45,
+      "jobsSeen": 46,
       "relevantInternships": 0
     },
     {
@@ -810,10 +805,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 175
+          "count": 174
         }
       ],
-      "jobsSeen": 175,
+      "jobsSeen": 174,
       "relevantInternships": 16
     },
     {
@@ -839,14 +834,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:jumptrading",
-          "count": 113
+          "count": 114
         },
         {
           "source": "Ashby:jump",
           "count": 4
         }
       ],
-      "jobsSeen": 117,
+      "jobsSeen": 118,
       "relevantInternships": 29
     },
     {
@@ -906,10 +901,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 59
+          "count": 58
         }
       ],
-      "jobsSeen": 59,
+      "jobsSeen": 58,
       "relevantInternships": 4
     },
     {
@@ -988,14 +983,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 166
+          "count": 168
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 166,
+      "jobsSeen": 168,
       "relevantInternships": 20
     },
     {
@@ -1119,10 +1114,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 200
+          "count": 199
         }
       ],
-      "jobsSeen": 200,
+      "jobsSeen": 199,
       "relevantInternships": 7
     },
     {
@@ -1238,10 +1233,6 @@
       "company": "Sunrise Futures",
       "resolvedBoards": [
         {
-          "source": "Greenhouse:sunrise",
-          "count": 13
-        },
-        {
           "source": "Ashby:sunrise",
           "count": 12
         },
@@ -1250,7 +1241,7 @@
           "count": 5
         }
       ],
-      "jobsSeen": 30,
+      "jobsSeen": 17,
       "relevantInternships": 0
     },
     {
@@ -1535,11 +1526,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:worldquant",
-          "count": 101
+          "count": 100
         }
       ],
-      "jobsSeen": 101,
-      "relevantInternships": 4
+      "jobsSeen": 100,
+      "relevantInternships": 3
     },
     {
       "company": "Xantium",
@@ -1608,10 +1599,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:davinciderivatives",
-          "count": 16
+          "count": 15
         }
       ],
-      "jobsSeen": 16,
+      "jobsSeen": 15,
       "relevantInternships": 1
     },
     {

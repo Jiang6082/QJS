@@ -1,10 +1,13 @@
-# Roles posted 2026-09-07 → 2026-09-27 (144 with source posting dates)
+# Roles posted 2026-09-08 → 2026-09-28 (136 with source posting dates)
 
 _Dates come from employer publication fields or dated relative labels. Relative labels have day-level precision; source publication dates can reflect a repost. Internship start dates and edit timestamps are not release dates._
 
-## Goldman Sachs (19)
+## Goldman Sachs (20)
 
-- **2026-09-25** — [2027 | EMEA | London | Global Investment Research, Equity Research | Summer Analyst](https://higher.gs.com/roles/170863) — London, Greater London, England, United Kingdom
+- **2026-09-28** — [2027 | APEJ | Hong Kong | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169893) — Hong Kong, Hong Kong
+- **2026-09-28** — [2027 | APEJ | Seoul | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169895) — Seoul, Seoul, Korea, Republic of
+- **2026-09-28** — [2027 | APEJ | Singapore | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169894) — Singapore
+- **2026-09-27** — [2027 | Japan | Tokyo | Global Investment Research, Macro Research, Economics | Seasonal / Off-cycle Internship](https://higher.gs.com/roles/183308) — Tokyo, Japan
 - **2026-09-24** — [2027 | Americas | Dallas | Banking Analytics & Solutions Group | Summer Analyst](https://higher.gs.com/roles/185351) — Dallas, TX, United States
 - **2026-09-23** — [2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/169905) — Hong Kong, Hong Kong
 - **2026-09-23** — [2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/169906) — Hong Kong, Hong Kong
@@ -12,7 +15,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-23** — [2027 | APEJ | Shanghai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170820) — Shanghai, Shanghai, China
 - **2026-09-23** — [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/170600) — Singapore
 - **2026-09-23** — [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/170601) — Singapore
-- **2026-09-21** — [2027 | APEJ | Hong Kong | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169893) — Hong Kong, Hong Kong
 - **2026-09-21** — [2027 | APEJ | Hong Kong | Risk, Credit Risk | Summer Analyst](https://higher.gs.com/roles/170824) — Hong Kong, Hong Kong
 - **2026-09-21** — [2027 | APEJ | Hong Kong | Risk, Market Risk | Summer Analyst](https://higher.gs.com/roles/170823) — Hong Kong, Hong Kong
 - **2026-09-18** — [2026 | Japan | Tokyo | Global Investment Research | Seasonal / Off-cycle](https://higher.gs.com/roles/161037) — Tokyo, Japan
@@ -22,9 +24,8 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-18** — [2027 | Japan | Tokyo | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170821) — Tokyo, Japan
 - **2026-09-10** — [2027 | EMEA | London | Asset Management, Infrastructure Private Equity | Seasonal/Off-Cycle](https://higher.gs.com/roles/183954) — London, Greater London, England, United Kingdom
 - **2026-09-08** — [2027 I Americas I New York City Area I Global Investment Research, Equity Research I Summer Associate](https://higher.gs.com/roles/184069) — New York, NY, United States
-- **2026-09-07** — [2027 | APEJ | Mumbai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/183942) — Mumbai, Maharashtra, India
 
-## Barclays (16)
+## Barclays (15)
 
 - **2026-09-09** — [2027 Customer and Digital - Data and Analytics Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278) — Glasgow Campus _(relative source date)_
 - **2026-09-09** — [2027 Customer and Digital - Data and Analytics Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280) — Canary Wharf, 1 Churchill Place _(relative source date)_
@@ -41,23 +42,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-09** — [2027 Technology Developer Summer Internship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379) — Northampton, Barclays Campus, Pavilion Drive _(relative source date)_
 - **2026-09-09** — [Sales, Trading and Structuring Off Cycle Internship Programme 2027 London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-London_JR-0000124716) — Canary Wharf, 1 Churchill Place _(relative source date)_
 - **2026-09-09** — [Sales, Trading and Structuring Summer Internship Programme 2027 London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-London_JR-0000124692) — Canary Wharf, 1 Churchill Place _(relative source date)_
-- **2026-09-07** — [Quantitative Analytics Associate Off Cycle Internship Programme 2027 Paris](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Quantitative-Analytics-Associate-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124726) — Paris, 52 avenue Hoche _(relative source date)_
-
-## Brevan Howard (13)
-
-- **2026-09-24** — [2027 Summer Internship Program – Systematic Trading, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619) — London _(relative source date)_
-- **2026-09-22** — [2027 Summer Internship Program - AI & Quantitative Analyst, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605) — London _(relative source date)_
-- **2026-09-21** — [2027 Summer Internship Program - AI & Quantitative Analyst, Abu Dhabi](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--Abu-Dhabi_JR101613) — Abu Dhabi _(relative source date)_
-- **2026-09-15** — [2027 Summer Internship Program – Trading, Geneva](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607) — Geneva _(relative source date)_
-- **2026-09-14** — [2027 Summer Internship Program – AI & Quantitative Analyst, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) — New York _(relative source date)_
-- **2026-09-11** — [2027 Summer Internship Program – Systematic Data Strategy, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596) — New York _(relative source date)_
-- **2026-09-11** — [2027 Summer Internship Program – Systematic Execution Research, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595) — New York _(relative source date)_
-- **2026-09-11** — [2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597) — New York _(relative source date)_
-- **2026-09-09** — [2027 Summer Internship Program – Systematic Trading, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591) — New York _(relative source date)_
-- **2026-09-07** — [2027 Summer Internship Program – Trading, Abu Dhabi](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2027-Summer-Internship-Program---Trading--Abu-Dhabi_JR101586) — Abu Dhabi _(relative source date)_
-- **2026-09-07** — [2027 Summer Internship Program – Trading, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Trading--London_JR101584) — London _(relative source date)_
-- **2026-09-07** — [2027 Summer Internship Program – Trading, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Trading--New-York_JR101583) — New York _(relative source date)_
-- **2026-09-07** — [2027 Summer Internship Program – Trading, Singapore](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Singapore/XMLNAME-2027-Summer-Internship-Program---Trading--Singapore_JR101587) — Singapore _(relative source date)_
 
 ## BlackRock (12)
 
@@ -87,6 +71,18 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-10** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005) — New York
 - **2026-09-09** — [AI Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732429005) — Chicago
 - **2026-09-09** — [DevOps Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4730886005) — Chicago
+
+## Brevan Howard (9)
+
+- **2026-09-24** — [2027 Summer Internship Program – Systematic Trading, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619) — London _(relative source date)_
+- **2026-09-22** — [2027 Summer Internship Program - AI & Quantitative Analyst, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605) — London _(relative source date)_
+- **2026-09-21** — [2027 Summer Internship Program - AI & Quantitative Analyst, Abu Dhabi](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--Abu-Dhabi_JR101613) — Abu Dhabi _(relative source date)_
+- **2026-09-15** — [2027 Summer Internship Program – Trading, Geneva](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607) — Geneva _(relative source date)_
+- **2026-09-14** — [2027 Summer Internship Program – AI & Quantitative Analyst, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) — New York _(relative source date)_
+- **2026-09-11** — [2027 Summer Internship Program – Systematic Data Strategy, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596) — New York _(relative source date)_
+- **2026-09-11** — [2027 Summer Internship Program – Systematic Execution Research, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595) — New York _(relative source date)_
+- **2026-09-11** — [2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597) — New York _(relative source date)_
+- **2026-09-09** — [2027 Summer Internship Program – Systematic Trading, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591) — New York _(relative source date)_
 
 ## Qube Research & Technologies (6)
 
@@ -156,6 +152,11 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-22** — [Quant Research Analyst Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4982410101) — Shanghai
 - **2026-09-17** — [2027 Summer Technology Internship Programme](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101) — London
 
+## Wellington Management (2)
+
+- **2026-09-28** — [2027 Infrastructure Platform Industrial Placement Internship Programme (London)](https://wellington.wd5.myworkdayjobs.com/External/job/XMLNAME-2027-Infrastructure-Platform-Industrial-Placement-Internship-Programme--London-_R94932-2) — n/a _(relative source date)_
+- **2026-09-23** — [Technology Undergraduate Summer Internship](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778-1) — Boston, MA, United States _(relative source date)_
+
 ## Balyasny Asset Management (2)
 
 - **2026-09-23** — [Quantitative Developer - Systematic Strategies (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Developer---Systematic-Strategies--Summer-Internship-_REQ8625) — New York, Boston, San Francisco, Chicago _(relative source date)_
@@ -171,16 +172,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-21** — [Summer 2027 Undergraduate Internship - Audit, Risk, & Compliance](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Summer-2027-Undergraduate-Internship---Audit--Risk----Compliance_2134161-1) — 6 Locations _(relative source date)_
 - **2026-09-21** — [Summer 2027 Undergraduate Internship - Software](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524) — 3 Locations _(relative source date)_
 
-## Optiver (2)
-
-- **2026-09-21** — [High Performance Computing (HPC) Intern (Summer 2027 - Chicago)](https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002) — Chicago, Illinois, United States
-- **2026-09-07** — [2027 Shanghai Performance Researcher Summer Internship](https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002) — Shanghai, China
-
-## Tower Research Capital (2)
-
-- **2026-09-17** — [Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212179) — Montreal
-- **2026-09-07** — [Intern](https://www.tower-research.com/open-positions/?gh_jid=8184771) — Gift City
-
 ## Schonfeld (2)
 
 - **2026-09-16** — [2027 DMFI Quant Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8207942) — London, England, United Kingdom
@@ -190,11 +181,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 
 - **2026-09-14** — [Cloud, Infrastructure & Security Summer Internship 2027](https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Cloud--Infrastructure---Security-Summer-Internship-2027_R0004565) — Edinburgh _(relative source date)_
 - **2026-09-14** — [Software Engineering & Innovation Summer Internship 2027](https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Software-Engineering---Innovation-Summer-Internship-2027_R0004566) — Edinburgh _(relative source date)_
-
-## BP (2)
-
-- **2026-09-07** — [Summer Internship-Technology-Data & AI- Malaysia](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2) — Malaysia - Kuala Lumpur _(relative source date)_
-- **2026-09-07** — [Summer Internship-Technology-Enterprise Technology- Malaysia](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Enterprise-Technology--Malaysia_RQ115470-1) — Malaysia - Kuala Lumpur _(relative source date)_
 
 ## Gelber Group (1)
 
@@ -212,17 +198,21 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 
 - **2026-09-23** — [Quantitative 2027 Summer Intern](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643) — New York, NY _(relative source date)_
 
-## Wellington Management (1)
-
-- **2026-09-23** — [Technology Undergraduate Summer Internship](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778-1) — Boston, MA, United States _(relative source date)_
-
 ## AQR Capital Management (1)
 
 - **2026-09-22** — [2027 PhD Summer Associate, Machine Learning Research](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) — Greenwich, CT
 
+## Optiver (1)
+
+- **2026-09-21** — [High Performance Computing (HPC) Intern (Summer 2027 - Chicago)](https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002) — Chicago, Illinois, United States
+
 ## Viking Global Investors (1)
 
 - **2026-09-21** — [Data Science Intern](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) — New York, NY
+
+## Tower Research Capital (1)
+
+- **2026-09-17** — [Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212179) — Montreal
 
 ## Voleon Group (1)
 
@@ -255,10 +245,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 ## Invesco (1)
 
 - **2026-09-08** — [Intern, Client Portfolio Management, Invesco Real Estate Korea (6 months)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Seoul-Seoul/Intern--Client-Portfolio-Management--Invesco-Real-Estate-Korea--6-months-_R-15500-1) — Seoul, Seoul _(relative source date)_
-
-## Maven Securities (1)
-
-- **2026-09-07** — [London Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970) — London
 
 ## First seen in this window, source posting date unavailable (2)
 

@@ -1,9 +1,14 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 108
-Last updated: 2026-09-27T16:16:38.993Z
+Total closure events recorded: 110
+Last updated: 2026-09-28T11:12:09.036Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-09-28 (2)
+
+- **WorldQuant** - [Quant Developer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4572988006) - Singapore
+- **Goldman Sachs** - [2027 | EMEA | London | Global Investment Research, Equity Research | Summer Analyst](https://higher.gs.com/roles/170863) - London, Greater London, England, United Kingdom
 
 ### 2026-09-27 (1)
 

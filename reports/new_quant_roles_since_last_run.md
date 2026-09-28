@@ -1,11 +1,11 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-09-26T00:21:40.686Z
-Current scan: 2026-09-27T16:16:38.993Z
-Previous rows: 589
+Previous scan: 2026-09-27T16:16:38.993Z
+Current scan: 2026-09-28T11:12:09.036Z
+Previous rows: 582
 Current rows: 582
-New URLs confirmed in both source passes: 0
-Confirmed no longer present: 1
+New URLs confirmed in both source passes: 2
+Confirmed no longer present: 2
 
 ## New Roles By Region
 
@@ -17,9 +17,9 @@ _None._
 
 _None._
 
-### Asia (0)
+### Asia (1)
 
-_None._
+- **Goldman Sachs** - [2027 | Japan | Tokyo | Global Investment Research, Macro Research, Economics | Seasonal / Off-cycle Internship](https://higher.gs.com/roles/183308) - Tokyo, Japan - Confirmed official posting (Official Goldman Sachs Higher API): posted=2026-09-27 | role_id=183308 | program=Seasonal | division=Global Investment Research Division
 
 ### Oceania (0)
 
@@ -41,13 +41,14 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **Wellington Management** - [2027 Infrastructure Platform Industrial Placement Internship Programme (London)](https://wellington.wd5.myworkdayjobs.com/External/job/XMLNAME-2027-Infrastructure-Platform-Industrial-Placement-Internship-Programme--London-_R94932-2) - Confirmed official posting (Career page Workday:wellington/External): career_page=https://www.wellington.com/en/careers | Posted Today | R94932
 
 ## No Longer Present
 
-- **RRS Group** - [Associate IT Systems Administrator Intern - 2027](https://jobs.smartrecruiters.com/RRSGroup/744000151541069)
+- **WorldQuant** - [Quant Developer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4572988006)
+- **Goldman Sachs** - [2027 | EMEA | London | Global Investment Research, Equity Research | Summer Analyst](https://higher.gs.com/roles/170863)
 
 ## Missing but not confirmed closed
 

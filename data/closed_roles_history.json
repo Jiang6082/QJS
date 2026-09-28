@@ -1,5 +1,33 @@
 [
   {
+    "Company": "WorldQuant",
+    "Title": "Quant Developer Intern",
+    "Location": "Singapore",
+    "Region": "Asia",
+    "URL": "https://job-boards.greenhouse.io/worldquant/jobs/4572988006",
+    "Source": "Career page Greenhouse:worldquant",
+    "Status": "Confirmed official posting",
+    "Department": "Portfolio Management Division",
+    "Notes": "posted=2025-06-03T21:19:18-04:00 | career_page=https://job-boards.greenhouse.io/worldquant | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4572988006 | internship timing not stated in title | WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform. WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Employees ar...",
+    "lastSeenOpenAt": "2026-09-27T16:16:38.993Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-28T11:12:09.036Z"
+  },
+  {
+    "Company": "Goldman Sachs",
+    "Title": "2027 | EMEA | London | Global Investment Research, Equity Research | Summer Analyst",
+    "Department": "Global Investment Research Division",
+    "Location": "London, Greater London, England, United Kingdom",
+    "URL": "https://higher.gs.com/roles/170863",
+    "Source": "Official Goldman Sachs Higher API",
+    "Status": "Confirmed official posting",
+    "Notes": "posted=2026-09-25 | role_id=170863 | program=Summer Analyst | division=Global Investment Research Division",
+    "Region": "Europe",
+    "lastSeenOpenAt": "2026-09-27T16:16:38.993Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-28T11:12:09.036Z"
+  },
+  {
     "Company": "RRS Group",
     "Title": "Associate IT Systems Administrator Intern - 2027",
     "Department": "Information Technology",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T16:16:38.993Z",
+  "updatedAt": "2026-09-28T11:12:09.036Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -3700,7 +3700,7 @@
     "https://higher.gs.com/roles/169893": {
       "URL": "https://higher.gs.com/roles/169893",
       "first_seen": "2026-09-13",
-      "date": "2026-09-21",
+      "date": "2026-09-28",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/170819": {
@@ -3742,7 +3742,7 @@
     "https://higher.gs.com/roles/169895": {
       "URL": "https://higher.gs.com/roles/169895",
       "first_seen": "2026-09-13",
-      "date": "2026-06-30",
+      "date": "2026-09-28",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/170827": {
@@ -3760,7 +3760,7 @@
     "https://higher.gs.com/roles/169894": {
       "URL": "https://higher.gs.com/roles/169894",
       "first_seen": "2026-09-13",
-      "date": "2026-06-30",
+      "date": "2026-09-28",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/170822": {
@@ -4422,6 +4422,18 @@
       "first_seen": "2026-09-25",
       "date": "2026-09-24",
       "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/183308": {
+      "URL": "https://higher.gs.com/roles/183308",
+      "first_seen": "2026-09-28",
+      "date": "2026-09-27",
+      "evidence": "employer_field"
+    },
+    "wellington|R94932|2027 infrastructure platform industrial placement internship programme (london)": {
+      "URL": "https://wellington.wd5.myworkdayjobs.com/External/job/XMLNAME-2027-Infrastructure-Platform-Industrial-Placement-Internship-Programme--London-_R94932-2",
+      "first_seen": "2026-09-28",
+      "date": "2026-09-28",
+      "evidence": "employer_relative_label"
     }
   }
 }

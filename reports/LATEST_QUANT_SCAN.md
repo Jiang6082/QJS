@@ -1,19 +1,19 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-09-27T16:16:38.993Z
+Last updated: 2026-09-28T11:12:09.036Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 513
 - Current retained roles: 582
-- New stable job URLs since previous scan: 0
-- No longer present since previous scan: 1
+- New stable job URLs since previous scan: 2
+- No longer present since previous scan: 2
 - Missing without enough closure evidence: 64
 - Matching-role firms: 52
 - Confirmed no open postings: 3
-- Openings but no matching role: 34
-- Could not fully verify: 215
+- Openings but no matching role: 33
+- Could not fully verify: 216
 
 ## New Roles Since Previous Scan
 
@@ -25,9 +25,9 @@ _None._
 
 _None._
 
-### Asia (0)
+### Asia (1)
 
-_None._
+- **Goldman Sachs** - [2027 | Japan | Tokyo | Global Investment Research, Macro Research, Economics | Seasonal / Off-cycle Internship](https://higher.gs.com/roles/183308) - Tokyo, Japan
 
 ### Oceania (0)
 
@@ -49,13 +49,14 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **Wellington Management** - [2027 Infrastructure Platform Industrial Placement Internship Programme (London)](https://wellington.wd5.myworkdayjobs.com/External/job/XMLNAME-2027-Infrastructure-Platform-Industrial-Placement-Internship-Programme--London-_R94932-2) - Location not listed
 
 ## No Longer Present
 
-- **RRS Group** - [Associate IT Systems Administrator Intern - 2027](https://jobs.smartrecruiters.com/RRSGroup/744000151541069) - Remote
+- **WorldQuant** - [Quant Developer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4572988006) - Singapore
+- **Goldman Sachs** - [2027 | EMEA | London | Global Investment Research, Equity Research | Summer Analyst](https://higher.gs.com/roles/170863) - London, Greater London, England, United Kingdom
 
 ## Full Reports
 
