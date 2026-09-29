@@ -1,9 +1,15 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 110
-Last updated: 2026-09-28T11:12:09.036Z
+Total closure events recorded: 113
+Last updated: 2026-09-29T10:30:33.001Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-09-29 (3)
+
+- **XTX Markets** - [AI Research Internship - XTY Labs](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003) - New York
+- **Flow Traders** - [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) - New York
+- **RRS Group** - [2027 Associate Software Engineer Intern - Sophomore Only](https://jobs.smartrecruiters.com/RRSGroup/744000151931819) - Remote
 
 ### 2026-09-28 (2)
 

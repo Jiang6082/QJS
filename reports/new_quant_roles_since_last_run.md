@@ -1,25 +1,29 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-09-27T16:16:38.993Z
-Current scan: 2026-09-28T11:12:09.036Z
+Previous scan: 2026-09-28T11:12:09.036Z
+Current scan: 2026-09-29T10:30:33.001Z
 Previous rows: 582
 Current rows: 582
-New URLs confirmed in both source passes: 2
-Confirmed no longer present: 2
+New URLs confirmed in both source passes: 7
+Confirmed no longer present: 3
 
 ## New Roles By Region
 
-### North America (0)
+### North America (5)
+
+- **Connor Clark & Lunn** - [Intern, Institutional Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4407698009) - Vancouver, British Columbia, Canada - Confirmed official posting (Career page Greenhouse:cclfg): posted=2026-09-16T14:16:23-04:00 | career_page=https://cclfg.cclgroup.com/careers/opportunities/ | company_wrapper=https://cclfg.cclgroup.com/careers/opportunities/job?gh_jid=4407698009 | internship timing not stated in title | CC&L Financial Group is seeking an Intern to join the Institutional Portfolio Operations Team for an 8-Month term (Jan – August 2027). When you join the Institutional Portfolio Operations (IPO) team as an Intern, you are joining a group of tightknit, energetic, and social individuals, who together have a direct impact on the investment success of individuals, pension funds, foundations and endowments, First Nations and other institutional clients. The Institutional Portfolio Operations Intern is a critical part of our firm and clients’ success and is a challenging and rewarding role for the right individual. You will experience the inter-workings of the asset mana...
+- **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009) - Vancouver, British Columbia, Canada - Confirmed official posting (Career page Greenhouse:cclfg): posted=2026-09-21T16:37:17-04:00 | career_page=https://cclfg.cclgroup.com/careers/opportunities/ | company_wrapper=https://cclfg.cclgroup.com/careers/opportunities/job?gh_jid=4413182009 | internship timing not stated in title | Are you interested in joining one of Canada’s top-performing asset managers? We are looking for an Intern to join our Investment Analytics Engineering team . The IA Engineering Team exists at the intersection of financial analytics and programming/data science. The ideal candidate has a passion for both sides of the role, understands complex financial concepts, and can apply technology to find insights and implement solutions. This is a fantastic opportunity to join a high-impact, high-skill team whose scope and impact continue to grow. What You Will Do In this position, you will support our team's analytics discovery and platform digital transformation efforts. Y...
+- **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413204009) - Toronto, Ontario, Canada - Confirmed official posting (Career page Greenhouse:cclfg): posted=2026-09-21T16:37:19-04:00 | career_page=https://cclfg.cclgroup.com/careers/opportunities/ | company_wrapper=https://cclfg.cclgroup.com/careers/opportunities/job?gh_jid=4413204009 | internship timing not stated in title | Are you interested in joining one of Canada’s top-performing asset managers? We are looking for an Intern to join our Investment Analytics Engineering team . The IA Engineering Team exists at the intersection of financial analytics and programming/data science. The ideal candidate has a passion for both sides of the role, understands complex financial concepts, and can apply technology to find insights and implement solutions. This is a fantastic opportunity to join a high-impact, high-skill team whose scope and impact continue to grow. What You Will Do In this position, you will support our team's analytics discovery and platform digital transformation efforts. Y...
+- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410741009) - Toronto, Ontario, Canada - Confirmed official posting (Career page Greenhouse:cclfg): posted=2026-09-18T15:45:12-04:00 | career_page=https://cclfg.cclgroup.com/careers/opportunities/ | company_wrapper=https://cclfg.cclgroup.com/careers/opportunities/job?gh_jid=4410741009 | internship timing not stated in title | We are looking for a Retail Portfolio Operations Intern to join our Toronto-based Investment Resource Group for an 8-month term (January-August 2027). This role offers an excellent opportunity for a student or recent graduate interested in investment operations, financial services, process improvement, and technology. The successful candidate will gain hands-on experience supporting retail portfolio operations while working alongside experienced professionals in a collaborative and entrepreneurial environment What You Will Do Assist with maintaining and reconciling client portfolio data. Support the maintenance of operational systems and data used across portfolio...
+- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410729009) - Vancouver, British Columbia, Canada - Confirmed official posting (Career page Greenhouse:cclfg): posted=2026-09-18T15:44:48-04:00 | career_page=https://cclfg.cclgroup.com/careers/opportunities/ | company_wrapper=https://cclfg.cclgroup.com/careers/opportunities/job?gh_jid=4410729009 | internship timing not stated in title | We are looking for a Retail Portfolio Operations Intern to join our Vancouver-based Investment Resource Group for an 8-month term (January-August 2027). This role offers an excellent opportunity for a student or recent graduate interested in investment operations, financial services, process improvement, and technology. The successful candidate will gain hands-on experience supporting retail portfolio operations while working alongside experienced professionals in a collaborative and entrepreneurial environment What You Will Do Assist with maintaining and reconciling client portfolio data. Support the maintenance of operational systems and data used across portfol...
+
+### Europe (1)
+
+- **Man Group** - [Trading Summer 2027 Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101) - London - Confirmed official posting (Greenhouse:mangroup): posted=2026-09-28T12:42:31-04:00; internship timing: Summer 2027; undergrad/BS/MS language found
+
+### Asia (0)
 
 _None._
-
-### Europe (0)
-
-_None._
-
-### Asia (1)
-
-- **Goldman Sachs** - [2027 | Japan | Tokyo | Global Investment Research, Macro Research, Economics | Seasonal / Off-cycle Internship](https://higher.gs.com/roles/183308) - Tokyo, Japan - Confirmed official posting (Official Goldman Sachs Higher API): posted=2026-09-27 | role_id=183308 | program=Seasonal | division=Global Investment Research Division
 
 ### Oceania (0)
 
@@ -43,12 +47,13 @@ _None._
 
 ### Remote / Unspecified (1)
 
-- **Wellington Management** - [2027 Infrastructure Platform Industrial Placement Internship Programme (London)](https://wellington.wd5.myworkdayjobs.com/External/job/XMLNAME-2027-Infrastructure-Platform-Industrial-Placement-Internship-Programme--London-_R94932-2) - Confirmed official posting (Career page Workday:wellington/External): career_page=https://www.wellington.com/en/careers | Posted Today | R94932
+- **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) - 2 Locations - Confirmed official posting (Career page Workday:troweprice/TRowePrice): career_page=https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Associate-Analyst---T-Rowe-Price-Associates_68533 | Posted Yesterday | 82677
 
 ## No Longer Present
 
-- **WorldQuant** - [Quant Developer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4572988006)
-- **Goldman Sachs** - [2027 | EMEA | London | Global Investment Research, Equity Research | Summer Analyst](https://higher.gs.com/roles/170863)
+- **XTX Markets** - [AI Research Internship - XTY Labs](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003)
+- **Flow Traders** - [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166)
+- **RRS Group** - [2027 Associate Software Engineer Intern - Sophomore Only](https://jobs.smartrecruiters.com/RRSGroup/744000151931819)
 
 ## Missing but not confirmed closed
 
@@ -90,6 +95,9 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Deutsche Bank** - [Global Technology Governance Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Global-Technology-Governance-Intern_R0432013)
 - **BMO Capital Markets** - [BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769)
 - **Deutsche Bank** - [DWS Liquidity Risk Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Liquidity-Risk-Intern_R0446573-1)
+- **Barclays** - [2027 Risk Analyst Summer Internship Program Wilmington](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Risk-Analyst-Summer-Internship-Program-Wilmington_JR-0000123226)
+- **Barclays** - [2027 Technology Cyber & Security Summer Internship Program Whippany](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/XMLNAME-2027-Technology-Cyber---Security-Summer-Internship-Program-Whippany_JR-0000123233)
+- **Barclays** - [2027 Technology Developer Summer Internship Program Wilmington](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236)
 - **BMO Capital Markets** - [Climate Risk Reporting Analyst, Winter 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Climate-Risk-Reporting-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024768-1)
 - **BMO Capital Markets** - [Cloud Business & Strategy Analytics Analyst, Winter 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024672-1)
 - **BMO Capital Markets** - [Data Analytics Intern, Winter 2027 (Co-op/Internship) - 8 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analytics-Intern--Winter-2027--Co-op-Internship----8-months_R260024336-1)
@@ -103,12 +111,12 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **PGIM** - [Prudential: 2027 Corporate, Risk Management Internship Program](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796)
 - **PIMCO** - [2027 MBA Summer Intern – Strategist, Product Strategy Group, APAC](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Singapore/XMLNAME-2027-MBA-Summer-Intern---Strategist--Product-Strategy-Group--APAC_R106820)
 - **PIMCO** - [2027 PhD Summer Intern – Quantitative Portfolio Management](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830)
+- **T. Rowe Price** - [2027 Digital Assets Strategy Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Digital-Assets-Strategy-Internship-Program_83497)
 - **T. Rowe Price** - [2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718)
 - **T. Rowe Price** - [2027 Quantitative Equity Investing Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699)
 - **BP** - [Summer Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2)
 - **Fidelity Investments** - [Summer 2027 Equity Research Associate Intern - London](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1)
 - **PIMCO** - [2027 Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805)
-- **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677)
 - **Wellington Management** - [Portfolio Reference Data Analyst Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829)
 - **Wellington Management** - [Quantitative Trading Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1)
 - **Wellington Management** - [Supervisory Practices & Analytics Co-Op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Supervisory-Practices---Analytics-Co-Op_R94873-1)

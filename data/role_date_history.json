@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T11:12:09.036Z",
+  "updatedAt": "2026-09-29T10:30:33.001Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -4434,6 +4434,42 @@
       "first_seen": "2026-09-28",
       "date": "2026-09-28",
       "evidence": "employer_relative_label"
+    },
+    "https://cclfg.cclgroup.com/careers/opportunities/posting?gh_jid=4407698009": {
+      "URL": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4407698009",
+      "first_seen": "2026-09-29",
+      "date": "2026-09-16",
+      "evidence": "employer_field"
+    },
+    "https://cclfg.cclgroup.com/careers/opportunities/posting?gh_jid=4413182009": {
+      "URL": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009",
+      "first_seen": "2026-09-29",
+      "date": "2026-09-21",
+      "evidence": "employer_field"
+    },
+    "https://cclfg.cclgroup.com/careers/opportunities/posting?gh_jid=4413204009": {
+      "URL": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413204009",
+      "first_seen": "2026-09-29",
+      "date": "2026-09-21",
+      "evidence": "employer_field"
+    },
+    "https://cclfg.cclgroup.com/careers/opportunities/posting?gh_jid=4410741009": {
+      "URL": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410741009",
+      "first_seen": "2026-09-29",
+      "date": "2026-09-18",
+      "evidence": "employer_field"
+    },
+    "https://cclfg.cclgroup.com/careers/opportunities/posting?gh_jid=4410729009": {
+      "URL": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410729009",
+      "first_seen": "2026-09-29",
+      "date": "2026-09-18",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101": {
+      "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101",
+      "first_seen": "2026-09-29",
+      "date": "2026-09-28",
+      "evidence": "employer_field"
     }
   }
 }

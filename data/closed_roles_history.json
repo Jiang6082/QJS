@@ -1,5 +1,47 @@
 [
   {
+    "Company": "XTX Markets",
+    "Title": "AI Research Internship - XTY Labs",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003",
+    "Source": "Career page Greenhouse:xtxmarketstechnologies",
+    "Status": "Confirmed official posting",
+    "Department": "Quantitative Research",
+    "Notes": "posted=2024-11-18T04:54:55-05:00 | career_page=https://www.xtxmarkets.com/careers/ | company_wrapper=https://www.xtxmarkets.com/careers/job?gh_jid=6274458003 | internship timing not stated in title | The Firm XTX Markets is a leading algorithmic trading firm which uses state-of-the-art machine learning technology to produce price forecasts for over 50,000 financial instruments across equities, fixed income, currencies, commodities and crypto. It uses those forecasts to trade on exchanges and alternative trading venues, and to offer differentiated liquidity directly to clients worldwide. The firm trades over $250bn a day across 35 countries and has over 250 employees based in London, New York, Singapore, Paris, Bristol, Mumbai, Yerevan and Kajaani. We leverage the talent of the people who work here, modern computational techniques and state-of-the-art research infrastructure to analyse la...",
+    "lastSeenOpenAt": "2026-09-28T11:12:09.036Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-29T10:30:33.001Z"
+  },
+  {
+    "Company": "Flow Traders",
+    "Title": "Quantitative Trading Intern Summer 2027",
+    "Department": "Trading",
+    "Location": "New York",
+    "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
+    "Source": "Career page Greenhouse:flowtraders",
+    "Status": "Confirmed official posting",
+    "Notes": "posted=2026-07-08T15:27:38-04:00 | career_page=https://www.flowtraders.com/careers | company_wrapper=https://www.flowtraders.com/job?gh_jid=8047166 | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Flow Traders is looking for entrepreneurial, competitive, and analytical students to join our New York Trading team as a Trading Intern for Summer 2027. Spend your summer experiencing what it’s like to be a Trader in the financial capital of the world! The trading internship will take place over nine weeks in our New York office, beginning in early June through early August. During the program, you will have the opportunity to explore your interest in trading, while being fully immersed in the excitement on our Trading floor. As an intern, you will get a 360-degree view of Flow Traders’ role in the financial markets, how our Traders seize arbitrage opportunities, and ho...",
+    "Region": "North America",
+    "lastSeenOpenAt": "2026-09-28T11:12:09.036Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-29T10:30:33.001Z"
+  },
+  {
+    "Company": "RRS Group",
+    "Title": "2027 Associate Software Engineer Intern - Sophomore Only",
+    "Department": "Information Technology",
+    "Location": "Remote",
+    "URL": "https://jobs.smartrecruiters.com/RRSGroup/744000151931819",
+    "Source": "Career page SmartRecruiters:RRSGroup",
+    "Status": "Confirmed official posting",
+    "Notes": "career_page=https://www.myrrsgroup.org/careers/ | released=2026-09-25T20:09:49.929Z | internship timing not stated in title",
+    "Region": "Remote / Unspecified",
+    "lastSeenOpenAt": "2026-09-28T11:12:09.036Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-09-29T10:30:33.001Z"
+  },
+  {
     "Company": "WorldQuant",
     "Title": "Quant Developer Intern",
     "Location": "Singapore",
