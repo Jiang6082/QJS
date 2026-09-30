@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T10:30:33.001Z",
+  "updatedAt": "2026-09-30T21:46:33.321Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -3850,7 +3850,7 @@
     "https://higher.gs.com/roles/170171": {
       "URL": "https://higher.gs.com/roles/170171",
       "first_seen": "2026-09-13",
-      "date": "2026-08-15",
+      "date": "2026-09-30",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/170821": {
@@ -4469,6 +4469,48 @@
       "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101",
       "first_seen": "2026-09-29",
       "date": "2026-09-28",
+      "evidence": "employer_field"
+    },
+    "db|R0453248|ai audit and analytics intern - ytp program": {
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/AI-Audit-and-Analytics-Intern---YTP-program_R0453248",
+      "first_seen": "2026-09-30",
+      "date": "2026-09-30",
+      "evidence": "employer_relative_label"
+    },
+    "db|R0453251|technology intern - ytp": {
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/Technology-intern---YTP_R0453251",
+      "first_seen": "2026-09-30",
+      "date": "2026-09-30",
+      "evidence": "employer_relative_label"
+    },
+    "invesco|R-15619|early career intern - distribution technology": {
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1",
+      "first_seen": "2026-09-30",
+      "date": "2026-09-29",
+      "evidence": "employer_relative_label"
+    },
+    "invesco|R-15622|early career intern - investment technology": {
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622-1",
+      "first_seen": "2026-09-30",
+      "date": "2026-09-29",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8238451": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8238451",
+      "first_seen": "2026-09-30",
+      "date": "2026-09-29",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8238448": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8238448",
+      "first_seen": "2026-09-30",
+      "date": "2026-09-29",
+      "evidence": "employer_field"
+    },
+    "https://www.verition.com/open-positions?gh_jid=5239358007": {
+      "URL": "https://www.verition.com/open-positions?gh_jid=5239358007",
+      "first_seen": "2026-09-30",
+      "date": "2026-09-29",
       "evidence": "employer_field"
     }
   }

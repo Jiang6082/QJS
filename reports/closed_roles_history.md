@@ -1,9 +1,14 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 113
-Last updated: 2026-09-29T10:30:33.001Z
+Total closure events recorded: 115
+Last updated: 2026-09-30T21:46:33.321Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-09-30 (2)
+
+- **D. E. Shaw** - [Investor Relations Intern (London) - Summer 2027](https://www.deshaw.com/careers/investor-relations-intern-london-summer-2027-5917) - London
+- **Geneva Trading** - [AI Engineer Internship - Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5240107007) - Chicago Office
 
 ### 2026-09-29 (3)
 
