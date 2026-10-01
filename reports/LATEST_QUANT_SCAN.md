@@ -1,13 +1,13 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-09-30T21:46:33.321Z
+Last updated: 2026-10-01T15:51:41.606Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 513
 - Current retained roles: 580
-- New stable job URLs since previous scan: 7
+- New stable job URLs since previous scan: 2
 - No longer present since previous scan: 2
 - Missing without enough closure evidence: 74
 - Matching-role firms: 50
@@ -17,20 +17,18 @@ Last updated: 2026-09-30T21:46:33.321Z
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (2)
 
-- **Invesco** - [Early Career Intern - Investment Technology](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622-1) - Houston, Texas
+- **Old Mission Capital** - [Quantitative Trader - 2027 Micro-Internship Program (January Start)](https://www.oldmissioncapital.com/careers/?gh_jid=8002345003) - Chicago, IL, United States
+- **Old Mission Capital** - [Quantitative Trader - 2027 Micro-Internship Program (January Start)](https://jobs.ashbyhq.com/old-mission-capital/54918f5f-24b7-496a-b702-e2d7265e4cb5) - Chicago, IL
 
-### Europe (1)
+### Europe (0)
 
-- **Verition Fund Management** - [2027 Technology Internship (London)](https://www.verition.com/open-positions?gh_jid=5239358007) - London, England, United Kingdom
+_None._
 
-### Asia (4)
+### Asia (0)
 
-- **Deutsche Bank** - [AI Audit and Analytics Intern - YTP program](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/AI-Audit-and-Analytics-Intern---YTP-program_R0453248) - Singapore, One Raffles Quay
-- **Deutsche Bank** - [Technology intern - YTP](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/Technology-intern---YTP_R0453251) - Singapore, One Raffles Quay
-- **Schonfeld** - [2027 Quantitative C++ Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238451) - Hong Kong, Hong Kong
-- **Schonfeld** - [2027 Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238448) - Hong Kong, Hong Kong
+_None._
 
 ### Oceania (0)
 
@@ -52,14 +50,14 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **Invesco** - [Early Career Intern - Distribution Technology](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1) - Atlanta, Georgia
+_None._
 
 ## No Longer Present
 
-- **D. E. Shaw** - [Investor Relations Intern (London) - Summer 2027](https://www.deshaw.com/careers/investor-relations-intern-london-summer-2027-5917) - London
-- **Geneva Trading** - [AI Engineer Internship - Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5240107007) - Chicago Office
+- **DRW** - [Strategy Intern](https://job-boards.greenhouse.io/drweng/jobs/7992670) - Chicago, IL
+- **Man Group** - [Quant Researcher Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101) - London
 
 ## Full Reports
 

@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-09-30T21:46:33.321Z
+Scan started: 2026-10-01T15:51:41.606Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 
@@ -21,13 +21,13 @@ Canonical companies after aliases: 304
 | DRW | 1/1 pages live | [link](https://drw.com/work-at-drw/) |
 | DV Trading | 1/1 pages live | [link](https://dvtrading.co/join-dv/) |
 | Deutsche Bank | 1/1 pages live | [link](https://db.wd3.myworkdayjobs.com/DBWebsite/) |
-| Engineers Gate | 1/1 pages live | [link](https://job-boards.greenhouse.io/engineersgate) |
+| Engineers Gate | 0/1 pages live | [link](https://job-boards.greenhouse.io/engineersgate) |
 | Five Rings | 4/4 pages live | [link](https://job-boards.greenhouse.io/fiveringsllc) [link](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008) [link](https://fiveringsfinancial.com/join-our-team/) [link](https://fiverings.com/careers/) |
 | GSA Capital | 2/3 pages live | [link](https://www.gsacapital.com/careers/) [link](https://job-boards.greenhouse.io/gsacapital) [link](https://www.gsacapital.com/join-us) |
 | Hudson River Trading | 0/2 pages live | [link](https://www.hudsonrivertrading.com/careers/) [link](https://www.hudsonrivertrading.com/careers/job/) |
 | Jane Street | 4/5 pages live | [link](https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads) [link](https://www.janestreet.com/join-jane-street/open-roles/) [link](https://www.janestreet.com/join-jane-street/overview/) [link](https://www.janestreet.com/join-jane-street/apply/8092062002/) [link](https://job-boards.greenhouse.io/janestreet/jobs/7967227002) |
 | Flow Traders | 1/1 pages live | [link](https://www.flowtraders.com/careers) |
-| Gelber Group | 2/2 pages live | [link](https://www.gelbergroup.com/careers/) [link](https://job-boards.greenhouse.io/gelbergroup) |
+| Gelber Group | 1/2 pages live | [link](https://www.gelbergroup.com/careers/) [link](https://job-boards.greenhouse.io/gelbergroup) |
 | Jump Trading | 1/1 pages live | [link](https://www.jumptrading.com/careers/) |
 | Geneva Trading | 2/2 pages live | [link](https://www.genevatrading.com/careers/) [link](https://job-boards.greenhouse.io/genevatrading) |
 | Gunvor | 3/3 pages live | [link](https://gunvorgroup.com/careers/) [link](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers) [link](https://gunvorgroup.com/careers/talent/) |
@@ -55,7 +55,7 @@ Canonical companies after aliases: 304
 | Voleon Group | 3/4 pages live | [link](https://jobs.ashbyhq.com/voleon) [link](https://jobs.lever.co/voleon/) [link](https://www.voleon.com/careers/) [link](https://www.voleon.com/jobs/) |
 | TransMarket Group | 1/1 pages live | [link](https://job-boards.greenhouse.io/transmarketgroup) |
 | Voloridge | 2/2 pages live | [link](https://www.voloridge.com/our-approach) [link](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement) |
-| WorldQuant | 2/3 pages live | [link](https://job-boards.greenhouse.io/worldquant) [link](https://job-boards.greenhouse.io/worldquant?error=true) [link](https://www.worldquant.com/careers/) |
+| WorldQuant | 3/3 pages live | [link](https://job-boards.greenhouse.io/worldquant) [link](https://job-boards.greenhouse.io/worldquant?error=true) [link](https://www.worldquant.com/careers/) |
 | Xantium | 1/1 pages live | [link](https://job-boards.greenhouse.io/xantium?gh_src=Trackr) |
 | Morningstar | 4/4 pages live | [link](https://morningstar.wd5.myworkdayjobs.com/morningstar) [link](https://morningstar.wd5.myworkdayjobs.com/Americas/) [link](https://morningstar.wd5.myworkdayjobs.com/MorningstarDBRS) [link](https://www.morningstar.com/company/careers) |
 
@@ -73,7 +73,7 @@ Canonical companies after aliases: 304
 | Company | Source health | Saved pages |
 | --- | --- | --- |
 | Bracebridge Capital | 1/1 pages live | [link](https://www.bracebridgecapital.com/careers/) |
-| 3Red Partners | 2/2 pages live | [link](https://www.3redpartners.com/careers/) [link](https://job-boards.greenhouse.io/3redpartners) |
+| 3Red Partners | 1/2 pages live | [link](https://www.3redpartners.com/careers/) [link](https://job-boards.greenhouse.io/3redpartners) |
 | Bridgewater Associates | 1/1 pages live | [link](https://www.bridgewater.com/working-at-bridgewater) |
 | Capital Fund Management | 1/1 pages live | [link](https://www.cfm.com/join-us/) |
 | Akuna Capital | 2/2 pages live | [link](https://akunacapital.com/careers/) [link](https://job-boards.greenhouse.io/optionstrading201course/jobs/7394582) |
@@ -97,13 +97,13 @@ Canonical companies after aliases: 304
 | Quadrature | 1/1 pages live | [link](https://job-boards.greenhouse.io/quadraturecapital?error=true) |
 | Simplex Trading | 2/2 pages live | [link](https://simplextrading.com/careers/) [link](https://job-boards.greenhouse.io/simplextrading) |
 | Midpoint Markets | 1/1 pages live | [link](https://job-boards.greenhouse.io/midpointmarkets/jobs/4408679008) |
-| Quadrature Capital | 0/1 pages live | [link](https://job-boards.greenhouse.io/quadraturecapital?error=true) |
+| Quadrature Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/quadraturecapital?error=true) |
 | Quantlane | 1/1 pages live | [link](https://jobs.lever.co/quantlane) |
 | Valkyrie Trading | 0/1 pages live | [link](https://www.valkyrietrading.com/careers/) |
 | Waterfront International Ltd | 1/1 pages live | [link](https://job-boards.greenhouse.io/wil) |
 | Winton Capital | 2/2 pages live | [link](https://www.winton.com/opportunities) [link](https://job-boards.eu.greenhouse.io/winton) |
-| TCI Fund Management | 1/3 pages live | [link](https://boards.greenhouse.io/twosixtechnologies/jobs/4465276004) [link](https://boards.greenhouse.io/tekion/jobs/6263631003) [link](https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007) |
-| Vatic Labs | 1/1 pages live | [link](https://job-boards.greenhouse.io/vaticlabs/jobs/3137555) |
+| TCI Fund Management | 2/3 pages live | [link](https://boards.greenhouse.io/twosixtechnologies/jobs/4465276004) [link](https://boards.greenhouse.io/tekion/jobs/6263631003) [link](https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007) |
+| Vatic Labs | 0/1 pages live | [link](https://job-boards.greenhouse.io/vaticlabs/jobs/3137555) |
 | Vitol | 1/1 pages live | [link](https://careers.smartrecruiters.com/Vitol?oga=true) |
 | XTX Markets | 1/1 pages live | [link](https://www.xtxmarkets.com/careers/) |
 | Teza Technologies | 2/2 pages live | [link](https://www.teza.com/careers/) [link](https://jobs.ashbyhq.com/teza-technologies) |
@@ -125,11 +125,11 @@ Canonical companies after aliases: 304
 | Cargill International SA | 1/1 pages live | [link](https://careers.cargill.com/en) |
 | Coding Test Firm | no saved page attempted | none |
 | Crabel Capital Management | 1/1 pages live | [link](https://crabel.com/careers/) |
-| 323 Trading | 1/1 pages live | [link](https://323trading.nl/careers.html) |
+| 323 Trading | 0/1 pages live | [link](https://323trading.nl/careers.html) |
 | Accent Groupe | 0/1 pages live | [link](https://www.accentgroupe.com/career) |
 | Algorithmic Trading Group | 1/1 pages live | [link](https://www.algorithmictradinggroup.com/opportunities) |
 | Amber Group | 1/1 pages live | [link](https://www.ambergroup.io/applyJob) |
-| Armada Technologies | 0/1 pages live | [link](http://www.armadausa.com/careers) |
+| Armada Technologies | 1/1 pages live | [link](http://www.armadausa.com/careers) |
 | Automaton Trading LLC | no saved page attempted | none |
 | BP Supply Trading & Shipping | 0/1 pages live | [link](https://www.bp.com/en/global/bp-supply-trading-and-shipping/careers.html) |
 | BlockTech | 1/1 pages live | [link](https://www.block-tech.io/careers) |
@@ -139,7 +139,7 @@ Canonical companies after aliases: 304
 | Consolidated Trading | 1/1 pages live | [link](https://pagesxyz.com/companies/consolidated-trading/jobs) |
 | Criterion Arbitrage & Trading | 1/1 pages live | [link](https://www.criterion-trading.nl/m/join.html) |
 | D2X | 1/1 pages live | [link](https://d2x.com/careers) |
-| Ace Capital Saires | 0/1 pages live | [link](https://careers.acehardware.com/) |
+| Ace Capital Saires | 1/1 pages live | [link](https://careers.acehardware.com/) |
 | All Options | 1/1 pages live | [link](https://www.alloptions-international.com/careers/) |
 | Amsterdam Investment Club | 0/1 pages live | [link](https://www.amsterdaminvestmentclub.com/pages/vacancy/equity-analyst) |
 | Aquion | no saved page attempted | none |

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T21:46:33.321Z",
+  "updatedAt": "2026-10-01T15:51:41.606Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -4511,6 +4511,18 @@
       "URL": "https://www.verition.com/open-positions?gh_jid=5239358007",
       "first_seen": "2026-09-30",
       "date": "2026-09-29",
+      "evidence": "employer_field"
+    },
+    "https://www.oldmissioncapital.com/careers?gh_jid=8002345003": {
+      "URL": "https://www.oldmissioncapital.com/careers/?gh_jid=8002345003",
+      "first_seen": "2026-10-01",
+      "date": "2026-10-01",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/old-mission-capital/54918f5f-24b7-496a-b702-e2d7265e4cb5": {
+      "URL": "https://jobs.ashbyhq.com/old-mission-capital/54918f5f-24b7-496a-b702-e2d7265e4cb5",
+      "first_seen": "2026-10-01",
+      "date": "2026-10-01",
       "evidence": "employer_field"
     }
   }

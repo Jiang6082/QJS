@@ -1,8 +1,8 @@
-# Roles posted 2026-09-10 → 2026-09-30 (116 with source posting dates)
+# Roles posted 2026-09-11 → 2026-10-01 (113 with source posting dates)
 
 _Dates come from employer publication fields or dated relative labels. Relative labels have day-level precision; source publication dates can reflect a repost. Internship start dates and edit timestamps are not release dates._
 
-## Goldman Sachs (20)
+## Goldman Sachs (19)
 
 - **2026-09-30** — [2027 | EMEA | Warsaw | Risk | Summer Analyst](https://higher.gs.com/roles/170171) — Warsaw, Mazowieckie, Poland
 - **2026-09-28** — [2027 | APEJ | Hong Kong | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169893) — Hong Kong, Hong Kong
@@ -23,7 +23,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-18** — [2027 | EMEA | London | FICC & Equities (Sales & Trading) | Seasonal/OffCycle](https://higher.gs.com/roles/171437) — London, Greater London, England, United Kingdom
 - **2026-09-18** — [2027 | EMEA | Paris | FICC & Equities (Sales & Trading) | Seasonal/OffCycle](https://higher.gs.com/roles/171438) — Paris, Ile-de-France, France
 - **2026-09-18** — [2027 | Japan | Tokyo | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170821) — Tokyo, Japan
-- **2026-09-10** — [2027 | EMEA | London | Asset Management, Infrastructure Private Equity | Seasonal/Off-Cycle](https://higher.gs.com/roles/183954) — London, Greater London, England, United Kingdom
 
 ## BlackRock (12)
 
@@ -53,18 +52,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-16** — [Intern, Institutional Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4407698009) — Vancouver, British Columbia, Canada
 - **2026-09-16** — [Intern, Institutional Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4407698009) — Vancouver, British Columbia, Canada
 
-## DV Trading (9)
-
-- **2026-09-22** — [Security Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4736603005) — London
-- **2026-09-15** — [2027 Quantitative Research Intern (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733877005) — Hong Kong
-- **2026-09-15** — [2027 Software Developer Intern  (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733880005) — Hong Kong
-- **2026-09-11** — [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) — New York
-- **2026-09-11** — [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) — New York
-- **2026-09-11** — [Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) — New York
-- **2026-09-10** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732683005) — Chicago
-- **2026-09-10** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005) — London
-- **2026-09-10** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005) — New York
-
 ## Brevan Howard (8)
 
 - **2026-09-24** — [2027 Summer Internship Program – Systematic Trading, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619) — London _(relative source date)_
@@ -75,6 +62,15 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-11** — [2027 Summer Internship Program – Systematic Data Strategy, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596) — New York _(relative source date)_
 - **2026-09-11** — [2027 Summer Internship Program – Systematic Execution Research, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595) — New York _(relative source date)_
 - **2026-09-11** — [2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597) — New York _(relative source date)_
+
+## DV Trading (6)
+
+- **2026-09-22** — [Security Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4736603005) — London
+- **2026-09-15** — [2027 Quantitative Research Intern (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733877005) — Hong Kong
+- **2026-09-15** — [2027 Software Developer Intern  (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733880005) — Hong Kong
+- **2026-09-11** — [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) — New York
+- **2026-09-11** — [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) — New York
+- **2026-09-11** — [Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) — New York
 
 ## Equinor (5)
 
@@ -106,13 +102,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-23** — [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Los Angeles, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382) — Los Angeles _(relative source date)_
 - **2026-09-23** — [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (New York, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/CAMPUS--Data---Technology-Summer-Associate--New-York--2027-_JR7383) — New York _(relative source date)_
 
-## Geneva Trading (4)
-
-- **2026-09-22** — [Python Developer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242196007) — Chicago Office
-- **2026-09-22** — [Trade Support Engineer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242190007) — Chicago Office
-- **2026-09-21** — [C++ Developer (Intern)](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) — Chicago Office
-- **2026-09-10** — [Quantitative Trading Internship – Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5232641007) — Chicago Office
-
 ## Schonfeld (3)
 
 - **2026-09-29** — [2027 Quantitative C++ Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238451) — Hong Kong, Hong Kong
@@ -124,6 +113,17 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-24** — [Machine Learning Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11555?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **2026-09-15** — [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **2026-09-15** — [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
+
+## Geneva Trading (3)
+
+- **2026-09-22** — [Python Developer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242196007) — Chicago Office
+- **2026-09-22** — [Trade Support Engineer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242190007) — Chicago Office
+- **2026-09-21** — [C++ Developer (Intern)](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) — Chicago Office
+
+## Old Mission Capital (2)
+
+- **2026-10-01** — [Quantitative Trader - 2027 Micro-Internship Program (January Start)](https://www.oldmissioncapital.com/careers/?gh_jid=8002345003) — Chicago, IL, United States
+- **2026-10-01** — [Quantitative Trader - 2027 Micro-Internship Program (January Start)](https://jobs.ashbyhq.com/old-mission-capital/54918f5f-24b7-496a-b702-e2d7265e4cb5) — Chicago, IL
 
 ## Deutsche Bank (2)
 

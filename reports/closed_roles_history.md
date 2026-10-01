@@ -1,9 +1,14 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 115
-Last updated: 2026-09-30T21:46:33.321Z
+Total closure events recorded: 117
+Last updated: 2026-10-01T15:51:41.606Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-01 (2)
+
+- **DRW** - [Strategy Intern](https://job-boards.greenhouse.io/drweng/jobs/7992670) - Chicago, IL
+- **Man Group** - [Quant Researcher Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101) - London
 
 ### 2026-09-30 (2)
 

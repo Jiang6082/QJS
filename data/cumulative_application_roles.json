@@ -1,12 +1,40 @@
 {
-  "generatedAt": "2026-09-30T21:53:01.023Z",
-  "currentScanAt": "2026-09-30T21:46:33.321Z",
-  "total": 458,
-  "active": 384,
-  "notDetected": 74,
-  "newSincePreviousScan": 7,
+  "generatedAt": "2026-10-01T15:56:55.130Z",
+  "currentScanAt": "2026-10-01T15:51:41.606Z",
+  "total": 460,
+  "active": 385,
+  "notDetected": 75,
+  "newSincePreviousScan": 2,
   "manuallyRecovered": 5,
   "roles": [
+    {
+      "Company": "Old Mission Capital",
+      "Title": "Quantitative Trader - 2027 Micro-Internship Program (January Start)",
+      "Location": "Chicago, IL",
+      "URL": "https://jobs.ashbyhq.com/old-mission-capital/54918f5f-24b7-496a-b702-e2d7265e4cb5",
+      "Source": "Ashby:old-mission-capital",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-10-01",
+      "first_seen": "2026-10-01",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Old Mission Capital",
+      "Title": "Quantitative Trader - 2027 Micro-Internship Program (January Start)",
+      "Location": "Chicago, IL, United States",
+      "URL": "https://www.oldmissioncapital.com/careers/?gh_jid=8002345003",
+      "Source": "Career page Greenhouse:oldmissioncapital",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-10-01",
+      "first_seen": "2026-10-01",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
     {
       "Company": "Deutsche Bank",
       "Title": "AI Audit and Analytics Intern - YTP program",
@@ -2528,20 +2556,6 @@
       "status": "active"
     },
     {
-      "Company": "Man Group",
-      "Title": "Quant Researcher Internship",
-      "Location": "London",
-      "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
-      "Source": "Greenhouse:mangroup",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-04",
-      "first_seen": "2026-09-07",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "PIMCO",
       "Title": "2027 Summer Internship – Portfolio Management - Special Situations Team, APAC",
       "Location": "Singapore",
@@ -3504,7 +3518,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-30",
+      "verifiedAt": "2026-10-01",
       "status": "active"
     },
     {
@@ -5338,7 +5352,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-30",
+      "verifiedAt": "2026-10-01",
       "status": "active"
     },
     {
@@ -5352,7 +5366,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-30",
+      "verifiedAt": "2026-10-01",
       "status": "active"
     },
     {
@@ -5366,7 +5380,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-30",
+      "verifiedAt": "2026-10-01",
       "status": "active"
     },
     {
@@ -5380,7 +5394,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-09-30",
+      "verifiedAt": "2026-10-01",
       "status": "active"
     },
     {
@@ -5865,6 +5879,20 @@
       "Location": "Wilmington, 125 South West Street",
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-04",
+      "first_seen": "2026-09-07",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Man Group",
+      "Title": "Quant Researcher Internship",
+      "Location": "London",
+      "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
+      "Source": "Greenhouse:mangroup",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-04",
       "first_seen": "2026-09-07",

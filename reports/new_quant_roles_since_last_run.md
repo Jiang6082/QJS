@@ -1,28 +1,26 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-09-29T10:30:33.001Z
-Current scan: 2026-09-30T21:46:33.321Z
-Previous rows: 582
+Previous scan: 2026-09-30T21:46:33.321Z
+Current scan: 2026-10-01T15:51:41.606Z
+Previous rows: 580
 Current rows: 580
-New URLs confirmed in both source passes: 7
+New URLs confirmed in both source passes: 2
 Confirmed no longer present: 2
 
 ## New Roles By Region
 
-### North America (1)
+### North America (2)
 
-- **Invesco** - [Early Career Intern - Investment Technology](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622-1) - Houston, Texas - Confirmed official posting (Career page Workday:invesco/IVZ): career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Yesterday | R-15622
+- **Old Mission Capital** - [Quantitative Trader - 2027 Micro-Internship Program (January Start)](https://www.oldmissioncapital.com/careers/?gh_jid=8002345003) - Chicago, IL, United States - Confirmed official posting (Career page Greenhouse:oldmissioncapital): posted=2026-10-01T10:06:48-04:00 | career_page=https://www.oldmissioncapital.com/careers/ | company_wrapper=https://www.oldmissioncapital.com/careers/job?gh_jid=8002345003 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Old Mission is a global proprietary trading firm that leverages state-of-the-art technology and research to identify and execute profitable trading strategies across multiple asset classes around the world. Our offices in Chicago, New York, and London are all composed of naturally-curious individuals who thrive in a team environment and constantly strive for improvement. Responsibilities Our quant trading interns will explore new trading strategies, engage in mock trading, take part in quantitative research, and develop related software. Our interns will participate in the firm’s education program, getting a chance to learn about all...
+- **Old Mission Capital** - [Quantitative Trader - 2027 Micro-Internship Program (January Start)](https://jobs.ashbyhq.com/old-mission-capital/54918f5f-24b7-496a-b702-e2d7265e4cb5) - Chicago, IL - Confirmed official posting (Ashby:old-mission-capital): posted=2026-10-01T14:06:48.514+00:00; internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found
 
-### Europe (1)
+### Europe (0)
 
-- **Verition Fund Management** - [2027 Technology Internship (London)](https://www.verition.com/open-positions?gh_jid=5239358007) - London, England, United Kingdom - Confirmed official posting (Career page Greenhouse:veritiongroupllc): posted=2026-09-29T10:24:48-04:00 | career_page=https://www.verition.com/open-positions | company_wrapper=https://www.verition.com/job?gh_jid=5239358007 | internship timing not stated in title | Verition Fund Management LLC (“Verition”) is a multi-strategy, multi-manager hedge fund founded in 2008. Verition focuses on global investment strategies including Fixed Income & Macro, Event & Multi-Asset RV, Equity L/S & Capital Markets, and Quantitative Trading. About the Program Our 10-week Summer Internship Program pairs you with a technology team where you'll take on real, high-impact work, while getting a structured, firm-wide view of how a global multi-strategy hedge fund operates. You'll work alongside portfolio managers, analysts, and experienced professionals, partner with your fellow interns on cross-functional projects, and present your work directly to senior leaders by the end of th...
+_None._
 
-### Asia (4)
+### Asia (0)
 
-- **Deutsche Bank** - [AI Audit and Analytics Intern - YTP program](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/AI-Audit-and-Analytics-Intern---YTP-program_R0453248) - Singapore, One Raffles Quay - Confirmed official posting (Career page Workday:db/DBWebsite): career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0453248
-- **Deutsche Bank** - [Technology intern - YTP](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/Technology-intern---YTP_R0453251) - Singapore, One Raffles Quay - Confirmed official posting (Career page Workday:db/DBWebsite): career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0453251
-- **Schonfeld** - [2027 Quantitative C++ Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238451) - Hong Kong, Hong Kong - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-09-29T10:30:14-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8238451 | internship timing not stated in title | The Role We are seeking a Quantitative C++ Developer Intern to join our team and contribute to the high-performance systems that power our trading strategies, market data processing and research infrastructure. The role will suit someone with strong competitive programming instincts, solid C++ fundamentals, and genuine curiosity about applying agentic AI tools to real-world quantitative workflows. The internship will be 3-6 months, including the summer. What You’ll Do Develop and optimize low-latency trading systems, market data engines and strategy back testing frameworks. Implementing the high-performance data structures and algorithms that underpin core modules. Explore and i...
-- **Schonfeld** - [2027 Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238448) - Hong Kong, Hong Kong - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-09-29T10:31:51-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8238448 | internship timing not stated in title | The Role As a Quantitative Research Intern at Schonfeld Strategic Advisors, you'll work at the intersection of data science, financial markets and systematic trading, solving real-world problems that drive live investment strategies. This internship offers hands-on experience in quantitative research, supported by structured onboarding, a meaningful project of your own, and direct mentorship from senior researchers and portfolio managers. The internship will be 3-6 months, including the summer. What You’ll Do Take on real research challenges, a new predictive signal from alternative data, a better machine learning model or etc. Understand and contribute to the research platform,...
+_None._
 
 ### Oceania (0)
 
@@ -44,14 +42,14 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **Invesco** - [Early Career Intern - Distribution Technology](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1) - Atlanta, Georgia - Confirmed official posting (Career page Workday:invesco/IVZ): career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Yesterday | R-15619
+_None._
 
 ## No Longer Present
 
-- **D. E. Shaw** - [Investor Relations Intern (London) - Summer 2027](https://www.deshaw.com/careers/investor-relations-intern-london-summer-2027-5917)
-- **Geneva Trading** - [AI Engineer Internship - Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5240107007)
+- **DRW** - [Strategy Intern](https://job-boards.greenhouse.io/drweng/jobs/7992670)
+- **Man Group** - [Quant Researcher Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101)
 
 ## Missing but not confirmed closed
 
