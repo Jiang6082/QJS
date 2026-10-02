@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T10:32:18.665Z",
-  "currentScanAt": "2026-10-02T10:27:21.713Z",
+  "generatedAt": "2026-10-02T18:10:07.925Z",
+  "currentScanAt": "2026-10-02T18:05:04.227Z",
   "rows": [
     {
       "Company": "Akuna",
@@ -11,8 +11,8 @@
       "Source": "Greenhouse:akunacapital",
       "Status": "Confirmed official posting",
       "Department": "Engineering",
-      "Notes": "posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | posted=2026-07-13T14:21:52-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Akuna",
@@ -23,8 +23,8 @@
       "Source": "Greenhouse:akunacapital",
       "Status": "Confirmed official posting",
       "Department": "Quant",
-      "Notes": "posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | posted=2026-07-13T14:29:20-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Akuna",
@@ -35,8 +35,8 @@
       "Source": "Greenhouse:akunacapital",
       "Status": "Confirmed official posting",
       "Department": "Quant",
-      "Notes": "posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | posted=2026-07-13T14:28:45-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Akuna",
@@ -47,8 +47,8 @@
       "Source": "Greenhouse:akunacapital",
       "Status": "Confirmed official posting",
       "Department": "Engineering",
-      "Notes": "posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | posted=2026-07-13T14:21:28-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Akuna",
@@ -59,8 +59,8 @@
       "Source": "Greenhouse:akunacapital",
       "Status": "Confirmed official posting",
       "Department": "Engineering",
-      "Notes": "posted=2026-07-13T14:41:20-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T14:41:20-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | posted=2026-07-13T14:41:20-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Akuna",
@@ -71,8 +71,8 @@
       "Source": "Greenhouse:akunacapital",
       "Status": "Confirmed official posting",
       "Department": "Engineering",
-      "Notes": "posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | posted=2026-07-13T14:21:34-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Akuna",
@@ -83,8 +83,8 @@
       "Source": "Greenhouse:akunacapital",
       "Status": "Confirmed official posting",
       "Department": "Engineering",
-      "Notes": "posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | posted=2026-07-13T14:21:39-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "AlphaGrep",
@@ -550,17 +550,6 @@
     },
     {
       "Company": "Barclays",
-      "Title": "2027 Technology Developer Summer Internship Programme London",
-      "Department": "",
-      "Location": "Canary Wharf, 1 Churchill Place",
-      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397",
-      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 7 Days Ago | JR-0000129397",
-      "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "Barclays",
       "Title": "2027 Technology Developer Summer Internship Programme Northampton",
       "Department": "",
       "Location": "Northampton, Barclays Campus, Pavilion Drive",
@@ -624,6 +613,17 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 28 Days Ago | JR-0000124685",
       "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "Quantitative Finance Associate Summer Internship Program 2027 New York",
+      "Department": "",
+      "Location": "New York, 745 7th Avenue",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000128099",
+      "Region": "North America"
     },
     {
       "Company": "Barclays",
@@ -1067,17 +1067,6 @@
     },
     {
       "Company": "Brevan Howard",
-      "Title": "2027 Summer Internship Program – Trading, Geneva",
-      "Department": "",
-      "Location": "Geneva",
-      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607",
-      "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 17 Days Ago | JR101607",
-      "Region": "Europe"
-    },
-    {
-      "Company": "Brevan Howard",
       "Title": "2027 Summer Internship Program – Trading, London",
       "Department": "",
       "Location": "London",
@@ -1161,7 +1150,7 @@
       "URL": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
       "Source": "Career page Greenhouse:ctccampusboard",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-07-20T13:38:31-04:00 | career_page=https://www.chicagotrading.com/careers/ | company_wrapper=https://www.chicagotrading.com/careers/job?gh_jid=4708188005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Chicago Trading Company (CTC) is a premier proprietary trading firm specializing in options market making. Our collaborative culture fuels innovation in quantitative research, systematic trading strategies, and cutting-edge trading technology. For over three decades CTC has provided critical liquidity across derivatives exchanges worldwide - making them fairer, more transparent, and more efficient. We strive to be the most innovative firm in the industry today, tomorrow, and long into the future while upholding ethical excellence. We believe that CTC makes a positive impact on the markets, the lives of our employees, and all the communities to wh...",
+      "Notes": "posted=2026-07-20T13:38:31-04:00 | career_page=https://chicagotrading.com/careers-at-ctc/ | company_wrapper=https://chicagotrading.com/careers-at-ctc/job?gh_jid=4708188005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Chicago Trading Company (CTC) is a premier proprietary trading firm specializing in options market making. Our collaborative culture fuels innovation in quantitative research, systematic trading strategies, and cutting-edge trading technology. For over three decades CTC has provided critical liquidity across derivatives exchanges worldwide - making them fairer, more transparent, and more efficient. We strive to be the most innovative firm in the industry today, tomorrow, and long into the future while upholding ethical excellence. We believe that CTC makes a positive impact on the markets, the lives of our employees, and all the communities...",
       "Region": "North America"
     },
     {
@@ -1172,7 +1161,7 @@
       "URL": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005",
       "Source": "Career page Greenhouse:ctccampusboard",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-07-21T13:33:43-04:00 | career_page=https://www.chicagotrading.com/careers/ | company_wrapper=https://www.chicagotrading.com/careers/job?gh_jid=4709545005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Chicago Trading Company (CTC) is a premier proprietary trading firm specializing in options market making. Our collaborative culture fuels innovation in quantitative research, systematic trading strategies, and cutting-edge trading technology. For over three decades CTC has provided critical liquidity across derivatives exchanges worldwide - making them fairer, more transparent, and more efficient. We strive to be the most innovative firm in the industry today, tomorrow, and long into the future while upholding ethical excellence. We believe that CTC makes a positive impact on the markets, the lives of our employees, and all the communities to wh...",
+      "Notes": "posted=2026-07-21T13:33:43-04:00 | career_page=https://chicagotrading.com/careers-at-ctc/ | company_wrapper=https://chicagotrading.com/careers-at-ctc/job?gh_jid=4709545005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Chicago Trading Company (CTC) is a premier proprietary trading firm specializing in options market making. Our collaborative culture fuels innovation in quantitative research, systematic trading strategies, and cutting-edge trading technology. For over three decades CTC has provided critical liquidity across derivatives exchanges worldwide - making them fairer, more transparent, and more efficient. We strive to be the most innovative firm in the industry today, tomorrow, and long into the future while upholding ethical excellence. We believe that CTC makes a positive impact on the markets, the lives of our employees, and all the communities...",
       "Region": "Europe"
     },
     {
@@ -1183,7 +1172,7 @@
       "URL": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
       "Source": "Career page Greenhouse:ctccampusboard",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-07-20T11:59:16-04:00 | career_page=https://www.chicagotrading.com/careers/ | company_wrapper=https://www.chicagotrading.com/careers/job?gh_jid=4708230005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Chicago Trading Company (CTC) is a premier proprietary trading firm specializing in options market making. Our collaborative culture fuels innovation in quantitative research, systematic trading strategies, and cutting-edge trading technology. For over three decades CTC has provided critical liquidity across derivatives exchanges worldwide - making them fairer, more transparent, and more efficient. We strive to be the most innovative firm in the industry today, tomorrow, and long into the future while upholding ethical excellence. We believe that CTC makes a positive impact on the markets, the lives of our employees, and all the communities to wh...",
+      "Notes": "posted=2026-07-20T11:59:16-04:00 | career_page=https://chicagotrading.com/careers-at-ctc/ | company_wrapper=https://chicagotrading.com/careers-at-ctc/job?gh_jid=4708230005 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Chicago Trading Company (CTC) is a premier proprietary trading firm specializing in options market making. Our collaborative culture fuels innovation in quantitative research, systematic trading strategies, and cutting-edge trading technology. For over three decades CTC has provided critical liquidity across derivatives exchanges worldwide - making them fairer, more transparent, and more efficient. We strive to be the most innovative firm in the industry today, tomorrow, and long into the future while upholding ethical excellence. We believe that CTC makes a positive impact on the markets, the lives of our employees, and all the communities...",
       "Region": "North America"
     },
     {
@@ -1207,18 +1196,7 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-09-16T14:16:23-04:00 | career_page=https://job-boards.greenhouse.io/cclfg | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4407698009 | internship timing not stated in title | CC&L Financial Group is seeking an Intern to join the Institutional Portfolio Operations Team for an 8-Month term (Jan – August 2027). When you join the Institutional Portfolio Operations (IPO) team as an Intern, you are joining a group of tightknit, energetic, and social individuals, who together have a direct impact on the investment success of individuals, pension funds, foundations and endowments, First Nations and other institutional clients. The Institutional Portfolio Operations Intern is a critical part of our firm and clients’ success and is a challenging and rewarding role for the right individual. You will experience the inter-workings of the asset management world and will have ...",
       "Region": "North America",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
-    },
-    {
-      "Company": "Connor Clark & Lunn",
-      "Title": "Intern, Investment Analytics Engineering",
-      "Department": "Investment Analytics Engineering",
-      "Location": "Vancouver, British Columbia, Canada",
-      "URL": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009",
-      "Source": "Career page Greenhouse:cclfg",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-21T16:37:17-04:00 | career_page=https://cclfg.cclgroup.com/careers/opportunities/ | company_wrapper=https://cclfg.cclgroup.com/careers/opportunities/job?gh_jid=4413182009 | internship timing not stated in title | Are you interested in joining one of Canada’s top-performing asset managers? We are looking for an Intern to join our Investment Analytics Engineering team . The IA Engineering Team exists at the intersection of financial analytics and programming/data science. The ideal candidate has a passion for both sides of the role, understands complex financial concepts, and can apply technology to find insights and implement solutions. This is a fantastic opportunity to join a high-impact, high-skill team whose scope and impact continue to grow. What You Will Do In this position, you will support our team's analytics discovery and platform digital transformation efforts. Y...",
-      "Region": "North America"
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Connor Clark & Lunn",
@@ -1236,12 +1214,23 @@
       "Title": "Intern, Investment Analytics Engineering",
       "Department": "Investment Analytics Engineering",
       "Location": "Vancouver, British Columbia, Canada",
+      "URL": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009",
+      "Source": "Career page Greenhouse:cclfg",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-09-21T16:37:17-04:00 | career_page=https://cclfg.cclgroup.com/careers/opportunities/ | company_wrapper=https://cclfg.cclgroup.com/careers/opportunities/job?gh_jid=4413182009 | internship timing not stated in title | Are you interested in joining one of Canada’s top-performing asset managers? We are looking for an Intern to join our Investment Analytics Engineering team . The IA Engineering Team exists at the intersection of financial analytics and programming/data science. The ideal candidate has a passion for both sides of the role, understands complex financial concepts, and can apply technology to find insights and implement solutions. This is a fantastic opportunity to join a high-impact, high-skill team whose scope and impact continue to grow. What You Will Do In this position, you will support our team's analytics discovery and platform digital transformation efforts. Y...",
+      "Region": "North America"
+    },
+    {
+      "Company": "Connor Clark & Lunn",
+      "Title": "Intern, Investment Analytics Engineering",
+      "Department": "Investment Analytics Engineering",
+      "Location": "Vancouver, British Columbia, Canada",
       "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4413182009",
       "Source": "Career page Greenhouse:cclfg",
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-09-21T16:37:17-04:00 | career_page=https://job-boards.greenhouse.io/cclfg | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4413182009 | internship timing not stated in title | Are you interested in joining one of Canada’s top-performing asset managers? We are looking for an Intern to join our Investment Analytics Engineering team . The IA Engineering Team exists at the intersection of financial analytics and programming/data science. The ideal candidate has a passion for both sides of the role, understands complex financial concepts, and can apply technology to find insights and implement solutions. This is a fantastic opportunity to join a high-impact, high-skill team whose scope and impact continue to grow. What You Will Do In this position, you will support our team's analytics discovery and platform digital transformation efforts. You will work with project l...",
       "Region": "North America",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Connor Clark & Lunn",
@@ -1253,7 +1242,7 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-09-21T16:37:19-04:00 | career_page=https://job-boards.greenhouse.io/cclfg | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4413204009 | internship timing not stated in title | Are you interested in joining one of Canada’s top-performing asset managers? We are looking for an Intern to join our Investment Analytics Engineering team . The IA Engineering Team exists at the intersection of financial analytics and programming/data science. The ideal candidate has a passion for both sides of the role, understands complex financial concepts, and can apply technology to find insights and implement solutions. This is a fantastic opportunity to join a high-impact, high-skill team whose scope and impact continue to grow. What You Will Do In this position, you will support our team's analytics discovery and platform digital transformation efforts. You will work with project l...",
       "Region": "North America",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Connor Clark & Lunn",
@@ -1287,7 +1276,7 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-09-18T15:44:48-04:00 | career_page=https://job-boards.greenhouse.io/cclfg | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4410729009 | internship timing not stated in title | We are looking for a Retail Portfolio Operations Intern to join our Vancouver-based Investment Resource Group for an 8-month term (January-August 2027). This role offers an excellent opportunity for a student or recent graduate interested in investment operations, financial services, process improvement, and technology. The successful candidate will gain hands-on experience supporting retail portfolio operations while working alongside experienced professionals in a collaborative and entrepreneurial environment What You Will Do Assist with maintaining and reconciling client portfolio data. Support the maintenance of operational systems and data used across portfolio administration, trade ma...",
       "Region": "North America",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Connor Clark & Lunn",
@@ -1299,7 +1288,7 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-09-18T15:45:12-04:00 | career_page=https://job-boards.greenhouse.io/cclfg | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4410741009 | internship timing not stated in title | We are looking for a Retail Portfolio Operations Intern to join our Toronto-based Investment Resource Group for an 8-month term (January-August 2027). This role offers an excellent opportunity for a student or recent graduate interested in investment operations, financial services, process improvement, and technology. The successful candidate will gain hands-on experience supporting retail portfolio operations while working alongside experienced professionals in a collaborative and entrepreneurial environment What You Will Do Assist with maintaining and reconciling client portfolio data. Support the maintenance of operational systems and data used across portfolio administration, trade mana...",
       "Region": "North America",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "D. E. Shaw",
@@ -1387,8 +1376,8 @@
       "Source": "Greenhouse:davinciderivatives",
       "Status": "Confirmed official posting",
       "Department": "Trading",
-      "Notes": "posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | posted=2023-07-19T05:55:12-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Deutsche Bank",
@@ -1465,8 +1454,8 @@
       "Source": "Greenhouse:confidentialsportstradingfirm",
       "Status": "Confirmed official posting",
       "Department": "Technology",
-      "Notes": "posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | posted=2026-07-23T18:12:12-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "DRW",
@@ -2753,8 +2742,8 @@
       "Source": "Greenhouse:imc",
       "Status": "Confirmed official posting",
       "Department": "Development (Group)",
-      "Notes": "posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | posted=2026-08-27T17:39:39-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "IMC Trading",
@@ -2952,22 +2941,22 @@
     {
       "Company": "Jane Street",
       "Title": "IT Operations Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8641377002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Technology",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "IT Operations Engineer",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8651274002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Technology",
       "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "IT Operations Engineer",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8641377002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Technology",
+      "Region": "Asia"
     },
     {
       "Company": "Jane Street",
@@ -3042,16 +3031,6 @@
     {
       "Company": "Jane Street",
       "Title": "Quantitative Researcher",
-      "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8474416002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
-      "Region": "Europe"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Quantitative Researcher",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8623868002/",
       "Source": "Official Jane Street jobs feed",
@@ -3061,9 +3040,9 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Quantitative Trader",
+      "Title": "Quantitative Researcher",
       "Location": "London",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8474407002/",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8474416002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
@@ -3081,13 +3060,13 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Sales and Trading",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8630687002/",
+      "Title": "Quantitative Trader",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8474407002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Institutional Sales and Trading",
-      "Region": "Asia"
+      "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
+      "Region": "Europe"
     },
     {
       "Company": "Jane Street",
@@ -3098,6 +3077,16 @@
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Institutional Sales and Trading",
       "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Sales and Trading",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8630687002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Institutional Sales and Trading",
+      "Region": "Asia"
     },
     {
       "Company": "Jane Street",
@@ -3152,22 +3141,22 @@
     {
       "Company": "Jane Street",
       "Title": "Trading Desk Operations Engineer",
-      "Location": "Hong Kong",
-      "URL": "https://www.janestreet.com/join-jane-street/position/8620505002/",
-      "Source": "Official Jane Street jobs feed",
-      "Status": "Confirmed official posting",
-      "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Jane Street",
-      "Title": "Trading Desk Operations Engineer",
       "Location": "London",
       "URL": "https://www.janestreet.com/join-jane-street/position/8700980002/",
       "Source": "Official Jane Street jobs feed",
       "Status": "Confirmed official posting",
       "Notes": "Internship; June-September; Trading, Research, and Machine Learning",
       "Region": "Europe"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Trading Desk Operations Engineer",
+      "Location": "Hong Kong",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8620505002/",
+      "Source": "Official Jane Street jobs feed",
+      "Status": "Confirmed official posting",
+      "Notes": "Internship; May-August; Trading, Research, and Machine Learning",
+      "Region": "Asia"
     },
     {
       "Company": "Jane Street",
@@ -3198,8 +3187,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3210,8 +3199,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | posted=2026-09-03T23:07:47-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3222,8 +3211,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | posted=2026-08-03T03:00:02-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3234,8 +3223,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | posted=2026-07-13T08:38:12-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3246,8 +3235,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | posted=2026-07-13T08:38:27-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3258,8 +3247,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | posted=2026-07-13T08:39:34-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3270,8 +3259,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | posted=2026-09-03T23:08:32-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3282,8 +3271,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-08-03T03:00:07-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-03T03:00:07-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | posted=2026-08-03T03:00:07-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3294,8 +3283,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | posted=2026-07-13T08:36:23-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3306,8 +3295,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | posted=2026-08-03T03:00:20-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3318,8 +3307,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | posted=2026-08-24T03:42:53-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3330,8 +3319,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | posted=2026-07-13T08:37:10-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3342,8 +3331,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | posted=2026-08-25T06:26:44-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3354,8 +3343,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | posted=2026-08-24T03:42:46-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3366,8 +3355,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | posted=2026-08-03T03:00:24-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3378,8 +3367,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Front Office ",
-      "Notes": "posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | posted=2026-07-13T08:37:03-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3390,8 +3379,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3402,8 +3391,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "IT Infrastructure + WCW",
-      "Notes": "posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | posted=2026-08-03T03:00:11-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3414,8 +3403,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "IT Infrastructure + WCW",
-      "Notes": "posted=2026-07-13T08:39:57-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-07-13T08:39:57-04:00 | posted=2026-07-13T08:39:57-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T08:39:57-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-07-13T08:39:57-04:00 | posted=2026-07-13T08:39:57-04:00 | posted=2026-07-13T08:39:57-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Jump Trading",
@@ -3426,8 +3415,8 @@
       "Source": "Greenhouse:jumptrading",
       "Status": "Confirmed official posting",
       "Department": "Core Development ",
-      "Notes": "posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | posted=2026-07-13T08:37:46-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Man Group",
@@ -3437,9 +3426,9 @@
       "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101",
       "Source": "Greenhouse:mangroup",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-17T11:33:45-04:00; internship timing: 2027 Summer; undergrad/BS/MS language found | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | revalidated_from_previous_scan=true",
+      "Notes": "posted=2026-09-17T11:33:45-04:00; internship timing: 2027 Summer; undergrad/BS/MS language found | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | posted=2026-09-17T11:33:45-04:00 | revalidated_from_previous_scan=true",
       "Region": "Europe",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Man Group",
@@ -3449,9 +3438,9 @@
       "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4982410101",
       "Source": "Greenhouse:mangroup",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-22T04:48:00-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | revalidated_from_previous_scan=true",
+      "Notes": "posted=2026-09-22T04:48:00-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | posted=2026-09-22T04:48:00-04:00 | revalidated_from_previous_scan=true",
       "Region": "Asia",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Man Group",
@@ -3461,9 +3450,9 @@
       "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978895101",
       "Source": "Greenhouse:mangroup",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-23T09:28:11-04:00; internship timing: Summer; undergrad/BS/MS language found | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | revalidated_from_previous_scan=true",
+      "Notes": "posted=2026-09-23T09:28:11-04:00; internship timing: Summer; undergrad/BS/MS language found | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | posted=2026-09-23T09:28:11-04:00 | revalidated_from_previous_scan=true",
       "Region": "Remote / Unspecified",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Man Group",
@@ -3473,9 +3462,9 @@
       "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101",
       "Source": "Greenhouse:mangroup",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-28T12:42:31-04:00; internship timing: Summer 2027; undergrad/BS/MS language found | posted=2026-09-28T12:42:31-04:00 | posted=2026-09-28T12:42:31-04:00 | posted=2026-09-28T12:42:31-04:00 | revalidated_from_previous_scan=true",
+      "Notes": "posted=2026-09-28T12:42:31-04:00; internship timing: Summer 2027; undergrad/BS/MS language found | posted=2026-09-28T12:42:31-04:00 | posted=2026-09-28T12:42:31-04:00 | posted=2026-09-28T12:42:31-04:00 | posted=2026-09-28T12:42:31-04:00 | revalidated_from_previous_scan=true",
       "Region": "Europe",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Maven Securities",
@@ -3629,8 +3618,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Hardware",
-      "Notes": "posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | posted=2026-08-12T06:13:46-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3641,8 +3630,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Software",
-      "Notes": "posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | posted=2026-08-12T06:14:53-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3652,9 +3641,9 @@
       "URL": "https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002",
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-07T21:18:06-04:00; internship timing: Summer; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | revalidated_from_previous_scan=true",
+      "Notes": "posted=2026-09-07T21:18:06-04:00; internship timing: Summer; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | revalidated_from_previous_scan=true",
       "Region": "Asia",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3665,8 +3654,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Software",
-      "Notes": "posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | posted=2026-08-12T06:15:52-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3677,8 +3666,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Hardware",
-      "Notes": "posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | posted=2026-07-21T09:38:05-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3689,8 +3678,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Hardware",
-      "Notes": "posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | posted=2026-06-16T09:41:40-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3701,8 +3690,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Hardware",
-      "Notes": "posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | posted=2026-08-17T07:19:48-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3735,8 +3724,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Quantitative Traders",
-      "Notes": "posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | posted=2026-08-05T10:27:35-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3747,8 +3736,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Quantitative Research",
-      "Notes": "posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | posted=2026-08-17T07:16:55-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3759,8 +3748,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Quantitative Research",
-      "Notes": "posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | posted=2026-08-12T23:29:42-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3771,8 +3760,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Quantitative Traders",
-      "Notes": "posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | posted=2026-08-17T07:14:56-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3783,8 +3772,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Quantitative Traders",
-      "Notes": "posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | posted=2026-07-20T21:40:36-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3795,8 +3784,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Quantitative Traders",
-      "Notes": "posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | posted=2026-08-12T06:18:04-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3807,8 +3796,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Quantitative Traders",
-      "Notes": "posted=2025-06-27T03:33:01-04:00; internship timing not stated in title; graduation eligibility mentions: 2026; undergrad/BS/MS language found | posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2025-06-27T03:33:01-04:00; internship timing not stated in title; graduation eligibility mentions: 2026; undergrad/BS/MS language found | posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | posted=2025-06-27T03:33:01-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3819,8 +3808,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Software",
-      "Notes": "posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | posted=2026-08-17T07:16:48-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3831,8 +3820,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Software",
-      "Notes": "posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | posted=2026-08-17T07:16:49-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Optiver",
@@ -3843,8 +3832,8 @@
       "Source": "Greenhouse:optiverus",
       "Status": "Confirmed official posting",
       "Department": "Trading Analysts",
-      "Notes": "posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | posted=2026-07-15T18:12:29-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "PDT Partners",
@@ -4108,8 +4097,8 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Department": "Internships",
-      "Notes": "posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | posted=2026-08-11T15:41:34-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Quantbot Technologies",
@@ -4120,8 +4109,8 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Department": "Internships",
-      "Notes": "posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | posted=2026-08-11T15:41:50-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Quantbot Technologies",
@@ -4132,8 +4121,8 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Department": "Internships",
-      "Notes": "posted=2026-08-07T13:51:59-04:00; internship timing: Summer; undergrad/BS/MS language found | posted=2026-08-07T13:51:59-04:00 | posted=2026-08-07T13:51:59-04:00 | posted=2026-08-07T13:51:59-04:00 | posted=2026-08-07T13:51:59-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-07T13:51:59-04:00; internship timing: Summer; undergrad/BS/MS language found | posted=2026-08-07T13:51:59-04:00 | posted=2026-08-07T13:51:59-04:00 | posted=2026-08-07T13:51:59-04:00 | posted=2026-08-07T13:51:59-04:00 | posted=2026-08-07T13:51:59-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Quantbot Technologies",
@@ -4144,8 +4133,8 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Department": "Internships",
-      "Notes": "posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | posted=2026-08-07T13:49:20-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Quantbot Technologies",
@@ -4155,9 +4144,9 @@
       "URL": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009",
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-08-07T13:58:23-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | revalidated_from_previous_scan=true",
+      "Notes": "posted=2026-08-07T13:58:23-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | posted=2026-08-07T13:58:23-04:00 | revalidated_from_previous_scan=true",
       "Region": "North America",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Quantbot Technologies",
@@ -4168,8 +4157,8 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Department": "Internships",
-      "Notes": "posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | posted=2026-08-11T15:42:05-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Quantbot Technologies",
@@ -4180,8 +4169,8 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Department": "Internships",
-      "Notes": "posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | posted=2026-08-11T15:44:45-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Quantbot Technologies",
@@ -4192,8 +4181,8 @@
       "Source": "Greenhouse:quantbot-technologies",
       "Status": "Confirmed official posting",
       "Department": "Internships",
-      "Notes": "posted=2026-08-07T13:44:08-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-08-07T13:44:08-04:00 | posted=2026-08-07T13:44:08-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-07T13:44:08-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-08-07T13:44:08-04:00 | posted=2026-08-07T13:44:08-04:00 | posted=2026-08-07T13:44:08-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -4203,9 +4192,9 @@
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002",
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-09T03:35:35-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | revalidated_from_previous_scan=true",
+      "Notes": "posted=2026-09-09T03:35:35-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | posted=2026-09-09T03:35:35-04:00 | revalidated_from_previous_scan=true",
       "Region": "Europe",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -4216,8 +4205,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Research/Trading",
-      "Notes": "posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | posted=2026-09-08T10:10:35-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -4228,8 +4217,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | posted=2026-08-26T10:03:24-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -4240,8 +4229,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | posted=2026-09-08T09:56:30-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -4252,8 +4241,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | posted=2026-09-08T09:57:34-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -4264,8 +4253,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | posted=2026-09-08T09:57:57-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -4276,8 +4265,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | posted=2026-08-26T10:05:35-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -4288,8 +4277,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Research/Trading",
-      "Notes": "posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | posted=2026-08-24T06:56:45-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -4300,8 +4289,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | posted=2026-08-24T07:57:01-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -4312,8 +4301,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | posted=2026-08-26T11:41:44-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -4324,8 +4313,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | posted=2026-08-26T10:04:56-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Qube Research & Technologies",
@@ -4336,8 +4325,8 @@
       "Source": "Greenhouse:quberesearchandtechnologies",
       "Status": "Confirmed official posting",
       "Department": "Internship - Technology",
-      "Notes": "posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | posted=2026-09-08T09:57:07-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Radix Trading",
@@ -4387,22 +4376,22 @@
       "Company": "Schonfeld",
       "Title": "2027 PhD Quantitative Research Intern",
       "Department": "Internship",
-      "Location": "New York, New York, United States",
-      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+      "Location": "Miami, Florida, United States",
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
       "Source": "Career page Greenhouse:schonfeld",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-04T17:25:52-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8172074 | internship timing not stated in title | The Role We are seeking exceptional PhD candidates to join our Quantitative Research teams where they will work with other researchers and developers on various research projects, including the design of novel predictive signals and the enhancement of our algorithms for prediction, trade execution, portfolio construction, risk management, among others. Interns will have an opportunity to meaningfully contribute to all facets of running a successful quantitative trading business and help it grow and diversify. What You’ll Do Depending on the portfolio manager team you join, as a Quantitative Researcher Intern you will be directly responsible for furthering our alpha research. You...",
+      "Notes": "posted=2026-09-04T17:05:23-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8172076 | internship timing not stated in title | The Role We are seeking exceptional PhD candidates to join our Quantitative Research teams in the Miami metro area where they will work with other researchers and developers on various research projects, including the design of novel predictive signals and the enhancement of our algorithms for prediction, trade execution, portfolio construction, risk management, among others. Interns will have an opportunity to meaningfully contribute to all facets of running a successful quantitative trading business and help it grow and diversify. What You’ll Do Depending on the portfolio manager team you join, as a Quantitative Researcher Intern you will be directly responsible for furthering...",
       "Region": "North America"
     },
     {
       "Company": "Schonfeld",
       "Title": "2027 PhD Quantitative Research Intern",
       "Department": "Internship",
-      "Location": "Miami, Florida, United States",
-      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
+      "Location": "New York, New York, United States",
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
       "Source": "Career page Greenhouse:schonfeld",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-04T17:05:23-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8172076 | internship timing not stated in title | The Role We are seeking exceptional PhD candidates to join our Quantitative Research teams in the Miami metro area where they will work with other researchers and developers on various research projects, including the design of novel predictive signals and the enhancement of our algorithms for prediction, trade execution, portfolio construction, risk management, among others. Interns will have an opportunity to meaningfully contribute to all facets of running a successful quantitative trading business and help it grow and diversify. What You’ll Do Depending on the portfolio manager team you join, as a Quantitative Researcher Intern you will be directly responsible for furthering...",
+      "Notes": "posted=2026-09-04T17:25:52-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8172074 | internship timing not stated in title | The Role We are seeking exceptional PhD candidates to join our Quantitative Research teams where they will work with other researchers and developers on various research projects, including the design of novel predictive signals and the enhancement of our algorithms for prediction, trade execution, portfolio construction, risk management, among others. Interns will have an opportunity to meaningfully contribute to all facets of running a successful quantitative trading business and help it grow and diversify. What You’ll Do Depending on the portfolio manager team you join, as a Quantitative Researcher Intern you will be directly responsible for furthering our alpha research. You...",
       "Region": "North America"
     },
     {
@@ -4513,8 +4502,8 @@
       "Source": "Greenhouse:squarepointcapital",
       "Status": "Confirmed official posting",
       "Department": "Investment",
-      "Notes": "posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | posted=2023-07-06T04:50:24-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Squarepoint Capital",
@@ -4525,8 +4514,8 @@
       "Source": "Greenhouse:squarepointcapital",
       "Status": "Confirmed official posting",
       "Department": "Technology",
-      "Notes": "posted=2025-09-05T05:54:45-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2025-09-05T05:54:45-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | posted=2025-09-05T05:54:45-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Squarepoint Capital",
@@ -4537,8 +4526,8 @@
       "Source": "Greenhouse:squarepointcapital",
       "Status": "Confirmed official posting",
       "Department": "Technology",
-      "Notes": "posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | posted=2026-05-07T16:37:33-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Squarepoint Capital",
@@ -4549,8 +4538,8 @@
       "Source": "Greenhouse:squarepointcapital",
       "Status": "Confirmed official posting",
       "Department": "Technology",
-      "Notes": "posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | revalidated_from_previous_scan=true",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
+      "Notes": "posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | posted=2024-08-28T10:12:36-04:00 | revalidated_from_previous_scan=true",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Stevens Capital Management",
@@ -4692,7 +4681,7 @@
       "URL": "https://careers.sig.com/jobs/11555?lang=en-us",
       "Source": "Official SIG jobs API",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-24T17:43:00+0000 | June 2026 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Our Machine Learning Engineering Internship is a 10-week immersive experience designed for students who are passionate about building the systems at the intersection of machine learning, large-scale data, and markets. As a Machine Learning Engineering Intern, you'll work on high-impact projects that closely reflect the challenges and workflows of our full-time engineering team. You'll apply your software engineering skills to real machine learning systems while developing a deep understanding of how machine learning integrates into Susquehanna's research and trading systems. A model is useful only if it can be trained quickly, fed reliably, and run fast enough to act on - our engineers own the systems that make that true, and we scope intern projects the sa...",
+      "Notes": "posted=2026-09-24T17:43:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Our Machine Learning Engineering Internship is a 10-week immersive experience designed for students who are passionate about building the systems at the intersection of machine learning, large-scale data, and markets. As a Machine Learning Engineering Intern, you'll work on high-impact projects that closely reflect the challenges and workflows of our full-time engineering team. You'll apply your software engineering skills to real machine learning systems while developing a deep understanding of how machine learning integrates into Susquehanna's research and trading systems. A model is useful only if it can be trained quickly, fed reliably, and run fast enough to act on - our engineers own the systems that make that true, and we scope intern projects the sa...",
       "Region": "North America"
     },
     {
@@ -5401,28 +5390,6 @@
     },
     {
       "Company": "Vanguard",
-      "Title": "College to Corporate IT Internship - Risk & Security - Engineer  (NC)",
-      "Department": "",
-      "Location": "Charlotte, NC",
-      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1",
-      "Source": "Career page Workday:vanguard/vanguard_external",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 30+ Days Ago | 177688",
-      "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "Vanguard",
-      "Title": "College to Corporate IT Internship - Risk & Security - Engineer  (PA)",
-      "Department": "",
-      "Location": "Malvern, PA",
-      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1",
-      "Source": "Career page Workday:vanguard/vanguard_external",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 21 Days Ago | 177687",
-      "Region": "North America"
-    },
-    {
-      "Company": "Vanguard",
       "Title": "College to Corporate IT Internship - Technology Operations (PA)",
       "Department": "",
       "Location": "Malvern, PA",
@@ -5431,6 +5398,28 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 30+ Days Ago | 181788",
       "Region": "North America"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship-Risk & Security Engineer (PA)",
+      "Department": "",
+      "Location": "Malvern, PA",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted Today | 182784",
+      "Region": "North America"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship-Risk & Security-Engineer (NC)",
+      "Department": "",
+      "Location": "Charlotte, NC",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted Today | 182785",
+      "Region": "Remote / Unspecified"
     },
     {
       "Company": "Verition Fund Management",

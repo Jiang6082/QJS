@@ -1,27 +1,26 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-10-01T15:51:41.606Z
-Current scan: 2026-10-02T10:27:21.713Z
-Previous rows: 580
-Current rows: 575
-New URLs confirmed in both source passes: 5
-Confirmed no longer present: 7
+Previous scan: 2026-10-02T10:27:21.713Z
+Current scan: 2026-10-02T18:05:04.227Z
+Previous rows: 575
+Current rows: 574
+New URLs confirmed in both source passes: 3
+Confirmed no longer present: 0
 
 ## New Roles By Region
 
-### North America (3)
+### North America (2)
 
-- **D. E. Shaw** - [Strategy and Business Development MBA Summer Associate (New York) – Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-mba-summer-associate-new-york-summer-2027-6088) - New York - Confirmed official posting (Official D. E. Shaw internships page): career_page=https://www.deshaw.com/careers/internships | department=Strategy and Business Development | internship timing: Summer 2027 | official detail page checked | Strategy and Business Development MBA Summer Associate (New York) – Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Dev
-- **Point72** - [Micro-Intern: Research Technology Developer (IAP)](https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002) - New York - Confirmed official posting (Career page Greenhouse:point72): posted=2025-10-31T12:02:59-04:00 | career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8236734002 | internship timing not stated in title | About Cubist Cubist Systematic Strategies, an affiliate of Point72, is one of the world’s premier investment firms. The firm deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures, and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources. Job Description The Central Research Technology team, which builds strategic solutions for research and live trading of quantitative strategies across multiple frequencies and products, is seeking a highly talented intern to work with the team in January. This is a unique opp...
-- **Walleye Capital** - [Special Projects Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006) - New York, New York - Confirmed official posting (Career page Greenhouse:walleyecapital-external-students): posted=2026-10-01T18:23:29-04:00 | career_page=https://job-boards.greenhouse.io/walleyecapital-external-students | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4716166006 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Position: Special Projects Developer Intern (Summer 2027) Location: New York, NY Firm Overview: Walleye Capital is a ~$17 billion+ multi-strategy investment firm headquartered in New York City, with over 350 employees across five main offices. Founded in 2005 as an options market maker, we have organically grown into a global investment firm specializing in Fundamental Equities, Quant, and Volatility strategies. At Walleye, we continuously innovate by focusing on three core principles: approach, platform, and people. Our approach is to allocate risk capital where we believe there is not only a compelling opportunity, but also ...
+- **Barclays** - [Quantitative Finance Associate Summer Internship Program 2027 New York](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099) - New York, 745 7th Avenue - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000128099
+- **Vanguard** - [College to Corporate IT Internship-Risk & Security Engineer (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784) - Malvern, PA - Confirmed official posting (Career page Workday:vanguard/vanguard_external): career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted Today | 182784
 
 ### Europe (0)
 
 _None._
 
-### Asia (1)
+### Asia (0)
 
-- **Goldman Sachs** - [2027 | APEJ | Seoul | Global Investment Research | Seasonal / Off Cycle Internship](https://higher.gs.com/roles/185927) - Seoul, Seoul, Korea, Republic of - Confirmed official posting (Official Goldman Sachs Higher API): posted=2026-10-02 | role_id=185927 | program=Seasonal | division=Global Investment Research Division
+_None._
 
 ### Oceania (0)
 
@@ -45,17 +44,11 @@ _None._
 
 ### Remote / Unspecified (1)
 
-- **Invesco** - [Early Career Intern - Fixed Income Global Technology](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1) - Atlanta, Georgia - Confirmed official posting (Career page Workday:invesco/IVZ): career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Yesterday | R-15621
+- **Vanguard** - [College to Corporate IT Internship-Risk & Security-Engineer (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785) - Charlotte, NC - Confirmed official posting (Career page Workday:vanguard/vanguard_external): career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted Today | 182785
 
 ## No Longer Present
 
-- **AQR Capital Management** - [2027 Portfolio Solutions Group Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362)
-- **DRW** - [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8038923)
-- **Schonfeld** - [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553)
-- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703)
-- **Schonfeld** - [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692)
-- **Schonfeld** - [2027 DMFI Technology Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171772)
-- **Schonfeld** - [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8180089)
+_None._
 
 ## Missing but not confirmed closed
 
@@ -63,7 +56,6 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 
 - **AQR Capital Management** - [AQR internship program page](https://www.aqr.com/about-us/our-internship-program)
 - **Barclays** - [2027 Technology Developer Summer Internship Programme Singapore](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Singapore_JR-0000121763)
-- **Barclays** - [Quantitative Finance Associate Summer Internship Program 2027 New York](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099)
 - **Barclays** - [Sales, Trading and Structuring Summer Internship Programme 2027 Hong Kong](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117559)
 - **Barclays** - [Sales, Trading and Structuring Summer Internship Programme 2027 Singapore](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Singapore_JR-0000117562)
 - **BlackRock** - [2027 Summer Internship Program - AMERS](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544)
@@ -99,6 +91,7 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **BP** - [6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2)
 - **BP** - [Summer Internship - Finance & Risk - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217)
 - **Deutsche Bank** - [Global Technology Governance Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Global-Technology-Governance-Intern_R0432013)
+- **Vanguard** - [College to Corporate IT Internship - Risk & Security - Engineer  (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1)
 - **BMO Capital Markets** - [BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769)
 - **Deutsche Bank** - [DWS Liquidity Risk Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Liquidity-Risk-Intern_R0446573-1)
 - **Barclays** - [2027 Risk Analyst Summer Internship Program Wilmington](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Risk-Analyst-Summer-Internship-Program-Wilmington_JR-0000123226)
@@ -124,9 +117,12 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **T. Rowe Price** - [2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718)
 - **T. Rowe Price** - [2027 Quantitative Equity Investing Internship Program](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699)
 - **Barclays** - [2027 Risk Analyst Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Risk-Analyst-Summer-Internship-Programme-London_JR-0000129108)
+- **Barclays** - [2027 Technology Developer Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397)
 - **BP** - [Summer Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2)
+- **Vanguard** - [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1)
 - **Fidelity Investments** - [Summer 2027 Equity Research Associate Intern - London](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1)
 - **PIMCO** - [2027 Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805)
+- **Brevan Howard** - [2027 Summer Internship Program – Trading, Geneva](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607)
 - **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677)
 - **Wellington Management** - [Portfolio Reference Data Analyst Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829)
 - **Wellington Management** - [Quantitative Trading Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1)

@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-10-02T10:27:21.713Z
+Scan started: 2026-10-02T18:05:04.227Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 
@@ -157,7 +157,7 @@ Canonical companies after aliases: 304
 | ArbitragePoint Trading | no saved page attempted | none |
 | Arrowstreet Capital | 1/1 pages live | [link](https://www.arrowstreetcapital.com/professional-careers/) |
 | B2C2 | 2/2 pages live | [link](https://www.b2c2.com/join-b2c2/careers) [link](https://job-boards.greenhouse.io/b2c2) |
-| Barak Capital | 1/1 pages live | [link](https://barakmarketmaking.com/careers/) |
+| Barak Capital | 0/1 pages live | [link](https://barakmarketmaking.com/careers/) |
 | Black Eagle Financial Group | 1/1 pages live | [link](https://blackeaglefg.com/stock-market-job/) |
 | Boston Energy Trading and Marketing | 1/1 pages live | [link](https://www.betm.com/careers) |
 | CTS Global Equity Group | 2/2 pages live | [link](https://www.ctsglobalgroup.com/) [link](https://www.ctsglobalgroup.com/internship) |
@@ -167,7 +167,7 @@ Canonical companies after aliases: 304
 | DSV Fund | 1/1 pages live | [link](https://www.dsv.com/en/careers) |
 | Danske Commodities | 1/1 pages live | [link](https://danskecommodities.com/join-us) |
 | Eagle Seven | 1/1 pages live | [link](https://www.eagleseven.com/) |
-| Estee Advisors | 1/1 pages live | [link](https://esteeadvisors.com/careers.php) |
+| Estee Advisors | 0/1 pages live | [link](https://esteeadvisors.com/careers.php) |
 | Futures First | 1/1 pages live | [link](https://futuresfirst.com/careers/) |
 | Genk Capital | 1/1 pages live | [link](https://join.genkcapital.com/) |
 | Golden Meadow Investment | no saved page attempted | none |
@@ -178,7 +178,7 @@ Canonical companies after aliases: 304
 | Kvantium Research | no saved page attempted | none |
 | DWF Labs | 0/1 pages live | [link](https://www.dwf-labs.com/careers) |
 | Deep Blue Capital | 1/1 pages live | [link](https://deepbluecap.com/vacancies/) |
-| Dexterity Capital | 1/3 pages live | [link](https://wellfound.com/company/dexterity-capital) [link](https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us) [link](https://app.welcometothejungle.com/companies/Dexterity-Capital) |
+| Dexterity Capital | 0/3 pages live | [link](https://wellfound.com/company/dexterity-capital) [link](https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us) [link](https://app.welcometothejungle.com/companies/Dexterity-Capital) |
 | Domstad Traders | no saved page attempted | none |
 | Enigma Quant Capital | 1/1 pages live | [link](https://www.enigmaquant.com/#careers) |
 | Ethflow | no saved page attempted | none |
@@ -190,7 +190,7 @@ Canonical companies after aliases: 304
 | HBK Capital Management | 1/1 pages live | [link](https://www.hbk.com/careers) |
 | Humbility | 1/1 pages live | [link](https://apply.workable.com/humbility/) |
 | InCommodities | 1/1 pages live | [link](https://incommodities.com/join-us) |
-| Invemo Capital AG | 1/1 pages live | [link](https://invemo.ch/) |
+| Invemo Capital AG | 0/1 pages live | [link](https://invemo.ch/) |
 | Jerpoint Capital | no saved page attempted | none |
 | KeyQuant | no saved page attempted | none |
 | League Trading | 1/1 pages live | [link](https://www.theleaguecorp.com/opportunities.php) |
@@ -204,7 +204,7 @@ Canonical companies after aliases: 304
 | Forest Creek Capital | no saved page attempted | none |
 | Gift Street Capital | no saved page attempted | none |
 | Grasshopper | 1/1 pages live | [link](https://grasshopperasia.com/careers/) |
-| Group One Trading | 0/1 pages live | [link](https://www.group1.com/careers/) |
+| Group One Trading | 1/1 pages live | [link](https://www.group1.com/careers/) |
 | Hyperithm | 1/1 pages live | [link](https://hyperithm.career.greetinghr.com/ko/open-positions) |
 | InCommodities Asset Management | 1/1 pages live | [link](https://incommodities.com/join-us) |
 | J.E. Moody & Company LLC | 1/1 pages live | [link](http://jemoody.com/) |
@@ -275,7 +275,7 @@ Canonical companies after aliases: 304
 | Sovereign Blue Capital | no saved page attempted | none |
 | Los Angeles Capital Management | 1/1 pages live | [link](https://lacapm.com/careers) |
 | Market Wizards | 1/1 pages live | [link](https://marketwizards.com/careers/) |
-| Matrix Executions | 1/1 pages live | [link](https://matrixexecutions.com/careers/) |
+| Matrix Executions | 0/1 pages live | [link](https://matrixexecutions.com/careers/) |
 | Mercuria Energy America | 0/1 pages live | [link](https://mercuria.com/careers/) |
 | Millennium | 2/2 pages live | [link](https://mlp.wd5.myworkdayjobs.com/mlpcareers) [link](https://www.mlp.com/careers/) |
 | Mingshi / Minghong | 2/2 pages live | [link](https://join.mhfunds.com/index) [link](https://www.mhfunds.com/) |
@@ -322,7 +322,7 @@ Canonical companies after aliases: 304
 | TRV Trading Ltd | 1/1 pages live | [link](https://www.trvtradinggroup.com/) |
 | TradeLink | 1/1 pages live | [link](https://www.tradelink.co/careers) |
 | UBS | 5/5 pages live | [link](https://www.ubs.com/global/en/careers.html) [link](https://www.ubs.com/global/en/careers/search-jobs.html) [link](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=searchResults&SearchType=linkquery&LinkID=15231) [link](https://www.ubs.com/global/en/careers/early-careers.html) [link](https://www.ubs.com/global/en/careers/early-careers/faq.html) |
-| Universa Investments | 0/1 pages live | [link](https://jobs.universalparks.com/universal-orlando-resort/) |
+| Universa Investments | 1/1 pages live | [link](https://jobs.universalparks.com/universal-orlando-resort/) |
 | VS Capital | 1/1 pages live | [link](https://vscapitalgrp.com/careers) |
 | Verma Research Capital | no saved page attempted | none |
 | Wallsoft Labs | no saved page attempted | none |

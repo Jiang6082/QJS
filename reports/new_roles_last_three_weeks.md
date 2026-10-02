@@ -1,4 +1,4 @@
-# Roles posted 2026-09-12 → 2026-10-02 (109 with source posting dates)
+# Roles posted 2026-09-12 → 2026-10-02 (110 with source posting dates)
 
 _Dates come from employer publication fields or dated relative labels. Relative labels have day-level precision; source publication dates can reflect a repost. Internship start dates and edit timestamps are not release dates._
 
@@ -42,8 +42,8 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 
 ## Connor Clark & Lunn (10)
 
-- **2026-09-21** — [Intern, Investment Analytics Engineering](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009) — Vancouver, British Columbia, Canada
 - **2026-09-21** — [Intern, Investment Analytics Engineering](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413204009) — Toronto, Ontario, Canada
+- **2026-09-21** — [Intern, Investment Analytics Engineering](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009) — Vancouver, British Columbia, Canada
 - **2026-09-21** — [Intern, Investment Analytics Engineering](https://job-boards.greenhouse.io/cclfg/jobs/4413182009) — Vancouver, British Columbia, Canada
 - **2026-09-21** — [Intern, Investment Analytics Engineering](https://job-boards.greenhouse.io/cclfg/jobs/4413204009) — Toronto, Ontario, Canada
 - **2026-09-18** — [Intern, Retail Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410729009) — Vancouver, British Columbia, Canada
@@ -61,14 +61,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-25** — [Summer Internship Programme 2027 Norway - Strategy & Management](https://equinor.wd3.myworkdayjobs.com/EQNR/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Strategy---Management--Evergreen-_JR107245) — 5 Locations _(relative source date)_
 - **2026-09-25** — [Summer Internship Programme 2027 Norway - Technology & Engineering](https://equinor.wd3.myworkdayjobs.com/EQNR/job/Stavanger-Norway/Summer-Internship-Programme-2027-Norway---Technology---Engineering--Evergreen-_JR107246) — 11 Locations _(relative source date)_
 
-## Brevan Howard (5)
-
-- **2026-09-24** — [2027 Summer Internship Program – Systematic Trading, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619) — London _(relative source date)_
-- **2026-09-22** — [2027 Summer Internship Program - AI & Quantitative Analyst, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605) — London _(relative source date)_
-- **2026-09-21** — [2027 Summer Internship Program - AI & Quantitative Analyst, Abu Dhabi](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--Abu-Dhabi_JR101613) — Abu Dhabi _(relative source date)_
-- **2026-09-15** — [2027 Summer Internship Program – Trading, Geneva](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607) — Geneva _(relative source date)_
-- **2026-09-14** — [2027 Summer Internship Program – AI & Quantitative Analyst, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) — New York _(relative source date)_
-
 ## Man Group (4)
 
 - **2026-09-28** — [Trading Summer 2027 Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101) — London
@@ -82,6 +74,13 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-14** — [Portfolio Assistant, Winter 2027 (Co-op/Internship), Montreal - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Portfolio-Assistant--Winter-2027--Co-op-Internship---Montreal---4-months_R260025949-2) — MONTREAL, QC, CAN _(relative source date)_
 - **2026-09-14** — [Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3) — Toronto, ON, CAN _(relative source date)_
 - **2026-09-14** — [R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726) — Brossard, QC, CAN _(relative source date)_
+
+## Brevan Howard (4)
+
+- **2026-09-24** — [2027 Summer Internship Program – Systematic Trading, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619) — London _(relative source date)_
+- **2026-09-22** — [2027 Summer Internship Program - AI & Quantitative Analyst, London](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605) — London _(relative source date)_
+- **2026-09-21** — [2027 Summer Internship Program - AI & Quantitative Analyst, Abu Dhabi](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--Abu-Dhabi_JR101613) — Abu Dhabi _(relative source date)_
+- **2026-09-14** — [2027 Summer Internship Program – AI & Quantitative Analyst, New York](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) — New York _(relative source date)_
 
 ## Capital Group (4)
 
@@ -119,6 +118,11 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-09-22** — [Python Developer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242196007) — Chicago Office
 - **2026-09-22** — [Trade Support Engineer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242190007) — Chicago Office
 - **2026-09-21** — [C++ Developer (Intern)](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) — Chicago Office
+
+## Vanguard (2)
+
+- **2026-10-02** — [College to Corporate IT Internship-Risk & Security Engineer (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784) — Malvern, PA _(relative source date)_
+- **2026-10-02** — [College to Corporate IT Internship-Risk & Security-Engineer (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785) — Charlotte, NC _(relative source date)_
 
 ## Old Mission Capital (2)
 

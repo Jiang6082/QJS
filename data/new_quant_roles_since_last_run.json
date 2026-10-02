@@ -1,167 +1,46 @@
 {
-  "generatedAt": "2026-10-02T10:32:18.665Z",
-  "baselineCommit": "4ed1ace882d560c74baa1b248d4489dbdbd481d3",
-  "previousScanAt": "2026-10-01T15:51:41.606Z",
-  "currentScanAt": "2026-10-02T10:27:21.713Z",
-  "previousRows": 580,
-  "currentRows": 575,
+  "generatedAt": "2026-10-02T18:10:07.925Z",
+  "baselineCommit": "44f50cd20a52e6a776e093d907fb632987c815fc",
+  "previousScanAt": "2026-10-02T10:27:21.713Z",
+  "currentScanAt": "2026-10-02T18:05:04.227Z",
+  "previousRows": 575,
+  "currentRows": 574,
   "added": [
     {
-      "Company": "D. E. Shaw",
-      "Title": "Strategy and Business Development MBA Summer Associate (New York) – Summer 2027",
-      "Department": "Strategy and Business Development",
-      "Location": "New York",
-      "URL": "https://www.deshaw.com/careers/strategy-and-business-development-mba-summer-associate-new-york-summer-2027-6088",
-      "Source": "Official D. E. Shaw internships page",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://www.deshaw.com/careers/internships | department=Strategy and Business Development | internship timing: Summer 2027 | official detail page checked | Strategy and Business Development MBA Summer Associate (New York) – Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Dev",
-      "Region": "North America"
-    },
-    {
-      "Company": "Goldman Sachs",
-      "Title": "2027 | APEJ | Seoul | Global Investment Research | Seasonal / Off Cycle Internship",
-      "Department": "Global Investment Research Division",
-      "Location": "Seoul, Seoul, Korea, Republic of",
-      "URL": "https://higher.gs.com/roles/185927",
-      "Source": "Official Goldman Sachs Higher API",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-10-02 | role_id=185927 | program=Seasonal | division=Global Investment Research Division",
-      "Region": "Asia"
-    },
-    {
-      "Company": "Invesco",
-      "Title": "Early Career Intern - Fixed Income Global Technology",
+      "Company": "Barclays",
+      "Title": "Quantitative Finance Associate Summer Internship Program 2027 New York",
       "Department": "",
-      "Location": "Atlanta, Georgia",
-      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1",
-      "Source": "Career page Workday:invesco/IVZ",
+      "Location": "New York, 745 7th Avenue",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Yesterday | R-15621",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000128099",
+      "Region": "North America"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship-Risk & Security Engineer (PA)",
+      "Department": "",
+      "Location": "Malvern, PA",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted Today | 182784",
+      "Region": "North America"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship-Risk & Security-Engineer (NC)",
+      "Department": "",
+      "Location": "Charlotte, NC",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted Today | 182785",
       "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "Point72",
-      "Title": "Micro-Intern: Research Technology Developer (IAP)",
-      "Department": "Quant Management",
-      "Location": "New York",
-      "URL": "https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002",
-      "Source": "Career page Greenhouse:point72",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2025-10-31T12:02:59-04:00 | career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8236734002 | internship timing not stated in title | About Cubist Cubist Systematic Strategies, an affiliate of Point72, is one of the world’s premier investment firms. The firm deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures, and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources. Job Description The Central Research Technology team, which builds strategic solutions for research and live trading of quantitative strategies across multiple frequencies and products, is seeking a highly talented intern to work with the team in January. This is a unique opp...",
-      "Region": "North America"
-    },
-    {
-      "Company": "Walleye Capital",
-      "Title": "Special Projects Developer Intern (Summer 2027)",
-      "Department": "Core Business",
-      "Location": "New York, New York",
-      "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006",
-      "Source": "Career page Greenhouse:walleyecapital-external-students",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-10-01T18:23:29-04:00 | career_page=https://job-boards.greenhouse.io/walleyecapital-external-students | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4716166006 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Position: Special Projects Developer Intern (Summer 2027) Location: New York, NY Firm Overview: Walleye Capital is a ~$17 billion+ multi-strategy investment firm headquartered in New York City, with over 350 employees across five main offices. Founded in 2005 as an options market maker, we have organically grown into a global investment firm specializing in Fundamental Equities, Quant, and Volatility strategies. At Walleye, we continuously innovate by focusing on three core principles: approach, platform, and people. Our approach is to allocate risk capital where we believe there is not only a compelling opportunity, but also ...",
-      "Region": "North America"
     }
   ],
-  "removed": [
-    {
-      "Company": "AQR Capital Management",
-      "Title": "2027 Portfolio Solutions Group Summer Analyst",
-      "Location": "Greenwich, CT",
-      "Region": "North America",
-      "URL": "https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362",
-      "Source": "Career page Greenhouse:aqr",
-      "Status": "Confirmed official posting",
-      "Department": "University - Open Positions",
-      "Notes": "posted=2026-07-01T09:04:01-04:00 | career_page=https://careers.aqr.com/ | company_wrapper=https://careers.aqr.com/job?gh_jid=8041362 | internship timing: Summer; graduation eligibility mentions: 2027, 2028 | About AQR Capital Management AQR is a global investment management firm built at the intersection of financial theory and practical application. We strive to deliver superior, long-term results for our clients by looking past market noise to identify and isolate what matters most, and by developing ideas that stand up to rigorous testing. Our focus on practical insights and analysis has made us leaders in alternative and traditional strategies since 1998. At AQR, our employees share a common spirit of academic excellence, intellectual honesty and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question an...",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z",
-      "lastSeenEvidence": "recorded_scan",
-      "detectedClosedAt": "2026-10-02T10:27:21.713Z"
-    },
-    {
-      "Company": "DRW",
-      "Title": "FPGA Intern",
-      "Location": "Chicago",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
-      "Source": "Career page Greenhouse:drweng",
-      "Status": "Confirmed official posting",
-      "Department": "Campus",
-      "Notes": "posted=2026-07-13T10:13:31-04:00 | career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8038923 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a n FPGA Intern , you will build advanced trading applications leveraging cutting-edge technology. DRW enables our FPGA Interns to develop a real-world trading centric FPGA application under the guidance of senior technologists with the goal of deployment during your ten weeks. While your days will have you immersed in complex projects directly driving DRW’s progress, your evenings will be spent exploring the city with organized social events to truly discover what it is like to live and work in Chicago. How you will make an impact… Design, develop, test, and deplo...",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z",
-      "lastSeenEvidence": "recorded_scan",
-      "detectedClosedAt": "2026-10-02T10:27:21.713Z"
-    },
-    {
-      "Company": "Schonfeld",
-      "Title": "Quantitative Research / Developer - Intern",
-      "Location": "Hong Kong, Hong Kong",
-      "Region": "Asia",
-      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/7185553",
-      "Source": "Career page Greenhouse:schonfeld",
-      "Status": "Confirmed official posting",
-      "Department": "Emerging Markets & D1 Quant Team",
-      "Notes": "posted=2025-08-22T03:55:08-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=7185553 | internship timing not stated in title | The Role We are looking for a hands-on STRAT / forward-deployed engineer to embed with our multi strategy business. The candidate will sit on the trading floor, shipping full-stack tools that power research, risk, and execution across strategies such as index rebalance, delta-1 and long/short equities. The role will be based in our Hong Kong office. What you’ll do Automate PM/analyst processes— alpha signals, portfolio construction, real-time risk, P&L, scenario and stress analytics. Help build out our proprietary research, portfolio construction and risk management platform. Build end-to-end products: data ingestion, micro-service back-ends, and lightweight front-ends for visua...",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z",
-      "lastSeenEvidence": "recorded_scan",
-      "detectedClosedAt": "2026-10-02T10:27:21.713Z"
-    },
-    {
-      "Company": "Schonfeld",
-      "Title": "2027 Business Analytics Intern",
-      "Location": "New York, New York, United States",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8171703",
-      "Source": "Career page Greenhouse:schonfeld",
-      "Status": "Confirmed official posting",
-      "Department": "Internship",
-      "Notes": "posted=2026-09-04T12:41:51-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8171703 | internship timing not stated in title | The Role We are excited to offer an opportunity for a talented individual to join the internship program at Schonfeld. You’ll spend ten weeks with Schonfeld’s Business Analytics team where you will be immersed in our culture, working alongside talented professionals contributing to high profile projects as a Data Analyst. What You’ll Do The Business Analytics team at Schonfeld focuses on the discovery, interpretation, and communication of meaningful patterns in data to drive better decision making and problem solving. The team is responsible for data acquisition and processing using technology to solve business problems from stakeholders across the business such as risk, trading...",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z",
-      "lastSeenEvidence": "recorded_scan",
-      "detectedClosedAt": "2026-10-02T10:27:21.713Z"
-    },
-    {
-      "Company": "Schonfeld",
-      "Title": "2027 Data Science Intern",
-      "Location": "New York, New York, United States",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
-      "Source": "Career page Greenhouse:schonfeld",
-      "Status": "Confirmed official posting",
-      "Department": "Internship",
-      "Notes": "posted=2026-09-04T12:42:57-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8171692 | internship timing not stated in title | The Role We are excited to offer an internship opportunity for a talented student to join the data science team at Schonfeld. The data science team is responsible for creating Schonfeld's proprietary curated and feature datasets, conducting data analytics and research, and ultimately add value to various investment strategies. What You’ll Do As a data scientist, you will work closely with the engineering teams to optimize data ingestion pipelines, ensuring high-quality data input. You will also collaborate with portfolio manager teams to extract insights from data and systematically generate features or signals that feed into the alpha generation process. Additionally, you will ...",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z",
-      "lastSeenEvidence": "recorded_scan",
-      "detectedClosedAt": "2026-10-02T10:27:21.713Z"
-    },
-    {
-      "Company": "Schonfeld",
-      "Title": "2027 DMFI Technology Intern",
-      "Location": "New York, New York, United States",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8171772",
-      "Source": "Career page Greenhouse:schonfeld",
-      "Status": "Confirmed official posting",
-      "Department": "Internship",
-      "Notes": "posted=2026-09-04T12:43:26-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8171772 | internship timing not stated in title | The Role We are excited to offer an opportunity for exceptional individuals to join the internship program at Schonfeld. You’ll spend ten weeks with an experienced technology team within the DMFI division where you will be immersed in the culture and atmosphere of Schonfeld, working alongside talented professionals on high profile projects. What you’ll do Collaborate with senior DMFI Technology developers to build high-performance software integrating with our analytics library. You will power live and historical market-data pipelines that directly enable Portfolio Managers to make critical, time-sensitive investment decisions. Key responsibilities include: Streaming Live Data: ...",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z",
-      "lastSeenEvidence": "recorded_scan",
-      "detectedClosedAt": "2026-10-02T10:27:21.713Z"
-    },
-    {
-      "Company": "Schonfeld",
-      "Title": "2027 Software Engineering Intern",
-      "Location": "New York, New York, United States",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089",
-      "Source": "Career page Greenhouse:schonfeld",
-      "Status": "Confirmed official posting",
-      "Department": "Internship",
-      "Notes": "posted=2026-09-04T12:41:36-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8180089 | internship timing not stated in title | The Role We are excited to offer an opportunity for exceptional individuals to join the internship program at Schonfeld. You’ll spend ten weeks with an experienced software engineering team within the Schonfeld Technology division where you will be immersed in the culture and atmosphere of Schonfeld, working alongside talented professionals on high profile projects. Software Engineers at Schonfeld take on a wide range of responsibilities and challenges. They design, develop, deploy and support existing applications as well as new features and platforms. They participate in an Agile framework, continuously improving and expanding platform capabilities. You may be assigned to one ...",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z",
-      "lastSeenEvidence": "recorded_scan",
-      "detectedClosedAt": "2026-10-02T10:27:21.713Z"
-    }
-  ],
+  "removed": [],
   "pending": [
     {
       "Company": "AQR Capital Management",
@@ -183,18 +62,6 @@
       "Department": "",
       "Notes": "career_page=https://search.jobs.barclays/search-jobs/ | Posted 30+ Days Ago | JR-0000121763",
       "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
-    },
-    {
-      "Company": "Barclays",
-      "Title": "Quantitative Finance Associate Summer Internship Program 2027 New York",
-      "Location": "New York, 745 7th Avenue",
-      "Region": "North America",
-      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
-      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
-      "Status": "Confirmed official posting",
-      "Department": "",
-      "Notes": "career_page=https://search.jobs.barclays/search-jobs/ | Posted 19 Days Ago | JR-0000128099",
-      "lastSeenOpenAt": "2026-09-29T10:30:33.001Z"
     },
     {
       "Company": "Barclays",
@@ -536,6 +403,18 @@
       "lastSeenOpenAt": "2026-09-17T19:22:12.755Z"
     },
     {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship - Risk & Security - Engineer  (NC)",
+      "Location": "Charlotte, NC",
+      "Region": "Remote / Unspecified",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Engineer---NC-_177688-1",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "Status": "Confirmed official posting",
+      "Department": "",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 30+ Days Ago | 177688",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
+    },
+    {
       "Company": "BMO Capital Markets",
       "Title": "BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)",
       "Location": "Toronto, ON, CAN",
@@ -830,6 +709,18 @@
       "lastSeenOpenAt": "2026-09-29T10:30:33.001Z"
     },
     {
+      "Company": "Barclays",
+      "Title": "2027 Technology Developer Summer Internship Programme London",
+      "Location": "Canary Wharf, 1 Churchill Place",
+      "Region": "Remote / Unspecified",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "Status": "Confirmed official posting",
+      "Department": "",
+      "Notes": "career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 7 Days Ago | JR-0000129397",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
+    },
+    {
       "Company": "BP",
       "Title": "Summer Internship - Supply, Trading & Shipping - Singapore (2027)",
       "Location": "Singapore - Singapore",
@@ -840,6 +731,18 @@
       "Department": "",
       "Notes": "career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted 6 Days Ago | RQ114218",
       "lastSeenOpenAt": "2026-09-16T03:09:11.438Z"
+    },
+    {
+      "Company": "Vanguard",
+      "Title": "College to Corporate IT Internship - Risk & Security - Engineer  (PA)",
+      "Location": "Malvern, PA",
+      "Region": "North America",
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1",
+      "Source": "Career page Workday:vanguard/vanguard_external",
+      "Status": "Confirmed official posting",
+      "Department": "",
+      "Notes": "career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted 21 Days Ago | 177687",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "Fidelity Investments",
@@ -864,6 +767,18 @@
       "Notes": "career_page=https://pimco.wd1.myworkdayjobs.com/pimco-careers | Posted 5 Days Ago | R106805",
       "Region": "Europe",
       "lastSeenOpenAt": "2026-09-20T12:06:20.802Z"
+    },
+    {
+      "Company": "Brevan Howard",
+      "Title": "2027 Summer Internship Program – Trading, Geneva",
+      "Department": "",
+      "Location": "Geneva",
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607",
+      "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/XMLNAME-2025-Summer-Internship-Program---Geneva_JR100967 | Posted 17 Days Ago | JR101607",
+      "Region": "Europe",
+      "lastSeenOpenAt": "2026-10-02T10:27:21.713Z"
     },
     {
       "Company": "T. Rowe Price",

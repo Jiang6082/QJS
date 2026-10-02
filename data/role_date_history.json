@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T10:27:21.713Z",
+  "updatedAt": "2026-10-02T18:05:04.227Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -4554,6 +4554,18 @@
       "first_seen": "2026-10-02",
       "date": "2026-10-01",
       "evidence": "employer_field"
+    },
+    "vanguard|182784|college to corporate it internship-risk & security engineer (pa)": {
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784",
+      "first_seen": "2026-10-02",
+      "date": "2026-10-02",
+      "evidence": "employer_relative_label"
+    },
+    "vanguard|182785|college to corporate it internship-risk & security-engineer (nc)": {
+      "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785",
+      "first_seen": "2026-10-02",
+      "date": "2026-10-02",
+      "evidence": "employer_relative_label"
     }
   }
 }

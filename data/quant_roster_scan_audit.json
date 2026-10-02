@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T10:32:18.335Z",
-  "scanStartedAt": "2026-10-02T10:27:21.713Z",
+  "generatedAt": "2026-10-02T18:10:07.497Z",
+  "scanStartedAt": "2026-10-02T18:05:04.227Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 145,
+      "jobsSeen": 152,
       "relevantInternships": 0
     },
     {
@@ -427,8 +427,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 29,
-      "relevantInternships": 13
+      "jobsSeen": 27,
+      "relevantInternships": 12
     },
     {
       "company": "Campbell and Company",
@@ -885,7 +885,7 @@
       "careerPages": [
         "https://barakmarketmaking.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -972,7 +972,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 40,
+      "jobsSeen": 42,
       "relevantInternships": 0
     },
     {
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 214,
+      "jobsSeen": 212,
       "relevantInternships": 8
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 135,
+      "jobsSeen": 133,
       "relevantInternships": 3
     },
     {
@@ -1108,7 +1108,7 @@
       "careerPages": [
         "https://esteeadvisors.com/careers.php"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 231,
+      "jobsSeen": 230,
       "relevantInternships": 0
     },
     {
@@ -1352,7 +1352,7 @@
         "https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us",
         "https://app.welcometothejungle.com/companies/Dexterity-Capital"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1434,7 +1434,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 47,
+      "jobsSeen": 45,
       "relevantInternships": 1
     },
     {
@@ -1556,7 +1556,7 @@
       "careerPages": [
         "https://invemo.ch/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1624,7 +1624,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 6,
+      "jobsSeen": 3,
       "relevantInternships": 0
     },
     {
@@ -1786,7 +1786,7 @@
       "careerPages": [
         "https://www.group1.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2083,7 +2083,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 36,
+      "jobsSeen": 33,
       "relevantInternships": 1
     },
     {
@@ -2113,7 +2113,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 167,
+      "jobsSeen": 168,
       "relevantInternships": 18
     },
     {
@@ -2233,7 +2233,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 44,
+      "jobsSeen": 43,
       "relevantInternships": 5
     },
     {
@@ -2472,7 +2472,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 74,
+      "jobsSeen": 72,
       "relevantInternships": 9
     },
     {
@@ -3132,7 +3132,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3245,7 +3245,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 41,
+      "jobsSeen": 39,
       "relevantInternships": 2
     },
     {
@@ -3764,7 +3764,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 32,
+      "jobsSeen": 30,
       "relevantInternships": 0
     },
     {
@@ -3888,7 +3888,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 89,
+      "jobsSeen": 90,
       "relevantInternships": 11
     },
     {
@@ -4137,7 +4137,7 @@
       "careerPages": [
         "https://jobs.universalparks.com/universal-orlando-resort/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0

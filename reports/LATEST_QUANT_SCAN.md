@@ -1,15 +1,15 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-10-02T10:27:21.713Z
+Last updated: 2026-10-02T18:05:04.227Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 513
-- Current retained roles: 575
-- New stable job URLs since previous scan: 5
-- No longer present since previous scan: 7
-- Missing without enough closure evidence: 77
+- Current retained roles: 574
+- New stable job URLs since previous scan: 3
+- No longer present since previous scan: 0
+- Missing without enough closure evidence: 80
 - Matching-role firms: 50
 - Confirmed no open postings: 4
 - Openings but no matching role: 35
@@ -17,19 +17,18 @@ Last updated: 2026-10-02T10:27:21.713Z
 
 ## New Roles Since Previous Scan
 
-### North America (3)
+### North America (2)
 
-- **D. E. Shaw** - [Strategy and Business Development MBA Summer Associate (New York) – Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-mba-summer-associate-new-york-summer-2027-6088) - New York
-- **Point72** - [Micro-Intern: Research Technology Developer (IAP)](https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002) - New York
-- **Walleye Capital** - [Special Projects Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006) - New York, New York
+- **Barclays** - [Quantitative Finance Associate Summer Internship Program 2027 New York](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099) - New York, 745 7th Avenue
+- **Vanguard** - [College to Corporate IT Internship-Risk & Security Engineer (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784) - Malvern, PA
 
 ### Europe (0)
 
 _None._
 
-### Asia (1)
+### Asia (0)
 
-- **Goldman Sachs** - [2027 | APEJ | Seoul | Global Investment Research | Seasonal / Off Cycle Internship](https://higher.gs.com/roles/185927) - Seoul, Seoul, Korea, Republic of
+_None._
 
 ### Oceania (0)
 
@@ -53,17 +52,11 @@ _None._
 
 ### Remote / Unspecified (1)
 
-- **Invesco** - [Early Career Intern - Fixed Income Global Technology](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1) - Atlanta, Georgia
+- **Vanguard** - [College to Corporate IT Internship-Risk & Security-Engineer (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785) - Charlotte, NC
 
 ## No Longer Present
 
-- **AQR Capital Management** - [2027 Portfolio Solutions Group Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362) - Greenwich, CT
-- **DRW** - [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8038923) - Chicago
-- **Schonfeld** - [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) - Hong Kong, Hong Kong
-- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) - New York, New York, United States
-- **Schonfeld** - [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) - New York, New York, United States
-- **Schonfeld** - [2027 DMFI Technology Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171772) - New York, New York, United States
-- **Schonfeld** - [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8180089) - New York, New York, United States
+_None._
 
 ## Full Reports
 
