@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-01T15:51:41.606Z",
+  "searchedAt": "2026-10-02T10:27:21.713Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -642,7 +642,7 @@
           "source": "Greenhouse:drweng",
           "complete": true,
           "jobsSeen": 169,
-          "relevantInternships": 16
+          "relevantInternships": 15
         },
         {
           "source": "Greenhouse:drwfr",
@@ -652,7 +652,7 @@
         }
       ],
       "jobsSeen": 183,
-      "relevantInternships": 16
+      "relevantInternships": 15
     },
     {
       "company": "Point72",
@@ -674,12 +674,12 @@
         {
           "source": "Greenhouse:point72",
           "complete": true,
-          "jobsSeen": 212,
-          "relevantInternships": 7
+          "jobsSeen": 214,
+          "relevantInternships": 8
         }
       ],
-      "jobsSeen": 212,
-      "relevantInternships": 7
+      "jobsSeen": 214,
+      "relevantInternships": 8
     },
     {
       "company": "Cubist",
@@ -701,12 +701,12 @@
         {
           "source": "Greenhouse:point72",
           "complete": true,
-          "jobsSeen": 212,
-          "relevantInternships": 7
+          "jobsSeen": 214,
+          "relevantInternships": 8
         }
       ],
-      "jobsSeen": 212,
-      "relevantInternships": 7
+      "jobsSeen": 214,
+      "relevantInternships": 8
     },
     {
       "company": "Hudson River Trading",
@@ -728,11 +728,11 @@
         {
           "source": "Greenhouse:wehrtyou",
           "complete": true,
-          "jobsSeen": 90,
+          "jobsSeen": 87,
           "relevantInternships": 5
         }
       ],
-      "jobsSeen": 90,
+      "jobsSeen": 87,
       "relevantInternships": 5
     },
     {
@@ -755,11 +755,11 @@
         {
           "source": "Greenhouse:wehrtyou",
           "complete": true,
-          "jobsSeen": 90,
+          "jobsSeen": 87,
           "relevantInternships": 5
         }
       ],
-      "jobsSeen": 90,
+      "jobsSeen": 87,
       "relevantInternships": 5
     },
     {
@@ -889,11 +889,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 24,
+          "jobsSeen": 23,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 24,
+      "jobsSeen": 23,
       "relevantInternships": 0
     },
     {
@@ -933,8 +933,8 @@
       "company": "3Red Partners",
       "pageUrl": "https://www.3redpartners.com/careers/",
       "resolvedUrl": "https://www.3redpartners.com/careers/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -1719,19 +1719,19 @@
         {
           "source": "Greenhouse:dvtrading",
           "complete": true,
-          "jobsSeen": 73,
+          "jobsSeen": 75,
           "relevantInternships": 18
         }
       ],
-      "jobsSeen": 73,
+      "jobsSeen": 75,
       "relevantInternships": 18
     },
     {
       "company": "Engineers Gate",
       "pageUrl": "https://job-boards.greenhouse.io/engineersgate",
       "resolvedUrl": "https://job-boards.greenhouse.io/engineersgate",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
           "engineersgate"
@@ -1912,8 +1912,8 @@
       "company": "Gelber Group",
       "pageUrl": "https://job-boards.greenhouse.io/gelbergroup",
       "resolvedUrl": "https://job-boards.greenhouse.io/gelbergroup",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
           "gelbergroup"
@@ -2048,11 +2048,11 @@
         {
           "source": "Greenhouse:grahamcapitalmanagement",
           "complete": true,
-          "jobsSeen": 9,
+          "jobsSeen": 10,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantInternships": 0
     },
     {
@@ -2096,9 +2096,9 @@
     {
       "company": "Group One Trading",
       "pageUrl": "https://www.group1.com/careers/",
-      "resolvedUrl": "https://group1.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "resolvedUrl": "https://www.group1.com/careers/",
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -2239,11 +2239,11 @@
         {
           "source": "Greenhouse:imc",
           "complete": true,
-          "jobsSeen": 169,
+          "jobsSeen": 167,
           "relevantInternships": 18
         }
       ],
-      "jobsSeen": 169,
+      "jobsSeen": 167,
       "relevantInternships": 18
     },
     {
@@ -2660,11 +2660,11 @@
         {
           "source": "Greenhouse:oldmissioncapital",
           "complete": true,
-          "jobsSeen": 40,
+          "jobsSeen": 41,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 41,
       "relevantInternships": 2
     },
     {
@@ -2687,11 +2687,11 @@
         {
           "source": "Greenhouse:oldmissioncapital",
           "complete": true,
-          "jobsSeen": 40,
+          "jobsSeen": 41,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 41,
       "relevantInternships": 2
     },
     {
@@ -3107,8 +3107,8 @@
       "company": "Qube Research & Technologies",
       "pageUrl": "https://www.qube-rt.com/careers/",
       "resolvedUrl": "https://www.qube-rt.com/careers/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -3264,12 +3264,12 @@
         {
           "source": "Greenhouse:schonfeld",
           "complete": true,
-          "jobsSeen": 81,
-          "relevantInternships": 14
+          "jobsSeen": 74,
+          "relevantInternships": 9
         }
       ],
-      "jobsSeen": 81,
-      "relevantInternships": 14
+      "jobsSeen": 74,
+      "relevantInternships": 9
     },
     {
       "company": "Schonfeld",
@@ -3291,12 +3291,12 @@
         {
           "source": "Greenhouse:schonfeld",
           "complete": true,
-          "jobsSeen": 81,
-          "relevantInternships": 14
+          "jobsSeen": 74,
+          "relevantInternships": 9
         }
       ],
-      "jobsSeen": 81,
-      "relevantInternships": 14
+      "jobsSeen": 74,
+      "relevantInternships": 9
     },
     {
       "company": "Squarepoint Capital",
@@ -3540,11 +3540,11 @@
         {
           "source": "Greenhouse:towerresearchcapital",
           "complete": true,
-          "jobsSeen": 88,
+          "jobsSeen": 89,
           "relevantInternships": 11
         }
       ],
-      "jobsSeen": 88,
+      "jobsSeen": 89,
       "relevantInternships": 11
     },
     {
@@ -3567,11 +3567,11 @@
         {
           "source": "Greenhouse:towerresearchcapital",
           "complete": true,
-          "jobsSeen": 88,
+          "jobsSeen": 89,
           "relevantInternships": 11
         }
       ],
-      "jobsSeen": 88,
+      "jobsSeen": 89,
       "relevantInternships": 11
     },
     {
@@ -3668,8 +3668,8 @@
       "company": "Valkyrie Trading",
       "pageUrl": "https://www.valkyrietrading.com/careers/",
       "resolvedUrl": "https://www.valkyrietrading.com/careers/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -3713,8 +3713,8 @@
       "company": "Vatic Investments",
       "pageUrl": "https://job-boards.greenhouse.io/vaticlabs",
       "resolvedUrl": "https://job-boards.greenhouse.io/vaticlabs",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
           "vaticlabs"
@@ -3837,11 +3837,11 @@
         {
           "source": "Greenhouse:virtu",
           "complete": true,
-          "jobsSeen": 49,
+          "jobsSeen": 48,
           "relevantInternships": 13
         }
       ],
-      "jobsSeen": 49,
+      "jobsSeen": 48,
       "relevantInternships": 13
     },
     {
@@ -3864,11 +3864,11 @@
         {
           "source": "Greenhouse:virtu",
           "complete": true,
-          "jobsSeen": 49,
+          "jobsSeen": 48,
           "relevantInternships": 13
         }
       ],
-      "jobsSeen": 49,
+      "jobsSeen": 48,
       "relevantInternships": 13
     },
     {
@@ -3891,11 +3891,11 @@
         {
           "source": "Ashby:voleon",
           "complete": true,
-          "jobsSeen": 55,
+          "jobsSeen": 56,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 55,
+      "jobsSeen": 56,
       "relevantInternships": 2
     },
     {
@@ -3963,11 +3963,11 @@
         {
           "source": "Ashby:voleon",
           "complete": true,
-          "jobsSeen": 55,
+          "jobsSeen": 56,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 55,
+      "jobsSeen": 56,
       "relevantInternships": 2
     },
     {
@@ -4035,12 +4035,12 @@
         {
           "source": "Greenhouse:walleyecapital-external-students",
           "complete": true,
-          "jobsSeen": 5,
-          "relevantInternships": 3
+          "jobsSeen": 6,
+          "relevantInternships": 4
         }
       ],
-      "jobsSeen": 5,
-      "relevantInternships": 3
+      "jobsSeen": 6,
+      "relevantInternships": 4
     },
     {
       "company": "Walleye Capital",
@@ -4063,8 +4063,8 @@
         {
           "source": "Greenhouse:walleyecapital-external-students",
           "complete": true,
-          "jobsSeen": 5,
-          "relevantInternships": 3
+          "jobsSeen": 6,
+          "relevantInternships": 4
         },
         {
           "source": "Greenhouse:walleyecapital-external-fulltime",
@@ -4073,8 +4073,8 @@
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 18,
-      "relevantInternships": 3
+      "jobsSeen": 19,
+      "relevantInternships": 4
     },
     {
       "company": "Walleye Capital",
@@ -4676,12 +4676,12 @@
         "workday": [
           {
             "tenant": "equinor",
-            "site": "EQNR\\",
+            "site": "EQNR",
             "origin": "https://equinor.wd3.myworkdayjobs.com"
           },
           {
             "tenant": "equinor",
-            "site": "EQNR",
+            "site": "EQNR\\",
             "origin": "https://equinor.wd3.myworkdayjobs.com"
           }
         ]
@@ -4689,7 +4689,7 @@
       "unsupportedAts": [],
       "boards": [
         {
-          "source": "Workday:equinor/EQNR\\",
+          "source": "Workday:equinor/EQNR",
           "complete": false,
           "searchComplete": true,
           "errors": [],
@@ -4697,7 +4697,7 @@
           "relevantInternships": 5
         },
         {
-          "source": "Workday:equinor/EQNR",
+          "source": "Workday:equinor/EQNR\\",
           "complete": false,
           "searchComplete": true,
           "errors": [],
@@ -4722,12 +4722,12 @@
         "workday": [
           {
             "tenant": "equinor",
-            "site": "EQNR\\",
+            "site": "EQNR",
             "origin": "https://equinor.wd3.myworkdayjobs.com"
           },
           {
             "tenant": "equinor",
-            "site": "EQNR",
+            "site": "EQNR\\",
             "origin": "https://equinor.wd3.myworkdayjobs.com"
           }
         ]
@@ -4735,7 +4735,7 @@
       "unsupportedAts": [],
       "boards": [
         {
-          "source": "Workday:equinor/EQNR\\",
+          "source": "Workday:equinor/EQNR",
           "complete": false,
           "searchComplete": true,
           "errors": [],
@@ -4743,7 +4743,7 @@
           "relevantInternships": 5
         },
         {
-          "source": "Workday:equinor/EQNR",
+          "source": "Workday:equinor/EQNR\\",
           "complete": false,
           "searchComplete": true,
           "errors": [],
@@ -4757,7 +4757,7 @@
     {
       "company": "Gunvor",
       "pageUrl": "https://gunvorgroup.com/careers/",
-      "resolvedUrl": "https://gunvorgroup.com/careers/",
+      "resolvedUrl": "https://centalion.com/careers/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -4823,7 +4823,7 @@
     {
       "company": "Gunvor",
       "pageUrl": "https://gunvorgroup.com/careers/talent/",
-      "resolvedUrl": "https://gunvorgroup.com/careers/talent/",
+      "resolvedUrl": "https://centalion.com/careers/talent/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -4831,27 +4831,12 @@
         "lever": [],
         "ashby": [],
         "smartrecruiters": [],
-        "workday": [
-          {
-            "tenant": "gunvor",
-            "site": "Gunvor_Careers",
-            "origin": "https://gunvor.wd3.myworkdayjobs.com"
-          }
-        ]
+        "workday": []
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:gunvor/Gunvor_Careers",
-          "complete": false,
-          "searchComplete": true,
-          "errors": [],
-          "jobsSeen": 36,
-          "relevantInternships": 1
-        }
-      ],
-      "jobsSeen": 36,
-      "relevantInternships": 1
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Shell",
@@ -4879,11 +4864,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 88,
+          "jobsSeen": 90,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 88,
+      "jobsSeen": 90,
       "relevantInternships": 0
     },
     {
@@ -5011,9 +4996,16 @@
         "workday": []
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "boards": [
+        {
+          "source": "Greenhouse:aqr",
+          "complete": true,
+          "jobsSeen": 52,
+          "relevantInternships": 9
+        }
+      ],
+      "jobsSeen": 52,
+      "relevantInternships": 9
     },
     {
       "company": "AQR Capital Management",
@@ -5053,12 +5045,12 @@
         {
           "source": "Greenhouse:aqr",
           "complete": true,
-          "jobsSeen": 53,
-          "relevantInternships": 10
+          "jobsSeen": 52,
+          "relevantInternships": 9
         }
       ],
-      "jobsSeen": 53,
-      "relevantInternships": 10
+      "jobsSeen": 52,
+      "relevantInternships": 9
     },
     {
       "company": "Acadian Asset Management",
@@ -5193,11 +5185,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 55,
+          "jobsSeen": 52,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 55,
+      "jobsSeen": 52,
       "relevantInternships": 0
     },
     {
@@ -5226,11 +5218,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 55,
+          "jobsSeen": 52,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 55,
+      "jobsSeen": 52,
       "relevantInternships": 0
     },
     {
@@ -5259,11 +5251,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 55,
+          "jobsSeen": 52,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 55,
+      "jobsSeen": 52,
       "relevantInternships": 0
     },
     {
@@ -5535,11 +5527,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 309,
+          "jobsSeen": 306,
           "relevantInternships": 12
         }
       ],
-      "jobsSeen": 309,
+      "jobsSeen": 306,
       "relevantInternships": 12
     },
     {
@@ -5685,12 +5677,12 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 95,
-          "relevantInternships": 5
+          "jobsSeen": 100,
+          "relevantInternships": 4
         }
       ],
-      "jobsSeen": 95,
-      "relevantInternships": 5
+      "jobsSeen": 100,
+      "relevantInternships": 4
     },
     {
       "company": "BMO Capital Markets",
@@ -5718,12 +5710,12 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 95,
-          "relevantInternships": 5
+          "jobsSeen": 100,
+          "relevantInternships": 4
         }
       ],
-      "jobsSeen": 95,
-      "relevantInternships": 5
+      "jobsSeen": 100,
+      "relevantInternships": 4
     },
     {
       "company": "Barclays",
@@ -5751,12 +5743,12 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 809,
-          "relevantInternships": 26
+          "jobsSeen": 777,
+          "relevantInternships": 25
         }
       ],
-      "jobsSeen": 809,
-      "relevantInternships": 26
+      "jobsSeen": 777,
+      "relevantInternships": 25
     },
     {
       "company": "Barclays",
@@ -5784,12 +5776,12 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 809,
-          "relevantInternships": 26
+          "jobsSeen": 777,
+          "relevantInternships": 25
         }
       ],
-      "jobsSeen": 809,
-      "relevantInternships": 26
+      "jobsSeen": 777,
+      "relevantInternships": 25
     },
     {
       "company": "Barclays",
@@ -5817,12 +5809,12 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 809,
-          "relevantInternships": 26
+          "jobsSeen": 777,
+          "relevantInternships": 25
         }
       ],
-      "jobsSeen": 809,
-      "relevantInternships": 26
+      "jobsSeen": 777,
+      "relevantInternships": 25
     },
     {
       "company": "Berenberg",
@@ -5910,11 +5902,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 95,
+          "jobsSeen": 96,
           "relevantInternships": 4
         }
       ],
-      "jobsSeen": 95,
+      "jobsSeen": 96,
       "relevantInternships": 4
     },
     {
@@ -6122,8 +6114,8 @@
       "company": "Connor Clark & Lunn",
       "pageUrl": "https://job-boards.greenhouse.io/cclim",
       "resolvedUrl": "https://job-boards.greenhouse.io/cclim",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
           "cclim"
@@ -6171,11 +6163,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 138,
+          "jobsSeen": 135,
           "relevantInternships": 3
         }
       ],
-      "jobsSeen": 138,
+      "jobsSeen": 135,
       "relevantInternships": 3
     },
     {
@@ -6446,7 +6438,7 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 103,
+          "jobsSeen": 111,
           "relevantInternships": 2
         },
         {
@@ -6454,11 +6446,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 103,
+          "jobsSeen": 111,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 206,
+      "jobsSeen": 222,
       "relevantInternships": 4
     },
     {
@@ -6637,12 +6629,12 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 249,
-          "relevantInternships": 3
+          "jobsSeen": 242,
+          "relevantInternships": 4
         }
       ],
-      "jobsSeen": 249,
-      "relevantInternships": 3
+      "jobsSeen": 242,
+      "relevantInternships": 4
     },
     {
       "company": "Invesco",
@@ -6674,12 +6666,12 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 249,
-          "relevantInternships": 3
+          "jobsSeen": 242,
+          "relevantInternships": 4
         }
       ],
-      "jobsSeen": 249,
-      "relevantInternships": 3
+      "jobsSeen": 242,
+      "relevantInternships": 4
     },
     {
       "company": "Invesco",
@@ -6707,12 +6699,12 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 249,
-          "relevantInternships": 3
+          "jobsSeen": 242,
+          "relevantInternships": 4
         }
       ],
-      "jobsSeen": 249,
-      "relevantInternships": 3
+      "jobsSeen": 242,
+      "relevantInternships": 4
     },
     {
       "company": "J.P. Morgan",
@@ -6914,11 +6906,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 32,
+          "jobsSeen": 37,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 32,
+      "jobsSeen": 37,
       "relevantInternships": 0
     },
     {
@@ -7465,11 +7457,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 32,
+          "jobsSeen": 31,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 32,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -7498,11 +7490,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 32,
+          "jobsSeen": 31,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 32,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -7569,12 +7561,12 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 101,
-          "relevantInternships": 1
+          "jobsSeen": 102,
+          "relevantInternships": 0
         }
       ],
-      "jobsSeen": 101,
-      "relevantInternships": 1
+      "jobsSeen": 102,
+      "relevantInternships": 0
     },
     {
       "company": "T. Rowe Price",
@@ -7606,12 +7598,12 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 101,
-          "relevantInternships": 1
+          "jobsSeen": 102,
+          "relevantInternships": 0
         }
       ],
-      "jobsSeen": 101,
-      "relevantInternships": 1
+      "jobsSeen": 102,
+      "relevantInternships": 0
     },
     {
       "company": "T. Rowe Price",
@@ -7644,20 +7636,20 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 101,
-          "relevantInternships": 1
+          "jobsSeen": 102,
+          "relevantInternships": 0
         },
         {
           "source": "Workday:troweprice/TRowePriceInternational",
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 29,
+          "jobsSeen": 28,
           "relevantInternships": 0
         }
       ],
       "jobsSeen": 130,
-      "relevantInternships": 1
+      "relevantInternships": 0
     },
     {
       "company": "T. Rowe Price",
@@ -7690,20 +7682,20 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 101,
-          "relevantInternships": 1
+          "jobsSeen": 102,
+          "relevantInternships": 0
         },
         {
           "source": "Workday:troweprice/TRowePriceInternational",
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 29,
+          "jobsSeen": 28,
           "relevantInternships": 0
         }
       ],
       "jobsSeen": 130,
-      "relevantInternships": 1
+      "relevantInternships": 0
     },
     {
       "company": "UBS",
@@ -7802,9 +7794,9 @@
     {
       "company": "Vanguard",
       "pageUrl": "https://www.vanguardjobs.com/students-and-recent-graduates/",
-      "resolvedUrl": "https://www.vanguardjobs.com/students/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "resolvedUrl": "https://www.vanguardjobs.com/students-and-recent-graduates/",
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -7843,11 +7835,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 104,
+          "jobsSeen": 106,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 104,
+      "jobsSeen": 106,
       "relevantInternships": 8
     },
     {
@@ -7872,8 +7864,8 @@
       "company": "Vanguard",
       "pageUrl": "https://www.vanguardjobs.com/home-us/?source=Corporate_Website",
       "resolvedUrl": "https://www.vanguardjobs.com/home-us/?source=Corporate_Website",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -7912,11 +7904,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 104,
+          "jobsSeen": 106,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 104,
+      "jobsSeen": 106,
       "relevantInternships": 8
     },
     {
@@ -8181,11 +8173,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 142,
+          "jobsSeen": 145,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 142,
+      "jobsSeen": 145,
       "relevantInternships": 0
     },
     {
@@ -8226,11 +8218,11 @@
         {
           "source": "Greenhouse:blackedgecapital",
           "complete": true,
-          "jobsSeen": 7,
+          "jobsSeen": 6,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantInternships": 2
     },
     {
@@ -8320,8 +8312,8 @@
       "company": "323 Trading",
       "pageUrl": "https://323trading.nl/careers.html",
       "resolvedUrl": "https://323trading.nl/careers.html",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -8393,9 +8385,9 @@
     {
       "company": "Armada Technologies",
       "pageUrl": "http://www.armadausa.com/careers",
-      "resolvedUrl": "https://www.armadausa.com/careers",
-      "pageOk": true,
-      "pageStatus": 200,
+      "resolvedUrl": "http://www.armadausa.com/careers",
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -8522,8 +8514,8 @@
       "company": "Criterion Arbitrage & Trading",
       "pageUrl": "https://www.criterion-trading.nl/m/join.html",
       "resolvedUrl": "https://www.criterion-trading.nl/m/join.html",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 404,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -9210,8 +9202,8 @@
       "company": "Deep Blue Capital",
       "pageUrl": "https://deepbluecap.com/vacancies/",
       "resolvedUrl": "https://deepbluecap.com/vacancies/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -9300,11 +9292,11 @@
         {
           "source": "Greenhouse:eclipsetrading",
           "complete": true,
-          "jobsSeen": 18,
+          "jobsSeen": 17,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 18,
+      "jobsSeen": 17,
       "relevantInternships": 0
     },
     {
@@ -9504,8 +9496,8 @@
       "company": "Da Vinci Trading",
       "pageUrl": "https://davincitrading.com/job/graduate-trader/",
       "resolvedUrl": "https://davincitrading.com/job/graduate-trader/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -9604,11 +9596,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 59,
+          "jobsSeen": 60,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 59,
+      "jobsSeen": 60,
       "relevantInternships": 0
     },
     {
@@ -10355,11 +10347,11 @@
         {
           "source": "Greenhouse:mako",
           "complete": true,
-          "jobsSeen": 9,
+          "jobsSeen": 8,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -10382,11 +10374,11 @@
         {
           "source": "Greenhouse:mako",
           "complete": true,
-          "jobsSeen": 9,
+          "jobsSeen": 8,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -10491,9 +10483,9 @@
     {
       "company": "Open Futures Group",
       "pageUrl": "https://openfutures.in/index.php/career/",
-      "resolvedUrl": "https://openfutures.in/career/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "resolvedUrl": "https://openfutures.in/index.php/career/",
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -10788,7 +10780,7 @@
     {
       "company": "Optica",
       "pageUrl": "https://opg.optica.org/optica/home.cfm",
-      "resolvedUrl": "https://validate.perfdrive.com/?ssa=11f442b0-45c0-76a4-a51e-db3f858cf1cb&ssb=13288247267&ssc=https%3A%2F%2Fopg.optica.org%2Foptica%2Fhome.cfm&ssi=721baa22-d3hy-72f1-2b3d-8d1524b9b6d5&ssk=botmanager_support@radware.com&ssm=54584445426103940105728153967605&ssn=bdfe8168156ee3f229803b79cbb660051827a8edc6e7-6c3b-4d48-498880&sso=51ba048-4c2a-d4f2ba8ba51f1b492f72896d30a3d6cb2dcc8fb8df337a37&ssp=19434774931790871633179086647598575&ssq=00666497008870217176470088791059798407192&ssr=MTcyLjE3Mi4yMDYuMTk=&sst=Mozilla%2F5.0%20internship-research&ssv=&ssw=",
+      "resolvedUrl": "https://validate.perfdrive.com/?ssa=1061e822-9500-6073-190b-6401bf4d5541&ssb=57899290646&ssc=https%3A%2F%2Fopg.optica.org%2Foptica%2Fhome.cfm&ssi=f9e68205-d3hy-c845-2136-99e81e4c5237&ssk=botmanager_support@radware.com&ssm=36264556865340519108935405606881&ssn=051ad101890375c1053eda6559de0cfd10c02bdfb79f-004b-8d47-517a32&sso=69d3547-5af9-920e50ec2a8854a95af6b3f2da150b83dcd6e45e5c75d71d&ssp=94971865961790955938179094926693469&ssq=57194603702105915575337021423927855660222&ssr=MjAuMTY5LjUzLjM2&sst=Mozilla%2F5.0%20internship-research&ssv=&ssw=",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -10984,8 +10976,8 @@
       "company": "Matrix Executions",
       "pageUrl": "https://matrixexecutions.com/careers/",
       "resolvedUrl": "https://matrixexecutions.com/careers/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -11683,9 +11675,9 @@
     {
       "company": "Vatic Labs",
       "pageUrl": "https://job-boards.greenhouse.io/vaticlabs/jobs/3137555",
-      "resolvedUrl": "https://job-boards.greenhouse.io/vaticlabs/jobs/3137555",
-      "pageOk": false,
-      "pageStatus": 0,
+      "resolvedUrl": "https://job-boards.greenhouse.io/vaticlabs?error=true",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
           "vaticlabs"
@@ -11967,8 +11959,8 @@
       "company": "Universa Investments",
       "pageUrl": "https://jobs.universalparks.com/universal-orlando-resort/",
       "resolvedUrl": "https://jobs.universalparks.com/universal-orlando-resort/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -12085,11 +12077,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 34,
+          "jobsSeen": 33,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -12118,11 +12110,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 46,
+          "jobsSeen": 45,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 46,
+      "jobsSeen": 45,
       "relevantInternships": 0
     },
     {
@@ -12180,7 +12172,7 @@
     {
       "company": "D. E. Shaw",
       "source": "Official internships page",
-      "jobsRetained": 7
+      "jobsRetained": 8
     },
     {
       "company": "Two Sigma",
@@ -12200,17 +12192,17 @@
     {
       "company": "Goldman Sachs",
       "source": "Official Higher campus GraphQL API",
-      "jobsRetained": 61
+      "jobsRetained": 62
     },
     {
       "company": "Previously seen Workday roles",
       "source": "Official Workday job-detail APIs",
-      "jobsRetained": 118
+      "jobsRetained": 115
     },
     {
       "company": "Previously seen Greenhouse roles",
       "source": "Official Greenhouse job-detail APIs",
-      "jobsRetained": 264
+      "jobsRetained": 258
     }
   ]
 }

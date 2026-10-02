@@ -1,26 +1,27 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-09-30T21:46:33.321Z
-Current scan: 2026-10-01T15:51:41.606Z
+Previous scan: 2026-10-01T15:51:41.606Z
+Current scan: 2026-10-02T10:27:21.713Z
 Previous rows: 580
-Current rows: 580
-New URLs confirmed in both source passes: 2
-Confirmed no longer present: 2
+Current rows: 575
+New URLs confirmed in both source passes: 5
+Confirmed no longer present: 7
 
 ## New Roles By Region
 
-### North America (2)
+### North America (3)
 
-- **Old Mission Capital** - [Quantitative Trader - 2027 Micro-Internship Program (January Start)](https://www.oldmissioncapital.com/careers/?gh_jid=8002345003) - Chicago, IL, United States - Confirmed official posting (Career page Greenhouse:oldmissioncapital): posted=2026-10-01T10:06:48-04:00 | career_page=https://www.oldmissioncapital.com/careers/ | company_wrapper=https://www.oldmissioncapital.com/careers/job?gh_jid=8002345003 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Old Mission is a global proprietary trading firm that leverages state-of-the-art technology and research to identify and execute profitable trading strategies across multiple asset classes around the world. Our offices in Chicago, New York, and London are all composed of naturally-curious individuals who thrive in a team environment and constantly strive for improvement. Responsibilities Our quant trading interns will explore new trading strategies, engage in mock trading, take part in quantitative research, and develop related software. Our interns will participate in the firm’s education program, getting a chance to learn about all...
-- **Old Mission Capital** - [Quantitative Trader - 2027 Micro-Internship Program (January Start)](https://jobs.ashbyhq.com/old-mission-capital/54918f5f-24b7-496a-b702-e2d7265e4cb5) - Chicago, IL - Confirmed official posting (Ashby:old-mission-capital): posted=2026-10-01T14:06:48.514+00:00; internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found
+- **D. E. Shaw** - [Strategy and Business Development MBA Summer Associate (New York) – Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-mba-summer-associate-new-york-summer-2027-6088) - New York - Confirmed official posting (Official D. E. Shaw internships page): career_page=https://www.deshaw.com/careers/internships | department=Strategy and Business Development | internship timing: Summer 2027 | official detail page checked | Strategy and Business Development MBA Summer Associate (New York) – Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Dev
+- **Point72** - [Micro-Intern: Research Technology Developer (IAP)](https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002) - New York - Confirmed official posting (Career page Greenhouse:point72): posted=2025-10-31T12:02:59-04:00 | career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8236734002 | internship timing not stated in title | About Cubist Cubist Systematic Strategies, an affiliate of Point72, is one of the world’s premier investment firms. The firm deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures, and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources. Job Description The Central Research Technology team, which builds strategic solutions for research and live trading of quantitative strategies across multiple frequencies and products, is seeking a highly talented intern to work with the team in January. This is a unique opp...
+- **Walleye Capital** - [Special Projects Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006) - New York, New York - Confirmed official posting (Career page Greenhouse:walleyecapital-external-students): posted=2026-10-01T18:23:29-04:00 | career_page=https://job-boards.greenhouse.io/walleyecapital-external-students | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4716166006 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Position: Special Projects Developer Intern (Summer 2027) Location: New York, NY Firm Overview: Walleye Capital is a ~$17 billion+ multi-strategy investment firm headquartered in New York City, with over 350 employees across five main offices. Founded in 2005 as an options market maker, we have organically grown into a global investment firm specializing in Fundamental Equities, Quant, and Volatility strategies. At Walleye, we continuously innovate by focusing on three core principles: approach, platform, and people. Our approach is to allocate risk capital where we believe there is not only a compelling opportunity, but also ...
 
 ### Europe (0)
 
 _None._
 
-### Asia (0)
+### Asia (1)
 
-_None._
+- **Goldman Sachs** - [2027 | APEJ | Seoul | Global Investment Research | Seasonal / Off Cycle Internship](https://higher.gs.com/roles/185927) - Seoul, Seoul, Korea, Republic of - Confirmed official posting (Official Goldman Sachs Higher API): posted=2026-10-02 | role_id=185927 | program=Seasonal | division=Global Investment Research Division
 
 ### Oceania (0)
 
@@ -42,20 +43,26 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **Invesco** - [Early Career Intern - Fixed Income Global Technology](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1) - Atlanta, Georgia - Confirmed official posting (Career page Workday:invesco/IVZ): career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Yesterday | R-15621
 
 ## No Longer Present
 
-- **DRW** - [Strategy Intern](https://job-boards.greenhouse.io/drweng/jobs/7992670)
-- **Man Group** - [Quant Researcher Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101)
+- **AQR Capital Management** - [2027 Portfolio Solutions Group Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362)
+- **DRW** - [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8038923)
+- **Schonfeld** - [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553)
+- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703)
+- **Schonfeld** - [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692)
+- **Schonfeld** - [2027 DMFI Technology Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171772)
+- **Schonfeld** - [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8180089)
 
 ## Missing but not confirmed closed
 
 _Source errors and incomplete coverage do not establish closure. These roles remain in the stability history._
 
 - **AQR Capital Management** - [AQR internship program page](https://www.aqr.com/about-us/our-internship-program)
+- **Barclays** - [2027 Technology Developer Summer Internship Programme Singapore](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Singapore_JR-0000121763)
 - **Barclays** - [Quantitative Finance Associate Summer Internship Program 2027 New York](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099)
 - **Barclays** - [Sales, Trading and Structuring Summer Internship Programme 2027 Hong Kong](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117559)
 - **Barclays** - [Sales, Trading and Structuring Summer Internship Programme 2027 Singapore](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Singapore_JR-0000117562)
@@ -120,9 +127,11 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **BP** - [Summer Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2)
 - **Fidelity Investments** - [Summer 2027 Equity Research Associate Intern - London](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1)
 - **PIMCO** - [2027 Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805)
+- **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677)
 - **Wellington Management** - [Portfolio Reference Data Analyst Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829)
 - **Wellington Management** - [Quantitative Trading Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1)
 - **Wellington Management** - [Supervisory Practices & Analytics Co-Op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Supervisory-Practices---Analytics-Co-Op_R94873-1)
+- **BMO Capital Markets** - [Software Developer, Winter 2027 (Internship) - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2)
 - **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Charlotte NC, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385)
 - **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Irvine, CA, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384)
 - **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Los Angeles, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382)

@@ -1,9 +1,19 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 117
-Last updated: 2026-10-01T15:51:41.606Z
+Total closure events recorded: 124
+Last updated: 2026-10-02T10:27:21.713Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-02 (7)
+
+- **AQR Capital Management** - [2027 Portfolio Solutions Group Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362) - Greenwich, CT
+- **DRW** - [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8038923) - Chicago
+- **Schonfeld** - [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) - Hong Kong, Hong Kong
+- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) - New York, New York, United States
+- **Schonfeld** - [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) - New York, New York, United States
+- **Schonfeld** - [2027 DMFI Technology Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171772) - New York, New York, United States
+- **Schonfeld** - [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8180089) - New York, New York, United States
 
 ### 2026-10-01 (2)
 

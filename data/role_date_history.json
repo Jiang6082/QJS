@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T15:51:41.606Z",
+  "updatedAt": "2026-10-02T10:27:21.713Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -4522,6 +4522,36 @@
     "https://jobs.ashbyhq.com/old-mission-capital/54918f5f-24b7-496a-b702-e2d7265e4cb5": {
       "URL": "https://jobs.ashbyhq.com/old-mission-capital/54918f5f-24b7-496a-b702-e2d7265e4cb5",
       "first_seen": "2026-10-01",
+      "date": "2026-10-01",
+      "evidence": "employer_field"
+    },
+    "https://www.deshaw.com/careers/strategy-and-business-development-mba-summer-associate-new-york-summer-2027-6088": {
+      "URL": "https://www.deshaw.com/careers/strategy-and-business-development-mba-summer-associate-new-york-summer-2027-6088",
+      "first_seen": "2026-10-02",
+      "date": null,
+      "evidence": null
+    },
+    "https://higher.gs.com/roles/185927": {
+      "URL": "https://higher.gs.com/roles/185927",
+      "first_seen": "2026-10-02",
+      "date": "2026-10-02",
+      "evidence": "employer_field"
+    },
+    "invesco|R-15621|early career intern - fixed income global technology": {
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1",
+      "first_seen": "2026-10-02",
+      "date": "2026-10-01",
+      "evidence": "employer_relative_label"
+    },
+    "https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002",
+      "first_seen": "2026-10-02",
+      "date": "2025-10-31",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006": {
+      "URL": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006",
+      "first_seen": "2026-10-02",
       "date": "2026-10-01",
       "evidence": "employer_field"
     }
