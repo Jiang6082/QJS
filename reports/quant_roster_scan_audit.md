@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-10-02T18:05:04.227Z
+Scan started: 2026-10-05T00:03:32.399Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 
@@ -134,7 +134,7 @@ Canonical companies after aliases: 304
 | BP Supply Trading & Shipping | 0/1 pages live | [link](https://www.bp.com/en/global/bp-supply-trading-and-shipping/careers.html) |
 | BlockTech | 1/1 pages live | [link](https://www.block-tech.io/careers) |
 | Campbell and Company | 1/1 pages live | [link](https://www.campbell.com/careers/) |
-| Cascade Systems | 1/1 pages live | [link](https://cascadesystems.net/careers/) |
+| Cascade Systems | 0/1 pages live | [link](https://cascadesystems.net/careers/) |
 | Chimera Securities | 1/1 pages live | [link](https://www.chimerasecurities.com/careers) |
 | Consolidated Trading | 1/1 pages live | [link](https://pagesxyz.com/companies/consolidated-trading/jobs) |
 | Criterion Arbitrage & Trading | 0/1 pages live | [link](https://www.criterion-trading.nl/m/join.html) |
@@ -157,7 +157,7 @@ Canonical companies after aliases: 304
 | ArbitragePoint Trading | no saved page attempted | none |
 | Arrowstreet Capital | 1/1 pages live | [link](https://www.arrowstreetcapital.com/professional-careers/) |
 | B2C2 | 2/2 pages live | [link](https://www.b2c2.com/join-b2c2/careers) [link](https://job-boards.greenhouse.io/b2c2) |
-| Barak Capital | 0/1 pages live | [link](https://barakmarketmaking.com/careers/) |
+| Barak Capital | 1/1 pages live | [link](https://barakmarketmaking.com/careers/) |
 | Black Eagle Financial Group | 1/1 pages live | [link](https://blackeaglefg.com/stock-market-job/) |
 | Boston Energy Trading and Marketing | 1/1 pages live | [link](https://www.betm.com/careers) |
 | CTS Global Equity Group | 2/2 pages live | [link](https://www.ctsglobalgroup.com/) [link](https://www.ctsglobalgroup.com/internship) |
@@ -167,7 +167,7 @@ Canonical companies after aliases: 304
 | DSV Fund | 1/1 pages live | [link](https://www.dsv.com/en/careers) |
 | Danske Commodities | 1/1 pages live | [link](https://danskecommodities.com/join-us) |
 | Eagle Seven | 1/1 pages live | [link](https://www.eagleseven.com/) |
-| Estee Advisors | 0/1 pages live | [link](https://esteeadvisors.com/careers.php) |
+| Estee Advisors | 1/1 pages live | [link](https://esteeadvisors.com/careers.php) |
 | Futures First | 1/1 pages live | [link](https://futuresfirst.com/careers/) |
 | Genk Capital | 1/1 pages live | [link](https://join.genkcapital.com/) |
 | Golden Meadow Investment | no saved page attempted | none |
@@ -190,7 +190,7 @@ Canonical companies after aliases: 304
 | HBK Capital Management | 1/1 pages live | [link](https://www.hbk.com/careers) |
 | Humbility | 1/1 pages live | [link](https://apply.workable.com/humbility/) |
 | InCommodities | 1/1 pages live | [link](https://incommodities.com/join-us) |
-| Invemo Capital AG | 0/1 pages live | [link](https://invemo.ch/) |
+| Invemo Capital AG | 1/1 pages live | [link](https://invemo.ch/) |
 | Jerpoint Capital | no saved page attempted | none |
 | KeyQuant | no saved page attempted | none |
 | League Trading | 1/1 pages live | [link](https://www.theleaguecorp.com/opportunities.php) |
@@ -212,7 +212,7 @@ Canonical companies after aliases: 304
 | Daler Trading | no saved page attempted | none |
 | Delchain | 1/1 pages live | [link](https://delchain.io/job-openings/) |
 | Dolat Capital | 1/1 pages live | [link](https://dolatcapital.com/careers/) |
-| ETS Asset Management Factory | no saved page attempted | none |
+| ETS Asset Management Factory | 0/2 pages live | [link](https://xaviesteve.com/jobs/en/company/www.ets.es) [link](https://ticjob.es/eng/company-presentation/ets-asset-management-factory/1260) |
 | Elliott Management | 1/1 pages live | [link](https://ellimgmt.com/careers/) |
 | Final | 1/1 pages live | [link](https://www.final.co.il/) |
 | Freepoint Commodities | 1/1 pages live | [link](https://www.freepoint.com/life-at-freepoint/) |
@@ -249,7 +249,7 @@ Canonical companies after aliases: 304
 | Nomura Securities | 1/1 pages live | [link](https://www.nomura.com/americas/careers/) |
 | ORA Traders | 1/1 pages live | [link](https://www.oratraders.com/vacancies/) |
 | OTS Capital | no saved page attempted | none |
-| Open Futures Group | 0/1 pages live | [link](https://openfutures.in/index.php/career/) |
+| Open Futures Group | 1/1 pages live | [link](https://openfutures.in/index.php/career/) |
 | Prime Trading | no saved page attempted | none |
 | Quantique (QuantM3) | no saved page attempted | none |
 | Rayleigh Research Oy | 1/1 pages live | [link](https://rayleigh.re/) |

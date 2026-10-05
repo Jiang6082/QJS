@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-02T18:04:54.979Z",
+  "scannedAt": "2026-10-05T00:03:26.561Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -186,10 +186,10 @@
         },
         {
           "source": "Ashby:jane",
-          "count": 23
+          "count": 24
         }
       ],
-      "jobsSeen": 253,
+      "jobsSeen": 254,
       "relevantInternships": 0
     },
     {
@@ -449,10 +449,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 54
+          "count": 55
         }
       ],
-      "jobsSeen": 54,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -460,10 +460,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 54
+          "count": 55
         }
       ],
-      "jobsSeen": 54,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -495,14 +495,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:chicagotrading",
-          "count": 26
+          "count": 25
         },
         {
           "source": "Greenhouse:chicago",
           "count": 0
         }
       ],
-      "jobsSeen": 26,
+      "jobsSeen": 25,
       "relevantInternships": 0
     },
     {
@@ -906,10 +906,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 58
+          "count": 57
         }
       ],
-      "jobsSeen": 58,
+      "jobsSeen": 57,
       "relevantInternships": 4
     },
     {
@@ -1206,10 +1206,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 91
+          "count": 90
         }
       ],
-      "jobsSeen": 91,
+      "jobsSeen": 90,
       "relevantInternships": 4
     },
     {
@@ -1303,10 +1303,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:towerresearchcapital",
-          "count": 90
+          "count": 91
         }
       ],
-      "jobsSeen": 90,
+      "jobsSeen": 91,
       "relevantInternships": 10
     },
     {
@@ -1366,10 +1366,10 @@
       "resolvedBoards": [
         {
           "source": "Ashby:vector",
-          "count": 6
+          "count": 5
         }
       ],
-      "jobsSeen": 6,
+      "jobsSeen": 5,
       "relevantInternships": 0
     },
     {
@@ -1430,10 +1430,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:weissassetmanagement",
-          "count": 5
+          "count": 6
         }
       ],
-      "jobsSeen": 5,
+      "jobsSeen": 6,
       "relevantInternships": 0
     },
     {

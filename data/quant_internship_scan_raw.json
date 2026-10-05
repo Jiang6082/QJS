@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-02T18:04:54.979Z",
+  "scannedAt": "2026-10-05T00:03:26.561Z",
   "results": [
     {
       "company": "Jane Street",
@@ -10,7 +10,7 @@
         },
         {
           "source": "Ashby:jane",
-          "count": 23
+          "count": 24
         }
       ],
       "matches": [],
@@ -267,7 +267,8 @@
         "https://jobs.ashbyhq.com/jane/e70c917f-ceb8-4c3c-aa05-c9db657e7015",
         "https://jobs.ashbyhq.com/jane/b32e1f9c-2a6c-44a0-8fd1-cbb113e76007",
         "https://jobs.ashbyhq.com/jane/90918cb1-4148-4090-895b-416d6d206dc3",
-        "https://jobs.ashbyhq.com/jane/fae1ee58-9775-40c9-a50b-581f6a4890dc"
+        "https://jobs.ashbyhq.com/jane/fae1ee58-9775-40c9-a50b-581f6a4890dc",
+        "https://jobs.ashbyhq.com/jane/d0906871-c131-4324-9122-92b68a8e103c"
       ]
     },
     {
@@ -1224,7 +1225,7 @@
       "boards": [
         {
           "source": "Lever:capital",
-          "count": 54
+          "count": 55
         }
       ],
       "matches": [],
@@ -1275,6 +1276,7 @@
         "https://jobs.lever.co/capital/c960a6aa-107d-4ccb-a69d-2d58eedc84f5",
         "https://jobs.lever.co/capital/2da604ff-3d58-4c89-a23f-6637fc397214",
         "https://jobs.lever.co/capital/cb52b0e8-2ab9-41b3-be8b-0a1b543e87b8",
+        "https://jobs.lever.co/capital/90da95d8-9866-4750-9a3b-6bb9582b8306",
         "https://jobs.lever.co/capital/87fa851f-8347-4d96-ad4b-a21a549596c0",
         "https://jobs.lever.co/capital/2dc304a4-b37d-4599-864e-63c5e0167eb3",
         "https://jobs.lever.co/capital/6952ab80-1956-4604-bb49-fcbe058f999d",
@@ -1290,7 +1292,7 @@
       "boards": [
         {
           "source": "Lever:capital",
-          "count": 54
+          "count": 55
         }
       ],
       "matches": [],
@@ -1341,6 +1343,7 @@
         "https://jobs.lever.co/capital/c960a6aa-107d-4ccb-a69d-2d58eedc84f5",
         "https://jobs.lever.co/capital/2da604ff-3d58-4c89-a23f-6637fc397214",
         "https://jobs.lever.co/capital/cb52b0e8-2ab9-41b3-be8b-0a1b543e87b8",
+        "https://jobs.lever.co/capital/90da95d8-9866-4750-9a3b-6bb9582b8306",
         "https://jobs.lever.co/capital/87fa851f-8347-4d96-ad4b-a21a549596c0",
         "https://jobs.lever.co/capital/2dc304a4-b37d-4599-864e-63c5e0167eb3",
         "https://jobs.lever.co/capital/6952ab80-1956-4604-bb49-fcbe058f999d",
@@ -1380,7 +1383,7 @@
       "boards": [
         {
           "source": "Greenhouse:chicagotrading",
-          "count": 26
+          "count": 25
         },
         {
           "source": "Greenhouse:chicago",
@@ -1404,7 +1407,6 @@
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4575948005",
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4624603005",
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4564801005",
-        "https://job-boards.greenhouse.io/chicagotrading/jobs/4733597005",
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4726246005",
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4724029005",
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4735338005",
@@ -3184,7 +3186,7 @@
       "boards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 58
+          "count": 57
         }
       ],
       "matches": [
@@ -3239,8 +3241,8 @@
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960529101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4956063101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958873101",
-        "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958872101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960244101",
+        "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958872101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4956023101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4921057101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4989438101",
@@ -3264,8 +3266,8 @@
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4941978101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988492101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4844286101",
-        "https://job-boards.eu.greenhouse.io/mangroup/jobs/4957895101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101",
+        "https://job-boards.eu.greenhouse.io/mangroup/jobs/4957895101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4906117101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958206101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4839427101",
@@ -3283,7 +3285,6 @@
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4989490101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4966467101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4983707101",
-        "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978895101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4965210101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101",
@@ -4585,8 +4586,8 @@
         "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8220506",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8172072",
-        "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+        "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8238451",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8238448",
@@ -4597,8 +4598,8 @@
         "https://job-boards.greenhouse.io/schonfeld/jobs/8031499",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8186867",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8226368",
-        "https://job-boards.greenhouse.io/schonfeld/jobs/8038844",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8239416",
+        "https://job-boards.greenhouse.io/schonfeld/jobs/8038844",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8185691",
         "https://job-boards.greenhouse.io/schonfeld/jobs/7862487",
         "https://job-boards.greenhouse.io/schonfeld/jobs/7961667",
@@ -4630,6 +4631,7 @@
         "https://job-boards.greenhouse.io/schonfeld/jobs/8226258",
         "https://job-boards.greenhouse.io/schonfeld/jobs/7858886",
         "https://job-boards.greenhouse.io/schonfeld/jobs/7958132",
+        "https://job-boards.greenhouse.io/schonfeld/jobs/8243907",
         "https://job-boards.greenhouse.io/schonfeld/jobs/7544203",
         "https://job-boards.greenhouse.io/schonfeld/jobs/7538303",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8091383",
@@ -4638,7 +4640,6 @@
         "https://job-boards.greenhouse.io/schonfeld/jobs/8209331",
         "https://job-boards.greenhouse.io/schonfeld/jobs/7957507",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8119484",
-        "https://job-boards.greenhouse.io/schonfeld/jobs/8176703",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8020502",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8020498",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8020503",
@@ -4680,7 +4681,7 @@
       "boards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 91
+          "count": 90
         }
       ],
       "matches": [
@@ -4735,7 +4736,6 @@
         "https://www.squarepoint-capital.com/open-opportunities?id=8203583&gh_jid=8203583",
         "https://www.squarepoint-capital.com/open-opportunities?id=7978472&gh_jid=7978472",
         "https://www.squarepoint-capital.com/open-opportunities?id=2546549&gh_jid=2546549",
-        "https://www.squarepoint-capital.com/open-opportunities?id=8174630&gh_jid=8174630",
         "https://www.squarepoint-capital.com/open-opportunities?id=7434150&gh_jid=7434150",
         "https://www.squarepoint-capital.com/open-opportunities?id=8114371&gh_jid=8114371",
         "https://www.squarepoint-capital.com/open-opportunities?id=7912621&gh_jid=7912621",
@@ -5012,7 +5012,7 @@
       "boards": [
         {
           "source": "Greenhouse:towerresearchcapital",
-          "count": 90
+          "count": 91
         }
       ],
       "matches": [
@@ -5129,7 +5129,6 @@
         "https://www.tower-research.com/open-positions/?gh_jid=3878081",
         "https://www.tower-research.com/open-positions/?gh_jid=8126667",
         "https://www.tower-research.com/open-positions/?gh_jid=7949810",
-        "https://www.tower-research.com/open-positions/?gh_jid=5650542",
         "https://www.tower-research.com/open-positions/?gh_jid=8238754",
         "https://www.tower-research.com/open-positions/?gh_jid=7816571",
         "https://www.tower-research.com/open-positions/?gh_jid=16619",
@@ -5194,18 +5193,20 @@
         "https://www.tower-research.com/open-positions/?gh_jid=8029768",
         "https://www.tower-research.com/open-positions/?gh_jid=8099782",
         "https://www.tower-research.com/open-positions/?gh_jid=7985905",
+        "https://www.tower-research.com/open-positions/?gh_jid=5650542",
         "https://www.tower-research.com/open-positions/?gh_jid=7429610",
         "https://www.tower-research.com/open-positions/?gh_jid=8212179",
-        "https://www.tower-research.com/open-positions/?gh_jid=8022723",
-        "https://www.tower-research.com/open-positions/?gh_jid=7613397",
         "https://www.tower-research.com/open-positions/?gh_jid=8022724",
+        "https://www.tower-research.com/open-positions/?gh_jid=8022723",
         "https://www.tower-research.com/open-positions/?gh_jid=7992696",
+        "https://www.tower-research.com/open-positions/?gh_jid=7613397",
         "https://www.tower-research.com/open-positions/?gh_jid=7359179",
         "https://www.tower-research.com/open-positions/?gh_jid=8167259",
         "https://www.tower-research.com/open-positions/?gh_jid=8175995",
         "https://www.tower-research.com/open-positions/?gh_jid=8198271",
-        "https://www.tower-research.com/open-positions/?gh_jid=8004023",
         "https://www.tower-research.com/open-positions/?gh_jid=8242550",
+        "https://www.tower-research.com/open-positions/?gh_jid=8250472",
+        "https://www.tower-research.com/open-positions/?gh_jid=8004023",
         "https://www.tower-research.com/open-positions/?gh_jid=8129569",
         "https://www.tower-research.com/open-positions/?gh_jid=7722018"
       ]
@@ -5324,7 +5325,7 @@
       "boards": [
         {
           "source": "Ashby:vector",
-          "count": 6
+          "count": 5
         }
       ],
       "matches": [],
@@ -5333,8 +5334,7 @@
         "https://jobs.ashbyhq.com/vector/96a4906c-1bc2-469f-b9c0-7cb06cc1982b",
         "https://jobs.ashbyhq.com/vector/68932c40-22d4-4692-bb16-34bb9ba847e8",
         "https://jobs.ashbyhq.com/vector/08712d1e-2901-4ded-852f-57d90e43e8ee",
-        "https://jobs.ashbyhq.com/vector/7d08dd0a-e32e-4067-becd-38bfd82471c7",
-        "https://jobs.ashbyhq.com/vector/1210cb29-fc73-4b6e-84b2-cd674bf7a020"
+        "https://jobs.ashbyhq.com/vector/7d08dd0a-e32e-4067-becd-38bfd82471c7"
       ]
     },
     {
@@ -5676,11 +5676,12 @@
       "boards": [
         {
           "source": "Greenhouse:weissassetmanagement",
-          "count": 5
+          "count": 6
         }
       ],
       "matches": [],
       "observedUrls": [
+        "https://job-boards.greenhouse.io/weissassetmanagement/jobs/8831639002",
         "https://job-boards.greenhouse.io/weissassetmanagement/jobs/8846459002",
         "https://job-boards.greenhouse.io/weissassetmanagement/jobs/8797074002",
         "https://job-boards.greenhouse.io/weissassetmanagement/jobs/8797380002",
@@ -8560,7 +8561,7 @@
         "description": "The D.&nbsp;E.&nbsp;Shaw group seeks talented individuals with unique perspectives to join the firm as proprietary trading interns. Trader interns sit at the core of the firm’s discretionary investment strategies and take on complex challenges to deepen their understanding of financial markets, investment processes, and trade construction. They gain exposure to the firm’s portfolio management strategies, process-oriented investment philosophy, and risk management in a collaborative and engaging work environment. This is a ten-week program that will take place in New York and is expected to run from June to August 2027.",
         "responsibilities": "",
         "skills": "Candidates who approach problem solving with curiosity, think creatively, and can generate interesting and orthogonal insights (e.g., through involvement in coding or trading competitions, hackathons, investment clubs, or STEM research experience).\r\nIndividuals with an aptitude for deep analysis who can recognize connections across a wide range of sources and synthesize information into clear and persuasive messages.\r\nApplicants should be able to support arguments with data and quantitative analysis.\r\nWe welcome applicants from any field of study; no previous finance experience is necessary. Students in this program are usually approaching their final year of full-time study.\r\nThe position offers a monthly base salary of $25,000, overtime pay, a sign-on bonus of $10,000, travel coverage to and from the internship, and choice of furnished summer housing or a $10,000 housing allowance. It also includes a $3,300 stipend for self-study materials and a $4,000 stipend for personal technology equipment. If you have any questions about the compensation, please ask one of our recruiters.",
-        "datePosted": "Fri Oct 02 2026 18:05:04 GMT+0000 (Coordinated Universal Time)"
+        "datePosted": "Mon Oct 05 2026 00:03:31 GMT+0000 (Coordinated Universal Time)"
       }
     }
   ]

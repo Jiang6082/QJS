@@ -1,9 +1,14 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 124
-Last updated: 2026-10-02T18:05:04.227Z
+Total closure events recorded: 126
+Last updated: 2026-10-05T00:03:32.399Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-04 (2)
+
+- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/170600) - Singapore
+- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/170601) - Singapore
 
 ### 2026-10-02 (7)
 

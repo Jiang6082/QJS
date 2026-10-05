@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T18:05:04.227Z",
+  "updatedAt": "2026-10-05T00:03:32.399Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -4565,6 +4565,18 @@
       "URL": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785",
       "first_seen": "2026-10-02",
       "date": "2026-10-02",
+      "evidence": "employer_relative_label"
+    },
+    "barclays|JR-0000134430|trading analyst summer internship program 2027 mexico city": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mexico-City-Avenida-Paseo-de-la-Reforma-505/Trading-Analyst-Summer-Internship-Program-2027-Mexico-City_JR-0000134430",
+      "first_seen": "2026-10-04",
+      "date": "2026-10-02",
+      "evidence": "employer_relative_label"
+    },
+    "ntrs|R160769|data & analytics office intern": {
+      "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1",
+      "first_seen": "2026-10-04",
+      "date": "2026-10-03",
       "evidence": "employer_relative_label"
     }
   }

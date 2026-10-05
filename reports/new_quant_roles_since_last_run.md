@@ -1,18 +1,18 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-10-02T10:27:21.713Z
-Current scan: 2026-10-02T18:05:04.227Z
-Previous rows: 575
+Previous scan: 2026-10-02T18:05:04.227Z
+Current scan: 2026-10-05T00:03:32.399Z
+Previous rows: 574
 Current rows: 574
-New URLs confirmed in both source passes: 3
-Confirmed no longer present: 0
+New URLs confirmed in both source passes: 2
+Confirmed no longer present: 2
 
 ## New Roles By Region
 
 ### North America (2)
 
-- **Barclays** - [Quantitative Finance Associate Summer Internship Program 2027 New York](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099) - New York, 745 7th Avenue - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Today | JR-0000128099
-- **Vanguard** - [College to Corporate IT Internship-Risk & Security Engineer (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784) - Malvern, PA - Confirmed official posting (Career page Workday:vanguard/vanguard_external): career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted Today | 182784
+- **Barclays** - [Trading Analyst Summer Internship Program 2027 Mexico City](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mexico-City-Avenida-Paseo-de-la-Reforma-505/Trading-Analyst-Summer-Internship-Program-2027-Mexico-City_JR-0000134430) - Mexico City, Avenida Paseo de la Reforma 505 - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 2 Days Ago | JR-0000134430
+- **Northern Trust Asset Management** - [Data & Analytics Office Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) - Chicago, IL - Confirmed official posting (Career page Workday:ntrs/northerntrust): career_page=https://ntrs.wd1.myworkdayjobs.com/northerntrust | Posted Yesterday | R160769
 
 ### Europe (0)
 
@@ -42,13 +42,14 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **Vanguard** - [College to Corporate IT Internship-Risk & Security-Engineer (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785) - Charlotte, NC - Confirmed official posting (Career page Workday:vanguard/vanguard_external): career_page=https://vanguard.wd5.myworkdayjobs.com/vanguard_external | Posted Today | 182785
+_None._
 
 ## No Longer Present
 
-_None._
+- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/170600)
+- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/170601)
 
 ## Missing but not confirmed closed
 

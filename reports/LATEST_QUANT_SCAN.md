@@ -1,14 +1,14 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-10-02T18:05:04.227Z
+Last updated: 2026-10-05T00:03:32.399Z
 
 ## Summary
 
 - Companies searched: 369
-- Career pages checked: 513
+- Career pages checked: 515
 - Current retained roles: 574
-- New stable job URLs since previous scan: 3
-- No longer present since previous scan: 0
+- New stable job URLs since previous scan: 2
+- No longer present since previous scan: 2
 - Missing without enough closure evidence: 80
 - Matching-role firms: 50
 - Confirmed no open postings: 4
@@ -19,8 +19,8 @@ Last updated: 2026-10-02T18:05:04.227Z
 
 ### North America (2)
 
-- **Barclays** - [Quantitative Finance Associate Summer Internship Program 2027 New York](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099) - New York, 745 7th Avenue
-- **Vanguard** - [College to Corporate IT Internship-Risk & Security Engineer (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784) - Malvern, PA
+- **Barclays** - [Trading Analyst Summer Internship Program 2027 Mexico City](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mexico-City-Avenida-Paseo-de-la-Reforma-505/Trading-Analyst-Summer-Internship-Program-2027-Mexico-City_JR-0000134430) - Mexico City, Avenida Paseo de la Reforma 505
+- **Northern Trust Asset Management** - [Data & Analytics Office Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) - Chicago, IL
 
 ### Europe (0)
 
@@ -50,13 +50,14 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **Vanguard** - [College to Corporate IT Internship-Risk & Security-Engineer (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785) - Charlotte, NC
+_None._
 
 ## No Longer Present
 
-_None._
+- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/170600) - Singapore
+- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/170601) - Singapore
 
 ## Full Reports
 

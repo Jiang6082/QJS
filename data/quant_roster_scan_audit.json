@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T18:10:07.497Z",
-  "scanStartedAt": "2026-10-02T18:05:04.227Z",
+  "generatedAt": "2026-10-05T00:08:36.899Z",
+  "scanStartedAt": "2026-10-05T00:03:32.399Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 152,
+      "jobsSeen": 155,
       "relevantInternships": 0
     },
     {
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 52,
+      "jobsSeen": 51,
       "relevantInternships": 9
     },
     {
@@ -453,7 +453,7 @@
       "careerPages": [
         "https://cascadesystems.net/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 183,
+      "jobsSeen": 184,
       "relevantInternships": 15
     },
     {
@@ -885,7 +885,7 @@
       "careerPages": [
         "https://barakmarketmaking.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -946,7 +946,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 15,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -972,7 +972,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 42,
+      "jobsSeen": 43,
       "relevantInternships": 0
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 133,
+      "jobsSeen": 132,
       "relevantInternships": 3
     },
     {
@@ -1108,7 +1108,7 @@
       "careerPages": [
         "https://esteeadvisors.com/careers.php"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1556,7 +1556,7 @@
       "careerPages": [
         "https://invemo.ch/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1936,9 +1936,12 @@
         "ETS Asset Management Factory"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
+      "careerPages": [
+        "https://xaviesteve.com/jobs/en/company/www.ets.es",
+        "https://ticjob.es/eng/company-presentation/ets-asset-management-factory/1260"
+      ],
       "livePages": 0,
-      "attemptedPages": 0,
+      "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2083,7 +2086,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 33,
+      "jobsSeen": 34,
       "relevantInternships": 1
     },
     {
@@ -2645,7 +2648,7 @@
       "careerPages": [
         "https://openfutures.in/index.php/career/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3692,7 +3695,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 54,
+      "jobsSeen": 56,
       "relevantInternships": 0
     },
     {
@@ -3888,7 +3891,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 90,
+      "jobsSeen": 91,
       "relevantInternships": 11
     },
     {
@@ -3977,7 +3980,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 19,
+      "jobsSeen": 18,
       "relevantInternships": 4
     },
     {
