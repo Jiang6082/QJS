@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-05T09:19:34.461Z",
-  "scanStartedAt": "2026-10-05T09:14:49.291Z",
+  "generatedAt": "2026-10-05T14:19:43.610Z",
+  "scanStartedAt": "2026-10-05T14:14:36.794Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
     "matching-role-found": 49,
     "confirmed-no-open-postings": 4,
-    "confirmed-openings-no-matching-role": 35,
-    "could-not-fully-verify": 216
+    "confirmed-openings-no-matching-role": 36,
+    "could-not-fully-verify": 215
   },
   "companies": [
     {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 155,
+      "jobsSeen": 153,
       "relevantInternships": 0
     },
     {
@@ -156,8 +156,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 6,
-      "relevantInternships": 2
+      "jobsSeen": 5,
+      "relevantInternships": 1
     },
     {
       "company": "Bracebridge Capital",
@@ -178,13 +178,13 @@
       "sourceRosterNames": [
         "Caladan"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://caladan.xyz/careers/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 6,
       "relevantInternships": 0
     },
     {
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 51,
+      "jobsSeen": 52,
       "relevantInternships": 9
     },
     {
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 212,
+      "jobsSeen": 210,
       "relevantInternships": 8
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 134,
+      "jobsSeen": 139,
       "relevantInternships": 3
     },
     {
@@ -1096,7 +1096,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantInternships": 1
     },
     {
@@ -1434,7 +1434,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 44,
+      "jobsSeen": 45,
       "relevantInternships": 1
     },
     {
@@ -2293,7 +2293,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 14,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -2475,7 +2475,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 72,
+      "jobsSeen": 71,
       "relevantInternships": 9
     },
     {
@@ -3713,8 +3713,8 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 10,
-      "relevantInternships": 4
+      "jobsSeen": 9,
+      "relevantInternships": 3
     },
     {
       "company": "UTR8 Group",
@@ -3950,7 +3950,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 26,
+      "jobsSeen": 25,
       "relevantInternships": 2
     },
     {

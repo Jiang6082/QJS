@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-10-05T09:14:49.291Z
+Scan started: 2026-10-05T14:14:36.794Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 
@@ -67,11 +67,12 @@ Canonical companies after aliases: 304
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
 | RRS Group | 1/1 pages live | [link](https://jobs.smartrecruiters.com/RRSGroup) |
 
-## Confirmed Openings, No Matching Role (35)
+## Confirmed Openings, No Matching Role (36)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
 | Bracebridge Capital | 1/1 pages live | [link](https://www.bracebridgecapital.com/careers/) |
+| Caladan | 1/1 pages live | [link](https://caladan.xyz/careers/) |
 | 3Red Partners | 2/2 pages live | [link](https://www.3redpartners.com/careers/) [link](https://job-boards.greenhouse.io/3redpartners) |
 | Bridgewater Associates | 1/1 pages live | [link](https://www.bridgewater.com/working-at-bridgewater) |
 | Capital Fund Management | 1/1 pages live | [link](https://www.cfm.com/join-us/) |
@@ -107,7 +108,7 @@ Canonical companies after aliases: 304
 | XTX Markets | 1/1 pages live | [link](https://www.xtxmarkets.com/careers/) |
 | Teza Technologies | 2/2 pages live | [link](https://www.teza.com/careers/) [link](https://jobs.ashbyhq.com/teza-technologies) |
 
-## Could Not Fully Verify (216)
+## Could Not Fully Verify (215)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -120,7 +121,6 @@ Canonical companies after aliases: 304
 | Aureas Finance | no saved page attempted | none |
 | BD Energy | 1/1 pages live | [link](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA) |
 | Bastion Trading | 1/1 pages live | [link](https://bastiontrading.com/careers/apply) |
-| Caladan | 1/1 pages live | [link](https://caladan.xyz/careers/) |
 | Cargill International SA | 1/1 pages live | [link](https://careers.cargill.com/en) |
 | Coding Test Firm | no saved page attempted | none |
 | Crabel Capital Management | 1/1 pages live | [link](https://crabel.com/careers/) |

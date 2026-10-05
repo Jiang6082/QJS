@@ -1,11 +1,11 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-10-05T00:03:32.399Z
-Current scan: 2026-10-05T09:14:49.291Z
-Previous rows: 574
-Current rows: 562
+Previous scan: 2026-10-05T09:14:49.291Z
+Current scan: 2026-10-05T14:14:36.794Z
+Previous rows: 562
+Current rows: 559
 New URLs confirmed in both source passes: 0
-Confirmed no longer present: 9
+Confirmed no longer present: 3
 
 ## New Roles By Region
 
@@ -47,15 +47,9 @@ _None._
 
 ## No Longer Present
 
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/169905)
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/169906)
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169893)
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170819)
-- **Goldman Sachs** - [2027 | APEJ | Seoul | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169895)
-- **Goldman Sachs** - [2027 | APEJ | Shanghai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170820)
-- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169894)
-- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us)
-- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us)
+- **BlackEdge Capital** - [Quantitative Trader Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005)
+- **Quantbot Technologies** - [Data Trading Analyst Summer Internship - 2027 [London]](https://www.quantbot.com/careers/4299858009?gh_jid=4299858009)
+- **Trillium** - [IT Support Intern - Summer 2027](https://www.trlm.com/apply/5207070007?gh_jid=5207070007)
 
 ## Missing but not confirmed closed
 

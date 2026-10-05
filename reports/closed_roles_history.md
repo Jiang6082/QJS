@@ -1,12 +1,15 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 135
-Last updated: 2026-10-05T09:14:49.291Z
+Total closure events recorded: 138
+Last updated: 2026-10-05T14:14:36.794Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
 
-### 2026-10-05 (9)
+### 2026-10-05 (12)
 
+- **BlackEdge Capital** - [Quantitative Trader Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005) - Chicago
+- **Quantbot Technologies** - [Data Trading Analyst Summer Internship - 2027 [London]](https://www.quantbot.com/careers/4299858009?gh_jid=4299858009) - London
+- **Trillium** - [IT Support Intern - Summer 2027](https://www.trlm.com/apply/5207070007?gh_jid=5207070007) - NYC
 - **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/169905) - Hong Kong, Hong Kong
 - **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/169906) - Hong Kong, Hong Kong
 - **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169893) - Hong Kong, Hong Kong

@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-05T09:14:49.291Z",
+  "searchedAt": "2026-10-05T14:14:36.794Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -673,11 +673,11 @@
         {
           "source": "Greenhouse:point72",
           "complete": true,
-          "jobsSeen": 212,
+          "jobsSeen": 210,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 212,
+      "jobsSeen": 210,
       "relevantInternships": 8
     },
     {
@@ -700,11 +700,11 @@
         {
           "source": "Greenhouse:point72",
           "complete": true,
-          "jobsSeen": 212,
+          "jobsSeen": 210,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 212,
+      "jobsSeen": 210,
       "relevantInternships": 8
     },
     {
@@ -1745,11 +1745,11 @@
         {
           "source": "Greenhouse:engineersgate",
           "complete": true,
-          "jobsSeen": 9,
+          "jobsSeen": 10,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantInternships": 1
     },
     {
@@ -1817,11 +1817,11 @@
         {
           "source": "Greenhouse:flowtraders",
           "complete": true,
-          "jobsSeen": 44,
+          "jobsSeen": 45,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 44,
+      "jobsSeen": 45,
       "relevantInternships": 1
     },
     {
@@ -3263,11 +3263,11 @@
         {
           "source": "Greenhouse:schonfeld",
           "complete": true,
-          "jobsSeen": 72,
+          "jobsSeen": 71,
           "relevantInternships": 9
         }
       ],
-      "jobsSeen": 72,
+      "jobsSeen": 71,
       "relevantInternships": 9
     },
     {
@@ -3290,11 +3290,11 @@
         {
           "source": "Greenhouse:schonfeld",
           "complete": true,
-          "jobsSeen": 72,
+          "jobsSeen": 71,
           "relevantInternships": 9
         }
       ],
-      "jobsSeen": 72,
+      "jobsSeen": 71,
       "relevantInternships": 9
     },
     {
@@ -3809,11 +3809,11 @@
         {
           "source": "Greenhouse:veritiongroupllc",
           "complete": true,
-          "jobsSeen": 26,
+          "jobsSeen": 25,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 26,
+      "jobsSeen": 25,
       "relevantInternships": 2
     },
     {
@@ -4302,12 +4302,12 @@
         {
           "source": "Greenhouse:trillium",
           "complete": true,
-          "jobsSeen": 10,
-          "relevantInternships": 4
+          "jobsSeen": 9,
+          "relevantInternships": 3
         }
       ],
-      "jobsSeen": 10,
-      "relevantInternships": 4
+      "jobsSeen": 9,
+      "relevantInternships": 3
     },
     {
       "company": "Trillium",
@@ -4329,12 +4329,12 @@
         {
           "source": "Greenhouse:trillium",
           "complete": true,
-          "jobsSeen": 10,
-          "relevantInternships": 4
+          "jobsSeen": 9,
+          "relevantInternships": 3
         }
       ],
-      "jobsSeen": 10,
-      "relevantInternships": 4
+      "jobsSeen": 9,
+      "relevantInternships": 3
     },
     {
       "company": "Trillium",
@@ -4560,11 +4560,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 152,
+          "jobsSeen": 148,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 152,
+      "jobsSeen": 148,
       "relevantInternships": 2
     },
     {
@@ -4721,12 +4721,12 @@
         "workday": [
           {
             "tenant": "equinor",
-            "site": "EQNR",
+            "site": "EQNR\\",
             "origin": "https://equinor.wd3.myworkdayjobs.com"
           },
           {
             "tenant": "equinor",
-            "site": "EQNR\\",
+            "site": "EQNR",
             "origin": "https://equinor.wd3.myworkdayjobs.com"
           }
         ]
@@ -4734,7 +4734,7 @@
       "unsupportedAts": [],
       "boards": [
         {
-          "source": "Workday:equinor/EQNR",
+          "source": "Workday:equinor/EQNR\\",
           "complete": false,
           "searchComplete": true,
           "errors": [],
@@ -4742,7 +4742,7 @@
           "relevantInternships": 5
         },
         {
-          "source": "Workday:equinor/EQNR\\",
+          "source": "Workday:equinor/EQNR",
           "complete": false,
           "searchComplete": true,
           "errors": [],
@@ -4863,11 +4863,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 91,
+          "jobsSeen": 93,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 91,
+      "jobsSeen": 93,
       "relevantInternships": 0
     },
     {
@@ -4999,11 +4999,11 @@
         {
           "source": "Greenhouse:aqr",
           "complete": true,
-          "jobsSeen": 51,
+          "jobsSeen": 52,
           "relevantInternships": 9
         }
       ],
-      "jobsSeen": 51,
+      "jobsSeen": 52,
       "relevantInternships": 9
     },
     {
@@ -5044,11 +5044,11 @@
         {
           "source": "Greenhouse:aqr",
           "complete": true,
-          "jobsSeen": 51,
+          "jobsSeen": 52,
           "relevantInternships": 9
         }
       ],
-      "jobsSeen": 51,
+      "jobsSeen": 52,
       "relevantInternships": 9
     },
     {
@@ -5095,11 +5095,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 56,
+          "jobsSeen": 57,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 56,
+      "jobsSeen": 57,
       "relevantInternships": 0
     },
     {
@@ -5526,11 +5526,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 299,
+          "jobsSeen": 300,
           "relevantInternships": 12
         }
       ],
-      "jobsSeen": 299,
+      "jobsSeen": 300,
       "relevantInternships": 12
     },
     {
@@ -5676,11 +5676,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 76,
+          "jobsSeen": 77,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 76,
+      "jobsSeen": 77,
       "relevantInternships": 2
     },
     {
@@ -5709,11 +5709,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 76,
+          "jobsSeen": 77,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 76,
+      "jobsSeen": 77,
       "relevantInternships": 2
     },
     {
@@ -5742,11 +5742,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 754,
+          "jobsSeen": 762,
           "relevantInternships": 26
         }
       ],
-      "jobsSeen": 754,
+      "jobsSeen": 762,
       "relevantInternships": 26
     },
     {
@@ -5775,11 +5775,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 754,
+          "jobsSeen": 762,
           "relevantInternships": 26
         }
       ],
-      "jobsSeen": 754,
+      "jobsSeen": 762,
       "relevantInternships": 26
     },
     {
@@ -5808,11 +5808,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 754,
+          "jobsSeen": 762,
           "relevantInternships": 26
         }
       ],
-      "jobsSeen": 754,
+      "jobsSeen": 762,
       "relevantInternships": 26
     },
     {
@@ -6162,11 +6162,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 134,
+          "jobsSeen": 139,
           "relevantInternships": 3
         }
       ],
-      "jobsSeen": 134,
+      "jobsSeen": 139,
       "relevantInternships": 3
     },
     {
@@ -6628,11 +6628,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 248,
+          "jobsSeen": 242,
           "relevantInternships": 4
         }
       ],
-      "jobsSeen": 248,
+      "jobsSeen": 242,
       "relevantInternships": 4
     },
     {
@@ -6665,11 +6665,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 248,
+          "jobsSeen": 242,
           "relevantInternships": 4
         }
       ],
-      "jobsSeen": 248,
+      "jobsSeen": 242,
       "relevantInternships": 4
     },
     {
@@ -6698,11 +6698,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 248,
+          "jobsSeen": 242,
           "relevantInternships": 4
         }
       ],
-      "jobsSeen": 248,
+      "jobsSeen": 242,
       "relevantInternships": 4
     },
     {
@@ -6905,11 +6905,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 36,
+          "jobsSeen": 35,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 36,
+      "jobsSeen": 35,
       "relevantInternships": 0
     },
     {
@@ -7104,11 +7104,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 117,
+          "jobsSeen": 115,
           "relevantInternships": 3
         }
       ],
-      "jobsSeen": 117,
+      "jobsSeen": 115,
       "relevantInternships": 3
     },
     {
@@ -7250,11 +7250,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 60,
+          "jobsSeen": 61,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 60,
+      "jobsSeen": 61,
       "relevantInternships": 1
     },
     {
@@ -7560,11 +7560,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 101,
+          "jobsSeen": 99,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 101,
+      "jobsSeen": 99,
       "relevantInternships": 0
     },
     {
@@ -7597,11 +7597,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 101,
+          "jobsSeen": 99,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 101,
+      "jobsSeen": 99,
       "relevantInternships": 0
     },
     {
@@ -7635,7 +7635,7 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 101,
+          "jobsSeen": 99,
           "relevantInternships": 0
         },
         {
@@ -7643,11 +7643,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 28,
+          "jobsSeen": 29,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 129,
+      "jobsSeen": 128,
       "relevantInternships": 0
     },
     {
@@ -7681,7 +7681,7 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 101,
+          "jobsSeen": 99,
           "relevantInternships": 0
         },
         {
@@ -7689,11 +7689,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 28,
+          "jobsSeen": 29,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 129,
+      "jobsSeen": 128,
       "relevantInternships": 0
     },
     {
@@ -7834,11 +7834,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 102,
+          "jobsSeen": 104,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 102,
+      "jobsSeen": 104,
       "relevantInternships": 8
     },
     {
@@ -7903,11 +7903,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 102,
+          "jobsSeen": 104,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 102,
+      "jobsSeen": 104,
       "relevantInternships": 8
     },
     {
@@ -8172,11 +8172,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 155,
+          "jobsSeen": 153,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 155,
+      "jobsSeen": 153,
       "relevantInternships": 0
     },
     {
@@ -8217,12 +8217,12 @@
         {
           "source": "Greenhouse:blackedgecapital",
           "complete": true,
-          "jobsSeen": 6,
-          "relevantInternships": 2
+          "jobsSeen": 5,
+          "relevantInternships": 1
         }
       ],
-      "jobsSeen": 6,
-      "relevantInternships": 2
+      "jobsSeen": 5,
+      "relevantInternships": 1
     },
     {
       "company": "Bracebridge Capital",
@@ -8254,19 +8254,28 @@
     {
       "company": "Caladan",
       "pageUrl": "https://caladan.xyz/careers/",
-      "resolvedUrl": "https://caladan.xyz/careers/",
+      "resolvedUrl": "https://caladan.xyz/careers",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
-        "greenhouse": [],
+        "greenhouse": [
+          "caladan"
+        ],
         "lever": [],
         "ashby": [],
         "smartrecruiters": [],
         "workday": []
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Greenhouse:caladan",
+          "complete": true,
+          "jobsSeen": 6,
+          "relevantInternships": 0
+        }
+      ],
+      "jobsSeen": 6,
       "relevantInternships": 0
     },
     {
@@ -10247,11 +10256,11 @@
         {
           "source": "Greenhouse:nksecuritiesresearch",
           "complete": true,
-          "jobsSeen": 14,
+          "jobsSeen": 15,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 14,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -10815,7 +10824,7 @@
     {
       "company": "Optica",
       "pageUrl": "https://opg.optica.org/optica/home.cfm",
-      "resolvedUrl": "https://validate.perfdrive.com/?ssa=c450dbb8-b8fd-6ffd-4204-ca6868990c31&ssb=03001233333&ssc=https%3A%2F%2Fopg.optica.org%2Foptica%2Fhome.cfm&ssi=c9699c54-d3hy-655e-98d5-21c69dc468e4&ssk=botmanager_support@radware.com&ssm=23278737321614150104389530745200&ssn=bc8794c26fcbb44cb316017f3cab5b85361f8036b0a9-331d-66a9-7fd3d5&sso=d8434a9-7b35-af1c0e54b36712ab0678f07c8e1d05d5990478e3d1da325c&ssp=37058147661791169059179111114612893&ssq=37044879186210212990791862799301647259362&ssr=MTM1LjExOS4zOC4yMTE=&sst=Mozilla%2F5.0%20internship-research&ssv=&ssw=",
+      "resolvedUrl": "https://validate.perfdrive.com/?ssa=8de4be9c-9512-682a-ca65-28d67aa80793&ssb=04158200938&ssc=https%3A%2F%2Fopg.optica.org%2Foptica%2Fhome.cfm&ssi=bba58bee-d3hy-d6d9-ffe1-38949b14c500&ssk=botmanager_support@radware.com&ssm=92407247063813110105546508280295&ssn=2476a6add239e0231a07eb10acf6d277460dcb54a270-1a1b-e190-3444dc&sso=b259090-31ed-c0a52938f2689f4926d98db66b714c65a7fcd195c8065d8c&ssp=86135799001791228138179122623485287&ssq=68456240985645994004009856541826769144341&ssr=NC4yNDYuMTM1LjY4&sst=Mozilla%2F5.0%20internship-research&ssv=&ssw=",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -12237,7 +12246,7 @@
     {
       "company": "Previously seen Greenhouse roles",
       "source": "Official Greenhouse job-detail APIs",
-      "jobsRetained": 260
+      "jobsRetained": 257
     }
   ]
 }

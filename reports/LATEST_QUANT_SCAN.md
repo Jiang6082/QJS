@@ -1,19 +1,19 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-10-05T09:14:49.291Z
+Last updated: 2026-10-05T14:14:36.794Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 515
-- Current retained roles: 562
+- Current retained roles: 559
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 9
+- No longer present since previous scan: 3
 - Missing without enough closure evidence: 83
 - Matching-role firms: 49
 - Confirmed no open postings: 4
-- Openings but no matching role: 35
-- Could not fully verify: 216
+- Openings but no matching role: 36
+- Could not fully verify: 215
 
 ## New Roles Since Previous Scan
 
@@ -55,15 +55,9 @@ _None._
 
 ## No Longer Present
 
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/169905) - Hong Kong, Hong Kong
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/169906) - Hong Kong, Hong Kong
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169893) - Hong Kong, Hong Kong
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170819) - Hong Kong, Hong Kong
-- **Goldman Sachs** - [2027 | APEJ | Seoul | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169895) - Seoul, Seoul, Korea, Republic of
-- **Goldman Sachs** - [2027 | APEJ | Shanghai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170820) - Shanghai, Shanghai, China
-- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169894) - Singapore
-- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **BlackEdge Capital** - [Quantitative Trader Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005) - Chicago
+- **Quantbot Technologies** - [Data Trading Analyst Summer Internship - 2027 [London]](https://www.quantbot.com/careers/4299858009?gh_jid=4299858009) - London
+- **Trillium** - [IT Support Intern - Summer 2027](https://www.trlm.com/apply/5207070007?gh_jid=5207070007) - NYC
 
 ## Full Reports
 
