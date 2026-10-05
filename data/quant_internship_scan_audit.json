@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-05T00:03:26.561Z",
+  "scannedAt": "2026-10-05T09:14:23.115Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -182,14 +182,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:janestreet",
-          "count": 230
+          "count": 231
         },
         {
           "source": "Ashby:jane",
           "count": 24
         }
       ],
-      "jobsSeen": 254,
+      "jobsSeen": 255,
       "relevantInternships": 0
     },
     {
@@ -664,10 +664,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 45
+          "count": 44
         }
       ],
-      "jobsSeen": 45,
+      "jobsSeen": 44,
       "relevantInternships": 1
     },
     {
@@ -810,10 +810,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 168
+          "count": 169
         }
       ],
-      "jobsSeen": 168,
+      "jobsSeen": 169,
       "relevantInternships": 16
     },
     {
@@ -1124,10 +1124,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 200
+          "count": 201
         }
       ],
-      "jobsSeen": 200,
+      "jobsSeen": 201,
       "relevantInternships": 7
     },
     {
@@ -1206,10 +1206,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 90
+          "count": 88
         }
       ],
-      "jobsSeen": 90,
+      "jobsSeen": 88,
       "relevantInternships": 4
     },
     {
@@ -1602,10 +1602,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:bluecrestcapitalmanagement",
-          "count": 8
+          "count": 7
         }
       ],
-      "jobsSeen": 8,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {

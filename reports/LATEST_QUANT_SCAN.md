@@ -1,26 +1,25 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-10-05T00:03:32.399Z
+Last updated: 2026-10-05T09:14:49.291Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 515
-- Current retained roles: 574
-- New stable job URLs since previous scan: 2
-- No longer present since previous scan: 2
-- Missing without enough closure evidence: 80
-- Matching-role firms: 50
+- Current retained roles: 562
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 9
+- Missing without enough closure evidence: 83
+- Matching-role firms: 49
 - Confirmed no open postings: 4
 - Openings but no matching role: 35
-- Could not fully verify: 215
+- Could not fully verify: 216
 
 ## New Roles Since Previous Scan
 
-### North America (2)
+### North America (0)
 
-- **Barclays** - [Trading Analyst Summer Internship Program 2027 Mexico City](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mexico-City-Avenida-Paseo-de-la-Reforma-505/Trading-Analyst-Summer-Internship-Program-2027-Mexico-City_JR-0000134430) - Mexico City, Avenida Paseo de la Reforma 505
-- **Northern Trust Asset Management** - [Data & Analytics Office Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) - Chicago, IL
+_None._
 
 ### Europe (0)
 
@@ -56,8 +55,15 @@ _None._
 
 ## No Longer Present
 
-- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/170600) - Singapore
-- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/170601) - Singapore
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/169905) - Hong Kong, Hong Kong
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/169906) - Hong Kong, Hong Kong
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169893) - Hong Kong, Hong Kong
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170819) - Hong Kong, Hong Kong
+- **Goldman Sachs** - [2027 | APEJ | Seoul | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169895) - Seoul, Seoul, Korea, Republic of
+- **Goldman Sachs** - [2027 | APEJ | Shanghai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170820) - Shanghai, Shanghai, China
+- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169894) - Singapore
+- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
 
 ## Full Reports
 

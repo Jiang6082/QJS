@@ -1,9 +1,21 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 126
-Last updated: 2026-10-05T00:03:32.399Z
+Total closure events recorded: 135
+Last updated: 2026-10-05T09:14:49.291Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-05 (9)
+
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/169905) - Hong Kong, Hong Kong
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/169906) - Hong Kong, Hong Kong
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169893) - Hong Kong, Hong Kong
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170819) - Hong Kong, Hong Kong
+- **Goldman Sachs** - [2027 | APEJ | Seoul | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169895) - Seoul, Seoul, Korea, Republic of
+- **Goldman Sachs** - [2027 | APEJ | Shanghai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170820) - Shanghai, Shanghai, China
+- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169894) - Singapore
+- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
 
 ### 2026-10-04 (2)
 

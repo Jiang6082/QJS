@@ -1,10 +1,10 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-10-05T00:03:32.399Z
+Scan started: 2026-10-05T09:14:49.291Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 
-## Matching Roles Found (50)
+## Matching Roles Found (49)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -37,7 +37,7 @@ Canonical companies after aliases: 304
 | Radix Trading | 3/4 pages live | [link](https://www.radix-trading.com/careers/) [link](https://www.radixeng.com/careers) [link](https://job-boards.greenhouse.io/radixuniversity) [link](https://job-boards.greenhouse.io/radixexperienced) |
 | Schonfeld | 2/2 pages live | [link](https://job-boards.greenhouse.io/schonfeld?error=true) [link](https://www.schonfeld.com/careers/) |
 | Peak6 | 1/1 pages live | [link](https://peak6group.wd1.myworkdayjobs.com/PEAK6) |
-| Qube Research & Technologies | 1/1 pages live | [link](https://www.qube-rt.com/careers/) |
+| Qube Research & Technologies | 0/1 pages live | [link](https://www.qube-rt.com/careers/) |
 | Susquehanna International Group | 4/4 pages live | [link](https://careers.sig.com/) [link](https://careers-sig.icims.com/jobs/intro) [link](https://sig.com/careers/) [link](https://careers-sig.icims.com/jobs/intro?mobile=true&needsRedirect=false) |
 | Scientech Research Capital | 1/1 pages live | [link](https://www.scientechresearch.io/jobopenings) |
 | Man Group | 3/3 pages live | [link](https://mangroupplc.wd3.myworkdayjobs.com/Man_Group_Careers) [link](https://job-boards.eu.greenhouse.io/mangroup) [link](https://www.man.com/careers) |
@@ -57,7 +57,6 @@ Canonical companies after aliases: 304
 | Voloridge | 2/2 pages live | [link](https://www.voloridge.com/our-approach) [link](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement) |
 | WorldQuant | 3/3 pages live | [link](https://job-boards.greenhouse.io/worldquant) [link](https://job-boards.greenhouse.io/worldquant?error=true) [link](https://www.worldquant.com/careers/) |
 | Xantium | 1/1 pages live | [link](https://job-boards.greenhouse.io/xantium?gh_src=Trackr) |
-| Morningstar | 4/4 pages live | [link](https://morningstar.wd5.myworkdayjobs.com/morningstar) [link](https://morningstar.wd5.myworkdayjobs.com/Americas/) [link](https://morningstar.wd5.myworkdayjobs.com/MorningstarDBRS) [link](https://www.morningstar.com/company/careers) |
 
 ## Confirmed No Open Postings (4)
 
@@ -99,7 +98,7 @@ Canonical companies after aliases: 304
 | Midpoint Markets | 1/1 pages live | [link](https://job-boards.greenhouse.io/midpointmarkets/jobs/4408679008) |
 | Quadrature Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/quadraturecapital?error=true) |
 | Quantlane | 1/1 pages live | [link](https://jobs.lever.co/quantlane) |
-| Valkyrie Trading | 1/1 pages live | [link](https://www.valkyrietrading.com/careers/) |
+| Valkyrie Trading | 0/1 pages live | [link](https://www.valkyrietrading.com/careers/) |
 | Waterfront International Ltd | 1/1 pages live | [link](https://job-boards.greenhouse.io/wil) |
 | Winton Capital | 2/2 pages live | [link](https://www.winton.com/opportunities) [link](https://job-boards.eu.greenhouse.io/winton) |
 | TCI Fund Management | 2/3 pages live | [link](https://boards.greenhouse.io/twosixtechnologies/jobs/4465276004) [link](https://boards.greenhouse.io/tekion/jobs/6263631003) [link](https://boards.greenhouse.io/eikontherapeutics/jobs/4541156007) |
@@ -108,7 +107,7 @@ Canonical companies after aliases: 304
 | XTX Markets | 1/1 pages live | [link](https://www.xtxmarkets.com/careers/) |
 | Teza Technologies | 2/2 pages live | [link](https://www.teza.com/careers/) [link](https://jobs.ashbyhq.com/teza-technologies) |
 
-## Could Not Fully Verify (215)
+## Could Not Fully Verify (216)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -134,7 +133,7 @@ Canonical companies after aliases: 304
 | BP Supply Trading & Shipping | 0/1 pages live | [link](https://www.bp.com/en/global/bp-supply-trading-and-shipping/careers.html) |
 | BlockTech | 1/1 pages live | [link](https://www.block-tech.io/careers) |
 | Campbell and Company | 1/1 pages live | [link](https://www.campbell.com/careers/) |
-| Cascade Systems | 0/1 pages live | [link](https://cascadesystems.net/careers/) |
+| Cascade Systems | 1/1 pages live | [link](https://cascadesystems.net/careers/) |
 | Chimera Securities | 1/1 pages live | [link](https://www.chimerasecurities.com/careers) |
 | Consolidated Trading | 1/1 pages live | [link](https://pagesxyz.com/companies/consolidated-trading/jobs) |
 | Criterion Arbitrage & Trading | 0/1 pages live | [link](https://www.criterion-trading.nl/m/join.html) |
@@ -177,7 +176,7 @@ Canonical companies after aliases: 304
 | Kershner Trading Group | 1/1 pages live | [link](https://kershnertrading.applicantstack.com/x/openings) |
 | Kvantium Research | no saved page attempted | none |
 | DWF Labs | 0/1 pages live | [link](https://www.dwf-labs.com/careers) |
-| Deep Blue Capital | 1/1 pages live | [link](https://deepbluecap.com/vacancies/) |
+| Deep Blue Capital | 0/1 pages live | [link](https://deepbluecap.com/vacancies/) |
 | Dexterity Capital | 0/3 pages live | [link](https://wellfound.com/company/dexterity-capital) [link](https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us) [link](https://app.welcometothejungle.com/companies/Dexterity-Capital) |
 | Domstad Traders | no saved page attempted | none |
 | Enigma Quant Capital | 1/1 pages live | [link](https://www.enigmaquant.com/#careers) |
@@ -194,7 +193,7 @@ Canonical companies after aliases: 304
 | Jerpoint Capital | no saved page attempted | none |
 | KeyQuant | no saved page attempted | none |
 | League Trading | 1/1 pages live | [link](https://www.theleaguecorp.com/opportunities.php) |
-| Da Vinci Trading | 1/1 pages live | [link](https://davincitrading.com/job/graduate-trader/) |
+| Da Vinci Trading | 0/1 pages live | [link](https://davincitrading.com/job/graduate-trader/) |
 | Diameter Capital Partners | no saved page attempted | none |
 | Dymon Asia | 1/1 pages live | [link](https://www.dymonasia.com/) |
 | Elliott Bay Energy Trading LLC | 1/1 pages live | [link](https://www.elliott-turbo.com/careers) |
@@ -212,7 +211,7 @@ Canonical companies after aliases: 304
 | Daler Trading | no saved page attempted | none |
 | Delchain | 1/1 pages live | [link](https://delchain.io/job-openings/) |
 | Dolat Capital | 1/1 pages live | [link](https://dolatcapital.com/careers/) |
-| ETS Asset Management Factory | 0/2 pages live | [link](https://xaviesteve.com/jobs/en/company/www.ets.es) [link](https://ticjob.es/eng/company-presentation/ets-asset-management-factory/1260) |
+| ETS Asset Management Factory | 1/2 pages live | [link](https://xaviesteve.com/jobs/en/company/www.ets.es) [link](https://ticjob.es/eng/company-presentation/ets-asset-management-factory/1260) |
 | Elliott Management | 1/1 pages live | [link](https://ellimgmt.com/careers/) |
 | Final | 1/1 pages live | [link](https://www.final.co.il/) |
 | Freepoint Commodities | 1/1 pages live | [link](https://www.freepoint.com/life-at-freepoint/) |
@@ -327,4 +326,5 @@ Canonical companies after aliases: 304
 | Verma Research Capital | no saved page attempted | none |
 | Wallsoft Labs | no saved page attempted | none |
 | Wintermute | 1/1 pages live | [link](https://wintermute.com/careers/) |
+| Morningstar | 4/4 pages live | [link](https://morningstar.wd5.myworkdayjobs.com/morningstar) [link](https://morningstar.wd5.myworkdayjobs.com/Americas/) [link](https://morningstar.wd5.myworkdayjobs.com/MorningstarDBRS) [link](https://www.morningstar.com/company/careers) |
 

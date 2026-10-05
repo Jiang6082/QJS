@@ -1,18 +1,17 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-10-02T18:05:04.227Z
-Current scan: 2026-10-05T00:03:32.399Z
+Previous scan: 2026-10-05T00:03:32.399Z
+Current scan: 2026-10-05T09:14:49.291Z
 Previous rows: 574
-Current rows: 574
-New URLs confirmed in both source passes: 2
-Confirmed no longer present: 2
+Current rows: 562
+New URLs confirmed in both source passes: 0
+Confirmed no longer present: 9
 
 ## New Roles By Region
 
-### North America (2)
+### North America (0)
 
-- **Barclays** - [Trading Analyst Summer Internship Program 2027 Mexico City](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mexico-City-Avenida-Paseo-de-la-Reforma-505/Trading-Analyst-Summer-Internship-Program-2027-Mexico-City_JR-0000134430) - Mexico City, Avenida Paseo de la Reforma 505 - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted 2 Days Ago | JR-0000134430
-- **Northern Trust Asset Management** - [Data & Analytics Office Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) - Chicago, IL - Confirmed official posting (Career page Workday:ntrs/northerntrust): career_page=https://ntrs.wd1.myworkdayjobs.com/northerntrust | Posted Yesterday | R160769
+_None._
 
 ### Europe (0)
 
@@ -48,8 +47,15 @@ _None._
 
 ## No Longer Present
 
-- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/170600)
-- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/170601)
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/169905)
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/169906)
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169893)
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170819)
+- **Goldman Sachs** - [2027 | APEJ | Seoul | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169895)
+- **Goldman Sachs** - [2027 | APEJ | Shanghai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170820)
+- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169894)
+- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us)
+- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us)
 
 ## Missing but not confirmed closed
 
@@ -121,9 +127,12 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Barclays** - [2027 Technology Developer Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397)
 - **BP** - [Summer Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2)
 - **Vanguard** - [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1)
+- **BMO Capital Markets** - [Portfolio Assistant, Winter 2027 (Co-op/Internship), Montreal - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Portfolio-Assistant--Winter-2027--Co-op-Internship---Montreal---4-months_R260025949-2)
+- **BMO Capital Markets** - [R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726)
 - **Fidelity Investments** - [Summer 2027 Equity Research Associate Intern - London](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1)
 - **PIMCO** - [2027 Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805)
 - **Brevan Howard** - [2027 Summer Internship Program – Trading, Geneva](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607)
+- **Morningstar** - [Morningstar Internship Program- Quantitative Research Intern 2027 (Campus)](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027--Campus-_REQ-058465)
 - **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677)
 - **Wellington Management** - [Portfolio Reference Data Analyst Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829)
 - **Wellington Management** - [Quantitative Trading Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1)

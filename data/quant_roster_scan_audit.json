@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-05T00:08:36.899Z",
-  "scanStartedAt": "2026-10-05T00:03:32.399Z",
+  "generatedAt": "2026-10-05T09:19:34.461Z",
+  "scanStartedAt": "2026-10-05T09:14:49.291Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
-    "matching-role-found": 50,
+    "matching-role-found": 49,
     "confirmed-no-open-postings": 4,
     "confirmed-openings-no-matching-role": 35,
-    "could-not-fully-verify": 215
+    "could-not-fully-verify": 216
   },
   "companies": [
     {
@@ -453,7 +453,7 @@
       "careerPages": [
         "https://cascadesystems.net/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 184,
+      "jobsSeen": 183,
       "relevantInternships": 15
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 132,
+      "jobsSeen": 134,
       "relevantInternships": 3
     },
     {
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 230,
+      "jobsSeen": 231,
       "relevantInternships": 0
     },
     {
@@ -1336,7 +1336,7 @@
       "careerPages": [
         "https://deepbluecap.com/vacancies/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1434,7 +1434,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 45,
+      "jobsSeen": 44,
       "relevantInternships": 1
     },
     {
@@ -1608,7 +1608,7 @@
       "careerPages": [
         "https://davincitrading.com/job/graduate-trader/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1940,7 +1940,7 @@
         "https://xaviesteve.com/jobs/en/company/www.ets.es",
         "https://ticjob.es/eng/company-presentation/ets-asset-management-factory/1260"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2086,7 +2086,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantInternships": 1
     },
     {
@@ -2116,7 +2116,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 168,
+      "jobsSeen": 169,
       "relevantInternships": 18
     },
     {
@@ -2714,7 +2714,7 @@
       "careerPages": [
         "https://www.qube-rt.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3534,7 +3534,7 @@
       "careerPages": [
         "https://www.valkyrietrading.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3767,7 +3767,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 30,
+      "jobsSeen": 29,
       "relevantInternships": 0
     },
     {
@@ -4247,7 +4247,7 @@
       "sourceRosterNames": [
         "Morningstar"
       ],
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://morningstar.wd5.myworkdayjobs.com/morningstar",
         "https://morningstar.wd5.myworkdayjobs.com/Americas/",
@@ -4256,8 +4256,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 93,
-      "relevantInternships": 1
+      "jobsSeen": 89,
+      "relevantInternships": 0
     },
     {
       "company": "RRS Group",
