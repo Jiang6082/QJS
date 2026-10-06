@@ -1,5 +1,47 @@
 [
   {
+    "Company": "Jump Trading",
+    "Title": "Campus Software Engineer (Intern)",
+    "Location": "London",
+    "Region": "Europe",
+    "URL": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+    "Source": "Greenhouse:jumptrading",
+    "Status": "Confirmed official posting",
+    "Department": "Core Development ",
+    "Notes": "posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | posted=2026-07-13T08:37:21-04:00 | revalidated_from_previous_scan=true",
+    "lastSeenOpenAt": "2026-10-05T14:14:36.794Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-10-06T10:47:49.053Z"
+  },
+  {
+    "Company": "Schonfeld",
+    "Title": "2027 Risk Analyst (DMFI) Intern",
+    "Location": "London, England, United Kingdom",
+    "Region": "Europe",
+    "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8172053",
+    "Source": "Career page Greenhouse:schonfeld",
+    "Status": "Confirmed official posting",
+    "Department": "Internship",
+    "Notes": "posted=2026-09-04T17:30:08-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8172053 | internship timing not stated in title | The Role We are seeking a highly qualified DMFI Risk Analyst Summer Intern to join our DMFI Risk team in London. This team is responsible for helping management and portfolio managers within DMFI (Discretionary Macro Fixed Income) think about different dimensions of risk. What You’ll Do As a DMFI Risk Analyst Summer Intern, you’ll spend ten weeks with the Schonfeld DMFI Risk team, focusing on quantitative risk research and tool development for analysis of our portfolio’s exposures to market moves, particularly macro-economic and geo-political shocks. The research project will involve the use of advanced quantitative techniques and economic theory. The results of the research pro...",
+    "lastSeenOpenAt": "2026-10-05T14:14:36.794Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-10-06T10:47:49.053Z"
+  },
+  {
+    "Company": "Optiver",
+    "Title": "High Performance Computing (HPC) Intern (Summer 2027 - Chicago)",
+    "Department": "Technology",
+    "Location": "Chicago, Illinois, United States",
+    "URL": "https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002",
+    "Source": "Career page Greenhouse:optiverprivate",
+    "Status": "Confirmed official posting",
+    "Notes": "posted=2026-09-21T15:56:00-04:00 | career_page=https://job-boards.greenhouse.io/optiverprivate | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8828011002 | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | As an HPC Engineer Intern, you’ll work side-by-side with your mentor and teammates to build and optimize the infrastructure that powers a global trading firm. Your projects will be scoped based on real business needs and your mentor will be fully invested in helping you design scalable, high-performance systems that are built to last. You’ll contribute to meaningful projects that support large-scale research, machine learning, and data analysis pipelines, and you’ll see your work drive real impact across trading teams. We operate in one of the most fast-paced and competitive environments in the tech industry. That means no two days are the same...",
+    "Region": "North America",
+    "lastSeenOpenAt": "2026-10-05T14:14:36.794Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-10-06T10:47:49.053Z"
+  },
+  {
     "Company": "BlackEdge Capital",
     "Title": "Quantitative Trader Intern",
     "Location": "Chicago",

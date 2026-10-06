@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-10-05T14:19:58.577Z",
+  "checkedAt": "2026-10-06T10:52:56.200Z",
   "boards": [
     {
       "site": "NBCareers",
-      "jobsSeen": 70,
+      "jobsSeen": 71,
       "searchComplete": true,
       "errors": []
     },
@@ -16,10 +16,23 @@
   ],
   "roles": [
     {
+      "title": "Almanac Realty Group Summer 2027 Internship",
+      "externalPath": "/job/New-York-NY/Almanac-Realty-Group-Summer-2027-Internship_R0012519",
+      "locationsText": "New York, NY",
+      "postedOn": "Posted Yesterday",
+      "bulletFields": [
+        "R0012519"
+      ],
+      "URL": "https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Almanac-Realty-Group-Summer-2027-Internship_R0012519",
+      "inQuantScan": false,
+      "talentPool": false,
+      "detailError": null
+    },
+    {
       "title": "Quantitative 2027 Summer Intern",
       "externalPath": "/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643",
       "locationsText": "New York, NY",
-      "postedOn": "Posted 12 Days Ago",
+      "postedOn": "Posted 13 Days Ago",
       "bulletFields": [
         "R0012643"
       ],
@@ -32,7 +45,7 @@
       "title": "Intern, Private Equity",
       "externalPath": "/job/Tokyo/Intern--Private-Equity_R0012546",
       "locationsText": "Tokyo",
-      "postedOn": "Posted 21 Days Ago",
+      "postedOn": "Posted 22 Days Ago",
       "bulletFields": [
         "R0012546"
       ],

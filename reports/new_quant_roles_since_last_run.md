@@ -1,9 +1,9 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-10-05T09:14:49.291Z
-Current scan: 2026-10-05T14:14:36.794Z
-Previous rows: 562
-Current rows: 559
+Previous scan: 2026-10-05T14:14:36.794Z
+Current scan: 2026-10-06T10:47:49.053Z
+Previous rows: 559
+Current rows: 556
 New URLs confirmed in both source passes: 0
 Confirmed no longer present: 3
 
@@ -47,9 +47,9 @@ _None._
 
 ## No Longer Present
 
-- **BlackEdge Capital** - [Quantitative Trader Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005)
-- **Quantbot Technologies** - [Data Trading Analyst Summer Internship - 2027 [London]](https://www.quantbot.com/careers/4299858009?gh_jid=4299858009)
-- **Trillium** - [IT Support Intern - Summer 2027](https://www.trlm.com/apply/5207070007?gh_jid=5207070007)
+- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026)
+- **Schonfeld** - [2027 Risk Analyst (DMFI) Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172053)
+- **Optiver** - [High Performance Computing (HPC) Intern (Summer 2027 - Chicago)](https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002)
 
 ## Missing but not confirmed closed
 

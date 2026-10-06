@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-05T14:19:44.487Z",
-  "currentScanAt": "2026-10-05T14:14:36.794Z",
+  "generatedAt": "2026-10-06T10:52:42.769Z",
+  "currentScanAt": "2026-10-06T10:47:49.053Z",
   "total": 469,
-  "active": 369,
-  "notDetected": 100,
+  "active": 367,
+  "notDetected": 102,
   "newSincePreviousScan": 0,
   "manuallyRecovered": 5,
   "roles": [
@@ -814,20 +814,6 @@
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-21",
       "first_seen": "2026-09-13",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "Optiver",
-      "Title": "High Performance Computing (HPC) Intern (Summer 2027 - Chicago)",
-      "Location": "Chicago, Illinois, United States",
-      "URL": "https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002",
-      "Source": "Career page Greenhouse:optiverprivate",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-21",
-      "first_seen": "2026-09-23",
       "discovery_note": null,
       "manually_verified": false,
       "verifiedAt": null,
@@ -2124,7 +2110,7 @@
     {
       "Company": "Qube Research & Technologies",
       "Title": "2027 - Internship, Software Engineering and Quantitative Development",
-      "Location": "London, Paris, Wrocław, Zurich, Dubai, Aarhus",
+      "Location": "London, Paris, Wrocław, Zurich, Dubai, Aarhus, Amsterdam",
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
       "Source": "Greenhouse:quberesearchandtechnologies",
       "source_status": "Confirmed official posting",
@@ -2490,20 +2476,6 @@
       "Title": "2027 PhD Quantitative Research Intern",
       "Location": "New York, New York, United States",
       "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
-      "Source": "Career page Greenhouse:schonfeld",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-04",
-      "first_seen": "2026-09-07",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "Schonfeld",
-      "Title": "2027 Risk Analyst (DMFI) Intern",
-      "Location": "London, England, United Kingdom",
-      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8172053",
       "Source": "Career page Greenhouse:schonfeld",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-04",
@@ -3350,7 +3322,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-05",
+      "verifiedAt": "2026-10-06",
       "status": "active"
     },
     {
@@ -5128,7 +5100,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-05",
+      "verifiedAt": "2026-10-06",
       "status": "active"
     },
     {
@@ -5142,7 +5114,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-05",
+      "verifiedAt": "2026-10-06",
       "status": "active"
     },
     {
@@ -5156,7 +5128,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-05",
+      "verifiedAt": "2026-10-06",
       "status": "active"
     },
     {
@@ -5170,7 +5142,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-05",
+      "verifiedAt": "2026-10-06",
       "status": "active"
     },
     {
@@ -5391,6 +5363,20 @@
       "Source": "Career page Workday:capgroup/capitalgroupcareers",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-22",
+      "first_seen": "2026-09-23",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "High Performance Computing (HPC) Intern (Summer 2027 - Chicago)",
+      "Location": "Chicago, Illinois, United States",
+      "URL": "https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002",
+      "Source": "Career page Greenhouse:optiverprivate",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-21",
       "first_seen": "2026-09-23",
       "discovery_note": null,
       "manually_verified": false,
@@ -5948,6 +5934,20 @@
       "Title": "2027 DMFI Technology Intern",
       "Location": "New York, New York, United States",
       "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8171772",
+      "Source": "Career page Greenhouse:schonfeld",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-04",
+      "first_seen": "2026-09-07",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Schonfeld",
+      "Title": "2027 Risk Analyst (DMFI) Intern",
+      "Location": "London, England, United Kingdom",
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8172053",
       "Source": "Career page Greenhouse:schonfeld",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-04",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T14:19:43.610Z",
-  "scanStartedAt": "2026-10-05T14:14:36.794Z",
+  "generatedAt": "2026-10-06T10:52:42.099Z",
+  "scanStartedAt": "2026-10-06T10:47:49.053Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 153,
+      "jobsSeen": 152,
       "relevantInternships": 0
     },
     {
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 52,
+      "jobsSeen": 53,
       "relevantInternships": 9
     },
     {
@@ -353,7 +353,7 @@
       "careerPages": [
         "http://www.armadausa.com/careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -552,7 +552,7 @@
       "careerPages": [
         "https://careers.acehardware.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 183,
+      "jobsSeen": 185,
       "relevantInternships": 15
     },
     {
@@ -946,7 +946,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 14,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -972,7 +972,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 43,
+      "jobsSeen": 45,
       "relevantInternships": 0
     },
     {
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 210,
+      "jobsSeen": 214,
       "relevantInternships": 8
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 75,
+      "jobsSeen": 72,
       "relevantInternships": 18
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 139,
+      "jobsSeen": 136,
       "relevantInternships": 3
     },
     {
@@ -1141,7 +1141,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 16,
+      "jobsSeen": 17,
       "relevantInternships": 4
     },
     {
@@ -2012,7 +2012,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -2041,7 +2041,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "relevantInternships": 4
     },
     {
@@ -2086,7 +2086,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 33,
+      "jobsSeen": 32,
       "relevantInternships": 1
     },
     {
@@ -2116,7 +2116,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 169,
+      "jobsSeen": 170,
       "relevantInternships": 18
     },
     {
@@ -2236,7 +2236,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 43,
+      "jobsSeen": 41,
       "relevantInternships": 5
     },
     {
@@ -2475,8 +2475,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 71,
-      "relevantInternships": 9
+      "jobsSeen": 68,
+      "relevantInternships": 8
     },
     {
       "company": "Silver Valley Management",
@@ -2514,7 +2514,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 8,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {
@@ -2664,7 +2664,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 18,
+      "jobsSeen": 17,
       "relevantInternships": 2
     },
     {
@@ -3135,7 +3135,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3273,8 +3273,8 @@
       ],
       "livePages": 12,
       "attemptedPages": 12,
-      "jobsSeen": 10,
-      "relevantInternships": 2
+      "jobsSeen": 9,
+      "relevantInternships": 1
     },
     {
       "company": "Plutus Research",
@@ -3593,7 +3593,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -3695,7 +3695,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 56,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -3876,7 +3876,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantInternships": 0
     },
     {
@@ -3891,7 +3891,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 91,
+      "jobsSeen": 93,
       "relevantInternships": 11
     },
     {
@@ -3950,7 +3950,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 25,
+      "jobsSeen": 24,
       "relevantInternships": 2
     },
     {
@@ -4082,7 +4082,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 56,
+      "jobsSeen": 57,
       "relevantInternships": 2
     },
     {
@@ -4256,7 +4256,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 89,
+      "jobsSeen": 88,
       "relevantInternships": 0
     },
     {

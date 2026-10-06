@@ -1,9 +1,15 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 138
-Last updated: 2026-10-05T14:14:36.794Z
+Total closure events recorded: 141
+Last updated: 2026-10-06T10:47:49.053Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-06 (3)
+
+- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026) - London
+- **Schonfeld** - [2027 Risk Analyst (DMFI) Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172053) - London, England, United Kingdom
+- **Optiver** - [High Performance Computing (HPC) Intern (Summer 2027 - Chicago)](https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002) - Chicago, Illinois, United States
 
 ### 2026-10-05 (12)
 

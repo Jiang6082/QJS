@@ -1,12 +1,12 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-10-05T14:14:36.794Z
+Last updated: 2026-10-06T10:47:49.053Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 515
-- Current retained roles: 559
+- Current retained roles: 556
 - New stable job URLs since previous scan: 0
 - No longer present since previous scan: 3
 - Missing without enough closure evidence: 83
@@ -55,9 +55,9 @@ _None._
 
 ## No Longer Present
 
-- **BlackEdge Capital** - [Quantitative Trader Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005) - Chicago
-- **Quantbot Technologies** - [Data Trading Analyst Summer Internship - 2027 [London]](https://www.quantbot.com/careers/4299858009?gh_jid=4299858009) - London
-- **Trillium** - [IT Support Intern - Summer 2027](https://www.trlm.com/apply/5207070007?gh_jid=5207070007) - NYC
+- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026) - London
+- **Schonfeld** - [2027 Risk Analyst (DMFI) Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172053) - London, England, United Kingdom
+- **Optiver** - [High Performance Computing (HPC) Intern (Summer 2027 - Chicago)](https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002) - Chicago, Illinois, United States
 
 ## Full Reports
 
