@@ -1,21 +1,24 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-10-05T14:14:36.794Z
-Current scan: 2026-10-06T10:47:49.053Z
-Previous rows: 559
-Current rows: 556
-New URLs confirmed in both source passes: 0
-Confirmed no longer present: 3
+Previous scan: 2026-10-06T10:47:49.053Z
+Current scan: 2026-10-07T12:28:53.930Z
+Previous rows: 556
+Current rows: 558
+New URLs confirmed in both source passes: 5
+Confirmed no longer present: 1
 
 ## New Roles By Region
 
-### North America (0)
+### North America (4)
 
-_None._
+- **DV Trading** - [Database Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4741016005) - Chicago - Confirmed official posting (Career page Greenhouse:dvtrading): posted=2026-10-06T14:01:57-04:00 | career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4741016005 | internship timing: Summer 2027; graduation eligibility mentions: 2029 | About Us : Founded 20 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America, Europe and Asia. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. Overview: We are seeking a Database Engine...
+- **Engineers Gate** - [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8249666) - New York - Confirmed official posting (Career page Greenhouse:engineersgate): posted=2026-10-06T14:35:32-04:00 | career_page=https://job-boards.greenhouse.io/engineersgate | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8249666 | internship timing not stated in title | About EG: Engineers Gate (EG) is a leading investment manager founded in 2014 as a quantitative, computer-driven trading firm. Today, EG operates as a diversified, multi-strategy investment platform that combines systematic research with selective discretionary approaches. EG's multi-manager platform allows independent investment teams to pursue distinct strategies while benefiting from shared infrastructure, risk management, and operational support. The firm’s collaborative groups of researchers, engineers, and investment professionals deploy sophisticated statistical models, proprietary technology, and a centralized data platform to isolate and solve challenging problem sets in the g...
+- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania - Confirmed official posting (Official SIG jobs API): posted=2026-09-15T15:00:00+0000 | January 2027 Start | internship timing not stated in title | Overview Susquehanna’s co-op students directly impact day-to-day projects in our technology teams. The Susquehanna Co-op Program gives you an opportunity to apply what you learn in class to real world scenarios. We offer co-op classes at Susquehanna designed to further familiarize you with our business, the markets, and the different entities that operate under the Susquehanna umbrella. With experts in almost every discipline, we build some of the most powerful trading systems in the financial industry. By integrating sophisticated coding techniques with innovative engineering ideas, we design and optimize systems that can process massive amounts of data while still ensuring high performance and stability. We focus on the entire technology stack, always with an eye towards evolving a stable, sc...
+- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania - Confirmed official posting (Official SIG jobs API): posted=2026-09-15T15:01:00+0000 | January 2027 Start | internship timing not stated in title | Overview Susquehanna’s co-op students directly impact day-to-day projects in our technology teams. The Susquehanna Co-op Program gives you an opportunity to apply what you learn in class to real world scenarios. We offer co-op classes at Susquehanna designed to further familiarize you with our business, the markets, and the different entities that operate under the Susquehanna umbrella. With experts in almost every discipline, we build some of the most powerful trading systems in the financial industry. By integrating sophisticated coding techniques with innovative engineering ideas, we design and optimize systems that can process massive amounts of data while still ensuring high performance and stability. We focus on the entire technology stack, always with an eye towards evolving a stable, sc...
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **Squarepoint Capital** - [Intern Software Developer - Warsaw 2027](https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124) - Warsaw - Confirmed official posting (Greenhouse:squarepointcapital): posted=2026-10-06T11:19:41-04:00; internship timing not stated in title; undergrad/BS/MS language found
 
 ### Asia (0)
 
@@ -47,9 +50,7 @@ _None._
 
 ## No Longer Present
 
-- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026)
-- **Schonfeld** - [2027 Risk Analyst (DMFI) Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172053)
-- **Optiver** - [High Performance Computing (HPC) Intern (Summer 2027 - Chicago)](https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002)
+- **Goldman Sachs** - [2027 | Americas | Sao Paulo | Global Investment Research | Seasonal/Off Cycle Internship](https://higher.gs.com/roles/182548)
 
 ## Missing but not confirmed closed
 
@@ -107,6 +108,7 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **BMO Capital Markets** - [Software Developer, Winter 2027 (Co-op/Internship) - 12 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678-1)
 - **BMO Capital Markets** - [Software Developer, Winter 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638)
 - **BMO Capital Markets** - [Software Developer, Winter 2027 (Co-op/Internship) - 8 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-3)
+- **BP** - [Summer Internship-Technology-Data & AI- Malaysia](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2)
 - **Invesco** - [Early Career Intern - Strategy and Transformation](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Strategy-and-Transformation_R-15374-1)
 - **Northern Trust Asset Management** - [Technology Intern – Data Science and Analytics](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1)
 - **Northern Trust Asset Management** - [Technology Intern – Information Security](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1)
@@ -138,3 +140,4 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Capital Group** - [CAMPUS: Data & Technology Summer Associate (New York, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/CAMPUS--Data---Technology-Summer-Associate--New-York--2027-_JR7383)
 - **Wellington Management** - [Investment Platform Technology Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Platform-Technology-Co-op_R94902-1)
 - **PGIM** - [2027 Technology, Internship Program](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Newark-NJ-USA/XMLNAME-2027-Technology--Internship-Program_R-124923-1)
+- **Wellington Management** - [Technology Undergraduate Summer Internship](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778-1)

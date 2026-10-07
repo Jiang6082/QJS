@@ -1,5 +1,19 @@
 [
   {
+    "Company": "Goldman Sachs",
+    "Title": "2027 | Americas | Sao Paulo | Global Investment Research | Seasonal/Off Cycle Internship",
+    "Department": "Global Investment Research Division",
+    "Location": "Sao Paulo, Sao Paulo, Brazil",
+    "URL": "https://higher.gs.com/roles/182548",
+    "Source": "Official Goldman Sachs Higher API",
+    "Status": "Confirmed official posting",
+    "Notes": "posted=2026-08-25 | role_id=182548 | program=Seasonal | division=Global Investment Research Division",
+    "Region": "South America",
+    "lastSeenOpenAt": "2026-10-06T10:47:49.053Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-10-07T12:28:53.930Z"
+  },
+  {
     "Company": "Jump Trading",
     "Title": "Campus Software Engineer (Intern)",
     "Location": "London",
@@ -193,7 +207,8 @@
     "Region": "North America",
     "lastSeenOpenAt": "2026-10-05T00:03:32.399Z",
     "lastSeenEvidence": "recorded_scan",
-    "detectedClosedAt": "2026-10-05T09:14:49.291Z"
+    "detectedClosedAt": "2026-10-05T09:14:49.291Z",
+    "reopenedAt": "2026-10-07T12:28:53.930Z"
   },
   {
     "Company": "Susquehanna International Group",
@@ -207,7 +222,8 @@
     "Region": "North America",
     "lastSeenOpenAt": "2026-10-05T00:03:32.399Z",
     "lastSeenEvidence": "recorded_scan",
-    "detectedClosedAt": "2026-10-05T09:14:49.291Z"
+    "detectedClosedAt": "2026-10-05T09:14:49.291Z",
+    "reopenedAt": "2026-10-07T12:28:53.930Z"
   },
   {
     "Company": "Goldman Sachs",

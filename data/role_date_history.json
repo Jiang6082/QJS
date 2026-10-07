@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T10:47:49.053Z",
+  "updatedAt": "2026-10-07T12:28:53.930Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -2392,7 +2392,7 @@
     "https://higher.gs.com/roles/175424": {
       "URL": "https://higher.gs.com/roles/175424",
       "first_seen": "2026-08-16",
-      "date": "2026-08-15",
+      "date": "2026-10-06",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/175428": {
@@ -4578,6 +4578,24 @@
       "first_seen": "2026-10-04",
       "date": "2026-10-03",
       "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4741016005": {
+      "URL": "https://job-boards.greenhouse.io/dvtrading/jobs/4741016005",
+      "first_seen": "2026-10-07",
+      "date": "2026-10-06",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/engineersgate/jobs/8249666": {
+      "URL": "https://job-boards.greenhouse.io/engineersgate/jobs/8249666",
+      "first_seen": "2026-10-07",
+      "date": "2026-10-06",
+      "evidence": "employer_field"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?gh_jid=8045124&id=8045124": {
+      "URL": "https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124",
+      "first_seen": "2026-10-07",
+      "date": "2026-10-06",
+      "evidence": "employer_field"
     }
   }
 }

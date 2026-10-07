@@ -1,9 +1,13 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 141
-Last updated: 2026-10-06T10:47:49.053Z
+Total closure events recorded: 142
+Last updated: 2026-10-07T12:28:53.930Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-07 (1)
+
+- **Goldman Sachs** - [2027 | Americas | Sao Paulo | Global Investment Research | Seasonal/Off Cycle Internship](https://higher.gs.com/roles/182548) - Sao Paulo, Sao Paulo, Brazil
 
 ### 2026-10-06 (3)
 
@@ -23,8 +27,8 @@ Closures require two independent successful observations of absence from the rol
 - **Goldman Sachs** - [2027 | APEJ | Seoul | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169895) - Seoul, Seoul, Korea, Republic of
 - **Goldman Sachs** - [2027 | APEJ | Shanghai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170820) - Shanghai, Shanghai, China
 - **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/169894) - Singapore
-- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania — _reopened 2026-10-07_
+- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania — _reopened 2026-10-07_
 
 ### 2026-10-04 (2)
 
