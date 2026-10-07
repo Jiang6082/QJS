@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-07T12:28:40.371Z",
+  "scannedAt": "2026-10-07T16:19:00.411Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -209,14 +209,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:point72",
-          "count": 214
+          "count": 215
         },
         {
           "source": "Ashby:point",
           "count": 0
         }
       ],
-      "jobsSeen": 214,
+      "jobsSeen": 215,
       "relevantInternships": 5
     },
     {
@@ -224,14 +224,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 88
+          "count": 90
         },
         {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 88,
+      "jobsSeen": 90,
       "relevantInternships": 4
     },
     {
@@ -273,10 +273,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:akunacapital",
-          "count": 42
+          "count": 41
         }
       ],
-      "jobsSeen": 42,
+      "jobsSeen": 41,
       "relevantInternships": 7
     },
     {
@@ -347,10 +347,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:axq",
-          "count": 20
+          "count": 19
         }
       ],
-      "jobsSeen": 20,
+      "jobsSeen": 19,
       "relevantInternships": 0
     },
     {
@@ -370,10 +370,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:belvederetrading",
-          "count": 21
+          "count": 20
         }
       ],
-      "jobsSeen": 21,
+      "jobsSeen": 20,
       "relevantInternships": 3
     },
     {
@@ -432,10 +432,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:bridgewater89",
-          "count": 18
+          "count": 17
         }
       ],
-      "jobsSeen": 18,
+      "jobsSeen": 17,
       "relevantInternships": 0
     },
     {
@@ -546,10 +546,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:dvtrading",
-          "count": 73
+          "count": 69
         }
       ],
-      "jobsSeen": 73,
+      "jobsSeen": 69,
       "relevantInternships": 19
     },
     {
@@ -664,11 +664,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 46
+          "count": 47
         }
       ],
-      "jobsSeen": 46,
-      "relevantInternships": 1
+      "jobsSeen": 47,
+      "relevantInternships": 2
     },
     {
       "company": "Freestone Grove Partners",
@@ -795,14 +795,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 88
+          "count": 90
         },
         {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 88,
+      "jobsSeen": 90,
       "relevantInternships": 4
     },
     {
@@ -810,10 +810,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 172
+          "count": 174
         }
       ],
-      "jobsSeen": 172,
+      "jobsSeen": 174,
       "relevantInternships": 16
     },
     {
@@ -906,10 +906,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 53
+          "count": 54
         }
       ],
-      "jobsSeen": 53,
+      "jobsSeen": 54,
       "relevantInternships": 4
     },
     {
@@ -973,14 +973,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:oldmissioncapital",
-          "count": 39
+          "count": 38
         },
         {
           "source": "Ashby:old-mission-capital",
-          "count": 39
+          "count": 38
         }
       ],
-      "jobsSeen": 78,
+      "jobsSeen": 76,
       "relevantInternships": 4
     },
     {
@@ -988,14 +988,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 162
+          "count": 161
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 162,
+      "jobsSeen": 161,
       "relevantInternships": 20
     },
     {
@@ -1171,10 +1171,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:schonfeld",
-          "count": 68
+          "count": 67
         }
       ],
-      "jobsSeen": 68,
+      "jobsSeen": 67,
       "relevantInternships": 4
     },
     {
@@ -1379,10 +1379,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:virtu",
-          "count": 47
+          "count": 46
         }
       ],
-      "jobsSeen": 47,
+      "jobsSeen": 46,
       "relevantInternships": 11
     },
     {

@@ -1,24 +1,21 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-10-06T10:47:49.053Z
-Current scan: 2026-10-07T12:28:53.930Z
-Previous rows: 556
+Previous scan: 2026-10-07T12:28:53.930Z
+Current scan: 2026-10-07T16:19:11.358Z
+Previous rows: 558
 Current rows: 558
-New URLs confirmed in both source passes: 5
-Confirmed no longer present: 1
+New URLs confirmed in both source passes: 1
+Confirmed no longer present: 0
 
 ## New Roles By Region
 
-### North America (4)
+### North America (0)
 
-- **DV Trading** - [Database Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4741016005) - Chicago - Confirmed official posting (Career page Greenhouse:dvtrading): posted=2026-10-06T14:01:57-04:00 | career_page=https://dvtrading.co/join-dv/ | company_wrapper=https://dvtrading.co/join-dv/job?gh_jid=4741016005 | internship timing: Summer 2027; graduation eligibility mentions: 2029 | About Us : Founded 20 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America, Europe and Asia. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser. Overview: We are seeking a Database Engine...
-- **Engineers Gate** - [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8249666) - New York - Confirmed official posting (Career page Greenhouse:engineersgate): posted=2026-10-06T14:35:32-04:00 | career_page=https://job-boards.greenhouse.io/engineersgate | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8249666 | internship timing not stated in title | About EG: Engineers Gate (EG) is a leading investment manager founded in 2014 as a quantitative, computer-driven trading firm. Today, EG operates as a diversified, multi-strategy investment platform that combines systematic research with selective discretionary approaches. EG's multi-manager platform allows independent investment teams to pursue distinct strategies while benefiting from shared infrastructure, risk management, and operational support. The firm’s collaborative groups of researchers, engineers, and investment professionals deploy sophisticated statistical models, proprietary technology, and a centralized data platform to isolate and solve challenging problem sets in the g...
-- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania - Confirmed official posting (Official SIG jobs API): posted=2026-09-15T15:00:00+0000 | January 2027 Start | internship timing not stated in title | Overview Susquehanna’s co-op students directly impact day-to-day projects in our technology teams. The Susquehanna Co-op Program gives you an opportunity to apply what you learn in class to real world scenarios. We offer co-op classes at Susquehanna designed to further familiarize you with our business, the markets, and the different entities that operate under the Susquehanna umbrella. With experts in almost every discipline, we build some of the most powerful trading systems in the financial industry. By integrating sophisticated coding techniques with innovative engineering ideas, we design and optimize systems that can process massive amounts of data while still ensuring high performance and stability. We focus on the entire technology stack, always with an eye towards evolving a stable, sc...
-- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania - Confirmed official posting (Official SIG jobs API): posted=2026-09-15T15:01:00+0000 | January 2027 Start | internship timing not stated in title | Overview Susquehanna’s co-op students directly impact day-to-day projects in our technology teams. The Susquehanna Co-op Program gives you an opportunity to apply what you learn in class to real world scenarios. We offer co-op classes at Susquehanna designed to further familiarize you with our business, the markets, and the different entities that operate under the Susquehanna umbrella. With experts in almost every discipline, we build some of the most powerful trading systems in the financial industry. By integrating sophisticated coding techniques with innovative engineering ideas, we design and optimize systems that can process massive amounts of data while still ensuring high performance and stability. We focus on the entire technology stack, always with an eye towards evolving a stable, sc...
+_None._
 
 ### Europe (1)
 
-- **Squarepoint Capital** - [Intern Software Developer - Warsaw 2027](https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124) - Warsaw - Confirmed official posting (Greenhouse:squarepointcapital): posted=2026-10-06T11:19:41-04:00; internship timing not stated in title; undergrad/BS/MS language found
+- **Flow Traders** - [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920) - Amsterdam - Confirmed official posting (Career page Greenhouse:flowtraders): posted=2026-10-07T10:37:51-04:00 | career_page=https://www.flowtraders.com/careers | company_wrapper=https://www.flowtraders.com/job?gh_jid=8260920 | internship timing: Summer; graduation eligibility mentions: 2028 | Flow Traders is looking for entrepreneurial, competitive and analytical talent to join our Trading department as an Intern. What better way to find out if a career in (Quantitative) Trading is something for you, than by experiencing it yourself as a Trading Intern? You will get a 360-degree view of our role in the financial markets, how our Traders seize arbitrage opportunities, and how they work together as a team to optimize and improve their desk. The internship starts 1st of July 2027 and will last for 8 weeks. Housing will be provided! This Trading internship is about immersing yourself in financial markets and experience trading from up close. You do not need to have a...
 
 ### Asia (0)
 
@@ -50,7 +47,7 @@ _None._
 
 ## No Longer Present
 
-- **Goldman Sachs** - [2027 | Americas | Sao Paulo | Global Investment Research | Seasonal/Off Cycle Internship](https://higher.gs.com/roles/182548)
+_None._
 
 ## Missing but not confirmed closed
 
@@ -58,6 +55,7 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 
 - **AQR Capital Management** - [AQR internship program page](https://www.aqr.com/about-us/our-internship-program)
 - **Barclays** - [2027 Technology Developer Summer Internship Programme Singapore](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Singapore_JR-0000121763)
+- **Barclays** - [Quantitative Finance Associate Summer Internship Program 2027 New York](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099)
 - **Barclays** - [Sales, Trading and Structuring Summer Internship Programme 2027 Hong Kong](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117559)
 - **Barclays** - [Sales, Trading and Structuring Summer Internship Programme 2027 Singapore](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Singapore_JR-0000117562)
 - **BlackRock** - [2027 Summer Internship Program - AMERS](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544)

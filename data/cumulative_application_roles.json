@@ -1,12 +1,26 @@
 {
-  "generatedAt": "2026-10-07T12:33:49.503Z",
-  "currentScanAt": "2026-10-07T12:28:53.930Z",
-  "total": 472,
+  "generatedAt": "2026-10-07T16:24:40.456Z",
+  "currentScanAt": "2026-10-07T16:19:11.358Z",
+  "total": 473,
   "active": 369,
-  "notDetected": 103,
-  "newSincePreviousScan": 5,
+  "notDetected": 104,
+  "newSincePreviousScan": 1,
   "manuallyRecovered": 5,
   "roles": [
+    {
+      "Company": "Flow Traders",
+      "Title": "Summer Trading Internship",
+      "Location": "Amsterdam",
+      "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920",
+      "Source": "Career page Greenhouse:flowtraders",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-10-07",
+      "first_seen": "2026-10-07",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
     {
       "Company": "DV Trading",
       "Title": "Database Engineer Intern - Summer 2027",
@@ -4236,20 +4250,6 @@
       "status": "active"
     },
     {
-      "Company": "Barclays",
-      "Title": "Quantitative Finance Associate Summer Internship Program 2027 New York",
-      "Location": "New York, 745 7th Avenue",
-      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
-      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-08-14",
-      "first_seen": "2026-08-21",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "Voleon Group",
       "Title": "Software Engineer Intern - (Summer 2027)",
       "Location": "Berkeley, CA",
@@ -6385,6 +6385,20 @@
       "Source": "Official Goldman Sachs Higher API",
       "source_status": "Confirmed official posting",
       "release_date": "2026-08-15",
+      "first_seen": "2026-08-21",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "Quantitative Finance Associate Summer Internship Program 2027 New York",
+      "Location": "New York, 745 7th Avenue",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-14",
       "first_seen": "2026-08-21",
       "discovery_note": null,
       "manually_verified": false,

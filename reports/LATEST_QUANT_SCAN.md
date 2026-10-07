@@ -1,15 +1,15 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-10-07T12:28:53.930Z
+Last updated: 2026-10-07T16:19:11.358Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 515
 - Current retained roles: 558
-- New stable job URLs since previous scan: 5
-- No longer present since previous scan: 1
-- Missing without enough closure evidence: 85
+- New stable job URLs since previous scan: 1
+- No longer present since previous scan: 0
+- Missing without enough closure evidence: 86
 - Matching-role firms: 49
 - Confirmed no open postings: 4
 - Openings but no matching role: 36
@@ -17,16 +17,13 @@ Last updated: 2026-10-07T12:28:53.930Z
 
 ## New Roles Since Previous Scan
 
-### North America (4)
+### North America (0)
 
-- **DV Trading** - [Database Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4741016005) - Chicago
-- **Engineers Gate** - [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8249666) - New York
-- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+_None._
 
 ### Europe (1)
 
-- **Squarepoint Capital** - [Intern Software Developer - Warsaw 2027](https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124) - Warsaw
+- **Flow Traders** - [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920) - Amsterdam
 
 ### Asia (0)
 
@@ -58,7 +55,7 @@ _None._
 
 ## No Longer Present
 
-- **Goldman Sachs** - [2027 | Americas | Sao Paulo | Global Investment Research | Seasonal/Off Cycle Internship](https://higher.gs.com/roles/182548) - Sao Paulo, Sao Paulo, Brazil
+_None._
 
 ## Full Reports
 

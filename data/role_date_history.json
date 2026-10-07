@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T12:28:53.930Z",
+  "updatedAt": "2026-10-07T16:19:11.358Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -4595,6 +4595,12 @@
       "URL": "https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124",
       "first_seen": "2026-10-07",
       "date": "2026-10-06",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/flowtraders/jobs/8260920": {
+      "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920",
+      "first_seen": "2026-10-07",
+      "date": "2026-10-07",
       "evidence": "employer_field"
     }
   }
