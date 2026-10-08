@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07T16:24:39.771Z",
-  "scanStartedAt": "2026-10-07T16:19:11.358Z",
+  "generatedAt": "2026-10-08T09:14:52.767Z",
+  "scanStartedAt": "2026-10-08T09:09:37.295Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
     "matching-role-found": 49,
     "confirmed-no-open-postings": 4,
-    "confirmed-openings-no-matching-role": 36,
-    "could-not-fully-verify": 215
+    "confirmed-openings-no-matching-role": 35,
+    "could-not-fully-verify": 216
   },
   "companies": [
     {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 153,
+      "jobsSeen": 150,
       "relevantInternships": 0
     },
     {
@@ -285,7 +285,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 53,
+      "jobsSeen": 54,
       "relevantInternships": 9
     },
     {
@@ -764,7 +764,7 @@
       "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 194,
-      "relevantInternships": 15
+      "relevantInternships": 14
     },
     {
       "company": "ABC Arbitrage",
@@ -998,7 +998,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 215,
+      "jobsSeen": 219,
       "relevantInternships": 8
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 138,
+      "jobsSeen": 135,
       "relevantInternships": 3
     },
     {
@@ -1096,7 +1096,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 11,
+      "jobsSeen": 9,
       "relevantInternships": 2
     },
     {
@@ -1240,7 +1240,7 @@
       ],
       "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 90,
+      "jobsSeen": 88,
       "relevantInternships": 5
     },
     {
@@ -1336,7 +1336,7 @@
       "careerPages": [
         "https://deepbluecap.com/vacancies/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1434,7 +1434,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 47,
+      "jobsSeen": 48,
       "relevantInternships": 2
     },
     {
@@ -1608,7 +1608,7 @@
       "careerPages": [
         "https://davincitrading.com/job/graduate-trader/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2086,7 +2086,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 32,
+      "jobsSeen": 33,
       "relevantInternships": 1
     },
     {
@@ -2116,7 +2116,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 174,
+      "jobsSeen": 175,
       "relevantInternships": 18
     },
     {
@@ -2365,8 +2365,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 10,
-      "relevantInternships": 2
+      "jobsSeen": 11,
+      "relevantInternships": 3
     },
     {
       "company": "Premonition",
@@ -2714,7 +2714,7 @@
       "careerPages": [
         "https://www.qube-rt.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2854,13 +2854,13 @@
       "sourceRosterNames": [
         "Midpoint Markets"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://job-boards.greenhouse.io/midpointmarkets/jobs/4408679008"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3135,7 +3135,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3273,7 +3273,7 @@
       ],
       "livePages": 12,
       "attemptedPages": 12,
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantInternships": 1
     },
     {
@@ -3313,7 +3313,7 @@
       "careerPages": [
         "https://quantmatter.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3461,7 +3461,7 @@
       "careerPages": [
         "https://www.tibra.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3534,7 +3534,7 @@
       "careerPages": [
         "https://www.valkyrietrading.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3652,7 +3652,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 77,
+      "jobsSeen": 78,
       "relevantInternships": 0
     },
     {
@@ -3950,7 +3950,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 23,
+      "jobsSeen": 24,
       "relevantInternships": 2
     },
     {
@@ -4140,7 +4140,7 @@
       "careerPages": [
         "https://jobs.universalparks.com/universal-orlando-resort/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4225,7 +4225,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 95,
+      "jobsSeen": 94,
       "relevantInternships": 3
     },
     {

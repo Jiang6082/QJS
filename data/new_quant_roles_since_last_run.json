@@ -1,24 +1,114 @@
 {
-  "generatedAt": "2026-10-07T16:24:40.152Z",
-  "baselineCommit": "761b7a72a89332fc66cbef257ee89c04bf4696e6",
-  "previousScanAt": "2026-10-07T12:28:53.930Z",
-  "currentScanAt": "2026-10-07T16:19:11.358Z",
+  "generatedAt": "2026-10-08T09:14:53.352Z",
+  "baselineCommit": "2c5bcb4eb3bc7a8d1f8559c45193494c24042cee",
+  "previousScanAt": "2026-10-07T16:19:11.358Z",
+  "currentScanAt": "2026-10-08T09:09:37.295Z",
   "previousRows": 558,
-  "currentRows": 558,
+  "currentRows": 557,
   "added": [
     {
-      "Company": "Flow Traders",
-      "Title": "Summer Trading Internship",
-      "Department": "Trading",
-      "Location": "Amsterdam",
-      "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920",
-      "Source": "Career page Greenhouse:flowtraders",
+      "Company": "D. E. Shaw",
+      "Title": "Strategy and Business Development Intern - Summer 2027 (Singapore)",
+      "Department": "Strategy and Business Development",
+      "Location": "Singapore",
+      "URL": "https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005",
+      "Source": "Official D. E. Shaw internships page",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-10-07T10:37:51-04:00 | career_page=https://www.flowtraders.com/careers | company_wrapper=https://www.flowtraders.com/job?gh_jid=8260920 | internship timing: Summer; graduation eligibility mentions: 2028 | Flow Traders is looking for entrepreneurial, competitive and analytical talent to join our Trading department as an Intern. What better way to find out if a career in (Quantitative) Trading is something for you, than by experiencing it yourself as a Trading Intern? You will get a 360-degree view of our role in the financial markets, how our Traders seize arbitrage opportunities, and how they work together as a team to optimize and improve their desk. The internship starts 1st of July 2027 and will last for 8 weeks. Housing will be provided! This Trading internship is about immersing yourself in financial markets and experience trading from up close. You do not need to have a...",
-      "Region": "Europe"
+      "Notes": "career_page=https://www.deshaw.com/careers/internships | department=Strategy and Business Development | internship timing: Summer 2027 | official detail page checked | Strategy and Business Development Intern - Summer 2027 (Singapore) | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choo",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst",
+      "Department": "Asset & Wealth Management",
+      "Location": "New York, NY, United States",
+      "URL": "https://higher.gs.com/roles/155950",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-10-07 | role_id=155950 | program=Summer Analyst | division=Asset & Wealth Management",
+      "Region": "North America"
+    },
+    {
+      "Company": "PDT Partners",
+      "Title": "Summer 2027 Quantitative Research Intern",
+      "Department": "Research / Strategies",
+      "Location": "New York, NY",
+      "URL": "https://job-boards.greenhouse.io/pdtpartners/jobs/8263031",
+      "Source": "Career page Greenhouse:pdtpartners",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-10-07T16:17:28-04:00 | career_page=https://job-boards.greenhouse.io/pdtpartners?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8263031 | internship timing: Summer 2027 | Eligibility: Current PhD or Postdoc in Math, Science, Engineering and other relevant disciplines who are eligible for full-time roles starting in 2027 - 2029. Program Length: 10 Weeks (Early June – Mid August) PDT Partners, a quantitative investment manager, is hiring exceptional academics, PhD students and Postdoctoral researchers for our Quantitative Research internship program. At PDT, research is rigorous, methodical, and deeply collegial. Research is cumulative by nature; whether an inquiry yields a breakthrough or simply opens new lines of questioning, we learn, iterate, and move forward together. Research Interns will work closely with senior researchers on our trading strateg...",
+      "Region": "North America"
+    },
+    {
+      "Company": "T. Rowe Price",
+      "Title": "2027 Technology and Data Internship",
+      "Department": "",
+      "Location": "2 Locations",
+      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677",
+      "Source": "Career page Workday:troweprice/TRowePrice",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted Today | 82677",
+      "Region": "Remote / Unspecified"
     }
   ],
-  "removed": [],
+  "removed": [
+    {
+      "Company": "DRW",
+      "Title": "Software Engineer Intern (Data Engineering)",
+      "Location": "Singapore",
+      "Region": "Asia",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8127242",
+      "Source": "Career page Greenhouse:drweng",
+      "Status": "Confirmed official posting",
+      "Department": "Campus Software Engineering",
+      "Notes": "posted=2026-08-13T01:02:11-04:00 | career_page=https://www.drw.com/work-at-drw | company_wrapper=https://www.drw.com/job?gh_jid=8127242 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Software Engineer Intern (Data Engineering), you'll join the Commodities trading group to build data pipelines for the ingestion and analysis of datasets. The role entails working closely with senior data engineers and key stakeholders across both greenfield and established projects. It will be focused on building efficient and resilient data pipelines to get valuable data to our traders, with opportunities to help design and build the core data infrastructure, frameworks and services used across the group as your experience grows. While your days will have you e...",
+      "lastSeenOpenAt": "2026-10-07T16:19:11.358Z",
+      "lastSeenEvidence": "recorded_scan",
+      "detectedClosedAt": "2026-10-08T09:09:37.295Z"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2026 | Japan | Tokyo | Global Investment Research | Seasonal / Off-cycle",
+      "Department": "Global Investment Research Division",
+      "Location": "Tokyo, Japan",
+      "URL": "https://higher.gs.com/roles/161037",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-09-18 | role_id=161037 | program=Seasonal | division=Global Investment Research Division",
+      "Region": "Asia",
+      "lastSeenOpenAt": "2026-10-07T16:19:11.358Z",
+      "lastSeenEvidence": "recorded_scan",
+      "detectedClosedAt": "2026-10-08T09:09:37.295Z"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | APEJ | Hong Kong | Risk, Credit Risk | Summer Analyst",
+      "Department": "Risk Division",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://higher.gs.com/roles/170824",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-09-21 | role_id=170824 | program=Summer Analyst | division=Risk Division",
+      "Region": "Asia",
+      "lastSeenOpenAt": "2026-10-07T16:19:11.358Z",
+      "lastSeenEvidence": "recorded_scan",
+      "detectedClosedAt": "2026-10-08T09:09:37.295Z"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | APEJ | Hong Kong | Risk, Market Risk | Summer Analyst",
+      "Department": "Risk Division",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://higher.gs.com/roles/170823",
+      "Source": "Official Goldman Sachs Higher API",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-09-21 | role_id=170823 | program=Summer Analyst | division=Risk Division",
+      "Region": "Asia",
+      "lastSeenOpenAt": "2026-10-07T16:19:11.358Z",
+      "lastSeenEvidence": "recorded_scan",
+      "detectedClosedAt": "2026-10-08T09:09:37.295Z"
+    }
+  ],
   "pending": [
     {
       "Company": "AQR Capital Management",
@@ -819,18 +909,6 @@
       "lastSeenOpenAt": "2026-10-05T00:03:32.399Z"
     },
     {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Technology and Data Internship",
-      "Department": "",
-      "Location": "2 Locations",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677",
-      "Source": "Career page Workday:troweprice/TRowePrice",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Associate-Analyst---T-Rowe-Price-Associates_68533 | Posted 3 Days Ago | 82677",
-      "Region": "Remote / Unspecified",
-      "lastSeenOpenAt": "2026-10-01T15:51:41.606Z"
-    },
-    {
       "Company": "Wellington Management",
       "Title": "Portfolio Reference Data Analyst Co-op",
       "Department": "",
@@ -961,6 +1039,18 @@
       "Notes": "career_page=https://www.wellington.com/en/about-us/careers | Posted 13 Days Ago | R94778",
       "Region": "North America",
       "lastSeenOpenAt": "2026-10-06T10:47:49.053Z"
+    },
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
+      "Department": "",
+      "Location": "Toronto, ON, CAN",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://bmo.wd3.myworkdayjobs.com/External | Posted 13 Days Ago | R260027622",
+      "Region": "North America",
+      "lastSeenOpenAt": "2026-10-07T16:19:11.358Z"
     }
   ]
 }

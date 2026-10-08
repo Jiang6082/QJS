@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T16:19:11.358Z",
+  "updatedAt": "2026-10-08T09:09:37.295Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -4600,6 +4600,24 @@
     "https://job-boards.greenhouse.io/flowtraders/jobs/8260920": {
       "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920",
       "first_seen": "2026-10-07",
+      "date": "2026-10-07",
+      "evidence": "employer_field"
+    },
+    "https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005": {
+      "URL": "https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005",
+      "first_seen": "2026-10-08",
+      "date": null,
+      "evidence": null
+    },
+    "https://higher.gs.com/roles/155950": {
+      "URL": "https://higher.gs.com/roles/155950",
+      "first_seen": "2026-10-08",
+      "date": "2026-10-07",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/pdtpartners/jobs/8263031": {
+      "URL": "https://job-boards.greenhouse.io/pdtpartners/jobs/8263031",
+      "first_seen": "2026-10-08",
       "date": "2026-10-07",
       "evidence": "employer_field"
     }

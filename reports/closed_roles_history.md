@@ -1,9 +1,16 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 142
-Last updated: 2026-10-07T16:19:11.358Z
+Total closure events recorded: 146
+Last updated: 2026-10-08T09:09:37.295Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-08 (4)
+
+- **DRW** - [Software Engineer Intern (Data Engineering)](https://job-boards.greenhouse.io/drweng/jobs/8127242) - Singapore
+- **Goldman Sachs** - [2026 | Japan | Tokyo | Global Investment Research | Seasonal / Off-cycle](https://higher.gs.com/roles/161037) - Tokyo, Japan
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Risk, Credit Risk | Summer Analyst](https://higher.gs.com/roles/170824) - Hong Kong, Hong Kong
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Risk, Market Risk | Summer Analyst](https://higher.gs.com/roles/170823) - Hong Kong, Hong Kong
 
 ### 2026-10-07 (1)
 

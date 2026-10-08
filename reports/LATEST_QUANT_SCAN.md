@@ -1,33 +1,34 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-10-07T16:19:11.358Z
+Last updated: 2026-10-08T09:09:37.295Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 515
-- Current retained roles: 558
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 0
+- Current retained roles: 557
+- New stable job URLs since previous scan: 4
+- No longer present since previous scan: 4
 - Missing without enough closure evidence: 86
 - Matching-role firms: 49
 - Confirmed no open postings: 4
-- Openings but no matching role: 36
-- Could not fully verify: 215
+- Openings but no matching role: 35
+- Could not fully verify: 216
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (2)
+
+- **Goldman Sachs** - [2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst](https://higher.gs.com/roles/155950) - New York, NY, United States
+- **PDT Partners** - [Summer 2027 Quantitative Research Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) - New York, NY
+
+### Europe (0)
 
 _None._
 
-### Europe (1)
+### Asia (1)
 
-- **Flow Traders** - [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920) - Amsterdam
-
-### Asia (0)
-
-_None._
+- **D. E. Shaw** - [Strategy and Business Development Intern - Summer 2027 (Singapore)](https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005) - Singapore
 
 ### Oceania (0)
 
@@ -49,13 +50,16 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) - 2 Locations
 
 ## No Longer Present
 
-_None._
+- **DRW** - [Software Engineer Intern (Data Engineering)](https://job-boards.greenhouse.io/drweng/jobs/8127242) - Singapore
+- **Goldman Sachs** - [2026 | Japan | Tokyo | Global Investment Research | Seasonal / Off-cycle](https://higher.gs.com/roles/161037) - Tokyo, Japan
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Risk, Credit Risk | Summer Analyst](https://higher.gs.com/roles/170824) - Hong Kong, Hong Kong
+- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Risk, Market Risk | Summer Analyst](https://higher.gs.com/roles/170823) - Hong Kong, Hong Kong
 
 ## Full Reports
 

@@ -1,12 +1,26 @@
 {
-  "generatedAt": "2026-10-07T16:24:40.456Z",
-  "currentScanAt": "2026-10-07T16:19:11.358Z",
-  "total": 473,
-  "active": 369,
-  "notDetected": 104,
-  "newSincePreviousScan": 1,
+  "generatedAt": "2026-10-08T09:14:53.710Z",
+  "currentScanAt": "2026-10-08T09:09:37.295Z",
+  "total": 476,
+  "active": 368,
+  "notDetected": 108,
+  "newSincePreviousScan": 4,
   "manuallyRecovered": 5,
   "roles": [
+    {
+      "Company": "D. E. Shaw",
+      "Title": "Strategy and Business Development Intern - Summer 2027 (Singapore)",
+      "Location": "Singapore",
+      "URL": "https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005",
+      "Source": "Official D. E. Shaw internships page",
+      "source_status": "Confirmed official posting",
+      "release_date": null,
+      "first_seen": "2026-10-08",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
     {
       "Company": "Flow Traders",
       "Title": "Summer Trading Internship",
@@ -16,6 +30,34 @@
       "source_status": "Confirmed official posting",
       "release_date": "2026-10-07",
       "first_seen": "2026-10-07",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst",
+      "Location": "New York, NY, United States",
+      "URL": "https://higher.gs.com/roles/155950",
+      "Source": "Official Goldman Sachs Higher API",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-10-07",
+      "first_seen": "2026-10-08",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "PDT Partners",
+      "Title": "Summer 2027 Quantitative Research Intern",
+      "Location": "New York, NY",
+      "URL": "https://job-boards.greenhouse.io/pdtpartners/jobs/8263031",
+      "Source": "Career page Greenhouse:pdtpartners",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-10-07",
+      "first_seen": "2026-10-08",
       "discovery_note": null,
       "manually_verified": false,
       "verifiedAt": null,
@@ -470,20 +512,6 @@
       "status": "active"
     },
     {
-      "Company": "BMO Capital Markets",
-      "Title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
-      "Location": "Toronto, ON, CAN",
-      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1",
-      "Source": "Career page Workday:bmo/External",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-24",
-      "first_seen": "2026-09-25",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "Brevan Howard",
       "Title": "2027 Summer Internship Program – Systematic Trading, London",
       "Location": "London",
@@ -848,34 +876,6 @@
       "status": "active"
     },
     {
-      "Company": "Goldman Sachs",
-      "Title": "2027 | APEJ | Hong Kong | Risk, Credit Risk | Summer Analyst",
-      "Location": "Hong Kong, Hong Kong",
-      "URL": "https://higher.gs.com/roles/170824",
-      "Source": "Official Goldman Sachs Higher API",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-21",
-      "first_seen": "2026-09-13",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "Goldman Sachs",
-      "Title": "2027 | APEJ | Hong Kong | Risk, Market Risk | Summer Analyst",
-      "Location": "Hong Kong, Hong Kong",
-      "URL": "https://higher.gs.com/roles/170823",
-      "Source": "Official Goldman Sachs Higher API",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-21",
-      "first_seen": "2026-09-13",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "Viking Global Investors",
       "Title": "Data Science Intern",
       "Location": "New York, NY",
@@ -947,20 +947,6 @@
     },
     {
       "Company": "Goldman Sachs",
-      "Title": "2026 | Japan | Tokyo | Global Investment Research | Seasonal / Off-cycle",
-      "Location": "Tokyo, Japan",
-      "URL": "https://higher.gs.com/roles/161037",
-      "Source": "Official Goldman Sachs Higher API",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-18",
-      "first_seen": "2026-09-13",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "Goldman Sachs",
       "Title": "2027 | APEJ | Hong Kong | Global Investment Research, Macro Research, Economics | Seasonal / Off-cycle Internship",
       "Location": "Hong Kong, Hong Kong",
       "URL": "https://higher.gs.com/roles/180086",
@@ -1017,7 +1003,7 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Cybersecurity Engineer - Security Operations Center (SOC)",
+      "Title": "Cybersecurity Engineer",
       "Location": "Hong Kong",
       "URL": "https://www.janestreet.com/join-jane-street/position/8810604002/",
       "Source": "Official Jane Street jobs feed",
@@ -3117,7 +3103,7 @@
     },
     {
       "Company": "Jane Street",
-      "Title": "Cybersecurity Engineer - Security Operations Center (SOC)",
+      "Title": "Cybersecurity Engineer",
       "Location": "New York",
       "URL": "https://www.janestreet.com/join-jane-street/position/8632723002/",
       "Source": "Official Jane Street jobs feed",
@@ -3378,7 +3364,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-10-08",
       "status": "active"
     },
     {
@@ -4264,20 +4250,6 @@
       "status": "active"
     },
     {
-      "Company": "DRW",
-      "Title": "Software Engineer Intern (Data Engineering)",
-      "Location": "Singapore",
-      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8127242",
-      "Source": "Career page Greenhouse:drweng",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-08-13",
-      "first_seen": "2026-08-21",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "Jane Street",
       "Title": "Trading Desk Operations Engineer",
       "Location": "London",
@@ -5104,6 +5076,20 @@
       "status": "active"
     },
     {
+      "Company": "T. Rowe Price",
+      "Title": "2027 Technology and Data Internship",
+      "Location": "2 Locations",
+      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677",
+      "Source": "Career page Workday:troweprice/TRowePrice",
+      "source_status": "Confirmed official posting",
+      "release_date": null,
+      "first_seen": "2026-07-23",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
       "Company": "Walleye Capital",
       "Title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
       "Location": "Miami, FL",
@@ -5128,7 +5114,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-10-08",
       "status": "active"
     },
     {
@@ -5142,7 +5128,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-10-08",
       "status": "active"
     },
     {
@@ -5156,7 +5142,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-10-08",
       "status": "active"
     },
     {
@@ -5170,7 +5156,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-10-08",
       "status": "active"
     },
     {
@@ -5237,6 +5223,20 @@
       "Source": "Career page SmartRecruiters:RRSGroup",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-25",
+      "first_seen": "2026-09-25",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "AI Engineer, Winter 2027 (Co-op/Internship) - 8 months",
+      "Location": "Toronto, ON, CAN",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1",
+      "Source": "Career page Workday:bmo/External",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-24",
       "first_seen": "2026-09-25",
       "discovery_note": null,
       "manually_verified": false,
@@ -5412,6 +5412,34 @@
       "status": "not_detected"
     },
     {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | APEJ | Hong Kong | Risk, Credit Risk | Summer Analyst",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://higher.gs.com/roles/170824",
+      "Source": "Official Goldman Sachs Higher API",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-21",
+      "first_seen": "2026-09-13",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | APEJ | Hong Kong | Risk, Market Risk | Summer Analyst",
+      "Location": "Hong Kong, Hong Kong",
+      "URL": "https://higher.gs.com/roles/170823",
+      "Source": "Official Goldman Sachs Higher API",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-21",
+      "first_seen": "2026-09-13",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
       "Company": "Optiver",
       "Title": "High Performance Computing (HPC) Intern (Summer 2027 - Chicago)",
       "Location": "Chicago, Illinois, United States",
@@ -5476,6 +5504,20 @@
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-18",
       "first_seen": "2026-09-20",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2026 | Japan | Tokyo | Global Investment Research | Seasonal / Off-cycle",
+      "Location": "Tokyo, Japan",
+      "URL": "https://higher.gs.com/roles/161037",
+      "Source": "Official Goldman Sachs Higher API",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-18",
+      "first_seen": "2026-09-13",
       "discovery_note": null,
       "manually_verified": false,
       "verifiedAt": null,
@@ -6462,6 +6504,20 @@
       "status": "not_detected"
     },
     {
+      "Company": "DRW",
+      "Title": "Software Engineer Intern (Data Engineering)",
+      "Location": "Singapore",
+      "URL": "https://job-boards.greenhouse.io/drweng/jobs/8127242",
+      "Source": "Career page Greenhouse:drweng",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-13",
+      "first_seen": "2026-08-21",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
       "Company": "Invesco",
       "Title": "Early Career Intern - Investments (Risk)",
       "Location": "New York, New York",
@@ -6607,20 +6663,6 @@
       "Location": "New York",
       "URL": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
       "Source": "Career page Greenhouse:flowtraders",
-      "source_status": "Confirmed official posting",
-      "release_date": null,
-      "first_seen": "2026-07-23",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "not_detected"
-    },
-    {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Technology and Data Internship",
-      "Location": "2 Locations",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677",
-      "Source": "Career page Workday:troweprice/TRowePrice",
       "source_status": "Confirmed official posting",
       "release_date": null,
       "first_seen": "2026-07-23",
