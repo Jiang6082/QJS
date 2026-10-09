@@ -1,26 +1,27 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-10-07T16:19:11.358Z
-Current scan: 2026-10-08T09:09:37.295Z
-Previous rows: 558
-Current rows: 557
-New URLs confirmed in both source passes: 4
-Confirmed no longer present: 4
+Previous scan: 2026-10-08T09:09:37.295Z
+Current scan: 2026-10-09T11:23:45.619Z
+Previous rows: 557
+Current rows: 552
+New URLs confirmed in both source passes: 5
+Confirmed no longer present: 7
 
 ## New Roles By Region
 
 ### North America (2)
 
-- **Goldman Sachs** - [2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst](https://higher.gs.com/roles/155950) - New York, NY, United States - Confirmed official posting (Official Goldman Sachs Higher API): posted=2026-10-07 | role_id=155950 | program=Summer Analyst | division=Asset & Wealth Management
-- **PDT Partners** - [Summer 2027 Quantitative Research Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) - New York, NY - Confirmed official posting (Career page Greenhouse:pdtpartners): posted=2026-10-07T16:17:28-04:00 | career_page=https://job-boards.greenhouse.io/pdtpartners?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8263031 | internship timing: Summer 2027 | Eligibility: Current PhD or Postdoc in Math, Science, Engineering and other relevant disciplines who are eligible for full-time roles starting in 2027 - 2029. Program Length: 10 Weeks (Early June – Mid August) PDT Partners, a quantitative investment manager, is hiring exceptional academics, PhD students and Postdoctoral researchers for our Quantitative Research internship program. At PDT, research is rigorous, methodical, and deeply collegial. Research is cumulative by nature; whether an inquiry yields a breakthrough or simply opens new lines of questioning, we learn, iterate, and move forward together. Research Interns will work closely with senior researchers on our trading strateg...
+- **IMC Financial Markets** - [Machine Learning Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) - New York, United States - Confirmed official posting (Greenhouse:imc): posted=2026-10-08T12:43:20-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found
+- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) - New York, New York, United States - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-09-04T12:41:51-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8171703 | internship timing not stated in title | The Role We are excited to offer an opportunity for a talented individual to join the internship program at Schonfeld. You’ll spend ten weeks with Schonfeld’s Business Analytics team where you will be immersed in our culture, working alongside talented professionals contributing to high profile projects as a Data Analyst. What You’ll Do The Business Analytics team at Schonfeld focuses on the discovery, interpretation, and communication of meaningful patterns in data to drive better decision making and problem solving. The team is responsible for data acquisition and processing using technology to solve business problems from stakeholders across the business such as risk, trading...
 
-### Europe (0)
+### Europe (2)
 
-_None._
+- **Fidelity Investments** - [Fidelity Strategic Advisors Inc, Investment Trading Research Internship](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Intern_2136759-1) - Dublin, Ireland - Confirmed official posting (Career page Workday:fmr/fidelitycareers): career_page=https://fmr.wd1.myworkdayjobs.com/fidelitycareers/ | Posted Yesterday | 2136759
+- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026) - London - Confirmed official posting (Greenhouse:jumptrading): posted=2026-07-13T08:37:21-04:00; internship timing not stated in title; undergrad/BS/MS language found
 
 ### Asia (1)
 
-- **D. E. Shaw** - [Strategy and Business Development Intern - Summer 2027 (Singapore)](https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005) - Singapore - Confirmed official posting (Official D. E. Shaw internships page): career_page=https://www.deshaw.com/careers/internships | department=Strategy and Business Development | internship timing: Summer 2027 | official detail page checked | Strategy and Business Development Intern - Summer 2027 (Singapore) | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choo
+- **Susquehanna International Group** - [Machine Learning Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11620?lang=en-us) - Hong Kong, Hong Kong - Confirmed official posting (Official SIG jobs API): posted=2026-10-08T23:13:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Our Machine Learning Engineering Internship is a 10-week immersive experience designed for students who are passionate about building the systems at the intersection of machine learning, large-scale data, and markets. As a Machine Learning Engineering Intern, you'll work on high-impact projects that closely reflect the challenges and workflows of our full-time engineering team. You'll apply your software engineering skills to real machine learning systems while developing a deep understanding of how machine learning integrates into Susquehanna's research and trading systems. A model is useful only if it can be trained quickly, fed reliably, and run fast enough to act on - our engineers own the systems that make that true, and we scope intern projects the sa...
 
 ### Oceania (0)
 
@@ -42,16 +43,19 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) - 2 Locations - Confirmed official posting (Career page Workday:troweprice/TRowePrice): career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted Today | 82677
+_None._
 
 ## No Longer Present
 
-- **DRW** - [Software Engineer Intern (Data Engineering)](https://job-boards.greenhouse.io/drweng/jobs/8127242)
-- **Goldman Sachs** - [2026 | Japan | Tokyo | Global Investment Research | Seasonal / Off-cycle](https://higher.gs.com/roles/161037)
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Risk, Credit Risk | Summer Analyst](https://higher.gs.com/roles/170824)
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Risk, Market Risk | Summer Analyst](https://higher.gs.com/roles/170823)
+- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002)
+- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002)
+- **Susquehanna International Group** - [FPGA Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11446?lang=en-us)
+- **Goldman Sachs** - [2027 | APEJ | Mumbai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/183942)
+- **Goldman Sachs** - [2027 | APEJ | Shanghai | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/170827)
+- **DRW** - [Software Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754)
+- **Flow Traders** - [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920)
 
 ## Missing but not confirmed closed
 
@@ -124,6 +128,7 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Barclays** - [2027 Risk Analyst Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Risk-Analyst-Summer-Internship-Programme-London_JR-0000129108)
 - **Barclays** - [2027 Technology Developer Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397)
 - **BP** - [Summer Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2)
+- **Northern Trust Asset Management** - [Risk and Compliance Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Risk-and-Compliance-Intern_R160771-1)
 - **Vanguard** - [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1)
 - **BMO Capital Markets** - [Portfolio Assistant, Winter 2027 (Co-op/Internship), Montreal - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Portfolio-Assistant--Winter-2027--Co-op-Internship---Montreal---4-months_R260025949-2)
 - **BMO Capital Markets** - [R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726)
@@ -131,6 +136,7 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **PIMCO** - [2027 Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805)
 - **Brevan Howard** - [2027 Summer Internship Program – Trading, Geneva](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607)
 - **Morningstar** - [Morningstar Internship Program- Quantitative Research Intern 2027 (Campus)](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027--Campus-_REQ-058465)
+- **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677)
 - **Wellington Management** - [Portfolio Reference Data Analyst Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829)
 - **Wellington Management** - [Quantitative Trading Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1)
 - **Wellington Management** - [Supervisory Practices & Analytics Co-Op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Supervisory-Practices---Analytics-Co-Op_R94873-1)
@@ -143,3 +149,4 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **PGIM** - [2027 Technology, Internship Program](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Newark-NJ-USA/XMLNAME-2027-Technology--Internship-Program_R-124923-1)
 - **Wellington Management** - [Technology Undergraduate Summer Internship](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778-1)
 - **BMO Capital Markets** - [AI Engineer, Winter 2027 (Co-op/Internship) - 8 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1)
+- **Northern Trust Asset Management** - [Data & Analytics Office Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1)

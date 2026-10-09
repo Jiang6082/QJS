@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T09:09:37.295Z",
+  "updatedAt": "2026-10-09T11:23:45.619Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -4619,6 +4619,24 @@
       "URL": "https://job-boards.greenhouse.io/pdtpartners/jobs/8263031",
       "first_seen": "2026-10-08",
       "date": "2026-10-07",
+      "evidence": "employer_field"
+    },
+    "fmr|2136759|fidelity strategic advisors inc, investment trading research internship": {
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Intern_2136759-1",
+      "first_seen": "2026-10-09",
+      "date": "2026-10-08",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101",
+      "first_seen": "2026-10-09",
+      "date": "2026-10-08",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11620?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11620?lang=en-us",
+      "first_seen": "2026-10-09",
+      "date": "2026-10-08",
       "evidence": "employer_field"
     }
   }

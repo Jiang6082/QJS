@@ -1,15 +1,15 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-10-08T09:09:37.295Z
+Last updated: 2026-10-09T11:23:45.619Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 515
-- Current retained roles: 557
-- New stable job URLs since previous scan: 4
-- No longer present since previous scan: 4
-- Missing without enough closure evidence: 86
+- Current retained roles: 552
+- New stable job URLs since previous scan: 5
+- No longer present since previous scan: 7
+- Missing without enough closure evidence: 89
 - Matching-role firms: 49
 - Confirmed no open postings: 4
 - Openings but no matching role: 35
@@ -19,16 +19,17 @@ Last updated: 2026-10-08T09:09:37.295Z
 
 ### North America (2)
 
-- **Goldman Sachs** - [2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst](https://higher.gs.com/roles/155950) - New York, NY, United States
-- **PDT Partners** - [Summer 2027 Quantitative Research Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) - New York, NY
+- **IMC Financial Markets** - [Machine Learning Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) - New York, United States
+- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) - New York, New York, United States
 
-### Europe (0)
+### Europe (2)
 
-_None._
+- **Fidelity Investments** - [Fidelity Strategic Advisors Inc, Investment Trading Research Internship](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Intern_2136759-1) - Dublin, Ireland
+- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026) - London
 
 ### Asia (1)
 
-- **D. E. Shaw** - [Strategy and Business Development Intern - Summer 2027 (Singapore)](https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005) - Singapore
+- **Susquehanna International Group** - [Machine Learning Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11620?lang=en-us) - Hong Kong, Hong Kong
 
 ### Oceania (0)
 
@@ -50,16 +51,19 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) - 2 Locations
+_None._
 
 ## No Longer Present
 
-- **DRW** - [Software Engineer Intern (Data Engineering)](https://job-boards.greenhouse.io/drweng/jobs/8127242) - Singapore
-- **Goldman Sachs** - [2026 | Japan | Tokyo | Global Investment Research | Seasonal / Off-cycle](https://higher.gs.com/roles/161037) - Tokyo, Japan
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Risk, Credit Risk | Summer Analyst](https://higher.gs.com/roles/170824) - Hong Kong, Hong Kong
-- **Goldman Sachs** - [2027 | APEJ | Hong Kong | Risk, Market Risk | Summer Analyst](https://higher.gs.com/roles/170823) - Hong Kong, Hong Kong
+- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) - Austin, Texas, United States
+- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) - Chicago, Illinois, United States
+- **Susquehanna International Group** - [FPGA Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11446?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Goldman Sachs** - [2027 | APEJ | Mumbai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/183942) - Mumbai, Maharashtra, India
+- **Goldman Sachs** - [2027 | APEJ | Shanghai | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/170827) - Shanghai, Shanghai, China
+- **DRW** - [Software Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) - Singapore
+- **Flow Traders** - [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920) - Amsterdam
 
 ## Full Reports
 

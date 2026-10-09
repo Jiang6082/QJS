@@ -1,9 +1,19 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 146
-Last updated: 2026-10-08T09:09:37.295Z
+Total closure events recorded: 153
+Last updated: 2026-10-09T11:23:45.619Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-09 (7)
+
+- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) - Austin, Texas, United States
+- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) - Chicago, Illinois, United States
+- **Susquehanna International Group** - [FPGA Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11446?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Goldman Sachs** - [2027 | APEJ | Mumbai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/183942) - Mumbai, Maharashtra, India
+- **Goldman Sachs** - [2027 | APEJ | Shanghai | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/170827) - Shanghai, Shanghai, China
+- **DRW** - [Software Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) - Singapore
+- **Flow Traders** - [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920) - Amsterdam
 
 ### 2026-10-08 (4)
 
@@ -18,7 +28,7 @@ Closures require two independent successful observations of absence from the rol
 
 ### 2026-10-06 (3)
 
-- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026) - London
+- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026) - London — _reopened 2026-10-09_
 - **Schonfeld** - [2027 Risk Analyst (DMFI) Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172053) - London, England, United Kingdom
 - **Optiver** - [High Performance Computing (HPC) Intern (Summer 2027 - Chicago)](https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002) - Chicago, Illinois, United States
 
@@ -47,7 +57,7 @@ Closures require two independent successful observations of absence from the rol
 - **AQR Capital Management** - [2027 Portfolio Solutions Group Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362) - Greenwich, CT
 - **DRW** - [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8038923) - Chicago
 - **Schonfeld** - [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) - Hong Kong, Hong Kong
-- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) - New York, New York, United States
+- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) - New York, New York, United States — _reopened 2026-10-09_
 - **Schonfeld** - [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) - New York, New York, United States
 - **Schonfeld** - [2027 DMFI Technology Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171772) - New York, New York, United States
 - **Schonfeld** - [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8180089) - New York, New York, United States
