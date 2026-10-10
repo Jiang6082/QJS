@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-09T11:29:49.178Z",
-  "scanStartedAt": "2026-10-09T11:23:45.619Z",
+  "generatedAt": "2026-10-10T12:11:52.238Z",
+  "scanStartedAt": "2026-10-10T12:07:43.793Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 155,
+      "jobsSeen": 153,
       "relevantInternships": 0
     },
     {
@@ -353,7 +353,7 @@
       "careerPages": [
         "http://www.armadausa.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -763,7 +763,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 186,
+      "jobsSeen": 188,
       "relevantInternships": 13
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 140,
+      "jobsSeen": 137,
       "relevantInternships": 3
     },
     {
@@ -1284,7 +1284,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 232,
+      "jobsSeen": 231,
       "relevantInternships": 0
     },
     {
@@ -2086,7 +2086,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantInternships": 1
     },
     {
@@ -2236,7 +2236,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 43,
+      "jobsSeen": 44,
       "relevantInternships": 5
     },
     {
@@ -2475,8 +2475,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 66,
-      "relevantInternships": 9
+      "jobsSeen": 69,
+      "relevantInternships": 11
     },
     {
       "company": "Silver Valley Management",
@@ -2664,7 +2664,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantInternships": 2
     },
     {
@@ -3313,7 +3313,7 @@
       "careerPages": [
         "https://quantmatter.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3550,7 +3550,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantInternships": 1
     },
     {
@@ -3652,7 +3652,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 85,
+      "jobsSeen": 83,
       "relevantInternships": 0
     },
     {
@@ -3823,7 +3823,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {
@@ -3874,7 +3874,7 @@
         "https://www.teza.com/careers/",
         "https://jobs.ashbyhq.com/teza-technologies"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 10,
       "relevantInternships": 0
@@ -3934,7 +3934,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 46,
+      "jobsSeen": 47,
       "relevantInternships": 13
     },
     {
@@ -3950,7 +3950,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 25,
+      "jobsSeen": 27,
       "relevantInternships": 2
     },
     {
@@ -4183,7 +4183,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 11,
+      "jobsSeen": 10,
       "relevantInternships": 3
     },
     {
@@ -4256,7 +4256,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 90,
+      "jobsSeen": 91,
       "relevantInternships": 0
     },
     {

@@ -1,27 +1,26 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-10-08T09:09:37.295Z
-Current scan: 2026-10-09T11:23:45.619Z
-Previous rows: 557
+Previous scan: 2026-10-09T11:23:45.619Z
+Current scan: 2026-10-10T12:07:43.793Z
+Previous rows: 552
 Current rows: 552
-New URLs confirmed in both source passes: 5
-Confirmed no longer present: 7
+New URLs confirmed in both source passes: 2
+Confirmed no longer present: 1
 
 ## New Roles By Region
 
 ### North America (2)
 
-- **IMC Financial Markets** - [Machine Learning Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) - New York, United States - Confirmed official posting (Greenhouse:imc): posted=2026-10-08T12:43:20-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found
-- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) - New York, New York, United States - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-09-04T12:41:51-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8171703 | internship timing not stated in title | The Role We are excited to offer an opportunity for a talented individual to join the internship program at Schonfeld. You’ll spend ten weeks with Schonfeld’s Business Analytics team where you will be immersed in our culture, working alongside talented professionals contributing to high profile projects as a Data Analyst. What You’ll Do The Business Analytics team at Schonfeld focuses on the discovery, interpretation, and communication of meaningful patterns in data to drive better decision making and problem solving. The team is responsible for data acquisition and processing using technology to solve business problems from stakeholders across the business such as risk, trading...
+- **Schonfeld** - [2027 Quantitative Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267092) - Austin, Texas, United States - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-10-09T09:57:10-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8267092 | internship timing not stated in title | The Role We are seeking exceptional interns to join our Quantitative Research team in the Austin metro area. As an intern, you will work with other researchers and developers on various research projects, including the design of novel predictive signals and the enhancement of our algorithms for prediction, trade execution, portfolio construction, and risk management. You will have an opportunity to meaningfully contribute to multiple areas of our quantitative trading business. What You’ll Do As a Quantitative Developer Intern, you will help develop and improve the software used in our quantitative research. You will gain insight into building scalable software, using parallel co...
+- **Schonfeld** - [2027 Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267120) - Austin, Texas, United States - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-10-09T09:58:43-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8267120 | internship timing not stated in title | The Role We are seeking exceptional interns to join our Quantitative Research team in the Austin metro area. As an intern, you will work with other researchers and developers on various research projects, including the design of novel predictive signals and the enhancement of our algorithms for prediction, trade execution, portfolio construction, and risk management. You will have an opportunity to meaningfully contribute to multiple areas of our quantitative trading business. What You’ll Do As a Quantitative Researcher Intern, you will contribute to our research into predictive trading signals. You will learn how quantitative methods are used to develop and evaluate trading sig...
 
-### Europe (2)
+### Europe (0)
 
-- **Fidelity Investments** - [Fidelity Strategic Advisors Inc, Investment Trading Research Internship](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Intern_2136759-1) - Dublin, Ireland - Confirmed official posting (Career page Workday:fmr/fidelitycareers): career_page=https://fmr.wd1.myworkdayjobs.com/fidelitycareers/ | Posted Yesterday | 2136759
-- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026) - London - Confirmed official posting (Greenhouse:jumptrading): posted=2026-07-13T08:37:21-04:00; internship timing not stated in title; undergrad/BS/MS language found
+_None._
 
-### Asia (1)
+### Asia (0)
 
-- **Susquehanna International Group** - [Machine Learning Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11620?lang=en-us) - Hong Kong, Hong Kong - Confirmed official posting (Official SIG jobs API): posted=2026-10-08T23:13:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview Our Machine Learning Engineering Internship is a 10-week immersive experience designed for students who are passionate about building the systems at the intersection of machine learning, large-scale data, and markets. As a Machine Learning Engineering Intern, you'll work on high-impact projects that closely reflect the challenges and workflows of our full-time engineering team. You'll apply your software engineering skills to real machine learning systems while developing a deep understanding of how machine learning integrates into Susquehanna's research and trading systems. A model is useful only if it can be trained quickly, fed reliably, and run fast enough to act on - our engineers own the systems that make that true, and we scope intern projects the sa...
+_None._
 
 ### Oceania (0)
 
@@ -49,13 +48,7 @@ _None._
 
 ## No Longer Present
 
-- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002)
-- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002)
-- **Susquehanna International Group** - [FPGA Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11446?lang=en-us)
-- **Goldman Sachs** - [2027 | APEJ | Mumbai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/183942)
-- **Goldman Sachs** - [2027 | APEJ | Shanghai | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/170827)
-- **DRW** - [Software Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754)
-- **Flow Traders** - [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920)
+- **Jane Street** - [Software Engineer](https://www.janestreet.com/join-jane-street/position/8419303002/)
 
 ## Missing but not confirmed closed
 
@@ -118,6 +111,7 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Invesco** - [Early Career Intern - Strategy and Transformation](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Strategy-and-Transformation_R-15374-1)
 - **Northern Trust Asset Management** - [Technology Intern – Data Science and Analytics](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1)
 - **Northern Trust Asset Management** - [Technology Intern – Information Security](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1)
+- **Northern Trust Asset Management** - [Technology Intern – Infrastructure and IT Management](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1)
 - **Northern Trust Asset Management** - [Technology Intern – Software Engineering](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1)
 - **PGIM** - [Prudential: 2027 Corporate, Risk Management Internship Program](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796)
 - **PIMCO** - [2027 MBA Summer Intern – Strategist, Product Strategy Group, APAC](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Singapore/XMLNAME-2027-MBA-Summer-Intern---Strategist--Product-Strategy-Group--APAC_R106820)

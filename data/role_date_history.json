@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T11:23:45.619Z",
+  "updatedAt": "2026-10-10T12:07:43.793Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -4637,6 +4637,18 @@
       "URL": "https://careers.sig.com/jobs/11620?lang=en-us",
       "first_seen": "2026-10-09",
       "date": "2026-10-08",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8267092": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092",
+      "first_seen": "2026-10-10",
+      "date": "2026-10-09",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8267120": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120",
+      "first_seen": "2026-10-10",
+      "date": "2026-10-09",
       "evidence": "employer_field"
     }
   }

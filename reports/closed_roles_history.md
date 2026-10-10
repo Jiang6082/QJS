@@ -1,9 +1,13 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 153
-Last updated: 2026-10-09T11:23:45.619Z
+Total closure events recorded: 154
+Last updated: 2026-10-10T12:07:43.793Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-10 (1)
+
+- **Jane Street** - [Software Engineer](https://www.janestreet.com/join-jane-street/position/8419303002/) - New York
 
 ### 2026-10-09 (7)
 

@@ -1,15 +1,15 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-10-09T11:23:45.619Z
+Last updated: 2026-10-10T12:07:43.793Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 515
 - Current retained roles: 552
-- New stable job URLs since previous scan: 5
-- No longer present since previous scan: 7
-- Missing without enough closure evidence: 89
+- New stable job URLs since previous scan: 2
+- No longer present since previous scan: 1
+- Missing without enough closure evidence: 90
 - Matching-role firms: 49
 - Confirmed no open postings: 4
 - Openings but no matching role: 35
@@ -19,17 +19,16 @@ Last updated: 2026-10-09T11:23:45.619Z
 
 ### North America (2)
 
-- **IMC Financial Markets** - [Machine Learning Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) - New York, United States
-- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) - New York, New York, United States
+- **Schonfeld** - [2027 Quantitative Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267092) - Austin, Texas, United States
+- **Schonfeld** - [2027 Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267120) - Austin, Texas, United States
 
-### Europe (2)
+### Europe (0)
 
-- **Fidelity Investments** - [Fidelity Strategic Advisors Inc, Investment Trading Research Internship](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Intern_2136759-1) - Dublin, Ireland
-- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026) - London
+_None._
 
-### Asia (1)
+### Asia (0)
 
-- **Susquehanna International Group** - [Machine Learning Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11620?lang=en-us) - Hong Kong, Hong Kong
+_None._
 
 ### Oceania (0)
 
@@ -57,13 +56,7 @@ _None._
 
 ## No Longer Present
 
-- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) - Austin, Texas, United States
-- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) - Chicago, Illinois, United States
-- **Susquehanna International Group** - [FPGA Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11446?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Goldman Sachs** - [2027 | APEJ | Mumbai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/183942) - Mumbai, Maharashtra, India
-- **Goldman Sachs** - [2027 | APEJ | Shanghai | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/170827) - Shanghai, Shanghai, China
-- **DRW** - [Software Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) - Singapore
-- **Flow Traders** - [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920) - Amsterdam
+- **Jane Street** - [Software Engineer](https://www.janestreet.com/join-jane-street/position/8419303002/) - New York
 
 ## Full Reports
 

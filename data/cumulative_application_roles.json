@@ -1,12 +1,40 @@
 {
-  "generatedAt": "2026-10-09T11:29:50.059Z",
-  "currentScanAt": "2026-10-09T11:23:45.619Z",
-  "total": 480,
-  "active": 364,
-  "notDetected": 116,
-  "newSincePreviousScan": 5,
+  "generatedAt": "2026-10-10T12:11:53.016Z",
+  "currentScanAt": "2026-10-10T12:07:43.793Z",
+  "total": 482,
+  "active": 365,
+  "notDetected": 117,
+  "newSincePreviousScan": 2,
   "manuallyRecovered": 5,
   "roles": [
+    {
+      "Company": "Schonfeld",
+      "Title": "2027 Quantitative Developer Intern",
+      "Location": "Austin, Texas, United States",
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092",
+      "Source": "Career page Greenhouse:schonfeld",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-10-09",
+      "first_seen": "2026-10-10",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Schonfeld",
+      "Title": "2027 Quantitative Research Intern",
+      "Location": "Austin, Texas, United States",
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120",
+      "Source": "Career page Greenhouse:schonfeld",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-10-09",
+      "first_seen": "2026-10-10",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
     {
       "Company": "D. E. Shaw",
       "Title": "Strategy and Business Development Intern - Summer 2027 (Singapore)",
@@ -2710,20 +2738,6 @@
       "status": "active"
     },
     {
-      "Company": "Northern Trust Asset Management",
-      "Title": "Technology Intern – Infrastructure and IT Management",
-      "Location": "Chicago, IL",
-      "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1",
-      "Source": "Career page Workday:ntrs/northerntrust",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-01",
-      "first_seen": "2026-09-07",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "PIMCO",
       "Title": "2027 MBA /MFE Summer Intern – Associate, Portfolio Management",
       "Location": "Newport Beach, CA USA",
@@ -3336,7 +3350,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-09",
+      "verifiedAt": "2026-10-10",
       "status": "active"
     },
     {
@@ -5058,7 +5072,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-09",
+      "verifiedAt": "2026-10-10",
       "status": "active"
     },
     {
@@ -5072,7 +5086,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-09",
+      "verifiedAt": "2026-10-10",
       "status": "active"
     },
     {
@@ -5086,7 +5100,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-09",
+      "verifiedAt": "2026-10-10",
       "status": "active"
     },
     {
@@ -5100,7 +5114,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-09",
+      "verifiedAt": "2026-10-10",
       "status": "active"
     },
     {
@@ -6144,6 +6158,20 @@
       "Title": "Technology Intern – Information Security",
       "Location": "Chicago, IL",
       "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1",
+      "Source": "Career page Workday:ntrs/northerntrust",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-01",
+      "first_seen": "2026-09-07",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Northern Trust Asset Management",
+      "Title": "Technology Intern – Infrastructure and IT Management",
+      "Location": "Chicago, IL",
+      "URL": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1",
       "Source": "Career page Workday:ntrs/northerntrust",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-01",

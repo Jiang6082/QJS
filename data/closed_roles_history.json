@@ -1,5 +1,18 @@
 [
   {
+    "Company": "Jane Street",
+    "Title": "Software Engineer",
+    "Location": "New York",
+    "Region": "North America",
+    "URL": "https://www.janestreet.com/join-jane-street/position/8419303002/",
+    "Source": "Official Jane Street jobs feed",
+    "Status": "Confirmed official posting",
+    "Notes": "Co-Op; January-April; Technology",
+    "lastSeenOpenAt": "2026-10-09T11:23:45.619Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-10-10T12:07:43.793Z"
+  },
+  {
     "Company": "Optiver",
     "Title": "Quantitative Intern (Summer 2027)",
     "Location": "Austin, Texas, United States",
