@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-10T12:07:17.401Z",
+  "scannedAt": "2026-10-11T22:01:47.121Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -449,10 +449,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 51
+          "count": 52
         }
       ],
-      "jobsSeen": 51,
+      "jobsSeen": 52,
       "relevantInternships": 0
     },
     {
@@ -460,10 +460,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 51
+          "count": 52
         }
       ],
-      "jobsSeen": 51,
+      "jobsSeen": 52,
       "relevantInternships": 0
     },
     {

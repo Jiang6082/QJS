@@ -1,6 +1,6 @@
 # Quant Internship Open Roles Scan
 
-Scanned: 2026-10-10T12:07:17.401Z
+Scanned: 2026-10-11T22:01:47.121Z
 Companies deduplicated: 174
 Open relevant roles found: 199
 
@@ -235,8 +235,8 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Brevan Howard** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Bridgewater Associates** — checked Greenhouse:bridgewater89 (18)
 - **Cantor Fitzgerald** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Capital Fund Management** — checked Lever:capital (51)
-- **Capital Markets Trading** — checked Lever:capital (51)
+- **Capital Fund Management** — checked Lever:capital (52)
+- **Capital Markets Trading** — checked Lever:capital (52)
 - **Capstone** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Capula** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Caxton Associates** — no public Greenhouse/Lever/Ashby board discovered by slug scan

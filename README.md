@@ -2,7 +2,7 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-10-10 &nbsp;•&nbsp; **552 open roles** &nbsp;•&nbsp; **0 released today** &nbsp;•&nbsp; **63 opened in 3 weeks** &nbsp;•&nbsp; **154 closure events** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-10-11 &nbsp;•&nbsp; **552 open roles** &nbsp;•&nbsp; **0 released today** &nbsp;•&nbsp; **63 opened in 3 weeks** &nbsp;•&nbsp; **154 closure events** ([history](reports/closed_roles_history.md))
 
 > **Cumulative application queue:** [482 unique roles tracked; 365 active](reports/cumulative_application_roles.md)
 
@@ -12,15 +12,15 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-10-10_
+_Scan date: 2026-10-11_
 
-_No currently open roles have a confirmed source release date of 2026-10-10._
+_No currently open roles have a confirmed source release date of 2026-10-11._
 
 ---
 
 ## 🔥 Opened in the Last 3 Weeks
 
-_Official-source posting dates from 2026-09-20 through 2026-10-10. Only roles that are still present in the current scan are shown._
+_Official-source posting dates from 2026-09-21 through 2026-10-11. Only roles that are still present in the current scan are shown._
 
 <details>
 <summary><strong>2026-10-09</strong> — 2 roles</summary>

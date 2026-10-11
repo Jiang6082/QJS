@@ -1,14 +1,14 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-10-10T12:07:43.793Z
+Last updated: 2026-10-11T22:02:03.698Z
 
 ## Summary
 
 - Companies searched: 369
 - Career pages checked: 515
 - Current retained roles: 552
-- New stable job URLs since previous scan: 2
-- No longer present since previous scan: 1
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 0
 - Missing without enough closure evidence: 90
 - Matching-role firms: 49
 - Confirmed no open postings: 4
@@ -17,10 +17,9 @@ Last updated: 2026-10-10T12:07:43.793Z
 
 ## New Roles Since Previous Scan
 
-### North America (2)
+### North America (0)
 
-- **Schonfeld** - [2027 Quantitative Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267092) - Austin, Texas, United States
-- **Schonfeld** - [2027 Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267120) - Austin, Texas, United States
+_None._
 
 ### Europe (0)
 
@@ -56,7 +55,7 @@ _None._
 
 ## No Longer Present
 
-- **Jane Street** - [Software Engineer](https://www.janestreet.com/join-jane-street/position/8419303002/) - New York
+_None._
 
 ## Full Reports
 

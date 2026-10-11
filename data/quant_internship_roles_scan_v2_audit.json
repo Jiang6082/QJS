@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-10T12:07:43.793Z",
+  "searchedAt": "2026-10-11T22:02:03.698Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -4551,11 +4551,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 142,
+          "jobsSeen": 140,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 142,
+      "jobsSeen": 140,
       "relevantInternships": 1
     },
     {
@@ -5379,11 +5379,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 13,
+          "jobsSeen": 12,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantInternships": 0
     },
     {
@@ -5412,11 +5412,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 13,
+          "jobsSeen": 12,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantInternships": 0
     },
     {
@@ -5517,11 +5517,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 311,
+          "jobsSeen": 306,
           "relevantInternships": 12
         }
       ],
-      "jobsSeen": 311,
+      "jobsSeen": 306,
       "relevantInternships": 12
     },
     {
@@ -5667,11 +5667,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 90,
+          "jobsSeen": 89,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 90,
+      "jobsSeen": 89,
       "relevantInternships": 1
     },
     {
@@ -5700,11 +5700,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 90,
+          "jobsSeen": 89,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 90,
+      "jobsSeen": 89,
       "relevantInternships": 1
     },
     {
@@ -5733,11 +5733,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 765,
+          "jobsSeen": 744,
           "relevantInternships": 25
         }
       ],
-      "jobsSeen": 765,
+      "jobsSeen": 744,
       "relevantInternships": 25
     },
     {
@@ -5766,11 +5766,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 765,
+          "jobsSeen": 744,
           "relevantInternships": 25
         }
       ],
-      "jobsSeen": 765,
+      "jobsSeen": 744,
       "relevantInternships": 25
     },
     {
@@ -5799,11 +5799,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 765,
+          "jobsSeen": 744,
           "relevantInternships": 25
         }
       ],
-      "jobsSeen": 765,
+      "jobsSeen": 744,
       "relevantInternships": 25
     },
     {
@@ -6313,9 +6313,9 @@
     {
       "company": "Fidelity Investments",
       "pageUrl": "https://jobs.fidelity.com/",
-      "resolvedUrl": "https://jobs.fidelity.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "resolvedUrl": "https://jobs.fidelity.com/en/",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -6390,11 +6390,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 67,
+          "jobsSeen": 66,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 67,
+      "jobsSeen": 66,
       "relevantInternships": 0
     },
     {
@@ -6619,11 +6619,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 236,
+          "jobsSeen": 232,
           "relevantInternships": 4
         }
       ],
-      "jobsSeen": 236,
+      "jobsSeen": 232,
       "relevantInternships": 4
     },
     {
@@ -6656,11 +6656,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 236,
+          "jobsSeen": 232,
           "relevantInternships": 4
         }
       ],
-      "jobsSeen": 236,
+      "jobsSeen": 232,
       "relevantInternships": 4
     },
     {
@@ -6689,11 +6689,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 236,
+          "jobsSeen": 232,
           "relevantInternships": 4
         }
       ],
-      "jobsSeen": 236,
+      "jobsSeen": 232,
       "relevantInternships": 4
     },
     {
@@ -6801,7 +6801,7 @@
       "pageUrl": "https://www.jhetf.com/careers/",
       "resolvedUrl": "https://www.jhetf.com/careers/",
       "pageOk": false,
-      "pageStatus": 0,
+      "pageStatus": 404,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -6896,11 +6896,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 37,
+          "jobsSeen": 29,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 37,
+      "jobsSeen": 29,
       "relevantInternships": 0
     },
     {
@@ -7095,11 +7095,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 121,
+          "jobsSeen": 123,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 121,
+      "jobsSeen": 123,
       "relevantInternships": 0
     },
     {
@@ -7292,11 +7292,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 107,
+          "jobsSeen": 108,
           "relevantInternships": 17
         }
       ],
-      "jobsSeen": 107,
+      "jobsSeen": 108,
       "relevantInternships": 17
     },
     {
@@ -7325,11 +7325,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 107,
+          "jobsSeen": 108,
           "relevantInternships": 17
         }
       ],
-      "jobsSeen": 107,
+      "jobsSeen": 108,
       "relevantInternships": 17
     },
     {
@@ -7358,11 +7358,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 107,
+          "jobsSeen": 108,
           "relevantInternships": 17
         }
       ],
-      "jobsSeen": 107,
+      "jobsSeen": 108,
       "relevantInternships": 17
     },
     {
@@ -7825,11 +7825,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 106,
+          "jobsSeen": 105,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 106,
+      "jobsSeen": 105,
       "relevantInternships": 8
     },
     {
@@ -7894,11 +7894,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 106,
+          "jobsSeen": 105,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 106,
+      "jobsSeen": 105,
       "relevantInternships": 8
     },
     {
@@ -8163,11 +8163,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 153,
+          "jobsSeen": 154,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 153,
+      "jobsSeen": 154,
       "relevantInternships": 0
     },
     {
@@ -10044,7 +10044,7 @@
     {
       "company": "Glencore",
       "pageUrl": "https://www.glencore.com/careers",
-      "resolvedUrl": "https://www.glencore.com/fr/careers",
+      "resolvedUrl": "https://www.glencore.com/en/careers",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -10793,7 +10793,7 @@
     {
       "company": "Optica",
       "pageUrl": "https://opg.optica.org/optica/home.cfm",
-      "resolvedUrl": "https://validate.perfdrive.com/?ssa=8188ea3c-34f8-1ad7-088d-35efd910c7a3&ssb=75172222044&ssc=https%3A%2F%2Fopg.optica.org%2Foptica%2Fhome.cfm&ssi=01a62b11-d3hy-fee7-f22e-c981fb89c798&ssk=botmanager_support@radware.com&ssm=81773859837469986102319281905209&ssn=2a60166af7dfb99f56a1ad47ebd390f55b62db5223c5-2006-4f10-56d77c&sso=22ad310-5eef-1138baf0e7a20b3486eff96078dec224b0a14528605caeca&ssp=15588913771791679378179169025441147&ssq=28496803420543823152034205215114159813952&ssr=MjAuMTE1LjEwMy44Mg==&sst=Mozilla%2F5.0%20internship-research&ssv=&ssw=",
+      "resolvedUrl": "https://validate.perfdrive.com/?ssa=d1ec634b-fa96-e8c3-a22e-e4a3f49b6ab9&ssb=38070252605&ssc=https%3A%2F%2Fopg.optica.org%2Foptica%2Fhome.cfm&ssi=2e143baa-d3hy-b5bf-d042-8159fa0481fa&ssk=botmanager_support@radware.com&ssm=68619751730595097105097609304784&ssn=9509434dc9a214909876d6f9020457b3a83d35c50db5-fc1a-1c98-bb2600&sso=1022398-b518-6b6e986f5957e8cac5fcaf3eadbf9239bda0c08fe30315ac&ssp=09074264241791762245179174954994471&ssq=64659855627581545107556275699345219325709&ssr=MjAuMTA5LjM4LjE2Ng==&sst=Mozilla%2F5.0%20internship-research&ssv=&ssw=",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -11660,11 +11660,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 55,
+          "jobsSeen": 56,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 55,
+      "jobsSeen": 56,
       "relevantInternships": 0
     },
     {
@@ -12215,7 +12215,7 @@
     {
       "company": "Previously seen Greenhouse roles",
       "source": "Official Greenhouse job-detail APIs",
-      "jobsRetained": 257
+      "jobsRetained": 259
     }
   ]
 }

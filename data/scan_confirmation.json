@@ -1,8 +1,8 @@
 {
-  "baselineCommit": "4ec446e6445df356bc6f73b8265a37241c53cfe3",
+  "baselineCommit": "2146760af382c4d67791d9fd2332d9daf1a2db10",
   "firstPass": {
-    "searchedAt": "2026-10-10T12:03:24.707Z",
-    "hash": "7e70f7b9ad4df64cce1941b58f80510697d7487571714c0871e75ab0bf339801",
+    "searchedAt": "2026-10-11T21:57:45.195Z",
+    "hash": "68a1a6acae80723a3395203f5349e7bd5fb5b7c02dfb67481395af0976b1616d",
     "identities": [
       "https://www.akunacapital.com/careers/job/8018856?gh_jid=8018856",
       "https://www.akunacapital.com/careers/job/8021481?gh_jid=8021481",
@@ -557,14 +557,11 @@
       "https://job-boards.greenhouse.io/xantium/jobs/4360768009",
       "https://job-boards.greenhouse.io/xantium/jobs/4371217009"
     ],
-    "absentUrls": [
-      "https://www.janestreet.com/join-jane-street/position/8419303002",
-      "https://www.janestreet.com/join-jane-street/position/8419303002"
-    ]
+    "absentUrls": []
   },
   "confirmationPass": {
-    "searchedAt": "2026-10-10T12:07:43.793Z",
-    "hash": "1fe45418edd4b2838f80500d74ae898748356d47964abfd1ce17147e32783685",
+    "searchedAt": "2026-10-11T22:02:03.698Z",
+    "hash": "472b2c41cdc5136df59be45cd50c017aa0251b085978c521ce1106d0a967f84c",
     "identities": [
       "https://www.akunacapital.com/careers/job/8018856?gh_jid=8018856",
       "https://www.akunacapital.com/careers/job/8021481?gh_jid=8021481",
@@ -1119,10 +1116,7 @@
       "https://job-boards.greenhouse.io/xantium/jobs/4360768009",
       "https://job-boards.greenhouse.io/xantium/jobs/4371217009"
     ],
-    "absentUrls": [
-      "https://www.janestreet.com/join-jane-street/position/8419303002",
-      "https://www.janestreet.com/join-jane-street/position/8419303002"
-    ]
+    "absentUrls": []
   },
   "onlyFirstPass": [],
   "onlyConfirmationPass": []

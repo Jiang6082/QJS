@@ -1,18 +1,17 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-10-09T11:23:45.619Z
-Current scan: 2026-10-10T12:07:43.793Z
+Previous scan: 2026-10-10T12:07:43.793Z
+Current scan: 2026-10-11T22:02:03.698Z
 Previous rows: 552
 Current rows: 552
-New URLs confirmed in both source passes: 2
-Confirmed no longer present: 1
+New URLs confirmed in both source passes: 0
+Confirmed no longer present: 0
 
 ## New Roles By Region
 
-### North America (2)
+### North America (0)
 
-- **Schonfeld** - [2027 Quantitative Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267092) - Austin, Texas, United States - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-10-09T09:57:10-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8267092 | internship timing not stated in title | The Role We are seeking exceptional interns to join our Quantitative Research team in the Austin metro area. As an intern, you will work with other researchers and developers on various research projects, including the design of novel predictive signals and the enhancement of our algorithms for prediction, trade execution, portfolio construction, and risk management. You will have an opportunity to meaningfully contribute to multiple areas of our quantitative trading business. What You’ll Do As a Quantitative Developer Intern, you will help develop and improve the software used in our quantitative research. You will gain insight into building scalable software, using parallel co...
-- **Schonfeld** - [2027 Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267120) - Austin, Texas, United States - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-10-09T09:58:43-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8267120 | internship timing not stated in title | The Role We are seeking exceptional interns to join our Quantitative Research team in the Austin metro area. As an intern, you will work with other researchers and developers on various research projects, including the design of novel predictive signals and the enhancement of our algorithms for prediction, trade execution, portfolio construction, and risk management. You will have an opportunity to meaningfully contribute to multiple areas of our quantitative trading business. What You’ll Do As a Quantitative Researcher Intern, you will contribute to our research into predictive trading signals. You will learn how quantitative methods are used to develop and evaluate trading sig...
+_None._
 
 ### Europe (0)
 
@@ -48,7 +47,7 @@ _None._
 
 ## No Longer Present
 
-- **Jane Street** - [Software Engineer](https://www.janestreet.com/join-jane-street/position/8419303002/)
+_None._
 
 ## Missing but not confirmed closed
 

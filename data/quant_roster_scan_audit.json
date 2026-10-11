@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-10T12:11:52.238Z",
-  "scanStartedAt": "2026-10-10T12:07:43.793Z",
+  "generatedAt": "2026-10-11T22:06:29.597Z",
+  "scanStartedAt": "2026-10-11T22:02:03.698Z",
   "sourceRosterEntries": 305,
   "canonicalCompanies": 304,
   "counts": {
@@ -128,7 +128,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 153,
+      "jobsSeen": 154,
       "relevantInternships": 0
     },
     {
@@ -3695,7 +3695,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 55,
+      "jobsSeen": 56,
       "relevantInternships": 0
     },
     {

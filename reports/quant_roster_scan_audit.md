@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-10-10T12:07:43.793Z
+Scan started: 2026-10-11T22:02:03.698Z
 Source roster entries: 305
 Canonical companies after aliases: 304
 

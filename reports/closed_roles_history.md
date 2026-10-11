@@ -1,7 +1,7 @@
 # Closed / Removed Roles History
 
 Total closure events recorded: 154
-Last updated: 2026-10-10T12:07:43.793Z
+Last updated: 2026-10-11T22:02:03.698Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
 

@@ -1,17 +1,15 @@
 # Cumulative application queue
 
-_Updated 2026-10-10. Roles remain in this ledger when they age out of the rolling 21-day report._
+_Updated 2026-10-11. Roles remain in this ledger when they age out of the rolling 21-day report._
 
 - **482** unique role URLs tracked
 - **365** active or manually verified today
 - **117** not detected in the latest scan
-- **2** new scanner URLs since the previous scan
+- **0** new scanner URLs since the previous scan
 - **5** live Scientech roles verified on its nested official Ashby board
 
-## New scanner URLs since the previous scan (2)
+## New scanner URLs since the previous scan (0)
 
-- **Schonfeld** — [2027 Quantitative Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267092) — Austin, Texas, United States — released 2026-10-09
-- **Schonfeld** — [2027 Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267120) — Austin, Texas, United States — released 2026-10-09
 
 ## Scientech roles verified on the nested official board (5)
 
