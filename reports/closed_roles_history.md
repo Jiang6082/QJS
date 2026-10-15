@@ -1,9 +1,28 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 154
-Last updated: 2026-10-11T22:02:03.698Z
+Total closure events recorded: 170
+Last updated: 2026-10-15T15:23:00.878Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-15 (16)
+
+- **AQR Capital Management** - [2027 Trading Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) - Greenwich, CT
+- **Jane Street** - [Network Engineer](https://www.janestreet.com/join-jane-street/position/8620793002/) - New York
+- **Jump Trading** - [Campus FPGA Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974391) - London
+- **Maven Securities** - [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) - London
+- **Verition Fund Management** - [2027 Technology Internship (US)](https://www.verition.com/open-positions?gh_jid=5214784007) - Chicago, Illinois, United States; Greenwich, Connecticut, United States; Houston, Texas, United States; Miami, Florida, United States; New York, NY, USA; Norwalk, CT
+- **Jane Street** - [Mechanical Engineer](https://www.janestreet.com/join-jane-street/position/8675822002/) - New York
+- **AQR Capital Management** - [2027 Portfolio Finance Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8161563&gh_jid=8161563) - Greenwich, CT
+- **Goldman Sachs** - [2027 | APEJ | Singapore | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170822) - Singapore
+- **Goldman Sachs** - [2027 | APEJ | Singapore | Internal Audit, Technology Audit | Summer Analyst](https://higher.gs.com/roles/170764) - Singapore
+- **Susquehanna International Group** - [Technology Co-op with Drexel University](https://careers.sig.com/jobs/11422?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Man Group** - [2027 Summer Technology Internship Programme](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101) - London
+- **Man Group** - [Trading Summer 2027 Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101) - London
+- **Engineers Gate** - [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8249666) - New York
+- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026) - London
+- **Schonfeld** - [2027 Quantitative Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267092) - Austin, Texas, United States
+- **Schonfeld** - [2027 Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267120) - Austin, Texas, United States
 
 ### 2026-10-10 (1)
 
@@ -11,8 +30,8 @@ Closures require two independent successful observations of absence from the rol
 
 ### 2026-10-09 (7)
 
-- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) - Austin, Texas, United States
-- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) - Chicago, Illinois, United States
+- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) - Austin, Texas, United States — _reopened 2026-10-15_
+- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) - Chicago, Illinois, United States — _reopened 2026-10-15_
 - **Susquehanna International Group** - [FPGA Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11446?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **Goldman Sachs** - [2027 | APEJ | Mumbai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/183942) - Mumbai, Maharashtra, India
 - **Goldman Sachs** - [2027 | APEJ | Shanghai | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/170827) - Shanghai, Shanghai, China
@@ -79,7 +98,7 @@ Closures require two independent successful observations of absence from the rol
 ### 2026-09-29 (3)
 
 - **XTX Markets** - [AI Research Internship - XTY Labs](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003) - New York
-- **Flow Traders** - [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) - New York
+- **Flow Traders** - [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) - New York — _reopened 2026-10-15_
 - **RRS Group** - [2027 Associate Software Engineer Intern - Sophomore Only](https://jobs.smartrecruiters.com/RRSGroup/744000151931819) - Remote
 
 ### 2026-09-28 (2)
@@ -148,7 +167,7 @@ Closures require two independent successful observations of absence from the rol
 ### 2026-09-10 (6)
 
 - **DRW** - [Quantitative Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) - Singapore — _reopened 2026-09-25_
-- **Tower Research Capital** - [Quantitative Trader Intern, PhD](https://www.tower-research.com/open-positions/?gh_jid=8024138) - New York
+- **Tower Research Capital** - [Quantitative Trader Intern, PhD](https://www.tower-research.com/open-positions/?gh_jid=8024138) - New York — _reopened 2026-10-15_
 - **Virtu Financial** - [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) - New York
 - **Susquehanna International Group** - [Technology Co-op with McGill University](https://careers.sig.com/jobs/11379?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania — _reopened 2026-09-15_

@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-10-11T22:06:41.846Z",
+  "checkedAt": "2026-10-15T15:28:07.174Z",
   "boards": [
     {
       "site": "NBCareers",
-      "jobsSeen": 70,
+      "jobsSeen": 69,
       "searchComplete": true,
       "errors": []
     },
     {
       "site": "PWM",
-      "jobsSeen": 11,
+      "jobsSeen": 10,
       "searchComplete": true,
       "errors": []
     }
@@ -18,8 +18,8 @@
     {
       "title": "MBA Intern, Stewardship & Sustainable Investing Summer 2027",
       "externalPath": "/job/New-York-NY/MBA-Intern--Stewardship---Sustainability-Summer-2027_R0012713",
-      "locationsText": "New York, NY",
-      "postedOn": "Posted 2 Days Ago",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 3 Days Ago",
       "bulletFields": [
         "R0012713"
       ],
@@ -32,7 +32,7 @@
       "title": "Almanac Realty Group Summer 2027 Internship",
       "externalPath": "/job/New-York-NY/Almanac-Realty-Group-Summer-2027-Internship_R0012519",
       "locationsText": "New York, NY",
-      "postedOn": "Posted 6 Days Ago",
+      "postedOn": "Posted 10 Days Ago",
       "bulletFields": [
         "R0012519"
       ],
@@ -45,7 +45,7 @@
       "title": "Quantitative 2027 Summer Intern",
       "externalPath": "/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643",
       "locationsText": "New York, NY",
-      "postedOn": "Posted 18 Days Ago",
+      "postedOn": "Posted 22 Days Ago",
       "bulletFields": [
         "R0012643"
       ],
