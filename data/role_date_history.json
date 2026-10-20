@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T15:23:00.878Z",
+  "updatedAt": "2026-10-20T12:18:52.865Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -1102,8 +1102,8 @@
     "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002": {
       "URL": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002",
       "first_seen": "2026-07-23",
-      "date": null,
-      "evidence": null
+      "date": "2024-08-23",
+      "evidence": "employer_field"
     },
     "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002": {
       "URL": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
@@ -4781,6 +4781,126 @@
       "URL": "https://careers.sig.com/jobs/11654?lang=en-us",
       "first_seen": "2026-10-15",
       "date": "2026-10-14",
+      "evidence": "employer_field"
+    },
+    "bmo|R260029417|junior cloud engineer, summer 2027 (co-op/internship) - 16 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-19",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005": {
+      "URL": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-19",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005": {
+      "URL": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-19",
+      "evidence": "employer_field"
+    },
+    "capgroup|JR7385|campus: capital group rotational program - data & technology track summer associate (2027) charlotte, nc": {
+      "URL": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-19",
+      "evidence": "employer_relative_label"
+    },
+    "capgroup|JR7384|campus: capital group rotational program - data & technology track summer associate (2027) irvine, ca": {
+      "URL": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-19",
+      "evidence": "employer_relative_label"
+    },
+    "capgroup|JR7382|campus: capital group rotational program - data & technology track summer associate (2027) los angeles, ca": {
+      "URL": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-19",
+      "evidence": "employer_relative_label"
+    },
+    "db|R0449103|fx risk management sales intern (f/m/x)": {
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Paris/FX-Risk-Management-Sales-Intern--f-m-x-_R0449103",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-20",
+      "evidence": "employer_relative_label"
+    },
+    "db|R0445832|investment bank - fixed income & currencies trading local intern": {
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/Investment-Bank---Fixed-Income---Currencies-Trading-Local-Intern_R0445832",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-16",
+      "evidence": "employer_relative_label"
+    },
+    "fmr|2137228|fidelity center for applied technology (fcat) innovation ecosystem, europe internship": {
+      "URL": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Fidelity-Center-for-Applied-Technology--FCAT--Innovation-Ecosystem--Europe-Internship_2137228-1",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-20",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002": {
+      "URL": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-19",
+      "evidence": "employer_field"
+    },
+    "invesco|R-15665|quantitative intern - portfolio engineering and analytics": {
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-2",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-16",
+      "evidence": "employer_relative_label"
+    },
+    "invesco|R-15803|quantitative strategies research intern": {
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803-1",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-16",
+      "evidence": "employer_relative_label"
+    },
+    "jainglobal|JR100617|quantitative research intern – equity arbitrage": {
+      "URL": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Research-Intern---Equity-Arbitrage_JR100617-1",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-19",
+      "evidence": "employer_relative_label"
+    },
+    "https://www.optiver.com/join-us/jobs/8901997002?gh_jid=8901997002": {
+      "URL": "https://www.optiver.com/join-us/jobs/8901997002/?gh_jid=8901997002",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-20",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11675?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11675?lang=en-us",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-15",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11670?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11670?lang=en-us",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-15",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11663?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11663?lang=en-us",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-15",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11666?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11666?lang=en-us",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-15",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=7077280": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=7077280",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-15",
+      "evidence": "employer_field"
+    },
+    "https://www.tower-research.com/open-positions?gh_jid=8299894": {
+      "URL": "https://www.tower-research.com/open-positions/?gh_jid=8299894",
+      "first_seen": "2026-10-20",
+      "date": "2026-10-18",
       "evidence": "employer_field"
     }
   }

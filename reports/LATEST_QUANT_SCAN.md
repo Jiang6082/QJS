@@ -1,54 +1,47 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-10-15T15:23:00.878Z
+Last updated: 2026-10-20T12:18:52.865Z
 
 ## Summary
 
 - Companies searched: 370
 - Career pages checked: 516
-- Current retained roles: 557
-- New stable job URLs since previous scan: 26
+- Current retained roles: 551
+- New stable job URLs since previous scan: 21
 - No longer present since previous scan: 16
-- Missing without enough closure evidence: 95
-- Matching-role firms: 51
+- Missing without enough closure evidence: 106
+- Matching-role firms: 50
 - Confirmed no open postings: 4
-- Openings but no matching role: 34
+- Openings but no matching role: 35
 - Could not fully verify: 216
 
 ## New Roles Since Previous Scan
 
-### North America (17)
+### North America (13)
 
-- **Balyasny Asset Management** - [Applied AI Engineer (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Applied-AI-Engineer--Summer-Internship-_REQ8693) - New York
-- **Balyasny Asset Management** - [ML Engineer - Commodities Applied ML (Summer Internship - Master's)](https://bambusdev.my.site.com/s/details?jobReq=ML-Engineer---Commodities-Applied-ML--Summer-Internship---Master-s-_REQ8676) - New York
-- **DV Trading** - [Data Center Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4742962005) - Chicago
-- **Flow Traders** - [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) - New York
-- **Invesco** - [Early Career Intern - Technology (Investment)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622-1) - Houston, Texas
-- **Jain Global** - [Compliance Technology Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607) - New York, New York
-- **Jain Global** - [Data Engineer Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1) - New York, New York
-- **Jain Global** - [Quant Modelling Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616) - New York, New York
-- **Jain Global** - [Quant Research Intern, Systematic Trading](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1) - New York, New York
-- **Jain Global** - [Quantitative Developer Intern (Summer 2027 - New York)](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608) - New York, New York
-- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) - Chicago, Illinois, United States
-- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) - Austin, Texas, United States
-- **Point72** - [2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002) - New York, NY
-- **Point72** - [2027 Summer Internship - Sector Analyst, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) - New York, NY
-- **Point72** - [2027 Summer Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002) - New York, NY
-- **Susquehanna International Group** - [Technology Co-op with Drexel University](https://careers.sig.com/jobs/11654?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Tower Research Capital** - [Quantitative Trader Intern, PhD](https://www.tower-research.com/open-positions/?gh_jid=8024138) - New York
+- **BMO Capital Markets** - [Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1) - Toronto, ON, CAN
+- **Bracebridge Capital** - [Northeastern University Software Engineer - Application Development Co-op](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005) - Boston, MA
+- **Bracebridge Capital** - [Northeastern University Software Engineer - Business Intelligence Co-op](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005) - Boston
+- **Capital Group** - [CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Los Angeles, CA](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382) - Los Angeles
+- **Invesco** - [Quantitative Intern - Portfolio Engineering and Analytics](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-2) - Boston, Massachusetts
+- **Invesco** - [Quantitative Strategies Research Intern](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803-1) - New York, New York
+- **Jain Global** - [Quantitative Research Intern – Equity Arbitrage](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Research-Intern---Equity-Arbitrage_JR100617-1) - New York, New York
+- **Point72** - [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) - New York
+- **Susquehanna International Group** - [Business Analytics AI Co-op with Drexel University](https://careers.sig.com/jobs/11675?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** - [Derivatives Sales Trader Co-op with Drexel University](https://careers.sig.com/jobs/11670?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** - [Risk and Controls Co-op with Drexel University](https://careers.sig.com/jobs/11663?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** - [Trading Operations Co-op with Drexel University](https://careers.sig.com/jobs/11666?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Tower Research Capital** - [Machine Learning Intern](https://www.tower-research.com/open-positions/?gh_jid=7077280) - Montreal
 
-### Europe (3)
+### Europe (1)
 
-- **Fidelity Investments** - [Enterprise Infrastructure & Operations Internship](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Galway-Ireland/Enterprise-Infrastructure---Operations-Internship_2137044) - Galway, Ireland
-- **Jain Global** - [Quant Research Intern (Summer 2027 – London)](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2) - London, United Kingdom
-- **Mako Trading** - [Mako Summer Internship – Trading](https://www.mako.com/opportunities/job-listing/8883121002?gh_jid=8883121002) - London
+- **Deutsche Bank** - [FX Risk Management Sales Intern (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Paris/FX-Risk-Management-Sales-Intern--f-m-x-_R0449103) - Paris
 
-### Asia (4)
+### Asia (3)
 
-- **Deutsche Bank** - [CRO - Credit Risk Local Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/CRO---Credit-Risk-Local-Intern_R0452523) - Shanghai Two IFC
-- **Jain Global** - [AI Research Intern, Singapore](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Singapore-Office/AI-Research-Intern--Singapore_JR100475-1) - Singapore Office
-- **Jain Global** - [APAC Research Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Hong-Kong-Office/APAC-Quant-Research-Intern_JR100553) - Hong Kong Office
-- **Jain Global** - [Risk Quant Modeller - Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Hong-Kong-Office/Risk-Quant-Modeller---Intern_JR100472-1) - Hong Kong Office
+- **Deutsche Bank** - [Investment Bank - Fixed Income & Currencies Trading Local Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/Investment-Bank---Fixed-Income---Currencies-Trading-Local-Intern_R0445832) - Shanghai Two IFC
+- **Optiver** - [Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)](https://www.optiver.com/join-us/jobs/8901997002/?gh_jid=8901997002) - Shanghai, China
+- **Tower Research Capital** - [Software Engineer, C++ - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8299894) - Singapore
 
 ### Oceania (0)
 
@@ -66,33 +59,34 @@ _None._
 
 _None._
 
-### Global / Multiple Regions (0)
+### Global / Multiple Regions (1)
 
-_None._
+- **Graviton Research Capital** - [Quantitative Researcher - 2027 Summer Internship](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) - Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore
 
-### Remote / Unspecified (2)
+### Remote / Unspecified (3)
 
-- **Invesco** - [Early Career Intern - Technology (Distribution)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1) - Atlanta, Georgia
-- **Invesco** - [Early Career Intern - Technology (Investment)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1) - Atlanta, Georgia
+- **Capital Group** - [CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Charlotte, NC](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385) - Charlotte
+- **Capital Group** - [CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Irvine, CA](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384) - Irvine
+- **Fidelity Investments** - [Fidelity Center for Applied Technology (FCAT) Innovation Ecosystem, Europe Internship](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Fidelity-Center-for-Applied-Technology--FCAT--Innovation-Ecosystem--Europe-Internship_2137228-1) - 2 Locations
 
 ## No Longer Present
 
-- **AQR Capital Management** - [2027 Trading Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) - Greenwich, CT
-- **Jane Street** - [Network Engineer](https://www.janestreet.com/join-jane-street/position/8620793002/) - New York
-- **Jump Trading** - [Campus FPGA Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974391) - London
-- **Maven Securities** - [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) - London
-- **Verition Fund Management** - [2027 Technology Internship (US)](https://www.verition.com/open-positions?gh_jid=5214784007) - Chicago, Illinois, United States; Greenwich, Connecticut, United States; Houston, Texas, United States; Miami, Florida, United States; New York, NY, USA; Norwalk, CT
-- **Jane Street** - [Mechanical Engineer](https://www.janestreet.com/join-jane-street/position/8675822002/) - New York
-- **AQR Capital Management** - [2027 Portfolio Finance Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8161563&gh_jid=8161563) - Greenwich, CT
-- **Goldman Sachs** - [2027 | APEJ | Singapore | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/170822) - Singapore
-- **Goldman Sachs** - [2027 | APEJ | Singapore | Internal Audit, Technology Audit | Summer Analyst](https://higher.gs.com/roles/170764) - Singapore
-- **Susquehanna International Group** - [Technology Co-op with Drexel University](https://careers.sig.com/jobs/11422?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Man Group** - [2027 Summer Technology Internship Programme](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101) - London
-- **Man Group** - [Trading Summer 2027 Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101) - London
-- **Engineers Gate** - [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8249666) - New York
-- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026) - London
-- **Schonfeld** - [2027 Quantitative Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267092) - Austin, Texas, United States
-- **Schonfeld** - [2027 Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267120) - Austin, Texas, United States
+- **Akuna** - [Software Engineer Intern - Python, Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) - Chicago, IL
+- **BlackEdge Capital** - [Quantitative Developer Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) - Chicago
+- **D. E. Shaw** - [Systems Engineering Intern (New York) - Summer 2027](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) - New York
+- **DRW** - [Software Developer Intern (C++)](https://job-boards.greenhouse.io/drweng/jobs/8014910) - Singapore
+- **IMC Financial Markets** - [Hardware Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) - Chicago, United States
+- **IMC Trading** - [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) - Amsterdam, Netherlands
+- **Old Mission Capital** - [Software Engineer – 2027 Internship Program (June Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) - Chicago, IL, United States
+- **Susquehanna International Group** - [Equity Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10723?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** - [Equity Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10573?lang=en-us) - New York, New York
+- **Susquehanna International Group** - [Growth Equity Portfolio Value Creation Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10716?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **AlphaGrep** - [Intern Hiring 2027](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8769725002) - Bengaluru
+- **Hudson River Trading** - [Women in Trading and Technology Internship (WiTTI) – Winter 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637) - New York, NY, United States
+- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (New York, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/CAMPUS--Data---Technology-Summer-Associate--New-York--2027-_JR7383) - New York
+- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (New York, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/CAMPUS--Data---Technology-Summer-Associate--New-York--2027-_JR7383) - New York
+- **Verition Fund Management** - [2027 Technology Internship (London)](https://www.verition.com/open-positions?gh_jid=5239358007) - London, England, United Kingdom
+- **Old Mission Capital** - [Quantitative Trader - 2027 Micro-Internship Program (January Start)](https://www.oldmissioncapital.com/careers/?gh_jid=8002345003) - Chicago, IL, United States
 
 ## Full Reports
 

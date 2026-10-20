@@ -1,9 +1,28 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 170
-Last updated: 2026-10-15T15:23:00.878Z
+Total closure events recorded: 186
+Last updated: 2026-10-20T12:18:52.865Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-20 (16)
+
+- **Akuna** - [Software Engineer Intern - Python, Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) - Chicago, IL
+- **BlackEdge Capital** - [Quantitative Developer Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) - Chicago
+- **D. E. Shaw** - [Systems Engineering Intern (New York) - Summer 2027](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) - New York
+- **DRW** - [Software Developer Intern (C++)](https://job-boards.greenhouse.io/drweng/jobs/8014910) - Singapore
+- **IMC Financial Markets** - [Hardware Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) - Chicago, United States
+- **IMC Trading** - [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) - Amsterdam, Netherlands
+- **Old Mission Capital** - [Software Engineer – 2027 Internship Program (June Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) - Chicago, IL, United States
+- **Susquehanna International Group** - [Equity Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10723?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** - [Equity Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10573?lang=en-us) - New York, New York
+- **Susquehanna International Group** - [Growth Equity Portfolio Value Creation Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10716?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **AlphaGrep** - [Intern Hiring 2027](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8769725002) - Bengaluru
+- **Hudson River Trading** - [Women in Trading and Technology Internship (WiTTI) – Winter 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637) - New York, NY, United States
+- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (New York, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/CAMPUS--Data---Technology-Summer-Associate--New-York--2027-_JR7383) - New York
+- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (New York, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/CAMPUS--Data---Technology-Summer-Associate--New-York--2027-_JR7383) - New York
+- **Verition Fund Management** - [2027 Technology Internship (London)](https://www.verition.com/open-positions?gh_jid=5239358007) - London, England, United Kingdom
+- **Old Mission Capital** - [Quantitative Trader - 2027 Micro-Internship Program (January Start)](https://www.oldmissioncapital.com/careers/?gh_jid=8002345003) - Chicago, IL, United States
 
 ### 2026-10-15 (16)
 
@@ -223,7 +242,7 @@ Closures require two independent successful observations of absence from the rol
 
 ### 2026-08-20 (1)
 
-- **Point 72/Cubist** - [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) - New York
+- **Point 72/Cubist** - [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) - New York — _reopened 2026-10-20_
 
 ### 2026-08-19 (5)
 
