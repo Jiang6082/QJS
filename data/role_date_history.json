@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T12:18:52.865Z",
+  "updatedAt": "2026-10-23T08:27:27.760Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -3814,7 +3814,7 @@
     "https://higher.gs.com/roles/170877": {
       "URL": "https://higher.gs.com/roles/170877",
       "first_seen": "2026-09-13",
-      "date": "2026-08-15",
+      "date": "2026-10-20",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/170901": {
@@ -3832,7 +3832,7 @@
     "https://higher.gs.com/roles/172894": {
       "URL": "https://higher.gs.com/roles/172894",
       "first_seen": "2026-09-13",
-      "date": "2026-08-15",
+      "date": "2026-10-21",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/171438": {
@@ -3850,7 +3850,7 @@
     "https://higher.gs.com/roles/170171": {
       "URL": "https://higher.gs.com/roles/170171",
       "first_seen": "2026-09-13",
-      "date": "2026-09-30",
+      "date": "2026-10-21",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/170821": {
@@ -4901,6 +4901,30 @@
       "URL": "https://www.tower-research.com/open-positions/?gh_jid=8299894",
       "first_seen": "2026-10-20",
       "date": "2026-10-18",
+      "evidence": "employer_field"
+    },
+    "https://www.deshaw.com/careers/venture-studio-startup-incubator-intern-new-york-summer-2027-6166": {
+      "URL": "https://www.deshaw.com/careers/venture-studio-startup-incubator-intern-new-york-summer-2027-6166",
+      "first_seen": "2026-10-23",
+      "date": null,
+      "evidence": null
+    },
+    "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101": {
+      "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101",
+      "first_seen": "2026-10-23",
+      "date": "2026-10-22",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8311597": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8311597",
+      "first_seen": "2026-10-23",
+      "date": "2026-10-22",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8174538": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8174538",
+      "first_seen": "2026-10-23",
+      "date": "2026-10-22",
       "evidence": "employer_field"
     }
   }

@@ -1,9 +1,29 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 186
-Last updated: 2026-10-20T12:18:52.865Z
+Total closure events recorded: 203
+Last updated: 2026-10-23T08:27:27.760Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-23 (17)
+
+- **AQR Capital Management** - [2027 Research Product Specialist Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) - Greenwich, CT
+- **DRW** - [Platform Engineer Intern](https://job-boards.greenhouse.io/drweng/jobs/7997729) - Chicago
+- **Jump Trading** - [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975008) - London
+- **Maven Securities** - [Software Developer Summer Internship London 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987) - London
+- **Schonfeld** - [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) - Miami, Florida, United States
+- **Geneva Trading** - [Quantitative Trading Internship – Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5232641007) - Chicago Office
+- **Schonfeld** - [2027 DMFI Quant Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8207942) - London, England, United Kingdom
+- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Charlotte NC, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385) - Charlotte
+- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Irvine, CA, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384) - Irvine
+- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Los Angeles, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382) - Los Angeles
+- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Charlotte NC, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385) - Charlotte
+- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Irvine, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384) - Irvine
+- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Los Angeles, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382) - Los Angeles
+- **Old Mission Capital** - [Quantitative Trader - 2027 Micro-Internship Program (January Start)](https://jobs.ashbyhq.com/old-mission-capital/54918f5f-24b7-496a-b702-e2d7265e4cb5) - Chicago, IL
+- **Capital Group** - [CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Charlotte, NC](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385) - Charlotte
+- **Capital Group** - [CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Irvine, CA](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384) - Irvine
+- **Capital Group** - [CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Los Angeles, CA](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382) - Los Angeles
 
 ### 2026-10-20 (16)
 
@@ -55,7 +75,7 @@ Closures require two independent successful observations of absence from the rol
 - **Goldman Sachs** - [2027 | APEJ | Mumbai | Global Investment Research | Summer Analyst](https://higher.gs.com/roles/183942) - Mumbai, Maharashtra, India
 - **Goldman Sachs** - [2027 | APEJ | Shanghai | FICC and Equities, Sales and Trading | Summer Analyst](https://higher.gs.com/roles/170827) - Shanghai, Shanghai, China
 - **DRW** - [Software Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) - Singapore
-- **Flow Traders** - [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920) - Amsterdam
+- **Flow Traders** - [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920) - Amsterdam — _reopened 2026-10-23_
 
 ### 2026-10-08 (4)
 
