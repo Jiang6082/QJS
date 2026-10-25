@@ -1,15 +1,15 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-10-23T08:27:27.760Z
+Last updated: 2026-10-25T13:59:05.500Z
 
 ## Summary
 
 - Companies searched: 370
 - Career pages checked: 517
-- Current retained roles: 542
-- New stable job URLs since previous scan: 5
-- No longer present since previous scan: 17
-- Missing without enough closure evidence: 103
+- Current retained roles: 538
+- New stable job URLs since previous scan: 4
+- No longer present since previous scan: 6
+- Missing without enough closure evidence: 105
 - Matching-role firms: 50
 - Confirmed no open postings: 4
 - Openings but no matching role: 36
@@ -17,19 +17,18 @@ Last updated: 2026-10-23T08:27:27.760Z
 
 ## New Roles Since Previous Scan
 
-### North America (3)
+### North America (2)
 
-- **D. E. Shaw** - [Venture Studio (Startup Incubator) Intern (New York) - Summer 2027](https://www.deshaw.com/careers/venture-studio-startup-incubator-intern-new-york-summer-2027-6166) - New York
-- **Man Group** - [Systematic Quant Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101) - Boston; Massachusetts
-- **Schonfeld** - [2027 PhD Centralized Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) - New York, New York, United States
+- **BMO Capital Markets** - [BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597) - Toronto, ON, CAN
+- **Connor Clark & Lunn** - [Intern, Investment Analytics Engagement](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009) - Vancouver, British Columbia, Canada
 
 ### Europe (1)
 
-- **Flow Traders** - [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920) - Amsterdam
+- **Goldman Sachs** - [2027 | EMEA | Frankfurt | FICC & Equities (Sales & Trading) | Seasonal/OffCycle](https://higher.gs.com/roles/171522) - Frankfurt, Hessen, Germany
 
 ### Asia (1)
 
-- **Schonfeld** - [2027 Index Rebalancing Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8311597) - Hong Kong, Hong Kong
+- **Engineers Gate** - [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8317827) - Singapore
 
 ### Oceania (0)
 
@@ -57,23 +56,12 @@ _None._
 
 ## No Longer Present
 
-- **AQR Capital Management** - [2027 Research Product Specialist Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) - Greenwich, CT
-- **DRW** - [Platform Engineer Intern](https://job-boards.greenhouse.io/drweng/jobs/7997729) - Chicago
-- **Jump Trading** - [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975008) - London
-- **Maven Securities** - [Software Developer Summer Internship London 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987) - London
-- **Schonfeld** - [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) - Miami, Florida, United States
-- **Geneva Trading** - [Quantitative Trading Internship – Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5232641007) - Chicago Office
-- **Schonfeld** - [2027 DMFI Quant Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8207942) - London, England, United Kingdom
-- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Charlotte NC, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385) - Charlotte
-- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Irvine, CA, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384) - Irvine
-- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Los Angeles, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382) - Los Angeles
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Charlotte NC, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385) - Charlotte
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Irvine, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384) - Irvine
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Los Angeles, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382) - Los Angeles
-- **Old Mission Capital** - [Quantitative Trader - 2027 Micro-Internship Program (January Start)](https://jobs.ashbyhq.com/old-mission-capital/54918f5f-24b7-496a-b702-e2d7265e4cb5) - Chicago, IL
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Charlotte, NC](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385) - Charlotte
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Irvine, CA](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384) - Irvine
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Los Angeles, CA](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382) - Los Angeles
+- **Belvedere Trading** - [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) - Chicago, Illinois
+- **Optiver** - [Software Engineer Intern (Summer 2027 - Austin)](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) - Austin, Texas, United States
+- **Optiver** - [Software Engineer Intern (Summer 2027 - Chicago)](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) - Chicago, Illinois, United States
+- **Optiver** - [Trading Automation and Operations Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002) - Chicago, Illinois, United States
+- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) - Chicago, Illinois, United States
+- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) - Austin, Texas, United States
 
 ## Full Reports
 

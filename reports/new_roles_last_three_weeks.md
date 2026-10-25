@@ -1,6 +1,16 @@
-# Roles posted 2026-10-03 → 2026-10-23 (50 with source posting dates)
+# Roles posted 2026-10-05 → 2026-10-25 (54 with source posting dates)
 
 _Dates come from employer publication fields or dated relative labels. Relative labels have day-level precision; source publication dates can reflect a repost. Internship start dates and edit timestamps are not release dates._
+
+## Goldman Sachs (7)
+
+- **2026-10-23** — [2027 | EMEA | Frankfurt | FICC & Equities (Sales & Trading) | Seasonal/OffCycle](https://higher.gs.com/roles/171522) — Frankfurt, Hessen, Germany
+- **2026-10-21** — [2027 | EMEA | London | Risk | Summer Analyst](https://higher.gs.com/roles/172894) — London, Greater London, England, United Kingdom
+- **2026-10-21** — [2027 | EMEA | Warsaw | Risk | Summer Analyst](https://higher.gs.com/roles/170171) — Warsaw, Mazowieckie, Poland
+- **2026-10-20** — [2027 | EMEA | London | Global Investment Research | Macro Research, Portfolio Strategy | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170877) — London, Greater London, England, United Kingdom
+- **2026-10-14** — [2027 I Americas I New York City Area I Global Investment Research, Equity Research I Summer Associate](https://higher.gs.com/roles/184069) — New York, NY, United States
+- **2026-10-07** — [2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst](https://higher.gs.com/roles/155950) — New York, NY, United States
+- **2026-10-06** — [2027 | EMEA | London | FICC and Equities (Sales and Trading) Quantitative Strats | Internship](https://higher.gs.com/roles/175424) — London, Greater London, England, United Kingdom
 
 ## Jain Global (7)
 
@@ -11,15 +21,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-10-13** — [Quantitative Developer Intern (Summer 2027 - New York)](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608) — New York, New York _(relative source date)_
 - **2026-10-05** — [Data Engineer Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1) — New York, New York _(relative source date)_
 - **2026-10-05** — [Quant Research Intern, Systematic Trading](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1) — New York, New York _(relative source date)_
-
-## Goldman Sachs (6)
-
-- **2026-10-21** — [2027 | EMEA | London | Risk | Summer Analyst](https://higher.gs.com/roles/172894) — London, Greater London, England, United Kingdom
-- **2026-10-21** — [2027 | EMEA | Warsaw | Risk | Summer Analyst](https://higher.gs.com/roles/170171) — Warsaw, Mazowieckie, Poland
-- **2026-10-20** — [2027 | EMEA | London | Global Investment Research | Macro Research, Portfolio Strategy | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170877) — London, Greater London, England, United Kingdom
-- **2026-10-14** — [2027 I Americas I New York City Area I Global Investment Research, Equity Research I Summer Associate](https://higher.gs.com/roles/184069) — New York, NY, United States
-- **2026-10-07** — [2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst](https://higher.gs.com/roles/155950) — New York, NY, United States
-- **2026-10-06** — [2027 | EMEA | London | FICC and Equities (Sales and Trading) Quantitative Strats | Internship](https://higher.gs.com/roles/175424) — London, Greater London, England, United Kingdom
 
 ## Susquehanna International Group (6)
 
@@ -47,6 +48,11 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-10-14** — [2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002) — New York, NY
 - **2026-10-14** — [2027 Summer Internship - Sector Analyst, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) — New York, NY
 - **2026-10-14** — [2027 Summer Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002) — New York, NY
+
+## BMO Capital Markets (2)
+
+- **2026-10-23** — [BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597) — Toronto, ON, CAN _(relative source date)_
+- **2026-10-19** — [Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1) — Toronto, ON, CAN _(relative source date)_
 
 ## Schonfeld (2)
 
@@ -78,6 +84,14 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-10-12** — [Data Center Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4742962005) — Chicago
 - **2026-10-06** — [Database Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4741016005) — Chicago
 
+## Connor Clark & Lunn (1)
+
+- **2026-10-23** — [Intern, Investment Analytics Engagement](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009) — Vancouver, British Columbia, Canada
+
+## Engineers Gate (1)
+
+- **2026-10-23** — [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8317827) — Singapore
+
 ## Man Group (1)
 
 - **2026-10-22** — [Systematic Quant Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101) — Boston; Massachusetts
@@ -85,10 +99,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 ## Optiver (1)
 
 - **2026-10-20** — [Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)](https://www.optiver.com/join-us/jobs/8901997002/?gh_jid=8901997002) — Shanghai, China
-
-## BMO Capital Markets (1)
-
-- **2026-10-19** — [Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1) — Toronto, ON, CAN _(relative source date)_
 
 ## Graviton Research Capital (1)
 

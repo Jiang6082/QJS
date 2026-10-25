@@ -1,12 +1,40 @@
 {
-  "generatedAt": "2026-10-23T08:32:25.567Z",
-  "currentScanAt": "2026-10-23T08:27:27.760Z",
-  "total": 531,
-  "active": 368,
-  "notDetected": 163,
-  "newSincePreviousScan": 5,
+  "generatedAt": "2026-10-25T14:03:54.326Z",
+  "currentScanAt": "2026-10-25T13:59:05.500Z",
+  "total": 535,
+  "active": 367,
+  "notDetected": 168,
+  "newSincePreviousScan": 4,
   "manuallyRecovered": 5,
   "roles": [
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto",
+      "Location": "Toronto, ON, CAN",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597",
+      "Source": "Career page Workday:bmo/External",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-10-23",
+      "first_seen": "2026-10-25",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Connor Clark & Lunn",
+      "Title": "Intern, Investment Analytics Engagement",
+      "Location": "Vancouver, British Columbia, Canada",
+      "URL": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009",
+      "Source": "Career page Greenhouse:cclfg",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-10-23",
+      "first_seen": "2026-10-25",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
     {
       "Company": "D. E. Shaw",
       "Title": "Venture Studio (Startup Incubator) Intern (New York) - Summer 2027",
@@ -16,6 +44,34 @@
       "source_status": "Confirmed official posting",
       "release_date": null,
       "first_seen": "2026-10-23",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Engineers Gate",
+      "Title": "Quantitative Research Intern",
+      "Location": "Singapore",
+      "URL": "https://job-boards.greenhouse.io/engineersgate/jobs/8317827",
+      "Source": "Career page Greenhouse:engineersgate",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-10-23",
+      "first_seen": "2026-10-25",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Goldman Sachs",
+      "Title": "2027 | EMEA | Frankfurt | FICC & Equities (Sales & Trading) | Seasonal/OffCycle",
+      "Location": "Frankfurt, Hessen, Germany",
+      "URL": "https://higher.gs.com/roles/171522",
+      "Source": "Official Goldman Sachs Higher API",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-10-23",
+      "first_seen": "2026-10-25",
       "discovery_note": null,
       "manually_verified": false,
       "verifiedAt": null,
@@ -1493,20 +1549,6 @@
     },
     {
       "Company": "BlackRock",
-      "Title": "2027 MBA Internship Program - Client & Product Functions - Research & Markets Advisory - New York",
-      "Location": "New York, NY",
-      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467",
-      "Source": "Career page Workday:blackrock/BlackRock_Professional",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-15",
-      "first_seen": "2026-09-15",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "BlackRock",
       "Title": "2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York",
       "Location": "New York, NY",
       "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468",
@@ -2238,20 +2280,6 @@
       "Title": "Sales, Trading and Structuring Off Cycle Internship Programme 2027 London",
       "Location": "Canary Wharf, 1 Churchill Place",
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-London_JR-0000124716",
-      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-09",
-      "first_seen": "2026-09-09",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "Barclays",
-      "Title": "Sales, Trading and Structuring Summer Internship Programme 2027 London",
-      "Location": "Canary Wharf, 1 Churchill Place",
-      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-London_JR-0000124692",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-09",
@@ -3406,7 +3434,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-23",
+      "verifiedAt": "2026-10-25",
       "status": "active"
     },
     {
@@ -4684,20 +4712,6 @@
       "status": "active"
     },
     {
-      "Company": "Optiver",
-      "Title": "Quantitative Intern (Summer 2027)",
-      "Location": "Austin, Texas, United States",
-      "URL": "https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002",
-      "Source": "Greenhouse:optiverus",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-08-05",
-      "first_seen": "2026-08-21",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "Belvedere Trading",
       "Title": "Quantitative Trading Intern - Summer 2027",
       "Location": "Chicago, Illinois",
@@ -4716,20 +4730,6 @@
       "Title": "Quantitative Trading Intern - Winter Quarter 2027",
       "Location": "Chicago, Illinois",
       "URL": "https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0",
-      "Source": "Career page Lever:belvederetrading",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-08-04",
-      "first_seen": "2026-08-21",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "Belvedere Trading",
-      "Title": "Software Engineer Intern - Summer 2027",
-      "Location": "Chicago, Illinois",
-      "URL": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
       "Source": "Career page Lever:belvederetrading",
       "source_status": "Confirmed official posting",
       "release_date": "2026-08-04",
@@ -5062,20 +5062,6 @@
       "status": "active"
     },
     {
-      "Company": "Optiver",
-      "Title": "Quantitative Intern (Summer 2027)",
-      "Location": "Chicago, Illinois, United States",
-      "URL": "https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002",
-      "Source": "Greenhouse:optiverus",
-      "source_status": "Confirmed official posting",
-      "release_date": null,
-      "first_seen": "2026-07-23",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "Point72",
       "Title": "Quantitative Developer Intern",
       "Location": "New York",
@@ -5114,7 +5100,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-23",
+      "verifiedAt": "2026-10-25",
       "status": "active"
     },
     {
@@ -5128,7 +5114,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-23",
+      "verifiedAt": "2026-10-25",
       "status": "active"
     },
     {
@@ -5142,7 +5128,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-23",
+      "verifiedAt": "2026-10-25",
       "status": "active"
     },
     {
@@ -5156,7 +5142,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-10-23",
+      "verifiedAt": "2026-10-25",
       "status": "active"
     },
     {
@@ -6042,6 +6028,20 @@
       "status": "not_detected"
     },
     {
+      "Company": "BlackRock",
+      "Title": "2027 MBA Internship Program - Client & Product Functions - Research & Markets Advisory - New York",
+      "Location": "New York, NY",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-15",
+      "first_seen": "2026-09-15",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
       "Company": "Brevan Howard",
       "Title": "2027 Summer Internship Program – Trading, Geneva",
       "Location": "Geneva",
@@ -6256,6 +6256,20 @@
       "Title": "2027 Technology Developer Summer Internship Programme London",
       "Location": "Canary Wharf, 1 Churchill Place",
       "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397",
+      "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-09",
+      "first_seen": "2026-09-09",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Barclays",
+      "Title": "Sales, Trading and Structuring Summer Internship Programme 2027 London",
+      "Location": "Canary Wharf, 1 Churchill Place",
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-London_JR-0000124692",
       "Source": "Career page Workday:barclays/External_Career_Site_Barclays",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-09",
@@ -7288,6 +7302,34 @@
       "status": "not_detected"
     },
     {
+      "Company": "Optiver",
+      "Title": "Quantitative Intern (Summer 2027)",
+      "Location": "Austin, Texas, United States",
+      "URL": "https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002",
+      "Source": "Greenhouse:optiverus",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-05",
+      "first_seen": "2026-08-21",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Belvedere Trading",
+      "Title": "Software Engineer Intern - Summer 2027",
+      "Location": "Chicago, Illinois",
+      "URL": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+      "Source": "Career page Lever:belvederetrading",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-04",
+      "first_seen": "2026-08-21",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
       "Company": "IMC Trading",
       "Title": "Hardware Engineer Intern",
       "Location": "Amsterdam, Netherlands",
@@ -7419,6 +7461,20 @@
       "Location": "London",
       "URL": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
       "Source": "Greenhouse:jumptrading",
+      "source_status": "Confirmed official posting",
+      "release_date": null,
+      "first_seen": "2026-07-23",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "Quantitative Intern (Summer 2027)",
+      "Location": "Chicago, Illinois, United States",
+      "URL": "https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002",
+      "Source": "Greenhouse:optiverus",
       "source_status": "Confirmed official posting",
       "release_date": null,
       "first_seen": "2026-07-23",

@@ -1,27 +1,26 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-10-20T12:18:52.865Z
-Current scan: 2026-10-23T08:27:27.760Z
-Previous rows: 551
-Current rows: 542
-New URLs confirmed in both source passes: 5
-Confirmed no longer present: 17
+Previous scan: 2026-10-23T08:27:27.760Z
+Current scan: 2026-10-25T13:59:05.500Z
+Previous rows: 542
+Current rows: 538
+New URLs confirmed in both source passes: 4
+Confirmed no longer present: 6
 
 ## New Roles By Region
 
-### North America (3)
+### North America (2)
 
-- **D. E. Shaw** - [Venture Studio (Startup Incubator) Intern (New York) - Summer 2027](https://www.deshaw.com/careers/venture-studio-startup-incubator-intern-new-york-summer-2027-6166) - New York - Confirmed official posting (Official D. E. Shaw internships page): career_page=https://www.deshaw.com/careers/internships | department=Strategy and Business Development | internship timing: Summer 2027 | official detail page checked | Venture Studio (Startup Incubator) Intern (New York) - Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choo
-- **Man Group** - [Systematic Quant Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101) - Boston; Massachusetts - Confirmed official posting (Greenhouse:mangroup): posted=2026-10-22T16:27:22-04:00; internship timing not stated in title; undergrad/BS/MS language found
-- **Schonfeld** - [2027 PhD Centralized Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) - New York, New York, United States - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-10-22T10:37:30-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8174538 | internship timing not stated in title | The Role We’re seeking a highly motivated PhD student in economics to join our Central Research team in the Discretionary Macro and Fixed Income Division in New York. You’ll work on live research questions, not academic exercises, and your output will feed directly into portfolio managers’ investment processes. This role is ideal for someone who thrives in a fast-paced environment and wants to deepen their understanding of macro markets. What You’ll Do As part of a close-knit team, you’ll build tools and analyze large datasets to generate actionable macroeconomic insights for portfolio managers. Your work may include: Building quantitative models covering growth, inflation, labo...
+- **BMO Capital Markets** - [BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597) - Toronto, ON, CAN - Confirmed official posting (Career page Workday:bmo/External): career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted 2 Days Ago | R260028597
+- **Connor Clark & Lunn** - [Intern, Investment Analytics Engagement](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009) - Vancouver, British Columbia, Canada - Confirmed official posting (Career page Greenhouse:cclfg): posted=2026-10-23T12:34:31-04:00 | career_page=https://cclfg.cclgroup.com/careers/opportunities/ | company_wrapper=https://cclfg.cclgroup.com/careers/opportunities/job?gh_jid=4464732009 | internship timing not stated in title | Interested in joining one of Canada’s top performing asset managers? CC&L Financial Group is looking for an Intern, Investment Analytics Engagement (“IAE”) to join our Investment Analytics Team for a 4-month term (January-April 2027 ). A dynamic, fast-paced work environment where opportunities for learning and growth are abound . Collaborate with three distinct teams of open-minded and forwarding looking professionals in the Investment Analytics space. You will have the ability to experience first-hand how investment analytics adds value across the Asset Management value chain and make an impact at CC&L through your expertise and analysis in business management. W...
 
 ### Europe (1)
 
-- **Flow Traders** - [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920) - Amsterdam - Confirmed official posting (Career page Greenhouse:flowtraders): posted=2026-10-07T10:37:51-04:00 | career_page=https://www.flowtraders.com/careers | company_wrapper=https://www.flowtraders.com/job?gh_jid=8260920 | internship timing: Summer; graduation eligibility mentions: 2028 | Flow Traders is looking for entrepreneurial, competitive and analytical talent to join our Trading department as an Intern. What better way to find out if a career in (Quantitative) Trading is something for you, than by experiencing it yourself as a Trading Intern? You will get a 360-degree view of our role in the financial markets, how our Traders seize arbitrage opportunities, and how they work together as a team to optimize and improve their desk. The internship starts 1st of July 2027 and will last for 8 weeks. Housing will be provided! This Trading internship is about immersing yourself in financial markets and experience trading from up close. You do not need to have a...
+- **Goldman Sachs** - [2027 | EMEA | Frankfurt | FICC & Equities (Sales & Trading) | Seasonal/OffCycle](https://higher.gs.com/roles/171522) - Frankfurt, Hessen, Germany - Confirmed official posting (Official Goldman Sachs Higher API): posted=2026-10-23 | role_id=171522 | program=Seasonal | division=Global Banking & Markets
 
 ### Asia (1)
 
-- **Schonfeld** - [2027 Index Rebalancing Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8311597) - Hong Kong, Hong Kong - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-10-22T10:11:32-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8311597 | internship timing not stated in title | The Role As a Quantitative Research Intern on our APAC Tactical team in Hong Kong, you'll research market inefficiencies across Asia-Pacific and help turn ideas into tradable insights. You'll work closely with the portfolio manager, use AI tools throughout your research, and own a project from start to finish. The internship runs 3–6 months, including Jun-August 2027. What You’ll Do Find, test and validate ideas that exploit market inefficiencies. Build research tools and data pipelines, using AI agents to speed up your work. Present your findings to the team and defend them. What You’ll Bring Pursuing a degree in a quantitative field. Strong coding and database skills, plus a s...
+- **Engineers Gate** - [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8317827) - Singapore - Confirmed official posting (Career page Greenhouse:engineersgate): posted=2026-10-23T12:00:01-04:00 | career_page=https://job-boards.greenhouse.io/engineersgate | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8317827 | internship timing not stated in title | About EG Engineers Gate (EG) is a leading investment manager founded in 2014 as a quantitative, computer-driven trading firm. Today, EG operates as a diversified, multi-strategy investment platform that combines systematic research with selective discretionary approaches. EG's multi-manager platform allows independent investment teams to pursue distinct strategies while benefiting from shared infrastructure, risk management, and operational support. The firm’s collaborative groups of researchers, engineers, and investment professionals deploy sophisticated statistical models, proprietary technology, and a centralized data platform to isolate and solve challenging problem sets in the gl...
 
 ### Oceania (0)
 
@@ -49,23 +48,12 @@ _None._
 
 ## No Longer Present
 
-- **AQR Capital Management** - [2027 Research Product Specialist Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095)
-- **DRW** - [Platform Engineer Intern](https://job-boards.greenhouse.io/drweng/jobs/7997729)
-- **Jump Trading** - [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975008)
-- **Maven Securities** - [Software Developer Summer Internship London 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987)
-- **Schonfeld** - [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064)
-- **Geneva Trading** - [Quantitative Trading Internship – Summer 2027](https://job-boards.greenhouse.io/genevatrading/jobs/5232641007)
-- **Schonfeld** - [2027 DMFI Quant Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8207942)
-- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Charlotte NC, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385)
-- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Irvine, CA, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384)
-- **Capital Group** - [CAMPUS: Data & Technology Summer Associate (Los Angeles, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382)
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Charlotte NC, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385)
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Irvine, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384)
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Los Angeles, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382)
-- **Old Mission Capital** - [Quantitative Trader - 2027 Micro-Internship Program (January Start)](https://jobs.ashbyhq.com/old-mission-capital/54918f5f-24b7-496a-b702-e2d7265e4cb5)
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Charlotte, NC](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385)
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Irvine, CA](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384)
-- **Capital Group** - [CAMPUS: Capital Group Rotational Program - Data & Technology Track Summer Associate (2027) Los Angeles, CA](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382)
+- **Belvedere Trading** - [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0)
+- **Optiver** - [Software Engineer Intern (Summer 2027 - Austin)](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002)
+- **Optiver** - [Software Engineer Intern (Summer 2027 - Chicago)](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002)
+- **Optiver** - [Trading Automation and Operations Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002)
+- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002)
+- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002)
 
 ## Missing but not confirmed closed
 
@@ -141,6 +129,7 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Invesco** - [Intern, Client Portfolio Management, Invesco Real Estate Korea (6 months)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Seoul-Seoul/Intern--Client-Portfolio-Management--Invesco-Real-Estate-Korea--6-months-_R-15500-1)
 - **Barclays** - [2027 Risk Analyst Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Risk-Analyst-Summer-Internship-Programme-London_JR-0000129108)
 - **Barclays** - [2027 Technology Developer Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397)
+- **Barclays** - [Sales, Trading and Structuring Summer Internship Programme 2027 London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-London_JR-0000124692)
 - **BP** - [Summer Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2)
 - **Northern Trust Asset Management** - [Risk and Compliance Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Risk-and-Compliance-Intern_R160771-1)
 - **Vanguard** - [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1)
@@ -149,6 +138,7 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **BMO Capital Markets** - [R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726)
 - **Fidelity Investments** - [Summer 2027 Equity Research Associate Intern - London](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1)
 - **PIMCO** - [2027 Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805)
+- **BlackRock** - [2027 MBA Internship Program - Client & Product Functions - Research & Markets Advisory - New York](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467)
 - **Brevan Howard** - [2027 Summer Internship Program – Trading, Geneva](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607)
 - **Morningstar** - [Morningstar Internship Program- Quantitative Research Intern 2027 (Campus)](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027--Campus-_REQ-058465)
 - **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677)

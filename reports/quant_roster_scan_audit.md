@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-10-23T08:27:27.760Z
+Scan started: 2026-10-25T13:59:05.500Z
 Source roster entries: 306
 Canonical companies after aliases: 305
 
@@ -106,7 +106,7 @@ Canonical companies after aliases: 305
 | Vatic Labs | 1/1 pages live | [link](https://job-boards.greenhouse.io/vaticlabs/jobs/3137555) |
 | Vitol | 1/1 pages live | [link](https://careers.smartrecruiters.com/Vitol?oga=true) |
 | XTX Markets | 1/1 pages live | [link](https://www.xtxmarkets.com/careers/) |
-| Teza Technologies | 1/2 pages live | [link](https://www.teza.com/careers/) [link](https://jobs.ashbyhq.com/teza-technologies) |
+| Teza Technologies | 2/2 pages live | [link](https://www.teza.com/careers/) [link](https://jobs.ashbyhq.com/teza-technologies) |
 | Verition Fund Management | 2/3 pages live | [link](https://www.verition.com/careers/) [link](https://www.verition.com/careers) [link](https://www.verition.com/open-positions) |
 
 ## Could Not Fully Verify (215)
@@ -165,7 +165,7 @@ Canonical companies after aliases: 305
 | Chengdu ZhaoYu Investment | no saved page attempted | none |
 | Cor Capital | no saved page attempted | none |
 | DSV Fund | 1/1 pages live | [link](https://www.dsv.com/en/careers) |
-| Danske Commodities | 0/1 pages live | [link](https://danskecommodities.com/join-us) |
+| Danske Commodities | 1/1 pages live | [link](https://danskecommodities.com/join-us) |
 | Eagle Seven | 1/1 pages live | [link](https://www.eagleseven.com/) |
 | Estee Advisors | 1/1 pages live | [link](https://esteeadvisors.com/careers.php) |
 | Futures First | 1/1 pages live | [link](https://futuresfirst.com/careers/) |

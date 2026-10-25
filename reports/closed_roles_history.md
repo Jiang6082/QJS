@@ -1,9 +1,18 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 203
-Last updated: 2026-10-23T08:27:27.760Z
+Total closure events recorded: 209
+Last updated: 2026-10-25T13:59:05.500Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-25 (6)
+
+- **Belvedere Trading** - [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) - Chicago, Illinois
+- **Optiver** - [Software Engineer Intern (Summer 2027 - Austin)](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) - Austin, Texas, United States
+- **Optiver** - [Software Engineer Intern (Summer 2027 - Chicago)](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) - Chicago, Illinois, United States
+- **Optiver** - [Trading Automation and Operations Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002) - Chicago, Illinois, United States
+- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) - Chicago, Illinois, United States
+- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) - Austin, Texas, United States
 
 ### 2026-10-23 (17)
 

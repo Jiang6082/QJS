@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T08:27:27.760Z",
+  "updatedAt": "2026-10-25T13:59:05.500Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -4925,6 +4925,30 @@
       "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8174538",
       "first_seen": "2026-10-23",
       "date": "2026-10-22",
+      "evidence": "employer_field"
+    },
+    "bmo|R260028597|bmo capital markets summer 2027 internship risk and capital solutions analyst, toronto": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597",
+      "first_seen": "2026-10-25",
+      "date": "2026-10-23",
+      "evidence": "employer_relative_label"
+    },
+    "https://cclfg.cclgroup.com/careers/opportunities/posting?gh_jid=4464732009": {
+      "URL": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009",
+      "first_seen": "2026-10-25",
+      "date": "2026-10-23",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/engineersgate/jobs/8317827": {
+      "URL": "https://job-boards.greenhouse.io/engineersgate/jobs/8317827",
+      "first_seen": "2026-10-25",
+      "date": "2026-10-23",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/171522": {
+      "URL": "https://higher.gs.com/roles/171522",
+      "first_seen": "2026-10-25",
+      "date": "2026-10-23",
       "evidence": "employer_field"
     }
   }
