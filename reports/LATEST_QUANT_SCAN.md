@@ -1,34 +1,36 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-10-25T13:59:05.500Z
+Last updated: 2026-10-27T12:41:51.694Z
 
 ## Summary
 
 - Companies searched: 370
-- Career pages checked: 517
-- Current retained roles: 538
+- Career pages checked: 514
+- Current retained roles: 532
 - New stable job URLs since previous scan: 4
-- No longer present since previous scan: 6
-- Missing without enough closure evidence: 105
-- Matching-role firms: 50
+- No longer present since previous scan: 8
+- Missing without enough closure evidence: 107
+- Matching-role firms: 49
 - Confirmed no open postings: 4
 - Openings but no matching role: 36
-- Could not fully verify: 215
+- Could not fully verify: 216
 
 ## New Roles Since Previous Scan
 
-### North America (2)
+### North America (4)
 
-- **BMO Capital Markets** - [BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597) - Toronto, ON, CAN
-- **Connor Clark & Lunn** - [Intern, Investment Analytics Engagement](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009) - Vancouver, British Columbia, Canada
+- **Man Group** - [Systematic Fast Trading Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101) - New York
+- **PIMCO** - [2027 PhD/MFE Summer Intern – Quantitative Portfolio Manager](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) - Newport Beach, CA USA
+- **Qube Research & Technologies** - [2027 Internship - Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) - New York, Chicago
+- **Schonfeld** - [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) - New York, New York, United States
 
-### Europe (1)
+### Europe (0)
 
-- **Goldman Sachs** - [2027 | EMEA | Frankfurt | FICC & Equities (Sales & Trading) | Seasonal/OffCycle](https://higher.gs.com/roles/171522) - Frankfurt, Hessen, Germany
+_None._
 
-### Asia (1)
+### Asia (0)
 
-- **Engineers Gate** - [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8317827) - Singapore
+_None._
 
 ### Oceania (0)
 
@@ -56,12 +58,14 @@ _None._
 
 ## No Longer Present
 
-- **Belvedere Trading** - [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) - Chicago, Illinois
-- **Optiver** - [Software Engineer Intern (Summer 2027 - Austin)](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) - Austin, Texas, United States
-- **Optiver** - [Software Engineer Intern (Summer 2027 - Chicago)](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) - Chicago, Illinois, United States
-- **Optiver** - [Trading Automation and Operations Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002) - Chicago, Illinois, United States
-- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) - Chicago, Illinois, United States
-- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) - Austin, Texas, United States
+- **AQR Capital Management** - [2027 Portfolio Implementation Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) - Greenwich, CT
+- **D. E. Shaw** - [Systems Engineering Intern (London) - Summer 2027](https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2027-5925) - London
+- **Walleye Capital** - [Quantic – Quantitative Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) - Boston, MA
+- **Schonfeld** - [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) - New York, New York, United States
+- **Schonfeld** - [2027 DMFI Quant Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8187178) - London, England, United Kingdom
+- **Goldman Sachs** - [2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst](https://higher.gs.com/roles/155950) - New York, NY, United States
+- **Mako Trading** - [Mako Summer Internship – Trading](https://www.mako.com/opportunities/job-listing/8883121002?gh_jid=8883121002) - London
+- **Man Group** - [Systematic Quant Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101) - Boston; Massachusetts
 
 ## Full Reports
 

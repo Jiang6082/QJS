@@ -1,26 +1,28 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-10-23T08:27:27.760Z
-Current scan: 2026-10-25T13:59:05.500Z
-Previous rows: 542
-Current rows: 538
+Previous scan: 2026-10-25T13:59:05.500Z
+Current scan: 2026-10-27T12:41:51.694Z
+Previous rows: 538
+Current rows: 532
 New URLs confirmed in both source passes: 4
-Confirmed no longer present: 6
+Confirmed no longer present: 8
 
 ## New Roles By Region
 
-### North America (2)
+### North America (4)
 
-- **BMO Capital Markets** - [BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597) - Toronto, ON, CAN - Confirmed official posting (Career page Workday:bmo/External): career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted 2 Days Ago | R260028597
-- **Connor Clark & Lunn** - [Intern, Investment Analytics Engagement](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009) - Vancouver, British Columbia, Canada - Confirmed official posting (Career page Greenhouse:cclfg): posted=2026-10-23T12:34:31-04:00 | career_page=https://cclfg.cclgroup.com/careers/opportunities/ | company_wrapper=https://cclfg.cclgroup.com/careers/opportunities/job?gh_jid=4464732009 | internship timing not stated in title | Interested in joining one of Canada’s top performing asset managers? CC&L Financial Group is looking for an Intern, Investment Analytics Engagement (“IAE”) to join our Investment Analytics Team for a 4-month term (January-April 2027 ). A dynamic, fast-paced work environment where opportunities for learning and growth are abound . Collaborate with three distinct teams of open-minded and forwarding looking professionals in the Investment Analytics space. You will have the ability to experience first-hand how investment analytics adds value across the Asset Management value chain and make an impact at CC&L through your expertise and analysis in business management. W...
+- **Man Group** - [Systematic Fast Trading Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101) - New York - Confirmed official posting (Greenhouse:mangroup): posted=2026-10-25T21:18:38-04:00; internship timing not stated in title; undergrad/BS/MS language found
+- **PIMCO** - [2027 PhD/MFE Summer Intern – Quantitative Portfolio Manager](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) - Newport Beach, CA USA - Confirmed official posting (Career page Workday:pimco/pimco-careers): career_page=https://www.pimco.com/us/en/about-us/careers | Posted Yesterday | R106830
+- **Qube Research & Technologies** - [2027 Internship - Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) - New York, Chicago - Confirmed official posting (Greenhouse:quberesearchandtechnologies): posted=2026-10-26T07:01:34-04:00; internship timing not stated in title; undergrad/BS/MS language found
+- **Schonfeld** - [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) - New York, New York, United States - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-09-04T12:42:57-04:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8171692 | internship timing not stated in title | The Role We are excited to offer an internship opportunity for a talented student to join the data science team at Schonfeld. The data science team is responsible for creating Schonfeld's proprietary curated and feature datasets, conducting data analytics and research, and ultimately add value to various investment strategies. What You’ll Do As a data scientist, you will work closely with the engineering teams to optimize data ingestion pipelines, ensuring high-quality data input. You will also collaborate with portfolio manager teams to extract insights from data and systematically generate features or signals that feed into the alpha generation process. Additionally, you will ...
 
-### Europe (1)
+### Europe (0)
 
-- **Goldman Sachs** - [2027 | EMEA | Frankfurt | FICC & Equities (Sales & Trading) | Seasonal/OffCycle](https://higher.gs.com/roles/171522) - Frankfurt, Hessen, Germany - Confirmed official posting (Official Goldman Sachs Higher API): posted=2026-10-23 | role_id=171522 | program=Seasonal | division=Global Banking & Markets
+_None._
 
-### Asia (1)
+### Asia (0)
 
-- **Engineers Gate** - [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8317827) - Singapore - Confirmed official posting (Career page Greenhouse:engineersgate): posted=2026-10-23T12:00:01-04:00 | career_page=https://job-boards.greenhouse.io/engineersgate | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8317827 | internship timing not stated in title | About EG Engineers Gate (EG) is a leading investment manager founded in 2014 as a quantitative, computer-driven trading firm. Today, EG operates as a diversified, multi-strategy investment platform that combines systematic research with selective discretionary approaches. EG's multi-manager platform allows independent investment teams to pursue distinct strategies while benefiting from shared infrastructure, risk management, and operational support. The firm’s collaborative groups of researchers, engineers, and investment professionals deploy sophisticated statistical models, proprietary technology, and a centralized data platform to isolate and solve challenging problem sets in the gl...
+_None._
 
 ### Oceania (0)
 
@@ -48,12 +50,14 @@ _None._
 
 ## No Longer Present
 
-- **Belvedere Trading** - [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0)
-- **Optiver** - [Software Engineer Intern (Summer 2027 - Austin)](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002)
-- **Optiver** - [Software Engineer Intern (Summer 2027 - Chicago)](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002)
-- **Optiver** - [Trading Automation and Operations Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002)
-- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002)
-- **Optiver** - [Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002)
+- **AQR Capital Management** - [2027 Portfolio Implementation Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562)
+- **D. E. Shaw** - [Systems Engineering Intern (London) - Summer 2027](https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2027-5925)
+- **Walleye Capital** - [Quantic – Quantitative Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006)
+- **Schonfeld** - [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172074)
+- **Schonfeld** - [2027 DMFI Quant Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8187178)
+- **Goldman Sachs** - [2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst](https://higher.gs.com/roles/155950)
+- **Mako Trading** - [Mako Summer Internship – Trading](https://www.mako.com/opportunities/job-listing/8883121002?gh_jid=8883121002)
+- **Man Group** - [Systematic Quant Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101)
 
 ## Missing but not confirmed closed
 
@@ -141,6 +145,7 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **BlackRock** - [2027 MBA Internship Program - Client & Product Functions - Research & Markets Advisory - New York](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467)
 - **Brevan Howard** - [2027 Summer Internship Program – Trading, Geneva](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607)
 - **Morningstar** - [Morningstar Internship Program- Quantitative Research Intern 2027 (Campus)](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027--Campus-_REQ-058465)
+- **PIMCO** - [2027 PhD/MFE Summer Intern – Quantitative Portfolio Management](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830)
 - **T. Rowe Price** - [2027 Technology and Data Internship](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677)
 - **Wellington Management** - [Portfolio Reference Data Analyst Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829)
 - **Wellington Management** - [Quantitative Trading Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1)
@@ -164,3 +169,4 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Invesco** - [Early Career Intern - Technology (Distribution)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1)
 - **Invesco** - [Early Career Intern - Technology (Investment)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1)
 - **Invesco** - [Early Career Intern - Technology (Investment)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622-1)
+- **Jain Global** - [Quantitative Developer Intern (Summer 2027 - New York)](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608)

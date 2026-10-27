@@ -1,9 +1,20 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 209
-Last updated: 2026-10-25T13:59:05.500Z
+Total closure events recorded: 217
+Last updated: 2026-10-27T12:41:51.694Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-27 (8)
+
+- **AQR Capital Management** - [2027 Portfolio Implementation Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) - Greenwich, CT
+- **D. E. Shaw** - [Systems Engineering Intern (London) - Summer 2027](https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2027-5925) - London
+- **Walleye Capital** - [Quantic – Quantitative Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) - Boston, MA
+- **Schonfeld** - [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) - New York, New York, United States
+- **Schonfeld** - [2027 DMFI Quant Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8187178) - London, England, United Kingdom
+- **Goldman Sachs** - [2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst](https://higher.gs.com/roles/155950) - New York, NY, United States
+- **Mako Trading** - [Mako Summer Internship – Trading](https://www.mako.com/opportunities/job-listing/8883121002?gh_jid=8883121002) - London
+- **Man Group** - [Systematic Quant Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101) - Boston; Massachusetts
 
 ### 2026-10-25 (6)
 
@@ -129,7 +140,7 @@ Closures require two independent successful observations of absence from the rol
 - **DRW** - [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8038923) - Chicago
 - **Schonfeld** - [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) - Hong Kong, Hong Kong
 - **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) - New York, New York, United States — _reopened 2026-10-09_
-- **Schonfeld** - [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) - New York, New York, United States
+- **Schonfeld** - [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) - New York, New York, United States — _reopened 2026-10-27_
 - **Schonfeld** - [2027 DMFI Technology Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171772) - New York, New York, United States
 - **Schonfeld** - [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8180089) - New York, New York, United States
 

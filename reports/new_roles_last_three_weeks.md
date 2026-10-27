@@ -1,26 +1,6 @@
-# Roles posted 2026-10-05 → 2026-10-25 (54 with source posting dates)
+# Roles posted 2026-10-07 → 2026-10-27 (48 with source posting dates)
 
 _Dates come from employer publication fields or dated relative labels. Relative labels have day-level precision; source publication dates can reflect a repost. Internship start dates and edit timestamps are not release dates._
-
-## Goldman Sachs (7)
-
-- **2026-10-23** — [2027 | EMEA | Frankfurt | FICC & Equities (Sales & Trading) | Seasonal/OffCycle](https://higher.gs.com/roles/171522) — Frankfurt, Hessen, Germany
-- **2026-10-21** — [2027 | EMEA | London | Risk | Summer Analyst](https://higher.gs.com/roles/172894) — London, Greater London, England, United Kingdom
-- **2026-10-21** — [2027 | EMEA | Warsaw | Risk | Summer Analyst](https://higher.gs.com/roles/170171) — Warsaw, Mazowieckie, Poland
-- **2026-10-20** — [2027 | EMEA | London | Global Investment Research | Macro Research, Portfolio Strategy | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170877) — London, Greater London, England, United Kingdom
-- **2026-10-14** — [2027 I Americas I New York City Area I Global Investment Research, Equity Research I Summer Associate](https://higher.gs.com/roles/184069) — New York, NY, United States
-- **2026-10-07** — [2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst](https://higher.gs.com/roles/155950) — New York, NY, United States
-- **2026-10-06** — [2027 | EMEA | London | FICC and Equities (Sales and Trading) Quantitative Strats | Internship](https://higher.gs.com/roles/175424) — London, Greater London, England, United Kingdom
-
-## Jain Global (7)
-
-- **2026-10-19** — [Quantitative Research Intern – Equity Arbitrage](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Research-Intern---Equity-Arbitrage_JR100617-1) — New York, New York _(relative source date)_
-- **2026-10-14** — [Compliance Technology Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607) — New York, New York _(relative source date)_
-- **2026-10-13** — [Quant Modelling Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616) — New York, New York _(relative source date)_
-- **2026-10-13** — [Quant Research Intern (Summer 2027 – London)](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2) — London, United Kingdom _(relative source date)_
-- **2026-10-13** — [Quantitative Developer Intern (Summer 2027 - New York)](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608) — New York, New York _(relative source date)_
-- **2026-10-05** — [Data Engineer Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1) — New York, New York _(relative source date)_
-- **2026-10-05** — [Quant Research Intern, Systematic Trading](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1) — New York, New York _(relative source date)_
 
 ## Susquehanna International Group (6)
 
@@ -30,6 +10,21 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-10-15** — [Trading Operations Co-op with Drexel University](https://careers.sig.com/jobs/11666?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **2026-10-14** — [Technology Co-op with Drexel University](https://careers.sig.com/jobs/11654?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **2026-10-08** — [Machine Learning Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11620?lang=en-us) — Hong Kong, Hong Kong
+
+## Goldman Sachs (5)
+
+- **2026-10-23** — [2027 | EMEA | Frankfurt | FICC & Equities (Sales & Trading) | Seasonal/OffCycle](https://higher.gs.com/roles/171522) — Frankfurt, Hessen, Germany
+- **2026-10-21** — [2027 | EMEA | London | Risk | Summer Analyst](https://higher.gs.com/roles/172894) — London, Greater London, England, United Kingdom
+- **2026-10-21** — [2027 | EMEA | Warsaw | Risk | Summer Analyst](https://higher.gs.com/roles/170171) — Warsaw, Mazowieckie, Poland
+- **2026-10-20** — [2027 | EMEA | London | Global Investment Research | Macro Research, Portfolio Strategy | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170877) — London, Greater London, England, United Kingdom
+- **2026-10-14** — [2027 I Americas I New York City Area I Global Investment Research, Equity Research I Summer Associate](https://higher.gs.com/roles/184069) — New York, NY, United States
+
+## Jain Global (4)
+
+- **2026-10-19** — [Quantitative Research Intern – Equity Arbitrage](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Research-Intern---Equity-Arbitrage_JR100617-1) — New York, New York _(relative source date)_
+- **2026-10-14** — [Compliance Technology Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607) — New York, New York _(relative source date)_
+- **2026-10-13** — [Quant Modelling Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616) — New York, New York _(relative source date)_
+- **2026-10-13** — [Quant Research Intern (Summer 2027 – London)](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2) — London, United Kingdom _(relative source date)_
 
 ## Deutsche Bank (3)
 
@@ -79,10 +74,17 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-10-13** — [Applied AI Engineer (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Applied-AI-Engineer--Summer-Internship-_REQ8693) — New York _(relative source date)_
 - **2026-10-13** — [ML Engineer - Commodities Applied ML (Summer Internship - Master's)](https://bambusdev.my.site.com/s/details?jobReq=ML-Engineer---Commodities-Applied-ML--Summer-Internship---Master-s-_REQ8676) — New York _(relative source date)_
 
-## DV Trading (2)
+## PIMCO (1)
 
-- **2026-10-12** — [Data Center Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4742962005) — Chicago
-- **2026-10-06** — [Database Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4741016005) — Chicago
+- **2026-10-26** — [2027 PhD/MFE Summer Intern – Quantitative Portfolio Manager](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) — Newport Beach, CA USA _(relative source date)_
+
+## Qube Research & Technologies (1)
+
+- **2026-10-26** — [2027 Internship - Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) — New York, Chicago
+
+## Man Group (1)
+
+- **2026-10-25** — [Systematic Fast Trading Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101) — New York
 
 ## Connor Clark & Lunn (1)
 
@@ -91,10 +93,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 ## Engineers Gate (1)
 
 - **2026-10-23** — [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8317827) — Singapore
-
-## Man Group (1)
-
-- **2026-10-22** — [Systematic Quant Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101) — Boston; Massachusetts
 
 ## Optiver (1)
 
@@ -108,9 +106,9 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 
 - **2026-10-15** — [2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading](https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading) — New York, US
 
-## Mako Trading (1)
+## DV Trading (1)
 
-- **2026-10-12** — [Mako Summer Internship – Trading](https://www.mako.com/opportunities/job-listing/8883121002?gh_jid=8883121002) — London
+- **2026-10-12** — [Data Center Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4742962005) — Chicago
 
 ## IMC Financial Markets (1)
 
@@ -123,10 +121,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 ## PDT Partners (1)
 
 - **2026-10-07** — [Summer 2027 Quantitative Research Intern - PhD/Postdoctoral](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) — New York, NY
-
-## Squarepoint Capital (1)
-
-- **2026-10-06** — [Intern Software Developer - Warsaw 2027](https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124) — Warsaw
 
 ## First seen in this window, source posting date unavailable (5)
 

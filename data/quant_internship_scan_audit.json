@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-25T13:58:50.205Z",
+  "scannedAt": "2026-10-27T12:41:40.778Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -209,14 +209,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:point72",
-          "count": 215
+          "count": 209
         },
         {
           "source": "Ashby:point",
           "count": 0
         }
       ],
-      "jobsSeen": 215,
+      "jobsSeen": 209,
       "relevantInternships": 9
     },
     {
@@ -273,10 +273,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:akunacapital",
-          "count": 38
+          "count": 37
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 37,
       "relevantInternships": 6
     },
     {
@@ -302,10 +302,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:alphataraxia",
-          "count": 0
+          "count": 1
         }
       ],
-      "jobsSeen": 0,
+      "jobsSeen": 1,
       "relevantInternships": 0
     },
     {
@@ -449,10 +449,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 57
+          "count": 56
         }
       ],
-      "jobsSeen": 57,
+      "jobsSeen": 56,
       "relevantInternships": 0
     },
     {
@@ -460,10 +460,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 57
+          "count": 56
         }
       ],
-      "jobsSeen": 57,
+      "jobsSeen": 56,
       "relevantInternships": 0
     },
     {
@@ -699,10 +699,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:gelbergroup",
-          "count": 13
+          "count": 15
         }
       ],
-      "jobsSeen": 13,
+      "jobsSeen": 15,
       "relevantInternships": 1
     },
     {
@@ -755,10 +755,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:gsacapital",
-          "count": 12
+          "count": 13
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantInternships": 2
     },
     {
@@ -810,10 +810,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 170
+          "count": 168
         }
       ],
-      "jobsSeen": 170,
+      "jobsSeen": 168,
       "relevantInternships": 15
     },
     {
@@ -895,21 +895,21 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mako",
-          "count": 2
+          "count": 1
         }
       ],
-      "jobsSeen": 2,
-      "relevantInternships": 1
+      "jobsSeen": 1,
+      "relevantInternships": 0
     },
     {
       "company": "Man Group",
       "resolvedBoards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 62
+          "count": 65
         }
       ],
-      "jobsSeen": 62,
+      "jobsSeen": 65,
       "relevantInternships": 3
     },
     {
@@ -940,14 +940,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mavensecuritiesholdingltd",
-          "count": 38
+          "count": 37
         },
         {
           "source": "Ashby:maven",
           "count": 3
         }
       ],
-      "jobsSeen": 41,
+      "jobsSeen": 40,
       "relevantInternships": 3
     },
     {
@@ -1124,7 +1124,7 @@
         }
       ],
       "jobsSeen": 193,
-      "relevantInternships": 7
+      "relevantInternships": 8
     },
     {
       "company": "QVR Advisors",
@@ -1167,11 +1167,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:schonfeld",
-          "count": 67
+          "count": 66
         }
       ],
-      "jobsSeen": 67,
-      "relevantInternships": 3
+      "jobsSeen": 66,
+      "relevantInternships": 4
     },
     {
       "company": "Segantii Capital Management",
@@ -1236,18 +1236,18 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:sunrise",
-          "count": 16
+          "count": 17
         },
         {
           "source": "Ashby:sunrise",
-          "count": 11
+          "count": 9
         },
         {
           "source": "Trakstar:sunrisefutures",
           "count": 5
         }
       ],
-      "jobsSeen": 32,
+      "jobsSeen": 31,
       "relevantInternships": 0
     },
     {
@@ -1278,10 +1278,10 @@
       "resolvedBoards": [
         {
           "source": "Ashby:teza-technologies",
-          "count": 10
+          "count": 9
         }
       ],
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantInternships": 0
     },
     {
@@ -1375,10 +1375,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:virtu",
-          "count": 48
+          "count": 46
         }
       ],
-      "jobsSeen": 48,
+      "jobsSeen": 46,
       "relevantInternships": 11
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T13:59:05.500Z",
+  "updatedAt": "2026-10-27T12:41:51.694Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -4949,6 +4949,24 @@
       "URL": "https://higher.gs.com/roles/171522",
       "first_seen": "2026-10-25",
       "date": "2026-10-23",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101": {
+      "URL": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101",
+      "first_seen": "2026-10-27",
+      "date": "2026-10-25",
+      "evidence": "employer_field"
+    },
+    "pimco|R106830|2027 phd/mfe summer intern – quantitative portfolio manager": {
+      "URL": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830",
+      "first_seen": "2026-10-27",
+      "date": "2026-10-26",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002": {
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002",
+      "first_seen": "2026-10-27",
+      "date": "2026-10-26",
       "evidence": "employer_field"
     }
   }
