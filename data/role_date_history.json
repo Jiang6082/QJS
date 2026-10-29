@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T12:41:51.694Z",
+  "updatedAt": "2026-10-29T15:16:08.376Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -580,7 +580,7 @@
     "https://higher.gs.com/roles/170600": {
       "URL": "https://higher.gs.com/roles/170600",
       "first_seen": "2026-07-23",
-      "date": "2026-09-23",
+      "date": "2026-10-29",
       "evidence": "employer_field"
     },
     "https://group1.applicantpro.com/jobs/3859850": {
@@ -1834,8 +1834,8 @@
     "https://job-boards.greenhouse.io/virtu/jobs/8657500002": {
       "URL": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
       "first_seen": "2026-08-03",
-      "date": null,
-      "evidence": null
+      "date": "2026-07-29",
+      "evidence": "employer_field"
     },
     "https://job-boards.greenhouse.io/virtu/jobs/8657286002": {
       "URL": "https://job-boards.greenhouse.io/virtu/jobs/8657286002",
@@ -2374,7 +2374,7 @@
     "https://higher.gs.com/roles/170601": {
       "URL": "https://higher.gs.com/roles/170601",
       "first_seen": "2026-08-16",
-      "date": "2026-09-23",
+      "date": "2026-10-29",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/175421": {
@@ -3568,13 +3568,13 @@
     "https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977": {
       "URL": "https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977",
       "first_seen": "2026-09-09",
-      "date": "2026-09-08",
+      "date": "2026-10-29",
       "evidence": "employer_field"
     },
     "https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285": {
       "URL": "https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285",
       "first_seen": "2026-09-09",
-      "date": "2026-09-08",
+      "date": "2026-10-29",
       "evidence": "employer_field"
     },
     "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016": {
@@ -4102,13 +4102,13 @@
     "https://jobs.ashbyhq.com/Talos-Trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935": {
       "URL": "https://jobs.ashbyhq.com/Talos-Trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935",
       "first_seen": "2026-09-17",
-      "date": "2026-09-16",
+      "date": "2026-10-29",
       "evidence": "employer_field"
     },
     "https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d": {
       "URL": "https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d",
       "first_seen": "2026-09-17",
-      "date": "2026-09-16",
+      "date": "2026-10-29",
       "evidence": "employer_field"
     },
     "https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e": {
@@ -4967,6 +4967,72 @@
       "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002",
       "first_seen": "2026-10-27",
       "date": "2026-10-26",
+      "evidence": "employer_field"
+    },
+    "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Developer---Commodities-Investment-Team--Summer-Internship-_REQ8749": {
+      "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Developer---Commodities-Investment-Team--Summer-Internship-_REQ8749",
+      "first_seen": "2026-10-29",
+      "date": "2026-10-28",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260029657|bmo capital markets quantitative trading analyst – 12–16 month co-op": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
+      "first_seen": "2026-10-29",
+      "date": "2026-10-29",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/engineersgate/jobs/8328653": {
+      "URL": "https://job-boards.greenhouse.io/engineersgate/jobs/8328653",
+      "first_seen": "2026-10-29",
+      "date": "2026-10-28",
+      "evidence": "employer_field"
+    },
+    "https://www.janestreet.com/join-jane-street/position/8596771002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8596771002/",
+      "first_seen": "2026-10-29",
+      "date": null,
+      "evidence": null
+    },
+    "https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313": {
+      "URL": "https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313",
+      "first_seen": "2026-10-29",
+      "date": "2026-10-28",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313": {
+      "URL": "https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313",
+      "first_seen": "2026-10-29",
+      "date": "2026-10-28",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24": {
+      "URL": "https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24",
+      "first_seen": "2026-10-29",
+      "date": "2026-10-29",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/Keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24": {
+      "URL": "https://jobs.ashbyhq.com/Keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24",
+      "first_seen": "2026-10-29",
+      "date": "2026-10-29",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33": {
+      "URL": "https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33",
+      "first_seen": "2026-10-29",
+      "date": "2026-10-28",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/Keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33": {
+      "URL": "https://jobs.ashbyhq.com/Keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33",
+      "first_seen": "2026-10-29",
+      "date": "2026-10-28",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8311595": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8311595",
+      "first_seen": "2026-10-29",
+      "date": "2026-10-27",
       "evidence": "employer_field"
     }
   }

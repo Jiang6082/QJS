@@ -1,9 +1,20 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 217
-Last updated: 2026-10-27T12:41:51.694Z
+Total closure events recorded: 225
+Last updated: 2026-10-29T15:16:08.376Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-10-29 (8)
+
+- **Akuna** - [Software Engineer Intern - C# .NET Desktop, Summer 2027](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) - Chicago, IL
+- **Akuna** - [Software Engineer Intern - C++, Summer 2027](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) - Chicago, IL
+- **Akuna** - [Software Engineer Intern - Full Stack Web, Summer 2027](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) - Chicago, IL
+- **Balyasny Asset Management** - [Quantitative Analyst, Commodities (Seasonal Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst--Commodities--Seasonal-Internship-_REQ8467) - London
+- **Chicago Trading Company** - [Quant Trading Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005) - London, England, United Kingdom
+- **Geneva Trading** - [C++ Developer (Intern)](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) - Chicago Office
+- **Walleye Capital** - [Special Projects Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006) - New York, New York
+- **Engineers Gate** - [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8317827) - Singapore
 
 ### 2026-10-27 (8)
 
@@ -131,8 +142,8 @@ Closures require two independent successful observations of absence from the rol
 
 ### 2026-10-04 (2)
 
-- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/170600) - Singapore
-- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/170601) - Singapore
+- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/170600) - Singapore — _reopened 2026-10-29_
+- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/170601) - Singapore — _reopened 2026-10-29_
 
 ### 2026-10-02 (7)
 
@@ -227,7 +238,7 @@ Closures require two independent successful observations of absence from the rol
 
 - **DRW** - [Quantitative Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) - Singapore — _reopened 2026-09-25_
 - **Tower Research Capital** - [Quantitative Trader Intern, PhD](https://www.tower-research.com/open-positions/?gh_jid=8024138) - New York — _reopened 2026-10-15_
-- **Virtu Financial** - [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) - New York
+- **Virtu Financial** - [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) - New York — _reopened 2026-10-29_
 - **Susquehanna International Group** - [Technology Co-op with McGill University](https://careers.sig.com/jobs/11379?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
 - **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania — _reopened 2026-09-15_
 - **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania — _reopened 2026-09-15_
