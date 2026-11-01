@@ -1,9 +1,30 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 225
-Last updated: 2026-10-29T15:16:08.376Z
+Total closure events recorded: 243
+Last updated: 2026-11-01T12:07:00.377Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-01 (18)
+
+- **Jump Trading** - [Campus ML Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7977145) - London
+- **Maven Securities** - [Trader Summer Internship Chicago 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) - Chicago
+- **Quantbot Technologies** - [Data Trading Analyst Summer Internship - 2027 [New York]](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) - New York
+- **Walleye Capital** - [Quantic - PhD Quantitative Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) - Boston, MA
+- **Tower Research Capital** - [Intern - AI/ML](https://www.tower-research.com/open-positions/?gh_jid=8143756) - Gurgaon
+- **Susquehanna International Group** - [Trading Systems Engineering Internship: Summer 2027 (Dublin)](https://careers.sig.com/jobs/11335?lang=en-us) - Dublin, Ireland
+- **Susquehanna International Group** - [Trading Systems Engineering Internship: Summer 2027 (London)](https://careers.sig.com/jobs/11334?lang=en-us) - London, United Kingdom
+- **Goldman Sachs** - [2027 I Americas I New York City Area I Global Investment Research, Equity Research I Summer Associate](https://higher.gs.com/roles/184069) - New York, NY, United States
+- **Connor Clark & Lunn** - [Intern, Institutional Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4407698009) - Vancouver, British Columbia, Canada
+- **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://job-boards.greenhouse.io/cclfg/jobs/4413182009) - Vancouver, British Columbia, Canada
+- **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://job-boards.greenhouse.io/cclfg/jobs/4413204009) - Toronto, Ontario, Canada
+- **Voloridge** - [Quantitative Trading Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009) - Jupiter, FL
+- **Goldman Sachs** - [2027 | Japan | Tokyo | Global Investment Research, Macro Research, Economics | Seasonal / Off-cycle Internship](https://higher.gs.com/roles/183308) - Tokyo, Japan
+- **Connor Clark & Lunn** - [Intern, Institutional Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4407698009) - Vancouver, British Columbia, Canada
+- **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009) - Vancouver, British Columbia, Canada
+- **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413204009) - Toronto, Ontario, Canada
+- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
 
 ### 2026-10-29 (8)
 

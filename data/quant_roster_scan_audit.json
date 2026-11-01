@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T15:21:47.723Z",
-  "scanStartedAt": "2026-10-29T15:16:08.376Z",
+  "generatedAt": "2026-11-01T12:11:40.064Z",
+  "scanStartedAt": "2026-11-01T12:07:00.377Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
@@ -21,7 +21,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 40,
+      "jobsSeen": 41,
       "relevantInternships": 9
     },
     {
@@ -142,7 +142,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 147,
+      "jobsSeen": 144,
       "relevantInternships": 0
     },
     {
@@ -299,7 +299,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 54,
+      "jobsSeen": 55,
       "relevantInternships": 5
     },
     {
@@ -367,7 +367,7 @@
       "careerPages": [
         "http://www.armadausa.com/careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -441,8 +441,8 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 27,
-      "relevantInternships": 12
+      "jobsSeen": 28,
+      "relevantInternships": 13
     },
     {
       "company": "Campbell and Company",
@@ -960,7 +960,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 12,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -1012,7 +1012,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 205,
+      "jobsSeen": 206,
       "relevantInternships": 12
     },
     {
@@ -1040,7 +1040,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 75,
+      "jobsSeen": 76,
       "relevantInternships": 20
     },
     {
@@ -1068,7 +1068,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 139,
+      "jobsSeen": 137,
       "relevantInternships": 5
     },
     {
@@ -1185,7 +1185,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantInternships": 2
     },
     {
@@ -1254,7 +1254,7 @@
       ],
       "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 86,
+      "jobsSeen": 85,
       "relevantInternships": 4
     },
     {
@@ -1298,7 +1298,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 222,
+      "jobsSeen": 218,
       "relevantInternships": 0
     },
     {
@@ -1350,7 +1350,7 @@
       "careerPages": [
         "https://deepbluecap.com/vacancies/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1624,7 +1624,7 @@
       "careerPages": [
         "https://davincitrading.com/job/graduate-trader/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1680,7 +1680,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 56,
+      "jobsSeen": 58,
       "relevantInternships": 0
     },
     {
@@ -1764,7 +1764,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantInternships": 1
     },
     {
@@ -1889,8 +1889,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 2,
-      "jobsSeen": 22,
-      "relevantInternships": 6
+      "jobsSeen": 24,
+      "relevantInternships": 8
     },
     {
       "company": "Lehi Capital Corp",
@@ -2057,7 +2057,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 12,
+      "jobsSeen": 11,
       "relevantInternships": 2
     },
     {
@@ -2102,7 +2102,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 38,
+      "jobsSeen": 36,
       "relevantInternships": 0
     },
     {
@@ -2253,7 +2253,7 @@
       "livePages": 5,
       "attemptedPages": 5,
       "jobsSeen": 38,
-      "relevantInternships": 3
+      "relevantInternships": 2
     },
     {
       "company": "Mercuria Energy Group",
@@ -2309,7 +2309,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -2381,7 +2381,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantInternships": 3
     },
     {
@@ -2450,7 +2450,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 23,
+      "jobsSeen": 24,
       "relevantInternships": 2
     },
     {
@@ -2744,7 +2744,7 @@
       "careerPages": [
         "https://rayleigh.re/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2973,7 +2973,7 @@
       "careerPages": [
         "https://opg.optica.org/optica/home.cfm"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3151,7 +3151,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3264,7 +3264,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 2,
-      "jobsSeen": 39,
+      "jobsSeen": 38,
       "relevantInternships": 1
     },
     {
@@ -3707,7 +3707,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 58,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -3725,7 +3725,7 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantInternships": 3
     },
     {
@@ -3779,7 +3779,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 35,
+      "jobsSeen": 37,
       "relevantInternships": 0
     },
     {
@@ -3903,8 +3903,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 99,
-      "relevantInternships": 14
+      "jobsSeen": 97,
+      "relevantInternships": 13
     },
     {
       "company": "Two Sigma",
@@ -3962,7 +3962,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 15,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -3992,8 +3992,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 15,
-      "relevantInternships": 2
+      "jobsSeen": 14,
+      "relevantInternships": 1
     },
     {
       "company": "Wincent",
@@ -4094,7 +4094,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 61,
+      "jobsSeen": 63,
       "relevantInternships": 2
     },
     {
@@ -4195,8 +4195,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 11,
-      "relevantInternships": 3
+      "jobsSeen": 10,
+      "relevantInternships": 2
     },
     {
       "company": "Wallsoft Labs",
@@ -4268,7 +4268,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 90,
+      "jobsSeen": 92,
       "relevantInternships": 0
     },
     {
@@ -4280,7 +4280,7 @@
       "careerPages": [
         "https://jobs.smartrecruiters.com/RRSGroup"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0

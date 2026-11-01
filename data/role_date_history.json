@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T15:16:08.376Z",
+  "updatedAt": "2026-11-01T12:07:00.377Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -3808,7 +3808,7 @@
     "https://higher.gs.com/roles/170880": {
       "URL": "https://higher.gs.com/roles/170880",
       "first_seen": "2026-09-13",
-      "date": "2026-08-15",
+      "date": "2026-10-30",
       "evidence": "employer_field"
     },
     "https://higher.gs.com/roles/170877": {
@@ -4708,8 +4708,8 @@
     "jainglobal|JR100553|apac research intern": {
       "URL": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Hong-Kong-Office/APAC-Quant-Research-Intern_JR100553",
       "first_seen": "2026-10-15",
-      "date": null,
-      "evidence": null
+      "date": "2026-10-31",
+      "evidence": "employer_relative_label"
     },
     "jainglobal|JR100607|compliance technology intern": {
       "URL": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607",
@@ -4750,8 +4750,8 @@
     "jainglobal|JR100472|risk quant modeller - intern": {
       "URL": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Hong-Kong-Office/Risk-Quant-Modeller---Intern_JR100472-1",
       "first_seen": "2026-10-15",
-      "date": null,
-      "evidence": null
+      "date": "2026-10-31",
+      "evidence": "employer_relative_label"
     },
     "https://www.mako.com/opportunities/job-listing/8883121002?gh_jid=8883121002": {
       "URL": "https://www.mako.com/opportunities/job-listing/8883121002?gh_jid=8883121002",
@@ -5033,6 +5033,24 @@
       "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8311595",
       "first_seen": "2026-10-29",
       "date": "2026-10-27",
+      "evidence": "employer_field"
+    },
+    "brevanhoward|JR101650|6-month internship – trading, tel aviv": {
+      "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Israel/XMLNAME-6-Month-Internship---Trading--Tel-Aviv_JR101650",
+      "first_seen": "2026-11-01",
+      "date": "2026-10-30",
+      "evidence": "employer_relative_label"
+    },
+    "https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7": {
+      "URL": "https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7",
+      "first_seen": "2026-11-01",
+      "date": "2026-10-29",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7": {
+      "URL": "https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7",
+      "first_seen": "2026-11-01",
+      "date": "2026-10-29",
       "evidence": "employer_field"
     }
   }

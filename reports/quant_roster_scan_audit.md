@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-10-29T15:16:08.376Z
+Scan started: 2026-11-01T12:07:00.377Z
 Source roster entries: 306
 Canonical companies after aliases: 305
 
@@ -65,7 +65,7 @@ Canonical companies after aliases: 305
 | HAP Capital | 0/1 pages live | [link](https://jobs.lever.co/hap-capital) |
 | Kronos Research | 1/1 pages live | [link](https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us) |
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
-| RRS Group | 1/1 pages live | [link](https://jobs.smartrecruiters.com/RRSGroup) |
+| RRS Group | 0/1 pages live | [link](https://jobs.smartrecruiters.com/RRSGroup) |
 
 ## Confirmed Openings, No Matching Role (35)
 
@@ -127,7 +127,7 @@ Canonical companies after aliases: 305
 | Accent Groupe | 0/1 pages live | [link](https://www.accentgroupe.com/career) |
 | Algorithmic Trading Group | 1/1 pages live | [link](https://www.algorithmictradinggroup.com/opportunities) |
 | Amber Group | 1/1 pages live | [link](https://www.ambergroup.io/applyJob) |
-| Armada Technologies | 0/1 pages live | [link](http://www.armadausa.com/careers) |
+| Armada Technologies | 1/1 pages live | [link](http://www.armadausa.com/careers) |
 | Automaton Trading LLC | no saved page attempted | none |
 | BP Supply Trading & Shipping | 0/1 pages live | [link](https://www.bp.com/en/global/bp-supply-trading-and-shipping/careers.html) |
 | BlockTech | 1/1 pages live | [link](https://www.block-tech.io/careers) |
@@ -175,7 +175,7 @@ Canonical companies after aliases: 305
 | Kershner Trading Group | 1/1 pages live | [link](https://kershnertrading.applicantstack.com/x/openings) |
 | Kvantium Research | no saved page attempted | none |
 | DWF Labs | 0/1 pages live | [link](https://www.dwf-labs.com/careers) |
-| Deep Blue Capital | 1/1 pages live | [link](https://deepbluecap.com/vacancies/) |
+| Deep Blue Capital | 0/1 pages live | [link](https://deepbluecap.com/vacancies/) |
 | Dexterity Capital | 0/3 pages live | [link](https://wellfound.com/company/dexterity-capital) [link](https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us) [link](https://app.welcometothejungle.com/companies/Dexterity-Capital) |
 | Domstad Traders | no saved page attempted | none |
 | Enigma Quant Capital | 1/1 pages live | [link](https://www.enigmaquant.com/#careers) |
@@ -192,7 +192,7 @@ Canonical companies after aliases: 305
 | Jerpoint Capital | 1/1 pages live | [link](https://talents.studysmarter.co.uk/companies/jerpoint-capital/) |
 | KeyQuant | no saved page attempted | none |
 | League Trading | 1/1 pages live | [link](https://www.theleaguecorp.com/opportunities.php) |
-| Da Vinci Trading | 1/1 pages live | [link](https://davincitrading.com/job/graduate-trader/) |
+| Da Vinci Trading | 0/1 pages live | [link](https://davincitrading.com/job/graduate-trader/) |
 | Diameter Capital Partners | no saved page attempted | none |
 | Dymon Asia | 1/1 pages live | [link](https://www.dymonasia.com/) |
 | Elliott Bay Energy Trading LLC | 1/1 pages live | [link](https://www.elliott-turbo.com/careers) |
@@ -250,7 +250,7 @@ Canonical companies after aliases: 305
 | Open Futures Group | 1/1 pages live | [link](https://openfutures.in/index.php/career/) |
 | Prime Trading | no saved page attempted | none |
 | Quantique (QuantM3) | no saved page attempted | none |
-| Rayleigh Research Oy | 1/1 pages live | [link](https://rayleigh.re/) |
+| Rayleigh Research Oy | 0/1 pages live | [link](https://rayleigh.re/) |
 | Saichild Proprietary Trading | 1/1 pages live | [link](https://www.saichild.com/career) |
 | Lone Pine Capital | no saved page attempted | none |
 | Mathrix | 1/1 pages live | [link](https://mathrix.recruitee.com/) |
@@ -262,7 +262,7 @@ Canonical companies after aliases: 305
 | Northpool | 1/1 pages live | [link](https://www.northpool.nl/vacancies) |
 | OSF Management | 0/1 pages live | [link](https://www.osfmanagement.com/careers) |
 | Old Growth Harbor LLC | no saved page attempted | none |
-| Optica | 1/1 pages live | [link](https://opg.optica.org/optica/home.cfm) |
+| Optica | 0/1 pages live | [link](https://opg.optica.org/optica/home.cfm) |
 | PanAgora Asset Management | 1/1 pages live | [link](https://www.panagora.com/careers-panagora-asset-management/) |
 | Priogen Energy | 0/1 pages live | [link](https://priogen.com/careers/home/) |
 | Quantlab | 0/1 pages live | [link](https://www.quantlab.com/careers?nl=1&p=jobs) |
@@ -274,7 +274,7 @@ Canonical companies after aliases: 305
 | Sovereign Blue Capital | no saved page attempted | none |
 | Los Angeles Capital Management | 1/1 pages live | [link](https://lacapm.com/careers) |
 | Market Wizards | 1/1 pages live | [link](https://marketwizards.com/careers/) |
-| Matrix Executions | 1/1 pages live | [link](https://matrixexecutions.com/careers/) |
+| Matrix Executions | 0/1 pages live | [link](https://matrixexecutions.com/careers/) |
 | Mercuria Energy America | 0/1 pages live | [link](https://mercuria.com/careers/) |
 | Millennium | 2/2 pages live | [link](https://mlp.wd5.myworkdayjobs.com/mlpcareers) [link](https://www.mlp.com/careers/) |
 | Mingshi / Minghong | 2/2 pages live | [link](https://join.mhfunds.com/index) [link](https://www.mhfunds.com/) |
