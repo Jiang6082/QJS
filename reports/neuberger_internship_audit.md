@@ -1,6 +1,6 @@
 # Neuberger Berman internship coverage
 
-Checked: 2026-11-01T12:11:53.293Z
+Checked: 2026-11-03T13:42:52.511Z
 
 - NBCareers: 71 postings inspected; search complete: true
 - PWM: 12 postings inspected; search complete: true

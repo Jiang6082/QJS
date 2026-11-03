@@ -1,9 +1,20 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 243
-Last updated: 2026-11-01T12:07:00.377Z
+Total closure events recorded: 251
+Last updated: 2026-11-03T13:37:32.569Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-03 (8)
+
+- **Virtu Financial** - [2027 Internship - Quantitative Researcher (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) - New York
+- **Optiver** - [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002) - Amsterdam, North Holland, Netherlands
+- **Maven Securities** - [Amsterdam Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591) - Amsterdam
+- **Maven Securities** - [London Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970) - London
+- **Schonfeld** - [2027 Systematic COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172059) - New York, New York, United States
+- **Goldman Sachs** - [2027 | EMEA | London | Risk | Summer Analyst](https://higher.gs.com/roles/172894) - London, Greater London, England, United Kingdom
+- **Man Group** - [Technology Summer Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978895101) - Sofia
+- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) - New York, New York, United States
 
 ### 2026-11-01 (18)
 
@@ -18,7 +29,7 @@ Closures require two independent successful observations of absence from the rol
 - **Connor Clark & Lunn** - [Intern, Institutional Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4407698009) - Vancouver, British Columbia, Canada
 - **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://job-boards.greenhouse.io/cclfg/jobs/4413182009) - Vancouver, British Columbia, Canada
 - **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://job-boards.greenhouse.io/cclfg/jobs/4413204009) - Toronto, Ontario, Canada
-- **Voloridge** - [Quantitative Trading Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009) - Jupiter, FL
+- **Voloridge** - [Quantitative Trading Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009) - Jupiter, FL — _reopened 2026-11-03_
 - **Goldman Sachs** - [2027 | Japan | Tokyo | Global Investment Research, Macro Research, Economics | Seasonal / Off-cycle Internship](https://higher.gs.com/roles/183308) - Tokyo, Japan
 - **Connor Clark & Lunn** - [Intern, Institutional Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4407698009) - Vancouver, British Columbia, Canada
 - **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009) - Vancouver, British Columbia, Canada

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T12:11:40.064Z",
-  "scanStartedAt": "2026-11-01T12:07:00.377Z",
+  "generatedAt": "2026-11-03T13:42:33.569Z",
+  "scanStartedAt": "2026-11-03T13:37:32.569Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
-    "matching-role-found": 49,
+    "matching-role-found": 48,
     "confirmed-no-open-postings": 4,
-    "confirmed-openings-no-matching-role": 35,
+    "confirmed-openings-no-matching-role": 36,
     "could-not-fully-verify": 217
   },
   "companies": [
@@ -21,7 +21,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 41,
+      "jobsSeen": 40,
       "relevantInternships": 9
     },
     {
@@ -88,7 +88,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -142,7 +142,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 144,
+      "jobsSeen": 141,
       "relevantInternships": 0
     },
     {
@@ -198,7 +198,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 6,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -299,7 +299,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 55,
+      "jobsSeen": 54,
       "relevantInternships": 5
     },
     {
@@ -441,7 +441,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 28,
+      "jobsSeen": 25,
       "relevantInternships": 13
     },
     {
@@ -554,7 +554,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 16,
+      "jobsSeen": 17,
       "relevantInternships": 3
     },
     {
@@ -674,7 +674,7 @@
       "careerPages": [
         "https://www.bonditech.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -777,7 +777,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 172,
+      "jobsSeen": 171,
       "relevantInternships": 11
     },
     {
@@ -818,7 +818,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 1,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -960,7 +960,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 14,
+      "jobsSeen": 16,
       "relevantInternships": 0
     },
     {
@@ -986,7 +986,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 46,
+      "jobsSeen": 45,
       "relevantInternships": 0
     },
     {
@@ -1012,7 +1012,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 206,
+      "jobsSeen": 197,
       "relevantInternships": 12
     },
     {
@@ -1138,7 +1138,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantInternships": 0
     },
     {
@@ -1254,7 +1254,7 @@
       ],
       "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 85,
+      "jobsSeen": 84,
       "relevantInternships": 4
     },
     {
@@ -1298,7 +1298,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 218,
+      "jobsSeen": 217,
       "relevantInternships": 0
     },
     {
@@ -1366,7 +1366,7 @@
         "https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us",
         "https://app.welcometothejungle.com/companies/Dexterity-Capital"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1448,7 +1448,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 48,
+      "jobsSeen": 45,
       "relevantInternships": 3
     },
     {
@@ -1680,7 +1680,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 58,
+      "jobsSeen": 61,
       "relevantInternships": 0
     },
     {
@@ -1889,7 +1889,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 2,
-      "jobsSeen": 24,
+      "jobsSeen": 18,
       "relevantInternships": 8
     },
     {
@@ -2057,7 +2057,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 11,
+      "jobsSeen": 10,
       "relevantInternships": 2
     },
     {
@@ -2132,7 +2132,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 168,
+      "jobsSeen": 158,
       "relevantInternships": 17
     },
     {
@@ -2242,7 +2242,7 @@
       "sourceRosterNames": [
         "Maven Securities"
       ],
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.mavensecurities.com/careers/",
         "https://www.mavensecurities.com/jobs/",
@@ -2252,8 +2252,8 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 38,
-      "relevantInternships": 2
+      "jobsSeen": 35,
+      "relevantInternships": 0
     },
     {
       "company": "Mercuria Energy Group",
@@ -2309,7 +2309,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -2491,8 +2491,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 70,
-      "relevantInternships": 9
+      "jobsSeen": 68,
+      "relevantInternships": 7
     },
     {
       "company": "Silver Valley Management",
@@ -2680,7 +2680,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 14,
+      "jobsSeen": 15,
       "relevantInternships": 2
     },
     {
@@ -2791,7 +2791,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 16,
+      "jobsSeen": 15,
       "relevantInternships": 5
     },
     {
@@ -2973,7 +2973,7 @@
       "careerPages": [
         "https://opg.optica.org/optica/home.cfm"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3609,7 +3609,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 6,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {
@@ -3707,7 +3707,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 55,
+      "jobsSeen": 57,
       "relevantInternships": 0
     },
     {
@@ -3903,7 +3903,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 97,
+      "jobsSeen": 93,
       "relevantInternships": 13
     },
     {
@@ -3947,7 +3947,7 @@
       "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 47,
-      "relevantInternships": 14
+      "relevantInternships": 13
     },
     {
       "company": "Verition Fund Management",
@@ -3962,7 +3962,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -4094,8 +4094,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 63,
-      "relevantInternships": 2
+      "jobsSeen": 65,
+      "relevantInternships": 3
     },
     {
       "company": "TradeLink",
@@ -4196,7 +4196,7 @@
       "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 10,
-      "relevantInternships": 2
+      "relevantInternships": 3
     },
     {
       "company": "Wallsoft Labs",
@@ -4237,7 +4237,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 93,
+      "jobsSeen": 88,
       "relevantInternships": 3
     },
     {
@@ -4268,7 +4268,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 92,
+      "jobsSeen": 90,
       "relevantInternships": 0
     },
     {

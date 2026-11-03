@@ -1,30 +1,36 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-11-01T12:07:00.377Z
+Last updated: 2026-11-03T13:37:32.569Z
 
 ## Summary
 
 - Companies searched: 370
 - Career pages checked: 514
-- Current retained roles: 505
-- New stable job URLs since previous scan: 3
-- No longer present since previous scan: 18
-- Missing without enough closure evidence: 125
-- Matching-role firms: 49
+- Current retained roles: 507
+- New stable job URLs since previous scan: 12
+- No longer present since previous scan: 8
+- Missing without enough closure evidence: 118
+- Matching-role firms: 48
 - Confirmed no open postings: 4
-- Openings but no matching role: 35
+- Openings but no matching role: 36
 - Could not fully verify: 217
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (2)
 
-_None._
+- **Voleon Group** - [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) - Berkeley, CA
+- **Voloridge** - [Quantitative Trading Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009) - Jupiter, FL
 
-### Europe (2)
+### Europe (7)
 
-- **Keyrock** - [Innovation Quant Developer: Intern - DeFi/Corporate Development](https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) - Brussels
-- **Keyrock** - [Innovation Quant Developer: Intern - DeFi/Corporate Development](https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) - Brussels
+- **Barclays** - [2027 Technology Analyst Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Knutsford_JR-0000129510) - Knutsford, Radbroke Hall
+- **Barclays** - [2027 Technology Analyst Summer Internship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Northampton_JR-0000129498) - Northampton, Barclays Campus, Pavilion Drive
+- **Barclays** - [2027 Technology Cyber and Security Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173) - Knutsford, Radbroke Hall
+- **Barclays** - [2027 Technology Developer Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) - Glasgow Campus
+- **Barclays** - [2027 Technology Developer Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381) - Knutsford, Radbroke Hall
+- **Barclays** - [2027 Technology Developer Summer Internship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379) - Northampton, Barclays Campus, Pavilion Drive
+- **Qube Research & Technologies** - [2027 - Internship, HR Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002) - London
 
 ### Asia (0)
 
@@ -34,9 +40,9 @@ _None._
 
 _None._
 
-### Middle East (1)
+### Middle East (0)
 
-- **Brevan Howard** - [6-Month Internship – Trading, Tel Aviv](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Israel/XMLNAME-6-Month-Internship---Trading--Tel-Aviv_JR101650) - Israel
+_None._
 
 ### South America (0)
 
@@ -50,30 +56,22 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (3)
 
-_None._
+- **Barclays** - [2027 Customer and Digital - Data and Analytics Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280) - Canary Wharf, 1 Churchill Place
+- **Barclays** - [2027 Technology Analyst Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-London_JR-0000129434) - Canary Wharf, 1 Churchill Place
+- **Barclays** - [2027 Technology Developer Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397) - Canary Wharf, 1 Churchill Place
 
 ## No Longer Present
 
-- **Jump Trading** - [Campus ML Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7977145) - London
-- **Maven Securities** - [Trader Summer Internship Chicago 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) - Chicago
-- **Quantbot Technologies** - [Data Trading Analyst Summer Internship - 2027 [New York]](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) - New York
-- **Walleye Capital** - [Quantic - PhD Quantitative Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) - Boston, MA
-- **Tower Research Capital** - [Intern - AI/ML](https://www.tower-research.com/open-positions/?gh_jid=8143756) - Gurgaon
-- **Susquehanna International Group** - [Trading Systems Engineering Internship: Summer 2027 (Dublin)](https://careers.sig.com/jobs/11335?lang=en-us) - Dublin, Ireland
-- **Susquehanna International Group** - [Trading Systems Engineering Internship: Summer 2027 (London)](https://careers.sig.com/jobs/11334?lang=en-us) - London, United Kingdom
-- **Goldman Sachs** - [2027 I Americas I New York City Area I Global Investment Research, Equity Research I Summer Associate](https://higher.gs.com/roles/184069) - New York, NY, United States
-- **Connor Clark & Lunn** - [Intern, Institutional Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4407698009) - Vancouver, British Columbia, Canada
-- **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://job-boards.greenhouse.io/cclfg/jobs/4413182009) - Vancouver, British Columbia, Canada
-- **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://job-boards.greenhouse.io/cclfg/jobs/4413204009) - Toronto, Ontario, Canada
-- **Voloridge** - [Quantitative Trading Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009) - Jupiter, FL
-- **Goldman Sachs** - [2027 | Japan | Tokyo | Global Investment Research, Macro Research, Economics | Seasonal / Off-cycle Internship](https://higher.gs.com/roles/183308) - Tokyo, Japan
-- **Connor Clark & Lunn** - [Intern, Institutional Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4407698009) - Vancouver, British Columbia, Canada
-- **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009) - Vancouver, British Columbia, Canada
-- **Connor Clark & Lunn** - [Intern, Investment Analytics Engineering](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413204009) - Toronto, Ontario, Canada
-- **Susquehanna International Group** - [Technology Co-op with Northeastern University](https://careers.sig.com/jobs/11377?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Susquehanna International Group** - [Technology Co-op with RIT](https://careers.sig.com/jobs/11378?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Virtu Financial** - [2027 Internship - Quantitative Researcher (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) - New York
+- **Optiver** - [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002) - Amsterdam, North Holland, Netherlands
+- **Maven Securities** - [Amsterdam Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591) - Amsterdam
+- **Maven Securities** - [London Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970) - London
+- **Schonfeld** - [2027 Systematic COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172059) - New York, New York, United States
+- **Goldman Sachs** - [2027 | EMEA | London | Risk | Summer Analyst](https://higher.gs.com/roles/172894) - London, Greater London, England, United Kingdom
+- **Man Group** - [Technology Summer Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978895101) - Sofia
+- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) - New York, New York, United States
 
 ## Full Reports
 

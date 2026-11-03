@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T12:07:00.377Z",
+  "updatedAt": "2026-11-03T13:37:32.569Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -5051,6 +5051,18 @@
       "URL": "https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7",
       "first_seen": "2026-11-01",
       "date": "2026-10-29",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002": {
+      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002",
+      "first_seen": "2026-11-03",
+      "date": "2026-11-02",
+      "evidence": "employer_field"
+    },
+    "https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9": {
+      "URL": "https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9",
+      "first_seen": "2026-11-03",
+      "date": "2026-08-07",
       "evidence": "employer_field"
     }
   }
