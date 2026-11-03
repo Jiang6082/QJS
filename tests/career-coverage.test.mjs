@@ -3,6 +3,13 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import { isKnownWrongCareerPage } from "../tools/career-source-guards.mjs";
 
+test("Macquarie discovery rejects the unrelated university job board", () => {
+  assert.equal(isKnownWrongCareerPage("Macquarie", "https://mq.wd3.myworkdayjobs.com/CareersatMQ"), true);
+  assert.equal(isKnownWrongCareerPage("Macquarie", "https://www.mq.edu.au/about/careers"), true);
+  assert.equal(isKnownWrongCareerPage("Macquarie", "https://www.macquarie.com/au/en/careers.html"), false);
+  assert.equal(isKnownWrongCareerPage("Macquarie University", "https://mq.wd3.myworkdayjobs.com/CareersatMQ"), false);
+});
+
 test("TCI discovery rejects unrelated employers' Greenhouse boards", () => {
   for (const host of ["boards.greenhouse.io", "job-boards.greenhouse.io"]) {
     for (const board of ["twosixtechnologies", "tekion", "eikontherapeutics"]) {
