@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T13:37:32.569Z",
+  "updatedAt": "2026-11-04T11:38:29.423Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -4996,37 +4996,37 @@
     "https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313": {
       "URL": "https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313",
       "first_seen": "2026-10-29",
-      "date": "2026-10-28",
+      "date": "2026-11-03",
       "evidence": "employer_field"
     },
     "https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313": {
       "URL": "https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313",
       "first_seen": "2026-10-29",
-      "date": "2026-10-28",
+      "date": "2026-11-03",
       "evidence": "employer_field"
     },
     "https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24": {
       "URL": "https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24",
       "first_seen": "2026-10-29",
-      "date": "2026-10-29",
+      "date": "2026-11-03",
       "evidence": "employer_field"
     },
     "https://jobs.ashbyhq.com/Keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24": {
       "URL": "https://jobs.ashbyhq.com/Keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24",
       "first_seen": "2026-10-29",
-      "date": "2026-10-29",
+      "date": "2026-11-03",
       "evidence": "employer_field"
     },
     "https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33": {
       "URL": "https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33",
       "first_seen": "2026-10-29",
-      "date": "2026-10-28",
+      "date": "2026-11-03",
       "evidence": "employer_field"
     },
     "https://jobs.ashbyhq.com/Keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33": {
       "URL": "https://jobs.ashbyhq.com/Keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33",
       "first_seen": "2026-10-29",
-      "date": "2026-10-28",
+      "date": "2026-11-03",
       "evidence": "employer_field"
     },
     "https://job-boards.greenhouse.io/schonfeld/jobs/8311595": {
@@ -5044,13 +5044,13 @@
     "https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7": {
       "URL": "https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7",
       "first_seen": "2026-11-01",
-      "date": "2026-10-29",
+      "date": "2026-11-03",
       "evidence": "employer_field"
     },
     "https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7": {
       "URL": "https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7",
       "first_seen": "2026-11-01",
-      "date": "2026-10-29",
+      "date": "2026-11-03",
       "evidence": "employer_field"
     },
     "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002": {
@@ -5063,6 +5063,24 @@
       "URL": "https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9",
       "first_seen": "2026-11-03",
       "date": "2026-08-07",
+      "evidence": "employer_field"
+    },
+    "arrowstreetcapital|R1561|software engineer intern, summer 2027": {
+      "URL": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561",
+      "first_seen": "2026-11-04",
+      "date": "2026-11-03",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8350719": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8350719",
+      "first_seen": "2026-11-04",
+      "date": "2026-11-03",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954": {
+      "URL": "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954",
+      "first_seen": "2026-11-04",
+      "date": "2025-09-04",
       "evidence": "employer_field"
     }
   }

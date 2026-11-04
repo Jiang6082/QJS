@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-11-03T13:37:32.569Z
+Scan started: 2026-11-04T11:38:29.423Z
 Source roster entries: 306
 Canonical companies after aliases: 305
 
@@ -116,7 +116,7 @@ Canonical companies after aliases: 305
 | Acadian Asset Management | 1/1 pages live | [link](https://www.acadian-asset.com/careers) |
 | Albert Quant Trading Club | no saved page attempted | none |
 | Apolis SAM | 1/1 pages live | [link](https://apolisrises.com/careers/) |
-| Arfima Trading | 1/1 pages live | [link](https://www.arfima.com/careers/) |
+| Arfima Trading | 0/1 pages live | [link](https://www.arfima.com/careers/) |
 | Aureas Finance | no saved page attempted | none |
 | BD Energy | 1/1 pages live | [link](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA) |
 | Bastion Trading | 1/1 pages live | [link](https://bastiontrading.com/careers/apply) |
@@ -144,7 +144,7 @@ Canonical companies after aliases: 305
 | Aros Commodities | 1/1 pages live | [link](https://cornerstonecapital.teamtailor.com/pages/careers-aros-commodities) |
 | Axinoss | no saved page attempted | none |
 | Birkoa Capital Management | 1/1 pages live | [link](https://birkoa.com/careers) |
-| Bondi Tech | 0/1 pages live | [link](https://www.bonditech.com/careers) |
+| Bondi Tech | 1/1 pages live | [link](https://www.bonditech.com/careers) |
 | Charlesworth Research | 1/1 pages live | [link](https://www.charlesworthresearch.com/careers) |
 | Citadel Securities | 0/4 pages live | [link](https://www.citadelsecurities.com/careers/) [link](https://www.citadel.com/careers/) [link](https://www.citadelsecurities.com/careers/open-opportunities/) [link](https://www.citadelsecurities.com/careers/students/) |
 | Contek (Contrarian Technologies) | 1/1 pages live | [link](https://contek.io/#career) |

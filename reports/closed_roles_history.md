@@ -1,9 +1,14 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 251
-Last updated: 2026-11-03T13:37:32.569Z
+Total closure events recorded: 253
+Last updated: 2026-11-04T11:38:29.423Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-04 (2)
+
+- **Jump Trading** - [Campus ASIC Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974837) - Bristol
+- **Susquehanna International Group** - [Macro Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10725?lang=en-us) - New York, New York
 
 ### 2026-11-03 (8)
 
@@ -44,7 +49,7 @@ Closures require two independent successful observations of absence from the rol
 - **Akuna** - [Software Engineer Intern - Full Stack Web, Summer 2027](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) - Chicago, IL
 - **Balyasny Asset Management** - [Quantitative Analyst, Commodities (Seasonal Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst--Commodities--Seasonal-Internship-_REQ8467) - London
 - **Chicago Trading Company** - [Quant Trading Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005) - London, England, United Kingdom
-- **Geneva Trading** - [C++ Developer (Intern)](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) - Chicago Office
+- **Geneva Trading** - [C++ Developer (Intern)](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) - Chicago Office — _reopened 2026-11-04_
 - **Walleye Capital** - [Special Projects Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006) - New York, New York
 - **Engineers Gate** - [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8317827) - Singapore
 

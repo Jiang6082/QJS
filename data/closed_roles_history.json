@@ -1,5 +1,33 @@
 [
   {
+    "Company": "Jump Trading",
+    "Title": "Campus ASIC Engineer (Intern)",
+    "Location": "Bristol",
+    "Region": "Europe",
+    "URL": "https://www.jumptrading.com/hr/job?gh_jid=7974837",
+    "Source": "Greenhouse:jumptrading",
+    "Status": "Confirmed official posting",
+    "Department": "Core Development ",
+    "Notes": "posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | posted=2026-07-13T08:37:34-04:00 | revalidated_from_previous...",
+    "lastSeenOpenAt": "2026-11-03T13:37:32.569Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-11-04T11:38:29.423Z"
+  },
+  {
+    "Company": "Susquehanna International Group",
+    "Title": "Macro Analyst Internship: Summer 2027",
+    "Location": "New York, New York",
+    "Region": "North America",
+    "URL": "https://careers.sig.com/jobs/10725?lang=en-us",
+    "Source": "Official SIG jobs API",
+    "Status": "Confirmed official posting",
+    "Department": "Quantitative Trading + Strategy, Interns + Co-ops",
+    "Notes": "posted=2026-03-23T17:54:00+0000 | June 2027 Start | internship timing: Summer 2027; graduation eligibility mentions: 2028 | Overview As a Summer Analyst on Susquehanna's Macro Research team, you will be partnered with our senior analysts and traders to assist in identifying investment opportunities in the equity, index, and options markets. You will learn to perform in-depth company analysis around future catalyst events and provide real-time opinions on breaking news throughout the trading day. You will gain experience in the financial markets by tracking company news and events, assisting with valuation work, and completing event-driven projects. Our ten-week summer internship program introduces you to our unique approach to research through practical experience on a global macro-focused team and education in a classroom setting. What we're looking for Intention to graduate with a bach...",
+    "lastSeenOpenAt": "2026-11-03T13:37:32.569Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-11-04T11:38:29.423Z"
+  },
+  {
     "Company": "Virtu Financial",
     "Title": "2027 Internship - Quantitative Researcher (Undergrad)",
     "Location": "New York",
@@ -446,7 +474,8 @@
     "Region": "North America",
     "lastSeenOpenAt": "2026-10-27T12:41:51.694Z",
     "lastSeenEvidence": "recorded_scan",
-    "detectedClosedAt": "2026-10-29T15:16:08.376Z"
+    "detectedClosedAt": "2026-10-29T15:16:08.376Z",
+    "reopenedAt": "2026-11-04T11:38:29.423Z"
   },
   {
     "Company": "Walleye Capital",

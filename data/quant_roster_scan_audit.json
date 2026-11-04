@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T13:42:33.569Z",
-  "scanStartedAt": "2026-11-03T13:37:32.569Z",
+  "generatedAt": "2026-11-04T11:43:43.104Z",
+  "scanStartedAt": "2026-11-04T11:38:29.423Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
@@ -21,7 +21,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 40,
+      "jobsSeen": 39,
       "relevantInternships": 9
     },
     {
@@ -114,7 +114,7 @@
       "careerPages": [
         "https://www.arfima.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -142,7 +142,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 141,
+      "jobsSeen": 142,
       "relevantInternships": 0
     },
     {
@@ -409,8 +409,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 17,
-      "relevantInternships": 2
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "BlockTech",
@@ -441,7 +441,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 25,
+      "jobsSeen": 24,
       "relevantInternships": 13
     },
     {
@@ -540,7 +540,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantInternships": 0
     },
     {
@@ -554,7 +554,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantInternships": 3
     },
     {
@@ -674,7 +674,7 @@
       "careerPages": [
         "https://www.bonditech.com/careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -777,7 +777,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 171,
+      "jobsSeen": 172,
       "relevantInternships": 11
     },
     {
@@ -986,7 +986,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 45,
+      "jobsSeen": 44,
       "relevantInternships": 0
     },
     {
@@ -1012,7 +1012,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 197,
+      "jobsSeen": 199,
       "relevantInternships": 12
     },
     {
@@ -1040,7 +1040,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 76,
+      "jobsSeen": 74,
       "relevantInternships": 20
     },
     {
@@ -1068,7 +1068,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 137,
+      "jobsSeen": 134,
       "relevantInternships": 5
     },
     {
@@ -1110,7 +1110,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantInternships": 2
     },
     {
@@ -1254,7 +1254,7 @@
       ],
       "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 84,
+      "jobsSeen": 83,
       "relevantInternships": 4
     },
     {
@@ -1298,7 +1298,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 217,
+      "jobsSeen": 219,
       "relevantInternships": 0
     },
     {
@@ -1680,7 +1680,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 61,
+      "jobsSeen": 58,
       "relevantInternships": 0
     },
     {
@@ -2057,8 +2057,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 10,
-      "relevantInternships": 2
+      "jobsSeen": 11,
+      "relevantInternships": 3
     },
     {
       "company": "Glencore",
@@ -2132,7 +2132,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 158,
+      "jobsSeen": 157,
       "relevantInternships": 17
     },
     {
@@ -2450,7 +2450,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 24,
+      "jobsSeen": 23,
       "relevantInternships": 2
     },
     {
@@ -2491,8 +2491,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 68,
-      "relevantInternships": 7
+      "jobsSeen": 69,
+      "relevantInternships": 8
     },
     {
       "company": "Silver Valley Management",
@@ -3264,7 +3264,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 2,
-      "jobsSeen": 38,
+      "jobsSeen": 37,
       "relevantInternships": 1
     },
     {
@@ -3566,7 +3566,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 5,
+      "jobsSeen": 4,
       "relevantInternships": 1
     },
     {
@@ -3765,8 +3765,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
-      "relevantInternships": 0
+      "jobsSeen": 8,
+      "relevantInternships": 1
     },
     {
       "company": "Vitol",
@@ -4237,7 +4237,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 88,
+      "jobsSeen": 86,
       "relevantInternships": 3
     },
     {
@@ -4268,7 +4268,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 90,
+      "jobsSeen": 91,
       "relevantInternships": 0
     },
     {

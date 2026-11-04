@@ -1,32 +1,27 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-11-01T12:07:00.377Z
-Current scan: 2026-11-03T13:37:32.569Z
-Previous rows: 505
+Previous scan: 2026-11-03T13:37:32.569Z
+Current scan: 2026-11-04T11:38:29.423Z
+Previous rows: 507
 Current rows: 507
-New URLs confirmed in both source passes: 12
-Confirmed no longer present: 8
+New URLs confirmed in both source passes: 4
+Confirmed no longer present: 2
 
 ## New Roles By Region
 
-### North America (2)
+### North America (3)
 
-- **Voleon Group** - [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) - Berkeley, CA - Confirmed official posting (Career page Ashby:voleon): posted=2026-08-07T21:53:23.410+00:00 | employmentType=Intern | career_page=https://jobs.ashbyhq.com/voleon | internship timing not stated in title | Voleon is a technology company that applies state-of-the-art AI and machine learning techniques to real-world problems in finance. For nearly two decades, we have led our industry and worked at the frontier of applying AI/ML to investment management. We have become a multibillion-dollar asset manager, and we have ambitious goals for the future. Your colleagues will include internationally recognized experts in artificial intelligence and machine learning research as well as highly experienced finance and technology professionals. In addition to our enriching and collegial working environment, we offer highly competitive compensation and benefits packages, technology talks by our experts, a beautiful modern office, daily catered lunches, and ...
-- **Voloridge** - [Quantitative Trading Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009) - Jupiter, FL - Confirmed official posting (Career page Greenhouse:voloridgeinvestmentmanagement): posted=2026-09-24T10:48:32-04:00 | career_page=https://job-boards.greenhouse.io/voloridgeinvestmentmanagement | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4405530009 | internship timing not stated in title | Voloridge Investment Management was founded by David Vogel in 2009 and is based in Jupiter, FL. We incorporate advanced data science and mathematics into our systematic, market neutral investment strategies to exploit alpha opportunities we consider unique in financial markets. Our firm is comprised of award-winning predictive modelers, experienced data analysts, advanced technologists, and a group of dynamic business professionals. We are seeking a motivated Quant Trading Intern to join our team. As an intern, you’ll gain hands-on exposure to systematic trading by assisting with daily trading operations, market research, portfolio analysis, and process improvement p...
+- **Arrowstreet** - [Software Engineer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561) - Boston - Confirmed official posting (Career page Workday:arrowstreetcapital/Campus_Careers): career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted Yesterday | R1561
+- **Geneva Trading** - [C++ Developer (Intern)](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) - Chicago Office - Confirmed official posting (Career page Greenhouse:genevatrading): posted=2026-09-21T15:25:46-04:00 | career_page=https://www.genevatrading.com/career-in-trading/ | company_wrapper=https://www.genevatrading.com/career-in-trading/job?gh_jid=5242063007 | internship timing not stated in title; graduation eligibility mentions: 2024, 2026 | Founded in 1999, Geneva Trading is a premier global principal trading firm with strategically located offices in Chicago, Dublin, and London. Our relentless focus on trading excellence combined with technological innovation has equipped us with a best-in-class proprietary trading platform, enabling us to compete at the highest levels in the global markets. Rooted in a culture of integrity, collaboration, and an unwavering passion for progress, we foster an environment of personal and professional excellence. Our nimble organizational structure and entrepreneurial spirit attract top-tier talent with a passion for innovatio...
+- **Vatic Investments** - [AI Research Internship (Summer 2027)](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954) - New York - Confirmed official posting (Career page Greenhouse:vaticlabs): posted=2025-09-04T10:48:42-04:00 | career_page=https://www.vaticlabs.ai/careers/ | company_wrapper=https://www.vaticlabs.ai/careers/job?gh_jid=7205954 | internship timing: Summer 2027 | Vatic Labs is a quantitative trading firm in New York. Our traders, AI researchers, and technologists collaborate to develop autonomous trading agents and cutting edge technology. As an AI Intern at Vatic Labs, you will contribute to the research and development of fully autonomous trading agents with some of the brightest researchers, traders, and technologists in the world. As a part of your internship at Vatic Labs, you will explore vast amounts of market data, research different AI approaches, apply cutting edge machine learning algorithms and statistical approaches to this data to discover and capitalize on trading opportunities. We are seeking researchers who have demonstrated the ability to generat...
 
-### Europe (7)
-
-- **Barclays** - [2027 Technology Analyst Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Knutsford_JR-0000129510) - Knutsford, Radbroke Hall - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Yesterday | JR-0000129510
-- **Barclays** - [2027 Technology Analyst Summer Internship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Northampton_JR-0000129498) - Northampton, Barclays Campus, Pavilion Drive - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Yesterday | JR-0000129498
-- **Barclays** - [2027 Technology Cyber and Security Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173) - Knutsford, Radbroke Hall - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Yesterday | JR-0000129173
-- **Barclays** - [2027 Technology Developer Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) - Glasgow Campus - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Yesterday | JR-0000129387
-- **Barclays** - [2027 Technology Developer Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381) - Knutsford, Radbroke Hall - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Yesterday | JR-0000129381
-- **Barclays** - [2027 Technology Developer Summer Internship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379) - Northampton, Barclays Campus, Pavilion Drive - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Yesterday | JR-0000129379
-- **Qube Research & Technologies** - [2027 - Internship, HR Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002) - London - Confirmed official posting (Greenhouse:quberesearchandtechnologies): posted=2026-11-02T08:43:29-05:00; internship timing not stated in title; undergrad/BS/MS language found
-
-### Asia (0)
+### Europe (0)
 
 _None._
+
+### Asia (1)
+
+- **Schonfeld** - [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) - Hong Kong, Hong Kong - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-11-03T15:02:10-05:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8350719 | internship timing not stated in title | The Role We are seeking exceptional candidates to join our Quantitative Research and strat teams in Hong Kong where they will work with other researchers and developers on various research projects, including the design of novel predictive signals, enhancement of our algorithms for prediction, trade execution, portfolio construction, risk management, product and asset modelling. Interns will have an opportunity to meaningfully contribute to all facets of a successful quantitative trading business; help it grow and diversify. What You’ll Do As a Quantitative Researcher/strat Intern you will be directly responsible for furthering our platform build and/or alpha research. You will ...
 
 ### Oceania (0)
 
@@ -48,22 +43,14 @@ _None._
 
 _None._
 
-### Remote / Unspecified (3)
+### Remote / Unspecified (0)
 
-- **Barclays** - [2027 Customer and Digital - Data and Analytics Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280) - Canary Wharf, 1 Churchill Place - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Yesterday | JR-0000129280
-- **Barclays** - [2027 Technology Analyst Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-London_JR-0000129434) - Canary Wharf, 1 Churchill Place - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Yesterday | JR-0000129434
-- **Barclays** - [2027 Technology Developer Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397) - Canary Wharf, 1 Churchill Place - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Yesterday | JR-0000129397
+_None._
 
 ## No Longer Present
 
-- **Virtu Financial** - [2027 Internship - Quantitative Researcher (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002)
-- **Optiver** - [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
-- **Maven Securities** - [Amsterdam Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591)
-- **Maven Securities** - [London Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970)
-- **Schonfeld** - [2027 Systematic COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172059)
-- **Goldman Sachs** - [2027 | EMEA | London | Risk | Summer Analyst](https://higher.gs.com/roles/172894)
-- **Man Group** - [Technology Summer Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978895101)
-- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703)
+- **Jump Trading** - [Campus ASIC Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974837)
+- **Susquehanna International Group** - [Macro Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10725?lang=en-us)
 
 ## Missing but not confirmed closed
 
@@ -156,6 +143,8 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **BMO Capital Markets** - [R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726)
 - **Fidelity Investments** - [Summer 2027 Equity Research Associate Intern - London](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1)
 - **PIMCO** - [2027 Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805)
+- **Baillie Gifford** - [Cloud, Infrastructure & Security Summer Internship 2027](https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Cloud--Infrastructure---Security-Summer-Internship-2027_R0004565)
+- **Baillie Gifford** - [Software Engineering & Innovation Summer Internship 2027](https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Software-Engineering---Innovation-Summer-Internship-2027_R0004566)
 - **BlackRock** - [2027 MBA Internship Program - Client & Product Functions - Research & Markets Advisory - New York](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467)
 - **Brevan Howard** - [2027 Summer Internship Program – Trading, Geneva](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607)
 - **Morningstar** - [Morningstar Internship Program- Quantitative Research Intern 2027 (Campus)](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027--Campus-_REQ-058465)
