@@ -1,9 +1,15 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 253
-Last updated: 2026-11-04T11:38:29.423Z
+Total closure events recorded: 256
+Last updated: 2026-11-05T13:22:53.490Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-05 (3)
+
+- **IMC Financial Markets** - [Quant Performance Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) - Chicago, United States
+- **Goldman Sachs** - [2027 | Americas | Dallas | Banking Analytics & Solutions Group | Summer Analyst](https://higher.gs.com/roles/185351) - Dallas, TX, United States
+- **D. E. Shaw** - [Strategy and Business Development Intern - Summer 2027 (Singapore)](https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005) - Singapore
 
 ### 2026-11-04 (2)
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:38:29.423Z",
+  "updatedAt": "2026-11-05T13:22:53.490Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -5081,6 +5081,36 @@
       "URL": "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954",
       "first_seen": "2026-11-04",
       "date": "2025-09-04",
+      "evidence": "employer_field"
+    },
+    "bpinternational|RQ117480|polytechnic internship - supply, trading & shipping - singapore (2027)": {
+      "URL": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Polytechnic-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ117480-1",
+      "first_seen": "2026-11-05",
+      "date": "2026-11-05",
+      "evidence": "employer_relative_label"
+    },
+    "db|R0450450|internship regional management, corporate strategy e sustainability (f/m/x)": {
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450",
+      "first_seen": "2026-11-05",
+      "date": "2026-11-05",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.eu.greenhouse.io/imc/jobs/4823946101": {
+      "URL": "https://job-boards.eu.greenhouse.io/imc/jobs/4823946101",
+      "first_seen": "2026-11-05",
+      "date": "2026-11-04",
+      "evidence": "employer_field"
+    },
+    "invesco|R-15590|early career intern - legal, compliance, audit & risk (lcar)": {
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---LCAR_R-15590-1",
+      "first_seen": "2026-11-05",
+      "date": "2026-11-04",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8171776": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8171776",
+      "first_seen": "2026-11-05",
+      "date": "2026-11-03",
       "evidence": "employer_field"
     }
   }

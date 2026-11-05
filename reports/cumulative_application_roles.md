@@ -1,19 +1,20 @@
 # Cumulative application queue
 
-_Updated 2026-11-04. Roles remain in this ledger when they age out of the rolling 21-day report._
+_Updated 2026-11-05. Roles remain in this ledger when they age out of the rolling 21-day report._
 
-- **557** unique role URLs tracked
-- **349** active or manually verified today
-- **208** not detected in the latest scan
-- **4** new scanner URLs since the previous scan
+- **562** unique role URLs tracked
+- **351** active or manually verified today
+- **211** not detected in the latest scan
+- **5** new scanner URLs since the previous scan
 - **5** live Scientech roles verified on its nested official Ashby board
 
-## New scanner URLs since the previous scan (4)
+## New scanner URLs since the previous scan (5)
 
-- **Vatic Investments** — [AI Research Internship (Summer 2027)](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954) — New York — first seen 2026-11-04
-- **Arrowstreet** — [Software Engineer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561) — Boston — released 2026-11-03
-- **Schonfeld** — [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) — Hong Kong, Hong Kong — released 2026-11-03
-- **Geneva Trading** — [C++ Developer (Intern)](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) — Chicago Office — released 2026-09-21
+- **BP** — [Polytechnic Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Polytechnic-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ117480-1) — Singapore - Singapore — released 2026-11-05
+- **Deutsche Bank** — [Internship Regional Management, Corporate Strategy e Sustainability (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450) — Milano Bicocca Calendario 1 — released 2026-11-05
+- **IMC Financial Markets** — [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) — Chicago, United States — released 2026-11-04
+- **Invesco** — [Early Career Intern - Legal, Compliance, Audit & Risk (LCAR)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---LCAR_R-15590-1) — Atlanta, Georgia — released 2026-11-04
+- **Schonfeld** — [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) — New York, New York, United States — released 2026-11-03
 
 ## Scientech roles verified on the nested official board (5)
 
@@ -25,7 +26,7 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Scientech Research Capital** — [Quantitative Researcher Intern](https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80) — New Jersey — released 2025-01-23
 - **Scientech Research Capital** — [Quantitative Researcher Intern](https://jobs.ashbyhq.com/scientech-research/c344ad5a-b148-4a96-8d6c-a660e6f86896) — Shanghai — released 2025-01-23
 
-## Active cumulative queue (349)
+## Active cumulative queue (351)
 
 ### AQR Capital Management (3)
 
@@ -113,8 +114,9 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 
 - **BNP Paribas** — [2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading](https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading) — New York, US — released 2026-10-15
 
-### BP (1)
+### BP (2)
 
+- **BP** — [Polytechnic Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Polytechnic-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ117480-1) — Singapore - Singapore — released 2026-11-05
 - **BP** — [Summer Internship-Technology-Enterprise Technology- Malaysia](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Enterprise-Technology--Malaysia_RQ115470-1) — Malaysia - Kuala Lumpur — released 2026-09-07
 
 ### Bracebridge Capital (2)
@@ -146,16 +148,16 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Connor Clark & Lunn** — [Intern, Retail Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4410729009) — Vancouver, British Columbia, Canada — released 2026-09-18
 - **Connor Clark & Lunn** — [Intern, Retail Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410729009) — Vancouver, British Columbia, Canada — released 2026-09-18
 
-### D. E. Shaw (5)
+### D. E. Shaw (4)
 
 - **D. E. Shaw** — [Venture Studio (Startup Incubator) Intern (New York) - Summer 2027](https://www.deshaw.com/careers/venture-studio-startup-incubator-intern-new-york-summer-2027-6166) — New York — first seen 2026-10-23
-- **D. E. Shaw** — [Strategy and Business Development Intern - Summer 2027 (Singapore)](https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005) — Singapore — first seen 2026-10-08
 - **D. E. Shaw** — [Strategy and Business Development MBA Summer Associate (New York) – Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-mba-summer-associate-new-york-summer-2027-6088) — New York — first seen 2026-10-02
 - **D. E. Shaw** — [Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) — New York — first seen 2026-08-16
 - **D. E. Shaw** — [Software Developer, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) — New York — first seen 2026-08-16
 
-### Deutsche Bank (5)
+### Deutsche Bank (6)
 
+- **Deutsche Bank** — [Internship Regional Management, Corporate Strategy e Sustainability (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450) — Milano Bicocca Calendario 1 — released 2026-11-05
 - **Deutsche Bank** — [FX Risk Management Sales Intern (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Paris/FX-Risk-Management-Sales-Intern--f-m-x-_R0449103) — Paris — released 2026-10-20
 - **Deutsche Bank** — [Investment Bank - Fixed Income & Currencies Trading Local Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/Investment-Bank---Fixed-Income---Currencies-Trading-Local-Intern_R0445832) — Shanghai Two IFC — released 2026-10-16
 - **Deutsche Bank** — [CRO - Credit Risk Local Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/CRO---Credit-Risk-Local-Intern_R0452523) — Shanghai Two IFC — released 2026-10-13
@@ -220,7 +222,7 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Geneva Trading** — [Trade Support Engineer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242190007) — Chicago Office — released 2026-09-22
 - **Geneva Trading** — [C++ Developer (Intern)](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) — Chicago Office — released 2026-09-21
 
-### Goldman Sachs (45)
+### Goldman Sachs (44)
 
 - **Goldman Sachs** — [2027 \| EMEA \| London \| Global Investment Research \| Macro Research, Economics \| Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170880) — London, Greater London, England, United Kingdom — released 2026-10-30
 - **Goldman Sachs** — [2027 \| APEJ \| Singapore \| FICC and Equities (Sales and Trading) Quantitative Strats \| Summer Analyst](https://higher.gs.com/roles/170600) — Singapore — released 2026-10-29
@@ -230,7 +232,6 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Goldman Sachs** — [2027 \| EMEA \| London \| Global Investment Research \| Macro Research, Portfolio Strategy \| Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170877) — London, Greater London, England, United Kingdom — released 2026-10-20
 - **Goldman Sachs** — [2027 \| EMEA \| London \| FICC and Equities (Sales and Trading) Quantitative Strats \| Internship](https://higher.gs.com/roles/175424) — London, Greater London, England, United Kingdom — released 2026-10-06
 - **Goldman Sachs** — [2027 \| APEJ \| Seoul \| Global Investment Research \| Seasonal / Off Cycle Internship](https://higher.gs.com/roles/185927) — Seoul, Seoul, Korea, Republic of — released 2026-10-02
-- **Goldman Sachs** — [2027 \| Americas \| Dallas \| Banking Analytics & Solutions Group \| Summer Analyst](https://higher.gs.com/roles/185351) — Dallas, TX, United States — released 2026-09-24
 - **Goldman Sachs** — [2027 \| APEJ \| Hong Kong \| Global Investment Research, Macro Research, Economics \| Seasonal / Off-cycle Internship](https://higher.gs.com/roles/180086) — Hong Kong, Hong Kong — released 2026-09-18
 - **Goldman Sachs** — [2027 \| EMEA \| London \| FICC & Equities (Sales & Trading) \| Seasonal/OffCycle](https://higher.gs.com/roles/171437) — London, Greater London, England, United Kingdom — released 2026-09-18
 - **Goldman Sachs** — [2027 \| EMEA \| Paris \| FICC & Equities (Sales & Trading) \| Seasonal/OffCycle](https://higher.gs.com/roles/171438) — Paris, Ile-de-France, France — released 2026-09-18
@@ -278,8 +279,8 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 
 ### IMC Financial Markets (2)
 
+- **IMC Financial Markets** — [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) — Chicago, United States — released 2026-11-04
 - **IMC Financial Markets** — [Machine Learning Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) — New York, United States — released 2026-10-08
-- **IMC Financial Markets** — [Quant Performance Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) — Chicago, United States — released 2026-08-27
 
 ### IMC Trading (7)
 
@@ -291,8 +292,9 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **IMC Trading** — [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) — Amsterdam, Netherlands — released 2026-07-31
 - **IMC Trading** — [Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4939846101) — Amsterdam, Netherlands — released 2026-07-31
 
-### Invesco (2)
+### Invesco (3)
 
+- **Invesco** — [Early Career Intern - Legal, Compliance, Audit & Risk (LCAR)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---LCAR_R-15590-1) — Atlanta, Georgia — released 2026-11-04
 - **Invesco** — [Quantitative Intern - Portfolio Engineering and Analytics](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-2) — Boston, Massachusetts — released 2026-10-16
 - **Invesco** — [Quantitative Strategies Research Intern](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803-1) — New York, New York — released 2026-10-16
 
@@ -436,9 +438,10 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Qube Research & Technologies** — [2027 – Internship or Graduate, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002) — Hong Kong, Singapore, Shanghai, Beijing — released 2026-08-24
 - **Qube Research & Technologies** — [2027 – Internship or Graduate, Software Engineer and Quantitative Developer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002) — Hong Kong, Singapore — released 2026-08-24
 
-### Schonfeld (8)
+### Schonfeld (9)
 
 - **Schonfeld** — [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) — Hong Kong, Hong Kong — released 2026-11-03
+- **Schonfeld** — [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) — New York, New York, United States — released 2026-11-03
 - **Schonfeld** — [2027 AI Forward Deployed Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8311595) — Hong Kong, Hong Kong — released 2026-10-27
 - **Schonfeld** — [2027 Index Rebalancing Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8311597) — Hong Kong, Hong Kong — released 2026-10-22
 - **Schonfeld** — [2027 PhD Centralized Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) — New York, New York, United States — released 2026-10-22
@@ -550,7 +553,7 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Xantium** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) — London, England — released 2026-08-17
 - **Xantium** — [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York — released 2026-08-17
 
-## Not detected in the latest scan (208)
+## Not detected in the latest scan (211)
 
 _These entries are preserved for history. A single missing scan is not proof that an employer closed the posting._
 
@@ -569,6 +572,7 @@ _These entries are preserved for history. A single missing scan is not proof tha
 - **Mako Trading** — [Mako Summer Internship – Trading](https://www.mako.com/opportunities/job-listing/8883121002?gh_jid=8883121002) — London — released 2026-10-12
 - **Schonfeld** — [2027 Quantitative Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267092) — Austin, Texas, United States — released 2026-10-09
 - **Schonfeld** — [2027 Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8267120) — Austin, Texas, United States — released 2026-10-09
+- **D. E. Shaw** — [Strategy and Business Development Intern - Summer 2027 (Singapore)](https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005) — Singapore — first seen 2026-10-08
 - **Goldman Sachs** — [2027 \| Americas \| New York City Area \| Asset Management, Quantitative Investing \| Summer Analyst](https://higher.gs.com/roles/155950) — New York, NY, United States — released 2026-10-07
 - **Engineers Gate** — [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8249666) — New York — released 2026-10-06
 - **Northern Trust Asset Management** — [Data & Analytics Office Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) — Chicago, IL — released 2026-10-03
@@ -593,6 +597,7 @@ _These entries are preserved for history. A single missing scan is not proof tha
 - **Goldman Sachs** — [2027 \| EMEA \| London \| Global Investment Research, Equity Research \| Summer Analyst](https://higher.gs.com/roles/170863) — London, Greater London, England, United Kingdom — released 2026-09-25
 - **RRS Group** — [2027 Associate Software Engineer Intern - Sophomore Only](https://jobs.smartrecruiters.com/RRSGroup/744000151931819) — Remote — released 2026-09-25
 - **BMO Capital Markets** — [AI Engineer, Winter 2027 (Co-op/Internship) - 8 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1) — Toronto, ON, CAN — released 2026-09-24
+- **Goldman Sachs** — [2027 \| Americas \| Dallas \| Banking Analytics & Solutions Group \| Summer Analyst](https://higher.gs.com/roles/185351) — Dallas, TX, United States — released 2026-09-24
 - **RRS Group** — [Associate IT Systems Administrator Intern - 2027](https://jobs.smartrecruiters.com/RRSGroup/744000151541069) — Remote — released 2026-09-24
 - **Capital Group** — [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Charlotte NC, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385) — Charlotte — released 2026-09-23
 - **Capital Group** — [CAMPUS: Capital Group Rotational Program Data & Technology Track Summer Associate (Irvine, 2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384) — Irvine — released 2026-09-23
@@ -714,6 +719,7 @@ _These entries are preserved for history. A single missing scan is not proof tha
 - **PIMCO** — [2027 Summer Intern - Technology Analyst, Software Engineering, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800) — London, GBR — released 2026-08-30
 - **AQR Capital Management** — [2027 Portfolio Finance Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8161563&gh_jid=8161563) — Greenwich, CT — released 2026-08-27
 - **Deutsche Bank** — [DWS Liquidity Risk Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Liquidity-Risk-Intern_R0446573-1) — Luxembourg 2 Blvd K. Adenauer — released 2026-08-27
+- **IMC Financial Markets** — [Quant Performance Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) — Chicago, United States — released 2026-08-27
 - **BMO Capital Markets** — [BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/ Internship)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) — Toronto, ON, CAN — released 2026-08-26
 - **Connor Clark & Lunn** — [Intern, Quantitative Developer](https://job-boards.greenhouse.io/cclim/jobs/4383943009) — Vancouver, British Columbia, Canada — released 2026-08-26
 - **Connor Clark & Lunn** — [Intern, Quantitative Equity Analyst](https://job-boards.greenhouse.io/cclim/jobs/4383968009) — Vancouver, British Columbia, Canada — released 2026-08-26

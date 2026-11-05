@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T11:43:43.104Z",
-  "scanStartedAt": "2026-11-04T11:38:29.423Z",
+  "generatedAt": "2026-11-05T13:27:51.455Z",
+  "scanStartedAt": "2026-11-05T13:22:53.490Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
@@ -142,7 +142,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 142,
+      "jobsSeen": 146,
       "relevantInternships": 0
     },
     {
@@ -227,7 +227,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 5,
+      "jobsSeen": 4,
       "relevantInternships": 2
     },
     {
@@ -299,7 +299,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 54,
+      "jobsSeen": 55,
       "relevantInternships": 5
     },
     {
@@ -409,8 +409,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "jobsSeen": 17,
+      "relevantInternships": 2
     },
     {
       "company": "BlockTech",
@@ -818,7 +818,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 2,
+      "jobsSeen": 1,
       "relevantInternships": 0
     },
     {
@@ -960,7 +960,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 16,
+      "jobsSeen": 17,
       "relevantInternships": 0
     },
     {
@@ -986,7 +986,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 44,
+      "jobsSeen": 46,
       "relevantInternships": 0
     },
     {
@@ -1012,7 +1012,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 199,
+      "jobsSeen": 197,
       "relevantInternships": 12
     },
     {
@@ -1068,8 +1068,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 134,
-      "relevantInternships": 5
+      "jobsSeen": 132,
+      "relevantInternships": 6
     },
     {
       "company": "Domeyard LP",
@@ -1185,7 +1185,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantInternships": 2
     },
     {
@@ -1254,7 +1254,7 @@
       ],
       "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 83,
+      "jobsSeen": 84,
       "relevantInternships": 4
     },
     {
@@ -1366,7 +1366,7 @@
         "https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us",
         "https://app.welcometothejungle.com/companies/Dexterity-Capital"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1448,7 +1448,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 45,
+      "jobsSeen": 44,
       "relevantInternships": 3
     },
     {
@@ -1680,7 +1680,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 58,
+      "jobsSeen": 59,
       "relevantInternships": 0
     },
     {
@@ -1830,7 +1830,7 @@
       "careerPages": [
         "https://hyperithm.career.greetinghr.com/ko/open-positions"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2057,7 +2057,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantInternships": 3
     },
     {
@@ -2132,7 +2132,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 157,
+      "jobsSeen": 159,
       "relevantInternships": 17
     },
     {
@@ -2252,7 +2252,7 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 35,
+      "jobsSeen": 34,
       "relevantInternships": 0
     },
     {
@@ -2309,7 +2309,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 14,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -2491,8 +2491,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 69,
-      "relevantInternships": 8
+      "jobsSeen": 70,
+      "relevantInternships": 9
     },
     {
       "company": "Silver Valley Management",
@@ -2680,7 +2680,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantInternships": 2
     },
     {
@@ -3707,7 +3707,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 57,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -3779,7 +3779,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 37,
+      "jobsSeen": 36,
       "relevantInternships": 0
     },
     {
@@ -3903,7 +3903,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 93,
+      "jobsSeen": 92,
       "relevantInternships": 13
     },
     {
@@ -3946,7 +3946,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 47,
+      "jobsSeen": 48,
       "relevantInternships": 13
     },
     {
@@ -4237,7 +4237,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 86,
+      "jobsSeen": 87,
       "relevantInternships": 3
     },
     {
@@ -4268,7 +4268,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 91,
+      "jobsSeen": 94,
       "relevantInternships": 0
     },
     {

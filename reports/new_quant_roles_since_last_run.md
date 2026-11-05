@@ -1,19 +1,18 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-11-03T13:37:32.569Z
-Current scan: 2026-11-04T11:38:29.423Z
+Previous scan: 2026-11-04T11:38:29.423Z
+Current scan: 2026-11-05T13:22:53.490Z
 Previous rows: 507
-Current rows: 507
-New URLs confirmed in both source passes: 4
-Confirmed no longer present: 2
+Current rows: 509
+New URLs confirmed in both source passes: 5
+Confirmed no longer present: 3
 
 ## New Roles By Region
 
-### North America (3)
+### North America (2)
 
-- **Arrowstreet** - [Software Engineer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561) - Boston - Confirmed official posting (Career page Workday:arrowstreetcapital/Campus_Careers): career_page=https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers | Posted Yesterday | R1561
-- **Geneva Trading** - [C++ Developer (Intern)](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) - Chicago Office - Confirmed official posting (Career page Greenhouse:genevatrading): posted=2026-09-21T15:25:46-04:00 | career_page=https://www.genevatrading.com/career-in-trading/ | company_wrapper=https://www.genevatrading.com/career-in-trading/job?gh_jid=5242063007 | internship timing not stated in title; graduation eligibility mentions: 2024, 2026 | Founded in 1999, Geneva Trading is a premier global principal trading firm with strategically located offices in Chicago, Dublin, and London. Our relentless focus on trading excellence combined with technological innovation has equipped us with a best-in-class proprietary trading platform, enabling us to compete at the highest levels in the global markets. Rooted in a culture of integrity, collaboration, and an unwavering passion for progress, we foster an environment of personal and professional excellence. Our nimble organizational structure and entrepreneurial spirit attract top-tier talent with a passion for innovatio...
-- **Vatic Investments** - [AI Research Internship (Summer 2027)](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954) - New York - Confirmed official posting (Career page Greenhouse:vaticlabs): posted=2025-09-04T10:48:42-04:00 | career_page=https://www.vaticlabs.ai/careers/ | company_wrapper=https://www.vaticlabs.ai/careers/job?gh_jid=7205954 | internship timing: Summer 2027 | Vatic Labs is a quantitative trading firm in New York. Our traders, AI researchers, and technologists collaborate to develop autonomous trading agents and cutting edge technology. As an AI Intern at Vatic Labs, you will contribute to the research and development of fully autonomous trading agents with some of the brightest researchers, traders, and technologists in the world. As a part of your internship at Vatic Labs, you will explore vast amounts of market data, research different AI approaches, apply cutting edge machine learning algorithms and statistical approaches to this data to discover and capitalize on trading opportunities. We are seeking researchers who have demonstrated the ability to generat...
+- **IMC Financial Markets** - [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) - Chicago, United States - Confirmed official posting (Greenhouse:imc): posted=2026-11-04T14:39:52-05:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found
+- **Schonfeld** - [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) - New York, New York, United States - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-11-03T14:24:58-05:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8171776 | internship timing not stated in title | The Role We are looking for an intern to join our Legal team for Summer 2027. This role sits where the legal practice meets technology: your main project will be using AI tools to change how the team captures, organizes, and applies its knowledge. At the center of the internship, you will build and maintain a dashboard to both memorialize/categorize as well as produce/query investor documentation. This dashboard will importantly provide the firm with a single, clear view of investor commitments currently spread across various documents. You will also use AI to streamline other legal functions. That includes building playbooks that capture the team's negotiating positions and sys...
 
 ### Europe (0)
 
@@ -21,7 +20,7 @@ _None._
 
 ### Asia (1)
 
-- **Schonfeld** - [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) - Hong Kong, Hong Kong - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-11-03T15:02:10-05:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8350719 | internship timing not stated in title | The Role We are seeking exceptional candidates to join our Quantitative Research and strat teams in Hong Kong where they will work with other researchers and developers on various research projects, including the design of novel predictive signals, enhancement of our algorithms for prediction, trade execution, portfolio construction, risk management, product and asset modelling. Interns will have an opportunity to meaningfully contribute to all facets of a successful quantitative trading business; help it grow and diversify. What You’ll Do As a Quantitative Researcher/strat Intern you will be directly responsible for furthering our platform build and/or alpha research. You will ...
+- **BP** - [Polytechnic Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Polytechnic-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ117480-1) - Singapore - Singapore - Confirmed official posting (Career page Workday:bpinternational/bpCareers): career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted Today | RQ117480
 
 ### Oceania (0)
 
@@ -43,14 +42,16 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (2)
 
-_None._
+- **Deutsche Bank** - [Internship Regional Management, Corporate Strategy e Sustainability (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450) - Milano Bicocca Calendario 1 - Confirmed official posting (Career page Workday:db/DBWebsite): career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0450450
+- **Invesco** - [Early Career Intern - Legal, Compliance, Audit & Risk (LCAR)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---LCAR_R-15590-1) - Atlanta, Georgia - Confirmed official posting (Career page Workday:invesco/IVZ): career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Yesterday | R-15590
 
 ## No Longer Present
 
-- **Jump Trading** - [Campus ASIC Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974837)
-- **Susquehanna International Group** - [Macro Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10725?lang=en-us)
+- **IMC Financial Markets** - [Quant Performance Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101)
+- **Goldman Sachs** - [2027 | Americas | Dallas | Banking Analytics & Solutions Group | Summer Analyst](https://higher.gs.com/roles/185351)
+- **D. E. Shaw** - [Strategy and Business Development Intern - Summer 2027 (Singapore)](https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005)
 
 ## Missing but not confirmed closed
 

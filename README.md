@@ -2,9 +2,9 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-11-04 &nbsp;•&nbsp; **507 open roles** &nbsp;•&nbsp; **0 released today** &nbsp;•&nbsp; **53 opened in 3 weeks** &nbsp;•&nbsp; **253 closure events** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-11-05 &nbsp;•&nbsp; **509 open roles** &nbsp;•&nbsp; **2 released today** &nbsp;•&nbsp; **51 opened in 3 weeks** &nbsp;•&nbsp; **256 closure events** ([history](reports/closed_roles_history.md))
 
-> **Cumulative application queue:** [557 unique roles tracked; 349 active](reports/cumulative_application_roles.md)
+> **Cumulative application queue:** [562 unique roles tracked; 351 active](reports/cumulative_application_roles.md)
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [🔥 Opened in the Last 3 Weeks](#-opened-in-the-last-3-weeks) · [📚 Cumulative Application Queue](reports/cumulative_application_roles.md) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -12,18 +12,42 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-11-04_
+_Scan date: 2026-11-05_
 
-_No currently open roles have a confirmed source release date of 2026-11-04._
+**2** currently open roles with a confirmed source release date of 2026-11-05:
+
+**Asia**
+
+- **BP** — [Polytechnic Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Polytechnic-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ117480-1) — Singapore - Singapore
+
+**Remote / Unspecified**
+
+- **Deutsche Bank** — [Internship Regional Management, Corporate Strategy e Sustainability (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450) — Milano Bicocca Calendario 1
 
 ---
 
 ## 🔥 Opened in the Last 3 Weeks
 
-_Official-source posting dates from 2026-10-15 through 2026-11-04. Only roles that are still present in the current scan are shown._
+_Official-source posting dates from 2026-10-16 through 2026-11-05. Only roles that are still present in the current scan are shown._
 
 <details>
-<summary><strong>2026-11-03</strong> — 10 roles</summary>
+<summary><strong>2026-11-05</strong> — 2 roles</summary>
+
+- **BP** — [Polytechnic Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Polytechnic-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ117480-1) — Singapore - Singapore
+- **Deutsche Bank** — [Internship Regional Management, Corporate Strategy e Sustainability (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450) — Milano Bicocca Calendario 1
+
+</details>
+
+<details>
+<summary><strong>2026-11-04</strong> — 2 roles</summary>
+
+- **IMC Financial Markets** — [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) — Chicago, United States
+- **Invesco** — [Early Career Intern - Legal, Compliance, Audit & Risk (LCAR)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---LCAR_R-15590-1) — Atlanta, Georgia
+
+</details>
+
+<details>
+<summary><strong>2026-11-03</strong> — 11 roles</summary>
 
 - **Arrowstreet** — [Software Engineer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561) — Boston
 - **Keyrock** — [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) — Brussels
@@ -35,6 +59,7 @@ _Official-source posting dates from 2026-10-15 through 2026-11-04. Only roles th
 - **Keyrock** — [Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels](https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33) — Brussels
 - **Keyrock** — [Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels](https://jobs.ashbyhq.com/Keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33) — Brussels
 - **Schonfeld** — [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) — Hong Kong, Hong Kong
+- **Schonfeld** — [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) — New York, New York, United States
 
 </details>
 
@@ -164,38 +189,24 @@ _Official-source posting dates from 2026-10-15 through 2026-11-04. Only roles th
 
 </details>
 
-<details>
-<summary><strong>2026-10-15</strong> — 7 roles</summary>
-
-- **BNP Paribas** — [2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading](https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading) — New York, US
-- **Fidelity Investments** — [Enterprise Infrastructure & Operations Internship](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Galway-Ireland/Enterprise-Infrastructure---Operations-Internship_2137044) — Galway, Ireland
-- **Susquehanna International Group** — [Business Analytics AI Co-op with Drexel University](https://careers.sig.com/jobs/11675?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Susquehanna International Group** — [Derivatives Sales Trader Co-op with Drexel University](https://careers.sig.com/jobs/11670?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Susquehanna International Group** — [Risk and Controls Co-op with Drexel University](https://careers.sig.com/jobs/11663?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Susquehanna International Group** — [Trading Operations Co-op with Drexel University](https://careers.sig.com/jobs/11666?lang=en-us) — Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Tower Research Capital** — [Machine Learning Intern](https://www.tower-research.com/open-positions/?gh_jid=7077280) — Montreal
-
-</details>
-
 [Standalone three-week report](reports/new_roles_last_three_weeks.md)
 
 ### Newly surfaced, source date unavailable
 
-_These 3 roles first appeared in QJS during the window, but the employer does not publish a posting date. They are not included in the 53 confirmed-release count._
+_These 2 roles first appeared in QJS during the window, but the employer does not publish a posting date. They are not included in the 51 confirmed-release count._
 
 - **First seen 2026-10-29** — **Jane Street** — [Machine Learning Researcher](https://www.janestreet.com/join-jane-street/position/8596771002/) — Hong Kong
 - **First seen 2026-10-23** — **D. E. Shaw** — [Venture Studio (Startup Incubator) Intern (New York) - Summer 2027](https://www.deshaw.com/careers/venture-studio-startup-incubator-intern-new-york-summer-2027-6166) — New York
-- **First seen 2026-10-15** — **Jain Global** — [AI Research Intern, Singapore](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Singapore-Office/AI-Research-Intern--Singapore_JR100475-1) — Singapore Office
 
 ---
 
 ## 📋 All Roles Available
 
-**507** open internship roles detected in the latest source pass, grouped by region. Click a title to open the official posting.
+**509** open internship roles detected in the latest source pass, grouped by region. Click a title to open the official posting.
 
 **120** previously seen roles could not be confirmed open or closed. See [guarded absences](reports/new_quant_roles_since_last_run.md#missing-but-not-confirmed-closed).
 
-**Regions:** [North America (246)](#north-america) · [Europe (120)](#europe) · [Asia (105)](#asia) · [Oceania (3)](#oceania) · [Middle East (3)](#middle-east) · [Global / Multiple Regions (16)](#global--multiple-regions) · [Remote / Unspecified (14)](#remote--unspecified)
+**Regions:** [North America (246)](#north-america) · [Europe (120)](#europe) · [Asia (105)](#asia) · [Oceania (3)](#oceania) · [Middle East (3)](#middle-east) · [Global / Multiple Regions (16)](#global--multiple-regions) · [Remote / Unspecified (16)](#remote--unspecified)
 
 ### North America
 
@@ -291,7 +302,6 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 - **Geneva Trading** — [C++ Developer (Intern)](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) — Chicago Office
 - **Geneva Trading** — [Python Developer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242196007) — Chicago Office
 - **Geneva Trading** — [Trade Support Engineer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242190007) — Chicago Office
-- **Goldman Sachs** — [2027 \| Americas \| Dallas \| Banking Analytics & Solutions Group \| Summer Analyst](https://higher.gs.com/roles/185351) — Dallas, TX, United States
 - **Goldman Sachs** — [2027 \| Americas \| Dallas Metro Area \| Asset and Wealth Management Quantitative Strats \| Summer Analyst](https://higher.gs.com/roles/171532) — Dallas, TX, United States
 - **Goldman Sachs** — [2027 \| Americas \| Dallas Metro Area \| Internal Audit, Technology Audit \| Summer Analyst](https://higher.gs.com/roles/170724) — Dallas, TX, United States
 - **Goldman Sachs** — [2027 \| Americas \| Dallas Metro Area \| Investment Banking Quantitative Strats \| Summer Analyst](https://higher.gs.com/roles/171548) — Dallas, TX, United States
@@ -314,9 +324,9 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 - **Hudson River Trading** — [Hardware Engineer Internship - Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) — New York, NY, United States
 - **IMC Financial Markets** — [Deep Learning Research Intern - Summer 2027 - New York](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) — New York, United States
 - **IMC Financial Markets** — [Machine Learning Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) — New York, United States
-- **IMC Financial Markets** — [Quant Performance Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) — Chicago, United States
 - **IMC Financial Markets** — [Quantitative Research Intern (BS/MS) - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) — Chicago, United States
 - **IMC Financial Markets** — [Quantitative Trader Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) — Chicago, United States
+- **IMC Financial Markets** — [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) — Chicago, United States
 - **IMC Financial Markets** — [Software Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) — Chicago, United States
 - **Invesco** — [Quantitative Intern - Portfolio Engineering and Analytics](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-2) — Boston, Massachusetts
 - **Invesco** — [Quantitative Strategies Research Intern](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803-1) — New York, New York
@@ -386,6 +396,7 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 - **Qube Research & Technologies** — [2027 Internship - Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) — New York, Chicago
 - **Radix Trading** — [Quantitative Technologist (C++ Intern)](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) — Chicago
 - **Schonfeld** — [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) — New York, New York, United States
+- **Schonfeld** — [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) — New York, New York, United States
 - **Schonfeld** — [2027 PhD Centralized Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) — New York, New York, United States
 - **Schonfeld** — [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) — Miami, Florida, United States
 - **Scientech Research Capital** — [Quantitative Developer Intern](https://jobs.ashbyhq.com/scientech-research/47be106e-4a2a-4814-bca8-4a7b97816d7c) — New Jersey
@@ -480,8 +491,8 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 - **DRW** — [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8070392) — London
 - **DRW** — [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7957756) — London
 - **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243) — London
-- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) — London
 - **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364) — Amsterdam
+- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) — London
 - **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005) — London
 - **DV Trading** — [Security Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4736603005) — London
 - **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) — London
@@ -591,9 +602,9 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 - **Barclays** — [Electronic Trading Associate Summer Internship Programme 2027 Hong Kong](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Electronic-Trading-Associate-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117566) — Hong Kong, Cheung Kong Center
 - **Barclays** — [Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Hong-Kong_JR-0000117565) — Hong Kong, Cheung Kong Center
 - **Barclays** — [Quantitative Analytics Associate Off Cycle Internship 2027 Singapore](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Quantitative-Analytics-Associate-Off-Cycle-Internship-2027-Singapore_JR-0000117563) — Singapore, Marina Bay Financial Tower 2
+- **BP** — [Polytechnic Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Polytechnic-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ117480-1) — Singapore - Singapore
 - **BP** — [Summer Internship-Technology-Enterprise Technology- Malaysia](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Enterprise-Technology--Malaysia_RQ115470-1) — Malaysia - Kuala Lumpur
 - **Brevan Howard** — [2027 Summer Internship Program – Trading, Singapore](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Singapore/XMLNAME-2027-Summer-Internship-Program---Trading--Singapore_JR101587) — Singapore
-- **D. E. Shaw** — [Strategy and Business Development Intern - Summer 2027 (Singapore)](https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005) — Singapore
 - **Deutsche Bank** — [AI Audit and Analytics Intern - YTP program](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/AI-Audit-and-Analytics-Intern---YTP-program_R0453248) — Singapore, One Raffles Quay
 - **Deutsche Bank** — [CRO - Credit Risk Local Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/CRO---Credit-Risk-Local-Intern_R0452523) — Shanghai Two IFC
 - **Deutsche Bank** — [Investment Bank - Fixed Income & Currencies Trading Local Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/Investment-Bank---Fixed-Income---Currencies-Trading-Local-Intern_R0445832) — Shanghai Two IFC
@@ -741,7 +752,7 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 ### Remote / Unspecified
 
 <details>
-<summary><strong>14 roles</strong> — click to expand</summary>
+<summary><strong>16 roles</strong> — click to expand</summary>
 
 - **Balyasny Asset Management** — [Software Engineer – Physical Commodities Teams (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Software-Engineer---Physical-Commodities-Teams--Summer-Internship-_REQ8596) — Aalborg
 - **Barclays** — [2027 Customer and Digital - Data and Analytics Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280) — Canary Wharf, 1 Churchill Place
@@ -750,9 +761,11 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 - **Barclays** — [Quantitative Finance Associate Off Cycle Internship Programme 2027 London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685) — Canary Wharf, 1 Churchill Place
 - **Barclays** — [Sales, Trading and Structuring Off Cycle Internship Programme 2027 London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-London_JR-0000124716) — Canary Wharf, 1 Churchill Place
 - **BlackRock** — [2027 Quantitative Masters Internship Program - Investments - Portfolio Management - Atlanta](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470) — Atlanta, GA
+- **Deutsche Bank** — [Internship Regional Management, Corporate Strategy e Sustainability (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450) — Milano Bicocca Calendario 1
 - **Dimensional Fund Advisors** — [Internship in Investment/Strategy Research (Undergraduate & Master's)](https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Investment-Strategy-Research--Undergraduate-and-Masters-_2026-9037) — 2 Locations
 - **Dimensional Fund Advisors** — [Internship in Portfolio Management (Undergraduate & Master's)](https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Portfolio-Management--Undergraduate---Master-s-_2026-8998) — 2 Locations
 - **Fidelity Investments** — [Fidelity Center for Applied Technology (FCAT) Innovation Ecosystem, Europe Internship](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Fidelity-Center-for-Applied-Technology--FCAT--Innovation-Ecosystem--Europe-Internship_2137228-1) — 2 Locations
+- **Invesco** — [Early Career Intern - Legal, Compliance, Audit & Risk (LCAR)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---LCAR_R-15590-1) — Atlanta, Georgia
 - **PIMCO** — [2027 Summer Intern - Global Wealth Management, Strategic Accounts Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770) — 2 Locations
 - **Vanguard** — [College to Corporate IT Internship - Data Science (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765) — Charlotte, NC
 - **Vanguard** — [College to Corporate IT Internship - Risk & Security - Analyst  (NC)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764) — Charlotte, NC
@@ -809,7 +822,7 @@ Publishing stages generated artifacts only, refuses unrelated staged files, vali
 | [reports/current_quant_roles_not_in_tracker.md](reports/current_quant_roles_not_in_tracker.md) | Current roles absent from the older application tracker |
 | [reports/quant_roster_scan_audit.md](reports/quant_roster_scan_audit.md) | 303-firm roster split into confirmed vs. unverifiable states |
 | [reports/scan_validation.md](reports/scan_validation.md) | Portable baseline delta and integrity checks for the latest refresh |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (253 closure events recorded) |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (256 closure events recorded) |
 | [data/stable_quant_roles.json](data/stable_quant_roles.json) | Cross-device confirmed-present state for the two-scan closure guard |
 | [inputs/company_career_pages.json](inputs/company_career_pages.json) | Seeded career-page database |
 | [inputs/quant_firm_roster.json](inputs/quant_firm_roster.json) | Complete 303-entry firm list + canonical aliases |

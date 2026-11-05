@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-11-04T11:38:29.423Z
+Scan started: 2026-11-05T13:22:53.490Z
 Source roster entries: 306
 Canonical companies after aliases: 305
 
@@ -176,7 +176,7 @@ Canonical companies after aliases: 305
 | Kvantium Research | no saved page attempted | none |
 | DWF Labs | 0/1 pages live | [link](https://www.dwf-labs.com/careers) |
 | Deep Blue Capital | 0/1 pages live | [link](https://deepbluecap.com/vacancies/) |
-| Dexterity Capital | 1/3 pages live | [link](https://wellfound.com/company/dexterity-capital) [link](https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us) [link](https://app.welcometothejungle.com/companies/Dexterity-Capital) |
+| Dexterity Capital | 0/3 pages live | [link](https://wellfound.com/company/dexterity-capital) [link](https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us) [link](https://app.welcometothejungle.com/companies/Dexterity-Capital) |
 | Domstad Traders | no saved page attempted | none |
 | Enigma Quant Capital | 1/1 pages live | [link](https://www.enigmaquant.com/#careers) |
 | Ethflow | no saved page attempted | none |
@@ -203,7 +203,7 @@ Canonical companies after aliases: 305
 | Gift Street Capital | no saved page attempted | none |
 | Grasshopper | 1/1 pages live | [link](https://grasshopperasia.com/careers/) |
 | Group One Trading | 1/1 pages live | [link](https://www.group1.com/careers/) |
-| Hyperithm | 1/1 pages live | [link](https://hyperithm.career.greetinghr.com/ko/open-positions) |
+| Hyperithm | 0/1 pages live | [link](https://hyperithm.career.greetinghr.com/ko/open-positions) |
 | InCommodities Asset Management | 1/1 pages live | [link](https://incommodities.com/join-us) |
 | J.E. Moody & Company LLC | 1/1 pages live | [link](http://jemoody.com/) |
 | Lehi Capital Corp | 0/1 pages live | [link](https://lehicap.com/colab) |

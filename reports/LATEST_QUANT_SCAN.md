@@ -1,14 +1,14 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-11-04T11:38:29.423Z
+Last updated: 2026-11-05T13:22:53.490Z
 
 ## Summary
 
 - Companies searched: 370
 - Career pages checked: 514
-- Current retained roles: 507
-- New stable job URLs since previous scan: 4
-- No longer present since previous scan: 2
+- Current retained roles: 509
+- New stable job URLs since previous scan: 5
+- No longer present since previous scan: 3
 - Missing without enough closure evidence: 120
 - Matching-role firms: 48
 - Confirmed no open postings: 4
@@ -17,11 +17,10 @@ Last updated: 2026-11-04T11:38:29.423Z
 
 ## New Roles Since Previous Scan
 
-### North America (3)
+### North America (2)
 
-- **Arrowstreet** - [Software Engineer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561) - Boston
-- **Geneva Trading** - [C++ Developer (Intern)](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) - Chicago Office
-- **Vatic Investments** - [AI Research Internship (Summer 2027)](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954) - New York
+- **IMC Financial Markets** - [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) - Chicago, United States
+- **Schonfeld** - [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) - New York, New York, United States
 
 ### Europe (0)
 
@@ -29,7 +28,7 @@ _None._
 
 ### Asia (1)
 
-- **Schonfeld** - [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) - Hong Kong, Hong Kong
+- **BP** - [Polytechnic Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Polytechnic-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ117480-1) - Singapore - Singapore
 
 ### Oceania (0)
 
@@ -51,14 +50,16 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (2)
 
-_None._
+- **Deutsche Bank** - [Internship Regional Management, Corporate Strategy e Sustainability (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450) - Milano Bicocca Calendario 1
+- **Invesco** - [Early Career Intern - Legal, Compliance, Audit & Risk (LCAR)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---LCAR_R-15590-1) - Atlanta, Georgia
 
 ## No Longer Present
 
-- **Jump Trading** - [Campus ASIC Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974837) - Bristol
-- **Susquehanna International Group** - [Macro Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10725?lang=en-us) - New York, New York
+- **IMC Financial Markets** - [Quant Performance Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) - Chicago, United States
+- **Goldman Sachs** - [2027 | Americas | Dallas | Banking Analytics & Solutions Group | Summer Analyst](https://higher.gs.com/roles/185351) - Dallas, TX, United States
+- **D. E. Shaw** - [Strategy and Business Development Intern - Summer 2027 (Singapore)](https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005) - Singapore
 
 ## Full Reports
 
