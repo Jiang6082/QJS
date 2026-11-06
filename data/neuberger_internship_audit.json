@@ -1,25 +1,38 @@
 {
-  "checkedAt": "2026-11-05T13:28:05.860Z",
+  "checkedAt": "2026-11-06T23:51:15.694Z",
   "boards": [
     {
       "site": "NBCareers",
-      "jobsSeen": 70,
+      "jobsSeen": 69,
       "searchComplete": true,
       "errors": []
     },
     {
       "site": "PWM",
-      "jobsSeen": 12,
+      "jobsSeen": 11,
       "searchComplete": true,
       "errors": []
     }
   ],
   "roles": [
     {
+      "title": "プライベート・デット インターン(投資業務+AI活用)/ Private Debt Intern",
+      "externalPath": "/job/Tokyo/----AI---Private-Debt-Intern_R0012797",
+      "locationsText": "Tokyo",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "R0012797"
+      ],
+      "URL": "https://nb.wd1.myworkdayjobs.com/NBCareers/job/Tokyo/----AI---Private-Debt-Intern_R0012797",
+      "inQuantScan": false,
+      "talentPool": false,
+      "detailError": null
+    },
+    {
       "title": "Private Markets MBA Intern Summer 2027",
       "externalPath": "/job/New-York-NY/Private-Markets-MBA-Intern_R0012787",
       "locationsText": "New York, NY",
-      "postedOn": "Posted 6 Days Ago",
+      "postedOn": "Posted 7 Days Ago",
       "bulletFields": [
         "R0012787"
       ],
@@ -32,7 +45,7 @@
       "title": "MBA Intern, Stewardship & Sustainable Investing Summer 2027",
       "externalPath": "/job/New-York-NY/MBA-Intern--Stewardship---Sustainability-Summer-2027_R0012713",
       "locationsText": "2 Locations",
-      "postedOn": "Posted 24 Days Ago",
+      "postedOn": "Posted 25 Days Ago",
       "bulletFields": [
         "R0012713"
       ],

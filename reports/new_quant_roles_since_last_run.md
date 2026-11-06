@@ -1,26 +1,29 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-11-04T11:38:29.423Z
-Current scan: 2026-11-05T13:22:53.490Z
-Previous rows: 507
-Current rows: 509
-New URLs confirmed in both source passes: 5
-Confirmed no longer present: 3
+Previous scan: 2026-11-05T13:22:53.490Z
+Current scan: 2026-11-06T23:46:50.231Z
+Previous rows: 509
+Current rows: 504
+New URLs confirmed in both source passes: 6
+Confirmed no longer present: 8
 
 ## New Roles By Region
 
-### North America (2)
+### North America (3)
 
-- **IMC Financial Markets** - [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) - Chicago, United States - Confirmed official posting (Greenhouse:imc): posted=2026-11-04T14:39:52-05:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found
-- **Schonfeld** - [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) - New York, New York, United States - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-11-03T14:24:58-05:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8171776 | internship timing not stated in title | The Role We are looking for an intern to join our Legal team for Summer 2027. This role sits where the legal practice meets technology: your main project will be using AI tools to change how the team captures, organizes, and applies its knowledge. At the center of the internship, you will build and maintain a dashboard to both memorialize/categorize as well as produce/query investor documentation. This dashboard will importantly provide the firm with a single, clear view of investor commitments currently spread across various documents. You will also use AI to streamline other legal functions. That includes building playbooks that capture the team's negotiating positions and sys...
+- **BMO Capital Markets** - [Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) - Toronto, ON, CAN - Confirmed official posting (Career page Workday:bmo/External): career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260031097
+- **IMC Financial Markets** - [Quant Performance Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) - Chicago, United States - Confirmed official posting (Greenhouse:imc): posted=2026-08-27T17:39:39-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found
+- **Invesco** - [Early Career Intern - Real Estate (Data Science)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) - Dallas, Texas - Confirmed official posting (Career page Workday:invesco/IVZ): career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Today | R-15091
 
 ### Europe (0)
 
 _None._
 
-### Asia (1)
+### Asia (3)
 
-- **BP** - [Polytechnic Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Polytechnic-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ117480-1) - Singapore - Singapore - Confirmed official posting (Career page Workday:bpinternational/bpCareers): career_page=https://bpinternational.wd3.myworkdayjobs.com/bpCareers | Posted Today | RQ117480
+- **Point72** - [2027 MI Data Research & AI Intern - APAC](https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002) - Hong Kong, Singapore, Japan - Confirmed official posting (Career page Greenhouse:point72): posted=2026-11-06T04:58:09-05:00 | career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8899753002 | internship timing not stated in title | A Career with Point72’s proprietary research team On our proprietary research team—Market Intelligence—you’ll partner with our investment professionals and Compliance team to work with alternative data to uncover insights about companies, industries, and the broader economy through deep fundamental research and applying data science and engineering techniques. You’ll work alongside a talented team with diverse skills, backgrounds, and perspectives. Our sector data analysts, data scientists, data managers, and engineers work together to build compliant research products that are incorporated into the research process of our investment professionals. We look for other bright, motivated, and collaborative pe...
+- **Point72** - [2027 Trader Summer Intern (12-week program)](https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002) - Hong Kong Japan - Confirmed official posting (Career page Greenhouse:point72): posted=2026-11-06T04:33:41-05:00 | career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8932943002 | internship timing: Summer | A Career with Point72’s Trading Team Point72’s Asia Trading Desk is comprised of long/short equity and derivatives execution traders who support the firm’s multi-manager platform of investment professionals. Trading is important to a wide variety of the firm’s stakeholders including but not limited to investment professional teams, external investors, investment services teams, Risk, and Compliance. If you are interested in pursuing a career in trading at a premier asset management firm, this role will provide you with unparalleled training and experience. ABOUT THE ASIA TRADING INTERNSHIP This 12-week summer internship will provide you with valuable experience at a complex global firm. During your time with us, you ...
+- **Point72** - [Long/Short Equity Support Research Intern, Hong Kong](https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002) - Hong Kong - Confirmed official posting (Career page Greenhouse:point72): posted=2026-11-06T09:29:43-05:00 | career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8899750002 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | A Career with Point72’s fundamental equities team Fundamental Equities is Point72’s core strategy and its success is dependent upon our sector-based investing teams. Using fundamental research, our research analysts inform the investment strategies of our portfolio managers. Through our Point72 University, you have access to an unparalleled training and coaching curriculum to help foster your success. We offer you a clear path based on your abilities, willingness to work hard, and performance. Join us if you're looking for a career at the forefront of investing. About the Fundamental Equities Support Internship This 12-week summer internship will provide you wi...
 
 ### Oceania (0)
 
@@ -42,16 +45,20 @@ _None._
 
 _None._
 
-### Remote / Unspecified (2)
+### Remote / Unspecified (0)
 
-- **Deutsche Bank** - [Internship Regional Management, Corporate Strategy e Sustainability (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450) - Milano Bicocca Calendario 1 - Confirmed official posting (Career page Workday:db/DBWebsite): career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0450450
-- **Invesco** - [Early Career Intern - Legal, Compliance, Audit & Risk (LCAR)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---LCAR_R-15590-1) - Atlanta, Georgia - Confirmed official posting (Career page Workday:invesco/IVZ): career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Yesterday | R-15590
+_None._
 
 ## No Longer Present
 
-- **IMC Financial Markets** - [Quant Performance Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101)
-- **Goldman Sachs** - [2027 | Americas | Dallas | Banking Analytics & Solutions Group | Summer Analyst](https://higher.gs.com/roles/185351)
-- **D. E. Shaw** - [Strategy and Business Development Intern - Summer 2027 (Singapore)](https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005)
+- **IMC Trading** - [Macro Analyst Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941380101)
+- **Susquehanna International Group** - [Quantitative Strategy Developer Internship: Summer 2027](https://careers.sig.com/jobs/10838?lang=en-us)
+- **Susquehanna International Group** - [Trading System Engineering Internship: Summer 2027](https://careers.sig.com/jobs/10837?lang=en-us)
+- **Voloridge** - [Quantitative Developer Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009)
+- **Keyrock** - [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313)
+- **Keyrock** - [DeFi Quant Trader Intern (Credit) - Brussels](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24)
+- **Keyrock** - [Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels](https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33)
+- **Keyrock** - [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brussels](https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7)
 
 ## Missing but not confirmed closed
 
@@ -94,6 +101,7 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **J.P. Morgan** - [Markets Summer Analyst Program](https://careers.jpmorgan.com/us/en/students/programs/markets-summer-analyst)
 - **Morgan Stanley** - [2027 Institutional Equity Division Quantitative Finance Summer Analyst / Associate Program](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5ae2f1abc6f7/candidate/so/pm/1/pl/1/opp/21270-2027-Institutional-Equity-Division-Quantitative-Finance-Summer-Analyst-Associate-Program-Hong-Kong/en-GB)
 - **PIMCO** - [2027 Summer Intern - Client Solutions & Analytics Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605)
+- **PIMCO** - [2027 Summer Intern - Product Strategy Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626)
 - **BP** - [6-Month Internship - Supply, Trading & Shipping - Singapore (Jan - Jun 2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/XMLNAME-6-Month-Internship---Supply--Trading---Shipping---Singapore--Jan---Jun-2027-_RQ114483-2)
 - **BP** - [Summer Internship - Finance & Risk - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/bp-finance---risk-summer-internship-programme-Singapore--2027-_RQ114217)
 - **Deutsche Bank** - [Global Technology Governance Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Global-Technology-Governance-Intern_R0432013)
@@ -175,5 +183,7 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Invesco** - [Early Career Intern - Technology (Distribution)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1)
 - **Invesco** - [Early Career Intern - Technology (Investment)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1)
 - **Invesco** - [Early Career Intern - Technology (Investment)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622-1)
+- **Jain Global** - [Compliance Technology Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607)
 - **Jain Global** - [Quantitative Developer Intern (Summer 2027 - New York)](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608)
 - **BMO Capital Markets** - [Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1)
+- **Fidelity Investments** - [Fidelity Center for Applied Technology (FCAT) Innovation Ecosystem, Europe Internship](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Fidelity-Center-for-Applied-Technology--FCAT--Innovation-Ecosystem--Europe-Internship_2137228-1)

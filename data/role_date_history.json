@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T13:22:53.490Z",
+  "updatedAt": "2026-11-06T23:46:50.231Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -5111,6 +5111,36 @@
       "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8171776",
       "first_seen": "2026-11-05",
       "date": "2026-11-03",
+      "evidence": "employer_field"
+    },
+    "bmo|R260031097|quantitative analyst, summer 2027 (co-op/internship) - 4 months": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097",
+      "first_seen": "2026-11-06",
+      "date": "2026-11-06",
+      "evidence": "employer_relative_label"
+    },
+    "invesco|R-15091|early career intern - real estate (data science)": {
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1",
+      "first_seen": "2026-11-06",
+      "date": "2026-11-06",
+      "evidence": "employer_relative_label"
+    },
+    "https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002",
+      "first_seen": "2026-11-06",
+      "date": "2026-11-06",
+      "evidence": "employer_field"
+    },
+    "https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002",
+      "first_seen": "2026-11-06",
+      "date": "2026-11-06",
+      "evidence": "employer_field"
+    },
+    "https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002": {
+      "URL": "https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002",
+      "first_seen": "2026-11-06",
+      "date": "2026-11-06",
       "evidence": "employer_field"
     }
   }

@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-11-05T13:22:53.490Z
+Scan started: 2026-11-06T23:46:50.231Z
 Source roster entries: 306
 Canonical companies after aliases: 305
 
@@ -116,7 +116,7 @@ Canonical companies after aliases: 305
 | Acadian Asset Management | 1/1 pages live | [link](https://www.acadian-asset.com/careers) |
 | Albert Quant Trading Club | no saved page attempted | none |
 | Apolis SAM | 1/1 pages live | [link](https://apolisrises.com/careers/) |
-| Arfima Trading | 0/1 pages live | [link](https://www.arfima.com/careers/) |
+| Arfima Trading | 1/1 pages live | [link](https://www.arfima.com/careers/) |
 | Aureas Finance | no saved page attempted | none |
 | BD Energy | 1/1 pages live | [link](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA) |
 | Bastion Trading | 1/1 pages live | [link](https://bastiontrading.com/careers/apply) |
@@ -274,7 +274,7 @@ Canonical companies after aliases: 305
 | Sovereign Blue Capital | no saved page attempted | none |
 | Los Angeles Capital Management | 1/1 pages live | [link](https://lacapm.com/careers) |
 | Market Wizards | 1/1 pages live | [link](https://marketwizards.com/careers/) |
-| Matrix Executions | 0/1 pages live | [link](https://matrixexecutions.com/careers/) |
+| Matrix Executions | 1/1 pages live | [link](https://matrixexecutions.com/careers/) |
 | Mercuria Energy America | 0/1 pages live | [link](https://mercuria.com/careers/) |
 | Millennium | 2/2 pages live | [link](https://mlp.wd5.myworkdayjobs.com/mlpcareers) [link](https://www.mlp.com/careers/) |
 | Mingshi / Minghong | 2/2 pages live | [link](https://join.mhfunds.com/index) [link](https://www.mhfunds.com/) |

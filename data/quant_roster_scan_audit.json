@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T13:27:51.455Z",
-  "scanStartedAt": "2026-11-05T13:22:53.490Z",
+  "generatedAt": "2026-11-06T23:51:02.875Z",
+  "scanStartedAt": "2026-11-06T23:46:50.231Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
@@ -21,8 +21,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 39,
-      "relevantInternships": 9
+      "jobsSeen": 38,
+      "relevantInternships": 8
     },
     {
       "company": "26 Miles Capital",
@@ -114,7 +114,7 @@
       "careerPages": [
         "https://www.arfima.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -299,7 +299,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 55,
+      "jobsSeen": 53,
       "relevantInternships": 5
     },
     {
@@ -540,7 +540,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 6,
+      "jobsSeen": 5,
       "relevantInternships": 0
     },
     {
@@ -777,7 +777,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 172,
+      "jobsSeen": 175,
       "relevantInternships": 11
     },
     {
@@ -960,7 +960,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 17,
+      "jobsSeen": 18,
       "relevantInternships": 0
     },
     {
@@ -1012,8 +1012,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 197,
-      "relevantInternships": 12
+      "jobsSeen": 201,
+      "relevantInternships": 15
     },
     {
       "company": "DSV Fund",
@@ -1040,7 +1040,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 74,
+      "jobsSeen": 73,
       "relevantInternships": 20
     },
     {
@@ -1068,7 +1068,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 132,
+      "jobsSeen": 135,
       "relevantInternships": 6
     },
     {
@@ -1138,7 +1138,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 4,
+      "jobsSeen": 3,
       "relevantInternships": 0
     },
     {
@@ -1254,7 +1254,7 @@
       ],
       "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 84,
+      "jobsSeen": 83,
       "relevantInternships": 4
     },
     {
@@ -1448,7 +1448,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 44,
+      "jobsSeen": 42,
       "relevantInternships": 3
     },
     {
@@ -1680,7 +1680,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 59,
+      "jobsSeen": 58,
       "relevantInternships": 0
     },
     {
@@ -2057,7 +2057,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantInternships": 3
     },
     {
@@ -2102,7 +2102,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 36,
+      "jobsSeen": 35,
       "relevantInternships": 0
     },
     {
@@ -2132,7 +2132,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 159,
+      "jobsSeen": 162,
       "relevantInternships": 17
     },
     {
@@ -2252,7 +2252,7 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -2381,7 +2381,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantInternships": 3
     },
     {
@@ -2491,7 +2491,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 70,
+      "jobsSeen": 67,
       "relevantInternships": 9
     },
     {
@@ -3151,7 +3151,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3264,7 +3264,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 2,
-      "jobsSeen": 37,
+      "jobsSeen": 38,
       "relevantInternships": 1
     },
     {
@@ -3903,7 +3903,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 92,
+      "jobsSeen": 91,
       "relevantInternships": 13
     },
     {
@@ -3946,7 +3946,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 48,
+      "jobsSeen": 47,
       "relevantInternships": 13
     },
     {
@@ -4195,8 +4195,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 10,
-      "relevantInternships": 3
+      "jobsSeen": 9,
+      "relevantInternships": 2
     },
     {
       "company": "Wallsoft Labs",
@@ -4251,7 +4251,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantInternships": 2
     },
     {
@@ -4268,7 +4268,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 94,
+      "jobsSeen": 89,
       "relevantInternships": 0
     },
     {

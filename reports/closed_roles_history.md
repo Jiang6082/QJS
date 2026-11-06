@@ -1,13 +1,24 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 256
-Last updated: 2026-11-05T13:22:53.490Z
+Total closure events recorded: 264
+Last updated: 2026-11-06T23:46:50.231Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
 
+### 2026-11-06 (8)
+
+- **IMC Trading** - [Macro Analyst Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941380101) - Amsterdam, Netherlands
+- **Susquehanna International Group** - [Quantitative Strategy Developer Internship: Summer 2027](https://careers.sig.com/jobs/10838?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** - [Trading System Engineering Internship: Summer 2027](https://careers.sig.com/jobs/10837?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Voloridge** - [Quantitative Developer Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) - Jupiter, FL
+- **Keyrock** - [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) - Brussels
+- **Keyrock** - [DeFi Quant Trader Intern (Credit) - Brussels](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24) - Brussels
+- **Keyrock** - [Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels](https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33) - Brussels
+- **Keyrock** - [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brussels](https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) - Brussels
+
 ### 2026-11-05 (3)
 
-- **IMC Financial Markets** - [Quant Performance Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) - Chicago, United States
+- **IMC Financial Markets** - [Quant Performance Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) - Chicago, United States — _reopened 2026-11-06_
 - **Goldman Sachs** - [2027 | Americas | Dallas | Banking Analytics & Solutions Group | Summer Analyst](https://higher.gs.com/roles/185351) - Dallas, TX, United States
 - **D. E. Shaw** - [Strategy and Business Development Intern - Summer 2027 (Singapore)](https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005) - Singapore
 
