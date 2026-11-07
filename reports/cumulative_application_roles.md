@@ -1,21 +1,15 @@
 # Cumulative application queue
 
-_Updated 2026-11-06. Roles remain in this ledger when they age out of the rolling 21-day report._
+_Updated 2026-11-07. Roles remain in this ledger when they age out of the rolling 21-day report._
 
 - **567** unique role URLs tracked
 - **349** active or manually verified today
 - **218** not detected in the latest scan
-- **6** new scanner URLs since the previous scan
+- **0** new scanner URLs since the previous scan
 - **5** live Scientech roles verified on its nested official Ashby board
 
-## New scanner URLs since the previous scan (6)
+## New scanner URLs since the previous scan (0)
 
-- **BMO Capital Markets** — [Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) — Toronto, ON, CAN — released 2026-11-06
-- **Invesco** — [Early Career Intern - Real Estate (Data Science)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) — Dallas, Texas — released 2026-11-06
-- **Point72** — [2027 MI Data Research & AI Intern - APAC](https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002) — Hong Kong, Singapore, Japan — released 2026-11-06
-- **Point72** — [2027 Trader Summer Intern (12-week program)](https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002) — Hong Kong Japan — released 2026-11-06
-- **Point72** — [Long/Short Equity Support Research Intern, Hong Kong](https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002) — Hong Kong — released 2026-11-06
-- **IMC Financial Markets** — [Quant Performance Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) — Chicago, United States — released 2026-08-27
 
 ## Scientech roles verified on the nested official board (5)
 

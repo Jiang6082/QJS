@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-11-06T23:46:50.231Z
+Scan started: 2026-11-07T16:29:43.484Z
 Source roster entries: 306
 Canonical companies after aliases: 305
 
@@ -112,7 +112,7 @@ Canonical companies after aliases: 305
 | Company | Source health | Saved pages |
 | --- | --- | --- |
 | 26 Miles Capital | 1/1 pages live | [link](https://26milescapital.com/openings/) |
-| ACT Group | no saved page attempted | none |
+| ACT Group | 1/1 pages live | [link](https://www.act.org/content/act/en/students-and-parents.html) |
 | Acadian Asset Management | 1/1 pages live | [link](https://www.acadian-asset.com/careers) |
 | Albert Quant Trading Club | no saved page attempted | none |
 | Apolis SAM | 1/1 pages live | [link](https://apolisrises.com/careers/) |
@@ -134,7 +134,7 @@ Canonical companies after aliases: 305
 | Campbell and Company | 1/1 pages live | [link](https://www.campbell.com/careers/) |
 | Cascade Systems | 1/1 pages live | [link](https://cascadesystems.net/careers/) |
 | Chimera Securities | 1/1 pages live | [link](https://www.chimerasecurities.com/careers) |
-| Consolidated Trading | 1/1 pages live | [link](https://pagesxyz.com/companies/consolidated-trading/jobs) |
+| Consolidated Trading | 0/1 pages live | [link](https://pagesxyz.com/companies/consolidated-trading/jobs) |
 | Criterion Arbitrage & Trading | 0/1 pages live | [link](https://www.criterion-trading.nl/m/join.html) |
 | D2X | 1/1 pages live | [link](https://d2x.com/careers) |
 | Ace Capital Saires | 1/1 pages live | [link](https://careers.acehardware.com/) |
@@ -176,7 +176,7 @@ Canonical companies after aliases: 305
 | Kvantium Research | no saved page attempted | none |
 | DWF Labs | 0/1 pages live | [link](https://www.dwf-labs.com/careers) |
 | Deep Blue Capital | 0/1 pages live | [link](https://deepbluecap.com/vacancies/) |
-| Dexterity Capital | 0/3 pages live | [link](https://wellfound.com/company/dexterity-capital) [link](https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us) [link](https://app.welcometothejungle.com/companies/Dexterity-Capital) |
+| Dexterity Capital | 1/3 pages live | [link](https://wellfound.com/company/dexterity-capital) [link](https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us) [link](https://app.welcometothejungle.com/companies/Dexterity-Capital) |
 | Domstad Traders | no saved page attempted | none |
 | Enigma Quant Capital | 1/1 pages live | [link](https://www.enigmaquant.com/#careers) |
 | Ethflow | no saved page attempted | none |
@@ -274,7 +274,7 @@ Canonical companies after aliases: 305
 | Sovereign Blue Capital | no saved page attempted | none |
 | Los Angeles Capital Management | 1/1 pages live | [link](https://lacapm.com/careers) |
 | Market Wizards | 1/1 pages live | [link](https://marketwizards.com/careers/) |
-| Matrix Executions | 1/1 pages live | [link](https://matrixexecutions.com/careers/) |
+| Matrix Executions | 0/1 pages live | [link](https://matrixexecutions.com/careers/) |
 | Mercuria Energy America | 0/1 pages live | [link](https://mercuria.com/careers/) |
 | Millennium | 2/2 pages live | [link](https://mlp.wd5.myworkdayjobs.com/mlpcareers) [link](https://www.mlp.com/careers/) |
 | Mingshi / Minghong | 2/2 pages live | [link](https://join.mhfunds.com/index) [link](https://www.mhfunds.com/) |

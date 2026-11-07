@@ -1,29 +1,25 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-11-05T13:22:53.490Z
-Current scan: 2026-11-06T23:46:50.231Z
-Previous rows: 509
+Previous scan: 2026-11-06T23:46:50.231Z
+Current scan: 2026-11-07T16:29:43.484Z
+Previous rows: 504
 Current rows: 504
-New URLs confirmed in both source passes: 6
-Confirmed no longer present: 8
+New URLs confirmed in both source passes: 0
+Confirmed no longer present: 0
 
 ## New Roles By Region
 
-### North America (3)
+### North America (0)
 
-- **BMO Capital Markets** - [Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) - Toronto, ON, CAN - Confirmed official posting (Career page Workday:bmo/External): career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted Today | R260031097
-- **IMC Financial Markets** - [Quant Performance Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) - Chicago, United States - Confirmed official posting (Greenhouse:imc): posted=2026-08-27T17:39:39-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found
-- **Invesco** - [Early Career Intern - Real Estate (Data Science)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) - Dallas, Texas - Confirmed official posting (Career page Workday:invesco/IVZ): career_page=https://invesco.wd1.myworkdayjobs.com/IVZ | Posted Today | R-15091
+_None._
 
 ### Europe (0)
 
 _None._
 
-### Asia (3)
+### Asia (0)
 
-- **Point72** - [2027 MI Data Research & AI Intern - APAC](https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002) - Hong Kong, Singapore, Japan - Confirmed official posting (Career page Greenhouse:point72): posted=2026-11-06T04:58:09-05:00 | career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8899753002 | internship timing not stated in title | A Career with Point72’s proprietary research team On our proprietary research team—Market Intelligence—you’ll partner with our investment professionals and Compliance team to work with alternative data to uncover insights about companies, industries, and the broader economy through deep fundamental research and applying data science and engineering techniques. You’ll work alongside a talented team with diverse skills, backgrounds, and perspectives. Our sector data analysts, data scientists, data managers, and engineers work together to build compliant research products that are incorporated into the research process of our investment professionals. We look for other bright, motivated, and collaborative pe...
-- **Point72** - [2027 Trader Summer Intern (12-week program)](https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002) - Hong Kong Japan - Confirmed official posting (Career page Greenhouse:point72): posted=2026-11-06T04:33:41-05:00 | career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8932943002 | internship timing: Summer | A Career with Point72’s Trading Team Point72’s Asia Trading Desk is comprised of long/short equity and derivatives execution traders who support the firm’s multi-manager platform of investment professionals. Trading is important to a wide variety of the firm’s stakeholders including but not limited to investment professional teams, external investors, investment services teams, Risk, and Compliance. If you are interested in pursuing a career in trading at a premier asset management firm, this role will provide you with unparalleled training and experience. ABOUT THE ASIA TRADING INTERNSHIP This 12-week summer internship will provide you with valuable experience at a complex global firm. During your time with us, you ...
-- **Point72** - [Long/Short Equity Support Research Intern, Hong Kong](https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002) - Hong Kong - Confirmed official posting (Career page Greenhouse:point72): posted=2026-11-06T09:29:43-05:00 | career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8899750002 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | A Career with Point72’s fundamental equities team Fundamental Equities is Point72’s core strategy and its success is dependent upon our sector-based investing teams. Using fundamental research, our research analysts inform the investment strategies of our portfolio managers. Through our Point72 University, you have access to an unparalleled training and coaching curriculum to help foster your success. We offer you a clear path based on your abilities, willingness to work hard, and performance. Join us if you're looking for a career at the forefront of investing. About the Fundamental Equities Support Internship This 12-week summer internship will provide you wi...
+_None._
 
 ### Oceania (0)
 
@@ -51,14 +47,7 @@ _None._
 
 ## No Longer Present
 
-- **IMC Trading** - [Macro Analyst Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941380101)
-- **Susquehanna International Group** - [Quantitative Strategy Developer Internship: Summer 2027](https://careers.sig.com/jobs/10838?lang=en-us)
-- **Susquehanna International Group** - [Trading System Engineering Internship: Summer 2027](https://careers.sig.com/jobs/10837?lang=en-us)
-- **Voloridge** - [Quantitative Developer Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009)
-- **Keyrock** - [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313)
-- **Keyrock** - [DeFi Quant Trader Intern (Credit) - Brussels](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24)
-- **Keyrock** - [Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels](https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33)
-- **Keyrock** - [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brussels](https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7)
+_None._
 
 ## Missing but not confirmed closed
 

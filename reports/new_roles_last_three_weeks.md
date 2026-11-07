@@ -1,4 +1,4 @@
-# Roles posted 2026-10-17 → 2026-11-06 (48 with source posting dates)
+# Roles posted 2026-10-18 → 2026-11-07 (48 with source posting dates)
 
 _Dates come from employer publication fields or dated relative labels. Relative labels have day-level precision; source publication dates can reflect a repost. Internship start dates and edit timestamps are not release dates._
 

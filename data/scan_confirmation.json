@@ -1,8 +1,8 @@
 {
-  "baselineCommit": "641e589b7415877649ddbda6b18820a267d16cda",
+  "baselineCommit": "cec15187937d1ba2e2f6ffea5fd0aa259077bf0f",
   "firstPass": {
-    "searchedAt": "2026-11-06T23:42:46.265Z",
-    "hash": "7a322afbfab9d7233f80063d6d05fec27b6bab965948229026626010041550e9",
+    "searchedAt": "2026-11-07T16:24:55.012Z",
+    "hash": "b509788e0ef471f3749e2edec8c68e80f31015bdc0125e0204fe248ef27ff039",
     "identities": [
       "https://www.akunacapital.com/careers/job/8018856?gh_jid=8018856",
       "https://www.akunacapital.com/careers/job/8021481?gh_jid=8021481",
@@ -509,28 +509,11 @@
       "https://job-boards.greenhouse.io/xantium/jobs/4360768009",
       "https://job-boards.greenhouse.io/xantium/jobs/4371217009"
     ],
-    "absentUrls": [
-      "https://job-boards.eu.greenhouse.io/imc/jobs/4941380101",
-      "https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313",
-      "https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24",
-      "https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7",
-      "https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33",
-      "https://careers.sig.com/jobs/10838?lang=en-us",
-      "https://careers.sig.com/jobs/10837?lang=en-us",
-      "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
-      "https://job-boards.eu.greenhouse.io/imc/jobs/4941380101",
-      "https://careers.sig.com/jobs/10838?lang=en-us",
-      "https://careers.sig.com/jobs/10837?lang=en-us",
-      "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
-      "https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313",
-      "https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24",
-      "https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33",
-      "https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7"
-    ]
+    "absentUrls": []
   },
   "confirmationPass": {
-    "searchedAt": "2026-11-06T23:46:50.231Z",
-    "hash": "0d8c0795b4938450a7ebde63b603e5a1c949cfadf77019f500f539a69fb47400",
+    "searchedAt": "2026-11-07T16:29:43.484Z",
+    "hash": "d7b67126fedfaaf276115fb1fff423dc43d17a218454edfafce8a32bd2aa6d23",
     "identities": [
       "https://www.akunacapital.com/careers/job/8018856?gh_jid=8018856",
       "https://www.akunacapital.com/careers/job/8021481?gh_jid=8021481",
@@ -1037,24 +1020,7 @@
       "https://job-boards.greenhouse.io/xantium/jobs/4360768009",
       "https://job-boards.greenhouse.io/xantium/jobs/4371217009"
     ],
-    "absentUrls": [
-      "https://job-boards.eu.greenhouse.io/imc/jobs/4941380101",
-      "https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313",
-      "https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24",
-      "https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7",
-      "https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33",
-      "https://careers.sig.com/jobs/10838?lang=en-us",
-      "https://careers.sig.com/jobs/10837?lang=en-us",
-      "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
-      "https://job-boards.eu.greenhouse.io/imc/jobs/4941380101",
-      "https://careers.sig.com/jobs/10838?lang=en-us",
-      "https://careers.sig.com/jobs/10837?lang=en-us",
-      "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
-      "https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313",
-      "https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24",
-      "https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33",
-      "https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7"
-    ]
+    "absentUrls": []
   },
   "onlyFirstPass": [],
   "onlyConfirmationPass": []

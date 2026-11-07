@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-06T23:46:50.231Z",
+  "searchedAt": "2026-11-07T16:29:43.484Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -375,7 +375,6 @@
   "companiesWithoutKnownCareerPage": [
     "Alyeska Investment Group",
     "Centiva Capital",
-    "ACT Group",
     "Albert Quant Trading Club",
     "Aureas Finance",
     "Coding Test Firm",
@@ -3888,11 +3887,11 @@
         {
           "source": "Ashby:voleon",
           "complete": true,
-          "jobsSeen": 65,
+          "jobsSeen": 64,
           "relevantInternships": 3
         }
       ],
-      "jobsSeen": 65,
+      "jobsSeen": 64,
       "relevantInternships": 3
     },
     {
@@ -3960,11 +3959,11 @@
         {
           "source": "Ashby:voleon",
           "complete": true,
-          "jobsSeen": 65,
+          "jobsSeen": 64,
           "relevantInternships": 3
         }
       ],
-      "jobsSeen": 65,
+      "jobsSeen": 64,
       "relevantInternships": 3
     },
     {
@@ -4859,11 +4858,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 90,
+          "jobsSeen": 89,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 90,
+      "jobsSeen": 89,
       "relevantInternships": 0
     },
     {
@@ -5369,11 +5368,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 12,
+          "jobsSeen": 10,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 10,
       "relevantInternships": 0
     },
     {
@@ -5402,11 +5401,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 12,
+          "jobsSeen": 10,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 10,
       "relevantInternships": 0
     },
     {
@@ -5657,11 +5656,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 76,
+          "jobsSeen": 75,
           "relevantInternships": 3
         }
       ],
-      "jobsSeen": 76,
+      "jobsSeen": 75,
       "relevantInternships": 3
     },
     {
@@ -5690,11 +5689,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 76,
+          "jobsSeen": 75,
           "relevantInternships": 3
         }
       ],
-      "jobsSeen": 76,
+      "jobsSeen": 75,
       "relevantInternships": 3
     },
     {
@@ -5723,11 +5722,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 644,
+          "jobsSeen": 637,
           "relevantInternships": 19
         }
       ],
-      "jobsSeen": 644,
+      "jobsSeen": 637,
       "relevantInternships": 19
     },
     {
@@ -5756,11 +5755,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 644,
+          "jobsSeen": 637,
           "relevantInternships": 19
         }
       ],
-      "jobsSeen": 644,
+      "jobsSeen": 637,
       "relevantInternships": 19
     },
     {
@@ -5789,11 +5788,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 644,
+          "jobsSeen": 637,
           "relevantInternships": 19
         }
       ],
-      "jobsSeen": 644,
+      "jobsSeen": 637,
       "relevantInternships": 19
     },
     {
@@ -5882,11 +5881,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 92,
+          "jobsSeen": 91,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 92,
+      "jobsSeen": 91,
       "relevantInternships": 0
     },
     {
@@ -6303,9 +6302,9 @@
     {
       "company": "Fidelity Investments",
       "pageUrl": "https://jobs.fidelity.com/",
-      "resolvedUrl": "https://jobs.fidelity.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "resolvedUrl": "https://jobs.fidelity.com/en/",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -6418,7 +6417,7 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 75,
+          "jobsSeen": 74,
           "relevantInternships": 2
         },
         {
@@ -6426,11 +6425,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 75,
+          "jobsSeen": 74,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 150,
+      "jobsSeen": 148,
       "relevantInternships": 4
     },
     {
@@ -7767,9 +7766,9 @@
     {
       "company": "Vanguard",
       "pageUrl": "https://www.vanguardjobs.com/students-and-recent-graduates/",
-      "resolvedUrl": "https://www.vanguardjobs.com/students-and-recent-graduates/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "resolvedUrl": "https://www.vanguardjobs.com/students/",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -7808,11 +7807,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 105,
+          "jobsSeen": 104,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 105,
+      "jobsSeen": 104,
       "relevantInternships": 8
     },
     {
@@ -7877,11 +7876,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 105,
+          "jobsSeen": 104,
           "relevantInternships": 8
         }
       ],
-      "jobsSeen": 105,
+      "jobsSeen": 104,
       "relevantInternships": 8
     },
     {
@@ -8118,6 +8117,26 @@
       "relevantInternships": 0
     },
     {
+      "company": "ACT Group",
+      "pageUrl": "https://www.act.org/content/act/en/students-and-parents.html",
+      "resolvedUrl": "https://www.act.org/content/act/en/students-and-parents.html",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [],
+        "lever": [],
+        "ashby": [],
+        "smartrecruiters": [],
+        "workday": []
+      },
+      "unsupportedAts": [
+        "successfactors"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
       "company": "Apolis SAM",
       "pageUrl": "https://apolisrises.com/careers/",
       "resolvedUrl": "https://apolisrises.com/careers/",
@@ -8179,11 +8198,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 146,
+          "jobsSeen": 147,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 146,
+      "jobsSeen": 147,
       "relevantInternships": 0
     },
     {
@@ -8511,8 +8530,8 @@
       "company": "Consolidated Trading",
       "pageUrl": "https://pagesxyz.com/companies/consolidated-trading/jobs",
       "resolvedUrl": "https://pagesxyz.com/companies/consolidated-trading/jobs",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 404,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -9272,9 +9291,9 @@
     {
       "company": "Dexterity Capital",
       "pageUrl": "https://app.welcometothejungle.com/companies/Dexterity-Capital",
-      "resolvedUrl": "https://app.welcometothejungle.com/companies/Dexterity-Capital",
-      "pageOk": false,
-      "pageStatus": 404,
+      "resolvedUrl": "https://app.welcometothejungle.com/upgrade-your-job-search",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -10868,7 +10887,7 @@
     {
       "company": "Optica",
       "pageUrl": "https://opg.optica.org/optica/home.cfm",
-      "resolvedUrl": "https://validate.perfdrive.com/?ssa=34d1f029-a11a-7a6d-afac-0df7d6be49fc&ssb=34533256734&ssc=https%3A%2F%2Fopg.optica.org%2Foptica%2Fhome.cfm&ssi=8e6348a6-d3hy-8eff-8822-c8beeaf41350&ssk=botmanager_support@radware.com&ssm=62921915672622529100670937492165&ssn=35dc70a6046720a78482d9b2eb1bce7063cd58aeea3b-96cb-bda2-74450b&sso=99246a2-793b-102584667724543836d118afb9faaeddee97d456241cada1&ssp=63388944191794036886179405673254784&ssq=26669640895529428981008955298266059216990&ssr=MjAuNTUuMjEzLjExNg==&sst=Mozilla%2F5.0%20internship-research&ssv=&ssw=",
+      "resolvedUrl": "https://validate.perfdrive.com/?ssa=46412574-9dfd-0a62-376b-8070ab63926e&ssb=31043289622&ssc=https%3A%2F%2Fopg.optica.org%2Foptica%2Fhome.cfm&ssi=be992c3d-d3hy-74e6-d723-56e13ae57ccc&ssk=botmanager_support@radware.com&ssm=80362209157656811108727037797659&ssn=fb7ab397659fef4f5c454475ab56f4047b2df8956fdf-43b1-e4b5-2099db&sso=8cd9fb5-2d6a-a512bd8eb29e27b72a2a6700112d818fa8966a125dde4c24&ssp=25512508261794020547179403538578981&ssq=96995746914724559753369147768333881689760&ssr=NTIuMTczLjE2NS4xNjQ=&sst=Mozilla%2F5.0%20internship-research&ssv=&ssw=",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -11064,8 +11083,8 @@
       "company": "Matrix Executions",
       "pageUrl": "https://matrixexecutions.com/careers/",
       "resolvedUrl": "https://matrixexecutions.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -12058,11 +12077,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 89,
+          "jobsSeen": 90,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 89,
+      "jobsSeen": 90,
       "relevantInternships": 0
     },
     {
@@ -12211,12 +12230,12 @@
     {
       "company": "Previously seen Workday roles",
       "source": "Official Workday job-detail APIs",
-      "jobsRetained": 97
+      "jobsRetained": 99
     },
     {
       "company": "Previously seen Greenhouse roles",
       "source": "Official Greenhouse job-detail APIs",
-      "jobsRetained": 225
+      "jobsRetained": 229
     }
   ]
 }

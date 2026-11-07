@@ -1,6 +1,6 @@
 # Quant Internship Open Roles Scan
 
-Scanned: 2026-11-06T23:46:43.210Z
+Scanned: 2026-11-07T16:29:35.390Z
 Companies deduplicated: 174
 Open relevant roles found: 189
 
@@ -210,7 +210,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Albatross Labs** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **AlphaGrep** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **AlphaSimplex** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Alphataraxia Management** — checked Greenhouse:alphataraxia (2)
+- **Alphataraxia Management** — checked Greenhouse:alphataraxia (1)
 - **Alyeska Investment Group** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Ansatz Capital** — checked Lever:ansatzcapital (5)
 - **Aquatic Capital** — checked Ashby:aquatic (0)

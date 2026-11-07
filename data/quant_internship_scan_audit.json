@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-06T23:46:43.210Z",
+  "scannedAt": "2026-11-07T16:29:35.390Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -302,10 +302,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:alphataraxia",
-          "count": 2
+          "count": 1
         }
       ],
-      "jobsSeen": 2,
+      "jobsSeen": 1,
       "relevantInternships": 0
     },
     {
@@ -1396,10 +1396,10 @@
         },
         {
           "source": "Ashby:voleon",
-          "count": 65
+          "count": 64
         }
       ],
-      "jobsSeen": 65,
+      "jobsSeen": 64,
       "relevantInternships": 3
     },
     {

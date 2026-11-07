@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T23:51:02.875Z",
-  "scanStartedAt": "2026-11-06T23:46:50.231Z",
+  "generatedAt": "2026-11-07T16:34:13.728Z",
+  "scanStartedAt": "2026-11-07T16:29:43.484Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
@@ -44,9 +44,11 @@
         "ACT Group"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.act.org/content/act/en/students-and-parents.html"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -142,7 +144,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 146,
+      "jobsSeen": 147,
       "relevantInternships": 0
     },
     {
@@ -495,7 +497,7 @@
       "careerPages": [
         "https://pagesxyz.com/companies/consolidated-trading/jobs"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1366,7 +1368,7 @@
         "https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us",
         "https://app.welcometothejungle.com/companies/Dexterity-Capital"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3151,7 +3153,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4094,7 +4096,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 65,
+      "jobsSeen": 64,
       "relevantInternships": 3
     },
     {
@@ -4268,7 +4270,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 89,
+      "jobsSeen": 90,
       "relevantInternships": 0
     },
     {

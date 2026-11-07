@@ -2,7 +2,7 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-11-06 &nbsp;•&nbsp; **504 open roles** &nbsp;•&nbsp; **5 released today** &nbsp;•&nbsp; **48 opened in 3 weeks** &nbsp;•&nbsp; **264 closure events** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-11-07 &nbsp;•&nbsp; **504 open roles** &nbsp;•&nbsp; **0 released today** &nbsp;•&nbsp; **48 opened in 3 weeks** &nbsp;•&nbsp; **264 closure events** ([history](reports/closed_roles_history.md))
 
 > **Cumulative application queue:** [567 unique roles tracked; 349 active](reports/cumulative_application_roles.md)
 
@@ -12,26 +12,15 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-11-06_
+_Scan date: 2026-11-07_
 
-**5** currently open roles with a confirmed source release date of 2026-11-06:
-
-**North America**
-
-- **BMO Capital Markets** — [Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) — Toronto, ON, CAN
-- **Invesco** — [Early Career Intern - Real Estate (Data Science)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) — Dallas, Texas
-
-**Asia**
-
-- **Point72** — [2027 MI Data Research & AI Intern - APAC](https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002) — Hong Kong, Singapore, Japan
-- **Point72** — [2027 Trader Summer Intern (12-week program)](https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002) — Hong Kong Japan
-- **Point72** — [Long/Short Equity Support Research Intern, Hong Kong](https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002) — Hong Kong
+_No currently open roles have a confirmed source release date of 2026-11-07._
 
 ---
 
 ## 🔥 Opened in the Last 3 Weeks
 
-_Official-source posting dates from 2026-10-17 through 2026-11-06. Only roles that are still present in the current scan are shown._
+_Official-source posting dates from 2026-10-18 through 2026-11-07. Only roles that are still present in the current scan are shown._
 
 <details>
 <summary><strong>2026-11-06</strong> — 5 roles</summary>
