@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-11-07T16:29:43.484Z
+Scan started: 2026-11-09T14:14:23.548Z
 Source roster entries: 306
 Canonical companies after aliases: 305
 
@@ -57,11 +57,10 @@ Canonical companies after aliases: 305
 | WorldQuant | 3/3 pages live | [link](https://job-boards.greenhouse.io/worldquant) [link](https://job-boards.greenhouse.io/worldquant?error=true) [link](https://www.worldquant.com/careers/) |
 | Xantium | 1/1 pages live | [link](https://job-boards.greenhouse.io/xantium?gh_src=Trackr) |
 
-## Confirmed No Open Postings (4)
+## Confirmed No Open Postings (3)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
-| HAP Capital | 0/1 pages live | [link](https://jobs.lever.co/hap-capital) |
 | Kronos Research | 1/1 pages live | [link](https://job-boards.greenhouse.io/kronosresearch?gh_src=b00d843a3us) |
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
 | RRS Group | 0/1 pages live | [link](https://jobs.smartrecruiters.com/RRSGroup) |
@@ -107,7 +106,7 @@ Canonical companies after aliases: 305
 | Teza Technologies | 2/2 pages live | [link](https://www.teza.com/careers/) [link](https://jobs.ashbyhq.com/teza-technologies) |
 | Verition Fund Management | 2/3 pages live | [link](https://www.verition.com/careers/) [link](https://www.verition.com/careers) [link](https://www.verition.com/open-positions) |
 
-## Could Not Fully Verify (217)
+## Could Not Fully Verify (218)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -170,13 +169,14 @@ Canonical companies after aliases: 305
 | Genk Capital | 1/1 pages live | [link](https://join.genkcapital.com/) |
 | Golden Meadow Investment | no saved page attempted | none |
 | Gravity Team | 1/1 pages live | [link](https://careers.gravityteam.co/) |
+| HAP Capital | 0/1 pages live | [link](https://jobs.lever.co/hap-capital) |
 | IV Capital | 1/1 pages live | [link](https://iv-capital.com/careers/) |
 | Integrated Quantitative Investments | no saved page attempted | none |
 | Kershner Trading Group | 1/1 pages live | [link](https://kershnertrading.applicantstack.com/x/openings) |
 | Kvantium Research | no saved page attempted | none |
 | DWF Labs | 0/1 pages live | [link](https://www.dwf-labs.com/careers) |
 | Deep Blue Capital | 0/1 pages live | [link](https://deepbluecap.com/vacancies/) |
-| Dexterity Capital | 1/3 pages live | [link](https://wellfound.com/company/dexterity-capital) [link](https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us) [link](https://app.welcometothejungle.com/companies/Dexterity-Capital) |
+| Dexterity Capital | 0/3 pages live | [link](https://wellfound.com/company/dexterity-capital) [link](https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us) [link](https://app.welcometothejungle.com/companies/Dexterity-Capital) |
 | Domstad Traders | no saved page attempted | none |
 | Enigma Quant Capital | 1/1 pages live | [link](https://www.enigmaquant.com/#careers) |
 | Ethflow | no saved page attempted | none |
@@ -301,7 +301,7 @@ Canonical companies after aliases: 305
 | WEBB Traders | 1/1 pages live | [link](http://www.webbtraders.com/careers) |
 | XR Trading | 1/1 pages live | [link](https://recruiting.paylocity.com/Recruiting/jobs/Apply/2303630) |
 | Z.R.T.X. | 1/2 pages live | [link](https://zrtx.eu/jobs) [link](https://zrtx.eu/career) |
-| Stronghold Capital Management | 1/1 pages live | [link](https://www.stronghold.capital/) |
+| Stronghold Capital Management | 0/1 pages live | [link](https://www.stronghold.capital/) |
 | TCI Fund Management | no saved page attempted | none |
 | Teesta Investment | 1/1 pages live | [link](https://teesta.co/join-us) |
 | Tidal Energy Marketing | 1/1 pages live | [link](https://www.tidal-energy.com/careers) |

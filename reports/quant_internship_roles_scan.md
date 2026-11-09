@@ -1,8 +1,8 @@
 # Quant Internship Open Roles Scan
 
-Scanned: 2026-11-07T16:29:35.390Z
+Scanned: 2026-11-09T14:14:10.187Z
 Companies deduplicated: 174
-Open relevant roles found: 189
+Open relevant roles found: 188
 
 Criteria used: open ATS posting, internship/co-op wording, quant/trading/software/developer/research/engineering/strategy domain, excluding obvious new-grad/full-time/PhD-only roles. Graduation years are eligibility metadata, not internship timing.
 
@@ -102,7 +102,6 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Old Mission Capital** — [Software Engineer – 2027 Internship Program (June Start)](https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6) — Chicago, IL (Ashby:old-mission-capital; posted=2026-07-15T17:45:13.245+00:00; internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **Optiver** — [2027 Shanghai FPGA Developer Summer Internship](https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002) — Shanghai, China (Greenhouse:optiverus; posted=2026-08-12T06:13:46-04:00; internship timing: Summer; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found)
 - **Optiver** — [2027 Shanghai Machine Learning Engineer Summer Internship](https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002) — Shanghai, China (Greenhouse:optiverus; posted=2026-08-12T06:14:53-04:00; internship timing: Summer; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
-- **Optiver** — [2027 Shanghai Performance Researcher Summer Internship](https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002) — Shanghai, China (Greenhouse:optiverus; posted=2026-09-07T21:18:06-04:00; internship timing: Summer; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found)
 - **Optiver** — [2027 Shanghai Software Developer Summer Internship](https://www.optiver.com/join-us/jobs/8623927002/?gh_jid=8623927002) — Shanghai, China (Greenhouse:optiverus; posted=2026-08-12T06:15:52-04:00; internship timing: Summer; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found)
 - **Optiver** — [Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)](https://www.optiver.com/join-us/jobs/8901997002/?gh_jid=8901997002) — Shanghai, China (Greenhouse:optiverus; posted=2026-10-20T06:11:50-04:00; internship timing: Summer 2028; graduation eligibility mentions: 2029; undergrad/BS/MS language found)
 - **Optiver** — [FPGA Engineer Intern (Summer 2027 - Austin)](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) — Austin, Texas, United States (Greenhouse:optiverus; posted=2026-07-21T09:38:05-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
@@ -226,8 +225,8 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Brevan Howard** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Bridgewater Associates** — checked Greenhouse:bridgewater89 (21)
 - **Cantor Fitzgerald** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Capital Fund Management** — checked Lever:capital (51)
-- **Capital Markets Trading** — checked Lever:capital (51)
+- **Capital Fund Management** — checked Lever:capital (53)
+- **Capital Markets Trading** — checked Lever:capital (53)
 - **Capstone** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Capula** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Caxton Associates** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -258,7 +257,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Graham Capital Management** — checked Greenhouse:grahamcapitalmanagement (13)
 - **Group One Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **GTS** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **HAP Capital** — checked Lever:hap-capital (0)
+- **HAP Capital** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Headlands Technologies** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Hudson Bay Capital** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Jacobs Levy Equity Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -304,7 +303,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Spark Investment Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Summit Securities Group** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Sumo** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Sunrise Futures** — checked Greenhouse:sunrise (19); Ashby:sunrise (7); Trakstar:sunrisefutures (5)
+- **Sunrise Futures** — checked Greenhouse:sunrise (19); Ashby:sunrise (6); Trakstar:sunrisefutures (5)
 - **Susquehanna International Group** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Systematica Investments** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Tanius Technology** — checked Greenhouse:tanius (8)
@@ -316,7 +315,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Two Sigma** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Valkyrie Trading** — checked Lever:valkyrietrading (6)
 - **Vatic Investments** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Vector Trading** — checked Ashby:vector (4)
+- **Vector Trading** — checked Ashby:vector (3)
 - **Verition Fund Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Volant Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Weiss Asset Management** — checked Greenhouse:weissassetmanagement (3)

@@ -1,19 +1,19 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-11-07T16:29:43.484Z
+Last updated: 2026-11-09T14:14:23.548Z
 
 ## Summary
 
 - Companies searched: 370
 - Career pages checked: 515
-- Current retained roles: 504
+- Current retained roles: 501
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 0
-- Missing without enough closure evidence: 123
+- No longer present since previous scan: 1
+- Missing without enough closure evidence: 125
 - Matching-role firms: 48
-- Confirmed no open postings: 4
+- Confirmed no open postings: 3
 - Openings but no matching role: 36
-- Could not fully verify: 217
+- Could not fully verify: 218
 
 ## New Roles Since Previous Scan
 
@@ -55,7 +55,7 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Optiver** - [2027 Shanghai Performance Researcher Summer Internship](https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002) - Shanghai, China
 
 ## Full Reports
 

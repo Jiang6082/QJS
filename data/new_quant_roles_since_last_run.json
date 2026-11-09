@@ -1,12 +1,27 @@
 {
-  "generatedAt": "2026-11-07T16:34:14.179Z",
-  "baselineCommit": "cec15187937d1ba2e2f6ffea5fd0aa259077bf0f",
-  "previousScanAt": "2026-11-06T23:46:50.231Z",
-  "currentScanAt": "2026-11-07T16:29:43.484Z",
+  "generatedAt": "2026-11-09T14:19:11.273Z",
+  "baselineCommit": "2ad0582d6532cc15dfa2080a0ca65eb49ba78e88",
+  "previousScanAt": "2026-11-07T16:29:43.484Z",
+  "currentScanAt": "2026-11-09T14:14:23.548Z",
   "previousRows": 504,
-  "currentRows": 504,
+  "currentRows": 501,
   "added": [],
-  "removed": [],
+  "removed": [
+    {
+      "Company": "Optiver",
+      "Title": "2027 Shanghai Performance Researcher Summer Internship",
+      "Department": "Trading",
+      "Location": "Shanghai, China",
+      "URL": "https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002",
+      "Source": "Greenhouse:optiverus",
+      "Status": "Confirmed official posting",
+      "Notes": "posted=2026-09-07T21:18:06-04:00; internship timing: Summer; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | posted=2026-09-07T21:18:06-04:00 | revalidated_from_previous_...",
+      "Region": "Asia",
+      "lastSeenOpenAt": "2026-11-07T16:29:43.484Z",
+      "lastSeenEvidence": "recorded_scan",
+      "detectedClosedAt": "2026-11-09T14:14:23.548Z"
+    }
+  ],
   "pending": [
     {
       "Company": "AQR Capital Management",
@@ -1311,6 +1326,18 @@
       "lastSeenOpenAt": "2026-10-08T09:09:37.295Z"
     },
     {
+      "Company": "Deutsche Bank",
+      "Title": "CRO - Credit Risk Local Intern",
+      "Department": "",
+      "Location": "Shanghai Two IFC",
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/CRO---Credit-Risk-Local-Intern_R0452523",
+      "Source": "Career page Workday:db/DBWebsite",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted 25 Days Ago | R0452523",
+      "Region": "Asia",
+      "lastSeenOpenAt": "2026-11-07T16:29:43.484Z"
+    },
+    {
       "Company": "Invesco",
       "Title": "Early Career Intern - Technology (Distribution)",
       "Department": "",
@@ -1393,6 +1420,18 @@
       "Notes": "career_page=https://fmr.wd1.myworkdayjobs.com/fidelitycareers/ | Posted 16 Days Ago | 2137228",
       "Region": "Remote / Unspecified",
       "lastSeenOpenAt": "2026-11-05T13:22:53.490Z"
+    },
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto",
+      "Department": "",
+      "Location": "Toronto, ON, CAN",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597",
+      "Source": "Career page Workday:bmo/External",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://jobs.bmo.com/ca/en/capital-markets | Posted 15 Days Ago | R260028597",
+      "Region": "North America",
+      "lastSeenOpenAt": "2026-11-07T16:29:43.484Z"
     }
   ]
 }

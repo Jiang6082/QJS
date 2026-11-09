@@ -1,11 +1,11 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-11-06T23:46:50.231Z
-Current scan: 2026-11-07T16:29:43.484Z
+Previous scan: 2026-11-07T16:29:43.484Z
+Current scan: 2026-11-09T14:14:23.548Z
 Previous rows: 504
-Current rows: 504
+Current rows: 501
 New URLs confirmed in both source passes: 0
-Confirmed no longer present: 0
+Confirmed no longer present: 1
 
 ## New Roles By Region
 
@@ -47,7 +47,7 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Optiver** - [2027 Shanghai Performance Researcher Summer Internship](https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002)
 
 ## Missing but not confirmed closed
 
@@ -169,6 +169,7 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Invesco** - [Early Career Intern - Investment Technology](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622-1)
 - **Invesco** - [Early Career Intern - Fixed Income Global Technology](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1)
 - **Northern Trust Asset Management** - [Data & Analytics Office Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1)
+- **Deutsche Bank** - [CRO - Credit Risk Local Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/CRO---Credit-Risk-Local-Intern_R0452523)
 - **Invesco** - [Early Career Intern - Technology (Distribution)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1)
 - **Invesco** - [Early Career Intern - Technology (Investment)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1)
 - **Invesco** - [Early Career Intern - Technology (Investment)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622-1)
@@ -176,3 +177,4 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Jain Global** - [Quantitative Developer Intern (Summer 2027 - New York)](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608)
 - **BMO Capital Markets** - [Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1)
 - **Fidelity Investments** - [Fidelity Center for Applied Technology (FCAT) Innovation Ecosystem, Europe Internship](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Fidelity-Center-for-Applied-Technology--FCAT--Innovation-Ecosystem--Europe-Internship_2137228-1)
+- **BMO Capital Markets** - [BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597)

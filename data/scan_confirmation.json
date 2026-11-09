@@ -1,8 +1,8 @@
 {
-  "baselineCommit": "cec15187937d1ba2e2f6ffea5fd0aa259077bf0f",
+  "baselineCommit": "2ad0582d6532cc15dfa2080a0ca65eb49ba78e88",
   "firstPass": {
-    "searchedAt": "2026-11-07T16:24:55.012Z",
-    "hash": "b509788e0ef471f3749e2edec8c68e80f31015bdc0125e0204fe248ef27ff039",
+    "searchedAt": "2026-11-09T14:09:45.888Z",
+    "hash": "09c7cb68ed9f10e77212d93c948d338b0b12208446d74e7c48d5d134dffc0c53",
     "identities": [
       "https://www.akunacapital.com/careers/job/8018856?gh_jid=8018856",
       "https://www.akunacapital.com/careers/job/8021481?gh_jid=8021481",
@@ -71,7 +71,6 @@
       "blackrock|R266476|2027 quantitative masters internship program - technology - analytics & modeling - san francisco",
       "blackrock|R266465|2027 quantitative masters internship programme - investments - quantitative investing - london",
       "bmo|R260029657|bmo capital markets quantitative trading analyst – 12–16 month co-op",
-      "bmo|R260028597|bmo capital markets summer 2027 internship risk and capital solutions analyst, toronto",
       "bmo|R260031097|quantitative analyst, summer 2027 (co-op/internship) - 4 months",
       "https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading",
       "bpinternational|RQ117480|polytechnic internship - supply, trading & shipping - singapore (2027)",
@@ -107,7 +106,6 @@
       "https://www.deshaw.com/careers/venture-studio-startup-incubator-intern-new-york-summer-2027-6166",
       "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101",
       "db|R0453248|ai audit and analytics intern - ytp program",
-      "db|R0452523|cro - credit risk local intern",
       "db|R0449103|fx risk management sales intern (f/m/x)",
       "db|R0450450|internship regional management, corporate strategy e sustainability (f/m/x)",
       "db|R0445832|investment bank - fixed income & currencies trading local intern",
@@ -118,15 +116,15 @@
       "https://www.dltrading.io/careers?gh_jid=7814660003",
       "https://job-boards.greenhouse.io/drweng/jobs/7991171",
       "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "https://job-boards.greenhouse.io/drweng/jobs/7957756",
       "https://job-boards.greenhouse.io/drweng/jobs/7818540",
+      "https://job-boards.greenhouse.io/drweng/jobs/7957756",
       "https://job-boards.greenhouse.io/drweng/jobs/8014915",
-      "https://job-boards.greenhouse.io/drweng/jobs/7957243",
       "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "https://job-boards.greenhouse.io/drweng/jobs/7957243",
       "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "https://job-boards.greenhouse.io/drweng/jobs/8020364",
       "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "https://job-boards.greenhouse.io/drweng/jobs/7942281",
       "https://job-boards.greenhouse.io/dvtrading/jobs/4733877005",
       "https://job-boards.greenhouse.io/dvtrading/jobs/4733880005",
       "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005",
@@ -314,7 +312,6 @@
       "https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6",
       "https://www.optiver.com/join-us/jobs/8644364002?gh_jid=8644364002",
       "https://www.optiver.com/join-us/jobs/8633966002?gh_jid=8633966002",
-      "https://www.optiver.com/join-us/jobs/8732789002?gh_jid=8732789002",
       "https://www.optiver.com/join-us/jobs/8623927002?gh_jid=8623927002",
       "https://www.optiver.com/join-us/jobs/8901997002?gh_jid=8901997002",
       "https://www.optiver.com/join-us/jobs/8641352002?gh_jid=8641352002",
@@ -509,11 +506,14 @@
       "https://job-boards.greenhouse.io/xantium/jobs/4360768009",
       "https://job-boards.greenhouse.io/xantium/jobs/4371217009"
     ],
-    "absentUrls": []
+    "absentUrls": [
+      "https://www.optiver.com/join-us/jobs/8732789002?gh_jid=8732789002",
+      "https://www.optiver.com/join-us/jobs/8732789002?gh_jid=8732789002"
+    ]
   },
   "confirmationPass": {
-    "searchedAt": "2026-11-07T16:29:43.484Z",
-    "hash": "d7b67126fedfaaf276115fb1fff423dc43d17a218454edfafce8a32bd2aa6d23",
+    "searchedAt": "2026-11-09T14:14:23.548Z",
+    "hash": "46877675631e2e69eb648775467c8e8d69f18c6a497af40336542bdb5e18cf6c",
     "identities": [
       "https://www.akunacapital.com/careers/job/8018856?gh_jid=8018856",
       "https://www.akunacapital.com/careers/job/8021481?gh_jid=8021481",
@@ -582,7 +582,6 @@
       "blackrock|R266476|2027 quantitative masters internship program - technology - analytics & modeling - san francisco",
       "blackrock|R266465|2027 quantitative masters internship programme - investments - quantitative investing - london",
       "bmo|R260029657|bmo capital markets quantitative trading analyst – 12–16 month co-op",
-      "bmo|R260028597|bmo capital markets summer 2027 internship risk and capital solutions analyst, toronto",
       "bmo|R260031097|quantitative analyst, summer 2027 (co-op/internship) - 4 months",
       "https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading",
       "bpinternational|RQ117480|polytechnic internship - supply, trading & shipping - singapore (2027)",
@@ -618,7 +617,6 @@
       "https://www.deshaw.com/careers/venture-studio-startup-incubator-intern-new-york-summer-2027-6166",
       "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101",
       "db|R0453248|ai audit and analytics intern - ytp program",
-      "db|R0452523|cro - credit risk local intern",
       "db|R0449103|fx risk management sales intern (f/m/x)",
       "db|R0450450|internship regional management, corporate strategy e sustainability (f/m/x)",
       "db|R0445832|investment bank - fixed income & currencies trading local intern",
@@ -629,15 +627,15 @@
       "https://www.dltrading.io/careers?gh_jid=7814660003",
       "https://job-boards.greenhouse.io/drweng/jobs/7991171",
       "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "https://job-boards.greenhouse.io/drweng/jobs/7957756",
       "https://job-boards.greenhouse.io/drweng/jobs/7818540",
+      "https://job-boards.greenhouse.io/drweng/jobs/7957756",
       "https://job-boards.greenhouse.io/drweng/jobs/8014915",
-      "https://job-boards.greenhouse.io/drweng/jobs/7957243",
       "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "https://job-boards.greenhouse.io/drweng/jobs/7957243",
       "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "https://job-boards.greenhouse.io/drweng/jobs/8020364",
       "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "https://job-boards.greenhouse.io/drweng/jobs/7942281",
       "https://job-boards.greenhouse.io/dvtrading/jobs/4733877005",
       "https://job-boards.greenhouse.io/dvtrading/jobs/4733880005",
       "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005",
@@ -825,7 +823,6 @@
       "https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6",
       "https://www.optiver.com/join-us/jobs/8644364002?gh_jid=8644364002",
       "https://www.optiver.com/join-us/jobs/8633966002?gh_jid=8633966002",
-      "https://www.optiver.com/join-us/jobs/8732789002?gh_jid=8732789002",
       "https://www.optiver.com/join-us/jobs/8623927002?gh_jid=8623927002",
       "https://www.optiver.com/join-us/jobs/8901997002?gh_jid=8901997002",
       "https://www.optiver.com/join-us/jobs/8641352002?gh_jid=8641352002",
@@ -1020,7 +1017,10 @@
       "https://job-boards.greenhouse.io/xantium/jobs/4360768009",
       "https://job-boards.greenhouse.io/xantium/jobs/4371217009"
     ],
-    "absentUrls": []
+    "absentUrls": [
+      "https://www.optiver.com/join-us/jobs/8732789002?gh_jid=8732789002",
+      "https://www.optiver.com/join-us/jobs/8732789002?gh_jid=8732789002"
+    ]
   },
   "onlyFirstPass": [],
   "onlyConfirmationPass": []

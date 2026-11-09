@@ -1,9 +1,13 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 264
-Last updated: 2026-11-07T16:29:43.484Z
+Total closure events recorded: 265
+Last updated: 2026-11-09T14:14:23.548Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-09 (1)
+
+- **Optiver** - [2027 Shanghai Performance Researcher Summer Internship](https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002) - Shanghai, China
 
 ### 2026-11-06 (8)
 

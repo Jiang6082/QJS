@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-07T16:34:14.468Z",
-  "currentScanAt": "2026-11-07T16:29:43.484Z",
+  "generatedAt": "2026-11-09T14:19:11.628Z",
+  "currentScanAt": "2026-11-09T14:14:23.548Z",
   "total": 567,
-  "active": 349,
-  "notDetected": 218,
+  "active": 346,
+  "notDetected": 221,
   "newSincePreviousScan": 0,
   "manuallyRecovered": 5,
   "roles": [
@@ -526,20 +526,6 @@
       "status": "active"
     },
     {
-      "Company": "BMO Capital Markets",
-      "Title": "BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto",
-      "Location": "Toronto, ON, CAN",
-      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597",
-      "Source": "Career page Workday:bmo/External",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-10-23",
-      "first_seen": "2026-10-25",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "Connor Clark & Lunn",
       "Title": "Intern, Investment Analytics Engagement",
       "Location": "Vancouver, British Columbia, Canada",
@@ -965,20 +951,6 @@
       "Location": "New York",
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=ML-Engineer---Commodities-Applied-ML--Summer-Internship---Master-s-_REQ8676",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-10-13",
-      "first_seen": "2026-10-15",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "Deutsche Bank",
-      "Title": "CRO - Credit Risk Local Intern",
-      "Location": "Shanghai Two IFC",
-      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/CRO---Credit-Risk-Local-Intern_R0452523",
-      "Source": "Career page Workday:db/DBWebsite",
       "source_status": "Confirmed official posting",
       "release_date": "2026-10-13",
       "first_seen": "2026-10-15",
@@ -2584,20 +2556,6 @@
       "status": "active"
     },
     {
-      "Company": "Optiver",
-      "Title": "2027 Shanghai Performance Researcher Summer Internship",
-      "Location": "Shanghai, China",
-      "URL": "https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002",
-      "Source": "Greenhouse:optiverus",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-07",
-      "first_seen": "2026-09-13",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "Tower Research Capital",
       "Title": "Intern",
       "Location": "Gift City",
@@ -3280,7 +3238,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-07",
+      "verifiedAt": "2026-11-09",
       "status": "active"
     },
     {
@@ -4848,7 +4806,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-07",
+      "verifiedAt": "2026-11-09",
       "status": "active"
     },
     {
@@ -4862,7 +4820,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-07",
+      "verifiedAt": "2026-11-09",
       "status": "active"
     },
     {
@@ -4876,7 +4834,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-07",
+      "verifiedAt": "2026-11-09",
       "status": "active"
     },
     {
@@ -4890,7 +4848,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-07",
+      "verifiedAt": "2026-11-09",
       "status": "active"
     },
     {
@@ -4944,6 +4902,20 @@
       "source_status": "Confirmed official posting",
       "release_date": "2026-11-03",
       "first_seen": "2026-10-29",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "BMO Capital Markets",
+      "Title": "BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto",
+      "Location": "Toronto, ON, CAN",
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597",
+      "Source": "Career page Workday:bmo/External",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-10-23",
+      "first_seen": "2026-10-25",
       "discovery_note": null,
       "manually_verified": false,
       "verifiedAt": null,
@@ -5083,6 +5055,20 @@
       "Source": "Career page Workday:jainglobal/ExternalSite",
       "source_status": "Confirmed official posting",
       "release_date": "2026-10-14",
+      "first_seen": "2026-10-15",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Deutsche Bank",
+      "Title": "CRO - Credit Risk Local Intern",
+      "Location": "Shanghai Two IFC",
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/CRO---Credit-Risk-Local-Intern_R0452523",
+      "Source": "Career page Workday:db/DBWebsite",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-10-13",
       "first_seen": "2026-10-15",
       "discovery_note": null,
       "manually_verified": false,
@@ -6680,6 +6666,20 @@
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-07",
       "first_seen": "2026-09-07",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Optiver",
+      "Title": "2027 Shanghai Performance Researcher Summer Internship",
+      "Location": "Shanghai, China",
+      "URL": "https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002",
+      "Source": "Greenhouse:optiverus",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-07",
+      "first_seen": "2026-09-13",
       "discovery_note": null,
       "manually_verified": false,
       "verifiedAt": null,

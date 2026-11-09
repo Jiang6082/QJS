@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-07T16:34:13.728Z",
-  "scanStartedAt": "2026-11-07T16:29:43.484Z",
+  "generatedAt": "2026-11-09T14:19:10.610Z",
+  "scanStartedAt": "2026-11-09T14:14:23.548Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
     "matching-role-found": 48,
-    "confirmed-no-open-postings": 4,
+    "confirmed-no-open-postings": 3,
     "confirmed-openings-no-matching-role": 36,
-    "could-not-fully-verify": 217
+    "could-not-fully-verify": 218
   },
   "companies": [
     {
@@ -144,7 +144,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 147,
+      "jobsSeen": 144,
       "relevantInternships": 0
     },
     {
@@ -229,7 +229,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 4,
+      "jobsSeen": 3,
       "relevantInternships": 2
     },
     {
@@ -779,7 +779,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 175,
+      "jobsSeen": 174,
       "relevantInternships": 11
     },
     {
@@ -1014,7 +1014,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 201,
+      "jobsSeen": 199,
       "relevantInternships": 15
     },
     {
@@ -1070,8 +1070,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 135,
-      "relevantInternships": 6
+      "jobsSeen": 136,
+      "relevantInternships": 5
     },
     {
       "company": "Domeyard LP",
@@ -1235,7 +1235,7 @@
       "sourceRosterNames": [
         "HAP Capital"
       ],
-      "status": "confirmed-no-open-postings",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://jobs.lever.co/hap-capital"
       ],
@@ -1368,7 +1368,7 @@
         "https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us",
         "https://app.welcometothejungle.com/companies/Dexterity-Capital"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1450,7 +1450,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 42,
+      "jobsSeen": 41,
       "relevantInternships": 3
     },
     {
@@ -1682,7 +1682,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 58,
+      "jobsSeen": 59,
       "relevantInternships": 0
     },
     {
@@ -2134,7 +2134,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 162,
+      "jobsSeen": 163,
       "relevantInternships": 17
     },
     {
@@ -3652,7 +3652,7 @@
       "careerPages": [
         "https://www.stronghold.capital/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4270,7 +4270,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 90,
+      "jobsSeen": 89,
       "relevantInternships": 0
     },
     {
