@@ -1,10 +1,10 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-11-09T14:14:23.548Z
+Scan started: 2026-11-10T11:13:08.838Z
 Source roster entries: 306
 Canonical companies after aliases: 305
 
-## Matching Roles Found (48)
+## Matching Roles Found (47)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -44,7 +44,6 @@ Canonical companies after aliases: 305
 | Old Mission Capital | 1/2 pages live | [link](https://www.oldmissioncapital.com/careers/) [link](https://job-boards.greenhouse.io/oldmissioncapital) |
 | Optiver | 12/12 pages live | [link](https://optiver.com/join-us/) [link](https://optiver.com/join-us/jobs/) [link](https://job-boards.greenhouse.io/optiverprivate) [link](https://optiver.com/join-us/locations/shanghai/) [link](https://optiver.com/join-us/students/programs/futurefocus/) [link](https://optiver.com/working-at-optiver/career-opportunities/) [link](https://optiver.com/) [link](https://optiver.com/working-at-optiver/) [link](https://prod-www.optiver.com/) [link](https://optiver.com/join-us/jobs/institutional-sales-and-trading/new-york/us-options-sales-trader/) [link](https://optiver.com/join-us/jobs/human-resources-and-recruiting/austin/) [link](https://optiver.com/join-us/jobs/human-resources-and-recruiting/) |
 | Squarepoint Capital | 1/1 pages live | [link](https://www.squarepoint-capital.com/open-opportunities) |
-| Viking Global Investors | 1/1 pages live | [link](https://job-boards.greenhouse.io/vikingglobalinvestors?error=true) |
 | Trillium | 5/5 pages live | [link](https://www.trlm.com/careers/) [link](https://job-boards.greenhouse.io/trillium) [link](https://www.trilliumhealthresources.org/explore-trillium/careers/internship-practicum) [link](https://www.trilliumhealth.org/join-the-team) [link](https://www.trilliumhealthresources.org/explore-trillium/careers) |
 | Tower Research Capital | 2/2 pages live | [link](https://www.tower-research.com/open-positions/) [link](https://job-boards.greenhouse.io/towerresearchcapital) |
 | Two Sigma | 3/3 pages live | [link](https://careers.twosigma.com/) [link](https://www.twosigma.com/careers/) [link](https://www.twosigma.com/careers/internships/) |
@@ -74,7 +73,6 @@ Canonical companies after aliases: 305
 | Caladan | 1/1 pages live | [link](https://caladan.xyz/careers/) |
 | 3Red Partners | 2/2 pages live | [link](https://www.3redpartners.com/careers/) [link](https://job-boards.greenhouse.io/3redpartners) |
 | Bridgewater Associates | 1/1 pages live | [link](https://www.bridgewater.com/working-at-bridgewater) |
-| Capital Fund Management | 1/1 pages live | [link](https://www.cfm.com/join-us/) |
 | Akuna Capital | 2/2 pages live | [link](https://akunacapital.com/careers/) [link](https://job-boards.greenhouse.io/optionstrading201course/jobs/7394582) |
 | Ansatz Capital | 1/1 pages live | [link](https://jobs.lever.co/ansatzcapital?by=location) |
 | Clear Street | 1/1 pages live | [link](https://job-boards.greenhouse.io/clearstreet?gh_src=bdd2c3261) |
@@ -98,6 +96,7 @@ Canonical companies after aliases: 305
 | Quadrature Capital | 1/1 pages live | [link](https://job-boards.greenhouse.io/quadraturecapital?error=true) |
 | Quantlane | 1/1 pages live | [link](https://jobs.lever.co/quantlane) |
 | Valkyrie Trading | 0/1 pages live | [link](https://www.valkyrietrading.com/careers/) |
+| Viking Global Investors | 1/1 pages live | [link](https://job-boards.greenhouse.io/vikingglobalinvestors?error=true) |
 | Waterfront International Ltd | 1/1 pages live | [link](https://job-boards.greenhouse.io/wil) |
 | Winton Capital | 2/2 pages live | [link](https://www.winton.com/opportunities) [link](https://job-boards.eu.greenhouse.io/winton) |
 | Vatic Labs | 1/1 pages live | [link](https://job-boards.greenhouse.io/vaticlabs/jobs/3137555) |
@@ -106,7 +105,7 @@ Canonical companies after aliases: 305
 | Teza Technologies | 2/2 pages live | [link](https://www.teza.com/careers/) [link](https://jobs.ashbyhq.com/teza-technologies) |
 | Verition Fund Management | 2/3 pages live | [link](https://www.verition.com/careers/) [link](https://www.verition.com/careers) [link](https://www.verition.com/open-positions) |
 
-## Could Not Fully Verify (218)
+## Could Not Fully Verify (219)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -144,6 +143,7 @@ Canonical companies after aliases: 305
 | Axinoss | no saved page attempted | none |
 | Birkoa Capital Management | 1/1 pages live | [link](https://birkoa.com/careers) |
 | Bondi Tech | 1/1 pages live | [link](https://www.bonditech.com/careers) |
+| Capital Fund Management | 1/1 pages live | [link](https://www.cfm.com/join-us/) |
 | Charlesworth Research | 1/1 pages live | [link](https://www.charlesworthresearch.com/careers) |
 | Citadel Securities | 0/4 pages live | [link](https://www.citadelsecurities.com/careers/) [link](https://www.citadel.com/careers/) [link](https://www.citadelsecurities.com/careers/open-opportunities/) [link](https://www.citadelsecurities.com/careers/students/) |
 | Contek (Contrarian Technologies) | 1/1 pages live | [link](https://contek.io/#career) |
@@ -176,7 +176,7 @@ Canonical companies after aliases: 305
 | Kvantium Research | no saved page attempted | none |
 | DWF Labs | 0/1 pages live | [link](https://www.dwf-labs.com/careers) |
 | Deep Blue Capital | 0/1 pages live | [link](https://deepbluecap.com/vacancies/) |
-| Dexterity Capital | 0/3 pages live | [link](https://wellfound.com/company/dexterity-capital) [link](https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us) [link](https://app.welcometothejungle.com/companies/Dexterity-Capital) |
+| Dexterity Capital | 1/3 pages live | [link](https://wellfound.com/company/dexterity-capital) [link](https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us) [link](https://app.welcometothejungle.com/companies/Dexterity-Capital) |
 | Domstad Traders | no saved page attempted | none |
 | Enigma Quant Capital | 1/1 pages live | [link](https://www.enigmaquant.com/#careers) |
 | Ethflow | no saved page attempted | none |

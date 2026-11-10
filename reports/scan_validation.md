@@ -1,14 +1,14 @@
 # Quant Workflow Validation
 
 Status: **PASSED**
-Scan date: 2026-11-09
-Baseline rows: 504
-Current rows: 501
-Exact additions: 0; additions confirmed in both passes: 0
-Exact absences: 3; confirmed closures: 1; guarded absences: 125
+Scan date: 2026-11-10
+Baseline rows: 501
+Current rows: 500
+Exact additions: 3; additions confirmed in both passes: 3
+Exact absences: 4; confirmed closures: 4; guarded absences: 125
 Differences between source passes: 0
-Rolling report: 42 source-dated + 2 undated
-Cumulative queue: 567 total / 346 active / 221 not detected
+Rolling report: 40 source-dated + 4 undated
+Cumulative queue: 570 total / 347 active / 223 not detected
 
 Checks cover identities, independent confirmation, critical source health, closure evidence, reopened roles, report timestamps and membership, date windows, cumulative preservation, manual verification, README counts, and JSON validity.
 

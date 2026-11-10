@@ -1,9 +1,16 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 265
-Last updated: 2026-11-09T14:14:23.548Z
+Total closure events recorded: 269
+Last updated: 2026-11-10T11:13:08.838Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-10 (4)
+
+- **AQR Capital Management** - [2027 Research and Portfolio Management Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) - Greenwich, CT
+- **Virtu Financial** - [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002) - Dublin, Ireland
+- **WorldQuant** - [Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4652485006) - Hanoi
+- **Viking Global Investors** - [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) - New York, NY
 
 ### 2026-11-09 (1)
 

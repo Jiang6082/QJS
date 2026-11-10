@@ -1,21 +1,22 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-11-07T16:29:43.484Z
-Current scan: 2026-11-09T14:14:23.548Z
-Previous rows: 504
-Current rows: 501
-New URLs confirmed in both source passes: 0
-Confirmed no longer present: 1
+Previous scan: 2026-11-09T14:14:23.548Z
+Current scan: 2026-11-10T11:13:08.838Z
+Previous rows: 501
+Current rows: 500
+New URLs confirmed in both source passes: 3
+Confirmed no longer present: 4
 
 ## New Roles By Region
 
-### North America (0)
+### North America (1)
 
-_None._
+- **Jane Street** - [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927083002/) - New York - Confirmed official posting (Official Jane Street jobs feed): Internship; Flexible; Technology
 
-### Europe (0)
+### Europe (2)
 
-_None._
+- **Invesco** - [Intern, Quantitative Research (6 months fixed-term contract)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Frankfurt-Hesse/Intern--Quantitative-Research--6-months-fixed-term-contract-_R-15889) - Frankfurt, Hesse - Confirmed official posting (Career page Workday:invesco/IVZ): career_page=https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Division-Associate_R-5554 | Posted Yesterday | R-15889
+- **Jane Street** - [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927052002/) - London - Confirmed official posting (Official Jane Street jobs feed): Internship; Flexible; Technology
 
 ### Asia (0)
 
@@ -47,7 +48,10 @@ _None._
 
 ## No Longer Present
 
-- **Optiver** - [2027 Shanghai Performance Researcher Summer Internship](https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002)
+- **AQR Capital Management** - [2027 Research and Portfolio Management Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728)
+- **Virtu Financial** - [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002)
+- **WorldQuant** - [Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4652485006)
+- **Viking Global Investors** - [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004)
 
 ## Missing but not confirmed closed
 

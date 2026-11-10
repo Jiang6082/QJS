@@ -1,15 +1,18 @@
 # Cumulative application queue
 
-_Updated 2026-11-09. Roles remain in this ledger when they age out of the rolling 21-day report._
+_Updated 2026-11-10. Roles remain in this ledger when they age out of the rolling 21-day report._
 
-- **567** unique role URLs tracked
-- **346** active or manually verified today
-- **221** not detected in the latest scan
-- **0** new scanner URLs since the previous scan
+- **570** unique role URLs tracked
+- **347** active or manually verified today
+- **223** not detected in the latest scan
+- **3** new scanner URLs since the previous scan
 - **5** live Scientech roles verified on its nested official Ashby board
 
-## New scanner URLs since the previous scan (0)
+## New scanner URLs since the previous scan (3)
 
+- **Jane Street** — [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927052002/) — London — first seen 2026-11-10
+- **Jane Street** — [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927083002/) — New York — first seen 2026-11-10
+- **Invesco** — [Intern, Quantitative Research (6 months fixed-term contract)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Frankfurt-Hesse/Intern--Quantitative-Research--6-months-fixed-term-contract-_R-15889) — Frankfurt, Hesse — released 2026-11-09
 
 ## Scientech roles verified on the nested official board (5)
 
@@ -21,7 +24,7 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Scientech Research Capital** — [Quantitative Researcher Intern](https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80) — New Jersey — released 2025-01-23
 - **Scientech Research Capital** — [Quantitative Researcher Intern](https://jobs.ashbyhq.com/scientech-research/c344ad5a-b148-4a96-8d6c-a660e6f86896) — Shanghai — released 2025-01-23
 
-## Active cumulative queue (346)
+## Active cumulative queue (347)
 
 ### AQR Capital Management (3)
 
@@ -285,8 +288,9 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **IMC Trading** — [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) — Amsterdam, Netherlands — released 2026-07-31
 - **IMC Trading** — [Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4939846101) — Amsterdam, Netherlands — released 2026-07-31
 
-### Invesco (4)
+### Invesco (5)
 
+- **Invesco** — [Intern, Quantitative Research (6 months fixed-term contract)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Frankfurt-Hesse/Intern--Quantitative-Research--6-months-fixed-term-contract-_R-15889) — Frankfurt, Hesse — released 2026-11-09
 - **Invesco** — [Early Career Intern - Real Estate (Data Science)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) — Dallas, Texas — released 2026-11-06
 - **Invesco** — [Early Career Intern - Legal, Compliance, Audit & Risk (LCAR)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---LCAR_R-15590-1) — Atlanta, Georgia — released 2026-11-04
 - **Invesco** — [Quantitative Intern - Portfolio Engineering and Analytics](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-2) — Boston, Massachusetts — released 2026-10-16
@@ -303,8 +307,10 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Jain Global** — [Data Engineer Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1) — New York, New York — released 2026-10-05
 - **Jain Global** — [Quant Research Intern, Systematic Trading](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1) — New York, New York — released 2026-10-05
 
-### Jane Street (17)
+### Jane Street (19)
 
+- **Jane Street** — [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927052002/) — London — first seen 2026-11-10
+- **Jane Street** — [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927083002/) — New York — first seen 2026-11-10
 - **Jane Street** — [Machine Learning Researcher](https://www.janestreet.com/join-jane-street/position/8596771002/) — Hong Kong — first seen 2026-10-29
 - **Jane Street** — [Cybersecurity Engineer](https://www.janestreet.com/join-jane-street/position/8810604002/) — Hong Kong — first seen 2026-09-17
 - **Jane Street** — [Windows Engineer](https://www.janestreet.com/join-jane-street/position/8755768002/) — London — released 2026-08-27
@@ -514,13 +520,8 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 
 - **Vatic Investments** — [AI Research Internship (Summer 2027)](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954) — New York — first seen 2026-11-04
 
-### Viking Global Investors (1)
+### Virtu Financial (2)
 
-- **Viking Global Investors** — [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) — New York, NY — released 2026-09-21
-
-### Virtu Financial (3)
-
-- **Virtu Financial** — [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002) — Dublin, Ireland — released 2026-08-12
 - **Virtu Financial** — [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) — New York — released 2026-07-29
 - **Virtu Financial** — [2027 Internship- Hardware Engineer (FPGA)](https://job-boards.greenhouse.io/virtu/jobs/8657286002) — Austin, TX — released 2026-07-29
 
@@ -543,7 +544,7 @@ _The outer Wix careers page hides this board inside nested iframes. QJS now enum
 - **Xantium** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) — London, England — released 2026-08-17
 - **Xantium** — [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York — released 2026-08-17
 
-## Not detected in the latest scan (221)
+## Not detected in the latest scan (223)
 
 _These entries are preserved for history. A single missing scan is not proof that an employer closed the posting._
 
@@ -622,6 +623,7 @@ _These entries are preserved for history. A single missing scan is not proof tha
 - **Goldman Sachs** — [2027 \| APEJ \| Hong Kong \| Risk, Market Risk \| Summer Analyst](https://higher.gs.com/roles/170823) — Hong Kong, Hong Kong — released 2026-09-21
 - **Optiver** — [High Performance Computing (HPC) Intern (Summer 2027 - Chicago)](https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002) — Chicago, Illinois, United States — released 2026-09-21
 - **Optiver** — [Software Engineer Co-Op (January - April 2027)](https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002) — Chicago, Illinois, United States — released 2026-09-21
+- **Viking Global Investors** — [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) — New York, NY — released 2026-09-21
 - **Wellington Management** — [Investment Platform Technology Co-op](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Platform-Technology-Co-op_R94902-1) — Boston, MA, United States — released 2026-09-21
 - **RRS Group** — [Associate IT Systems Administrator Intern - 2027](https://jobs.smartrecruiters.com/RRSGroup/744000150509779) — Remote — released 2026-09-19
 - **BMO Capital Markets** — [Software Developer, Winter 2027 (Internship) - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2) — San Ramon, CA, USA — released 2026-09-18
@@ -746,6 +748,7 @@ _These entries are preserved for history. A single missing scan is not proof tha
 - **TransMarket Group** — [Software Engineering Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) — Chicago, Illinois, United States — released 2026-08-14
 - **DRW** — [Software Engineer Intern (Data Engineering)](https://job-boards.greenhouse.io/drweng/jobs/8127242) — Singapore — released 2026-08-13
 - **Balyasny Asset Management** — [Quantitative Analyst, Commodities (Seasonal Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst--Commodities--Seasonal-Internship-_REQ8467) — London — released 2026-08-12
+- **Virtu Financial** — [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002) — Dublin, Ireland — released 2026-08-12
 - **AQR Capital Management** — [2027 Research Product Specialist Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) — Greenwich, CT — released 2026-08-11
 - **Invesco** — [Early Career Intern - Investments (Risk)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1) — New York, New York — released 2026-08-11
 - **Quantbot Technologies** — [Data Trading Analyst Summer Internship - 2027 [London]](https://www.quantbot.com/careers/4299858009?gh_jid=4299858009) — London — released 2026-08-11

@@ -1,29 +1,30 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-11-09T14:14:23.548Z
+Last updated: 2026-11-10T11:13:08.838Z
 
 ## Summary
 
 - Companies searched: 370
 - Career pages checked: 515
-- Current retained roles: 501
-- New stable job URLs since previous scan: 0
-- No longer present since previous scan: 1
+- Current retained roles: 500
+- New stable job URLs since previous scan: 3
+- No longer present since previous scan: 4
 - Missing without enough closure evidence: 125
-- Matching-role firms: 48
+- Matching-role firms: 47
 - Confirmed no open postings: 3
 - Openings but no matching role: 36
-- Could not fully verify: 218
+- Could not fully verify: 219
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (1)
 
-_None._
+- **Jane Street** - [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927083002/) - New York
 
-### Europe (0)
+### Europe (2)
 
-_None._
+- **Invesco** - [Intern, Quantitative Research (6 months fixed-term contract)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Frankfurt-Hesse/Intern--Quantitative-Research--6-months-fixed-term-contract-_R-15889) - Frankfurt, Hesse
+- **Jane Street** - [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927052002/) - London
 
 ### Asia (0)
 
@@ -55,7 +56,10 @@ _None._
 
 ## No Longer Present
 
-- **Optiver** - [2027 Shanghai Performance Researcher Summer Internship](https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002) - Shanghai, China
+- **AQR Capital Management** - [2027 Research and Portfolio Management Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) - Greenwich, CT
+- **Virtu Financial** - [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002) - Dublin, Ireland
+- **WorldQuant** - [Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4652485006) - Hanoi
+- **Viking Global Investors** - [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) - New York, NY
 
 ## Full Reports
 

@@ -1,12 +1,54 @@
 {
-  "generatedAt": "2026-11-09T14:19:11.628Z",
-  "currentScanAt": "2026-11-09T14:14:23.548Z",
-  "total": 567,
-  "active": 346,
-  "notDetected": 221,
-  "newSincePreviousScan": 0,
+  "generatedAt": "2026-11-10T11:18:07.021Z",
+  "currentScanAt": "2026-11-10T11:13:08.838Z",
+  "total": 570,
+  "active": 347,
+  "notDetected": 223,
+  "newSincePreviousScan": 3,
   "manuallyRecovered": 5,
   "roles": [
+    {
+      "Company": "Jane Street",
+      "Title": "Formal Methods Research and Development",
+      "Location": "London",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8927052002/",
+      "Source": "Official Jane Street jobs feed",
+      "source_status": "Confirmed official posting",
+      "release_date": null,
+      "first_seen": "2026-11-10",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Jane Street",
+      "Title": "Formal Methods Research and Development",
+      "Location": "New York",
+      "URL": "https://www.janestreet.com/join-jane-street/position/8927083002/",
+      "Source": "Official Jane Street jobs feed",
+      "source_status": "Confirmed official posting",
+      "release_date": null,
+      "first_seen": "2026-11-10",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "Invesco",
+      "Title": "Intern, Quantitative Research (6 months fixed-term contract)",
+      "Location": "Frankfurt, Hesse",
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Frankfurt-Hesse/Intern--Quantitative-Research--6-months-fixed-term-contract-_R-15889",
+      "Source": "Career page Workday:invesco/IVZ",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
     {
       "Company": "BMO Capital Markets",
       "Title": "Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months",
@@ -1469,20 +1511,6 @@
       "Location": "Chicago Office",
       "URL": "https://job-boards.greenhouse.io/genevatrading/jobs/5242063007",
       "Source": "Career page Greenhouse:genevatrading",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-21",
-      "first_seen": "2026-09-23",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
-      "Company": "Viking Global Investors",
-      "Title": "Data Science Intern - Summer 2027",
-      "Location": "New York, NY",
-      "URL": "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004",
-      "Source": "Career page Greenhouse:vikingglobalinvestors",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-21",
       "first_seen": "2026-09-23",
@@ -3238,7 +3266,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "status": "active"
     },
     {
@@ -4222,20 +4250,6 @@
       "status": "active"
     },
     {
-      "Company": "Virtu Financial",
-      "Title": "2027 Internship - FPGA Engineer",
-      "Location": "Dublin, Ireland",
-      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8638124002",
-      "Source": "Career page Greenhouse:virtu",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-08-12",
-      "first_seen": "2026-08-21",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "AQR Capital Management",
       "Title": "2027 Quantitative Prediction Markets Research Summer Analyst",
       "Location": "Greenwich, CT",
@@ -4806,7 +4820,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "status": "active"
     },
     {
@@ -4820,7 +4834,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "status": "active"
     },
     {
@@ -4834,7 +4848,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "status": "active"
     },
     {
@@ -4848,7 +4862,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "status": "active"
     },
     {
@@ -5893,6 +5907,20 @@
       "Location": "Chicago, Illinois, United States",
       "URL": "https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002",
       "Source": "Career page Greenhouse:optiverprivate",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-21",
+      "first_seen": "2026-09-23",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Viking Global Investors",
+      "Title": "Data Science Intern - Summer 2027",
+      "Location": "New York, NY",
+      "URL": "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004",
+      "Source": "Career page Greenhouse:vikingglobalinvestors",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-21",
       "first_seen": "2026-09-23",
@@ -7629,6 +7657,20 @@
       "Location": "London",
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst--Commodities--Seasonal-Internship-_REQ8467",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-08-12",
+      "first_seen": "2026-08-21",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "Virtu Financial",
+      "Title": "2027 Internship - FPGA Engineer",
+      "Location": "Dublin, Ireland",
+      "URL": "https://job-boards.greenhouse.io/virtu/jobs/8638124002",
+      "Source": "Career page Greenhouse:virtu",
       "source_status": "Confirmed official posting",
       "release_date": "2026-08-12",
       "first_seen": "2026-08-21",

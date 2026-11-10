@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-09T14:19:10.610Z",
-  "scanStartedAt": "2026-11-09T14:14:23.548Z",
+  "generatedAt": "2026-11-10T11:18:06.149Z",
+  "scanStartedAt": "2026-11-10T11:13:08.838Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
-    "matching-role-found": 48,
+    "matching-role-found": 47,
     "confirmed-no-open-postings": 3,
     "confirmed-openings-no-matching-role": 36,
-    "could-not-fully-verify": 218
+    "could-not-fully-verify": 219
   },
   "companies": [
     {
@@ -90,7 +90,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -144,7 +144,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 144,
+      "jobsSeen": 146,
       "relevantInternships": 0
     },
     {
@@ -301,8 +301,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 53,
-      "relevantInternships": 5
+      "jobsSeen": 52,
+      "relevantInternships": 4
     },
     {
       "company": "Accent Groupe",
@@ -700,7 +700,7 @@
       "sourceRosterNames": [
         "Capital Fund Management (CFM)"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.cfm.com/join-us/"
       ],
@@ -962,7 +962,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 18,
+      "jobsSeen": 17,
       "relevantInternships": 0
     },
     {
@@ -988,7 +988,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 46,
+      "jobsSeen": 39,
       "relevantInternships": 0
     },
     {
@@ -1042,7 +1042,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 73,
+      "jobsSeen": 72,
       "relevantInternships": 20
     },
     {
@@ -1070,7 +1070,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 136,
+      "jobsSeen": 135,
       "relevantInternships": 5
     },
     {
@@ -1140,7 +1140,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -1300,7 +1300,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 219,
+      "jobsSeen": 221,
       "relevantInternships": 0
     },
     {
@@ -1368,7 +1368,7 @@
         "https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us",
         "https://app.welcometothejungle.com/companies/Dexterity-Capital"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1450,7 +1450,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 41,
+      "jobsSeen": 42,
       "relevantInternships": 3
     },
     {
@@ -2104,7 +2104,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 35,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -2134,7 +2134,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 163,
+      "jobsSeen": 159,
       "relevantInternships": 17
     },
     {
@@ -2254,7 +2254,7 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 33,
+      "jobsSeen": 34,
       "relevantInternships": 0
     },
     {
@@ -2452,7 +2452,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 23,
+      "jobsSeen": 19,
       "relevantInternships": 2
     },
     {
@@ -3562,14 +3562,14 @@
       "sourceRosterNames": [
         "Viking Global Investors"
       ],
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://job-boards.greenhouse.io/vikingglobalinvestors?error=true"
       ],
       "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 4,
-      "relevantInternships": 1
+      "relevantInternships": 0
     },
     {
       "company": "WEBB Traders",
@@ -3781,7 +3781,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 36,
+      "jobsSeen": 37,
       "relevantInternships": 0
     },
     {
@@ -3890,7 +3890,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 10,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -3948,8 +3948,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 47,
-      "relevantInternships": 13
+      "jobsSeen": 46,
+      "relevantInternships": 12
     },
     {
       "company": "Verition Fund Management",
@@ -4239,8 +4239,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 87,
-      "relevantInternships": 3
+      "jobsSeen": 86,
+      "relevantInternships": 2
     },
     {
       "company": "Xantium",

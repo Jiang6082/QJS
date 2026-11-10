@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T14:14:23.548Z",
+  "updatedAt": "2026-11-10T11:13:08.838Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -5142,6 +5142,24 @@
       "first_seen": "2026-11-06",
       "date": "2026-11-06",
       "evidence": "employer_field"
+    },
+    "invesco|R-15889|intern, quantitative research (6 months fixed-term contract)": {
+      "URL": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Frankfurt-Hesse/Intern--Quantitative-Research--6-months-fixed-term-contract-_R-15889",
+      "first_seen": "2026-11-10",
+      "date": "2026-11-09",
+      "evidence": "employer_relative_label"
+    },
+    "https://www.janestreet.com/join-jane-street/position/8927083002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8927083002/",
+      "first_seen": "2026-11-10",
+      "date": null,
+      "evidence": null
+    },
+    "https://www.janestreet.com/join-jane-street/position/8927052002": {
+      "URL": "https://www.janestreet.com/join-jane-street/position/8927052002/",
+      "first_seen": "2026-11-10",
+      "date": null,
+      "evidence": null
     }
   }
 }
