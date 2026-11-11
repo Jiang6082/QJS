@@ -1,9 +1,18 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 269
-Last updated: 2026-11-10T11:13:08.838Z
+Total closure events recorded: 275
+Last updated: 2026-11-11T11:29:10.845Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-11 (6)
+
+- **AQR Capital Management** - [2027 Quantitative Prediction Markets Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) - Greenwich, CT
+- **DRW** - [AI/ML Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7991171) - Montreal
+- **DRW** - [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8070392) - London
+- **Susquehanna International Group** - [Electricity + Natural Gas Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10945?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Virtu Financial** - [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) - Austin, TX; Chicago; New York
+- **Geneva Trading** - [Trade Support Engineer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242190007) - Chicago Office
 
 ### 2026-11-10 (4)
 

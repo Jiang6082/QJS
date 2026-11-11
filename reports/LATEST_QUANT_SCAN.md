@@ -1,30 +1,30 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-11-10T11:13:08.838Z
+Last updated: 2026-11-11T11:29:10.845Z
 
 ## Summary
 
 - Companies searched: 370
-- Career pages checked: 515
-- Current retained roles: 500
-- New stable job URLs since previous scan: 3
-- No longer present since previous scan: 4
-- Missing without enough closure evidence: 125
+- Career pages checked: 516
+- Current retained roles: 498
+- New stable job URLs since previous scan: 6
+- No longer present since previous scan: 6
+- Missing without enough closure evidence: 126
 - Matching-role firms: 47
 - Confirmed no open postings: 3
-- Openings but no matching role: 36
-- Could not fully verify: 219
+- Openings but no matching role: 37
+- Could not fully verify: 218
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (2)
 
-- **Jane Street** - [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927083002/) - New York
+- **BMO Capital Markets** - [Treasury & Payment Solutions Strategy Intern, Summer 2027 (10 weeks)](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397) - Chicago, IL, USA
+- **BMO Capital Markets** - [Treasury & Payment Solutions Strategy Internship, Summer 2027 (4 months)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) - Toronto, ON, CAN
 
-### Europe (2)
+### Europe (1)
 
-- **Invesco** - [Intern, Quantitative Research (6 months fixed-term contract)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Frankfurt-Hesse/Intern--Quantitative-Research--6-months-fixed-term-contract-_R-15889) - Frankfurt, Hesse
-- **Jane Street** - [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927052002/) - London
+- **GSA Capital** - [Software Developer - Intern](https://job-boards.greenhouse.io/gsacapital/jobs/8570668002) - London
 
 ### Asia (0)
 
@@ -34,9 +34,9 @@ _None._
 
 _None._
 
-### Middle East (0)
+### Middle East (1)
 
-_None._
+- **Barclays** - [Sales, Trading and Structuring Off Cycle Internship Programme 2027 Dubai](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Dubai-International-Financial-Centre-Dubai/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Dubai_JR-0000125149) - Dubai International Financial Centre, Dubai
 
 ### South America (0)
 
@@ -46,20 +46,22 @@ _None._
 
 _None._
 
-### Global / Multiple Regions (0)
+### Global / Multiple Regions (1)
 
-_None._
+- **GSA Capital** - [Quantitative Researcher - Intern](https://job-boards.greenhouse.io/gsacapital/jobs/8570661002) - London, New York
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **BMO Capital Markets** - [R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726) - Brossard, QC, CAN
 
 ## No Longer Present
 
-- **AQR Capital Management** - [2027 Research and Portfolio Management Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) - Greenwich, CT
-- **Virtu Financial** - [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002) - Dublin, Ireland
-- **WorldQuant** - [Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4652485006) - Hanoi
-- **Viking Global Investors** - [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) - New York, NY
+- **AQR Capital Management** - [2027 Quantitative Prediction Markets Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) - Greenwich, CT
+- **DRW** - [AI/ML Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7991171) - Montreal
+- **DRW** - [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8070392) - London
+- **Susquehanna International Group** - [Electricity + Natural Gas Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10945?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Virtu Financial** - [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) - Austin, TX; Chicago; New York
+- **Geneva Trading** - [Trade Support Engineer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242190007) - Chicago Office
 
 ## Full Reports
 

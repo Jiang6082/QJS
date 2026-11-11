@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:13:08.838Z",
+  "updatedAt": "2026-11-11T11:29:10.845Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -5160,6 +5160,36 @@
       "first_seen": "2026-11-10",
       "date": null,
       "evidence": null
+    },
+    "barclays|JR-0000125149|sales, trading and structuring off cycle internship programme 2027 dubai": {
+      "URL": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Dubai-International-Financial-Centre-Dubai/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Dubai_JR-0000125149",
+      "first_seen": "2026-11-11",
+      "date": "2026-11-10",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260031397|treasury & payment solutions strategy intern, summer 2027 (10 weeks)": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397",
+      "first_seen": "2026-11-11",
+      "date": "2026-11-10",
+      "evidence": "employer_relative_label"
+    },
+    "bmo|R260031382|treasury & payment solutions strategy internship, summer 2027 (4 months)": {
+      "URL": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382",
+      "first_seen": "2026-11-11",
+      "date": "2026-11-10",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/gsacapital/jobs/8570661002": {
+      "URL": "https://job-boards.greenhouse.io/gsacapital/jobs/8570661002",
+      "first_seen": "2026-11-11",
+      "date": "2026-05-29",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/gsacapital/jobs/8570668002": {
+      "URL": "https://job-boards.greenhouse.io/gsacapital/jobs/8570668002",
+      "first_seen": "2026-11-11",
+      "date": "2026-05-29",
+      "evidence": "employer_field"
     }
   }
 }

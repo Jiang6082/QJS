@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-10T11:18:06.149Z",
-  "scanStartedAt": "2026-11-10T11:13:08.838Z",
+  "generatedAt": "2026-11-11T11:33:32.726Z",
+  "scanStartedAt": "2026-11-11T11:29:10.845Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
     "matching-role-found": 47,
     "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 36,
-    "could-not-fully-verify": 219
+    "confirmed-openings-no-matching-role": 37,
+    "could-not-fully-verify": 218
   },
   "companies": [
     {
@@ -144,7 +144,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 146,
+      "jobsSeen": 151,
       "relevantInternships": 0
     },
     {
@@ -301,8 +301,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 52,
-      "relevantInternships": 4
+      "jobsSeen": 51,
+      "relevantInternships": 3
     },
     {
       "company": "Accent Groupe",
@@ -369,7 +369,7 @@
       "careerPages": [
         "http://www.armadausa.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -411,7 +411,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 17,
+      "jobsSeen": 13,
       "relevantInternships": 2
     },
     {
@@ -700,7 +700,7 @@
       "sourceRosterNames": [
         "Capital Fund Management (CFM)"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.cfm.com/join-us/"
       ],
@@ -779,8 +779,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 174,
-      "relevantInternships": 11
+      "jobsSeen": 169,
+      "relevantInternships": 9
     },
     {
       "company": "ABC Arbitrage",
@@ -1014,7 +1014,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 199,
+      "jobsSeen": 197,
       "relevantInternships": 15
     },
     {
@@ -1070,7 +1070,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 135,
+      "jobsSeen": 130,
       "relevantInternships": 5
     },
     {
@@ -1157,7 +1157,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 17,
+      "jobsSeen": 19,
       "relevantInternships": 4
     },
     {
@@ -1185,7 +1185,7 @@
         "https://job-boards.greenhouse.io/gsacapital",
         "https://www.gsacapital.com/join-us"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 13,
       "relevantInternships": 2
@@ -1256,7 +1256,7 @@
       ],
       "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 83,
+      "jobsSeen": 81,
       "relevantInternships": 4
     },
     {
@@ -1300,7 +1300,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 221,
+      "jobsSeen": 220,
       "relevantInternships": 0
     },
     {
@@ -1368,7 +1368,7 @@
         "https://job-boards.greenhouse.io/dexteritycapital?gh_src=2bde375b8us",
         "https://app.welcometothejungle.com/companies/Dexterity-Capital"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1682,7 +1682,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 59,
+      "jobsSeen": 58,
       "relevantInternships": 0
     },
     {
@@ -2059,8 +2059,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 13,
-      "relevantInternships": 3
+      "jobsSeen": 12,
+      "relevantInternships": 2
     },
     {
       "company": "Glencore",
@@ -2134,7 +2134,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 159,
+      "jobsSeen": 157,
       "relevantInternships": 17
     },
     {
@@ -2254,7 +2254,7 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -2493,7 +2493,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 67,
+      "jobsSeen": 66,
       "relevantInternships": 9
     },
     {
@@ -2682,7 +2682,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 16,
+      "jobsSeen": 15,
       "relevantInternships": 2
     },
     {
@@ -3153,7 +3153,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3663,9 +3663,11 @@
         "TCI Fund Management"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://careers.tcitransportation.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3709,7 +3711,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 55,
+      "jobsSeen": 54,
       "relevantInternships": 0
     },
     {
@@ -3781,7 +3783,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 37,
+      "jobsSeen": 39,
       "relevantInternships": 0
     },
     {
@@ -3905,7 +3907,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 91,
+      "jobsSeen": 93,
       "relevantInternships": 13
     },
     {
@@ -3948,8 +3950,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 46,
-      "relevantInternships": 12
+      "jobsSeen": 44,
+      "relevantInternships": 11
     },
     {
       "company": "Verition Fund Management",
@@ -4096,7 +4098,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 64,
+      "jobsSeen": 62,
       "relevantInternships": 3
     },
     {
@@ -4124,7 +4126,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 17,
+      "jobsSeen": 11,
       "relevantInternships": 3
     },
     {
@@ -4239,7 +4241,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 86,
+      "jobsSeen": 83,
       "relevantInternships": 2
     },
     {
@@ -4270,7 +4272,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 89,
+      "jobsSeen": 92,
       "relevantInternships": 0
     },
     {

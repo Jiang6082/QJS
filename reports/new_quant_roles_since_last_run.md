@@ -1,22 +1,22 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-11-09T14:14:23.548Z
-Current scan: 2026-11-10T11:13:08.838Z
-Previous rows: 501
-Current rows: 500
-New URLs confirmed in both source passes: 3
-Confirmed no longer present: 4
+Previous scan: 2026-11-10T11:13:08.838Z
+Current scan: 2026-11-11T11:29:10.845Z
+Previous rows: 500
+Current rows: 498
+New URLs confirmed in both source passes: 6
+Confirmed no longer present: 6
 
 ## New Roles By Region
 
-### North America (1)
+### North America (2)
 
-- **Jane Street** - [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927083002/) - New York - Confirmed official posting (Official Jane Street jobs feed): Internship; Flexible; Technology
+- **BMO Capital Markets** - [Treasury & Payment Solutions Strategy Intern, Summer 2027 (10 weeks)](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397) - Chicago, IL, USA - Confirmed official posting (Career page Workday:bmo/External): career_page=https://bmo.wd3.myworkdayjobs.com/External | Posted Yesterday | R260031397
+- **BMO Capital Markets** - [Treasury & Payment Solutions Strategy Internship, Summer 2027 (4 months)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) - Toronto, ON, CAN - Confirmed official posting (Career page Workday:bmo/External): career_page=https://bmo.wd3.myworkdayjobs.com/External | Posted Yesterday | R260031382
 
-### Europe (2)
+### Europe (1)
 
-- **Invesco** - [Intern, Quantitative Research (6 months fixed-term contract)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Frankfurt-Hesse/Intern--Quantitative-Research--6-months-fixed-term-contract-_R-15889) - Frankfurt, Hesse - Confirmed official posting (Career page Workday:invesco/IVZ): career_page=https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Division-Associate_R-5554 | Posted Yesterday | R-15889
-- **Jane Street** - [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927052002/) - London - Confirmed official posting (Official Jane Street jobs feed): Internship; Flexible; Technology
+- **GSA Capital** - [Software Developer - Intern](https://job-boards.greenhouse.io/gsacapital/jobs/8570668002) - London - Confirmed official posting (Career page Greenhouse:gsacapital): posted=2026-05-29T12:12:13-04:00 | career_page=https://www.gsacapital.com/join-us | company_wrapper=https://www.gsacapital.com/job?gh_jid=8570668002 | internship timing not stated in title | We are interested in hearing from students in the penultimate year of their graduate or postgraduate studies who are looking to secure an internship within software development. At a minimum, you must have an outstanding foundation in computer science or a closely related discipline and be able to demonstrate a passion and understanding for writing high quality code. For candidates requiring visa sponsorship or additional immigration/right-to-work processing assistance, we encourage you to apply by end of March to allow sufficient time to complete the visa application and/or complete necessary checks before the internship start date.
 
 ### Asia (0)
 
@@ -26,9 +26,9 @@ _None._
 
 _None._
 
-### Middle East (0)
+### Middle East (1)
 
-_None._
+- **Barclays** - [Sales, Trading and Structuring Off Cycle Internship Programme 2027 Dubai](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Dubai-International-Financial-Centre-Dubai/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Dubai_JR-0000125149) - Dubai International Financial Centre, Dubai - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Yesterday | JR-0000125149
 
 ### South America (0)
 
@@ -38,20 +38,22 @@ _None._
 
 _None._
 
-### Global / Multiple Regions (0)
+### Global / Multiple Regions (1)
 
-_None._
+- **GSA Capital** - [Quantitative Researcher - Intern](https://job-boards.greenhouse.io/gsacapital/jobs/8570661002) - London, New York - Confirmed official posting (Career page Greenhouse:gsacapital): posted=2026-05-29T12:11:28-04:00 | career_page=https://www.gsacapital.com/join-us | company_wrapper=https://www.gsacapital.com/job?gh_jid=8570661002 | internship timing not stated in title | We are interested in hearing from students at the penultimate year of their graduate or postgraduate studies who are looking to secure an internship in quantitative research and possess the relevant attributes. Research at GSA Capital means combining creativity, rigour and attention to detail in the design of systematic investment strategies. As a minimum, you must have an outstanding academic track record in a STEM, economics or empirical finance discipline from a leading academic institution and be able to demonstrate a passion and understanding for working within a quantitative environment. For candidates requiring visa sponsorship or additional immigration/right-to-work processing assistance, we ...
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **BMO Capital Markets** - [R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726) - Brossard, QC, CAN - Confirmed official posting (Career page Workday:bmo/External): career_page=https://bmo.wd3.myworkdayjobs.com/External | Posted Yesterday | R260026726
 
 ## No Longer Present
 
-- **AQR Capital Management** - [2027 Research and Portfolio Management Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728)
-- **Virtu Financial** - [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002)
-- **WorldQuant** - [Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4652485006)
-- **Viking Global Investors** - [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004)
+- **AQR Capital Management** - [2027 Quantitative Prediction Markets Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378)
+- **DRW** - [AI/ML Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7991171)
+- **DRW** - [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8070392)
+- **Susquehanna International Group** - [Electricity + Natural Gas Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10945?lang=en-us)
+- **Virtu Financial** - [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002)
+- **Geneva Trading** - [Trade Support Engineer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242190007)
 
 ## Missing but not confirmed closed
 
@@ -142,7 +144,6 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Vanguard** - [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1)
 - **BMO Capital Markets** - [Portfolio Assistant, Winter 2027 (Co-op/Internship), Montreal - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Portfolio-Assistant--Winter-2027--Co-op-Internship---Montreal---4-months_R260025949-2)
 - **BMO Capital Markets** - [Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3)
-- **BMO Capital Markets** - [R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726)
 - **Fidelity Investments** - [Summer 2027 Equity Research Associate Intern - London](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1)
 - **PIMCO** - [2027 Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805)
 - **Baillie Gifford** - [Cloud, Infrastructure & Security Summer Internship 2027](https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Cloud--Infrastructure---Security-Summer-Internship-2027_R0004565)
@@ -173,7 +174,9 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Invesco** - [Early Career Intern - Investment Technology](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622-1)
 - **Invesco** - [Early Career Intern - Fixed Income Global Technology](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1)
 - **Northern Trust Asset Management** - [Data & Analytics Office Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1)
+- **Fidelity Investments** - [Fidelity Strategic Advisors Inc, Investment Trading Research Internship](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Intern_2136759-1)
 - **Deutsche Bank** - [CRO - Credit Risk Local Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/CRO---Credit-Risk-Local-Intern_R0452523)
+- **Fidelity Investments** - [Enterprise Infrastructure & Operations Internship](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Galway-Ireland/Enterprise-Infrastructure---Operations-Internship_2137044)
 - **Invesco** - [Early Career Intern - Technology (Distribution)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1)
 - **Invesco** - [Early Career Intern - Technology (Investment)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1)
 - **Invesco** - [Early Career Intern - Technology (Investment)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622-1)
