@@ -1,34 +1,38 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-11-10T11:13:08.838Z
-Current scan: 2026-11-11T11:29:10.845Z
-Previous rows: 500
-Current rows: 498
-New URLs confirmed in both source passes: 6
-Confirmed no longer present: 6
+Previous scan: 2026-11-11T11:29:10.845Z
+Current scan: 2026-11-12T11:18:10.244Z
+Previous rows: 498
+Current rows: 497
+New URLs confirmed in both source passes: 7
+Confirmed no longer present: 7
 
 ## New Roles By Region
 
-### North America (2)
-
-- **BMO Capital Markets** - [Treasury & Payment Solutions Strategy Intern, Summer 2027 (10 weeks)](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397) - Chicago, IL, USA - Confirmed official posting (Career page Workday:bmo/External): career_page=https://bmo.wd3.myworkdayjobs.com/External | Posted Yesterday | R260031397
-- **BMO Capital Markets** - [Treasury & Payment Solutions Strategy Internship, Summer 2027 (4 months)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) - Toronto, ON, CAN - Confirmed official posting (Career page Workday:bmo/External): career_page=https://bmo.wd3.myworkdayjobs.com/External | Posted Yesterday | R260031382
-
-### Europe (1)
-
-- **GSA Capital** - [Software Developer - Intern](https://job-boards.greenhouse.io/gsacapital/jobs/8570668002) - London - Confirmed official posting (Career page Greenhouse:gsacapital): posted=2026-05-29T12:12:13-04:00 | career_page=https://www.gsacapital.com/join-us | company_wrapper=https://www.gsacapital.com/job?gh_jid=8570668002 | internship timing not stated in title | We are interested in hearing from students in the penultimate year of their graduate or postgraduate studies who are looking to secure an internship within software development. At a minimum, you must have an outstanding foundation in computer science or a closely related discipline and be able to demonstrate a passion and understanding for writing high quality code. For candidates requiring visa sponsorship or additional immigration/right-to-work processing assistance, we encourage you to apply by end of March to allow sufficient time to complete the visa application and/or complete necessary checks before the internship start date.
-
-### Asia (0)
+### North America (0)
 
 _None._
+
+### Europe (2)
+
+- **Maven Securities** - [Amsterdam Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591) - Amsterdam - Confirmed official posting (Career page Greenhouse:mavensecuritiesholdingltd): posted=2026-09-01T10:49:24-04:00 | career_page=https://www.mavensecurities.com/jobs/ | company_wrapper=https://www.mavensecurities.com/jobs/job?gh_jid=8048591 | internship timing: Summer | Maven Securities is a leading proprietary trading firm that uses sophisticated technology and quantitative analysis to trade global financial markets. We specialise in options and derivatives market making, where your skills can have a real impact. At Maven, we believe exceptional careers are built deliberately. Our summer internship is designed for a small number of high-potential students each year, combining structured training with practical exposure. We don’t hire large classes expecting only a few to succeed; we invest in every individual who joins the programme. If you would like to be considered for our London Trader Summer Internship, applications will open on 7th September. We can only accept...
+- **Maven Securities** - [London Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970) - London - Confirmed official posting (Career page Greenhouse:mavensecuritiesholdingltd): posted=2026-09-07T11:12:49-04:00 | career_page=https://www.mavensecurities.com/jobs/ | company_wrapper=https://www.mavensecurities.com/jobs/job?gh_jid=7806970 | internship timing: Summer | Maven Securities is a leading proprietary trading firm that uses sophisticated technology and quantitative analysis to trade global financial markets. We specialise in options and derivatives market making, where your skills can have a real impact. At Maven, we believe exceptional careers are built deliberately. Our summer internship is designed for a small number of high-potential students each year, combining structured training with practical exposure. We don’t hire large classes expecting only a few to succeed; we invest in every individual who joins the programme. Programme details Location: London Programme dates: 21st June – 20th August 2027 Key requirements: You must have the right to work in t...
+
+### Asia (5)
+
+- **Deutsche Bank** - [CRO - Credit Risk Local Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/CRO---Credit-Risk-Local-Intern_R0452523) - Shanghai Two IFC - Confirmed official posting (Career page Workday:db/DBWebsite): career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0452523
+- **Morningstar** - [Manager Research Intern](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Hong-Kong/Manager-Research-Intern_REQ-059194) - Hong Kong - Confirmed official posting (Career page Workday:morningstar/morningstar): career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted Today | REQ-059194
+- **Schonfeld** - [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8346891) - Hong Kong, Hong Kong - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-11-11T11:22:21-05:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8346891 | internship timing not stated in title | The Role We are excited to offer an opportunity for exceptional individuals to join the internship program at Schonfeld. You’ll spend ten weeks with an experienced software engineering team within the Schonfeld Technology division where you will be immersed in the culture and atmosphere of Schonfeld, working alongside talented professionals on high profile projects. Software Engineers at Schonfeld take on a wide range of responsibilities and challenges. They design, develop, deploy and support existing applications as well as new features and platforms. They participate in an Agile framework, continuously improving and expanding platform capabilities. Treasury Technology team : ...
+- **Schonfeld** - [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8356747) - Singapore, Central, Singapore - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-11-11T11:23:39-05:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8356747 | internship timing not stated in title | The Role We are excited to offer an opportunity for exceptional individuals to join the internship program at Schonfeld. You’ll spend ten weeks with an experienced software engineering team within the Schonfeld Technology division where you will be immersed in the culture and atmosphere of Schonfeld, working alongside talented professionals on high profile projects. Software Engineers at Schonfeld take on a wide range of responsibilities and challenges. They design, develop, deploy and support existing applications as well as new features and platforms. They participate in an Agile framework, continuously improving and expanding platform capabilities. The Accounting and Valuatio...
+- **Schonfeld** - [2027 Systematic COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8244307) - Hong Kong, Hong Kong - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-11-11T11:20:18-05:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8244307 | internship timing not stated in title | The Role We are looking for a highly motivated Data & Business Analyst Intern to join Schonfeld’s Systematic Strategies COO (SCOO) team. The Systematic business contains many separate investment (PM) teams. Schonfeld oversees these teams’ trading and risk, and supports them with capital, technology, execution, operations, legal, recruiting and general business services (aka the Platform). The SCOO team is the key interface between PM teams and these services. Working within the SCOO team, you will build, enhance, and automate the tools and analytics used by our Platform to make faster data-driven decisions at scale. This internship blends data, technology, and markets: you will ...
 
 ### Oceania (0)
 
 _None._
 
-### Middle East (1)
+### Middle East (0)
 
-- **Barclays** - [Sales, Trading and Structuring Off Cycle Internship Programme 2027 Dubai](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Dubai-International-Financial-Centre-Dubai/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Dubai_JR-0000125149) - Dubai International Financial Centre, Dubai - Confirmed official posting (Career page Workday:barclays/External_Career_Site_Barclays): career_page=https://search.jobs.barclays/search-jobs/early/22545/1/1 | Posted Yesterday | JR-0000125149
+_None._
 
 ### South America (0)
 
@@ -38,22 +42,23 @@ _None._
 
 _None._
 
-### Global / Multiple Regions (1)
+### Global / Multiple Regions (0)
 
-- **GSA Capital** - [Quantitative Researcher - Intern](https://job-boards.greenhouse.io/gsacapital/jobs/8570661002) - London, New York - Confirmed official posting (Career page Greenhouse:gsacapital): posted=2026-05-29T12:11:28-04:00 | career_page=https://www.gsacapital.com/join-us | company_wrapper=https://www.gsacapital.com/job?gh_jid=8570661002 | internship timing not stated in title | We are interested in hearing from students at the penultimate year of their graduate or postgraduate studies who are looking to secure an internship in quantitative research and possess the relevant attributes. Research at GSA Capital means combining creativity, rigour and attention to detail in the design of systematic investment strategies. As a minimum, you must have an outstanding academic track record in a STEM, economics or empirical finance discipline from a leading academic institution and be able to demonstrate a passion and understanding for working within a quantitative environment. For candidates requiring visa sponsorship or additional immigration/right-to-work processing assistance, we ...
+_None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **BMO Capital Markets** - [R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726) - Brossard, QC, CAN - Confirmed official posting (Career page Workday:bmo/External): career_page=https://bmo.wd3.myworkdayjobs.com/External | Posted Yesterday | R260026726
+_None._
 
 ## No Longer Present
 
-- **AQR Capital Management** - [2027 Quantitative Prediction Markets Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378)
-- **DRW** - [AI/ML Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7991171)
-- **DRW** - [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8070392)
-- **Susquehanna International Group** - [Electricity + Natural Gas Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10945?lang=en-us)
-- **Virtu Financial** - [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002)
-- **Geneva Trading** - [Trade Support Engineer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242190007)
+- **Balyasny Asset Management** - [Quantitative Researcher - Multi-Asset Arbitrage (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Multi-Asset-Arbitrage--Summer-Internship-_REQ8462)
+- **Quantbot Technologies** - [Quantitative Researcher Internship - 2027 [New York]](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009)
+- **Quantbot Technologies** - [Machine Learning Research Engineer Internship - 2027 [New York]](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009)
+- **Quantbot Technologies** - [Quantitative Developer Internship - 2027 [New York]](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009)
+- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/170600)
+- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/170601)
+- **Vatic Investments** - [AI Research Internship (Summer 2027)](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954)
 
 ## Missing but not confirmed closed
 
@@ -140,6 +145,7 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Barclays** - [2027 Technology Analyst Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Glasgow_JR-0000129503)
 - **Barclays** - [Sales, Trading and Structuring Summer Internship Programme 2027 London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-London_JR-0000124692)
 - **BP** - [Summer Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Summer-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ114218-2)
+- **Dimensional Fund Advisors** - [Internship in Technology - Software Engineer](https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022)
 - **Northern Trust Asset Management** - [Risk and Compliance Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Risk-and-Compliance-Intern_R160771-1)
 - **Vanguard** - [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1)
 - **BMO Capital Markets** - [Portfolio Assistant, Winter 2027 (Co-op/Internship), Montreal - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Portfolio-Assistant--Winter-2027--Co-op-Internship---Montreal---4-months_R260025949-2)
@@ -175,7 +181,6 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Invesco** - [Early Career Intern - Fixed Income Global Technology](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1)
 - **Northern Trust Asset Management** - [Data & Analytics Office Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1)
 - **Fidelity Investments** - [Fidelity Strategic Advisors Inc, Investment Trading Research Internship](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Intern_2136759-1)
-- **Deutsche Bank** - [CRO - Credit Risk Local Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/CRO---Credit-Risk-Local-Intern_R0452523)
 - **Fidelity Investments** - [Enterprise Infrastructure & Operations Internship](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Galway-Ireland/Enterprise-Infrastructure---Operations-Internship_2137044)
 - **Invesco** - [Early Career Intern - Technology (Distribution)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1)
 - **Invesco** - [Early Career Intern - Technology (Investment)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1)

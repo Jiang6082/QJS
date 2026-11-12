@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T11:29:10.845Z",
+  "updatedAt": "2026-11-12T11:18:10.244Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -5189,6 +5189,30 @@
       "URL": "https://job-boards.greenhouse.io/gsacapital/jobs/8570668002",
       "first_seen": "2026-11-11",
       "date": "2026-05-29",
+      "evidence": "employer_field"
+    },
+    "morningstar|REQ-059194|manager research intern": {
+      "URL": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Hong-Kong/Manager-Research-Intern_REQ-059194",
+      "first_seen": "2026-11-12",
+      "date": "2026-11-12",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8346891": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8346891",
+      "first_seen": "2026-11-12",
+      "date": "2026-11-11",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8356747": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8356747",
+      "first_seen": "2026-11-12",
+      "date": "2026-11-11",
+      "evidence": "employer_field"
+    },
+    "https://job-boards.greenhouse.io/schonfeld/jobs/8244307": {
+      "URL": "https://job-boards.greenhouse.io/schonfeld/jobs/8244307",
+      "first_seen": "2026-11-12",
+      "date": "2026-11-11",
       "evidence": "employer_field"
     }
   }

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-11T11:33:32.726Z",
-  "scanStartedAt": "2026-11-11T11:29:10.845Z",
+  "generatedAt": "2026-11-12T11:22:32.607Z",
+  "scanStartedAt": "2026-11-12T11:18:10.244Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
-    "matching-role-found": 47,
-    "confirmed-no-open-postings": 3,
+    "matching-role-found": 49,
+    "confirmed-no-open-postings": 4,
     "confirmed-openings-no-matching-role": 37,
-    "could-not-fully-verify": 218
+    "could-not-fully-verify": 215
   },
   "companies": [
     {
@@ -90,7 +90,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -144,7 +144,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 151,
+      "jobsSeen": 153,
       "relevantInternships": 0
     },
     {
@@ -172,7 +172,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -301,7 +301,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 51,
+      "jobsSeen": 48,
       "relevantInternships": 3
     },
     {
@@ -443,7 +443,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 24,
+      "jobsSeen": 25,
       "relevantInternships": 13
     },
     {
@@ -779,7 +779,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 169,
+      "jobsSeen": 167,
       "relevantInternships": 9
     },
     {
@@ -848,7 +848,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 5,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -988,7 +988,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 39,
+      "jobsSeen": 38,
       "relevantInternships": 0
     },
     {
@@ -1014,7 +1014,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 197,
+      "jobsSeen": 201,
       "relevantInternships": 15
     },
     {
@@ -1070,8 +1070,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 130,
-      "relevantInternships": 5
+      "jobsSeen": 128,
+      "relevantInternships": 6
     },
     {
       "company": "Domeyard LP",
@@ -1140,7 +1140,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 2,
+      "jobsSeen": 3,
       "relevantInternships": 0
     },
     {
@@ -1300,7 +1300,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 220,
+      "jobsSeen": 218,
       "relevantInternships": 0
     },
     {
@@ -1450,7 +1450,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 42,
+      "jobsSeen": 44,
       "relevantInternships": 3
     },
     {
@@ -2030,7 +2030,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 1,
       "relevantInternships": 0
     },
     {
@@ -2104,7 +2104,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 33,
+      "jobsSeen": 35,
       "relevantInternships": 0
     },
     {
@@ -2134,7 +2134,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 157,
+      "jobsSeen": 156,
       "relevantInternships": 17
     },
     {
@@ -2244,7 +2244,7 @@
       "sourceRosterNames": [
         "Maven Securities"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.mavensecurities.com/careers/",
         "https://www.mavensecurities.com/jobs/",
@@ -2254,8 +2254,8 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 33,
-      "relevantInternships": 0
+      "jobsSeen": 36,
+      "relevantInternships": 2
     },
     {
       "company": "Mercuria Energy Group",
@@ -2311,7 +2311,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantInternships": 0
     },
     {
@@ -2333,11 +2333,15 @@
       "sourceRosterNames": [
         "Nyenburgh"
       ],
-      "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
-      "jobsSeen": 0,
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/warburgpincusllc",
+        "https://job-boards.greenhouse.io/raptortechnologies?error=true",
+        "https://job-boards.greenhouse.io/rxr"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 11,
       "relevantInternships": 0
     },
     {
@@ -2493,8 +2497,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 66,
-      "relevantInternships": 9
+      "jobsSeen": 70,
+      "relevantInternships": 12
     },
     {
       "company": "Silver Valley Management",
@@ -2708,7 +2712,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantInternships": 0
     },
     {
@@ -2816,10 +2820,14 @@
       "sourceRosterNames": [
         "Lone Pine Capital"
       ],
-      "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "status": "confirmed-no-open-postings",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/lonepinecapital",
+        "https://job-boards.greenhouse.io/lonepinecapital/jobs/4926150008",
+        "https://www.wallstreetcareers.com/companies/lone-pine-capital-3637085"
+      ],
+      "livePages": 2,
+      "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3019,7 +3027,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantInternships": 0
     },
     {
@@ -3153,7 +3161,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3266,7 +3274,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 2,
-      "jobsSeen": 38,
+      "jobsSeen": 40,
       "relevantInternships": 1
     },
     {
@@ -3711,7 +3719,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 54,
+      "jobsSeen": 55,
       "relevantInternships": 0
     },
     {
@@ -3769,8 +3777,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
-      "relevantInternships": 1
+      "jobsSeen": 7,
+      "relevantInternships": 0
     },
     {
       "company": "Vitol",
@@ -3783,7 +3791,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 39,
+      "jobsSeen": 37,
       "relevantInternships": 0
     },
     {
@@ -3950,7 +3958,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 44,
+      "jobsSeen": 45,
       "relevantInternships": 11
     },
     {
@@ -4098,7 +4106,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 4,
-      "jobsSeen": 62,
+      "jobsSeen": 61,
       "relevantInternships": 3
     },
     {
@@ -4126,7 +4134,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 11,
+      "jobsSeen": 17,
       "relevantInternships": 3
     },
     {
@@ -4263,7 +4271,7 @@
       "sourceRosterNames": [
         "Morningstar"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://morningstar.wd5.myworkdayjobs.com/morningstar",
         "https://morningstar.wd5.myworkdayjobs.com/Americas/",
@@ -4273,7 +4281,7 @@
       "livePages": 4,
       "attemptedPages": 4,
       "jobsSeen": 92,
-      "relevantInternships": 0
+      "relevantInternships": 1
     },
     {
       "company": "RRS Group",
