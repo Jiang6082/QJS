@@ -1,5 +1,33 @@
 [
   {
+    "Company": "Bracebridge Capital",
+    "Title": "Northeastern University Software Engineer - Application Development Co-op",
+    "Department": "Research",
+    "Location": "Boston, MA",
+    "URL": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005",
+    "Source": "Career page Greenhouse:bracebridgecapital",
+    "Status": "Confirmed official posting",
+    "Notes": "posted=2026-10-19T10:26:29-04:00 | career_page=https://www.bracebridgecapital.com/careers/ | company_wrapper=https://www.bracebridgecapital.com/careers/job?gh_jid=4745001005 | internship timing not stated in title | Bracebridge Capital, LLC is a leading alternative asset manager with approximately $12 billion of net assets under management. The firm pursues investment strategies primarily within the global fixed income markets with the objectives of capital preservation and absolute return without significant correlation to equity, interest rate and foreign exchange markets. Established in 1994, Bracebridge manages private investment funds that serve endowments, foundations, pension funds and other institutional and high-net-worth investors. Approximately 170 employees operate from our office located in Boston’s historic Back Bay. The entrepreneurial and collaborative culture at Bracebri...",
+    "Region": "North America",
+    "lastSeenOpenAt": "2026-11-12T11:18:10.244Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-11-13T10:47:49.085Z"
+  },
+  {
+    "Company": "Connor Clark & Lunn",
+    "Title": "Intern, Investment Analytics Engagement",
+    "Department": "Investment Data Analytics - CCLFG",
+    "Location": "Vancouver, British Columbia, Canada",
+    "URL": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009",
+    "Source": "Career page Greenhouse:cclfg",
+    "Status": "Confirmed official posting",
+    "Notes": "posted=2026-10-23T12:34:31-04:00 | career_page=https://cclfg.cclgroup.com/careers/opportunities/ | company_wrapper=https://cclfg.cclgroup.com/careers/opportunities/job?gh_jid=4464732009 | internship timing not stated in title | Interested in joining one of Canada’s top performing asset managers? CC&L Financial Group is looking for an Intern, Investment Analytics Engagement (“IAE”) to join our Investment Analytics Team for a 4-month term (January-April 2027 ). A dynamic, fast-paced work environment where opportunities for learning and growth are abound . Collaborate with three distinct teams of open-minded and forwarding looking professionals in the Investment Analytics space. You will have the ability to experience first-hand how investment analytics adds value across the Asset Management value chain and make an impact at CC&L through your expertise and analysis in business management. W...",
+    "Region": "North America",
+    "lastSeenOpenAt": "2026-11-12T11:18:10.244Z",
+    "lastSeenEvidence": "recorded_scan",
+    "detectedClosedAt": "2026-11-13T10:47:49.085Z"
+  },
+  {
     "Company": "Balyasny Asset Management",
     "Title": "Quantitative Researcher - Multi-Asset Arbitrage (Summer Internship)",
     "Location": "Greenwich, Boston",

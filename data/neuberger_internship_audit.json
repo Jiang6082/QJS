@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T11:22:45.446Z",
+  "checkedAt": "2026-11-13T10:52:27.931Z",
   "boards": [
     {
       "site": "NBCareers",
@@ -9,17 +9,30 @@
     },
     {
       "site": "PWM",
-      "jobsSeen": 8,
+      "jobsSeen": 9,
       "searchComplete": true,
       "errors": []
     }
   ],
   "roles": [
     {
+      "title": "Intern",
+      "externalPath": "/job/Hong-Kong/Intern_R0012540",
+      "locationsText": "Hong Kong",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "R0012540"
+      ],
+      "URL": "https://nb.wd1.myworkdayjobs.com/NBCareers/job/Hong-Kong/Intern_R0012540",
+      "inQuantScan": false,
+      "talentPool": false,
+      "detailError": null
+    },
+    {
       "title": "プライベート・デット インターン(投資業務+AI活用)/ Private Debt Intern",
       "externalPath": "/job/Tokyo/----AI---Private-Debt-Intern_R0012797",
       "locationsText": "Tokyo",
-      "postedOn": "Posted 6 Days Ago",
+      "postedOn": "Posted 7 Days Ago",
       "bulletFields": [
         "R0012797"
       ],
@@ -32,7 +45,7 @@
       "title": "Private Markets MBA Intern Summer 2027",
       "externalPath": "/job/New-York-NY/Private-Markets-MBA-Intern_R0012787",
       "locationsText": "New York, NY",
-      "postedOn": "Posted 13 Days Ago",
+      "postedOn": "Posted 14 Days Ago",
       "bulletFields": [
         "R0012787"
       ],

@@ -1,4 +1,4 @@
-# Roles posted 2026-10-23 → 2026-11-12 (42 with source posting dates)
+# Roles posted 2026-10-24 → 2026-11-13 (41 with source posting dates)
 
 _Dates come from employer publication fields or dated relative labels. Relative labels have day-level precision; source publication dates can reflect a repost. Internship start dates and edit timestamps are not release dates._
 
@@ -44,6 +44,11 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-11-06** — [2027 Trader Summer Intern (12-week program)](https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002) — Hong Kong Japan
 - **2026-11-06** — [Long/Short Equity Support Research Intern, Hong Kong](https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002) — Hong Kong
 
+## Deutsche Bank (2)
+
+- **2026-11-12** — [Internship Strategy – Private Bank Europe Domestic - Milan (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship-Strategy---Private-Bank-Europe-Domestic---Milan--f-m-x-_R0458292) — Milano Bicocca Calendario 3 _(relative source date)_
+- **2026-11-05** — [Internship Regional Management, Corporate Strategy e Sustainability (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450) — Milano Bicocca Calendario 1 _(relative source date)_
+
 ## Qube Research & Technologies (2)
 
 - **2026-11-02** — [2027 - Internship, HR Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002) — London
@@ -53,11 +58,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 
 - **2026-10-31** — [APAC Research Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Hong-Kong-Office/APAC-Quant-Research-Intern_JR100553) — Hong Kong Office _(relative source date)_
 - **2026-10-31** — [Risk Quant Modeller - Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Hong-Kong-Office/Risk-Quant-Modeller---Intern_JR100472-1) — Hong Kong Office _(relative source date)_
-
-## Goldman Sachs (2)
-
-- **2026-10-30** — [2027 | EMEA | London | Global Investment Research | Macro Research, Economics | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170880) — London, Greater London, England, United Kingdom
-- **2026-10-23** — [2027 | EMEA | Frankfurt | FICC & Equities (Sales & Trading) | Seasonal/OffCycle](https://higher.gs.com/roles/171522) — Frankfurt, Hessen, Germany
 
 ## Morningstar (1)
 
@@ -71,10 +71,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 
 - **2026-11-05** — [Polytechnic Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Polytechnic-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ117480-1) — Singapore - Singapore _(relative source date)_
 
-## Deutsche Bank (1)
-
-- **2026-11-05** — [Internship Regional Management, Corporate Strategy e Sustainability (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450) — Milano Bicocca Calendario 1 _(relative source date)_
-
 ## IMC Financial Markets (1)
 
 - **2026-11-04** — [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) — Chicago, United States
@@ -86,6 +82,10 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 ## Brevan Howard (1)
 
 - **2026-10-30** — [6-Month Internship – Trading, Tel Aviv](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Israel/XMLNAME-6-Month-Internship---Trading--Tel-Aviv_JR101650) — Israel _(relative source date)_
+
+## Goldman Sachs (1)
+
+- **2026-10-30** — [2027 | EMEA | London | Global Investment Research | Macro Research, Economics | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170880) — London, Greater London, England, United Kingdom
 
 ## Balyasny Asset Management (1)
 
@@ -103,15 +103,10 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 
 - **2026-10-25** — [Systematic Fast Trading Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101) — New York
 
-## Connor Clark & Lunn (1)
-
-- **2026-10-23** — [Intern, Investment Analytics Engagement](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009) — Vancouver, British Columbia, Canada
-
-## First seen in this window, source posting date unavailable (4)
+## First seen in this window, source posting date unavailable (3)
 
 _Discovery dates are from the available QJS history._
 
-- **first seen 2026-11-10** — **Jane Street** — [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927083002/) — New York
 - **first seen 2026-11-10** — **Jane Street** — [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927052002/) — London
+- **first seen 2026-11-10** — **Jane Street** — [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927083002/) — New York
 - **first seen 2026-10-29** — **Jane Street** — [Machine Learning Researcher](https://www.janestreet.com/join-jane-street/position/8596771002/) — Hong Kong
-- **first seen 2026-10-23** — **D. E. Shaw** — [Venture Studio (Startup Incubator) Intern (New York) - Summer 2027](https://www.deshaw.com/careers/venture-studio-startup-incubator-intern-new-york-summer-2027-6166) — New York

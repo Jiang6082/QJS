@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T11:18:10.244Z",
+  "updatedAt": "2026-11-13T10:47:49.085Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -5214,6 +5214,12 @@
       "first_seen": "2026-11-12",
       "date": "2026-11-11",
       "evidence": "employer_field"
+    },
+    "db|R0458292|internship strategy – private bank europe domestic - milan (f/m/x)": {
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship-Strategy---Private-Bank-Europe-Domestic---Milan--f-m-x-_R0458292",
+      "first_seen": "2026-11-13",
+      "date": "2026-11-12",
+      "evidence": "employer_relative_label"
     }
   }
 }

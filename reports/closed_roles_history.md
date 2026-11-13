@@ -1,9 +1,14 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 282
-Last updated: 2026-11-12T11:18:10.244Z
+Total closure events recorded: 284
+Last updated: 2026-11-13T10:47:49.085Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-13 (2)
+
+- **Bracebridge Capital** - [Northeastern University Software Engineer - Application Development Co-op](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005) - Boston, MA
+- **Connor Clark & Lunn** - [Intern, Investment Analytics Engagement](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009) - Vancouver, British Columbia, Canada
 
 ### 2026-11-12 (7)
 

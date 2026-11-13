@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-12T11:22:32.607Z",
-  "scanStartedAt": "2026-11-12T11:18:10.244Z",
+  "generatedAt": "2026-11-13T10:52:14.611Z",
+  "scanStartedAt": "2026-11-13T10:47:49.085Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
     "matching-role-found": 49,
     "confirmed-no-open-postings": 4,
-    "confirmed-openings-no-matching-role": 37,
-    "could-not-fully-verify": 215
+    "confirmed-openings-no-matching-role": 36,
+    "could-not-fully-verify": 216
   },
   "companies": [
     {
@@ -21,7 +21,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 38,
+      "jobsSeen": 37,
       "relevantInternships": 8
     },
     {
@@ -144,7 +144,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 153,
+      "jobsSeen": 154,
       "relevantInternships": 0
     },
     {
@@ -187,7 +187,7 @@
       "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 5,
-      "relevantInternships": 2
+      "relevantInternships": 1
     },
     {
       "company": "Caladan",
@@ -369,7 +369,7 @@
       "careerPages": [
         "http://www.armadausa.com/careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -443,7 +443,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 25,
+      "jobsSeen": 26,
       "relevantInternships": 13
     },
     {
@@ -779,7 +779,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 167,
+      "jobsSeen": 168,
       "relevantInternships": 9
     },
     {
@@ -848,7 +848,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 5,
       "relevantInternships": 0
     },
     {
@@ -988,7 +988,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 38,
+      "jobsSeen": 37,
       "relevantInternships": 0
     },
     {
@@ -1008,14 +1008,14 @@
       "sourceRosterNames": [
         "Cubist (Point72)"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://careers.point72.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 201,
-      "relevantInternships": 15
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "DSV Fund",
@@ -1042,7 +1042,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 72,
+      "jobsSeen": 71,
       "relevantInternships": 20
     },
     {
@@ -1070,8 +1070,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 128,
-      "relevantInternships": 6
+      "jobsSeen": 134,
+      "relevantInternships": 7
     },
     {
       "company": "Domeyard LP",
@@ -1256,7 +1256,7 @@
       ],
       "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 81,
+      "jobsSeen": 82,
       "relevantInternships": 4
     },
     {
@@ -1300,7 +1300,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 218,
+      "jobsSeen": 217,
       "relevantInternships": 0
     },
     {
@@ -1682,7 +1682,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 58,
+      "jobsSeen": 59,
       "relevantInternships": 0
     },
     {
@@ -2134,7 +2134,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 156,
+      "jobsSeen": 158,
       "relevantInternships": 17
     },
     {
@@ -3118,10 +3118,14 @@
         "Sovereign Blue Capital"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
-      "jobsSeen": 0,
+      "careerPages": [
+        "https://portcojobs.sovereignscapital.com/jobs",
+        "https://sovereignscapital.com/careers",
+        "https://careers.sovereigncs.com/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 165,
       "relevantInternships": 0
     },
     {
@@ -3274,7 +3278,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 2,
-      "jobsSeen": 40,
+      "jobsSeen": 42,
       "relevantInternships": 1
     },
     {
@@ -3702,7 +3706,7 @@
       "careerPages": [
         "https://www.tidal-energy.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3791,7 +3795,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 37,
+      "jobsSeen": 36,
       "relevantInternships": 0
     },
     {
@@ -4249,7 +4253,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 83,
+      "jobsSeen": 82,
       "relevantInternships": 2
     },
     {

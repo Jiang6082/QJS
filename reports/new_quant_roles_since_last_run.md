@@ -1,11 +1,11 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-11-11T11:29:10.845Z
-Current scan: 2026-11-12T11:18:10.244Z
-Previous rows: 498
-Current rows: 497
-New URLs confirmed in both source passes: 7
-Confirmed no longer present: 7
+Previous scan: 2026-11-12T11:18:10.244Z
+Current scan: 2026-11-13T10:47:49.085Z
+Previous rows: 497
+Current rows: 488
+New URLs confirmed in both source passes: 1
+Confirmed no longer present: 2
 
 ## New Roles By Region
 
@@ -13,18 +13,13 @@ Confirmed no longer present: 7
 
 _None._
 
-### Europe (2)
+### Europe (0)
 
-- **Maven Securities** - [Amsterdam Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591) - Amsterdam - Confirmed official posting (Career page Greenhouse:mavensecuritiesholdingltd): posted=2026-09-01T10:49:24-04:00 | career_page=https://www.mavensecurities.com/jobs/ | company_wrapper=https://www.mavensecurities.com/jobs/job?gh_jid=8048591 | internship timing: Summer | Maven Securities is a leading proprietary trading firm that uses sophisticated technology and quantitative analysis to trade global financial markets. We specialise in options and derivatives market making, where your skills can have a real impact. At Maven, we believe exceptional careers are built deliberately. Our summer internship is designed for a small number of high-potential students each year, combining structured training with practical exposure. We don’t hire large classes expecting only a few to succeed; we invest in every individual who joins the programme. If you would like to be considered for our London Trader Summer Internship, applications will open on 7th September. We can only accept...
-- **Maven Securities** - [London Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970) - London - Confirmed official posting (Career page Greenhouse:mavensecuritiesholdingltd): posted=2026-09-07T11:12:49-04:00 | career_page=https://www.mavensecurities.com/jobs/ | company_wrapper=https://www.mavensecurities.com/jobs/job?gh_jid=7806970 | internship timing: Summer | Maven Securities is a leading proprietary trading firm that uses sophisticated technology and quantitative analysis to trade global financial markets. We specialise in options and derivatives market making, where your skills can have a real impact. At Maven, we believe exceptional careers are built deliberately. Our summer internship is designed for a small number of high-potential students each year, combining structured training with practical exposure. We don’t hire large classes expecting only a few to succeed; we invest in every individual who joins the programme. Programme details Location: London Programme dates: 21st June – 20th August 2027 Key requirements: You must have the right to work in t...
+_None._
 
-### Asia (5)
+### Asia (0)
 
-- **Deutsche Bank** - [CRO - Credit Risk Local Intern](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/CRO---Credit-Risk-Local-Intern_R0452523) - Shanghai Two IFC - Confirmed official posting (Career page Workday:db/DBWebsite): career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Today | R0452523
-- **Morningstar** - [Manager Research Intern](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Hong-Kong/Manager-Research-Intern_REQ-059194) - Hong Kong - Confirmed official posting (Career page Workday:morningstar/morningstar): career_page=https://morningstar.wd5.myworkdayjobs.com/morningstar | Posted Today | REQ-059194
-- **Schonfeld** - [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8346891) - Hong Kong, Hong Kong - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-11-11T11:22:21-05:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8346891 | internship timing not stated in title | The Role We are excited to offer an opportunity for exceptional individuals to join the internship program at Schonfeld. You’ll spend ten weeks with an experienced software engineering team within the Schonfeld Technology division where you will be immersed in the culture and atmosphere of Schonfeld, working alongside talented professionals on high profile projects. Software Engineers at Schonfeld take on a wide range of responsibilities and challenges. They design, develop, deploy and support existing applications as well as new features and platforms. They participate in an Agile framework, continuously improving and expanding platform capabilities. Treasury Technology team : ...
-- **Schonfeld** - [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8356747) - Singapore, Central, Singapore - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-11-11T11:23:39-05:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8356747 | internship timing not stated in title | The Role We are excited to offer an opportunity for exceptional individuals to join the internship program at Schonfeld. You’ll spend ten weeks with an experienced software engineering team within the Schonfeld Technology division where you will be immersed in the culture and atmosphere of Schonfeld, working alongside talented professionals on high profile projects. Software Engineers at Schonfeld take on a wide range of responsibilities and challenges. They design, develop, deploy and support existing applications as well as new features and platforms. They participate in an Agile framework, continuously improving and expanding platform capabilities. The Accounting and Valuatio...
-- **Schonfeld** - [2027 Systematic COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8244307) - Hong Kong, Hong Kong - Confirmed official posting (Career page Greenhouse:schonfeld): posted=2026-11-11T11:20:18-05:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8244307 | internship timing not stated in title | The Role We are looking for a highly motivated Data & Business Analyst Intern to join Schonfeld’s Systematic Strategies COO (SCOO) team. The Systematic business contains many separate investment (PM) teams. Schonfeld oversees these teams’ trading and risk, and supports them with capital, technology, execution, operations, legal, recruiting and general business services (aka the Platform). The SCOO team is the key interface between PM teams and these services. Working within the SCOO team, you will build, enhance, and automate the tools and analytics used by our Platform to make faster data-driven decisions at scale. This internship blends data, technology, and markets: you will ...
+_None._
 
 ### Oceania (0)
 
@@ -46,19 +41,14 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **Deutsche Bank** - [Internship Strategy – Private Bank Europe Domestic - Milan (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship-Strategy---Private-Bank-Europe-Domestic---Milan--f-m-x-_R0458292) - Milano Bicocca Calendario 3 - Confirmed official posting (Career page Workday:db/DBWebsite): career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted Yesterday | R0458292
 
 ## No Longer Present
 
-- **Balyasny Asset Management** - [Quantitative Researcher - Multi-Asset Arbitrage (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Multi-Asset-Arbitrage--Summer-Internship-_REQ8462)
-- **Quantbot Technologies** - [Quantitative Researcher Internship - 2027 [New York]](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009)
-- **Quantbot Technologies** - [Machine Learning Research Engineer Internship - 2027 [New York]](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009)
-- **Quantbot Technologies** - [Quantitative Developer Internship - 2027 [New York]](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009)
-- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/170600)
-- **Goldman Sachs** - [2027 | APEJ | Singapore | FICC and Equities (Sales and Trading) Quantitative Strats | Summer Associate](https://higher.gs.com/roles/170601)
-- **Vatic Investments** - [AI Research Internship (Summer 2027)](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954)
+- **Bracebridge Capital** - [Northeastern University Software Engineer - Application Development Co-op](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005)
+- **Connor Clark & Lunn** - [Intern, Investment Analytics Engagement](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009)
 
 ## Missing but not confirmed closed
 
@@ -155,6 +145,14 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Baillie Gifford** - [Cloud, Infrastructure & Security Summer Internship 2027](https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Cloud--Infrastructure---Security-Summer-Internship-2027_R0004565)
 - **Baillie Gifford** - [Software Engineering & Innovation Summer Internship 2027](https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordEarlyCareers/job/Edinburgh/Software-Engineering---Innovation-Summer-Internship-2027_R0004566)
 - **BlackRock** - [2027 MBA Internship Program - Client & Product Functions - Research & Markets Advisory - New York](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467)
+- **BlackRock** - [2027 Quantitative Masters Internship Program - Investments - Portfolio Management - Atlanta](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470)
+- **BlackRock** - [2027 Quantitative Masters Internship Program - Investments - Portfolio Management - San Francisco](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---San-Francisco_R266472)
+- **BlackRock** - [2027 Quantitative Masters Internship Program - Investments - Quantitative Investing - New York](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---New-York_R266473)
+- **BlackRock** - [2027 Quantitative Masters Internship Program - Investments - Quantitative Investing - San Francisco](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---San-Francisco_R266474)
+- **BlackRock** - [2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional Wealth - Chicago](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475)
+- **BlackRock** - [2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477)
+- **BlackRock** - [2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476)
+- **BlackRock** - [2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465)
 - **Brevan Howard** - [2027 Summer Internship Program – Trading, Geneva](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607)
 - **Morningstar** - [Morningstar Internship Program- Quantitative Research Intern 2027 (Campus)](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027--Campus-_REQ-058465)
 - **PIMCO** - [2027 PhD/MFE Summer Intern – Quantitative Portfolio Management](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830)

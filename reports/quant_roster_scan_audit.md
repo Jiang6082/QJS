@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-11-12T11:18:10.244Z
+Scan started: 2026-11-13T10:47:49.085Z
 Source roster entries: 306
 Canonical companies after aliases: 305
 
@@ -67,7 +67,7 @@ Canonical companies after aliases: 305
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
 | RRS Group | 0/1 pages live | [link](https://jobs.smartrecruiters.com/RRSGroup) |
 
-## Confirmed Openings, No Matching Role (37)
+## Confirmed Openings, No Matching Role (36)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -80,7 +80,6 @@ Canonical companies after aliases: 305
 | Akuna Capital | 2/2 pages live | [link](https://akunacapital.com/careers/) [link](https://job-boards.greenhouse.io/optionstrading201course/jobs/7394582) |
 | Ansatz Capital | 1/1 pages live | [link](https://jobs.lever.co/ansatzcapital?by=location) |
 | Clear Street | 1/1 pages live | [link](https://job-boards.greenhouse.io/clearstreet?gh_src=bdd2c3261) |
-| Cubist | 1/1 pages live | [link](https://careers.point72.com/) |
 | Domeyard LP | 1/1 pages live | [link](https://careers.smartrecruiters.com/DomeyardLP?location=Boston&page=0&search=) |
 | ExodusPoint | 1/1 pages live | [link](https://job-boards.greenhouse.io/exoduspoint) |
 | Eclipse Trading | 1/1 pages live | [link](https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002) |
@@ -109,7 +108,7 @@ Canonical companies after aliases: 305
 | Teza Technologies | 2/2 pages live | [link](https://www.teza.com/careers/) [link](https://jobs.ashbyhq.com/teza-technologies) |
 | Verition Fund Management | 2/3 pages live | [link](https://www.verition.com/careers/) [link](https://www.verition.com/careers) [link](https://www.verition.com/open-positions) |
 
-## Could Not Fully Verify (215)
+## Could Not Fully Verify (216)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -129,7 +128,7 @@ Canonical companies after aliases: 305
 | Accent Groupe | 0/1 pages live | [link](https://www.accentgroupe.com/career) |
 | Algorithmic Trading Group | 1/1 pages live | [link](https://www.algorithmictradinggroup.com/opportunities) |
 | Amber Group | 1/1 pages live | [link](https://www.ambergroup.io/applyJob) |
-| Armada Technologies | 0/1 pages live | [link](http://www.armadausa.com/careers) |
+| Armada Technologies | 1/1 pages live | [link](http://www.armadausa.com/careers) |
 | Automaton Trading LLC | no saved page attempted | none |
 | BP Supply Trading & Shipping | 0/1 pages live | [link](https://www.bp.com/en/global/bp-supply-trading-and-shipping/careers.html) |
 | BlockTech | 1/1 pages live | [link](https://www.block-tech.io/careers) |
@@ -164,6 +163,7 @@ Canonical companies after aliases: 305
 | Capstone | 3/3 pages live | [link](https://capstonedc.com/about/careers/) [link](https://www.capstone.jobs/) [link](https://capstonedc.wd501.myworkdayjobs.com/Capstone) |
 | Chengdu ZhaoYu Investment | no saved page attempted | none |
 | Cor Capital | no saved page attempted | none |
+| Cubist | 0/1 pages live | [link](https://careers.point72.com/) |
 | DSV Fund | 1/1 pages live | [link](https://www.dsv.com/en/careers) |
 | Danske Commodities | 1/1 pages live | [link](https://danskecommodities.com/join-us) |
 | Eagle Seven | 1/1 pages live | [link](https://www.eagleseven.com/) |
@@ -272,7 +272,7 @@ Canonical companies after aliases: 305
 | SQM Technologies | 1/1 pages live | [link](https://sqmtechnologies.com/careers) |
 | Sarpen Quant Investments | no saved page attempted | none |
 | Seven Eight Capital | 0/1 pages live | [link](https://www.seveneightcapital.com/join-us) |
-| Sovereign Blue Capital | no saved page attempted | none |
+| Sovereign Blue Capital | 3/3 pages live | [link](https://portcojobs.sovereignscapital.com/jobs) [link](https://sovereignscapital.com/careers) [link](https://careers.sovereigncs.com/) |
 | Los Angeles Capital Management | 1/1 pages live | [link](https://lacapm.com/careers) |
 | Market Wizards | 1/1 pages live | [link](https://marketwizards.com/careers/) |
 | Matrix Executions | 0/1 pages live | [link](https://matrixexecutions.com/careers/) |
@@ -305,7 +305,7 @@ Canonical companies after aliases: 305
 | Stronghold Capital Management | 0/1 pages live | [link](https://www.stronghold.capital/) |
 | TCI Fund Management | 1/1 pages live | [link](https://careers.tcitransportation.com/) |
 | Teesta Investment | 1/1 pages live | [link](https://teesta.co/join-us) |
-| Tidal Energy Marketing | 1/1 pages live | [link](https://www.tidal-energy.com/careers) |
+| Tidal Energy Marketing | 0/1 pages live | [link](https://www.tidal-energy.com/careers) |
 | Trafigura | 1/1 pages live | [link](https://www.trafigura.com/careers/) |
 | UTR8 Group | 0/1 pages live | [link](https://utr8-group.com/careers/) |
 | VICI Holdings | no saved page attempted | none |
