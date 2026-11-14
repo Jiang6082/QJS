@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T10:47:49.085Z",
+  "updatedAt": "2026-11-14T15:44:45.557Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -5220,6 +5220,18 @@
       "first_seen": "2026-11-13",
       "date": "2026-11-12",
       "evidence": "employer_relative_label"
+    },
+    "capgroup|JR7798|campus global technology summer associate (2027)": {
+      "URL": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798",
+      "first_seen": "2026-11-14",
+      "date": "2026-11-13",
+      "evidence": "employer_relative_label"
+    },
+    "https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002": {
+      "URL": "https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002",
+      "first_seen": "2026-11-14",
+      "date": "2026-11-13",
+      "evidence": "employer_field"
     }
   }
 }

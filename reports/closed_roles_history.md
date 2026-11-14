@@ -1,9 +1,15 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 284
-Last updated: 2026-11-13T10:47:49.085Z
+Total closure events recorded: 287
+Last updated: 2026-11-14T15:44:45.557Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-14 (3)
+
+- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4410729009) - Vancouver, British Columbia, Canada
+- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410729009) - Vancouver, British Columbia, Canada
+- **Qube Research & Technologies** - [2027 Internship - Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) - New York, Chicago
 
 ### 2026-11-13 (2)
 

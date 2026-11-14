@@ -2,9 +2,9 @@
 
 Automated scan of quant, trading, research, strategy, and engineering internships across a **300+ firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-11-13 &nbsp;•&nbsp; **488 open roles** &nbsp;•&nbsp; **0 released today** &nbsp;•&nbsp; **41 opened in 3 weeks** &nbsp;•&nbsp; **284 closure events** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-11-14 &nbsp;•&nbsp; **483 open roles** &nbsp;•&nbsp; **0 released today** &nbsp;•&nbsp; **42 opened in 3 weeks** &nbsp;•&nbsp; **287 closure events** ([history](reports/closed_roles_history.md))
 
-> **Cumulative application queue:** [580 unique roles tracked; 339 active](reports/cumulative_application_roles.md)
+> **Cumulative application queue:** [582 unique roles tracked; 334 active](reports/cumulative_application_roles.md)
 
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [🔥 Opened in the Last 3 Weeks](#-opened-in-the-last-3-weeks) · [📚 Cumulative Application Queue](reports/cumulative_application_roles.md) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
@@ -12,15 +12,23 @@ Automated scan of quant, trading, research, strategy, and engineering internship
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-11-13_
+_Scan date: 2026-11-14_
 
-_No currently open roles have a confirmed source release date of 2026-11-13._
+_No currently open roles have a confirmed source release date of 2026-11-14._
 
 ---
 
 ## 🔥 Opened in the Last 3 Weeks
 
-_Official-source posting dates from 2026-10-24 through 2026-11-13. Only roles that are still present in the current scan are shown._
+_Official-source posting dates from 2026-10-25 through 2026-11-14. Only roles that are still present in the current scan are shown._
+
+<details>
+<summary><strong>2026-11-13</strong> — 2 roles</summary>
+
+- **Capital Group** — [CAMPUS Global Technology Summer Associate (2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798) — Irvine
+- **ExodusPoint** — [Quantitative Internship – Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) — Hong Kong
+
+</details>
 
 <details>
 <summary><strong>2026-11-12</strong> — 2 roles</summary>
@@ -145,10 +153,9 @@ _Official-source posting dates from 2026-10-24 through 2026-11-13. Only roles th
 </details>
 
 <details>
-<summary><strong>2026-10-26</strong> — 2 roles</summary>
+<summary><strong>2026-10-26</strong> — 1 role</summary>
 
 - **PIMCO** — [2027 PhD/MFE Summer Intern – Quantitative Portfolio Manager](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) — Newport Beach, CA USA
-- **Qube Research & Technologies** — [2027 Internship - Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) — New York, Chicago
 
 </details>
 
@@ -163,7 +170,7 @@ _Official-source posting dates from 2026-10-24 through 2026-11-13. Only roles th
 
 ### Newly surfaced, source date unavailable
 
-_These 3 roles first appeared in QJS during the window, but the employer does not publish a posting date. They are not included in the 41 confirmed-release count._
+_These 3 roles first appeared in QJS during the window, but the employer does not publish a posting date. They are not included in the 42 confirmed-release count._
 
 - **First seen 2026-11-10** — **Jane Street** — [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927052002/) — London
 - **First seen 2026-11-10** — **Jane Street** — [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927083002/) — New York
@@ -173,16 +180,16 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 
 ## 📋 All Roles Available
 
-**488** open internship roles detected in the latest source pass, grouped by region. Click a title to open the official posting.
+**483** open internship roles detected in the latest source pass, grouped by region. Click a title to open the official posting.
 
-**134** previously seen roles could not be confirmed open or closed. See [guarded absences](reports/new_quant_roles_since_last_run.md#missing-but-not-confirmed-closed).
+**138** previously seen roles could not be confirmed open or closed. See [guarded absences](reports/new_quant_roles_since_last_run.md#missing-but-not-confirmed-closed).
 
-**Regions:** [North America (225)](#north-america) · [Europe (115)](#europe) · [Asia (108)](#asia) · [Oceania (3)](#oceania) · [Middle East (4)](#middle-east) · [Global / Multiple Regions (17)](#global--multiple-regions) · [Remote / Unspecified (16)](#remote--unspecified)
+**Regions:** [North America (219)](#north-america) · [Europe (114)](#europe) · [Asia (109)](#asia) · [Oceania (3)](#oceania) · [Middle East (4)](#middle-east) · [Global / Multiple Regions (17)](#global--multiple-regions) · [Remote / Unspecified (17)](#remote--unspecified)
 
 ### North America
 
 <details>
-<summary><strong>225 roles</strong> — click to expand</summary>
+<summary><strong>219 roles</strong> — click to expand</summary>
 
 - **Akuna** — [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) — Chicago, IL
 - **Akuna** — [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) — Chicago, IL
@@ -207,9 +214,6 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 - **Barclays** — [Trading Analyst Summer Internship Program 2027 Mexico City](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mexico-City-Avenida-Paseo-de-la-Reforma-505/Trading-Analyst-Summer-Internship-Program-2027-Mexico-City_JR-0000134430) — Mexico City, Avenida Paseo de la Reforma 505
 - **Belvedere Trading** — [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) — Chicago, Illinois
 - **Belvedere Trading** — [Quantitative Trading Intern - Winter Quarter 2027](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) — Chicago, Illinois
-- **BlackRock** — [2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468) — New York, NY
-- **BlackRock** — [2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469) — San Francisco, CA
-- **BlackRock** — [2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471) — New York, NY
 - **BMO Capital Markets** — [BMO Capital Markets Quantitative Trading Analyst – 12–16 Month Co-op](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) — Toronto, ON, CAN
 - **BMO Capital Markets** — [Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) — Toronto, ON, CAN
 - **BMO Capital Markets** — [Treasury & Payment Solutions Strategy Intern, Summer 2027 (10 weeks)](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397) — Chicago, IL, USA
@@ -225,8 +229,6 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 - **Chicago Trading Company** — [Quant Trading Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) — Chicago, Illinois, United States
 - **Chicago Trading Company** — [Software Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) — Chicago, Illinois, United States
 - **Connor Clark & Lunn** — [Intern, Retail Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410741009) — Toronto, Ontario, Canada
-- **Connor Clark & Lunn** — [Intern, Retail Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410729009) — Vancouver, British Columbia, Canada
-- **Connor Clark & Lunn** — [Intern, Retail Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4410729009) — Vancouver, British Columbia, Canada
 - **Connor Clark & Lunn** — [Intern, Retail Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4410741009) — Toronto, Ontario, Canada
 - **D. E. Shaw** — [Proprietary Trading Intern (New York) – Summer 2027](https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2027-5731) — New York
 - **D. E. Shaw** — [Quantitative Analyst Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) — New York
@@ -350,7 +352,6 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 - **Point72** — [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002) — New York
 - **Point72** — [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) — New York
 - **Point72** — [Summer 2027 Quantitative Research Internship](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) — New York
-- **Qube Research & Technologies** — [2027 Internship - Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) — New York, Chicago
 - **Radix Trading** — [Quantitative Technologist (C++ Intern)](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) — Chicago
 - **Schonfeld** — [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) — New York, New York, United States
 - **Schonfeld** — [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) — New York, New York, United States
@@ -415,7 +416,7 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 ### Europe
 
 <details>
-<summary><strong>115 roles</strong> — click to expand</summary>
+<summary><strong>114 roles</strong> — click to expand</summary>
 
 - **Balyasny Asset Management** — [Quantitative Analyst - Macro & Commodities Investment Teams (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Macro---Commodities-Investment-Teams--Summer-Internship-_REQ8477) — London
 - **Balyasny Asset Management** — [Quantitative Developer - Commodities Investment Team (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Developer---Commodities-Investment-Team--Summer-Internship-_REQ8749) — London
@@ -502,7 +503,6 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 - **Optiver** — [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002) — Amsterdam, North Holland, Netherlands
 - **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) — Amsterdam, North Holland, Netherlands
 - **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) — London, England, United Kingdom
-- **PGIM** — [PGIM \| Intern, Real Estate Private Equity Portfolio Management (all genders) as of Q1 2027, Based in Frankfurt](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1) — Frankfurt, Germany
 - **PIMCO** — [2027 MBA Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805) — London, GBR
 - **PIMCO** — [2027 Summer Intern - Client Solutions & Analytics Quantitative Research Analyst (MFE), London](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804) — London, GBR
 - **Quantbot Technologies** — [Quantitative Researcher Internship - 2027 [London]](https://www.quantbot.com/careers/4299863009?gh_jid=4299863009) — London
@@ -538,7 +538,7 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 ### Asia
 
 <details>
-<summary><strong>108 roles</strong> — click to expand</summary>
+<summary><strong>109 roles</strong> — click to expand</summary>
 
 - **AXQ Capital** — [「启元计划」2027 暑期实习｜量化开发实习生](https://job-boards.greenhouse.io/axq/jobs/5745501004) — Beijing
 - **AXQ Capital** — [「启元计划」2027 暑期实习｜量化研究实习生](https://job-boards.greenhouse.io/axq/jobs/5636192004) — Shanghai
@@ -560,6 +560,7 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 - **DV Trading** — [Quantitative Trading Intern (DV QES)](https://job-boards.greenhouse.io/dvtrading/jobs/4691295005) — Hong Kong
 - **Engineers Gate** — [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/7946542) — Hong Kong
 - **Engineers Gate** — [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8328653) — Singapore
+- **ExodusPoint** — [Quantitative Internship – Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) — Hong Kong
 - **Flow Traders** — [Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8102618) — Hong Kong
 - **Goldman Sachs** — [2027 \| APEJ \| Hong Kong \| Global Investment Research, Consumer \| Seasonal / Off-cycle Internship](https://higher.gs.com/roles/179947) — Hong Kong, Hong Kong
 - **Goldman Sachs** — [2027 \| APEJ \| Hong Kong \| Global Investment Research, Macro Research, Economics \| Seasonal / Off-cycle Internship](https://higher.gs.com/roles/180086) — Hong Kong, Hong Kong
@@ -702,7 +703,7 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 ### Remote / Unspecified
 
 <details>
-<summary><strong>16 roles</strong> — click to expand</summary>
+<summary><strong>17 roles</strong> — click to expand</summary>
 
 - **Balyasny Asset Management** — [Software Engineer – Physical Commodities Teams (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Software-Engineer---Physical-Commodities-Teams--Summer-Internship-_REQ8596) — Aalborg
 - **Barclays** — [2027 Customer and Digital - Data and Analytics Summer Internship Programme London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280) — Canary Wharf, 1 Churchill Place
@@ -711,6 +712,7 @@ _These 3 roles first appeared in QJS during the window, but the employer does no
 - **Barclays** — [Quantitative Finance Associate Off Cycle Internship Programme 2027 London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685) — Canary Wharf, 1 Churchill Place
 - **Barclays** — [Sales, Trading and Structuring Off Cycle Internship Programme 2027 London](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-London_JR-0000124716) — Canary Wharf, 1 Churchill Place
 - **BMO Capital Markets** — [R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726) — Brossard, QC, CAN
+- **Capital Group** — [CAMPUS Global Technology Summer Associate (2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798) — Irvine
 - **Deutsche Bank** — [Internship Regional Management, Corporate Strategy e Sustainability (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450) — Milano Bicocca Calendario 1
 - **Deutsche Bank** — [Internship Strategy – Private Bank Europe Domestic - Milan (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship-Strategy---Private-Bank-Europe-Domestic---Milan--f-m-x-_R0458292) — Milano Bicocca Calendario 3
 - **Dimensional Fund Advisors** — [Internship in Investment/Strategy Research (Undergraduate & Master's)](https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Investment-Strategy-Research--Undergraduate-and-Masters-_2026-9037) — 2 Locations
@@ -772,7 +774,7 @@ Publishing stages generated artifacts only, refuses unrelated staged files, vali
 | [reports/current_quant_roles_not_in_tracker.md](reports/current_quant_roles_not_in_tracker.md) | Current roles absent from the older application tracker |
 | [reports/quant_roster_scan_audit.md](reports/quant_roster_scan_audit.md) | 303-firm roster split into confirmed vs. unverifiable states |
 | [reports/scan_validation.md](reports/scan_validation.md) | Portable baseline delta and integrity checks for the latest refresh |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (284 closure events recorded) |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed/come down, grouped by date detected (287 closure events recorded) |
 | [data/stable_quant_roles.json](data/stable_quant_roles.json) | Cross-device confirmed-present state for the two-scan closure guard |
 | [inputs/company_career_pages.json](inputs/company_career_pages.json) | Seeded career-page database |
 | [inputs/quant_firm_roster.json](inputs/quant_firm_roster.json) | Complete 303-entry firm list + canonical aliases |

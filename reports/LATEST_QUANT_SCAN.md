@@ -1,18 +1,18 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-11-13T10:47:49.085Z
+Last updated: 2026-11-14T15:44:45.557Z
 
 ## Summary
 
 - Companies searched: 370
-- Career pages checked: 525
-- Current retained roles: 488
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 2
-- Missing without enough closure evidence: 134
-- Matching-role firms: 49
+- Career pages checked: 528
+- Current retained roles: 483
+- New stable job URLs since previous scan: 2
+- No longer present since previous scan: 3
+- Missing without enough closure evidence: 138
+- Matching-role firms: 50
 - Confirmed no open postings: 4
-- Openings but no matching role: 36
+- Openings but no matching role: 35
 - Could not fully verify: 216
 
 ## New Roles Since Previous Scan
@@ -25,9 +25,9 @@ _None._
 
 _None._
 
-### Asia (0)
+### Asia (1)
 
-_None._
+- **ExodusPoint** - [Quantitative Internship – Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) - Hong Kong
 
 ### Oceania (0)
 
@@ -51,12 +51,13 @@ _None._
 
 ### Remote / Unspecified (1)
 
-- **Deutsche Bank** - [Internship Strategy – Private Bank Europe Domestic - Milan (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship-Strategy---Private-Bank-Europe-Domestic---Milan--f-m-x-_R0458292) - Milano Bicocca Calendario 3
+- **Capital Group** - [CAMPUS Global Technology Summer Associate (2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798) - Irvine
 
 ## No Longer Present
 
-- **Bracebridge Capital** - [Northeastern University Software Engineer - Application Development Co-op](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005) - Boston, MA
-- **Connor Clark & Lunn** - [Intern, Investment Analytics Engagement](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009) - Vancouver, British Columbia, Canada
+- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4410729009) - Vancouver, British Columbia, Canada
+- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410729009) - Vancouver, British Columbia, Canada
+- **Qube Research & Technologies** - [2027 Internship - Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) - New York, Chicago
 
 ## Full Reports
 

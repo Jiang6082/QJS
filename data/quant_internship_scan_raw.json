@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-13T10:47:15.279Z",
+  "scannedAt": "2026-11-14T15:44:34.217Z",
   "results": [
     {
       "company": "Jane Street",
@@ -246,7 +246,6 @@
         "https://jobs.ashbyhq.com/jane/d8f9e422-d54d-4e39-b497-730f6e63b700",
         "https://jobs.ashbyhq.com/jane/82e368a0-1699-4a4c-acc0-512f8a11cc81",
         "https://jobs.ashbyhq.com/jane/325082ad-699b-4d0f-b023-bec1c545b254",
-        "https://jobs.ashbyhq.com/jane/1513926f-ccc8-426d-b27d-b8f14fbc74e0",
         "https://jobs.ashbyhq.com/jane/503ccc1f-0c54-48fa-b7a5-dfe0edb452eb",
         "https://jobs.ashbyhq.com/jane/109111ac-3e95-4fb2-b997-5578495e6c52",
         "https://jobs.ashbyhq.com/jane/e70c917f-ceb8-4c3c-aa05-c9db657e7015",
@@ -258,7 +257,8 @@
         "https://jobs.ashbyhq.com/jane/c4830928-9ce2-4da8-8028-d5809ec6ef1d",
         "https://jobs.ashbyhq.com/jane/8daf427b-a2ea-475f-94a8-6fab3dabc68b",
         "https://jobs.ashbyhq.com/jane/9b014b5d-42bc-4b51-b2f2-e21530f1de40",
-        "https://jobs.ashbyhq.com/jane/debca84c-7196-405e-8237-c725015b6ffa"
+        "https://jobs.ashbyhq.com/jane/debca84c-7196-405e-8237-c725015b6ffa",
+        "https://jobs.ashbyhq.com/jane/cabb4ba5-740c-41ca-b1d4-846e8f377868"
       ]
     },
     {
@@ -615,7 +615,7 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 82
+          "count": 83
         },
         {
           "source": "Ashby:hrt",
@@ -667,9 +667,9 @@
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8300578",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8234195",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8158152",
+        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212181",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8179032",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7843354",
-        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212181",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8268234",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8047119",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8214274",
@@ -698,13 +698,14 @@
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8170975",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8046074",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8122406",
+        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8386216",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8214790",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8214550",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7958945",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8068289",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7564973",
-        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8020012",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7407294",
+        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8020012",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=3903145",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7997989",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8259961",
@@ -721,8 +722,8 @@
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7938792",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7392942",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122",
-        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703954",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7566004",
+        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703954",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703952",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7610947",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083",
@@ -1126,7 +1127,7 @@
       "boards": [
         {
           "source": "Greenhouse:bridgewater89",
-          "count": 19
+          "count": 18
         }
       ],
       "matches": [],
@@ -1148,7 +1149,6 @@
         "https://job-boards.greenhouse.io/bridgewater89/jobs/8925104002",
         "https://job-boards.greenhouse.io/bridgewater89/jobs/8544223002",
         "https://job-boards.greenhouse.io/bridgewater89/jobs/8632073002",
-        "https://job-boards.greenhouse.io/bridgewater89/jobs/8790762002",
         "https://job-boards.greenhouse.io/bridgewater89/jobs/8750718002"
       ]
     },
@@ -1163,12 +1163,11 @@
       "boards": [
         {
           "source": "Lever:capital",
-          "count": 50
+          "count": 49
         }
       ],
       "matches": [],
       "observedUrls": [
-        "https://jobs.lever.co/capital/9f5ca392-1928-4393-83ff-c1371c9a1903",
         "https://jobs.lever.co/capital/9726b1f7-d360-4f21-889f-d71acd0b039c",
         "https://jobs.lever.co/capital/7c3b22e2-7931-4e43-b47a-033d9492f167",
         "https://jobs.lever.co/capital/55a9dc54-e456-4c88-be89-b0905d0d8d31",
@@ -1209,7 +1208,6 @@
         "https://jobs.lever.co/capital/432e00b7-754a-40e8-a640-316c44da26af",
         "https://jobs.lever.co/capital/d59027b2-57d3-4c91-8d45-113a7244822a",
         "https://jobs.lever.co/capital/45ee4df6-4a5f-4252-bca4-f8a863987dba",
-        "https://jobs.lever.co/capital/2da604ff-3d58-4c89-a23f-6637fc397214",
         "https://jobs.lever.co/capital/cb52b0e8-2ab9-41b3-be8b-0a1b543e87b8",
         "https://jobs.lever.co/capital/ee3ea69e-1b21-42fd-a778-95ddf9ddf382",
         "https://jobs.lever.co/capital/c3c5fe72-aad8-4102-9017-6199f7efb113",
@@ -1217,6 +1215,7 @@
         "https://jobs.lever.co/capital/e11ee61e-0f9e-480b-afa2-56b2d9ab3dce",
         "https://jobs.lever.co/capital/7d55e200-12eb-4750-8999-e51243ae13ce",
         "https://jobs.lever.co/capital/63e98bb8-5b00-4bf6-aeec-5febbc45f58a",
+        "https://jobs.lever.co/capital/308ca1fa-5c97-44ec-876f-73839a827348",
         "https://jobs.lever.co/capital/0fe5e217-e390-4475-a836-6fab442d96f7"
       ]
     },
@@ -1225,12 +1224,11 @@
       "boards": [
         {
           "source": "Lever:capital",
-          "count": 50
+          "count": 49
         }
       ],
       "matches": [],
       "observedUrls": [
-        "https://jobs.lever.co/capital/9f5ca392-1928-4393-83ff-c1371c9a1903",
         "https://jobs.lever.co/capital/9726b1f7-d360-4f21-889f-d71acd0b039c",
         "https://jobs.lever.co/capital/7c3b22e2-7931-4e43-b47a-033d9492f167",
         "https://jobs.lever.co/capital/55a9dc54-e456-4c88-be89-b0905d0d8d31",
@@ -1271,7 +1269,6 @@
         "https://jobs.lever.co/capital/432e00b7-754a-40e8-a640-316c44da26af",
         "https://jobs.lever.co/capital/d59027b2-57d3-4c91-8d45-113a7244822a",
         "https://jobs.lever.co/capital/45ee4df6-4a5f-4252-bca4-f8a863987dba",
-        "https://jobs.lever.co/capital/2da604ff-3d58-4c89-a23f-6637fc397214",
         "https://jobs.lever.co/capital/cb52b0e8-2ab9-41b3-be8b-0a1b543e87b8",
         "https://jobs.lever.co/capital/ee3ea69e-1b21-42fd-a778-95ddf9ddf382",
         "https://jobs.lever.co/capital/c3c5fe72-aad8-4102-9017-6199f7efb113",
@@ -1279,6 +1276,7 @@
         "https://jobs.lever.co/capital/e11ee61e-0f9e-480b-afa2-56b2d9ab3dce",
         "https://jobs.lever.co/capital/7d55e200-12eb-4750-8999-e51243ae13ce",
         "https://jobs.lever.co/capital/63e98bb8-5b00-4bf6-aeec-5febbc45f58a",
+        "https://jobs.lever.co/capital/308ca1fa-5c97-44ec-876f-73839a827348",
         "https://jobs.lever.co/capital/0fe5e217-e390-4475-a836-6fab442d96f7"
       ]
     },
@@ -1330,10 +1328,10 @@
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4662226005",
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4575948005",
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4624603005",
-        "https://job-boards.greenhouse.io/chicagotrading/jobs/4564801005",
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4726246005",
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4729424005",
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4663497005",
+        "https://job-boards.greenhouse.io/chicagotrading/jobs/4564801005",
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4667931005",
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4709585005",
         "https://job-boards.greenhouse.io/chicagotrading/jobs/4722753005",
@@ -1794,13 +1792,25 @@
       "boards": [
         {
           "source": "Greenhouse:exoduspoint",
-          "count": 3
+          "count": 4
         }
       ],
-      "matches": [],
+      "matches": [
+        {
+          "company": "ExodusPoint",
+          "source": "Greenhouse:exoduspoint",
+          "title": "Quantitative Internship – Hong Kong",
+          "department": "Fixed Income PM Teams",
+          "location": "Hong Kong",
+          "url": "https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002",
+          "content": "ABOUT EXODUSPOINT ExodusPoint Capital , founded in 2017 by Michael Gelband, began managing investor capital in 2018. The firm employs a global multi-strategy investment approach, seeking to deliver compelling asymmetric returns by combining complementary liquid strategies managed by experienced investment professionals within a robust risk framework. ExodusPoint brings together an accomplished team with hands-on experience running multi-manager businesses to create an institutional investment management firm. Quantitative Research Intern – Systematic FICC - Hong Kong About the Team The Systematic Rates team researches and runs fully systematic, data-driven strategies in global interest FICC markets. We combine solid statistics, careful engineering and a good feel for how markets work to build and improve systematic trading strategies. The Role You'll work closely with the portfolio manager. You'll do hands-on research and development across the whole strategy process, and you'll own real projects with real impact, not side tasks. Responsibilities Research, prototype and backtest systematic strategies across FICC products such as swaps and foreign exchange. Build and maintain production pipelines, research tools and analytics libraries. Run statistical analysis on market data: signal research, factor analysis, regime analysis, and transaction cost and capacity studies. Help monitor and analyse the performance and risk of live strategies. Write clean, tested, well-documented code that the team can rely on and reuse. Requirements Strong coding skills. &nbsp;You're proficient in Python (or a similar language). You can design, write, debug and explain your own code. We expect real engineering ability, not just prompting AI tools for code you can't reason about. Strong math and statistics. &nbsp;You're comfortable with probability, linear algebra, regression and time-series analysis. Basic knowledge of financial instruments. &nbsp;You understand FICC market at a foundational level, and you're keen to learn more. Nice to Have Experience on a fixed income or rates desk (trading, research or strategy). This is a plus, not a requirement. Experience with pandas, NumPy, SciPy, statsmodels or similar, plus SQL and version control (Git). Experience with backtesting frameworks, or with large and messy financial datasets. Availability Start date is as soon as possible. Full-time placement preferred for a season (e.g., an off-cycle). Duration will be 3 - 6 months in our Hong Kong office Part-time candidates can be considered who can commit to at least 4 days a week. &nbsp;",
+          "postedAt": "2026-11-13T16:13:38-05:00"
+        }
+      ],
       "observedUrls": [
         "https://job-boards.greenhouse.io/exoduspoint/jobs/7460797002",
         "https://job-boards.greenhouse.io/exoduspoint/jobs/6160836002",
+        "https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002",
         "https://job-boards.greenhouse.io/exoduspoint/jobs/8938482002"
       ]
     },
@@ -1944,17 +1954,17 @@
       "observedUrls": [
         "https://job-boards.greenhouse.io/gelbergroup/jobs/4724799006",
         "https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006",
+        "https://job-boards.greenhouse.io/gelbergroup/jobs/4726050006",
         "https://job-boards.greenhouse.io/gelbergroup/jobs/4724666006",
         "https://job-boards.greenhouse.io/gelbergroup/jobs/4692660006",
         "https://job-boards.greenhouse.io/gelbergroup/jobs/4692667006",
         "https://job-boards.greenhouse.io/gelbergroup/jobs/4684317006",
-        "https://job-boards.greenhouse.io/gelbergroup/jobs/4718132006",
         "https://job-boards.greenhouse.io/gelbergroup/jobs/4718151006",
-        "https://job-boards.greenhouse.io/gelbergroup/jobs/4683960006",
-        "https://job-boards.greenhouse.io/gelbergroup/jobs/4722059006",
+        "https://job-boards.greenhouse.io/gelbergroup/jobs/4718132006",
         "https://job-boards.greenhouse.io/gelbergroup/jobs/4722073006",
-        "https://job-boards.greenhouse.io/gelbergroup/jobs/4721140006",
-        "https://job-boards.greenhouse.io/gelbergroup/jobs/4726050006"
+        "https://job-boards.greenhouse.io/gelbergroup/jobs/4722059006",
+        "https://job-boards.greenhouse.io/gelbergroup/jobs/4683960006",
+        "https://job-boards.greenhouse.io/gelbergroup/jobs/4721140006"
       ]
     },
     {
@@ -2088,7 +2098,7 @@
       "boards": [
         {
           "source": "Greenhouse:gsacapital",
-          "count": 13
+          "count": 12
         }
       ],
       "matches": [
@@ -2122,7 +2132,6 @@
         "https://job-boards.greenhouse.io/gsacapital/jobs/4010431002",
         "https://job-boards.greenhouse.io/gsacapital/jobs/8119016002",
         "https://job-boards.greenhouse.io/gsacapital/jobs/8570661002",
-        "https://job-boards.greenhouse.io/gsacapital/jobs/8871056002",
         "https://job-boards.greenhouse.io/gsacapital/jobs/8931606002",
         "https://job-boards.greenhouse.io/gsacapital/jobs/7555839002",
         "https://job-boards.greenhouse.io/gsacapital/jobs/8570668002",
@@ -2158,7 +2167,7 @@
       "boards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 82
+          "count": 83
         },
         {
           "source": "Ashby:hrt",
@@ -2210,9 +2219,9 @@
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8300578",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8234195",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8158152",
+        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212181",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8179032",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7843354",
-        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212181",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8268234",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8047119",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8214274",
@@ -2241,13 +2250,14 @@
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8170975",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8046074",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8122406",
+        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8386216",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8214790",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8214550",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7958945",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8068289",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7564973",
-        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8020012",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7407294",
+        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8020012",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=3903145",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7997989",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8259961",
@@ -2264,8 +2274,8 @@
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7938792",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7392942",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122",
-        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703954",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7566004",
+        "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703954",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703952",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7610947",
         "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083",
@@ -2287,7 +2297,7 @@
       "boards": [
         {
           "source": "Greenhouse:imc",
-          "count": 158
+          "count": 156
         }
       ],
       "matches": [
@@ -2448,7 +2458,6 @@
         "https://job-boards.eu.greenhouse.io/imc/jobs/4974924101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4787218101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4874970101",
-        "https://job-boards.eu.greenhouse.io/imc/jobs/4895334101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4918970101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4696446101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4983674101",
@@ -2461,15 +2470,15 @@
         "https://job-boards.eu.greenhouse.io/imc/jobs/4845173101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4637267101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4673650101",
-        "https://job-boards.eu.greenhouse.io/imc/jobs/4983375101",
-        "https://job-boards.eu.greenhouse.io/imc/jobs/4931100101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4760871101",
+        "https://job-boards.eu.greenhouse.io/imc/jobs/4931100101",
+        "https://job-boards.eu.greenhouse.io/imc/jobs/4983375101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4954088101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4439297101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4945646101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4826897101",
-        "https://job-boards.eu.greenhouse.io/imc/jobs/4699252101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4785804101",
+        "https://job-boards.eu.greenhouse.io/imc/jobs/4699252101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4956547101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
@@ -2486,14 +2495,14 @@
         "https://job-boards.eu.greenhouse.io/imc/jobs/4912325101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/5035003101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4667814101",
-        "https://job-boards.eu.greenhouse.io/imc/jobs/4900419101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4871352101",
+        "https://job-boards.eu.greenhouse.io/imc/jobs/4900419101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4713602101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4975945101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/5001336101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4679983101",
-        "https://job-boards.eu.greenhouse.io/imc/jobs/4945645101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/5028882101",
+        "https://job-boards.eu.greenhouse.io/imc/jobs/4945645101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4573232101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4840228101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4959853101",
@@ -2509,8 +2518,8 @@
         "https://job-boards.eu.greenhouse.io/imc/jobs/4986762101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/5001335101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4947993101",
-        "https://job-boards.eu.greenhouse.io/imc/jobs/4908869101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4567047101",
+        "https://job-boards.eu.greenhouse.io/imc/jobs/4908869101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4430785101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4913831101",
@@ -2532,7 +2541,6 @@
         "https://job-boards.eu.greenhouse.io/imc/jobs/4630983101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4356914101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4874399101",
-        "https://job-boards.eu.greenhouse.io/imc/jobs/4987748101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4983672101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4660792101",
         "https://job-boards.eu.greenhouse.io/imc/jobs/4588833101",
@@ -3033,7 +3041,7 @@
       "boards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 67
+          "count": 66
         }
       ],
       "matches": [
@@ -3065,8 +3073,6 @@
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/5008666101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4956063101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/5007984101",
-        "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960244101",
-        "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958872101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/5002137101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4998740101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/5019535101",
@@ -3097,14 +3103,15 @@
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/5007743101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4957895101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4997703101",
-        "https://job-boards.eu.greenhouse.io/mangroup/jobs/4997728101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4997726101",
+        "https://job-boards.eu.greenhouse.io/mangroup/jobs/4997728101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4997727101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4839427101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/5002131101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4989483101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4936363101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4838225101",
+        "https://job-boards.eu.greenhouse.io/mangroup/jobs/4989499101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4843066101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4867062101",
         "https://job-boards.eu.greenhouse.io/mangroup/jobs/4936364101",
@@ -3315,7 +3322,7 @@
       "boards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 151
+          "count": 152
         },
         {
           "source": "Greenhouse:optiver",
@@ -3448,20 +3455,20 @@
           "source": "Greenhouse:optiverus",
           "title": "Software Engineer Internship (2027 Start)",
           "department": "Software",
-          "location": "London, England, United Kingdom",
-          "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
-          "content": "&nbsp; As a Software Engineering Intern, you will work side-by-side with your mentor and teammates to build software for Optiver’s real-time trading environment. You will work on&nbsp; projects that further develop and optimize our systems, testing and shipping code with guidance from experienced engineers and seeing how your work performs in production. In our business, where markets are always evolving, each day brings new engineering problems shaped by live conditions, performance requirements and system reliability. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. What you’ll do During the ten-week internship, you will be mentored by Optiver engineers, play a key role in advancing our world-class trading systems and work on projects that push the boundaries of performance and efficiency. You will: Build a strong foundation in trading fundamentals, from theoretical concepts and financial markets to strategies and the technology that supports them Work closely with senior engineers and traders to design, develop, test, and ship your code to production Tackle complex, real-world problems to enhance your critical thinking and problem-solving skills Learn how engineers collaborate with traders and researchers to understand requirements, respond to feedback and improve systems quickly Based on your performance during the internship, you could receive an offer to join our firm full-time after your studies, in either our London or Amsterdam office. What you’ll get You’ll join a culture of collaboration and excellence, where you’ll be surrounded by curious thinkers and creative problem solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, working collectively to tackle the toughest problems in the financial markets. In addition, you’ll receive: A highly competitive internship compensation package and accommodation included Extensive office perks, including breakfast and lunch and world-class barista coffee. The opportunity to participate in sports and leisure activities, along with social events &nbsp; Who you are Penultimate-year student in Computer Science, Computer Engineering or equivalent, with the ability to work full time upon graduation in 2028 Passionate for clean code, simple, well-architected systems and continuous improvement Proficient in industry-standard coding languages such as C++, Python, or Java, with a strong understanding of underlying computer architecture and system operations Have an entrepreneurial attitude and an interest in the financial industry An analytical mindset and strong problem-solving skills Able to work closely with other engineers, traders and business operations Applicants must have the right to work in the UK for the full duration of the London Summer 2027 Internship. For this internship, Optiver is unable to provide visa sponsorship, visa extension support, or other immigration support. Any offer will be conditional on satisfactory right-to-work verification before the internship begins &nbsp; How to Apply: Apply directly via the form below for the position of Software Engineer Intern. Please provide us with a CV in English. Unfortunately we cannot accept applications via email for data protection reasons. If your application is selected to proceed to the next round, you will be required to complete online assessments. By submitting your application you are confirming that you will be able to take the assessment within 7 days. Kindly note that we do not require any assistance from third-parties including agencies in the recruitment of this role. If you have any questions feel free to contact our Recruitment team via the contact form &nbsp; Diversity statement Optiver is committed to diversity and inclusion . We encourage applications from candidates from any and all backgrounds, and we welcome requests for reasonable adjustments during the process to ensure that you can best demonstrate your abilities. Please let us know if you would like to request any reasonable adjustments by contacting the Recruitment team via the contact form , selecting \"Reasonable Adjustments\" as the subject of your inquiry. For answers to some of our most frequently asked questions, refer to our FAQs . For applicants based in India, our entry route is via the placement office internship hiring season (July/August). Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed an online assessment or interviewed for a technology graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply after the 8-month cool off period.&nbsp; &nbsp;",
-          "postedAt": "2026-08-17T07:16:49-04:00"
+          "location": "Amsterdam, North Holland, Netherlands",
+          "url": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
+          "content": "As a Software Engineering Intern, you will work side-by-side with your mentor and teammates to build software for Optiver’s real-time trading environment. You will work on&nbsp; projects that further develop and optimize our systems, testing and shipping code with guidance from experienced engineers and seeing how your work performs in production. In our business, where markets are always evolving, each day brings new engineering problems shaped by live conditions, performance requirements and system reliability. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. What you’ll do During the ten-week internship, you will be mentored by Optiver engineers and work on projects that improve the systems, tools and infrastructure behind our trading decisions. You will: Build a strong foundation in trading fundamentals, from theoretical concepts and financial markets to strategies and the technology that supports them Work closely with senior engineers and traders to design, develop, test, and ship your code to production Tackle complex, real-world problems to enhance your critical thinking and problem-solving skills Learn how engineers collaborate with traders and researchers to understand requirements, respond to feedback and improve systems quickly Based on your performance during the internship, you could receive an offer to join our firm full-time after your studies, in either our London or Amsterdam office. What you’ll get You’ll join a culture of collaboration and excellence, where you’ll be surrounded by curious thinkers and creative problem solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, working collectively to tackle the toughest problems in the financial markets. In addition, you’ll receive: A highly competitive internship compensation package Optiver-covered flights and accommodation in the city centre for the duration of the internship Extensive office perks, including breakfast, lunch and dinner, world-class barista coffee, bi-weekly massages, Friday afternoon drinks, a bicycle to explore Amsterdam and much more The opportunity to participate in sports and leisure activities, along with social events exclusively organised for your intern cohort &nbsp; Who you are Penultimate-year student in Computer Science, Computer Engineering or equivalent, with the ability to work full time upon graduation in 2028 Passionate for clean code, simple, well-architected systems and continuous improvement Proficient in industry-standard coding languages such as C++, Python, or Java, with a strong understanding of underlying computer architecture and system operations Have an entrepreneurial attitude and an interest in the financial industry An analytical mindset and strong problem-solving skills Able to work closely with other engineers, traders and business operations &nbsp; How to Apply: Apply directly via the form below for the position of Software Engineer Intern. Please provide us with a CV in English. Unfortunately we cannot accept applications via email for data protection reasons. If your application is selected to proceed to the next round, you will be required to complete online assessments. By submitting your application you are confirming that you will be able to take the assessment within 7 days. Kindly note that we do not require any assistance from third-parties including agencies in the recruitment of this role. If you have any questions feel free to contact our Recruitment team via the contact form &nbsp; Diversity statement Optiver is committed to diversity and inclusion . We encourage applications from candidates from any and all backgrounds, and we welcome requests for reasonable adjustments during the process to ensure that you can best demonstrate your abilities. Please let us know if you would like to request any reasonable adjustments by contacting the Recruitment team via the contact form , selecting \"Reasonable Adjustments\" as the subject of your inquiry. For answers to some of our most frequently asked questions, refer to our FAQs . For applicants based in India, our entry route is via the placement office internship hiring season (July/August). Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed an online assessment or interviewed for a technology graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply after the 8-month cool off period.&nbsp; &nbsp;",
+          "postedAt": "2026-08-17T07:16:48-04:00"
         },
         {
           "company": "Optiver",
           "source": "Greenhouse:optiverus",
           "title": "Software Engineer Internship (2027 Start)",
           "department": "Software",
-          "location": "Amsterdam, North Holland, Netherlands",
-          "url": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
-          "content": "As a Software Engineering Intern, you will work side-by-side with your mentor and teammates to build software for Optiver’s real-time trading environment. You will work on&nbsp; projects that further develop and optimize our systems, testing and shipping code with guidance from experienced engineers and seeing how your work performs in production. In our business, where markets are always evolving, each day brings new engineering problems shaped by live conditions, performance requirements and system reliability. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. What you’ll do During the ten-week internship, you will be mentored by Optiver engineers and work on projects that improve the systems, tools and infrastructure behind our trading decisions. You will: Build a strong foundation in trading fundamentals, from theoretical concepts and financial markets to strategies and the technology that supports them Work closely with senior engineers and traders to design, develop, test, and ship your code to production Tackle complex, real-world problems to enhance your critical thinking and problem-solving skills Learn how engineers collaborate with traders and researchers to understand requirements, respond to feedback and improve systems quickly Based on your performance during the internship, you could receive an offer to join our firm full-time after your studies, in either our London or Amsterdam office. What you’ll get You’ll join a culture of collaboration and excellence, where you’ll be surrounded by curious thinkers and creative problem solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, working collectively to tackle the toughest problems in the financial markets. In addition, you’ll receive: A highly competitive internship compensation package Optiver-covered flights and accommodation in the city centre for the duration of the internship Extensive office perks, including breakfast, lunch and dinner, world-class barista coffee, bi-weekly massages, Friday afternoon drinks, a bicycle to explore Amsterdam and much more The opportunity to participate in sports and leisure activities, along with social events exclusively organised for your intern cohort &nbsp; Who you are Penultimate-year student in Computer Science, Computer Engineering or equivalent, with the ability to work full time upon graduation in 2028 Passionate for clean code, simple, well-architected systems and continuous improvement Proficient in industry-standard coding languages such as C++, Python, or Java, with a strong understanding of underlying computer architecture and system operations Have an entrepreneurial attitude and an interest in the financial industry An analytical mindset and strong problem-solving skills Able to work closely with other engineers, traders and business operations &nbsp; How to Apply: Apply directly via the form below for the position of Software Engineer Intern. Please provide us with a CV in English. Unfortunately we cannot accept applications via email for data protection reasons. If your application is selected to proceed to the next round, you will be required to complete online assessments. By submitting your application you are confirming that you will be able to take the assessment within 7 days. Kindly note that we do not require any assistance from third-parties including agencies in the recruitment of this role. If you have any questions feel free to contact our Recruitment team via the contact form &nbsp; Diversity statement Optiver is committed to diversity and inclusion . We encourage applications from candidates from any and all backgrounds, and we welcome requests for reasonable adjustments during the process to ensure that you can best demonstrate your abilities. Please let us know if you would like to request any reasonable adjustments by contacting the Recruitment team via the contact form , selecting \"Reasonable Adjustments\" as the subject of your inquiry. For answers to some of our most frequently asked questions, refer to our FAQs . For applicants based in India, our entry route is via the placement office internship hiring season (July/August). Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed an online assessment or interviewed for a technology graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply after the 8-month cool off period.&nbsp; &nbsp;",
-          "postedAt": "2026-08-17T07:16:48-04:00"
+          "location": "London, England, United Kingdom",
+          "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
+          "content": "&nbsp; As a Software Engineering Intern, you will work side-by-side with your mentor and teammates to build software for Optiver’s real-time trading environment. You will work on&nbsp; projects that further develop and optimize our systems, testing and shipping code with guidance from experienced engineers and seeing how your work performs in production. In our business, where markets are always evolving, each day brings new engineering problems shaped by live conditions, performance requirements and system reliability. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. What you’ll do During the ten-week internship, you will be mentored by Optiver engineers, play a key role in advancing our world-class trading systems and work on projects that push the boundaries of performance and efficiency. You will: Build a strong foundation in trading fundamentals, from theoretical concepts and financial markets to strategies and the technology that supports them Work closely with senior engineers and traders to design, develop, test, and ship your code to production Tackle complex, real-world problems to enhance your critical thinking and problem-solving skills Learn how engineers collaborate with traders and researchers to understand requirements, respond to feedback and improve systems quickly Based on your performance during the internship, you could receive an offer to join our firm full-time after your studies, in either our London or Amsterdam office. What you’ll get You’ll join a culture of collaboration and excellence, where you’ll be surrounded by curious thinkers and creative problem solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, working collectively to tackle the toughest problems in the financial markets. In addition, you’ll receive: A highly competitive internship compensation package and accommodation included Extensive office perks, including breakfast and lunch and world-class barista coffee. The opportunity to participate in sports and leisure activities, along with social events &nbsp; Who you are Penultimate-year student in Computer Science, Computer Engineering or equivalent, with the ability to work full time upon graduation in 2028 Passionate for clean code, simple, well-architected systems and continuous improvement Proficient in industry-standard coding languages such as C++, Python, or Java, with a strong understanding of underlying computer architecture and system operations Have an entrepreneurial attitude and an interest in the financial industry An analytical mindset and strong problem-solving skills Able to work closely with other engineers, traders and business operations Applicants must have the right to work in the UK for the full duration of the London Summer 2027 Internship. For this internship, Optiver is unable to provide visa sponsorship, visa extension support, or other immigration support. Any offer will be conditional on satisfactory right-to-work verification before the internship begins &nbsp; How to Apply: Apply directly via the form below for the position of Software Engineer Intern. Please provide us with a CV in English. Unfortunately we cannot accept applications via email for data protection reasons. If your application is selected to proceed to the next round, you will be required to complete online assessments. By submitting your application you are confirming that you will be able to take the assessment within 7 days. Kindly note that we do not require any assistance from third-parties including agencies in the recruitment of this role. If you have any questions feel free to contact our Recruitment team via the contact form &nbsp; Diversity statement Optiver is committed to diversity and inclusion . We encourage applications from candidates from any and all backgrounds, and we welcome requests for reasonable adjustments during the process to ensure that you can best demonstrate your abilities. Please let us know if you would like to request any reasonable adjustments by contacting the Recruitment team via the contact form , selecting \"Reasonable Adjustments\" as the subject of your inquiry. For answers to some of our most frequently asked questions, refer to our FAQs . For applicants based in India, our entry route is via the placement office internship hiring season (July/August). Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed an online assessment or interviewed for a technology graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply after the 8-month cool off period.&nbsp; &nbsp;",
+          "postedAt": "2026-08-17T07:16:49-04:00"
         }
       ],
       "observedUrls": [
@@ -3483,9 +3490,9 @@
         "https://www.optiver.com/join-us/jobs/8886134002/?gh_jid=8886134002",
         "https://www.optiver.com/join-us/jobs/8452858002/?gh_jid=8452858002",
         "https://www.optiver.com/join-us/jobs/8546763002/?gh_jid=8546763002",
+        "https://www.optiver.com/join-us/jobs/8583747002/?gh_jid=8583747002",
         "https://www.optiver.com/join-us/jobs/8591185002/?gh_jid=8591185002",
         "https://www.optiver.com/join-us/jobs/8602146002/?gh_jid=8602146002",
-        "https://www.optiver.com/join-us/jobs/8583747002/?gh_jid=8583747002",
         "https://www.optiver.com/join-us/jobs/8565997002/?gh_jid=8565997002",
         "https://www.optiver.com/join-us/jobs/8545257002/?gh_jid=8545257002",
         "https://www.optiver.com/join-us/jobs/8476528002/?gh_jid=8476528002",
@@ -3509,9 +3516,9 @@
         "https://www.optiver.com/join-us/jobs/8888051002/?gh_jid=8888051002",
         "https://www.optiver.com/join-us/jobs/8642031002/?gh_jid=8642031002",
         "https://www.optiver.com/join-us/jobs/8888061002/?gh_jid=8888061002",
+        "https://www.optiver.com/join-us/jobs/8375607002/?gh_jid=8375607002",
         "https://www.optiver.com/join-us/jobs/8375550002/?gh_jid=8375550002",
         "https://www.optiver.com/join-us/jobs/8309280002/?gh_jid=8309280002",
-        "https://www.optiver.com/join-us/jobs/8375607002/?gh_jid=8375607002",
         "https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002",
         "https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002",
         "https://www.optiver.com/join-us/jobs/8713775002/?gh_jid=8713775002",
@@ -3525,9 +3532,9 @@
         "https://www.optiver.com/join-us/jobs/8713898002/?gh_jid=8713898002",
         "https://www.optiver.com/join-us/jobs/8402079002/?gh_jid=8402079002",
         "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002",
-        "https://www.optiver.com/join-us/jobs/8451764002/?gh_jid=8451764002",
-        "https://www.optiver.com/join-us/jobs/8451762002/?gh_jid=8451762002",
         "https://www.optiver.com/join-us/jobs/8451763002/?gh_jid=8451763002",
+        "https://www.optiver.com/join-us/jobs/8451762002/?gh_jid=8451762002",
+        "https://www.optiver.com/join-us/jobs/8451764002/?gh_jid=8451764002",
         "https://www.optiver.com/join-us/jobs/8888034002/?gh_jid=8888034002",
         "https://www.optiver.com/join-us/jobs/8802682002/?gh_jid=8802682002",
         "https://www.optiver.com/join-us/jobs/8577552002/?gh_jid=8577552002",
@@ -3536,8 +3543,8 @@
         "https://www.optiver.com/join-us/jobs/8780955002/?gh_jid=8780955002",
         "https://www.optiver.com/join-us/jobs/8682192002/?gh_jid=8682192002",
         "https://www.optiver.com/join-us/jobs/8698709002/?gh_jid=8698709002",
-        "https://www.optiver.com/join-us/jobs/8482419002/?gh_jid=8482419002",
         "https://www.optiver.com/join-us/jobs/8784918002/?gh_jid=8784918002",
+        "https://www.optiver.com/join-us/jobs/8482419002/?gh_jid=8482419002",
         "https://www.optiver.com/join-us/jobs/8405271002/?gh_jid=8405271002",
         "https://www.optiver.com/join-us/jobs/8699349002/?gh_jid=8699349002",
         "https://www.optiver.com/join-us/jobs/8639284002/?gh_jid=8639284002",
@@ -3579,9 +3586,9 @@
         "https://www.optiver.com/join-us/jobs/8524426002/?gh_jid=8524426002",
         "https://www.optiver.com/join-us/jobs/8459273002/?gh_jid=8459273002",
         "https://www.optiver.com/join-us/jobs/8091957002/?gh_jid=8091957002",
-        "https://www.optiver.com/join-us/jobs/8725507002/?gh_jid=8725507002",
         "https://www.optiver.com/join-us/jobs/8725511002/?gh_jid=8725511002",
         "https://www.optiver.com/join-us/jobs/8732748002/?gh_jid=8732748002",
+        "https://www.optiver.com/join-us/jobs/8725507002/?gh_jid=8725507002",
         "https://www.optiver.com/join-us/jobs/8754729002/?gh_jid=8754729002",
         "https://www.optiver.com/join-us/jobs/8521309002/?gh_jid=8521309002",
         "https://www.optiver.com/join-us/jobs/8574428002/?gh_jid=8574428002",
@@ -3589,8 +3596,8 @@
         "https://www.optiver.com/join-us/jobs/8541690002/?gh_jid=8541690002",
         "https://www.optiver.com/join-us/jobs/6297860002/?gh_jid=6297860002",
         "https://www.optiver.com/join-us/jobs/8573182002/?gh_jid=8573182002",
-        "https://www.optiver.com/join-us/jobs/8925970002/?gh_jid=8925970002",
         "https://www.optiver.com/join-us/jobs/8565971002/?gh_jid=8565971002",
+        "https://www.optiver.com/join-us/jobs/8925970002/?gh_jid=8925970002",
         "https://www.optiver.com/join-us/jobs/8875482002/?gh_jid=8875482002",
         "https://www.optiver.com/join-us/jobs/8226163002/?gh_jid=8226163002",
         "https://www.optiver.com/join-us/jobs/8375042002/?gh_jid=8375042002",
@@ -3599,14 +3606,15 @@
         "https://www.optiver.com/join-us/jobs/8907978002/?gh_jid=8907978002",
         "https://www.optiver.com/join-us/jobs/8937609002/?gh_jid=8937609002",
         "https://www.optiver.com/join-us/jobs/8521354002/?gh_jid=8521354002",
-        "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
         "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
+        "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
         "https://www.optiver.com/join-us/jobs/8644425002/?gh_jid=8644425002",
         "https://www.optiver.com/join-us/jobs/8622246002/?gh_jid=8622246002",
         "https://www.optiver.com/join-us/jobs/8386967002/?gh_jid=8386967002",
         "https://www.optiver.com/join-us/jobs/8142708002/?gh_jid=8142708002",
         "https://www.optiver.com/join-us/jobs/8768478002/?gh_jid=8768478002",
         "https://www.optiver.com/join-us/jobs/8576683002/?gh_jid=8576683002",
+        "https://www.optiver.com/join-us/jobs/8911705002/?gh_jid=8911705002",
         "https://www.optiver.com/join-us/jobs/8798313002/?gh_jid=8798313002",
         "https://www.optiver.com/join-us/jobs/8808882002/?gh_jid=8808882002",
         "https://www.optiver.com/join-us/jobs/7215115002/?gh_jid=7215115002",
@@ -3819,7 +3827,7 @@
       "boards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 210
+          "count": 209
         }
       ],
       "matches": [
@@ -3902,16 +3910,6 @@
           "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
           "content": "Programmes offered: Final-year internship, penultimate-year internship &nbsp; Location: London, Paris , Wrocław, Zurich, Dubai, Aarhus, Amsterdam Programme duration: 3–6 months or 12-month industrial placement , starting in 2027 &nbsp; Who qualifies: Penultimate or final-year students completing a bachelor’s or master’s degree &nbsp; Qube Research &amp; Technologies (QRT) is a global quantitative and systematic investment manager operating across liquid asset classes and markets worldwide. Our approach to investing is scientific: we bring together data, research, technology and trading expertise to develop and run systematic strategies. &nbsp; Technology is central to how QRT works. Over the years, we have built a global research and execution platform spanning geographies, asset classes and trading horizons, from ultra-low-latency systems to large-scale research, analytics and risk infrastructure. We invest heavily in engineering, automation and scalable systems because better technology allows us to test ideas faster, operate more reliably and tackle harder problems. &nbsp; Our internships are designed to give students meaningful experience of that work. You’ll join a team, contribute to real projects and learn from engineers, researchers and traders working on live problems. The environment is technical, collaborative and demanding, with plenty of scope to ask questions, test ideas and take ownership. Strong performance during the internship may lead to consideration for a full-time graduate role. &nbsp; Your future role at QRT &nbsp; As a Technology Intern, you’ll help build the systems, platforms and tools behind QRT’s research, trading and investment activities. You’ll work alongside experienced engineers, quantitative developers, researchers and traders, contributing to production technology and solving problems where performance, reliability and good engineering judgement matter. &nbsp; Depending on your interests and strengths, you may join one of two Technology disciplines. &nbsp; Software Engineer (London , Wrocław, Zurich ) &nbsp; Software Engineers build the technology that underpins QRT’s trading and investment activities. This includes the platforms and infrastructure that connect us to global markets, brokers and data providers, as well as the systems used for order generation, execution, analytics, risk management and P&amp;L reporting. &nbsp; The engineering problems vary considerably in scale and shape. At one end, we build ultra-low-latency execution technology where small improvements can matter. At the other, we develop global, cross-asset platforms that need to process large volumes of data reliably and make complex information accessible to users across the firm. &nbsp; As an intern, you’ll work with experienced engineers, quantitative developers and researchers on a defined technical problem. You’ll be expected to understand the problem properly, make sensible engineering choices and build something useful. &nbsp; Examples of projects you may work on include: &nbsp; AI-Powered Static Analysis – Build a tool combining static analysis and large language models to identify double-deletion and memory-management issues in our public API. &nbsp; Exchange Simulator Advanced Order Support – Extend our Exchange Simulator to support market orders, time-in-force instructions and algorithmic orders, making strategy testing more representative of live trading. &nbsp; Risk Data Platform – Extend our risk data platform to provide the data required to support trading in a new trade type. &nbsp; Lightweight Trading UI – Create a lightweight trading interface with order entry, live market and position views, and clear visualisation of trading activity. &nbsp; Quantitative Developer (London, Paris, Wrocław, Dubai, Aarhus, Amsterdam) Quantitative Developers work at the intersection of research, trading and engineering. Sitting close to the trading desk, they work directly with researchers and traders to build the technology needed to explore ideas, analyse markets and run strategies in production. &nbsp; The role combines strong software engineering with an understanding of how technology can make quantitative research and trading more effective. That might mean building high-performance execution systems, improving research infrastructure, developing machine learning platforms or creating tools that make complex data easier to work with. &nbsp; You’ll work on live technical problems where performance, reliability and iteration speed all matter. It’s a collaborative role with direct exposure to quantitative research, financial markets and production trading systems. &nbsp; Examples of projects you may work on include: &nbsp; Real-Time Trading Systems – Build high-performance C++ systems for real-time trading, contributing to low-latency infrastructure and execution technology where every microsecond can matter. &nbsp; Quantitative Research Platforms – Help develop the platforms used for quantitative research across QRT, including machine learning systems and data pipelines that allow researchers to test and scale ideas efficiently. &nbsp; Research and Trading Tools – Design tools that simplify workflows, improve access to data and make complex information easier to understand through effective visualisation. You’ll work directly with traders, researchers and risk teams to understand their problems and build practical solutions. &nbsp; Your current skillset &nbsp; Eligibility: Penultimate or final-year students pursuing a Bachelor’s, Master’s in a STEM discipline, such as Computer Science, Physics, Mathematics or a related Engineering subject, on track for a 2:1 or above from a leading institution. &nbsp; Interest in technology: You enjoy solving technical problems and are curious about how systems work. You’re interested in building things, not just studying them. &nbsp; Software engineering experience: We value hands-on experience wherever you gained it — through personal projects, open-source contributions, hobbies, internships or academic work. &nbsp; Programming: Proficiency in C++, C# or Python. &nbsp; Tools: Familiarity with scripting languages such as Python or Bash, and tools and technologies including Git, SQL, GCC and Linux. &nbsp; Mindset: Curious, proactive and comfortable asking questions. You look for ways to make systems simpler, faster or more reliable and can turn those observations into practical improvements. &nbsp; Approach: Self-motivated, thoughtful and comfortable taking ownership of a problem. &nbsp; Interviewing &nbsp; Application – Submit your application online. We review applications on a rolling basis, so applying early is recommended. &nbsp; Technical Assessment – Selected candidates will complete a coding challenge focused on core programming and problem-solving skills. &nbsp; Assessment Centre / Online Interviews – Shortlisted candidates will take part in interviews, either on-site at an assessment centre or via Microsoft Teams. We’ll explore your technical thinking, how you approach unfamiliar problems and how you work with others. &nbsp; &nbsp; QRT is an equal opportunity employer. We welcome diversity as essential to our success. QRT empowers employees to work openly and respectfully to achieve collective success. In addition to professional achievement, we are offering initiatives and programs to enable employees achieve a healthy work-life balance. &nbsp;",
           "postedAt": "2026-09-08T09:56:30-04:00"
-        },
-        {
-          "company": "Qube Research & Technologies",
-          "source": "Greenhouse:quberesearchandtechnologies",
-          "title": "2027 Internship - Technology",
-          "department": "Internship - Technology",
-          "location": "New York, Chicago",
-          "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002",
-          "content": "2027 – Internship, Technology&nbsp; Programmes offered: Final-year internship, penultimate-year internship Location: New York, Chicago Programme duration: 10-week summer internship Who qualifies: Penultimate or final-year students completing a bachelor’s or master’s degree Qube Research &amp; Technologies (QRT) is a global quantitative and systematic investment manager operating across liquid asset classes and markets worldwide. Our approach to investing is scientific: we bring together data, research, technology and trading expertise to develop and run systematic strategies. Technology is central to how QRT works. Over the years, we have built a global research and execution platform spanning geographies, asset classes and trading horizons, from ultra-low-latency systems to large-scale research, analytics and risk infrastructure. We invest heavily in engineering, automation and scalable systems because better technology allows us to test ideas faster, operate more reliably and tackle harder problems. Our internships are designed to give students meaningful experience of that work. You’ll join a team, contribute to real projects and learn from engineers, researchers and traders working on live problems. The environment is technical, collaborative and demanding, with plenty of scope to ask questions, test ideas and take ownership. Strong performance during the internship may lead to consideration for a full-time graduate role. Your future role at QRT As a Technology Intern, you’ll help build the systems, platforms and tools behind QRT’s research, trading and investment activities. You’ll work alongside experienced engineers, quantitative developers, researchers and traders, contributing to production technology and solving problems where performance, reliability and good engineering judgement matter. Depending on your interests and strengths, you may join one of four Technology disciplines. Software Engineer (New York) Build the technology behind QRT’s trading and investment activities, from ultra-low-latency execution systems to global platforms for analytics, risk management and reporting. Our engineers connect the firm to markets, brokers and data providers, developing systems that process large volumes of data reliably. You’ll work with experienced engineers, quantitative developers and researchers on a defined technical problem, making considered engineering choices and building something useful. Projects may include AI-powered static analysis, exchange simulator development, risk data platforms or trading interfaces. FPGA Engineer (New York, Chicago) Develop ultra-low-latency hardware that processes market data and executes orders. Working at the boundary between hardware and software, the FPGA team builds systems where small design decisions can have a measurable impact on latency, throughput and reliability. You’ll use SystemVerilog, C++ and Python to help design, test and integrate FPGA systems into our trading infrastructure. Alongside experienced engineers, you’ll develop new functionality, verify system behaviour and investigate performance improvements, gaining practical experience with the hardware and development tools used in live trading. Security Engineer (New York) Help protect the systems, data and infrastructure behind QRT’s global research and trading activities. Our Security team works closely with Cloud, Infrastructure and Network Operations to understand system behaviour, identify weaknesses and build practical ways to prevent, detect and respond to threats. You’ll contribute to security engineering, investigations and automation alongside experienced colleagues. Projects may include building agents to support cyber-security investigations, reproducing emerging attack techniques in isolated environments, researching vulnerabilities or developing tools that make security assurance more scalable and effective. Infrastructure Engineer (New York) Work on the on-premise hardware and operating systems behind QRT’s production trading environment. The Infrastructure team measures and optimises hardware performance, investigates Linux internals and tunes systems where small changes can make a meaningful difference to trading technology. Alongside experienced engineers, you’ll develop a detailed understanding of how hardware and software interact. Your work may involve investigating performance constraints, testing system configurations and assessing improvements to reliability. You’ll learn to use evidence and careful analysis to make production systems faster, more stable and more predictable. Your current skillset Eligibility: Penultimate or final-year students pursuing a Bachelor’s, Master’s in a STEM discipline, such as Computer Science, Physics, Mathematics or a related Engineering or Security subject, on track for a 2:1 or above from a leading institution. Interest in technology: You enjoy solving technical problems and are curious about how systems work. You’re interested in building things, not just studying them. Software engineering experience: We value hands-on experience wherever you gained it — through personal projects, open-source contributions, hobbies, internships or academic work. Interest in Software Engineering, Security, Infrastructure or FPGAs. Programming: Proficiency in C++, C# or Python, Systems Verilog Tools: Familiarity with scripting languages such as Python or Bash, and tools and technologies including Git, SQL, GCC and Linux. Mindset: Curious, proactive and comfortable asking questions. You look for ways to make systems simpler, faster or more reliable and can turn those observations into practical improvements. Approach: Self-motivated, thoughtful and comfortable taking ownership of a problem. Interviewing Application – Submit your application online. We review applications on a rolling basis, so applying early is recommended. Technical Assessment – Selected candidates will complete a coding challenge focused on core programming and problem-solving skills. Interviews – Shortlisted candidates will take part in interviews, either on-site at an assessment centre or via Microsoft Teams. We’ll explore your technical thinking, how you approach unfamiliar problems and how you work with others.&nbsp; &nbsp; At QRT, interns join a team from day one, working on real problems alongside experienced colleagues. You’ll contribute to meaningful projects, learn by doing and have the support to ask questions, explore ideas and develop your skills throughout the programme. The annualised base salary for these US positions is $178,000, prorated to reflect the duration of the internship. Interns also receive a signing bonus and a competitive benefits package, including healthcare coverage, access to a 401(k) plan, and breakfast and lunch. Beyond the work, there’s plenty happening in the office, from gym sessions and board game nights to team socials and opportunities to get to know colleagues across QRT. QRT is an equal opportunity employer. We welcome diversity as essential to our success. QRT empowers employees to work openly and respectfully to achieve collective success. In addition to professional achievement, we are offering initiatives and programs to enable employees achieve a healthy work-life balance.",
-          "postedAt": "2026-10-26T07:01:34-04:00"
         }
       ],
       "observedUrls": [
@@ -3930,7 +3928,6 @@
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926644002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8509610002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8928069002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8476605002",
@@ -3959,12 +3956,12 @@
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8339642002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8894692002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8895028002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8551885002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8827514002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8857526002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8827514002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8551885002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8611970002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8819502002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785678002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8819502002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/7692655002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8474434002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8363063002",
@@ -4000,14 +3997,14 @@
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8374388002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8365898002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8772986002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8539005002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8923209002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8539005002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8380970002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8364463002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/7990321002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8364463002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8445752002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8929647002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8928673002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8929647002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8931540002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8732338002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8842292002",
@@ -4017,8 +4014,8 @@
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8305140002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8473687002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8902671002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8759003002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8886941002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8759003002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8381640002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8483172002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/7725690002",
@@ -4033,23 +4030,23 @@
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8225791002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8932115002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8883229002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8203078002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8363135002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8203078002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8857906002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8826810002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8908075002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8636762002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8660588002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8809530002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8660588002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8636762002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581841002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8705713002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8607638002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/6004205002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/6845861002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4104778002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/5953097002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/6845861002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/6845873002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4104490002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/6845873002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8640207002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8154555002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/6486065002",
@@ -4067,8 +4064,8 @@
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8699443002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8060267002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8073871002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8626234002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8929664002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8626234002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8381542002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8474419002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8117154002",
@@ -4076,14 +4073,14 @@
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8460881002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8185063002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8878488002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8392044002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/7899050002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8467221002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8392044002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8858505002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8381639002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/7988274002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8924873002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8381639002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8827390002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8924873002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8517789002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8894736002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8789847002",
@@ -4091,24 +4088,24 @@
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8923776002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623704002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/7505622002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8078399002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8551099002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8923176002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8286658002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8551099002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8078399002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8298719002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8181617002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8286658002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8298711002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8181617002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8728831002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8936042002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8675540002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8660626002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8690612002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8660626002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8883144002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8910950002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8909049002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8852110002",
-        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8931599002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8909049002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8910950002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8929847002",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8931599002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8462564002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8736538002",
         "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623977002",
@@ -4168,7 +4165,7 @@
       "boards": [
         {
           "source": "Greenhouse:schonfeld",
-          "count": 70
+          "count": 71
         }
       ],
       "matches": [
@@ -4270,6 +4267,7 @@
         "https://job-boards.greenhouse.io/schonfeld/jobs/8220506",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8350719",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8356741",
+        "https://job-boards.greenhouse.io/schonfeld/jobs/8171705",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8311597",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8171776",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8174538",
@@ -4297,8 +4295,8 @@
         "https://job-boards.greenhouse.io/schonfeld/jobs/8318868",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8091388",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8331022",
-        "https://job-boards.greenhouse.io/schonfeld/jobs/8209327",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8303538",
+        "https://job-boards.greenhouse.io/schonfeld/jobs/8209327",
         "https://job-boards.greenhouse.io/schonfeld/jobs/7843972",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8367044",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8312719",
@@ -4310,14 +4308,14 @@
         "https://job-boards.greenhouse.io/schonfeld/jobs/8091369",
         "https://job-boards.greenhouse.io/schonfeld/jobs/7517021",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8020671",
-        "https://job-boards.greenhouse.io/schonfeld/jobs/8242761",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8020673",
+        "https://job-boards.greenhouse.io/schonfeld/jobs/8242761",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8083510",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8226258",
         "https://job-boards.greenhouse.io/schonfeld/jobs/7858886",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8243907",
-        "https://job-boards.greenhouse.io/schonfeld/jobs/8345840",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8324610",
+        "https://job-boards.greenhouse.io/schonfeld/jobs/8345840",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8264648",
         "https://job-boards.greenhouse.io/schonfeld/jobs/7544203",
         "https://job-boards.greenhouse.io/schonfeld/jobs/8091383",
@@ -4365,7 +4363,7 @@
       "boards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 91
+          "count": 90
         }
       ],
       "matches": [
@@ -4459,7 +4457,6 @@
         "https://www.squarepoint-capital.com/open-opportunities?id=6040773&gh_jid=6040773",
         "https://www.squarepoint-capital.com/open-opportunities?id=6033550&gh_jid=6033550",
         "https://www.squarepoint-capital.com/open-opportunities?id=6380892&gh_jid=6380892",
-        "https://www.squarepoint-capital.com/open-opportunities?id=7335465&gh_jid=7335465",
         "https://www.squarepoint-capital.com/open-opportunities?id=8195856&gh_jid=8195856",
         "https://www.squarepoint-capital.com/open-opportunities?id=6990539&gh_jid=6990539",
         "https://www.squarepoint-capital.com/open-opportunities?id=7068166&gh_jid=7068166",
@@ -4608,11 +4605,11 @@
       "observedUrls": [
         "https://job-boards.greenhouse.io/sunrise/jobs/5474687008",
         "https://job-boards.greenhouse.io/sunrise/jobs/5437902008",
+        "https://job-boards.greenhouse.io/sunrise/jobs/5480454008",
         "https://job-boards.greenhouse.io/sunrise/jobs/5477224008",
         "https://job-boards.greenhouse.io/sunrise/jobs/5475886008",
         "https://job-boards.greenhouse.io/sunrise/jobs/5475877008",
         "https://job-boards.greenhouse.io/sunrise/jobs/5463987008",
-        "https://job-boards.greenhouse.io/sunrise/jobs/5461412008",
         "https://job-boards.greenhouse.io/sunrise/jobs/5480375008",
         "https://job-boards.greenhouse.io/sunrise/jobs/5446753008",
         "https://job-boards.greenhouse.io/sunrise/jobs/5445181008",
@@ -4701,7 +4698,7 @@
       "boards": [
         {
           "source": "Greenhouse:towerresearchcapital",
-          "count": 93
+          "count": 92
         }
       ],
       "matches": [
@@ -4730,20 +4727,20 @@
           "source": "Greenhouse:towerresearchcapital",
           "title": "Quantitative Developer Intern",
           "department": "On-Campus Recruiting",
-          "location": "Singapore",
-          "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
-          "content": "Tower Research Capital is a leading quantitative trading firm founded in 1998. Tower has built its business on a high-performance platform and independent trading teams. We have a 25+ year track record of innovation and a reputation&nbsp; for discovering unique market opportunities. Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization.&nbsp; Engineers thrive at Tower while developing electronic trading infrastructure at a world class level. Our engineers solve challenging problems in the realms of low-latency programming, FPGA technology, hardware acceleration and machine learning. Our ongoing investment in top engineering talent and technology ensures our platform remains unmatched in terms of functionality, scalability and performance. At Tower, every employee plays a role in our success. Our Business Support teams are essential to building and maintaining the platform that powers everything we do — combining market access, data, compute, and research infrastructure with risk management, compliance, and a full suite of business services. Our Business Support teams enable our trading and engineering teams to perform at their best. At Tower, employees will find a stimulating, results-oriented environment where highly intelligent and motivated colleagues inspire each other to reach their greatest potential. Responsibilities Iterating quickly with on-site quantitative researchers on research processes to improve the P&amp;L of the desk’s quantitative trading strategies Developing Python tools used across the research process Designing full-stack workflows with quantitative researchers to help evaluate and improve on trading strategies Qualifications Final-year bachelor's or master’s student in computer science, engineering, applied mathematics, or a related field Availability&nbsp;for a 10-week internship Strong interest in quantitative finance and software development Solid foundation in Python programming, with exposure to libraries such as NumPy, Pandas, or Polars through coursework or personal projects Demonstrated curiosity, problem-solving ability, and a desire to grow in a fast-paced, collaborative, and intellectually demanding environment Good communication skills and willingness to work as part of a distributed team Exposure to C++ and/or scripting languages (e.g., Bash) is a plus Interest in learning about large-scale systems, workflow orchestration, and production-grade software engineering practices Benefits Tower’s headquarters are in the historic Equitable Building, right in the heart of NYC’s Financial District and our impact is global, with over a dozen offices around the world.&nbsp; At Tower, we believe work should be both challenging and enjoyable. That is why we foster a culture where smart, driven people thrive – without the egos. Our open concept workplace, casual dress code, and well-stocked kitchens reflect the value we place on a friendly, collaborative environment where everyone is respected, and great ideas win. Our benefits include: Competitive compensation package Free breakfast, lunch, and snacks daily Exciting networking and social events At Tower, you’ll find a collaborative and welcoming culture, a diverse team and a workplace that values both performance and enjoyment. No unnecessary hierarchy. No ego. Just great people doing great work – together. Tower Research Capital is an equal opportunity employer. &nbsp;",
-          "postedAt": "2026-08-18T03:02:39-04:00"
+          "location": "Paris",
+          "url": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
+          "content": "Tower Research Capital is a leading quantitative trading firm founded in 1998. Tower has built its business on a high-performance platform and independent trading teams. We have a 25+ year track record of innovation and a reputation for discovering unique market opportunities. Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization.&nbsp; Engineers thrive at Tower while developing electronic trading infrastructure at a world class level. Our engineers solve challenging problems in the realms of low-latency programming, FPGA technology, hardware acceleration and machine learning. Our ongoing investment in top engineering talent and technology ensures our platform remains unmatched in terms of functionality, scalability and performance. At Tower, every employee plays a role in our success. Our Business Support teams are essential to building and maintaining the platform that powers everything we do — combining market access, data, compute, and research infrastructure with risk management, compliance, and a full suite of business services. Our Business Support teams enable our trading and engineering teams to perform at their best. At Tower, employees will find a stimulating, results-oriented environment where highly intelligent and motivated colleagues inspire each other to reach their greatest potential. Please note, this internship opportunity is open to those who are available from February 2027 for six months. Responsibilities Iterating quickly with on-site quantitative researchers on the research processes in order to improve the desk's quantitative trading strategies P&amp;L Developing Python tools used in trading strategies research Improving the existing simulation/backtest framework Help global research team on EMEA-related research through various communication channels Qualifications Currently in the final year of a Master’s degree in Computer Science, Engineering, Applied Math, or a related field Strong interest in quantitative finance and software development Solid foundation in Python programming and exposure to libraries such as NumPy, Pandas, or Polars through coursework or personal projects Demonstrated curiosity, problem-solving ability, and a desire to grow in a fast-paced, collaborative, and intellectually demanding environment Good communication skills and willingness to work as part of a distributed team Exposure to C++ and/or scripting languages (e.g., Bash) is a plus Interest in learning about large-scale systems, workflow orchestration, and production-grade software engineering practices Benefits Competitive compensation package Free breakfast, lunch, and snacks daily Exciting networking and social events Opportunities to learn from senior management across the firm Mentors from your alma mater and other top institutions Tower Research Capital is an equal opportunity employer.",
+          "postedAt": "2025-06-25T13:57:19-04:00"
         },
         {
           "company": "Tower Research Capital",
           "source": "Greenhouse:towerresearchcapital",
           "title": "Quantitative Developer Intern",
           "department": "On-Campus Recruiting",
-          "location": "Paris",
-          "url": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
-          "content": "Tower Research Capital is a leading quantitative trading firm founded in 1998. Tower has built its business on a high-performance platform and independent trading teams. We have a 25+ year track record of innovation and a reputation for discovering unique market opportunities. Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization.&nbsp; Engineers thrive at Tower while developing electronic trading infrastructure at a world class level. Our engineers solve challenging problems in the realms of low-latency programming, FPGA technology, hardware acceleration and machine learning. Our ongoing investment in top engineering talent and technology ensures our platform remains unmatched in terms of functionality, scalability and performance. At Tower, every employee plays a role in our success. Our Business Support teams are essential to building and maintaining the platform that powers everything we do — combining market access, data, compute, and research infrastructure with risk management, compliance, and a full suite of business services. Our Business Support teams enable our trading and engineering teams to perform at their best. At Tower, employees will find a stimulating, results-oriented environment where highly intelligent and motivated colleagues inspire each other to reach their greatest potential. Please note, this internship opportunity is open to those who are available from February 2027 for six months. Responsibilities Iterating quickly with on-site quantitative researchers on the research processes in order to improve the desk's quantitative trading strategies P&amp;L Developing Python tools used in trading strategies research Improving the existing simulation/backtest framework Help global research team on EMEA-related research through various communication channels Qualifications Currently in the final year of a Master’s degree in Computer Science, Engineering, Applied Math, or a related field Strong interest in quantitative finance and software development Solid foundation in Python programming and exposure to libraries such as NumPy, Pandas, or Polars through coursework or personal projects Demonstrated curiosity, problem-solving ability, and a desire to grow in a fast-paced, collaborative, and intellectually demanding environment Good communication skills and willingness to work as part of a distributed team Exposure to C++ and/or scripting languages (e.g., Bash) is a plus Interest in learning about large-scale systems, workflow orchestration, and production-grade software engineering practices Benefits Competitive compensation package Free breakfast, lunch, and snacks daily Exciting networking and social events Opportunities to learn from senior management across the firm Mentors from your alma mater and other top institutions Tower Research Capital is an equal opportunity employer.",
-          "postedAt": "2025-06-25T13:57:19-04:00"
+          "location": "Singapore",
+          "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
+          "content": "Tower Research Capital is a leading quantitative trading firm founded in 1998. Tower has built its business on a high-performance platform and independent trading teams. We have a 25+ year track record of innovation and a reputation&nbsp; for discovering unique market opportunities. Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization.&nbsp; Engineers thrive at Tower while developing electronic trading infrastructure at a world class level. Our engineers solve challenging problems in the realms of low-latency programming, FPGA technology, hardware acceleration and machine learning. Our ongoing investment in top engineering talent and technology ensures our platform remains unmatched in terms of functionality, scalability and performance. At Tower, every employee plays a role in our success. Our Business Support teams are essential to building and maintaining the platform that powers everything we do — combining market access, data, compute, and research infrastructure with risk management, compliance, and a full suite of business services. Our Business Support teams enable our trading and engineering teams to perform at their best. At Tower, employees will find a stimulating, results-oriented environment where highly intelligent and motivated colleagues inspire each other to reach their greatest potential. Responsibilities Iterating quickly with on-site quantitative researchers on research processes to improve the P&amp;L of the desk’s quantitative trading strategies Developing Python tools used across the research process Designing full-stack workflows with quantitative researchers to help evaluate and improve on trading strategies Qualifications Final-year bachelor's or master’s student in computer science, engineering, applied mathematics, or a related field Availability&nbsp;for a 10-week internship Strong interest in quantitative finance and software development Solid foundation in Python programming, with exposure to libraries such as NumPy, Pandas, or Polars through coursework or personal projects Demonstrated curiosity, problem-solving ability, and a desire to grow in a fast-paced, collaborative, and intellectually demanding environment Good communication skills and willingness to work as part of a distributed team Exposure to C++ and/or scripting languages (e.g., Bash) is a plus Interest in learning about large-scale systems, workflow orchestration, and production-grade software engineering practices Benefits Tower’s headquarters are in the historic Equitable Building, right in the heart of NYC’s Financial District and our impact is global, with over a dozen offices around the world.&nbsp; At Tower, we believe work should be both challenging and enjoyable. That is why we foster a culture where smart, driven people thrive – without the egos. Our open concept workplace, casual dress code, and well-stocked kitchens reflect the value we place on a friendly, collaborative environment where everyone is respected, and great ideas win. Our benefits include: Competitive compensation package Free breakfast, lunch, and snacks daily Exciting networking and social events At Tower, you’ll find a collaborative and welcoming culture, a diverse team and a workplace that values both performance and enjoyment. No unnecessary hierarchy. No ego. Just great people doing great work – together. Tower Research Capital is an equal opportunity employer. &nbsp;",
+          "postedAt": "2026-08-18T03:02:39-04:00"
         },
         {
           "company": "Tower Research Capital",
@@ -4856,11 +4853,10 @@
         "https://www.tower-research.com/open-positions/?gh_jid=7102180",
         "https://www.tower-research.com/open-positions/?gh_jid=6296510",
         "https://www.tower-research.com/open-positions/?gh_jid=7080209",
-        "https://www.tower-research.com/open-positions/?gh_jid=8138524",
         "https://www.tower-research.com/open-positions/?gh_jid=7011493",
+        "https://www.tower-research.com/open-positions/?gh_jid=8138524",
         "https://www.tower-research.com/open-positions/?gh_jid=8044334",
         "https://www.tower-research.com/open-positions/?gh_jid=6679938",
-        "https://www.tower-research.com/open-positions/?gh_jid=8337292",
         "https://www.tower-research.com/open-positions/?gh_jid=7989358",
         "https://www.tower-research.com/open-positions/?gh_jid=8168750",
         "https://www.tower-research.com/open-positions/?gh_jid=8168634",
@@ -4881,14 +4877,14 @@
         "https://www.tower-research.com/open-positions/?gh_jid=5372566",
         "https://www.tower-research.com/open-positions/?gh_jid=5372616",
         "https://www.tower-research.com/open-positions/?gh_jid=8055190",
-        "https://www.tower-research.com/open-positions/?gh_jid=8159995",
         "https://www.tower-research.com/open-positions/?gh_jid=8288356",
+        "https://www.tower-research.com/open-positions/?gh_jid=8159995",
         "https://www.tower-research.com/open-positions/?gh_jid=6685350",
         "https://www.tower-research.com/open-positions/?gh_jid=7839735",
         "https://www.tower-research.com/open-positions/?gh_jid=8078008",
         "https://www.tower-research.com/open-positions/?gh_jid=8206816",
-        "https://www.tower-research.com/open-positions/?gh_jid=6346539",
         "https://www.tower-research.com/open-positions/?gh_jid=7979738",
+        "https://www.tower-research.com/open-positions/?gh_jid=6346539",
         "https://www.tower-research.com/open-positions/?gh_jid=8299894",
         "https://www.tower-research.com/open-positions/?gh_jid=8245433",
         "https://www.tower-research.com/open-positions/?gh_jid=8099779",
@@ -4899,8 +4895,8 @@
         "https://www.tower-research.com/open-positions/?gh_jid=8267089",
         "https://www.tower-research.com/open-positions/?gh_jid=8212179",
         "https://www.tower-research.com/open-positions/?gh_jid=8249158",
-        "https://www.tower-research.com/open-positions/?gh_jid=7992696",
         "https://www.tower-research.com/open-positions/?gh_jid=7613397",
+        "https://www.tower-research.com/open-positions/?gh_jid=7992696",
         "https://www.tower-research.com/open-positions/?gh_jid=7359179",
         "https://www.tower-research.com/open-positions/?gh_jid=8286542",
         "https://www.tower-research.com/open-positions/?gh_jid=8365712",
@@ -5260,7 +5256,6 @@
         "https://jobs.ashbyhq.com/voleon/8078a229-ee34-4b5c-a6b3-10ce5e0cae49",
         "https://jobs.ashbyhq.com/voleon/06b71069-99ef-44d4-a890-b47584f35c0d",
         "https://jobs.ashbyhq.com/voleon/7f5c6cc0-b189-4195-b24c-5eec3ac966fb",
-        "https://jobs.ashbyhq.com/voleon/f9d0308f-d69b-4a3c-8797-25b86fa23551",
         "https://jobs.ashbyhq.com/voleon/e278b919-3bd9-4206-9ace-a7bd9a1b7bce",
         "https://jobs.ashbyhq.com/voleon/c634ecae-0abf-47b6-922b-0828a5be9996",
         "https://jobs.ashbyhq.com/voleon/7c37540d-c382-4379-8f90-59c58c15b561",
@@ -5299,7 +5294,8 @@
         "https://jobs.ashbyhq.com/voleon/82ce474c-3763-4d72-bd9e-5f5cac00900f",
         "https://jobs.ashbyhq.com/voleon/5bd49d48-7a84-478f-82de-6d302c705613",
         "https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9",
-        "https://jobs.ashbyhq.com/voleon/37c98868-eba8-49e9-bce1-e4c95e00c651"
+        "https://jobs.ashbyhq.com/voleon/37c98868-eba8-49e9-bce1-e4c95e00c651",
+        "https://jobs.ashbyhq.com/voleon/d2e5725d-3cb3-4d7d-b7d6-34659659fd24"
       ]
     },
     {
@@ -6228,6 +6224,17 @@
       "notes": "posted=2026-10-28T09:03:12-04:00; internship timing not stated in title; undergrad/BS/MS language found"
     },
     {
+      "company": "ExodusPoint",
+      "source": "Greenhouse:exoduspoint",
+      "title": "Quantitative Internship – Hong Kong",
+      "department": "Fixed Income PM Teams",
+      "location": "Hong Kong",
+      "url": "https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002",
+      "content": "ABOUT EXODUSPOINT ExodusPoint Capital , founded in 2017 by Michael Gelband, began managing investor capital in 2018. The firm employs a global multi-strategy investment approach, seeking to deliver compelling asymmetric returns by combining complementary liquid strategies managed by experienced investment professionals within a robust risk framework. ExodusPoint brings together an accomplished team with hands-on experience running multi-manager businesses to create an institutional investment management firm. Quantitative Research Intern – Systematic FICC - Hong Kong About the Team The Systematic Rates team researches and runs fully systematic, data-driven strategies in global interest FICC markets. We combine solid statistics, careful engineering and a good feel for how markets work to build and improve systematic trading strategies. The Role You'll work closely with the portfolio manager. You'll do hands-on research and development across the whole strategy process, and you'll own real projects with real impact, not side tasks. Responsibilities Research, prototype and backtest systematic strategies across FICC products such as swaps and foreign exchange. Build and maintain production pipelines, research tools and analytics libraries. Run statistical analysis on market data: signal research, factor analysis, regime analysis, and transaction cost and capacity studies. Help monitor and analyse the performance and risk of live strategies. Write clean, tested, well-documented code that the team can rely on and reuse. Requirements Strong coding skills. &nbsp;You're proficient in Python (or a similar language). You can design, write, debug and explain your own code. We expect real engineering ability, not just prompting AI tools for code you can't reason about. Strong math and statistics. &nbsp;You're comfortable with probability, linear algebra, regression and time-series analysis. Basic knowledge of financial instruments. &nbsp;You understand FICC market at a foundational level, and you're keen to learn more. Nice to Have Experience on a fixed income or rates desk (trading, research or strategy). This is a plus, not a requirement. Experience with pandas, NumPy, SciPy, statsmodels or similar, plus SQL and version control (Git). Experience with backtesting frameworks, or with large and messy financial datasets. Availability Start date is as soon as possible. Full-time placement preferred for a season (e.g., an off-cycle). Duration will be 3 - 6 months in our Hong Kong office Part-time candidates can be considered who can commit to at least 4 days a week. &nbsp;",
+      "postedAt": "2026-11-13T16:13:38-05:00",
+      "notes": "posted=2026-11-13T16:13:38-05:00; internship timing not stated in title"
+    },
+    {
       "company": "Five Rings",
       "source": "Greenhouse:fiveringsllc",
       "title": "Summer 2027 - Trading Operations Engineer Intern",
@@ -7057,22 +7064,22 @@
       "source": "Greenhouse:optiverus",
       "title": "Software Engineer Internship (2027 Start)",
       "department": "Software",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
-      "content": "&nbsp; As a Software Engineering Intern, you will work side-by-side with your mentor and teammates to build software for Optiver’s real-time trading environment. You will work on&nbsp; projects that further develop and optimize our systems, testing and shipping code with guidance from experienced engineers and seeing how your work performs in production. In our business, where markets are always evolving, each day brings new engineering problems shaped by live conditions, performance requirements and system reliability. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. What you’ll do During the ten-week internship, you will be mentored by Optiver engineers, play a key role in advancing our world-class trading systems and work on projects that push the boundaries of performance and efficiency. You will: Build a strong foundation in trading fundamentals, from theoretical concepts and financial markets to strategies and the technology that supports them Work closely with senior engineers and traders to design, develop, test, and ship your code to production Tackle complex, real-world problems to enhance your critical thinking and problem-solving skills Learn how engineers collaborate with traders and researchers to understand requirements, respond to feedback and improve systems quickly Based on your performance during the internship, you could receive an offer to join our firm full-time after your studies, in either our London or Amsterdam office. What you’ll get You’ll join a culture of collaboration and excellence, where you’ll be surrounded by curious thinkers and creative problem solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, working collectively to tackle the toughest problems in the financial markets. In addition, you’ll receive: A highly competitive internship compensation package and accommodation included Extensive office perks, including breakfast and lunch and world-class barista coffee. The opportunity to participate in sports and leisure activities, along with social events &nbsp; Who you are Penultimate-year student in Computer Science, Computer Engineering or equivalent, with the ability to work full time upon graduation in 2028 Passionate for clean code, simple, well-architected systems and continuous improvement Proficient in industry-standard coding languages such as C++, Python, or Java, with a strong understanding of underlying computer architecture and system operations Have an entrepreneurial attitude and an interest in the financial industry An analytical mindset and strong problem-solving skills Able to work closely with other engineers, traders and business operations Applicants must have the right to work in the UK for the full duration of the London Summer 2027 Internship. For this internship, Optiver is unable to provide visa sponsorship, visa extension support, or other immigration support. Any offer will be conditional on satisfactory right-to-work verification before the internship begins &nbsp; How to Apply: Apply directly via the form below for the position of Software Engineer Intern. Please provide us with a CV in English. Unfortunately we cannot accept applications via email for data protection reasons. If your application is selected to proceed to the next round, you will be required to complete online assessments. By submitting your application you are confirming that you will be able to take the assessment within 7 days. Kindly note that we do not require any assistance from third-parties including agencies in the recruitment of this role. If you have any questions feel free to contact our Recruitment team via the contact form &nbsp; Diversity statement Optiver is committed to diversity and inclusion . We encourage applications from candidates from any and all backgrounds, and we welcome requests for reasonable adjustments during the process to ensure that you can best demonstrate your abilities. Please let us know if you would like to request any reasonable adjustments by contacting the Recruitment team via the contact form , selecting \"Reasonable Adjustments\" as the subject of your inquiry. For answers to some of our most frequently asked questions, refer to our FAQs . For applicants based in India, our entry route is via the placement office internship hiring season (July/August). Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed an online assessment or interviewed for a technology graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply after the 8-month cool off period.&nbsp; &nbsp;",
-      "postedAt": "2026-08-17T07:16:49-04:00",
-      "notes": "posted=2026-08-17T07:16:49-04:00; internship timing not stated in title; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found"
+      "location": "Amsterdam, North Holland, Netherlands",
+      "url": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
+      "content": "As a Software Engineering Intern, you will work side-by-side with your mentor and teammates to build software for Optiver’s real-time trading environment. You will work on&nbsp; projects that further develop and optimize our systems, testing and shipping code with guidance from experienced engineers and seeing how your work performs in production. In our business, where markets are always evolving, each day brings new engineering problems shaped by live conditions, performance requirements and system reliability. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. What you’ll do During the ten-week internship, you will be mentored by Optiver engineers and work on projects that improve the systems, tools and infrastructure behind our trading decisions. You will: Build a strong foundation in trading fundamentals, from theoretical concepts and financial markets to strategies and the technology that supports them Work closely with senior engineers and traders to design, develop, test, and ship your code to production Tackle complex, real-world problems to enhance your critical thinking and problem-solving skills Learn how engineers collaborate with traders and researchers to understand requirements, respond to feedback and improve systems quickly Based on your performance during the internship, you could receive an offer to join our firm full-time after your studies, in either our London or Amsterdam office. What you’ll get You’ll join a culture of collaboration and excellence, where you’ll be surrounded by curious thinkers and creative problem solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, working collectively to tackle the toughest problems in the financial markets. In addition, you’ll receive: A highly competitive internship compensation package Optiver-covered flights and accommodation in the city centre for the duration of the internship Extensive office perks, including breakfast, lunch and dinner, world-class barista coffee, bi-weekly massages, Friday afternoon drinks, a bicycle to explore Amsterdam and much more The opportunity to participate in sports and leisure activities, along with social events exclusively organised for your intern cohort &nbsp; Who you are Penultimate-year student in Computer Science, Computer Engineering or equivalent, with the ability to work full time upon graduation in 2028 Passionate for clean code, simple, well-architected systems and continuous improvement Proficient in industry-standard coding languages such as C++, Python, or Java, with a strong understanding of underlying computer architecture and system operations Have an entrepreneurial attitude and an interest in the financial industry An analytical mindset and strong problem-solving skills Able to work closely with other engineers, traders and business operations &nbsp; How to Apply: Apply directly via the form below for the position of Software Engineer Intern. Please provide us with a CV in English. Unfortunately we cannot accept applications via email for data protection reasons. If your application is selected to proceed to the next round, you will be required to complete online assessments. By submitting your application you are confirming that you will be able to take the assessment within 7 days. Kindly note that we do not require any assistance from third-parties including agencies in the recruitment of this role. If you have any questions feel free to contact our Recruitment team via the contact form &nbsp; Diversity statement Optiver is committed to diversity and inclusion . We encourage applications from candidates from any and all backgrounds, and we welcome requests for reasonable adjustments during the process to ensure that you can best demonstrate your abilities. Please let us know if you would like to request any reasonable adjustments by contacting the Recruitment team via the contact form , selecting \"Reasonable Adjustments\" as the subject of your inquiry. For answers to some of our most frequently asked questions, refer to our FAQs . For applicants based in India, our entry route is via the placement office internship hiring season (July/August). Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed an online assessment or interviewed for a technology graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply after the 8-month cool off period.&nbsp; &nbsp;",
+      "postedAt": "2026-08-17T07:16:48-04:00",
+      "notes": "posted=2026-08-17T07:16:48-04:00; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found"
     },
     {
       "company": "Optiver",
       "source": "Greenhouse:optiverus",
       "title": "Software Engineer Internship (2027 Start)",
       "department": "Software",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "url": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
-      "content": "As a Software Engineering Intern, you will work side-by-side with your mentor and teammates to build software for Optiver’s real-time trading environment. You will work on&nbsp; projects that further develop and optimize our systems, testing and shipping code with guidance from experienced engineers and seeing how your work performs in production. In our business, where markets are always evolving, each day brings new engineering problems shaped by live conditions, performance requirements and system reliability. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. What you’ll do During the ten-week internship, you will be mentored by Optiver engineers and work on projects that improve the systems, tools and infrastructure behind our trading decisions. You will: Build a strong foundation in trading fundamentals, from theoretical concepts and financial markets to strategies and the technology that supports them Work closely with senior engineers and traders to design, develop, test, and ship your code to production Tackle complex, real-world problems to enhance your critical thinking and problem-solving skills Learn how engineers collaborate with traders and researchers to understand requirements, respond to feedback and improve systems quickly Based on your performance during the internship, you could receive an offer to join our firm full-time after your studies, in either our London or Amsterdam office. What you’ll get You’ll join a culture of collaboration and excellence, where you’ll be surrounded by curious thinkers and creative problem solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, working collectively to tackle the toughest problems in the financial markets. In addition, you’ll receive: A highly competitive internship compensation package Optiver-covered flights and accommodation in the city centre for the duration of the internship Extensive office perks, including breakfast, lunch and dinner, world-class barista coffee, bi-weekly massages, Friday afternoon drinks, a bicycle to explore Amsterdam and much more The opportunity to participate in sports and leisure activities, along with social events exclusively organised for your intern cohort &nbsp; Who you are Penultimate-year student in Computer Science, Computer Engineering or equivalent, with the ability to work full time upon graduation in 2028 Passionate for clean code, simple, well-architected systems and continuous improvement Proficient in industry-standard coding languages such as C++, Python, or Java, with a strong understanding of underlying computer architecture and system operations Have an entrepreneurial attitude and an interest in the financial industry An analytical mindset and strong problem-solving skills Able to work closely with other engineers, traders and business operations &nbsp; How to Apply: Apply directly via the form below for the position of Software Engineer Intern. Please provide us with a CV in English. Unfortunately we cannot accept applications via email for data protection reasons. If your application is selected to proceed to the next round, you will be required to complete online assessments. By submitting your application you are confirming that you will be able to take the assessment within 7 days. Kindly note that we do not require any assistance from third-parties including agencies in the recruitment of this role. If you have any questions feel free to contact our Recruitment team via the contact form &nbsp; Diversity statement Optiver is committed to diversity and inclusion . We encourage applications from candidates from any and all backgrounds, and we welcome requests for reasonable adjustments during the process to ensure that you can best demonstrate your abilities. Please let us know if you would like to request any reasonable adjustments by contacting the Recruitment team via the contact form , selecting \"Reasonable Adjustments\" as the subject of your inquiry. For answers to some of our most frequently asked questions, refer to our FAQs . For applicants based in India, our entry route is via the placement office internship hiring season (July/August). Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed an online assessment or interviewed for a technology graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply after the 8-month cool off period.&nbsp; &nbsp;",
-      "postedAt": "2026-08-17T07:16:48-04:00",
-      "notes": "posted=2026-08-17T07:16:48-04:00; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found"
+      "location": "London, England, United Kingdom",
+      "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
+      "content": "&nbsp; As a Software Engineering Intern, you will work side-by-side with your mentor and teammates to build software for Optiver’s real-time trading environment. You will work on&nbsp; projects that further develop and optimize our systems, testing and shipping code with guidance from experienced engineers and seeing how your work performs in production. In our business, where markets are always evolving, each day brings new engineering problems shaped by live conditions, performance requirements and system reliability. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. What you’ll do During the ten-week internship, you will be mentored by Optiver engineers, play a key role in advancing our world-class trading systems and work on projects that push the boundaries of performance and efficiency. You will: Build a strong foundation in trading fundamentals, from theoretical concepts and financial markets to strategies and the technology that supports them Work closely with senior engineers and traders to design, develop, test, and ship your code to production Tackle complex, real-world problems to enhance your critical thinking and problem-solving skills Learn how engineers collaborate with traders and researchers to understand requirements, respond to feedback and improve systems quickly Based on your performance during the internship, you could receive an offer to join our firm full-time after your studies, in either our London or Amsterdam office. What you’ll get You’ll join a culture of collaboration and excellence, where you’ll be surrounded by curious thinkers and creative problem solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, working collectively to tackle the toughest problems in the financial markets. In addition, you’ll receive: A highly competitive internship compensation package and accommodation included Extensive office perks, including breakfast and lunch and world-class barista coffee. The opportunity to participate in sports and leisure activities, along with social events &nbsp; Who you are Penultimate-year student in Computer Science, Computer Engineering or equivalent, with the ability to work full time upon graduation in 2028 Passionate for clean code, simple, well-architected systems and continuous improvement Proficient in industry-standard coding languages such as C++, Python, or Java, with a strong understanding of underlying computer architecture and system operations Have an entrepreneurial attitude and an interest in the financial industry An analytical mindset and strong problem-solving skills Able to work closely with other engineers, traders and business operations Applicants must have the right to work in the UK for the full duration of the London Summer 2027 Internship. For this internship, Optiver is unable to provide visa sponsorship, visa extension support, or other immigration support. Any offer will be conditional on satisfactory right-to-work verification before the internship begins &nbsp; How to Apply: Apply directly via the form below for the position of Software Engineer Intern. Please provide us with a CV in English. Unfortunately we cannot accept applications via email for data protection reasons. If your application is selected to proceed to the next round, you will be required to complete online assessments. By submitting your application you are confirming that you will be able to take the assessment within 7 days. Kindly note that we do not require any assistance from third-parties including agencies in the recruitment of this role. If you have any questions feel free to contact our Recruitment team via the contact form &nbsp; Diversity statement Optiver is committed to diversity and inclusion . We encourage applications from candidates from any and all backgrounds, and we welcome requests for reasonable adjustments during the process to ensure that you can best demonstrate your abilities. Please let us know if you would like to request any reasonable adjustments by contacting the Recruitment team via the contact form , selecting \"Reasonable Adjustments\" as the subject of your inquiry. For answers to some of our most frequently asked questions, refer to our FAQs . For applicants based in India, our entry route is via the placement office internship hiring season (July/August). Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed an online assessment or interviewed for a technology graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply after the 8-month cool off period.&nbsp; &nbsp;",
+      "postedAt": "2026-08-17T07:16:49-04:00",
+      "notes": "posted=2026-08-17T07:16:49-04:00; internship timing not stated in title; graduation eligibility mentions: 2028, 2027; undergrad/BS/MS language found"
     },
     {
       "company": "PDT Partners",
@@ -7341,17 +7348,6 @@
     {
       "company": "Qube Research & Technologies",
       "source": "Greenhouse:quberesearchandtechnologies",
-      "title": "2027 Internship - Technology",
-      "department": "Internship - Technology",
-      "location": "New York, Chicago",
-      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002",
-      "content": "2027 – Internship, Technology&nbsp; Programmes offered: Final-year internship, penultimate-year internship Location: New York, Chicago Programme duration: 10-week summer internship Who qualifies: Penultimate or final-year students completing a bachelor’s or master’s degree Qube Research &amp; Technologies (QRT) is a global quantitative and systematic investment manager operating across liquid asset classes and markets worldwide. Our approach to investing is scientific: we bring together data, research, technology and trading expertise to develop and run systematic strategies. Technology is central to how QRT works. Over the years, we have built a global research and execution platform spanning geographies, asset classes and trading horizons, from ultra-low-latency systems to large-scale research, analytics and risk infrastructure. We invest heavily in engineering, automation and scalable systems because better technology allows us to test ideas faster, operate more reliably and tackle harder problems. Our internships are designed to give students meaningful experience of that work. You’ll join a team, contribute to real projects and learn from engineers, researchers and traders working on live problems. The environment is technical, collaborative and demanding, with plenty of scope to ask questions, test ideas and take ownership. Strong performance during the internship may lead to consideration for a full-time graduate role. Your future role at QRT As a Technology Intern, you’ll help build the systems, platforms and tools behind QRT’s research, trading and investment activities. You’ll work alongside experienced engineers, quantitative developers, researchers and traders, contributing to production technology and solving problems where performance, reliability and good engineering judgement matter. Depending on your interests and strengths, you may join one of four Technology disciplines. Software Engineer (New York) Build the technology behind QRT’s trading and investment activities, from ultra-low-latency execution systems to global platforms for analytics, risk management and reporting. Our engineers connect the firm to markets, brokers and data providers, developing systems that process large volumes of data reliably. You’ll work with experienced engineers, quantitative developers and researchers on a defined technical problem, making considered engineering choices and building something useful. Projects may include AI-powered static analysis, exchange simulator development, risk data platforms or trading interfaces. FPGA Engineer (New York, Chicago) Develop ultra-low-latency hardware that processes market data and executes orders. Working at the boundary between hardware and software, the FPGA team builds systems where small design decisions can have a measurable impact on latency, throughput and reliability. You’ll use SystemVerilog, C++ and Python to help design, test and integrate FPGA systems into our trading infrastructure. Alongside experienced engineers, you’ll develop new functionality, verify system behaviour and investigate performance improvements, gaining practical experience with the hardware and development tools used in live trading. Security Engineer (New York) Help protect the systems, data and infrastructure behind QRT’s global research and trading activities. Our Security team works closely with Cloud, Infrastructure and Network Operations to understand system behaviour, identify weaknesses and build practical ways to prevent, detect and respond to threats. You’ll contribute to security engineering, investigations and automation alongside experienced colleagues. Projects may include building agents to support cyber-security investigations, reproducing emerging attack techniques in isolated environments, researching vulnerabilities or developing tools that make security assurance more scalable and effective. Infrastructure Engineer (New York) Work on the on-premise hardware and operating systems behind QRT’s production trading environment. The Infrastructure team measures and optimises hardware performance, investigates Linux internals and tunes systems where small changes can make a meaningful difference to trading technology. Alongside experienced engineers, you’ll develop a detailed understanding of how hardware and software interact. Your work may involve investigating performance constraints, testing system configurations and assessing improvements to reliability. You’ll learn to use evidence and careful analysis to make production systems faster, more stable and more predictable. Your current skillset Eligibility: Penultimate or final-year students pursuing a Bachelor’s, Master’s in a STEM discipline, such as Computer Science, Physics, Mathematics or a related Engineering or Security subject, on track for a 2:1 or above from a leading institution. Interest in technology: You enjoy solving technical problems and are curious about how systems work. You’re interested in building things, not just studying them. Software engineering experience: We value hands-on experience wherever you gained it — through personal projects, open-source contributions, hobbies, internships or academic work. Interest in Software Engineering, Security, Infrastructure or FPGAs. Programming: Proficiency in C++, C# or Python, Systems Verilog Tools: Familiarity with scripting languages such as Python or Bash, and tools and technologies including Git, SQL, GCC and Linux. Mindset: Curious, proactive and comfortable asking questions. You look for ways to make systems simpler, faster or more reliable and can turn those observations into practical improvements. Approach: Self-motivated, thoughtful and comfortable taking ownership of a problem. Interviewing Application – Submit your application online. We review applications on a rolling basis, so applying early is recommended. Technical Assessment – Selected candidates will complete a coding challenge focused on core programming and problem-solving skills. Interviews – Shortlisted candidates will take part in interviews, either on-site at an assessment centre or via Microsoft Teams. We’ll explore your technical thinking, how you approach unfamiliar problems and how you work with others.&nbsp; &nbsp; At QRT, interns join a team from day one, working on real problems alongside experienced colleagues. You’ll contribute to meaningful projects, learn by doing and have the support to ask questions, explore ideas and develop your skills throughout the programme. The annualised base salary for these US positions is $178,000, prorated to reflect the duration of the internship. Interns also receive a signing bonus and a competitive benefits package, including healthcare coverage, access to a 401(k) plan, and breakfast and lunch. Beyond the work, there’s plenty happening in the office, from gym sessions and board game nights to team socials and opportunities to get to know colleagues across QRT. QRT is an equal opportunity employer. We welcome diversity as essential to our success. QRT empowers employees to work openly and respectfully to achieve collective success. In addition to professional achievement, we are offering initiatives and programs to enable employees achieve a healthy work-life balance.",
-      "postedAt": "2026-10-26T07:01:34-04:00",
-      "notes": "posted=2026-10-26T07:01:34-04:00; internship timing not stated in title; undergrad/BS/MS language found"
-    },
-    {
-      "company": "Qube Research & Technologies",
-      "source": "Greenhouse:quberesearchandtechnologies",
       "title": "2027 Internship – Security Engineer ",
       "department": "Internship - Technology",
       "location": "London, Paris, New York",
@@ -7563,22 +7559,22 @@
       "source": "Greenhouse:towerresearchcapital",
       "title": "Quantitative Developer Intern",
       "department": "On-Campus Recruiting",
-      "location": "Singapore",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
-      "content": "Tower Research Capital is a leading quantitative trading firm founded in 1998. Tower has built its business on a high-performance platform and independent trading teams. We have a 25+ year track record of innovation and a reputation&nbsp; for discovering unique market opportunities. Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization.&nbsp; Engineers thrive at Tower while developing electronic trading infrastructure at a world class level. Our engineers solve challenging problems in the realms of low-latency programming, FPGA technology, hardware acceleration and machine learning. Our ongoing investment in top engineering talent and technology ensures our platform remains unmatched in terms of functionality, scalability and performance. At Tower, every employee plays a role in our success. Our Business Support teams are essential to building and maintaining the platform that powers everything we do — combining market access, data, compute, and research infrastructure with risk management, compliance, and a full suite of business services. Our Business Support teams enable our trading and engineering teams to perform at their best. At Tower, employees will find a stimulating, results-oriented environment where highly intelligent and motivated colleagues inspire each other to reach their greatest potential. Responsibilities Iterating quickly with on-site quantitative researchers on research processes to improve the P&amp;L of the desk’s quantitative trading strategies Developing Python tools used across the research process Designing full-stack workflows with quantitative researchers to help evaluate and improve on trading strategies Qualifications Final-year bachelor's or master’s student in computer science, engineering, applied mathematics, or a related field Availability&nbsp;for a 10-week internship Strong interest in quantitative finance and software development Solid foundation in Python programming, with exposure to libraries such as NumPy, Pandas, or Polars through coursework or personal projects Demonstrated curiosity, problem-solving ability, and a desire to grow in a fast-paced, collaborative, and intellectually demanding environment Good communication skills and willingness to work as part of a distributed team Exposure to C++ and/or scripting languages (e.g., Bash) is a plus Interest in learning about large-scale systems, workflow orchestration, and production-grade software engineering practices Benefits Tower’s headquarters are in the historic Equitable Building, right in the heart of NYC’s Financial District and our impact is global, with over a dozen offices around the world.&nbsp; At Tower, we believe work should be both challenging and enjoyable. That is why we foster a culture where smart, driven people thrive – without the egos. Our open concept workplace, casual dress code, and well-stocked kitchens reflect the value we place on a friendly, collaborative environment where everyone is respected, and great ideas win. Our benefits include: Competitive compensation package Free breakfast, lunch, and snacks daily Exciting networking and social events At Tower, you’ll find a collaborative and welcoming culture, a diverse team and a workplace that values both performance and enjoyment. No unnecessary hierarchy. No ego. Just great people doing great work – together. Tower Research Capital is an equal opportunity employer. &nbsp;",
-      "postedAt": "2026-08-18T03:02:39-04:00",
-      "notes": "posted=2026-08-18T03:02:39-04:00; internship timing not stated in title; undergrad/BS/MS language found"
+      "location": "Paris",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
+      "content": "Tower Research Capital is a leading quantitative trading firm founded in 1998. Tower has built its business on a high-performance platform and independent trading teams. We have a 25+ year track record of innovation and a reputation for discovering unique market opportunities. Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization.&nbsp; Engineers thrive at Tower while developing electronic trading infrastructure at a world class level. Our engineers solve challenging problems in the realms of low-latency programming, FPGA technology, hardware acceleration and machine learning. Our ongoing investment in top engineering talent and technology ensures our platform remains unmatched in terms of functionality, scalability and performance. At Tower, every employee plays a role in our success. Our Business Support teams are essential to building and maintaining the platform that powers everything we do — combining market access, data, compute, and research infrastructure with risk management, compliance, and a full suite of business services. Our Business Support teams enable our trading and engineering teams to perform at their best. At Tower, employees will find a stimulating, results-oriented environment where highly intelligent and motivated colleagues inspire each other to reach their greatest potential. Please note, this internship opportunity is open to those who are available from February 2027 for six months. Responsibilities Iterating quickly with on-site quantitative researchers on the research processes in order to improve the desk's quantitative trading strategies P&amp;L Developing Python tools used in trading strategies research Improving the existing simulation/backtest framework Help global research team on EMEA-related research through various communication channels Qualifications Currently in the final year of a Master’s degree in Computer Science, Engineering, Applied Math, or a related field Strong interest in quantitative finance and software development Solid foundation in Python programming and exposure to libraries such as NumPy, Pandas, or Polars through coursework or personal projects Demonstrated curiosity, problem-solving ability, and a desire to grow in a fast-paced, collaborative, and intellectually demanding environment Good communication skills and willingness to work as part of a distributed team Exposure to C++ and/or scripting languages (e.g., Bash) is a plus Interest in learning about large-scale systems, workflow orchestration, and production-grade software engineering practices Benefits Competitive compensation package Free breakfast, lunch, and snacks daily Exciting networking and social events Opportunities to learn from senior management across the firm Mentors from your alma mater and other top institutions Tower Research Capital is an equal opportunity employer.",
+      "postedAt": "2025-06-25T13:57:19-04:00",
+      "notes": "posted=2025-06-25T13:57:19-04:00; internship timing not stated in title; undergrad/BS/MS language found"
     },
     {
       "company": "Tower Research Capital",
       "source": "Greenhouse:towerresearchcapital",
       "title": "Quantitative Developer Intern",
       "department": "On-Campus Recruiting",
-      "location": "Paris",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
-      "content": "Tower Research Capital is a leading quantitative trading firm founded in 1998. Tower has built its business on a high-performance platform and independent trading teams. We have a 25+ year track record of innovation and a reputation for discovering unique market opportunities. Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization.&nbsp; Engineers thrive at Tower while developing electronic trading infrastructure at a world class level. Our engineers solve challenging problems in the realms of low-latency programming, FPGA technology, hardware acceleration and machine learning. Our ongoing investment in top engineering talent and technology ensures our platform remains unmatched in terms of functionality, scalability and performance. At Tower, every employee plays a role in our success. Our Business Support teams are essential to building and maintaining the platform that powers everything we do — combining market access, data, compute, and research infrastructure with risk management, compliance, and a full suite of business services. Our Business Support teams enable our trading and engineering teams to perform at their best. At Tower, employees will find a stimulating, results-oriented environment where highly intelligent and motivated colleagues inspire each other to reach their greatest potential. Please note, this internship opportunity is open to those who are available from February 2027 for six months. Responsibilities Iterating quickly with on-site quantitative researchers on the research processes in order to improve the desk's quantitative trading strategies P&amp;L Developing Python tools used in trading strategies research Improving the existing simulation/backtest framework Help global research team on EMEA-related research through various communication channels Qualifications Currently in the final year of a Master’s degree in Computer Science, Engineering, Applied Math, or a related field Strong interest in quantitative finance and software development Solid foundation in Python programming and exposure to libraries such as NumPy, Pandas, or Polars through coursework or personal projects Demonstrated curiosity, problem-solving ability, and a desire to grow in a fast-paced, collaborative, and intellectually demanding environment Good communication skills and willingness to work as part of a distributed team Exposure to C++ and/or scripting languages (e.g., Bash) is a plus Interest in learning about large-scale systems, workflow orchestration, and production-grade software engineering practices Benefits Competitive compensation package Free breakfast, lunch, and snacks daily Exciting networking and social events Opportunities to learn from senior management across the firm Mentors from your alma mater and other top institutions Tower Research Capital is an equal opportunity employer.",
-      "postedAt": "2025-06-25T13:57:19-04:00",
-      "notes": "posted=2025-06-25T13:57:19-04:00; internship timing not stated in title; undergrad/BS/MS language found"
+      "location": "Singapore",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
+      "content": "Tower Research Capital is a leading quantitative trading firm founded in 1998. Tower has built its business on a high-performance platform and independent trading teams. We have a 25+ year track record of innovation and a reputation&nbsp; for discovering unique market opportunities. Tower is home to some of the world’s best systematic trading and engineering talent. We empower portfolio managers to build their teams and strategies independently while providing the economies of scale that come from a large, global organization.&nbsp; Engineers thrive at Tower while developing electronic trading infrastructure at a world class level. Our engineers solve challenging problems in the realms of low-latency programming, FPGA technology, hardware acceleration and machine learning. Our ongoing investment in top engineering talent and technology ensures our platform remains unmatched in terms of functionality, scalability and performance. At Tower, every employee plays a role in our success. Our Business Support teams are essential to building and maintaining the platform that powers everything we do — combining market access, data, compute, and research infrastructure with risk management, compliance, and a full suite of business services. Our Business Support teams enable our trading and engineering teams to perform at their best. At Tower, employees will find a stimulating, results-oriented environment where highly intelligent and motivated colleagues inspire each other to reach their greatest potential. Responsibilities Iterating quickly with on-site quantitative researchers on research processes to improve the P&amp;L of the desk’s quantitative trading strategies Developing Python tools used across the research process Designing full-stack workflows with quantitative researchers to help evaluate and improve on trading strategies Qualifications Final-year bachelor's or master’s student in computer science, engineering, applied mathematics, or a related field Availability&nbsp;for a 10-week internship Strong interest in quantitative finance and software development Solid foundation in Python programming, with exposure to libraries such as NumPy, Pandas, or Polars through coursework or personal projects Demonstrated curiosity, problem-solving ability, and a desire to grow in a fast-paced, collaborative, and intellectually demanding environment Good communication skills and willingness to work as part of a distributed team Exposure to C++ and/or scripting languages (e.g., Bash) is a plus Interest in learning about large-scale systems, workflow orchestration, and production-grade software engineering practices Benefits Tower’s headquarters are in the historic Equitable Building, right in the heart of NYC’s Financial District and our impact is global, with over a dozen offices around the world.&nbsp; At Tower, we believe work should be both challenging and enjoyable. That is why we foster a culture where smart, driven people thrive – without the egos. Our open concept workplace, casual dress code, and well-stocked kitchens reflect the value we place on a friendly, collaborative environment where everyone is respected, and great ideas win. Our benefits include: Competitive compensation package Free breakfast, lunch, and snacks daily Exciting networking and social events At Tower, you’ll find a collaborative and welcoming culture, a diverse team and a workplace that values both performance and enjoyment. No unnecessary hierarchy. No ego. Just great people doing great work – together. Tower Research Capital is an equal opportunity employer. &nbsp;",
+      "postedAt": "2026-08-18T03:02:39-04:00",
+      "notes": "posted=2026-08-18T03:02:39-04:00; internship timing not stated in title; undergrad/BS/MS language found"
     },
     {
       "company": "Tower Research Capital",
@@ -8104,7 +8100,7 @@
         "description": "The D.&nbsp;E.&nbsp;Shaw group seeks talented individuals with unique perspectives to join the firm as proprietary trading interns. Trader interns sit at the core of the firm’s discretionary investment strategies and take on complex challenges to deepen their understanding of financial markets, investment processes, and trade construction. They gain exposure to the firm’s portfolio management strategies, process-oriented investment philosophy, and risk management in a collaborative and engaging work environment. This is a ten-week program that will take place in New York and is expected to run from June to August 2027.",
         "responsibilities": "",
         "skills": "Candidates who approach problem solving with curiosity, think creatively, and can generate interesting and orthogonal insights (e.g., through involvement in coding or trading competitions, hackathons, investment clubs, or STEM research experience).\r\nIndividuals with an aptitude for deep analysis who can recognize connections across a wide range of sources and synthesize information into clear and persuasive messages.\r\nApplicants should be able to support arguments with data and quantitative analysis.\r\nWe welcome applicants from any field of study; no previous finance experience is necessary. Students in this program are usually approaching their final year of full-time study.\r\nThe position offers a monthly base salary of $25,000, overtime pay, a competitive sign-on bonus, travel coverage to and from the internship, and choice of furnished summer housing or a $10,000 housing allowance. It also includes a $3,300 stipend for self-study materials and a $4,000 stipend for personal technology equipment. If you have any questions about the compensation, please ask one of our recruiters.",
-        "datePosted": "Fri Nov 13 2026 10:47:48 GMT+0000 (Coordinated Universal Time)"
+        "datePosted": "Sat Nov 14 2026 15:44:45 GMT+0000 (Coordinated Universal Time)"
       }
     }
   ]

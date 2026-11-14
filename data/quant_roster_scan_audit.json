@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T10:52:14.611Z",
-  "scanStartedAt": "2026-11-13T10:47:49.085Z",
+  "generatedAt": "2026-11-14T15:48:37.824Z",
+  "scanStartedAt": "2026-11-14T15:44:45.557Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
-    "matching-role-found": 49,
+    "matching-role-found": 50,
     "confirmed-no-open-postings": 4,
-    "confirmed-openings-no-matching-role": 36,
+    "confirmed-openings-no-matching-role": 35,
     "could-not-fully-verify": 216
   },
   "companies": [
@@ -21,7 +21,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 37,
+      "jobsSeen": 36,
       "relevantInternships": 8
     },
     {
@@ -90,7 +90,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "relevantInternships": 0
     },
     {
@@ -144,7 +144,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 154,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -962,7 +962,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantInternships": 0
     },
     {
@@ -988,7 +988,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 37,
+      "jobsSeen": 38,
       "relevantInternships": 0
     },
     {
@@ -1070,7 +1070,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 134,
+      "jobsSeen": 137,
       "relevantInternships": 7
     },
     {
@@ -1134,14 +1134,14 @@
       "sourceRosterNames": [
         "ExodusPoint Capital"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://job-boards.greenhouse.io/exoduspoint"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
-      "relevantInternships": 0
+      "jobsSeen": 4,
+      "relevantInternships": 1
     },
     {
       "company": "Five Rings",
@@ -1187,7 +1187,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantInternships": 2
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 82,
+      "jobsSeen": 83,
       "relevantInternships": 4
     },
     {
@@ -1478,7 +1478,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 5,
+      "jobsSeen": 6,
       "relevantInternships": 0
     },
     {
@@ -1682,7 +1682,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 59,
+      "jobsSeen": 58,
       "relevantInternships": 0
     },
     {
@@ -2134,7 +2134,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 158,
+      "jobsSeen": 156,
       "relevantInternships": 17
     },
     {
@@ -2497,7 +2497,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 70,
+      "jobsSeen": 71,
       "relevantInternships": 12
     },
     {
@@ -2686,7 +2686,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 15,
+      "jobsSeen": 13,
       "relevantInternships": 2
     },
     {
@@ -3125,7 +3125,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 165,
+      "jobsSeen": 141,
       "relevantInternships": 0
     },
     {
@@ -3706,7 +3706,7 @@
       "careerPages": [
         "https://www.tidal-energy.com/careers"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3764,9 +3764,13 @@
         "VICI Holdings"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://viciproperties.com/careers/",
+        "https://www.viciholdings.com/en/contact/",
+        "https://www.vici.com/jobs/marketingcoordinator.php"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -3795,7 +3799,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 36,
+      "jobsSeen": 38,
       "relevantInternships": 0
     },
     {
@@ -3919,7 +3923,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 93,
+      "jobsSeen": 92,
       "relevantInternships": 13
     },
     {
@@ -4284,7 +4288,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 92,
+      "jobsSeen": 91,
       "relevantInternships": 1
     },
     {

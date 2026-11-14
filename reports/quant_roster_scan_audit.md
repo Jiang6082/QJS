@@ -1,10 +1,10 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-11-13T10:47:49.085Z
+Scan started: 2026-11-14T15:44:45.557Z
 Source roster entries: 306
 Canonical companies after aliases: 305
 
-## Matching Roles Found (49)
+## Matching Roles Found (50)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -22,6 +22,7 @@ Canonical companies after aliases: 305
 | DV Trading | 1/1 pages live | [link](https://dvtrading.co/join-dv/) |
 | Deutsche Bank | 1/1 pages live | [link](https://db.wd3.myworkdayjobs.com/DBWebsite/) |
 | Engineers Gate | 1/1 pages live | [link](https://job-boards.greenhouse.io/engineersgate) |
+| ExodusPoint | 1/1 pages live | [link](https://job-boards.greenhouse.io/exoduspoint) |
 | Five Rings | 4/4 pages live | [link](https://job-boards.greenhouse.io/fiveringsllc) [link](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008) [link](https://fiveringsfinancial.com/join-our-team/) [link](https://fiverings.com/careers/) |
 | GSA Capital | 3/3 pages live | [link](https://www.gsacapital.com/careers/) [link](https://job-boards.greenhouse.io/gsacapital) [link](https://www.gsacapital.com/join-us) |
 | Hudson River Trading | 0/2 pages live | [link](https://www.hudsonrivertrading.com/careers/) [link](https://www.hudsonrivertrading.com/careers/job/) |
@@ -67,7 +68,7 @@ Canonical companies after aliases: 305
 | TGS | 1/1 pages live | [link](https://www.tgsmc.com/join-our-team/) |
 | RRS Group | 0/1 pages live | [link](https://jobs.smartrecruiters.com/RRSGroup) |
 
-## Confirmed Openings, No Matching Role (36)
+## Confirmed Openings, No Matching Role (35)
 
 | Company | Source health | Saved pages |
 | --- | --- | --- |
@@ -81,7 +82,6 @@ Canonical companies after aliases: 305
 | Ansatz Capital | 1/1 pages live | [link](https://jobs.lever.co/ansatzcapital?by=location) |
 | Clear Street | 1/1 pages live | [link](https://job-boards.greenhouse.io/clearstreet?gh_src=bdd2c3261) |
 | Domeyard LP | 1/1 pages live | [link](https://careers.smartrecruiters.com/DomeyardLP?location=Boston&page=0&search=) |
-| ExodusPoint | 1/1 pages live | [link](https://job-boards.greenhouse.io/exoduspoint) |
 | Eclipse Trading | 1/1 pages live | [link](https://job-boards.greenhouse.io/eclipsetrading/jobs/8147003002) |
 | GSR | 1/1 pages live | [link](https://job-boards.greenhouse.io/gsrmarkets/jobs/4421987101) |
 | Deeter Analytics | 0/1 pages live | [link](https://jobs.ashbyhq.com/deeter-analytics/27b65fa1-9629-4925-8a89-9c77bec491df) |
@@ -305,10 +305,10 @@ Canonical companies after aliases: 305
 | Stronghold Capital Management | 0/1 pages live | [link](https://www.stronghold.capital/) |
 | TCI Fund Management | 1/1 pages live | [link](https://careers.tcitransportation.com/) |
 | Teesta Investment | 1/1 pages live | [link](https://teesta.co/join-us) |
-| Tidal Energy Marketing | 0/1 pages live | [link](https://www.tidal-energy.com/careers) |
+| Tidal Energy Marketing | 1/1 pages live | [link](https://www.tidal-energy.com/careers) |
 | Trafigura | 1/1 pages live | [link](https://www.trafigura.com/careers/) |
 | UTR8 Group | 0/1 pages live | [link](https://utr8-group.com/careers/) |
-| VICI Holdings | no saved page attempted | none |
+| VICI Holdings | 3/3 pages live | [link](https://viciproperties.com/careers/) [link](https://www.viciholdings.com/en/contact/) [link](https://www.vici.com/jobs/marketingcoordinator.php) |
 | WH Trading | 0/1 pages live | [link](https://www.simplyhired.com/browse-jobs/companies/Wh-Trading-LLC) |
 | Whistler Trading | 0/1 pages live | [link](https://job-boards.greenhouse.io/whistlertrading) |
 | Wolverine Trading | 1/1 pages live | [link](https://www.wolve.com/careers/) |

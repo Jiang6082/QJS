@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-13T10:52:27.931Z",
+  "checkedAt": "2026-11-14T15:48:53.425Z",
   "boards": [
     {
       "site": "NBCareers",
-      "jobsSeen": 70,
+      "jobsSeen": 71,
       "searchComplete": true,
       "errors": []
     },
@@ -19,7 +19,7 @@
       "title": "Intern",
       "externalPath": "/job/Hong-Kong/Intern_R0012540",
       "locationsText": "Hong Kong",
-      "postedOn": "Posted Today",
+      "postedOn": "Posted Yesterday",
       "bulletFields": [
         "R0012540"
       ],
@@ -32,7 +32,7 @@
       "title": "プライベート・デット インターン(投資業務+AI活用)/ Private Debt Intern",
       "externalPath": "/job/Tokyo/----AI---Private-Debt-Intern_R0012797",
       "locationsText": "Tokyo",
-      "postedOn": "Posted 7 Days Ago",
+      "postedOn": "Posted 8 Days Ago",
       "bulletFields": [
         "R0012797"
       ],
@@ -45,7 +45,7 @@
       "title": "Private Markets MBA Intern Summer 2027",
       "externalPath": "/job/New-York-NY/Private-Markets-MBA-Intern_R0012787",
       "locationsText": "New York, NY",
-      "postedOn": "Posted 14 Days Ago",
+      "postedOn": "Posted 15 Days Ago",
       "bulletFields": [
         "R0012787"
       ],

@@ -1,4 +1,4 @@
-# Roles posted 2026-10-24 → 2026-11-13 (41 with source posting dates)
+# Roles posted 2026-10-25 → 2026-11-14 (42 with source posting dates)
 
 _Dates come from employer publication fields or dated relative labels. Relative labels have day-level precision; source publication dates can reflect a repost. Internship start dates and edit timestamps are not release dates._
 
@@ -49,15 +49,18 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-11-12** — [Internship Strategy – Private Bank Europe Domestic - Milan (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship-Strategy---Private-Bank-Europe-Domestic---Milan--f-m-x-_R0458292) — Milano Bicocca Calendario 3 _(relative source date)_
 - **2026-11-05** — [Internship Regional Management, Corporate Strategy e Sustainability (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450) — Milano Bicocca Calendario 1 _(relative source date)_
 
-## Qube Research & Technologies (2)
-
-- **2026-11-02** — [2027 - Internship, HR Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002) — London
-- **2026-10-26** — [2027 Internship - Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) — New York, Chicago
-
 ## Jain Global (2)
 
 - **2026-10-31** — [APAC Research Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Hong-Kong-Office/APAC-Quant-Research-Intern_JR100553) — Hong Kong Office _(relative source date)_
 - **2026-10-31** — [Risk Quant Modeller - Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Hong-Kong-Office/Risk-Quant-Modeller---Intern_JR100472-1) — Hong Kong Office _(relative source date)_
+
+## Capital Group (1)
+
+- **2026-11-13** — [CAMPUS Global Technology Summer Associate (2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798) — Irvine _(relative source date)_
+
+## ExodusPoint (1)
+
+- **2026-11-13** — [Quantitative Internship – Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) — Hong Kong
 
 ## Morningstar (1)
 
@@ -78,6 +81,10 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 ## Arrowstreet (1)
 
 - **2026-11-03** — [Software Engineer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561) — Boston _(relative source date)_
+
+## Qube Research & Technologies (1)
+
+- **2026-11-02** — [2027 - Internship, HR Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002) — London
 
 ## Brevan Howard (1)
 
