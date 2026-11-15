@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T15:48:37.824Z",
-  "scanStartedAt": "2026-11-14T15:44:45.557Z",
+  "generatedAt": "2026-11-15T11:49:22.376Z",
+  "scanStartedAt": "2026-11-15T11:44:48.769Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
@@ -144,7 +144,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 151,
       "relevantInternships": 0
     },
     {
@@ -1070,7 +1070,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 137,
+      "jobsSeen": 135,
       "relevantInternships": 7
     },
     {
@@ -3125,7 +3125,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 141,
+      "jobsSeen": 142,
       "relevantInternships": 0
     },
     {
@@ -3723,7 +3723,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 55,
+      "jobsSeen": 54,
       "relevantInternships": 0
     },
     {
@@ -4172,7 +4172,7 @@
       "careerPages": [
         "https://jobs.universalparks.com/universal-orlando-resort/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0

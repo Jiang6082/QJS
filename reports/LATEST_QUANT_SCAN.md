@@ -1,15 +1,15 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-11-14T15:44:45.557Z
+Last updated: 2026-11-15T11:44:48.769Z
 
 ## Summary
 
 - Companies searched: 370
 - Career pages checked: 528
-- Current retained roles: 483
-- New stable job URLs since previous scan: 2
-- No longer present since previous scan: 3
-- Missing without enough closure evidence: 138
+- Current retained roles: 486
+- New stable job URLs since previous scan: 4
+- No longer present since previous scan: 0
+- Missing without enough closure evidence: 135
 - Matching-role firms: 50
 - Confirmed no open postings: 4
 - Openings but no matching role: 35
@@ -17,17 +17,19 @@ Last updated: 2026-11-14T15:44:45.557Z
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (3)
+
+- **BlackRock** - [2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468) - New York, NY
+- **BlackRock** - [2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469) - San Francisco, CA
+- **BlackRock** - [2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471) - New York, NY
+
+### Europe (1)
+
+- **PGIM** - [PGIM | Intern, Real Estate Private Equity Portfolio Management (all genders) as of Q1 2027, Based in Frankfurt](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1) - Frankfurt, Germany
+
+### Asia (0)
 
 _None._
-
-### Europe (0)
-
-_None._
-
-### Asia (1)
-
-- **ExodusPoint** - [Quantitative Internship – Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) - Hong Kong
 
 ### Oceania (0)
 
@@ -49,15 +51,13 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **Capital Group** - [CAMPUS Global Technology Summer Associate (2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798) - Irvine
+_None._
 
 ## No Longer Present
 
-- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4410729009) - Vancouver, British Columbia, Canada
-- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410729009) - Vancouver, British Columbia, Canada
-- **Qube Research & Technologies** - [2027 Internship - Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) - New York, Chicago
+_None._
 
 ## Full Reports
 

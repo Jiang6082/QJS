@@ -1,6 +1,6 @@
 # Quant Roster Scan Audit
 
-Scan started: 2026-11-14T15:44:45.557Z
+Scan started: 2026-11-15T11:44:48.769Z
 Source roster entries: 306
 Canonical companies after aliases: 305
 
@@ -323,7 +323,7 @@ Canonical companies after aliases: 305
 | TRV Trading Ltd | 1/1 pages live | [link](https://www.trvtradinggroup.com/) |
 | TradeLink | 1/1 pages live | [link](https://www.tradelink.co/careers) |
 | UBS | 5/5 pages live | [link](https://www.ubs.com/global/en/careers.html) [link](https://www.ubs.com/global/en/careers/search-jobs.html) [link](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=searchResults&SearchType=linkquery&LinkID=15231) [link](https://www.ubs.com/global/en/careers/early-careers.html) [link](https://www.ubs.com/global/en/careers/early-careers/faq.html) |
-| Universa Investments | 1/1 pages live | [link](https://jobs.universalparks.com/universal-orlando-resort/) |
+| Universa Investments | 0/1 pages live | [link](https://jobs.universalparks.com/universal-orlando-resort/) |
 | VS Capital | 1/1 pages live | [link](https://vscapitalgrp.com/careers) |
 | Verma Research Capital | no saved page attempted | none |
 | Wallsoft Labs | no saved page attempted | none |

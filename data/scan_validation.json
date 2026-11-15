@@ -1,37 +1,13 @@
 {
-  "generatedAt": "2026-11-14T15:48:53.697Z",
-  "scanDate": "2026-11-14",
-  "baselineCommit": "b6fc2dc379d79bfb40f434d2e863d592176474c1",
-  "baselineScanAt": "2026-11-13T10:47:49.085Z",
-  "currentScanAt": "2026-11-14T15:44:45.557Z",
+  "generatedAt": "2026-11-15T11:49:35.579Z",
+  "scanDate": "2026-11-15",
+  "baselineCommit": "f42f4ab8c81817b047beedd6a50339f34ac8614d",
+  "baselineScanAt": "2026-11-14T15:44:45.557Z",
+  "currentScanAt": "2026-11-15T11:44:48.769Z",
   "status": "passed",
-  "baselineRows": 488,
-  "currentRows": 483,
+  "baselineRows": 483,
+  "currentRows": 486,
   "exactAdded": [
-    {
-      "Company": "Capital Group",
-      "Title": "CAMPUS Global Technology Summer Associate (2027)",
-      "Department": "",
-      "Location": "Irvine",
-      "URL": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798",
-      "Source": "Career page Workday:capgroup/capitalgroupcareers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers | Posted Yesterday | JR7798",
-      "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "ExodusPoint",
-      "Title": "Quantitative Internship – Hong Kong",
-      "Department": "Fixed Income PM Teams",
-      "Location": "Hong Kong",
-      "URL": "https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002",
-      "Source": "Career page Greenhouse:exoduspoint",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-11-13T16:13:38-05:00 | career_page=https://job-boards.greenhouse.io/exoduspoint | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8943351002 | internship timing not stated in title | ABOUT EXODUSPOINT ExodusPoint Capital , founded in 2017 by Michael Gelband, began managing investor capital in 2018. The firm employs a global multi-strategy investment approach, seeking to deliver compelling asymmetric returns by combining complementary liquid strategies managed by experienced investment professionals within a robust risk framework. ExodusPoint brings together an accomplished team with hands-on experience running multi-manager businesses to create an institutional investment management firm. Quantitative Research Intern – Systematic FICC - Hong Kong About the Team The Systematic Rates team researches and runs fully systematic, data-driven strategies in global interes...",
-      "Region": "Asia"
-    }
-  ],
-  "exactRemoved": [
     {
       "Company": "BlackRock",
       "Title": "2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York",
@@ -66,27 +42,63 @@
       "Region": "North America"
     },
     {
-      "Company": "Connor Clark & Lunn",
-      "Title": "Intern, Retail Portfolio Operations",
-      "Department": "Retail Portfolio Operations",
-      "Location": "Vancouver, British Columbia, Canada",
-      "URL": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410729009",
-      "Source": "Career page Greenhouse:cclfg",
+      "Company": "PGIM",
+      "Title": "PGIM | Intern, Real Estate Private Equity Portfolio Management (all genders) as of Q1 2027, Based in Frankfurt",
+      "Department": "",
+      "Location": "Frankfurt, Germany",
+      "URL": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1",
+      "Source": "Career page Workday:pru/PGIM_Careers",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-18T15:44:48-04:00 | career_page=https://cclfg.cclgroup.com/careers/opportunities/ | company_wrapper=https://cclfg.cclgroup.com/careers/opportunities/job?gh_jid=4410729009 | internship timing not stated in title | We are looking for a Retail Portfolio Operations Intern to join our Vancouver-based Investment Resource Group for an 8-month term (January-August 2027). This role offers an excellent opportunity for a student or recent graduate interested in investment operations, financial services, process improvement, and technology. The successful candidate will gain hands-on experience supporting retail portfolio operations while working alongside experienced professionals in a collaborative and entrepreneurial environment What You Will Do Assist with maintaining and reconciling client portfolio data. Support the maintenance of operational systems and data used across portfol...",
+      "Notes": "career_page=https://pru.wd5.myworkdayjobs.com/PGIM_Careers | Posted 30+ Days Ago | R-125016",
+      "Region": "Europe"
+    }
+  ],
+  "exactRemoved": [
+    {
+      "Company": "BNP Paribas",
+      "Title": "2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading",
+      "Department": "",
+      "Location": "New York, US",
+      "URL": "https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading",
+      "Source": "Career page JSON-LD",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading | datePosted=2026-10-15",
+      "Region": "North America"
+    }
+  ],
+  "reportedAdded": [
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York",
+      "Department": "",
+      "Location": "New York, NY",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted 30+ Days Ago | R266468",
       "Region": "North America"
     },
     {
-      "Company": "Connor Clark & Lunn",
-      "Title": "Intern, Retail Portfolio Operations",
-      "Department": "Retail Portfolio Operations",
-      "Location": "Vancouver, British Columbia, Canada",
-      "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4410729009",
-      "Source": "Career page Greenhouse:cclfg",
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco",
+      "Department": "",
+      "Location": "San Francisco, CA",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
       "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-18T15:44:48-04:00 | career_page=https://job-boards.greenhouse.io/cclfg | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4410729009 | internship timing not stated in title | We are looking for a Retail Portfolio Operations Intern to join our Vancouver-based Investment Resource Group for an 8-month term (January-August 2027). This role offers an excellent opportunity for a student or recent graduate interested in investment operations, financial services, process improvement, and technology. The successful candidate will gain hands-on experience supporting retail portfolio operations while working alongside experienced professionals in a collaborative and entrepreneurial environment What You Will Do Assist with maintaining and reconciling client portfolio data. Support the maintenance of operational systems and data used across portfolio administration, trade ma...",
-      "Region": "North America",
-      "lastSeenOpenAt": "2026-11-12T11:18:10.244Z"
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted 30+ Days Ago | R266469",
+      "Region": "North America"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York",
+      "Department": "",
+      "Location": "New York, NY",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "Status": "Confirmed official posting",
+      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted 30+ Days Ago | R266471",
+      "Region": "North America"
     },
     {
       "Company": "PGIM",
@@ -98,95 +110,16 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://pru.wd5.myworkdayjobs.com/PGIM_Careers | Posted 30+ Days Ago | R-125016",
       "Region": "Europe"
-    },
-    {
-      "Company": "Qube Research & Technologies",
-      "Title": "2027 Internship - Technology",
-      "Department": "Internship - Technology",
-      "Location": "New York, Chicago",
-      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002",
-      "Source": "Greenhouse:quberesearchandtechnologies",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-10-26T07:01:34-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | revalidated_from_previous_scan=true",
-      "Region": "North America",
-      "lastSeenOpenAt": "2026-11-12T11:18:10.244Z"
     }
   ],
-  "reportedAdded": [
-    {
-      "Company": "Capital Group",
-      "Title": "CAMPUS Global Technology Summer Associate (2027)",
-      "Department": "",
-      "Location": "Irvine",
-      "URL": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798",
-      "Source": "Career page Workday:capgroup/capitalgroupcareers",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers | Posted Yesterday | JR7798",
-      "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "ExodusPoint",
-      "Title": "Quantitative Internship – Hong Kong",
-      "Department": "Fixed Income PM Teams",
-      "Location": "Hong Kong",
-      "URL": "https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002",
-      "Source": "Career page Greenhouse:exoduspoint",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-11-13T16:13:38-05:00 | career_page=https://job-boards.greenhouse.io/exoduspoint | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8943351002 | internship timing not stated in title | ABOUT EXODUSPOINT ExodusPoint Capital , founded in 2017 by Michael Gelband, began managing investor capital in 2018. The firm employs a global multi-strategy investment approach, seeking to deliver compelling asymmetric returns by combining complementary liquid strategies managed by experienced investment professionals within a robust risk framework. ExodusPoint brings together an accomplished team with hands-on experience running multi-manager businesses to create an institutional investment management firm. Quantitative Research Intern – Systematic FICC - Hong Kong About the Team The Systematic Rates team researches and runs fully systematic, data-driven strategies in global interes...",
-      "Region": "Asia"
-    }
-  ],
-  "reportedRemoved": [
-    {
-      "Company": "Connor Clark & Lunn",
-      "Title": "Intern, Retail Portfolio Operations",
-      "Department": "Retail Portfolio Operations",
-      "Location": "Vancouver, British Columbia, Canada",
-      "URL": "https://job-boards.greenhouse.io/cclfg/jobs/4410729009",
-      "Source": "Career page Greenhouse:cclfg",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-18T15:44:48-04:00 | career_page=https://job-boards.greenhouse.io/cclfg | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=4410729009 | internship timing not stated in title | We are looking for a Retail Portfolio Operations Intern to join our Vancouver-based Investment Resource Group for an 8-month term (January-August 2027). This role offers an excellent opportunity for a student or recent graduate interested in investment operations, financial services, process improvement, and technology. The successful candidate will gain hands-on experience supporting retail portfolio operations while working alongside experienced professionals in a collaborative and entrepreneurial environment What You Will Do Assist with maintaining and reconciling client portfolio data. Support the maintenance of operational systems and data used across portfolio administration, trade ma...",
-      "Region": "North America",
-      "lastSeenOpenAt": "2026-11-13T10:47:49.085Z",
-      "lastSeenEvidence": "recorded_scan",
-      "detectedClosedAt": "2026-11-14T15:44:45.557Z"
-    },
-    {
-      "Company": "Connor Clark & Lunn",
-      "Title": "Intern, Retail Portfolio Operations",
-      "Department": "Retail Portfolio Operations",
-      "Location": "Vancouver, British Columbia, Canada",
-      "URL": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410729009",
-      "Source": "Career page Greenhouse:cclfg",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-09-18T15:44:48-04:00 | career_page=https://cclfg.cclgroup.com/careers/opportunities/ | company_wrapper=https://cclfg.cclgroup.com/careers/opportunities/job?gh_jid=4410729009 | internship timing not stated in title | We are looking for a Retail Portfolio Operations Intern to join our Vancouver-based Investment Resource Group for an 8-month term (January-August 2027). This role offers an excellent opportunity for a student or recent graduate interested in investment operations, financial services, process improvement, and technology. The successful candidate will gain hands-on experience supporting retail portfolio operations while working alongside experienced professionals in a collaborative and entrepreneurial environment What You Will Do Assist with maintaining and reconciling client portfolio data. Support the maintenance of operational systems and data used across portfol...",
-      "Region": "North America",
-      "lastSeenOpenAt": "2026-11-13T10:47:49.085Z",
-      "lastSeenEvidence": "recorded_scan",
-      "detectedClosedAt": "2026-11-14T15:44:45.557Z"
-    },
-    {
-      "Company": "Qube Research & Technologies",
-      "Title": "2027 Internship - Technology",
-      "Department": "Internship - Technology",
-      "Location": "New York, Chicago",
-      "URL": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002",
-      "Source": "Greenhouse:quberesearchandtechnologies",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-10-26T07:01:34-04:00; internship timing not stated in title; undergrad/BS/MS language found | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | posted=2026-10-26T07:01:34-04:00 | revalidated_from_previous_scan=true",
-      "Region": "North America",
-      "lastSeenOpenAt": "2026-11-13T10:47:49.085Z",
-      "lastSeenEvidence": "recorded_scan",
-      "detectedClosedAt": "2026-11-14T15:44:45.557Z"
-    }
-  ],
-  "pendingAbsences": 138,
-  "passDifference": 5,
-  "rollingDated": 42,
+  "reportedRemoved": [],
+  "pendingAbsences": 135,
+  "passDifference": 0,
+  "rollingDated": 41,
   "rollingUndated": 3,
   "cumulativeTotal": 582,
-  "cumulativeActive": 334,
-  "cumulativeNotDetected": 248,
+  "cumulativeActive": 337,
+  "cumulativeNotDetected": 245,
   "manuallyVerifiedToday": 5,
   "failures": []
 }

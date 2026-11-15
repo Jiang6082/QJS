@@ -1,11 +1,11 @@
-# Roles posted 2026-10-25 → 2026-11-14 (42 with source posting dates)
+# Roles posted 2026-10-26 → 2026-11-15 (41 with source posting dates)
 
 _Dates come from employer publication fields or dated relative labels. Relative labels have day-level precision; source publication dates can reflect a repost. Internship start dates and edit timestamps are not release dates._
 
 ## Schonfeld (6)
 
-- **2026-11-11** — [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8346891) — Hong Kong, Hong Kong
 - **2026-11-11** — [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8356747) — Singapore, Central, Singapore
+- **2026-11-11** — [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8346891) — Hong Kong, Hong Kong
 - **2026-11-11** — [2027 Systematic COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8244307) — Hong Kong, Hong Kong
 - **2026-11-03** — [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) — Hong Kong, Hong Kong
 - **2026-11-03** — [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) — New York, New York, United States
@@ -105,10 +105,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 ## PIMCO (1)
 
 - **2026-10-26** — [2027 PhD/MFE Summer Intern – Quantitative Portfolio Manager](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) — Newport Beach, CA USA _(relative source date)_
-
-## Man Group (1)
-
-- **2026-10-25** — [Systematic Fast Trading Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101) — New York
 
 ## First seen in this window, source posting date unavailable (3)
 

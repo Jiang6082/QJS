@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-14T15:44:45.557Z",
+  "searchedAt": "2026-11-15T11:44:48.769Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -4835,11 +4835,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 88,
+          "jobsSeen": 89,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 88,
+      "jobsSeen": 89,
       "relevantInternships": 0
     },
     {
@@ -5133,7 +5133,7 @@
     {
       "company": "Ares Management",
       "pageUrl": "https://aresmgmt.wd1.myworkdayjobs.com/External",
-      "resolvedUrl": "https://static.community.workday.com/maintenance-page.html",
+      "resolvedUrl": "https://aresmgmt.wd1.myworkdayjobs.com/External",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -5150,8 +5150,17 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Workday:aresmgmt/External",
+          "complete": false,
+          "searchComplete": true,
+          "errors": [],
+          "jobsSeen": 49,
+          "relevantInternships": 0
+        }
+      ],
+      "jobsSeen": 49,
       "relevantInternships": 0
     },
     {
@@ -5174,8 +5183,17 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Workday:aresmgmt/External",
+          "complete": false,
+          "searchComplete": true,
+          "errors": [],
+          "jobsSeen": 49,
+          "relevantInternships": 0
+        }
+      ],
+      "jobsSeen": 49,
       "relevantInternships": 0
     },
     {
@@ -5198,8 +5216,17 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Workday:aresmgmt/External",
+          "complete": false,
+          "searchComplete": true,
+          "errors": [],
+          "jobsSeen": 49,
+          "relevantInternships": 0
+        }
+      ],
+      "jobsSeen": 49,
       "relevantInternships": 0
     },
     {
@@ -5433,7 +5460,7 @@
     {
       "company": "BlackRock",
       "pageUrl": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/",
-      "resolvedUrl": "https://static.community.workday.com/maintenance-page.html",
+      "resolvedUrl": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -5450,9 +5477,18 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "boards": [
+        {
+          "source": "Workday:blackrock/BlackRock_Professional",
+          "complete": false,
+          "searchComplete": true,
+          "errors": [],
+          "jobsSeen": 273,
+          "relevantInternships": 3
+        }
+      ],
+      "jobsSeen": 273,
+      "relevantInternships": 3
     },
     {
       "company": "BlueCove",
@@ -5511,7 +5547,7 @@
     {
       "company": "BNP Paribas",
       "pageUrl": "https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading",
-      "resolvedUrl": "https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading",
+      "resolvedUrl": "https://group.bnpparibas/en/careers/all-job-offers",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -5522,16 +5558,9 @@
         "workday": []
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Official JSON-LD job posting",
-          "complete": true,
-          "jobsSeen": 1,
-          "relevantInternships": 1
-        }
-      ],
-      "jobsSeen": 1,
-      "relevantInternships": 1
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "BNP Paribas",
@@ -5597,11 +5626,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 74,
+          "jobsSeen": 73,
           "relevantInternships": 5
         }
       ],
-      "jobsSeen": 74,
+      "jobsSeen": 73,
       "relevantInternships": 5
     },
     {
@@ -5630,11 +5659,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 74,
+          "jobsSeen": 73,
           "relevantInternships": 5
         }
       ],
-      "jobsSeen": 74,
+      "jobsSeen": 73,
       "relevantInternships": 5
     },
     {
@@ -5663,11 +5692,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 651,
+          "jobsSeen": 647,
           "relevantInternships": 20
         }
       ],
-      "jobsSeen": 651,
+      "jobsSeen": 647,
       "relevantInternships": 20
     },
     {
@@ -5696,11 +5725,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 651,
+          "jobsSeen": 647,
           "relevantInternships": 20
         }
       ],
-      "jobsSeen": 651,
+      "jobsSeen": 647,
       "relevantInternships": 20
     },
     {
@@ -5729,11 +5758,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 651,
+          "jobsSeen": 647,
           "relevantInternships": 20
         }
       ],
-      "jobsSeen": 651,
+      "jobsSeen": 647,
       "relevantInternships": 20
     },
     {
@@ -6083,11 +6112,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 137,
+          "jobsSeen": 135,
           "relevantInternships": 7
         }
       ],
-      "jobsSeen": 137,
+      "jobsSeen": 135,
       "relevantInternships": 7
     },
     {
@@ -6243,9 +6272,9 @@
     {
       "company": "Fidelity Investments",
       "pageUrl": "https://jobs.fidelity.com/",
-      "resolvedUrl": "https://jobs.fidelity.com/en/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "resolvedUrl": "https://jobs.fidelity.com/",
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -6320,17 +6349,17 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 69,
+          "jobsSeen": 68,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 69,
+      "jobsSeen": 68,
       "relevantInternships": 0
     },
     {
       "company": "Fidelity Investments",
       "pageUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/",
-      "resolvedUrl": "https://static.community.workday.com/maintenance-page.html",
+      "resolvedUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -6343,12 +6372,34 @@
             "tenant": "fmr",
             "site": "fidelitycareers",
             "origin": "https://fmr.wd1.myworkdayjobs.com"
+          },
+          {
+            "tenant": "fmr",
+            "site": "FidelityCareers",
+            "origin": "https://fmr.wd1.myworkdayjobs.com"
           }
         ]
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Workday:fmr/fidelitycareers",
+          "complete": false,
+          "searchComplete": true,
+          "errors": [],
+          "jobsSeen": 79,
+          "relevantInternships": 0
+        },
+        {
+          "source": "Workday:fmr/FidelityCareers",
+          "complete": false,
+          "searchComplete": true,
+          "errors": [],
+          "jobsSeen": 79,
+          "relevantInternships": 0
+        }
+      ],
+      "jobsSeen": 158,
       "relevantInternships": 0
     },
     {
@@ -6512,7 +6563,7 @@
     {
       "company": "Invesco",
       "pageUrl": "https://invesco.wd1.myworkdayjobs.com/IVZ",
-      "resolvedUrl": "https://careers.invesco.com/",
+      "resolvedUrl": "https://invesco.wd1.myworkdayjobs.com/IVZ",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -6533,45 +6584,14 @@
         {
           "source": "Workday:invesco/IVZ",
           "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "intern",
-              "offset": 20,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            }
-          ],
-          "jobsSeen": 22,
-          "relevantInternships": 3
+          "searchComplete": true,
+          "errors": [],
+          "jobsSeen": 204,
+          "relevantInternships": 5
         }
       ],
-      "jobsSeen": 22,
-      "relevantInternships": 3
+      "jobsSeen": 204,
+      "relevantInternships": 5
     },
     {
       "company": "Invesco",
@@ -6601,45 +6621,14 @@
         {
           "source": "Workday:invesco/IVZ",
           "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "intern",
-              "offset": 20,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            }
-          ],
-          "jobsSeen": 22,
-          "relevantInternships": 3
+          "searchComplete": true,
+          "errors": [],
+          "jobsSeen": 204,
+          "relevantInternships": 5
         }
       ],
-      "jobsSeen": 22,
-      "relevantInternships": 3
+      "jobsSeen": 204,
+      "relevantInternships": 5
     },
     {
       "company": "Invesco",
@@ -6665,45 +6654,14 @@
         {
           "source": "Workday:invesco/IVZ",
           "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "intern",
-              "offset": 20,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-            }
-          ],
-          "jobsSeen": 22,
-          "relevantInternships": 3
+          "searchComplete": true,
+          "errors": [],
+          "jobsSeen": 204,
+          "relevantInternships": 5
         }
       ],
-      "jobsSeen": 22,
-      "relevantInternships": 3
+      "jobsSeen": 204,
+      "relevantInternships": 5
     },
     {
       "company": "J.P. Morgan",
@@ -7132,9 +7090,9 @@
     {
       "company": "PGIM",
       "pageUrl": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers",
-      "resolvedUrl": "https://jobs.prudential.com/maintenance",
-      "pageOk": false,
-      "pageStatus": 404,
+      "resolvedUrl": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -7149,9 +7107,18 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "boards": [
+        {
+          "source": "Workday:pru/PGIM_Careers",
+          "complete": false,
+          "searchComplete": true,
+          "errors": [],
+          "jobsSeen": 55,
+          "relevantInternships": 1
+        }
+      ],
+      "jobsSeen": 55,
+      "relevantInternships": 1
     },
     {
       "company": "PGIM",
@@ -7203,7 +7170,7 @@
     {
       "company": "PGIM",
       "pageUrl": "https://pru.wd5.myworkdayjobs.com/Careers",
-      "resolvedUrl": "https://jobs.prudential.com/maintenance",
+      "resolvedUrl": "https://pru.wd5.myworkdayjobs.com/Careers",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -7220,9 +7187,18 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "boards": [
+        {
+          "source": "Workday:pru/Careers",
+          "complete": false,
+          "searchComplete": true,
+          "errors": [],
+          "jobsSeen": 58,
+          "relevantInternships": 1
+        }
+      ],
+      "jobsSeen": 58,
+      "relevantInternships": 1
     },
     {
       "company": "PGIM",
@@ -7268,11 +7244,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 103,
+          "jobsSeen": 104,
           "relevantInternships": 13
         }
       ],
-      "jobsSeen": 103,
+      "jobsSeen": 104,
       "relevantInternships": 13
     },
     {
@@ -7301,11 +7277,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 103,
+          "jobsSeen": 104,
           "relevantInternships": 13
         }
       ],
-      "jobsSeen": 103,
+      "jobsSeen": 104,
       "relevantInternships": 13
     },
     {
@@ -7334,11 +7310,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 103,
+          "jobsSeen": 104,
           "relevantInternships": 13
         }
       ],
-      "jobsSeen": 103,
+      "jobsSeen": 104,
       "relevantInternships": 13
     },
     {
@@ -7760,9 +7736,9 @@
     {
       "company": "Vanguard",
       "pageUrl": "https://www.vanguardjobs.com/students-and-recent-graduates/",
-      "resolvedUrl": "https://www.vanguardjobs.com/students/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "resolvedUrl": "https://www.vanguardjobs.com/students-and-recent-graduates/",
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -7830,8 +7806,8 @@
       "company": "Vanguard",
       "pageUrl": "https://www.vanguardjobs.com/home-us/?source=Corporate_Website",
       "resolvedUrl": "https://www.vanguardjobs.com/home-us/?source=Corporate_Website",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -8169,7 +8145,7 @@
     {
       "company": "BD Energy",
       "pageUrl": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA",
-      "resolvedUrl": "https://static.community.workday.com/maintenance-page.html",
+      "resolvedUrl": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -8186,8 +8162,17 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Workday:bdx/EXTERNAL_CAREER_SITE_USA",
+          "complete": false,
+          "searchComplete": true,
+          "errors": [],
+          "jobsSeen": 151,
+          "relevantInternships": 0
+        }
+      ],
+      "jobsSeen": 151,
       "relevantInternships": 0
     },
     {
@@ -9141,7 +9126,7 @@
       "pageUrl": "https://jobs.lever.co/hap-capital",
       "resolvedUrl": "https://jobs.lever.co/hap-capital",
       "pageOk": false,
-      "pageStatus": 404,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [
@@ -10987,7 +10972,7 @@
     {
       "company": "Optica",
       "pageUrl": "https://opg.optica.org/optica/home.cfm",
-      "resolvedUrl": "https://validate.perfdrive.com/?ssa=1ec1c7f9-f87a-f2a2-bc46-64de9f9fdcac&ssb=55503212793&ssc=https%3A%2F%2Fopg.optica.org%2Foptica%2Fhome.cfm&ssi=872851d9-d3hy-ccc2-f4cd-eec67089b0bf&ssk=botmanager_support@radware.com&ssm=67722558311238033104107862994385&ssn=2238b3d2b3a26ba00b57c12596878ebb025dce2f4088-b557-c9f1-d68397&sso=27990f1-dfbc-02fc1448ba422def20150e0b0b9728f1c99f0f858c95f14a&ssp=26339105251794619008179466521623113&ssq=40878197121676567539071216502508122977080&ssr=NTcuMTUxLjkxLjE2NA==&sst=Mozilla%2F5.0%20internship-research&ssv=&ssw=",
+      "resolvedUrl": "https://validate.perfdrive.com/?ssa=83b288bf-c35f-c3ae-eb17-7b6f4900f159&ssb=54134287444&ssc=https%3A%2F%2Fopg.optica.org%2Foptica%2Fhome.cfm&ssi=7652cf71-d3hy-0dce-91a9-e5f3205734a8&ssk=botmanager_support@radware.com&ssm=48383525304280050104143687225981&ssn=405b6ad05ac59546581fdb7706b23ca44f2de6b155a7-bd86-3c77-62c3dc&sso=bce4677-65a7-aa2ff98cb266e95229278a7e6c42e651c7296bce581295e3&ssp=74677369001794724342179477322558801&ssq=52084774324716589379543247168708220980703&ssr=MjAuMTcxLjM3LjM3&sst=Mozilla%2F5.0%20internship-research&ssv=&ssw=",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -11166,7 +11151,7 @@
         {
           "source": "Greenhouse:valaratomics",
           "complete": true,
-          "jobsSeen": 122,
+          "jobsSeen": 123,
           "relevantInternships": 0
         },
         {
@@ -11176,7 +11161,7 @@
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 141,
+      "jobsSeen": 142,
       "relevantInternships": 0
     },
     {
@@ -11870,11 +11855,11 @@
           "complete": false,
           "searchComplete": true,
           "errors": [],
-          "jobsSeen": 55,
+          "jobsSeen": 54,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 55,
+      "jobsSeen": 54,
       "relevantInternships": 0
     },
     {
@@ -12236,8 +12221,8 @@
       "company": "Universa Investments",
       "pageUrl": "https://jobs.universalparks.com/universal-orlando-resort/",
       "resolvedUrl": "https://jobs.universalparks.com/universal-orlando-resort/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -12474,12 +12459,12 @@
     {
       "company": "Previously seen Workday roles",
       "source": "Official Workday job-detail APIs",
-      "jobsRetained": 89
+      "jobsRetained": 95
     },
     {
       "company": "Previously seen Greenhouse roles",
       "source": "Official Greenhouse job-detail APIs",
-      "jobsRetained": 217
+      "jobsRetained": 218
     }
   ]
 }

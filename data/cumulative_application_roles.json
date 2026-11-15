@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T15:48:38.913Z",
-  "currentScanAt": "2026-11-14T15:44:45.557Z",
+  "generatedAt": "2026-11-15T11:49:23.158Z",
+  "currentScanAt": "2026-11-15T11:44:48.769Z",
   "total": 582,
-  "active": 334,
-  "notDetected": 248,
-  "newSincePreviousScan": 2,
+  "active": 337,
+  "notDetected": 245,
+  "newSincePreviousScan": 4,
   "manuallyRecovered": 5,
   "roles": [
     {
@@ -890,20 +890,6 @@
       "status": "active"
     },
     {
-      "Company": "BNP Paribas",
-      "Title": "2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading",
-      "Location": "New York, US",
-      "URL": "https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading",
-      "Source": "Career page JSON-LD",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-10-15",
-      "first_seen": "2026-08-30",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "active"
-    },
-    {
       "Company": "Jain Global",
       "Title": "AI Research Intern, Singapore",
       "Location": "Singapore Office",
@@ -1702,6 +1688,48 @@
       "status": "active"
     },
     {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York",
+      "Location": "New York, NY",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-15",
+      "first_seen": "2026-09-15",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco",
+      "Location": "San Francisco, CA",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-15",
+      "first_seen": "2026-09-15",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "BlackRock",
+      "Title": "2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York",
+      "Location": "New York, NY",
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471",
+      "Source": "Career page Workday:blackrock/BlackRock_Professional",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-15",
+      "first_seen": "2026-09-15",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
       "Company": "DV Trading",
       "Title": "2027 Quantitative Research Intern (DV QES)",
       "Location": "Hong Kong",
@@ -1777,6 +1805,20 @@
       "Location": "New York",
       "URL": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
       "Source": "Career page Workday:brevanhoward/BH_ExternalCareers",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-09-14",
+      "first_seen": "2026-09-14",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "active"
+    },
+    {
+      "Company": "PGIM",
+      "Title": "PGIM | Intern, Real Estate Private Equity Portfolio Management (all genders) as of Q1 2027, Based in Frankfurt",
+      "Location": "Frankfurt, Germany",
+      "URL": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1",
+      "Source": "Career page Workday:pru/PGIM_Careers",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-14",
       "first_seen": "2026-09-14",
@@ -3154,7 +3196,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-14",
+      "verifiedAt": "2026-11-15",
       "status": "active"
     },
     {
@@ -4638,7 +4680,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-14",
+      "verifiedAt": "2026-11-15",
       "status": "active"
     },
     {
@@ -4652,7 +4694,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-14",
+      "verifiedAt": "2026-11-15",
       "status": "active"
     },
     {
@@ -4666,7 +4708,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-14",
+      "verifiedAt": "2026-11-15",
       "status": "active"
     },
     {
@@ -4680,7 +4722,7 @@
       "first_seen": "2026-08-21",
       "discovery_note": "The official Ashby board is nested inside a Wix HTML iframe and is not discovered from the configured outer careers page.",
       "manually_verified": true,
-      "verifiedAt": "2026-11-14",
+      "verifiedAt": "2026-11-15",
       "status": "active"
     },
     {
@@ -4944,6 +4986,20 @@
       "source_status": "Confirmed official posting",
       "release_date": "2026-10-19",
       "first_seen": "2026-10-20",
+      "discovery_note": null,
+      "manually_verified": false,
+      "verifiedAt": null,
+      "status": "not_detected"
+    },
+    {
+      "Company": "BNP Paribas",
+      "Title": "2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading",
+      "Location": "New York, US",
+      "URL": "https://group.bnpparibas/en/careers/job-offer/2027-summer-associate-global-markets-quantitative-research-trading",
+      "Source": "Career page JSON-LD",
+      "source_status": "Confirmed official posting",
+      "release_date": "2026-10-15",
+      "first_seen": "2026-08-30",
       "discovery_note": null,
       "manually_verified": false,
       "verifiedAt": null,
@@ -6127,51 +6183,9 @@
     },
     {
       "Company": "BlackRock",
-      "Title": "2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York",
-      "Location": "New York, NY",
-      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468",
-      "Source": "Career page Workday:blackrock/BlackRock_Professional",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-15",
-      "first_seen": "2026-09-15",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "not_detected"
-    },
-    {
-      "Company": "BlackRock",
-      "Title": "2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco",
-      "Location": "San Francisco, CA",
-      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469",
-      "Source": "Career page Workday:blackrock/BlackRock_Professional",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-15",
-      "first_seen": "2026-09-15",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "not_detected"
-    },
-    {
-      "Company": "BlackRock",
       "Title": "2027 Quantitative Masters Internship Program - Investments - Portfolio Management - Atlanta",
       "Location": "Atlanta, GA",
       "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470",
-      "Source": "Career page Workday:blackrock/BlackRock_Professional",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-15",
-      "first_seen": "2026-09-15",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "not_detected"
-    },
-    {
-      "Company": "BlackRock",
-      "Title": "2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York",
-      "Location": "New York, NY",
-      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471",
       "Source": "Career page Workday:blackrock/BlackRock_Professional",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-15",
@@ -6411,20 +6425,6 @@
       "Location": "New York, NY, United States",
       "URL": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637",
       "Source": "Career page Greenhouse:wehrtyou",
-      "source_status": "Confirmed official posting",
-      "release_date": "2026-09-14",
-      "first_seen": "2026-09-14",
-      "discovery_note": null,
-      "manually_verified": false,
-      "verifiedAt": null,
-      "status": "not_detected"
-    },
-    {
-      "Company": "PGIM",
-      "Title": "PGIM | Intern, Real Estate Private Equity Portfolio Management (all genders) as of Q1 2027, Based in Frankfurt",
-      "Location": "Frankfurt, Germany",
-      "URL": "https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1",
-      "Source": "Career page Workday:pru/PGIM_Careers",
       "source_status": "Confirmed official posting",
       "release_date": "2026-09-14",
       "first_seen": "2026-09-14",
