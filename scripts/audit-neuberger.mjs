@@ -1,5 +1,6 @@
 import fs from "node:fs/promises";
 import { collectWorkdayPostings } from "../tools/workday-search.mjs";
+import { fetchWorkdayJson } from "../tools/workday-request.mjs";
 
 const current = JSON.parse(await fs.readFile("data/quant_internship_roles_scan_v2_raw.json", "utf8"));
 const rows = new Map();
@@ -7,22 +8,19 @@ const boards = [];
 for (const site of ["NBCareers", "PWM"]) {
   const endpoint = `https://nb.wd1.myworkdayjobs.com/wday/cxs/nb/${site}`;
   const collected = await collectWorkdayPostings(async (page) => {
-    const response = await fetch(`${endpoint}/jobs`, {
+    return fetchWorkdayJson(`${endpoint}/jobs`, {
       method: "POST", signal: AbortSignal.timeout(20000),
       headers: { "content-type": "application/json" },
       body: JSON.stringify({ ...page, appliedFacets: {} }),
     });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    return response.json();
   });
   boards.push({ site, jobsSeen: collected.postings.length, searchComplete: collected.searchComplete, errors: collected.errors });
   for (const job of collected.postings.filter(j => /intern|summer analyst|summer associate|co-op/i.test(j.title))) {
     const URL = `https://nb.wd1.myworkdayjobs.com/${site}${job.externalPath}`;
     let description = "", detailError = null;
     try {
-      const response = await fetch(`${endpoint}${job.externalPath}`, { signal: AbortSignal.timeout(20000) });
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      description = (await response.json()).jobPostingInfo?.jobDescription || "";
+      const detail = await fetchWorkdayJson(`${endpoint}${job.externalPath}`);
+      description = detail.jobPostingInfo?.jobDescription || "";
     } catch (error) { detailError = error.message; }
     const inQuantScan = current.rows.some(row => row.URL === URL);
     const talentPool = /not for any specific role|future internship openings|internship talent pool/i.test(description);
