@@ -1,9 +1,20 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 287
-Last updated: 2026-11-15T11:44:48.769Z
+Total closure events recorded: 295
+Last updated: 2026-11-17T11:38:52.683Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-17 (8)
+
+- **D. E. Shaw** - [Quantitative Analyst Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) - New York
+- **D. E. Shaw** - [Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) - New York
+- **Goldman Sachs** - [2027 | EMEA | London | Investment Banking Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/175428) - London, Greater London, England, United Kingdom
+- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002989) - Chicago
+- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4410741009) - Toronto, Ontario, Canada
+- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410741009) - Toronto, Ontario, Canada
+- **Graviton Research Capital** - [Quantitative Researcher - 2027 Summer Internship](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) - Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore
+- **Schonfeld** - [2027 PhD Centralized Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) - New York, New York, United States
 
 ### 2026-11-14 (3)
 

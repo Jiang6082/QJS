@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-15T11:49:22.376Z",
-  "scanStartedAt": "2026-11-15T11:44:48.769Z",
+  "generatedAt": "2026-11-17T11:41:51.746Z",
+  "scanStartedAt": "2026-11-17T11:38:52.683Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
-    "matching-role-found": 50,
-    "confirmed-no-open-postings": 4,
-    "confirmed-openings-no-matching-role": 35,
-    "could-not-fully-verify": 216
+    "matching-role-found": 44,
+    "confirmed-no-open-postings": 3,
+    "confirmed-openings-no-matching-role": 30,
+    "could-not-fully-verify": 228
   },
   "companies": [
     {
@@ -15,14 +15,14 @@
       "sourceRosterNames": [
         "Jain Global"
       ],
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 36,
-      "relevantInternships": 8
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "26 Miles Capital",
@@ -142,9 +142,9 @@
       "careerPages": [
         "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 151,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -301,7 +301,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 48,
+      "jobsSeen": 43,
       "relevantInternships": 3
     },
     {
@@ -357,7 +357,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantInternships": 2
     },
     {
@@ -405,14 +405,14 @@
       "sourceRosterNames": [
         "Belvedere Trading"
       ],
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.belvederetrading.com/careers/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 13,
-      "relevantInternships": 2
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "BlockTech",
@@ -441,7 +441,7 @@
         "https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/jobs",
         "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers"
       ],
-      "livePages": 4,
+      "livePages": 3,
       "attemptedPages": 5,
       "jobsSeen": 26,
       "relevantInternships": 13
@@ -700,7 +700,7 @@
       "sourceRosterNames": [
         "Capital Fund Management (CFM)"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.cfm.com/join-us/"
       ],
@@ -779,8 +779,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 168,
-      "relevantInternships": 9
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "ABC Arbitrage",
@@ -842,13 +842,13 @@
       "sourceRosterNames": [
         "Ansatz Capital"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://jobs.lever.co/ansatzcapital?by=location"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 5,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -962,7 +962,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 16,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {
@@ -988,7 +988,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 38,
+      "jobsSeen": 39,
       "relevantInternships": 0
     },
     {
@@ -1064,14 +1064,14 @@
       "sourceRosterNames": [
         "Deutsche Bank (quant/systematic)"
       ],
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://db.wd3.myworkdayjobs.com/DBWebsite/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 135,
-      "relevantInternships": 7
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Domeyard LP",
@@ -1140,7 +1140,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 4,
+      "jobsSeen": 5,
       "relevantInternships": 1
     },
     {
@@ -1157,7 +1157,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 4,
-      "jobsSeen": 19,
+      "jobsSeen": 21,
       "relevantInternships": 4
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 83,
+      "jobsSeen": 85,
       "relevantInternships": 4
     },
     {
@@ -1300,7 +1300,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 217,
+      "jobsSeen": 216,
       "relevantInternships": 0
     },
     {
@@ -1352,7 +1352,7 @@
       "careerPages": [
         "https://deepbluecap.com/vacancies/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1450,7 +1450,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 44,
+      "jobsSeen": 45,
       "relevantInternships": 3
     },
     {
@@ -1626,7 +1626,7 @@
       "careerPages": [
         "https://davincitrading.com/job/graduate-trader/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1682,7 +1682,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 58,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -1745,13 +1745,13 @@
       "sourceRosterNames": [
         "GMO"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.gmo.com/americas/careers/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -1891,8 +1891,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 2,
-      "jobsSeen": 18,
-      "relevantInternships": 8
+      "jobsSeen": 22,
+      "relevantInternships": 12
     },
     {
       "company": "Lehi Capital Corp",
@@ -2030,7 +2030,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -2081,7 +2081,7 @@
       "sourceRosterNames": [
         "Graviton Research Capital"
       ],
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.gravitontrading.com/careers.html",
         "https://apply.workable.com/gravitonresearch/"
@@ -2102,9 +2102,9 @@
         "https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers",
         "https://gunvorgroup.com/careers/talent/"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 35,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -2134,7 +2134,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 156,
+      "jobsSeen": 154,
       "relevantInternships": 17
     },
     {
@@ -2497,8 +2497,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 71,
-      "relevantInternships": 12
+      "jobsSeen": 72,
+      "relevantInternships": 11
     },
     {
       "company": "Silver Valley Management",
@@ -2680,14 +2680,14 @@
       "sourceRosterNames": [
         "PEAK6"
       ],
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://peak6group.wd1.myworkdayjobs.com/PEAK6"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 13,
-      "relevantInternships": 2
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Prime Trading",
@@ -2695,9 +2695,13 @@
         "Prime Trading"
       ],
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://jenniejohnson.com/company/prime-trading",
+        "https://www.primetrading.co.om/career/",
+        "https://primecompanies.com/careers/"
+      ],
+      "livePages": 2,
+      "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -2736,7 +2740,7 @@
       "careerPages": [
         "https://www.qube-rt.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -2797,7 +2801,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 15,
+      "jobsSeen": 14,
       "relevantInternships": 5
     },
     {
@@ -2842,9 +2846,9 @@
         "https://job-boards.eu.greenhouse.io/mangroup",
         "https://www.man.com/careers"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 1,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3125,7 +3129,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 142,
+      "jobsSeen": 161,
       "relevantInternships": 0
     },
     {
@@ -3165,7 +3169,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3194,7 +3198,7 @@
         "https://mlp.wd5.myworkdayjobs.com/mlpcareers",
         "https://www.mlp.com/careers/"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3278,7 +3282,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 2,
-      "jobsSeen": 42,
+      "jobsSeen": 43,
       "relevantInternships": 1
     },
     {
@@ -3353,13 +3357,13 @@
       "sourceRosterNames": [
         "Quantlane"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://jobs.lever.co/quantlane"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 2,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3560,11 +3564,11 @@
       "sourceRosterNames": [
         "Valkyrie Trading"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.valkyrietrading.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3723,7 +3727,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 54,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3799,7 +3803,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 38,
+      "jobsSeen": 35,
       "relevantInternships": 0
     },
     {
@@ -3887,7 +3891,7 @@
       "sourceRosterNames": [
         "TGS"
       ],
-      "status": "confirmed-no-open-postings",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.tgsmc.com/join-our-team/"
       ],
@@ -3982,7 +3986,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -4112,7 +4116,7 @@
         "https://www.voleon.com/careers/",
         "https://www.voleon.com/jobs/"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 4,
       "jobsSeen": 61,
       "relevantInternships": 3
@@ -4172,7 +4176,7 @@
       "careerPages": [
         "https://jobs.universalparks.com/universal-orlando-resort/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -4257,7 +4261,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 82,
+      "jobsSeen": 81,
       "relevantInternships": 2
     },
     {
@@ -4279,17 +4283,17 @@
       "sourceRosterNames": [
         "Morningstar"
       ],
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://morningstar.wd5.myworkdayjobs.com/morningstar",
         "https://morningstar.wd5.myworkdayjobs.com/Americas/",
         "https://morningstar.wd5.myworkdayjobs.com/MorningstarDBRS",
         "https://www.morningstar.com/company/careers"
       ],
-      "livePages": 4,
+      "livePages": 1,
       "attemptedPages": 4,
-      "jobsSeen": 91,
-      "relevantInternships": 1
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "RRS Group",
