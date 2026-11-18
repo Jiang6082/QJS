@@ -1,33 +1,31 @@
 # New Quant Roles Since Last Run
 
-Previous scan: 2026-11-15T11:44:48.769Z
-Current scan: 2026-11-17T11:38:52.683Z
-Previous rows: 486
-Current rows: 402
-New URLs confirmed in both source passes: 7
-Confirmed no longer present: 8
+Previous scan: 2026-11-17T11:38:52.683Z
+Current scan: 2026-11-18T11:31:53.769Z
+Previous rows: 402
+Current rows: 408
+New URLs confirmed in both source passes: 3
+Confirmed no longer present: 4
 
 ## New Roles By Region
 
-### North America (2)
+### North America (3)
 
-- **D. E. Shaw** - [Quantitative Researcher Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-researcher-intern-new-york-summer-2027-5890) - New York - Confirmed official posting (Official D. E. Shaw internships page): career_page=https://www.deshaw.com/careers/internships | department=Quantitative Strategies | internship timing: Summer 2027 | official detail page checked | Quantitative Researcher Intern (New York) – Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Pat
-- **D. E. Shaw** - [Quantitative Researcher, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-researcher-ph-d-intern-new-york-summer-2027-5891) - New York - Confirmed official posting (Official D. E. Shaw internships page): career_page=https://www.deshaw.com/careers/internships | department=Quantitative Strategies | internship timing: Summer 2027 | official detail page checked | Quantitative Researcher, Ph.D. Intern (New York) – Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Y
+- **Akuna** - [Software Engineer Intern - Python, Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) - Chicago, IL - Confirmed official posting (Greenhouse:akunacapital): posted=2026-07-13T14:21:39-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found
+- **Belvedere Trading** - [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) - Chicago, Illinois - Confirmed official posting (Career page Lever:belvederetrading): posted=2026-08-04T17:27:58.389Z | career_page=https://www.belvederetrading.com/new-graduates-campus-recruiting | internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028 | Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative te...
+- **Belvedere Trading** - [Quantitative Trading Intern - Winter Quarter 2027](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) - Chicago, Illinois - Confirmed official posting (Career page Lever:belvederetrading): posted=2026-08-04T17:21:37.024Z | career_page=https://www.belvederetrading.com/new-graduates-campus-recruiting | internship timing: Winter; graduation eligibility mentions: 2027, 2028 | Belvedere Trading is a leading proprietary trading firm proudly headquartered in downtown Chicago. Our traders work hard to provide liquidity to the market through their market-making activities and are the masters of a diverse set of commodities, interest rates, exchange-traded funds (ETF), and equity index options. From the beginning, we began iteratively investing in our proprietary technology and committing to building our systems from the ground up. Our trading models and software systems are continually re-engineered, optimized, and maintained to stay on top of the industry. This wouldn’t be possible without the dedicated efforts of our technology teams who utilize and perfect our innovative technol...
 
-### Europe (2)
+### Europe (0)
 
-- **Keyrock** - [DeFi Quant Trader Intern (Credit) - London](https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03) - London - Confirmed official posting (Career page Ashby:keyrock): posted=2026-11-16T13:02:21.716+00:00 | career_page=https://jobs.ashbyhq.com/keyrock | internship timing not stated in title | DeFi Quant Trader Intern (Credit) Since 2017, Keyrock has been a change-maker in digital assets. We're a global, remote-first team of 200+ people across 40+ nationalities, with hubs in Brussels, London, Paris and New York. We provide liquidity across 80+ centralized and decentralized exchanges - a position cemented by our Series C, led by SC Ventures. Today we run a full spectrum of capital markets businesses across centralized and on-chain venues: market making, high-frequency trading, options, OTC, DeFi trading desks, advisory, and asset management. We're building toward the agentic investment banking capabilities for the era of digital finance. A proprietary agentic layer runs the mechanics of the market, so our people can focus on the work code cannot do: the ...
-- **Keyrock** - [Innovation Quant Developer Intern (DeFi/Corporate Development) - London](https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd) - London - Confirmed official posting (Career page Ashby:keyrock): posted=2026-11-16T21:34:10.506+00:00 | employmentType=Intern | career_page=https://jobs.ashbyhq.com/keyrock | internship timing not stated in title | Innovation Quant Developer: Intern - DeFi/Corporate Development Since 2017, Keyrock has been a change-maker in digital assets. We're a global, remote-first team of 200+ people across 40+ nationalities, with hubs in Brussels, London, Paris and New York. We provide liquidity across 80+ centralized and decentralized exchanges - a position cemented by our Series C, led by SC Ventures. Today we run a full spectrum of capital markets businesses across centralized and on-chain venues: market making, high-frequency trading, options, OTC, DeFi trading desks, advisory, and asset management. We're building toward the agentic investment banking capabilities for the era of digital finance. A proprietary agentic layer runs the mechanics of the market, so...
+_None._
 
 ### Asia (0)
 
 _None._
 
-### Oceania (3)
+### Oceania (0)
 
-- **Susquehanna International Group** - [Quantitative Trader Internship: November 2027](https://careers.sig.com/jobs/11194?lang=en-us) - Sydney, Australia - Confirmed official posting (Official SIG jobs API): posted=2026-11-16T04:17:00+0000 | November 2027 Start | internship timing not stated in title; graduation eligibility mentions: 2028 | Overview Susquehanna is looking for penultimate year students who are interested in using decision science to solve problems in the world around them to join our 2027 Quantitative Trader Internship Program. Susquehanna is a global quantitative trading firm powered by scientific rigor, curiosity, and innovation. Our culture is intellectually driven and highly collaborative, bringing together researchers, engineers, and traders to design and deploy impactful strategies in our systematic trading environment. To meet the unique challenges of global markets, Susquehanna applies machine learning and advanced quantitative research to vast datasets in order to uncover actionable insights and build effective strategies. By uniting deep market expertise with cuttin...
-- **Susquehanna International Group** - [Trading Operations Analyst Internship: November 2027](https://careers.sig.com/jobs/13268?lang=en-us) - Sydney, Australia - Confirmed official posting (Official SIG jobs API): posted=2026-11-16T04:18:00+0000 | November 2027 Start | internship timing not stated in title; graduation eligibility mentions: 2028 | Overview As a Trading Operations Analyst Intern, you will gain exposure to the full life cycle of Susquehanna’s trading activity and develop a strong foundational understanding of the industry and the dynamic environment in which we operate. Trading Operations sits at the intersection of trading, technology, and external counterparties - providing you with the opportunity to build meaningful relationships and contribute to impactful projects that drive our success. Throughout your internship, you’ll work closely with our core team and rotate across different trading desks such as Options, ETF, Treasury and Equity Finance, gaining hands-on experience. Each rotation is designed to deepen your knowledge and broaden your perspective on how our trading ecosyst...
-- **Susquehanna International Group** - [Trading System Engineering Internship (C++): November 2027](https://careers.sig.com/jobs/11504?lang=en-us) - Sydney, Australia - Confirmed official posting (Official SIG jobs API): posted=2026-11-15T23:50:00+0000 | November 2027 Start | internship timing not stated in title; graduation eligibility mentions: 2029 | Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based at our Sydney Headquarters. This program is open to students currently enrolled at universities in Australia and New Zealand. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into financial markets and Susquehanna’s approach to trading. You will also work on challenging projects for our trading strategy development teams in low latency C++ trading system development. Additionally, you’ll have ...
+_None._
 
 ### Middle East (0)
 
@@ -51,14 +49,10 @@ _None._
 
 ## No Longer Present
 
-- **D. E. Shaw** - [Quantitative Analyst Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890)
-- **D. E. Shaw** - [Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891)
-- **Goldman Sachs** - [2027 | EMEA | London | Investment Banking Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/175428)
-- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002989)
-- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4410741009)
-- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410741009)
-- **Graviton Research Capital** - [Quantitative Researcher - 2027 Summer Internship](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002)
-- **Schonfeld** - [2027 PhD Centralized Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8174538)
+- **Akuna** - [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856)
+- **Akuna** - [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481)
+- **Balyasny Asset Management** - [Quantitative Analyst – Commodities Investment Team (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8454)
+- **ExodusPoint** - [Quantitative Internship – Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002)
 
 ## Missing but not confirmed closed
 
@@ -75,8 +69,6 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Barclays** - [Research Analyst Summer Internship Programme 2027 Singapore](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Research-Analyst-Summer-Internship-Programme-2027-Singapore_JR-0000119610)
 - **Barclays** - [Sales, Trading and Structuring Summer Internship Programme 2027 Hong Kong](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117559)
 - **Barclays** - [Sales, Trading and Structuring Summer Internship Programme 2027 Singapore](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Singapore_JR-0000117562)
-- **Belvedere Trading** - [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab)
-- **Belvedere Trading** - [Quantitative Trading Intern - Winter Quarter 2027](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0)
 - **BlackRock** - [2027 Summer Internship Program - AMERS](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544)
 - **Capula** - [2027 Trading and Research Summer Internship](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/)
 - **Citadel** - [International Equities Associate - Intern (Europe)](https://www.citadel.com/careers/details/international-equities-associate-intern-europe/)
@@ -195,7 +187,6 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Vanguard** - [College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1)
 - **BMO Capital Markets** - [Portfolio Assistant, Winter 2027 (Co-op/Internship), Montreal - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Portfolio-Assistant--Winter-2027--Co-op-Internship---Montreal---4-months_R260025949-2)
 - **BMO Capital Markets** - [Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3)
-- **BMO Capital Markets** - [R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726)
 - **Fidelity Investments** - [Summer 2027 Equity Research Associate Intern - London](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/London-Great-Britain/Summer-2027-Equity-Research-Associate-Intern---London_2129754-1)
 - **PGIM** - [PGIM | Intern, Real Estate Private Equity Portfolio Management (all genders) as of Q1 2027, Based in Frankfurt](https://pru.wd5.myworkdayjobs.com/PGIM_Careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1)
 - **PIMCO** - [2027 Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805)
@@ -268,17 +259,11 @@ _Source errors and incomplete coverage do not establish closure. These roles rem
 - **Jain Global** - [Quantitative Research Intern – Equity Arbitrage](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Research-Intern---Equity-Arbitrage_JR100617-1)
 - **BMO Capital Markets** - [BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597)
 - **PIMCO** - [2027 PhD/MFE Summer Intern – Quantitative Portfolio Manager](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830)
-- **BMO Capital Markets** - [BMO Capital Markets Quantitative Trading Analyst – 12–16 Month Co-op](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657)
 - **Arrowstreet** - [Software Engineer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561)
-- **BP** - [Polytechnic Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Polytechnic-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ117480-1)
 - **Deutsche Bank** - [Internship Regional Management, Corporate Strategy e Sustainability (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450)
 - **Invesco** - [Early Career Intern - Legal, Compliance, Audit & Risk (LCAR)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---LCAR_R-15590-1)
-- **BMO Capital Markets** - [Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097)
-- **Invesco** - [Early Career Intern - Real Estate (Data Science)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1)
 - **Invesco** - [Intern, Quantitative Research (6 months fixed-term contract)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Frankfurt-Hesse/Intern--Quantitative-Research--6-months-fixed-term-contract-_R-15889)
 - **Barclays** - [Sales, Trading and Structuring Off Cycle Internship Programme 2027 Dubai](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Dubai-International-Financial-Centre-Dubai/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Dubai_JR-0000125149)
-- **BMO Capital Markets** - [Treasury & Payment Solutions Strategy Intern, Summer 2027 (10 weeks)](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397)
-- **BMO Capital Markets** - [Treasury & Payment Solutions Strategy Internship, Summer 2027 (4 months)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382)
 - **Morningstar** - [Manager Research Intern](https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Hong-Kong/Manager-Research-Intern_REQ-059194)
 - **Deutsche Bank** - [Internship Strategy – Private Bank Europe Domestic - Milan (f/m/x)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-3/Internship-Strategy---Private-Bank-Europe-Domestic---Milan--f-m-x-_R0458292)
 - **Capital Group** - [CAMPUS Global Technology Summer Associate (2027)](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798)

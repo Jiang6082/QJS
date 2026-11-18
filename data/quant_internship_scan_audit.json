@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-17T11:35:26.202Z",
+  "scannedAt": "2026-11-18T11:31:38.178Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -182,14 +182,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:janestreet",
-          "count": 216
+          "count": 215
         },
         {
           "source": "Ashby:jane",
           "count": 25
         }
       ],
-      "jobsSeen": 241,
+      "jobsSeen": 240,
       "relevantInternships": 0
     },
     {
@@ -209,14 +209,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:point72",
-          "count": 198
+          "count": 200
         },
         {
           "source": "Ashby:point",
           "count": 0
         }
       ],
-      "jobsSeen": 198,
+      "jobsSeen": 200,
       "relevantInternships": 12
     },
     {
@@ -224,14 +224,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 85
+          "count": 86
         },
         {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 85,
+      "jobsSeen": 86,
       "relevantInternships": 3
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "jobsSeen": 32,
-      "relevantInternships": 3
+      "relevantInternships": 2
     },
     {
       "company": "Albatross Labs",
@@ -316,8 +316,13 @@
     },
     {
       "company": "Ansatz Capital",
-      "resolvedBoards": [],
-      "jobsSeen": 0,
+      "resolvedBoards": [
+        {
+          "source": "Lever:ansatzcapital",
+          "count": 5
+        }
+      ],
+      "jobsSeen": 5,
       "relevantInternships": 0
     },
     {
@@ -362,9 +367,14 @@
     },
     {
       "company": "Belvedere Trading",
-      "resolvedBoards": [],
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "resolvedBoards": [
+        {
+          "source": "Lever:belvederetrading",
+          "count": 11
+        }
+      ],
+      "jobsSeen": 11,
+      "relevantInternships": 2
     },
     {
       "company": "BlackEdge Capital",
@@ -436,14 +446,24 @@
     },
     {
       "company": "Capital Fund Management",
-      "resolvedBoards": [],
-      "jobsSeen": 0,
+      "resolvedBoards": [
+        {
+          "source": "Lever:capital",
+          "count": 47
+        }
+      ],
+      "jobsSeen": 47,
       "relevantInternships": 0
     },
     {
       "company": "Capital Markets Trading",
-      "resolvedBoards": [],
-      "jobsSeen": 0,
+      "resolvedBoards": [
+        {
+          "source": "Lever:capital",
+          "count": 47
+        }
+      ],
+      "jobsSeen": 47,
       "relevantInternships": 0
     },
     {
@@ -627,11 +647,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:exoduspoint",
-          "count": 5
+          "count": 4
         }
       ],
-      "jobsSeen": 5,
-      "relevantInternships": 2
+      "jobsSeen": 4,
+      "relevantInternships": 1
     },
     {
       "company": "Florin Court Capital",
@@ -644,10 +664,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 45
+          "count": 43
         }
       ],
-      "jobsSeen": 45,
+      "jobsSeen": 43,
       "relevantInternships": 3
     },
     {
@@ -770,14 +790,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:wehrtyou",
-          "count": 85
+          "count": 86
         },
         {
           "source": "Ashby:hrt",
           "count": 0
         }
       ],
-      "jobsSeen": 85,
+      "jobsSeen": 86,
       "relevantInternships": 3
     },
     {
@@ -785,10 +805,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:imc",
-          "count": 154
+          "count": 152
         }
       ],
-      "jobsSeen": 154,
+      "jobsSeen": 152,
       "relevantInternships": 15
     },
     {
@@ -814,14 +834,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:jumptrading",
-          "count": 89
+          "count": 87
         },
         {
           "source": "Ashby:jump",
           "count": 3
         }
       ],
-      "jobsSeen": 92,
+      "jobsSeen": 90,
       "relevantInternships": 23
     },
     {
@@ -959,14 +979,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:optiverus",
-          "count": 149
+          "count": 147
         },
         {
           "source": "Greenhouse:optiver",
           "count": 0
         }
       ],
-      "jobsSeen": 149,
+      "jobsSeen": 147,
       "relevantInternships": 14
     },
     {
@@ -1095,10 +1115,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 205
+          "count": 204
         }
       ],
-      "jobsSeen": 205,
+      "jobsSeen": 204,
       "relevantInternships": 8
     },
     {
@@ -1177,10 +1197,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 88
+          "count": 87
         }
       ],
-      "jobsSeen": 88,
+      "jobsSeen": 87,
       "relevantInternships": 5
     },
     {
@@ -1270,10 +1290,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:towerresearchcapital",
-          "count": 92
+          "count": 91
         }
       ],
-      "jobsSeen": 92,
+      "jobsSeen": 91,
       "relevantInternships": 11
     },
     {
@@ -1313,8 +1333,13 @@
     },
     {
       "company": "Valkyrie Trading",
-      "resolvedBoards": [],
-      "jobsSeen": 0,
+      "resolvedBoards": [
+        {
+          "source": "Lever:valkyrietrading",
+          "count": 5
+        }
+      ],
+      "jobsSeen": 5,
       "relevantInternships": 0
     },
     {
@@ -1345,10 +1370,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:virtu",
-          "count": 45
+          "count": 46
         }
       ],
-      "jobsSeen": 45,
+      "jobsSeen": 46,
       "relevantInternships": 9
     },
     {
@@ -1360,6 +1385,10 @@
     {
       "company": "Voleon Group",
       "resolvedBoards": [
+        {
+          "source": "Lever:voleon",
+          "count": 0
+        },
         {
           "source": "Ashby:voleon",
           "count": 61

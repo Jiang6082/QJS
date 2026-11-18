@@ -1,41 +1,39 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-11-17T11:38:52.683Z
+Last updated: 2026-11-18T11:31:53.769Z
 
 ## Summary
 
 - Companies searched: 370
-- Career pages checked: 531
-- Current retained roles: 402
-- New stable job URLs since previous scan: 7
-- No longer present since previous scan: 8
-- Missing without enough closure evidence: 218
+- Career pages checked: 530
+- Current retained roles: 408
+- New stable job URLs since previous scan: 3
+- No longer present since previous scan: 4
+- Missing without enough closure evidence: 209
 - Matching-role firms: 44
-- Confirmed no open postings: 3
-- Openings but no matching role: 30
-- Could not fully verify: 228
+- Confirmed no open postings: 4
+- Openings but no matching role: 36
+- Could not fully verify: 221
 
 ## New Roles Since Previous Scan
 
-### North America (2)
+### North America (3)
 
-- **D. E. Shaw** - [Quantitative Researcher Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-researcher-intern-new-york-summer-2027-5890) - New York
-- **D. E. Shaw** - [Quantitative Researcher, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-researcher-ph-d-intern-new-york-summer-2027-5891) - New York
+- **Akuna** - [Software Engineer Intern - Python, Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) - Chicago, IL
+- **Belvedere Trading** - [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) - Chicago, Illinois
+- **Belvedere Trading** - [Quantitative Trading Intern - Winter Quarter 2027](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) - Chicago, Illinois
 
-### Europe (2)
+### Europe (0)
 
-- **Keyrock** - [DeFi Quant Trader Intern (Credit) - London](https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03) - London
-- **Keyrock** - [Innovation Quant Developer Intern (DeFi/Corporate Development) - London](https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd) - London
+_None._
 
 ### Asia (0)
 
 _None._
 
-### Oceania (3)
+### Oceania (0)
 
-- **Susquehanna International Group** - [Quantitative Trader Internship: November 2027](https://careers.sig.com/jobs/11194?lang=en-us) - Sydney, Australia
-- **Susquehanna International Group** - [Trading Operations Analyst Internship: November 2027](https://careers.sig.com/jobs/13268?lang=en-us) - Sydney, Australia
-- **Susquehanna International Group** - [Trading System Engineering Internship (C++): November 2027](https://careers.sig.com/jobs/11504?lang=en-us) - Sydney, Australia
+_None._
 
 ### Middle East (0)
 
@@ -59,14 +57,10 @@ _None._
 
 ## No Longer Present
 
-- **D. E. Shaw** - [Quantitative Analyst Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) - New York
-- **D. E. Shaw** - [Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) - New York
-- **Goldman Sachs** - [2027 | EMEA | London | Investment Banking Quantitative Strats | Summer Analyst](https://higher.gs.com/roles/175428) - London, Greater London, England, United Kingdom
-- **Jump Trading** - [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002989) - Chicago
-- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://job-boards.greenhouse.io/cclfg/jobs/4410741009) - Toronto, Ontario, Canada
-- **Connor Clark & Lunn** - [Intern, Retail Portfolio Operations](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4410741009) - Toronto, Ontario, Canada
-- **Graviton Research Capital** - [Quantitative Researcher - 2027 Summer Internship](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) - Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore
-- **Schonfeld** - [2027 PhD Centralized Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) - New York, New York, United States
+- **Akuna** - [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) - Chicago, IL
+- **Akuna** - [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) - Chicago, IL
+- **Balyasny Asset Management** - [Quantitative Analyst – Commodities Investment Team (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8454) - Houston
+- **ExodusPoint** - [Quantitative Internship – Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) - Hong Kong
 
 ## Full Reports
 

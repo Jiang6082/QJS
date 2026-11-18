@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-17T11:41:51.746Z",
-  "scanStartedAt": "2026-11-17T11:38:52.683Z",
+  "generatedAt": "2026-11-18T11:34:27.849Z",
+  "scanStartedAt": "2026-11-18T11:31:53.769Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
     "matching-role-found": 44,
-    "confirmed-no-open-postings": 3,
-    "confirmed-openings-no-matching-role": 30,
-    "could-not-fully-verify": 228
+    "confirmed-no-open-postings": 4,
+    "confirmed-openings-no-matching-role": 36,
+    "could-not-fully-verify": 221
   },
   "companies": [
     {
@@ -301,7 +301,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 43,
+      "jobsSeen": 44,
       "relevantInternships": 3
     },
     {
@@ -405,14 +405,14 @@
       "sourceRosterNames": [
         "Belvedere Trading"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.belvederetrading.com/careers/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "jobsSeen": 11,
+      "relevantInternships": 2
     },
     {
       "company": "BlockTech",
@@ -700,7 +700,7 @@
       "sourceRosterNames": [
         "Capital Fund Management (CFM)"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.cfm.com/join-us/"
       ],
@@ -842,13 +842,13 @@
       "sourceRosterNames": [
         "Ansatz Capital"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://jobs.lever.co/ansatzcapital?by=location"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 5,
       "relevantInternships": 0
     },
     {
@@ -960,9 +960,9 @@
         "https://www.capstone.jobs/",
         "https://capstonedc.wd501.myworkdayjobs.com/Capstone"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 7,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -1134,14 +1134,14 @@
       "sourceRosterNames": [
         "ExodusPoint Capital"
       ],
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://job-boards.greenhouse.io/exoduspoint"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 5,
-      "relevantInternships": 1
+      "jobsSeen": 4,
+      "relevantInternships": 0
     },
     {
       "company": "Five Rings",
@@ -1256,7 +1256,7 @@
       ],
       "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 85,
+      "jobsSeen": 86,
       "relevantInternships": 4
     },
     {
@@ -1300,7 +1300,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 216,
+      "jobsSeen": 215,
       "relevantInternships": 0
     },
     {
@@ -1352,7 +1352,7 @@
       "careerPages": [
         "https://deepbluecap.com/vacancies/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1450,7 +1450,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 45,
+      "jobsSeen": 43,
       "relevantInternships": 3
     },
     {
@@ -1626,7 +1626,7 @@
       "careerPages": [
         "https://davincitrading.com/job/graduate-trader/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -1745,13 +1745,13 @@
       "sourceRosterNames": [
         "GMO"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.gmo.com/americas/careers/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -2134,7 +2134,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 154,
+      "jobsSeen": 152,
       "relevantInternships": 17
     },
     {
@@ -2740,7 +2740,7 @@
       "careerPages": [
         "https://www.qube-rt.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3123,13 +3123,12 @@
       ],
       "status": "could-not-fully-verify",
       "careerPages": [
-        "https://portcojobs.sovereignscapital.com/jobs",
         "https://sovereignscapital.com/careers",
         "https://careers.sovereigncs.com/"
       ],
-      "livePages": 3,
-      "attemptedPages": 3,
-      "jobsSeen": 161,
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3169,7 +3168,7 @@
       "careerPages": [
         "https://matrixexecutions.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3357,13 +3356,13 @@
       "sourceRosterNames": [
         "Quantlane"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://jobs.lever.co/quantlane"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -3564,11 +3563,11 @@
       "sourceRosterNames": [
         "Valkyrie Trading"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.valkyrietrading.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3803,7 +3802,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 35,
+      "jobsSeen": 33,
       "relevantInternships": 0
     },
     {
@@ -3859,7 +3858,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantInternships": 0
     },
     {
@@ -3891,7 +3890,7 @@
       "sourceRosterNames": [
         "TGS"
       ],
-      "status": "could-not-fully-verify",
+      "status": "confirmed-no-open-postings",
       "careerPages": [
         "https://www.tgsmc.com/join-our-team/"
       ],
@@ -3927,7 +3926,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 92,
+      "jobsSeen": 91,
       "relevantInternships": 13
     },
     {
@@ -3970,7 +3969,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 45,
+      "jobsSeen": 46,
       "relevantInternships": 11
     },
     {
@@ -4116,7 +4115,7 @@
         "https://www.voleon.com/careers/",
         "https://www.voleon.com/jobs/"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 4,
       "jobsSeen": 61,
       "relevantInternships": 3

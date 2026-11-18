@@ -1,9 +1,16 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 295
-Last updated: 2026-11-17T11:38:52.683Z
+Total closure events recorded: 299
+Last updated: 2026-11-18T11:31:53.769Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-18 (4)
+
+- **Akuna** - [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) - Chicago, IL
+- **Akuna** - [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) - Chicago, IL
+- **Balyasny Asset Management** - [Quantitative Analyst – Commodities Investment Team (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8454) - Houston
+- **ExodusPoint** - [Quantitative Internship – Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) - Hong Kong
 
 ### 2026-11-17 (8)
 
@@ -164,7 +171,7 @@ Closures require two independent successful observations of absence from the rol
 
 ### 2026-10-20 (16)
 
-- **Akuna** - [Software Engineer Intern - Python, Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) - Chicago, IL
+- **Akuna** - [Software Engineer Intern - Python, Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) - Chicago, IL — _reopened 2026-11-18_
 - **BlackEdge Capital** - [Quantitative Developer Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) - Chicago
 - **D. E. Shaw** - [Systems Engineering Intern (New York) - Summer 2027](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) - New York
 - **DRW** - [Software Developer Intern (C++)](https://job-boards.greenhouse.io/drweng/jobs/8014910) - Singapore

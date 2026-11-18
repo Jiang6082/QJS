@@ -1,4 +1,4 @@
-# Roles posted 2026-10-28 → 2026-11-17 (28 with source posting dates)
+# Roles posted 2026-10-29 → 2026-11-18 (31 with source posting dates)
 
 _Dates come from employer publication fields or dated relative labels. Relative labels have day-level precision; source publication dates can reflect a repost. Internship start dates and edit timestamps are not release dates._
 
@@ -19,6 +19,13 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-11-03** — [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) — Hong Kong, Hong Kong
 - **2026-11-03** — [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) — New York, New York, United States
 
+## BMO Capital Markets (4)
+
+- **2026-11-10** — [Treasury & Payment Solutions Strategy Intern, Summer 2027 (10 weeks)](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397) — Chicago, IL, USA _(relative source date)_
+- **2026-11-10** — [Treasury & Payment Solutions Strategy Internship, Summer 2027 (4 months)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) — Toronto, ON, CAN _(relative source date)_
+- **2026-11-06** — [Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) — Toronto, ON, CAN _(relative source date)_
+- **2026-10-29** — [BMO Capital Markets Quantitative Trading Analyst – 12–16 Month Co-op](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) — Toronto, ON, CAN _(relative source date)_
+
 ## Talos (4)
 
 - **2026-10-29** — [Software Engineer Intern, Dealer](https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977) — New York
@@ -38,9 +45,13 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 - **2026-11-06** — [2027 Trader Summer Intern (12-week program)](https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002) — Hong Kong Japan
 - **2026-11-06** — [Long/Short Equity Support Research Intern, Hong Kong](https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002) — Hong Kong
 
-## ExodusPoint (1)
+## Invesco (1)
 
-- **2026-11-13** — [Quantitative Internship – Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) — Hong Kong
+- **2026-11-06** — [Early Career Intern - Real Estate (Data Science)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) — Dallas, Texas _(relative source date)_
+
+## BP (1)
+
+- **2026-11-05** — [Polytechnic Internship - Supply, Trading & Shipping - Singapore (2027)](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Singapore---Singapore/Polytechnic-Internship---Supply--Trading---Shipping---Singapore--2027-_RQ117480-1) — Singapore - Singapore _(relative source date)_
 
 ## IMC Financial Markets (1)
 
@@ -57,14 +68,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 ## Goldman Sachs (1)
 
 - **2026-10-30** — [2027 | EMEA | London | Global Investment Research | Macro Research, Economics | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170880) — London, Greater London, England, United Kingdom
-
-## Balyasny Asset Management (1)
-
-- **2026-10-28** — [Quantitative Developer - Commodities Investment Team (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Developer---Commodities-Investment-Team--Summer-Internship-_REQ8749) — London _(relative source date)_
-
-## Engineers Gate (1)
-
-- **2026-10-28** — [Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/8328653) — Singapore
 
 ## First seen in this window, source posting date unavailable (5)
 
