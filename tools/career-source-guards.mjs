@@ -1,4 +1,5 @@
 const knownWrongSources = new Map([
+  ["Sovereign Blue Capital", /(?:portcojobs\.sovereignscapital\.com|greenhouse\.io\/relaypro(?:\/|\?|$))/i],
   ["Macquarie", /(?:mq\.wd3\.myworkdayjobs\.com|(?:^|\.)mq\.edu\.au)(?:\/|$)/i],
   ["TCI Fund Management", /greenhouse\.io\/(?:twosixtechnologies|tekion|eikontherapeutics)(?:\/|\?|$)/i],
   ["Aureas Finance", /aresmgmt\.wd1\.myworkdayjobs\.com/i],
