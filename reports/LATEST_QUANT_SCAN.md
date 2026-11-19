@@ -1,35 +1,42 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-11-18T11:31:53.769Z
+Last updated: 2026-11-19T11:43:16.058Z
 
 ## Summary
 
 - Companies searched: 370
 - Career pages checked: 530
-- Current retained roles: 408
-- New stable job URLs since previous scan: 3
-- No longer present since previous scan: 4
-- Missing without enough closure evidence: 209
-- Matching-role firms: 44
+- Current retained roles: 412
+- New stable job URLs since previous scan: 13
+- No longer present since previous scan: 6
+- Missing without enough closure evidence: 202
+- Matching-role firms: 46
 - Confirmed no open postings: 4
-- Openings but no matching role: 36
-- Could not fully verify: 221
+- Openings but no matching role: 35
+- Could not fully verify: 220
 
 ## New Roles Since Previous Scan
 
-### North America (3)
+### North America (9)
 
-- **Akuna** - [Software Engineer Intern - Python, Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) - Chicago, IL
-- **Belvedere Trading** - [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) - Chicago, Illinois
-- **Belvedere Trading** - [Quantitative Trading Intern - Winter Quarter 2027](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) - Chicago, Illinois
+- **Arrowstreet** - [Quantitative Developer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) - Boston
+- **Arrowstreet** - [Quantitative Researcher Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) - Boston
+- **Arrowstreet** - [Software Engineer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561) - Boston
+- **Peak6** - [Trading Bootcamp Micro-Internship - Summer 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057-1) - Chicago, IL
+- **Peak6** - [Trading Internship for Women+ Summer 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Internship-for-Women--Summer-2027_JR105061) - Chicago, IL
+- **PIMCO** - [2027 MBA Summer Intern – Credit Research Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-MBA-Summer-Intern---Credit-Research-Analyst--US_R106831-1) - Newport Beach, CA USA
+- **PIMCO** - [2027 Summer Intern - Global Wealth Management, Strategic Accounts Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770) - New York, NY USA
+- **PIMCO** - [2027 Summer Intern - Masters Quant Research Analyst, Client Solutions & Analytics, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816) - Newport Beach, CA USA
+- **PIMCO** - [2027 Summer Intern – PhD Quant Research Analyst, Client Solutions & Analytics, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815) - Newport Beach, CA USA
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **Goldman Sachs** - [2027 | EMEA | Copenhagen | FICC & Equities (Sales & Trading) | Seasonal/Off Cycle Internship](https://higher.gs.com/roles/189444) - Copenhagen, Hovedstaden, Denmark
 
-### Asia (0)
+### Asia (2)
 
-_None._
+- **ExodusPoint** - [Quantitative Internship – Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) - Hong Kong
+- **PIMCO** - [2027 Summer Internship – Portfolio Management - Special Situations Team, APAC](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Singapore/XMLNAME-2027-Summer-Internship---Portfolio-Management---Special-Situations-Team--APAC_R106835) - Singapore
 
 ### Oceania (0)
 
@@ -51,16 +58,18 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **Susquehanna International Group** - [Analytics Internship: Summer 2027](https://careers.sig.com/jobs/11099?lang=en-us) - Richmond, Virginia
 
 ## No Longer Present
 
-- **Akuna** - [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) - Chicago, IL
-- **Akuna** - [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) - Chicago, IL
-- **Balyasny Asset Management** - [Quantitative Analyst – Commodities Investment Team (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8454) - Houston
-- **ExodusPoint** - [Quantitative Internship – Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) - Hong Kong
+- **AQR Capital Management** - [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) - Greenwich, CT
+- **DRW** - [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) - Chicago
+- **Susquehanna International Group** - [Trading Operations Analyst Internship: Summer 2027](https://careers.sig.com/jobs/11244?lang=en-us) - Hong Kong, Hong Kong
+- **Schonfeld** - [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) - Miami, Florida, United States
+- **DV Trading** - [DevOps Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4730886005) - Chicago
+- **DV Trading** - [Database Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4741016005) - Chicago
 
 ## Full Reports
 

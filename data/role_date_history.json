@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:31:53.769Z",
+  "updatedAt": "2026-11-19T11:43:16.058Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -5273,6 +5273,18 @@
       "URL": "https://careers.sig.com/jobs/11504?lang=en-us",
       "first_seen": "2026-11-17",
       "date": "2026-11-15",
+      "evidence": "employer_field"
+    },
+    "https://higher.gs.com/roles/189444": {
+      "URL": "https://higher.gs.com/roles/189444",
+      "first_seen": "2026-11-19",
+      "date": "2026-11-19",
+      "evidence": "employer_field"
+    },
+    "https://careers.sig.com/jobs/11099?lang=en-us": {
+      "URL": "https://careers.sig.com/jobs/11099?lang=en-us",
+      "first_seen": "2026-11-19",
+      "date": "2026-06-25",
       "evidence": "employer_field"
     }
   }

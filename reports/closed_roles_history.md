@@ -1,16 +1,25 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 299
-Last updated: 2026-11-18T11:31:53.769Z
+Total closure events recorded: 305
+Last updated: 2026-11-19T11:43:16.058Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-19 (6)
+
+- **AQR Capital Management** - [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) - Greenwich, CT
+- **DRW** - [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) - Chicago
+- **Susquehanna International Group** - [Trading Operations Analyst Internship: Summer 2027](https://careers.sig.com/jobs/11244?lang=en-us) - Hong Kong, Hong Kong
+- **Schonfeld** - [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) - Miami, Florida, United States
+- **DV Trading** - [DevOps Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4730886005) - Chicago
+- **DV Trading** - [Database Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4741016005) - Chicago
 
 ### 2026-11-18 (4)
 
 - **Akuna** - [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) - Chicago, IL
 - **Akuna** - [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) - Chicago, IL
 - **Balyasny Asset Management** - [Quantitative Analyst – Commodities Investment Team (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ8454) - Houston
-- **ExodusPoint** - [Quantitative Internship – Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) - Hong Kong
+- **ExodusPoint** - [Quantitative Internship – Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) - Hong Kong — _reopened 2026-11-19_
 
 ### 2026-11-17 (8)
 

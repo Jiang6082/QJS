@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-18T11:34:27.849Z",
-  "scanStartedAt": "2026-11-18T11:31:53.769Z",
+  "generatedAt": "2026-11-19T11:46:29.218Z",
+  "scanStartedAt": "2026-11-19T11:43:16.058Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
-    "matching-role-found": 44,
+    "matching-role-found": 46,
     "confirmed-no-open-postings": 4,
-    "confirmed-openings-no-matching-role": 36,
-    "could-not-fully-verify": 221
+    "confirmed-openings-no-matching-role": 35,
+    "could-not-fully-verify": 220
   },
   "companies": [
     {
@@ -301,8 +301,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 44,
-      "relevantInternships": 3
+      "jobsSeen": 42,
+      "relevantInternships": 2
     },
     {
       "company": "Accent Groupe",
@@ -960,9 +960,9 @@
         "https://www.capstone.jobs/",
         "https://capstonedc.wd501.myworkdayjobs.com/Capstone"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 0,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -988,7 +988,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 39,
+      "jobsSeen": 38,
       "relevantInternships": 0
     },
     {
@@ -1042,8 +1042,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 71,
-      "relevantInternships": 20
+      "jobsSeen": 69,
+      "relevantInternships": 18
     },
     {
       "company": "Danske Commodities",
@@ -1134,14 +1134,14 @@
       "sourceRosterNames": [
         "ExodusPoint Capital"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://job-boards.greenhouse.io/exoduspoint"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 4,
-      "relevantInternships": 0
+      "jobsSeen": 5,
+      "relevantInternships": 1
     },
     {
       "company": "Five Rings",
@@ -1450,7 +1450,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 43,
+      "jobsSeen": 41,
       "relevantInternships": 3
     },
     {
@@ -1478,7 +1478,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 6,
+      "jobsSeen": 7,
       "relevantInternships": 0
     },
     {
@@ -1682,7 +1682,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
@@ -2134,7 +2134,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 152,
+      "jobsSeen": 154,
       "relevantInternships": 17
     },
     {
@@ -2311,7 +2311,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 16,
+      "jobsSeen": 15,
       "relevantInternships": 0
     },
     {
@@ -2497,8 +2497,8 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 72,
-      "relevantInternships": 11
+      "jobsSeen": 70,
+      "relevantInternships": 10
     },
     {
       "company": "Silver Valley Management",
@@ -2680,14 +2680,14 @@
       "sourceRosterNames": [
         "PEAK6"
       ],
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://peak6group.wd1.myworkdayjobs.com/PEAK6"
       ],
       "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "jobsSeen": 12,
+      "relevantInternships": 2
     },
     {
       "company": "Prime Trading",
@@ -3802,7 +3802,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 33,
+      "jobsSeen": 30,
       "relevantInternships": 0
     },
     {
@@ -3969,7 +3969,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 46,
+      "jobsSeen": 44,
       "relevantInternships": 11
     },
     {
@@ -4115,7 +4115,7 @@
         "https://www.voleon.com/careers/",
         "https://www.voleon.com/jobs/"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 4,
       "jobsSeen": 61,
       "relevantInternships": 3
@@ -4291,7 +4291,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 4,
-      "jobsSeen": 0,
+      "jobsSeen": 2,
       "relevantInternships": 0
     },
     {
