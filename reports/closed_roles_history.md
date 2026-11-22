@@ -1,9 +1,22 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 305
-Last updated: 2026-11-19T11:43:16.058Z
+Total closure events recorded: 315
+Last updated: 2026-11-22T16:13:15.949Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-22 (10)
+
+- **DRW** - [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) - Montreal
+- **Jane Street** - [Hardware Engineer (FPGA/ASIC)](https://www.janestreet.com/join-jane-street/position/8624440002/) - New York
+- **Old Mission Capital** - [Software Engineer – 2027 Internship Program (June Start)](https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6) - Chicago, IL
+- **Susquehanna International Group** - [Macro Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10724?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **AQR Capital Management** - [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) - Greenwich, CT
+- **Goldman Sachs** - [2027 | EMEA | London | Global Investment Research, Equity Research | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170901) - London, Greater London, England, United Kingdom
+- **Schonfeld** - [2027 Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238448) - Hong Kong, Hong Kong
+- **DV Trading** - [Data Center Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4742962005) - Chicago
+- **Susquehanna International Group** - [Technology Co-op with Drexel University](https://careers.sig.com/jobs/11654?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Schonfeld** - [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) - Hong Kong, Hong Kong
 
 ### 2026-11-19 (6)
 
@@ -58,7 +71,7 @@ Closures require two independent successful observations of absence from the rol
 - **AQR Capital Management** - [2027 Quantitative Prediction Markets Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) - Greenwich, CT
 - **DRW** - [AI/ML Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7991171) - Montreal
 - **DRW** - [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8070392) - London
-- **Susquehanna International Group** - [Electricity + Natural Gas Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10945?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Susquehanna International Group** - [Electricity + Natural Gas Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10945?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania — _reopened 2026-11-22_
 - **Virtu Financial** - [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) - Austin, TX; Chicago; New York
 - **Geneva Trading** - [Trade Support Engineer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242190007) - Chicago Office
 
@@ -372,7 +385,7 @@ Closures require two independent successful observations of absence from the rol
 
 ### 2026-09-08 (10)
 
-- **Balyasny Asset Management** - [Quantitative Researcher (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Summer-Internship-_REQ8057) - Hong Kong
+- **Balyasny Asset Management** - [Quantitative Researcher (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Summer-Internship-_REQ8057) - Hong Kong — _reopened 2026-11-22_
 - **Invesco** - [Early Career Intern - Investments (Risk)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052-1) - New York, New York
 - **Jane Street** - [Software Engineer](https://www.janestreet.com/join-jane-street/position/7582902002/) - Hong Kong
 - **Jump Trading** - [Campus FPGA Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003013) - Chicago

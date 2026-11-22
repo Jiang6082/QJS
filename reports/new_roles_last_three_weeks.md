@@ -1,4 +1,4 @@
-# Roles posted 2026-10-30 → 2026-11-19 (24 with source posting dates)
+# Roles posted 2026-11-02 → 2026-11-22 (24 with source posting dates)
 
 _Dates come from employer publication fields or dated relative labels. Relative labels have day-level precision; source publication dates can reflect a repost. Internship start dates and edit timestamps are not release dates._
 
@@ -13,10 +13,10 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 
 ## Schonfeld (5)
 
+- **2026-11-19** — [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8400915) — London, England, United Kingdom
 - **2026-11-11** — [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8356747) — Singapore, Central, Singapore
 - **2026-11-11** — [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8346891) — Hong Kong, Hong Kong
 - **2026-11-11** — [2027 Systematic COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8244307) — Hong Kong, Hong Kong
-- **2026-11-03** — [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) — Hong Kong, Hong Kong
 - **2026-11-03** — [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) — New York, New York, United States
 
 ## Susquehanna International Group (3)
@@ -28,13 +28,20 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 ## Point72 (3)
 
 - **2026-11-06** — [2027 MI Data Research & AI Intern - APAC](https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002) — Hong Kong, Singapore, Japan
-- **2026-11-06** — [2027 Trader Summer Intern (12-week program)](https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002) — Hong Kong Japan
+- **2026-11-06** — [2027 Trader Intern (12-week program)](https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002) — Hong Kong Japan
 - **2026-11-06** — [Long/Short Equity Support Research Intern, Hong Kong](https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002) — Hong Kong
 
-## Goldman Sachs (2)
+## Balyasny Asset Management (1)
+
+- **2026-11-20** — [Quantitative Researcher (Off Cycle Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Off-Cycle-Internship-_REQ8058) — Hong Kong _(relative source date)_
+
+## Goldman Sachs (1)
 
 - **2026-11-19** — [2027 | EMEA | Copenhagen | FICC & Equities (Sales & Trading) | Seasonal/Off Cycle Internship](https://higher.gs.com/roles/189444) — Copenhagen, Hovedstaden, Denmark
-- **2026-10-30** — [2027 | EMEA | London | Global Investment Research | Macro Research, Economics | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170880) — London, Greater London, England, United Kingdom
+
+## Dimensional Fund Advisors (1)
+
+- **2026-11-17** — [Internship in Strategy Research (PhD)](https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Strategy-Research--PhD-_2026-9120) — Austin _(relative source date)_
 
 ## ExodusPoint (1)
 
@@ -51,10 +58,6 @@ _Dates come from employer publication fields or dated relative labels. Relative 
 ## Qube Research & Technologies (1)
 
 - **2026-11-02** — [2027 - Internship, HR Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002) — London
-
-## Brevan Howard (1)
-
-- **2026-10-30** — [6-Month Internship – Trading, Tel Aviv](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/Israel/XMLNAME-6-Month-Internship---Trading--Tel-Aviv_JR101650) — Israel _(relative source date)_
 
 ## First seen in this window, source posting date unavailable (4)
 

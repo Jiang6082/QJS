@@ -1,42 +1,36 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-11-19T11:43:16.058Z
+Last updated: 2026-11-22T16:13:15.949Z
 
 ## Summary
 
 - Companies searched: 370
 - Career pages checked: 530
-- Current retained roles: 412
-- New stable job URLs since previous scan: 13
-- No longer present since previous scan: 6
-- Missing without enough closure evidence: 202
-- Matching-role firms: 46
-- Confirmed no open postings: 4
+- Current retained roles: 398
+- New stable job URLs since previous scan: 6
+- No longer present since previous scan: 10
+- Missing without enough closure evidence: 211
+- Matching-role firms: 44
+- Confirmed no open postings: 5
 - Openings but no matching role: 35
-- Could not fully verify: 220
+- Could not fully verify: 221
 
 ## New Roles Since Previous Scan
 
-### North America (9)
+### North America (2)
 
-- **Arrowstreet** - [Quantitative Developer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) - Boston
-- **Arrowstreet** - [Quantitative Researcher Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) - Boston
-- **Arrowstreet** - [Software Engineer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561) - Boston
-- **Peak6** - [Trading Bootcamp Micro-Internship - Summer 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057-1) - Chicago, IL
-- **Peak6** - [Trading Internship for Women+ Summer 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Internship-for-Women--Summer-2027_JR105061) - Chicago, IL
-- **PIMCO** - [2027 MBA Summer Intern – Credit Research Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-MBA-Summer-Intern---Credit-Research-Analyst--US_R106831-1) - Newport Beach, CA USA
-- **PIMCO** - [2027 Summer Intern - Global Wealth Management, Strategic Accounts Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770) - New York, NY USA
-- **PIMCO** - [2027 Summer Intern - Masters Quant Research Analyst, Client Solutions & Analytics, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816) - Newport Beach, CA USA
-- **PIMCO** - [2027 Summer Intern – PhD Quant Research Analyst, Client Solutions & Analytics, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815) - Newport Beach, CA USA
+- **Dimensional Fund Advisors** - [Internship in Strategy Research (PhD)](https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Strategy-Research--PhD-_2026-9120) - Austin
+- **Susquehanna International Group** - [Electricity + Natural Gas Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10945?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
 
-### Europe (1)
+### Europe (2)
 
-- **Goldman Sachs** - [2027 | EMEA | Copenhagen | FICC & Equities (Sales & Trading) | Seasonal/Off Cycle Internship](https://higher.gs.com/roles/189444) - Copenhagen, Hovedstaden, Denmark
+- **Barclays** - [Sales, Trading and Structuring Off Cycle Internship Programme 2027 Frankfurt](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Frankfurt-Taunus-Turm/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Frankfurt_JR-0000124757-1) - Frankfurt, Taunus Turm
+- **Schonfeld** - [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8400915) - London, England, United Kingdom
 
 ### Asia (2)
 
-- **ExodusPoint** - [Quantitative Internship – Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) - Hong Kong
-- **PIMCO** - [2027 Summer Internship – Portfolio Management - Special Situations Team, APAC](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Singapore/XMLNAME-2027-Summer-Internship---Portfolio-Management---Special-Situations-Team--APAC_R106835) - Singapore
+- **Balyasny Asset Management** - [Quantitative Researcher (Off Cycle Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Off-Cycle-Internship-_REQ8058) - Hong Kong
+- **Balyasny Asset Management** - [Quantitative Researcher (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Summer-Internship-_REQ8057) - Hong Kong
 
 ### Oceania (0)
 
@@ -58,18 +52,22 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **Susquehanna International Group** - [Analytics Internship: Summer 2027](https://careers.sig.com/jobs/11099?lang=en-us) - Richmond, Virginia
+_None._
 
 ## No Longer Present
 
-- **AQR Capital Management** - [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) - Greenwich, CT
-- **DRW** - [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) - Chicago
-- **Susquehanna International Group** - [Trading Operations Analyst Internship: Summer 2027](https://careers.sig.com/jobs/11244?lang=en-us) - Hong Kong, Hong Kong
-- **Schonfeld** - [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) - Miami, Florida, United States
-- **DV Trading** - [DevOps Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4730886005) - Chicago
-- **DV Trading** - [Database Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4741016005) - Chicago
+- **DRW** - [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) - Montreal
+- **Jane Street** - [Hardware Engineer (FPGA/ASIC)](https://www.janestreet.com/join-jane-street/position/8624440002/) - New York
+- **Old Mission Capital** - [Software Engineer – 2027 Internship Program (June Start)](https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6) - Chicago, IL
+- **Susquehanna International Group** - [Macro Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10724?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **AQR Capital Management** - [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) - Greenwich, CT
+- **Goldman Sachs** - [2027 | EMEA | London | Global Investment Research, Equity Research | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170901) - London, Greater London, England, United Kingdom
+- **Schonfeld** - [2027 Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238448) - Hong Kong, Hong Kong
+- **DV Trading** - [Data Center Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4742962005) - Chicago
+- **Susquehanna International Group** - [Technology Co-op with Drexel University](https://careers.sig.com/jobs/11654?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **Schonfeld** - [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) - Hong Kong, Hong Kong
 
 ## Full Reports
 

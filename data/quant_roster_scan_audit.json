@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-19T11:46:29.218Z",
-  "scanStartedAt": "2026-11-19T11:43:16.058Z",
+  "generatedAt": "2026-11-22T16:16:30.961Z",
+  "scanStartedAt": "2026-11-22T16:13:15.949Z",
   "sourceRosterEntries": 306,
   "canonicalCompanies": 305,
   "counts": {
-    "matching-role-found": 46,
-    "confirmed-no-open-postings": 4,
+    "matching-role-found": 44,
+    "confirmed-no-open-postings": 5,
     "confirmed-openings-no-matching-role": 35,
-    "could-not-fully-verify": 220
+    "could-not-fully-verify": 221
   },
   "companies": [
     {
@@ -90,7 +90,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantInternships": 0
     },
     {
@@ -301,8 +301,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 42,
-      "relevantInternships": 2
+      "jobsSeen": 41,
+      "relevantInternships": 1
     },
     {
       "company": "Accent Groupe",
@@ -357,7 +357,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantInternships": 2
     },
     {
@@ -411,7 +411,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 11,
+      "jobsSeen": 10,
       "relevantInternships": 2
     },
     {
@@ -962,7 +962,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 15,
+      "jobsSeen": 14,
       "relevantInternships": 0
     },
     {
@@ -988,7 +988,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 38,
+      "jobsSeen": 34,
       "relevantInternships": 0
     },
     {
@@ -1042,8 +1042,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 69,
-      "relevantInternships": 18
+      "jobsSeen": 70,
+      "relevantInternships": 17
     },
     {
       "company": "Danske Commodities",
@@ -1070,7 +1070,7 @@
       ],
       "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 3,
       "relevantInternships": 0
     },
     {
@@ -1300,7 +1300,7 @@
       ],
       "livePages": 4,
       "attemptedPages": 5,
-      "jobsSeen": 215,
+      "jobsSeen": 216,
       "relevantInternships": 0
     },
     {
@@ -1478,7 +1478,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -1682,7 +1682,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 2,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -2134,7 +2134,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 154,
+      "jobsSeen": 151,
       "relevantInternships": 17
     },
     {
@@ -2254,7 +2254,7 @@
       ],
       "livePages": 5,
       "attemptedPages": 5,
-      "jobsSeen": 36,
+      "jobsSeen": 35,
       "relevantInternships": 2
     },
     {
@@ -2498,7 +2498,7 @@
       "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 70,
-      "relevantInternships": 10
+      "relevantInternships": 9
     },
     {
       "company": "Silver Valley Management",
@@ -2536,7 +2536,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 2,
+      "jobsSeen": 3,
       "relevantInternships": 0
     },
     {
@@ -2680,14 +2680,14 @@
       "sourceRosterNames": [
         "PEAK6"
       ],
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://peak6group.wd1.myworkdayjobs.com/PEAK6"
       ],
       "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 12,
-      "relevantInternships": 2
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Prime Trading",
@@ -3274,15 +3274,15 @@
       "sourceRosterNames": [
         "Old Mission Capital"
       ],
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.oldmissioncapital.com/careers/",
         "https://job-boards.greenhouse.io/oldmissioncapital"
       ],
       "livePages": 1,
       "attemptedPages": 2,
-      "jobsSeen": 43,
-      "relevantInternships": 1
+      "jobsSeen": 39,
+      "relevantInternships": 0
     },
     {
       "company": "Optiver",
@@ -3583,7 +3583,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 4,
+      "jobsSeen": 3,
       "relevantInternships": 0
     },
     {
@@ -3605,13 +3605,13 @@
       "sourceRosterNames": [
         "Waterfront International Ltd"
       ],
-      "status": "confirmed-openings-no-matching-role",
+      "status": "confirmed-no-open-postings",
       "careerPages": [
         "https://job-boards.greenhouse.io/wil"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -3788,7 +3788,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantInternships": 0
     },
     {
@@ -3926,7 +3926,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 91,
+      "jobsSeen": 92,
       "relevantInternships": 13
     },
     {
@@ -3969,7 +3969,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 44,
+      "jobsSeen": 43,
       "relevantInternships": 11
     },
     {
@@ -4115,7 +4115,7 @@
         "https://www.voleon.com/careers/",
         "https://www.voleon.com/jobs/"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 4,
       "jobsSeen": 61,
       "relevantInternships": 3
@@ -4291,7 +4291,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 4,
-      "jobsSeen": 2,
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
