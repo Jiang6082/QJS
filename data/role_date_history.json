@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T16:13:15.949Z",
+  "updatedAt": "2026-11-26T01:37:08.355Z",
   "roles": {
     "https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
       "URL": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
@@ -5304,6 +5304,30 @@
       "first_seen": "2026-11-22",
       "date": "2026-11-19",
       "evidence": "employer_field"
+    },
+    "blackrock|R267220|2027 mba internship program - investments - direct private opportunities - portfolio management - new york": {
+      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Investments---Direct-Private-Opportunities---Portfolio-Management---New-York_R267220-2",
+      "first_seen": "2026-11-25",
+      "date": "2026-11-19",
+      "evidence": "employer_relative_label"
+    },
+    "db|R0457690|internship – fixed income sales and trading (f/m/x)": {
+      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Zrich-Uraniastrasse-9/Internship---Fixed-Income-Sales-and-Trading--f-m-x-_R0457690",
+      "first_seen": "2026-11-25",
+      "date": "2026-11-18",
+      "evidence": "employer_relative_label"
+    },
+    "https://higher.gs.com/roles/189835": {
+      "URL": "https://higher.gs.com/roles/189835",
+      "first_seen": "2026-11-25",
+      "date": "2026-11-25",
+      "evidence": "employer_field"
+    },
+    "troweprice|84641|2027 summer mba intern – fixed income (credit research)": {
+      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2026-Summer-MBA-Intern---Fixed-Income--Credit-Research-_84641",
+      "first_seen": "2026-11-25",
+      "date": "2026-11-24",
+      "evidence": "employer_relative_label"
     }
   }
 }

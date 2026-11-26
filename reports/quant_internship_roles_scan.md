@@ -1,8 +1,8 @@
 # Quant Internship Open Roles Scan
 
-Scanned: 2026-11-22T16:12:33.003Z
+Scanned: 2026-11-26T01:37:02.819Z
 Companies deduplicated: 174
-Open relevant roles found: 179
+Open relevant roles found: 174
 
 Criteria used: open ATS posting, internship/co-op wording, quant/trading/software/developer/research/engineering/strategy domain, excluding obvious new-grad/full-time/PhD-only roles. Graduation years are eligibility metadata, not internship timing.
 
@@ -20,7 +20,6 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **DV Trading** — [AI Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732429005) — Chicago (Greenhouse:dvtrading; posted=2026-09-09T15:13:24-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005) — London (Greenhouse:dvtrading; posted=2026-09-10T10:11:10-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005) — New York (Greenhouse:dvtrading; posted=2026-09-10T10:08:34-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
-- **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732683005) — Chicago (Greenhouse:dvtrading; posted=2026-09-10T10:06:46-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **DV Trading** — [Futures & Options Trading Analyst Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) — New York (Greenhouse:dvtrading; posted=2026-08-25T17:26:43-04:00; internship timing: Summer 2027; undergrad/BS/MS language found)
 - **DV Trading** — [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) — New York (Greenhouse:dvtrading; posted=2026-09-11T10:45:34-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **DV Trading** — [Quantitative Risk Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) — Chicago (Greenhouse:dvtrading; posted=2026-08-04T14:55:54-04:00; internship timing: Summer 2027; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
@@ -71,23 +70,22 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Jump Trading** — [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027946) — Singapore (Greenhouse:jumptrading; posted=2026-08-03T03:00:02-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027860) — Hong Kong; Shanghai (Greenhouse:jumptrading; posted=2026-09-03T23:07:47-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) — Chicago (Greenhouse:jumptrading; posted=2026-07-08T17:36:21-04:00; internship timing not stated in title; undergrad/BS/MS language found)
-- **Jump Trading** — [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027955) — Singapore (Greenhouse:jumptrading; posted=2026-08-03T03:00:07-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027923) — Hong Kong; Shanghai (Greenhouse:jumptrading; posted=2026-09-03T23:08:32-04:00; internship timing not stated in title; undergrad/BS/MS language found)
-- **Jump Trading** — [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027900) — Hong Kong; Shanghai (Greenhouse:jumptrading; posted=2026-08-24T03:42:53-04:00; internship timing not stated in title; undergrad/BS/MS language found)
-- **Jump Trading** — [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027939) — Singapore (Greenhouse:jumptrading; posted=2026-08-03T03:00:20-04:00; internship timing not stated in title; undergrad/BS/MS language found)
+- **Jump Trading** — [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027955) — Singapore (Greenhouse:jumptrading; posted=2026-08-03T03:00:07-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8010307) — London; Amsterdam (Greenhouse:jumptrading; posted=2026-07-13T08:36:23-04:00; internship timing not stated in title; undergrad/BS/MS language found)
+- **Jump Trading** — [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027939) — Singapore (Greenhouse:jumptrading; posted=2026-08-03T03:00:20-04:00; internship timing not stated in title; undergrad/BS/MS language found)
+- **Jump Trading** — [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027900) — Hong Kong; Shanghai (Greenhouse:jumptrading; posted=2026-08-24T03:42:53-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus Quantitative Researcher (M1/M2 Intern)](https://www.jumptrading.com/hr/job?gh_jid=8059384) — London; Paris (Greenhouse:jumptrading; posted=2026-07-13T08:37:10-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus Quantitative Researcher (Off-Cycle - Winter/Spring 2027 Intern) ](https://www.jumptrading.com/hr/job?gh_jid=8027898) — Hong Kong; Shanghai (Greenhouse:jumptrading; posted=2026-08-25T06:26:44-04:00; internship timing: Spring 2027; graduation eligibility mentions: 2027; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus Quantitative Researcher, UG/MS (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7982648) — Chicago; New York (Greenhouse:jumptrading; posted=2026-07-08T17:35:58-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027941) — Singapore (Greenhouse:jumptrading; posted=2026-08-03T03:00:24-04:00; internship timing not stated in title; undergrad/BS/MS language found)
-- **Jump Trading** — [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8050772) — London; Amsterdam (Greenhouse:jumptrading; posted=2026-07-13T08:37:03-04:00; internship timing not stated in title; undergrad/BS/MS language found)
-- **Jump Trading** — [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027922) — Hong Kong; Shanghai (Greenhouse:jumptrading; posted=2026-08-24T03:42:46-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7848371) — Chicago; New York (Greenhouse:jumptrading; posted=2026-07-08T17:35:47-04:00; internship timing not stated in title; undergrad/BS/MS language found)
+- **Jump Trading** — [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027922) — Hong Kong; Shanghai (Greenhouse:jumptrading; posted=2026-08-24T03:42:46-04:00; internship timing not stated in title; undergrad/BS/MS language found)
+- **Jump Trading** — [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8050772) — London; Amsterdam (Greenhouse:jumptrading; posted=2026-07-13T08:37:03-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8007788) — Chicago (Greenhouse:jumptrading; posted=2026-07-08T17:39:29-04:00; internship timing not stated in title; undergrad/BS/MS language found)
-- **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8000323) — London; Amsterdam (Greenhouse:jumptrading; posted=2026-07-13T08:39:57-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027952) — Singapore (Greenhouse:jumptrading; posted=2026-08-03T03:00:11-04:00; internship timing not stated in title; undergrad/BS/MS language found)
+- **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8000323) — London; Amsterdam (Greenhouse:jumptrading; posted=2026-07-13T08:39:57-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003019) — Chicago (Greenhouse:jumptrading; posted=2026-07-08T17:35:13-04:00; internship timing not stated in title; undergrad/BS/MS language found)
-- **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943) — London (Greenhouse:jumptrading; posted=2026-07-13T08:37:46-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Keyrock** — [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels  ](https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) — Brussels (Ashby:keyrock; posted=2026-11-03T14:24:00.276+00:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Keyrock** — [DeFi Quant Trader Intern (Credit) - Brussels](https://jobs.ashbyhq.com/Keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24) — Brussels (Ashby:keyrock; posted=2026-11-03T14:24:32.021+00:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Keyrock** — [DeFi Quant Trader Intern (Credit) - London](https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03) — London (Ashby:keyrock; posted=2026-11-16T13:02:21.716+00:00; internship timing not stated in title; undergrad/BS/MS language found)
@@ -121,7 +119,6 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Point 72/Cubist** — [2027 Trader Intern (12-week program)](https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002) — Hong Kong Japan (Greenhouse:point72; posted=2026-11-06T04:33:41-05:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Point 72/Cubist** — [Long/Short Equity Support Research Intern, Hong Kong  ](https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002) — Hong Kong (Greenhouse:point72; posted=2026-11-06T09:29:43-05:00; internship timing not stated in title; graduation eligibility mentions: 2027, 2028; undergrad/BS/MS language found)
 - **Point 72/Cubist** — [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) — New York (Greenhouse:point72; posted=2024-08-15T17:11:02-04:00; internship timing not stated in title; undergrad/BS/MS language found)
-- **Point 72/Cubist** — [Micro-Intern: Research Technology Developer (IAP)](https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002) — New York (Greenhouse:point72; posted=2025-10-31T12:02:59-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Point 72/Cubist** — [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) — New York (Greenhouse:point72; posted=2024-08-23T11:00:14-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Point 72/Cubist** — [Quantitative Research Intern (NLP)](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) — New York (Greenhouse:point72; posted=2025-05-31T11:00:10-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Point 72/Cubist** — [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) — New York (Greenhouse:point72; posted=2024-08-15T17:24:14-04:00; internship timing not stated in title; undergrad/BS/MS language found)
@@ -140,7 +137,6 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Schonfeld Strategic Advisors** — [2027 AI Forward Deployed Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8311595) — Hong Kong, Hong Kong (Greenhouse:schonfeld; posted=2026-10-27T10:12:16-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Schonfeld Strategic Advisors** — [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) — New York, New York, United States (Greenhouse:schonfeld; posted=2026-09-04T12:42:57-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Schonfeld Strategic Advisors** — [2027 Index Rebalancing Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8311597) — Hong Kong, Hong Kong (Greenhouse:schonfeld; posted=2026-10-22T10:11:32-04:00; internship timing not stated in title; undergrad/BS/MS language found)
-- **Schonfeld Strategic Advisors** — [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) — New York, New York, United States (Greenhouse:schonfeld; posted=2026-11-03T14:24:58-05:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Schonfeld Strategic Advisors** — [2027 Quantitative C++ Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238451) — Hong Kong, Hong Kong (Greenhouse:schonfeld; posted=2026-09-29T10:30:14-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Schonfeld Strategic Advisors** — [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8356747) — Singapore, Central, Singapore (Greenhouse:schonfeld; posted=2026-11-11T11:23:39-05:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Schonfeld Strategic Advisors** — [2027 Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8346891) — Hong Kong, Hong Kong (Greenhouse:schonfeld; posted=2026-11-11T11:22:21-05:00; internship timing not stated in title; undergrad/BS/MS language found)
@@ -171,7 +167,6 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Virtu Financial** — [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) — New York (Greenhouse:virtu; posted=2026-07-29T17:31:34-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Virtu Financial** — [2027 Internship - Quantitative Researcher (Master or PhD)](https://job-boards.greenhouse.io/virtu/jobs/8631180002) — Dublin, Ireland (Greenhouse:virtu; posted=2026-07-14T09:39:40-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Virtu Financial** — [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/5208637002) — Singapore (Greenhouse:virtu; posted=2021-04-16T02:41:31-04:00; internship timing not stated in title; undergrad/BS/MS language found)
-- **Virtu Financial** — [2027 Internship - Quantitative Trading ](https://job-boards.greenhouse.io/virtu/jobs/8547254002) — Dublin, Ireland (Greenhouse:virtu; posted=2026-07-01T05:34:02-04:00; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **Virtu Financial** — [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) — Austin, TX; New York (Greenhouse:virtu; posted=2026-07-21T11:34:18-04:00; internship timing not stated in title; undergrad/BS/MS language found)
 - **Virtu Financial** — [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) — Dublin, Ireland (Greenhouse:virtu; posted=2026-07-20T07:39:13-04:00; internship timing not stated in title; graduation eligibility mentions: 2028; undergrad/BS/MS language found)
 - **Virtu Financial** — [2027 Internship – Core Operations Engineer ](https://job-boards.greenhouse.io/virtu/jobs/6329460002) — Singapore (Greenhouse:virtu; posted=2022-08-15T21:50:53-04:00; internship timing not stated in title; undergrad/BS/MS language found)
@@ -190,7 +185,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 
 ## Companies With No Matching Internship Found In Checked ATS Boards
 
-- **Jane Street** — checked Greenhouse:janestreet (216); Ashby:jane (21)
+- **Jane Street** — checked Greenhouse:janestreet (219); Ashby:jane (18)
 - **Citadel** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **DRW** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **HRT** — checked Greenhouse:wehrtyou (86); Ashby:hrt (0)
@@ -214,22 +209,22 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Boerboel Trading** — checked Greenhouse:boerboeltrading (3)
 - **Boulder Hill Capital Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Brevan Howard** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Bridgewater Associates** — checked Greenhouse:bridgewater89 (17)
+- **Bridgewater Associates** — checked Greenhouse:bridgewater89 (15)
 - **Cantor Fitzgerald** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Capital Fund Management** — checked Lever:capital (42)
-- **Capital Markets Trading** — checked Lever:capital (42)
+- **Capital Fund Management** — checked Lever:capital (35)
+- **Capital Markets Trading** — checked Lever:capital (35)
 - **Capstone** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Capula** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Caxton Associates** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Centiva Capital** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Chicago Trading Company** — checked Greenhouse:chicagotrading (18); Greenhouse:chicago (0)
+- **Chicago Trading Company** — checked Greenhouse:chicagotrading (19); Greenhouse:chicago (0)
 - **Consolidated Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **CQS** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Dark Forest** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Dolat Capital** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Duality Group** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Edgehog Trading** — checked Greenhouse:edgehog (0)
-- **Edgestream Partners** — checked Greenhouse:edgestream (3)
+- **Edgestream Partners** — checked Greenhouse:edgestream (4)
 - **Eisler Capital** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Elk Capital Markets** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Elequin Capital** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -244,7 +239,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **GAM Systematic** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Garda Capital Partners** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Geode Capital Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Graham Capital Management** — checked Greenhouse:grahamcapitalmanagement (12)
+- **Graham Capital Management** — checked Greenhouse:grahamcapitalmanagement (13)
 - **Graviton Research Capital** — checked Greenhouse:gravitonresearchcapital (20)
 - **Group One Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **GTS** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -267,7 +262,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Millburn** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Monoceros** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Nebula Research & Development** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Old Mission Capital** — checked Ashby:old-mission-capital (39)
+- **Old Mission Capital** — checked Ashby:old-mission-capital (37)
 - **Paloma Partners** — checked Greenhouse:palomapartners (1)
 - **PanAgora** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Parallax Volatility Advisers** — checked Ashby:parallax (0)
@@ -294,7 +289,7 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Spark Investment Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Summit Securities Group** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Sumo** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Sunrise Futures** — checked Greenhouse:sunrise (13); Ashby:sunrise (11); Trakstar:sunrisefutures (5)
+- **Sunrise Futures** — checked Greenhouse:sunrise (16); Ashby:sunrise (11); Trakstar:sunrisefutures (5)
 - **Susquehanna International Group** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Systematica Investments** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Tanius Technology** — checked Greenhouse:tanius (8)
@@ -306,10 +301,10 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Two Sigma** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Valkyrie Trading** — checked Lever:valkyrietrading (5)
 - **Vatic Investments** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Vector Trading** — checked Ashby:vector (3)
+- **Vector Trading** — checked Ashby:vector (2)
 - **Verition Fund Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Volant Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Weiss Asset Management** — checked Greenhouse:weissassetmanagement (2)
+- **Weiss Asset Management** — checked Greenhouse:weissassetmanagement (3)
 - **Musket** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **BP** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **Castleton Commodities International** — no public Greenhouse/Lever/Ashby board discovered by slug scan
@@ -325,6 +320,6 @@ Criteria used: open ATS posting, internship/co-op wording, quant/trading/softwar
 - **Wolverine Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **XR Trading** — no public Greenhouse/Lever/Ashby board discovered by slug scan
 - **XTX Markets** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **Wizard Quant** — checked Ashby:wizard (14)
+- **Wizard Quant** — checked Ashby:wizard (15)
 - **BlueCrest Capital Management** — no public Greenhouse/Lever/Ashby board discovered by slug scan
-- **B2C2** — checked Greenhouse:b2c2 (4)
+- **B2C2** — checked Greenhouse:b2c2 (5)

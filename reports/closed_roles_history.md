@@ -1,9 +1,22 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 315
-Last updated: 2026-11-22T16:13:15.949Z
+Total closure events recorded: 325
+Last updated: 2026-11-26T01:37:08.355Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-25 (10)
+
+- **Balyasny Asset Management** - [Quantitative Researcher - Risk (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Risk--Summer-Internship-_REQ8463) - New York
+- **Goldman Sachs** - [2027 | EMEA | London | Asset and Wealth Management Quantitative Strats | Summer Associate](https://higher.gs.com/roles/175423) - London, Greater London, England, United Kingdom
+- **Jump Trading** - [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943) - London
+- **Susquehanna International Group** - [Quantitative Strategy Developer Internship: Summer 2027](https://careers.sig.com/jobs/11170?lang=en-us) - Hong Kong, Hong Kong
+- **Susquehanna International Group** - [Trading System Engineering Internship (C++): Summer 2027](https://careers.sig.com/jobs/11169?lang=en-us) - Hong Kong, Hong Kong
+- **Virtu Financial** - [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002) - Dublin, Ireland
+- **Qube Research & Technologies** - [2027 – Internship or Graduate, FPGA Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002) - Hong Kong, Singapore
+- **DV Trading** - [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732683005) - Chicago
+- **Point72** - [Micro-Intern: Research Technology Developer (IAP)](https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002) - New York
+- **Schonfeld** - [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) - New York, New York, United States
 
 ### 2026-11-22 (10)
 
@@ -117,7 +130,7 @@ Closures require two independent successful observations of absence from the rol
 - **Schonfeld** - [2027 Systematic COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172059) - New York, New York, United States
 - **Goldman Sachs** - [2027 | EMEA | London | Risk | Summer Analyst](https://higher.gs.com/roles/172894) - London, Greater London, England, United Kingdom
 - **Man Group** - [Technology Summer Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978895101) - Sofia
-- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) - New York, New York, United States
+- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) - New York, New York, United States — _reopened 2026-11-25_
 
 ### 2026-11-01 (18)
 

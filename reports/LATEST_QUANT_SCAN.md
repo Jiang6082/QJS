@@ -1,44 +1,42 @@
 # QJS Latest Quant Scan
 
-Last updated: 2026-11-22T16:13:15.949Z
+Last updated: 2026-11-26T01:37:08.355Z
 
 ## Summary
 
 - Companies searched: 370
 - Career pages checked: 530
-- Current retained roles: 398
-- New stable job URLs since previous scan: 6
+- Current retained roles: 406
+- New stable job URLs since previous scan: 4
 - No longer present since previous scan: 10
-- Missing without enough closure evidence: 211
-- Matching-role firms: 44
+- Missing without enough closure evidence: 198
+- Matching-role firms: 47
 - Confirmed no open postings: 5
 - Openings but no matching role: 35
-- Could not fully verify: 221
+- Could not fully verify: 218
 
 ## New Roles Since Previous Scan
 
 ### North America (2)
 
-- **Dimensional Fund Advisors** - [Internship in Strategy Research (PhD)](https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Internship-in-Strategy-Research--PhD-_2026-9120) - Austin
-- **Susquehanna International Group** - [Electricity + Natural Gas Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10945?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
+- **BlackRock** - [2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476) - San Francisco, CA
+- **Schonfeld** - [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) - New York, New York, United States
 
-### Europe (2)
+### Europe (0)
 
-- **Barclays** - [Sales, Trading and Structuring Off Cycle Internship Programme 2027 Frankfurt](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Frankfurt-Taunus-Turm/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Frankfurt_JR-0000124757-1) - Frankfurt, Taunus Turm
-- **Schonfeld** - [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8400915) - London, England, United Kingdom
+_None._
 
-### Asia (2)
+### Asia (1)
 
-- **Balyasny Asset Management** - [Quantitative Researcher (Off Cycle Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Off-Cycle-Internship-_REQ8058) - Hong Kong
-- **Balyasny Asset Management** - [Quantitative Researcher (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Summer-Internship-_REQ8057) - Hong Kong
+- **Jain Global** - [Risk Quant Modeller - Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Hong-Kong-Office/Risk-Quant-Modeller---Intern_JR100472-1) - Hong Kong Office
 
 ### Oceania (0)
 
 _None._
 
-### Middle East (0)
+### Middle East (1)
 
-_None._
+- **Goldman Sachs** - [2027 | EMEA | Dubai | FICC & Equities (Sales & Trading) | Seasonal/Off Cycle Internship](https://higher.gs.com/roles/189835) - Dubai, United Arab Emirates
 
 ### South America (0)
 
@@ -58,16 +56,16 @@ _None._
 
 ## No Longer Present
 
-- **DRW** - [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) - Montreal
-- **Jane Street** - [Hardware Engineer (FPGA/ASIC)](https://www.janestreet.com/join-jane-street/position/8624440002/) - New York
-- **Old Mission Capital** - [Software Engineer – 2027 Internship Program (June Start)](https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6) - Chicago, IL
-- **Susquehanna International Group** - [Macro Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10724?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **AQR Capital Management** - [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) - Greenwich, CT
-- **Goldman Sachs** - [2027 | EMEA | London | Global Investment Research, Equity Research | Seasonal/Off-cycle Internship](https://higher.gs.com/roles/170901) - London, Greater London, England, United Kingdom
-- **Schonfeld** - [2027 Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238448) - Hong Kong, Hong Kong
-- **DV Trading** - [Data Center Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4742962005) - Chicago
-- **Susquehanna International Group** - [Technology Co-op with Drexel University](https://careers.sig.com/jobs/11654?lang=en-us) - Bala Cynwyd (Philadelphia Area), Pennsylvania
-- **Schonfeld** - [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) - Hong Kong, Hong Kong
+- **Balyasny Asset Management** - [Quantitative Researcher - Risk (Summer Internship)](https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Risk--Summer-Internship-_REQ8463) - New York
+- **Goldman Sachs** - [2027 | EMEA | London | Asset and Wealth Management Quantitative Strats | Summer Associate](https://higher.gs.com/roles/175423) - London, Greater London, England, United Kingdom
+- **Jump Trading** - [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943) - London
+- **Susquehanna International Group** - [Quantitative Strategy Developer Internship: Summer 2027](https://careers.sig.com/jobs/11170?lang=en-us) - Hong Kong, Hong Kong
+- **Susquehanna International Group** - [Trading System Engineering Internship (C++): Summer 2027](https://careers.sig.com/jobs/11169?lang=en-us) - Hong Kong, Hong Kong
+- **Virtu Financial** - [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002) - Dublin, Ireland
+- **Qube Research & Technologies** - [2027 – Internship or Graduate, FPGA Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002) - Hong Kong, Singapore
+- **DV Trading** - [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732683005) - Chicago
+- **Point72** - [Micro-Intern: Research Technology Developer (IAP)](https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002) - New York
+- **Schonfeld** - [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) - New York, New York, United States
 
 ## Full Reports
 
