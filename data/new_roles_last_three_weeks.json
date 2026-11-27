@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T01:40:39.664Z",
-  "currentScanAt": "2026-11-26T01:37:08.355Z",
+  "generatedAt": "2026-11-27T14:18:53.684Z",
+  "currentScanAt": "2026-11-27T14:15:36.594Z",
   "scope": "quant",
-  "since": "2026-11-05",
-  "until": "2026-11-25",
-  "count": 20,
+  "since": "2026-11-07",
+  "until": "2026-11-27",
+  "count": 13,
   "roles": [
     {
       "Company": "Goldman Sachs",
@@ -16,23 +16,9 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-11-25 | role_id=189835 | program=Seasonal | division=Global Banking & Markets",
       "Region": "Middle East",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "date": "2026-11-25",
       "dateEvidence": "employer_field"
-    },
-    {
-      "Company": "T. Rowe Price",
-      "Title": "2027 Summer MBA Intern – Fixed Income (Credit Research)",
-      "Department": "",
-      "Location": "Baltimore, MD",
-      "URL": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2026-Summer-MBA-Intern---Fixed-Income--Credit-Research-_84641",
-      "Source": "Career page Workday:troweprice/TRowePrice",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://troweprice.wd5.myworkdayjobs.com/TRowePrice/ | Posted Yesterday | 84641",
-      "Region": "North America",
-      "scanAt": "2026-11-26T01:37:08.355Z",
-      "date": "2026-11-24",
-      "dateEvidence": "employer_relative_label"
     },
     {
       "Company": "Balyasny Asset Management",
@@ -42,24 +28,10 @@
       "URL": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher--Off-Cycle-Internship-_REQ8058",
       "Source": "Official Balyasny Salesforce Experience Cloud feed",
       "Status": "Confirmed official posting",
-      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 6 Days Ago | requisition=REQ8058 | department=Investment Professionals | experience=Internships",
+      "Notes": "career_page=https://bambusdev.my.site.com/s/ | Posted 7 Days Ago | requisition=REQ8058 | department=Investment Professionals | experience=Internships",
       "Region": "Asia",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "date": "2026-11-20",
-      "dateEvidence": "employer_relative_label"
-    },
-    {
-      "Company": "BlackRock",
-      "Title": "2027 MBA Internship Program - Investments - Direct Private Opportunities - Portfolio Management - New York",
-      "Department": "",
-      "Location": "New York, NY",
-      "URL": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Investments---Direct-Private-Opportunities---Portfolio-Management---New-York_R267220-2",
-      "Source": "Career page Workday:blackrock/BlackRock_Professional",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/ | Posted 6 Days Ago | R267220",
-      "Region": "North America",
-      "scanAt": "2026-11-26T01:37:08.355Z",
-      "date": "2026-11-19",
       "dateEvidence": "employer_relative_label"
     },
     {
@@ -72,7 +44,7 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-11-19 | role_id=189444 | program=Seasonal | division=Global Banking & Markets",
       "Region": "Europe",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "date": "2026-11-19",
       "dateEvidence": "employer_field"
     },
@@ -86,23 +58,9 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-11-19T10:56:23-05:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8400915 | internship timing not stated in title | The Role We are seeking exceptional PhD candidates to join our Quantitative Research teams in the London metro area where they will work with other researchers and developers on various research projects, including the design of novel predictive signals and the enhancement of our algorithms for prediction, trade execution, portfolio construction, risk management, among others. Interns will have an opportunity to meaningfully contribute to all facets of running a successful quantitative trading business and help it grow and diversify. What You’ll Do Depending on the portfolio manager team you join, as a Quantitative Researcher Intern you will be directly responsible for furtherin...",
       "Region": "Europe",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "date": "2026-11-19",
       "dateEvidence": "employer_field"
-    },
-    {
-      "Company": "Deutsche Bank",
-      "Title": "Internship – Fixed Income Sales and Trading (f/m/x)",
-      "Department": "",
-      "Location": "Zürich Uraniastrasse 9",
-      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Zrich-Uraniastrasse-9/Internship---Fixed-Income-Sales-and-Trading--f-m-x-_R0457690",
-      "Source": "Career page Workday:db/DBWebsite",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted 7 Days Ago | R0457690",
-      "Region": "Remote / Unspecified",
-      "scanAt": "2026-11-26T01:37:08.355Z",
-      "date": "2026-11-18",
-      "dateEvidence": "employer_relative_label"
     },
     {
       "Company": "Keyrock",
@@ -114,7 +72,7 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-11-16T13:02:21.716+00:00 | career_page=https://jobs.ashbyhq.com/keyrock | internship timing not stated in title | DeFi Quant Trader Intern (Credit) Since 2017, Keyrock has been a change-maker in digital assets. We're a global, remote-first team of 200+ people across 40+ nationalities, with hubs in Brussels, London, Paris and New York. We provide liquidity across 80+ centralized and decentralized exchanges - a position cemented by our Series C, led by SC Ventures. Today we run a full spectrum of capital markets businesses across centralized and on-chain venues: market making, high-frequency trading, options, OTC, DeFi trading desks, advisory, and asset management. We're building toward the agentic investment banking capabilities for the era of digital finance. A proprietary agentic layer runs the mechanics of the market, so our people can focus on the work code cannot do: the ...",
       "Region": "Europe",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "date": "2026-11-16",
       "dateEvidence": "employer_field"
     },
@@ -128,7 +86,7 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-11-16T21:34:10.506+00:00 | employmentType=Intern | career_page=https://jobs.ashbyhq.com/keyrock | internship timing not stated in title | Innovation Quant Developer: Intern - DeFi/Corporate Development Since 2017, Keyrock has been a change-maker in digital assets. We're a global, remote-first team of 200+ people across 40+ nationalities, with hubs in Brussels, London, Paris and New York. We provide liquidity across 80+ centralized and decentralized exchanges - a position cemented by our Series C, led by SC Ventures. Today we run a full spectrum of capital markets businesses across centralized and on-chain venues: market making, high-frequency trading, options, OTC, DeFi trading desks, advisory, and asset management. We're building toward the agentic investment banking capabilities for the era of digital finance. A proprietary agentic layer runs the mechanics of the market, so...",
       "Region": "Europe",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "date": "2026-11-16",
       "dateEvidence": "employer_field"
     },
@@ -142,7 +100,7 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-11-16T04:17:00+0000 | November 2027 Start | internship timing not stated in title; graduation eligibility mentions: 2028 | Overview Susquehanna is looking for penultimate year students who are interested in using decision science to solve problems in the world around them to join our 2027 Quantitative Trader Internship Program. Susquehanna is a global quantitative trading firm powered by scientific rigor, curiosity, and innovation. Our culture is intellectually driven and highly collaborative, bringing together researchers, engineers, and traders to design and deploy impactful strategies in our systematic trading environment. To meet the unique challenges of global markets, Susquehanna applies machine learning and advanced quantitative research to vast datasets in order to uncover actionable insights and build effective strategies. By uniting deep market expertise with cuttin...",
       "Region": "Oceania",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "date": "2026-11-16",
       "dateEvidence": "employer_field"
     },
@@ -156,7 +114,7 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-11-16T04:18:00+0000 | November 2027 Start | internship timing not stated in title; graduation eligibility mentions: 2028 | Overview As a Trading Operations Analyst Intern, you will gain exposure to the full life cycle of Susquehanna’s trading activity and develop a strong foundational understanding of the industry and the dynamic environment in which we operate. Trading Operations sits at the intersection of trading, technology, and external counterparties - providing you with the opportunity to build meaningful relationships and contribute to impactful projects that drive our success. Throughout your internship, you’ll work closely with our core team and rotate across different trading desks such as Options, ETF, Treasury and Equity Finance, gaining hands-on experience. Each rotation is designed to deepen your knowledge and broaden your perspective on how our trading ecosyst...",
       "Region": "Oceania",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "date": "2026-11-16",
       "dateEvidence": "employer_field"
     },
@@ -170,7 +128,7 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-11-15T23:50:00+0000 | November 2027 Start | internship timing not stated in title; graduation eligibility mentions: 2029 | Overview Susquehanna is looking for highly motivated full-time students for our 10-week trading system engineering summer internship program based at our Sydney Headquarters. This program is open to students currently enrolled at universities in Australia and New Zealand. This is a computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, data, and technology. Throughout the summer, you will receive education about how markets work by going through a deep dive into financial markets and Susquehanna’s approach to trading. You will also work on challenging projects for our trading strategy development teams in low latency C++ trading system development. Additionally, you’ll have ...",
       "Region": "Oceania",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "date": "2026-11-15",
       "dateEvidence": "employer_field"
     },
@@ -184,7 +142,7 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-11-13T16:13:38-05:00 | career_page=https://job-boards.greenhouse.io/exoduspoint | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8943351002 | internship timing not stated in title | ABOUT EXODUSPOINT ExodusPoint Capital , founded in 2017 by Michael Gelband, began managing investor capital in 2018. The firm employs a global multi-strategy investment approach, seeking to deliver compelling asymmetric returns by combining complementary liquid strategies managed by experienced investment professionals within a robust risk framework. ExodusPoint brings together an accomplished team with hands-on experience running multi-manager businesses to create an institutional investment management firm. Quantitative Research Intern – Systematic FICC - Hong Kong About the Team The Systematic Rates team researches and runs fully systematic, data-driven strategies in global interes...",
       "Region": "Asia",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "date": "2026-11-13",
       "dateEvidence": "employer_field"
     },
@@ -198,7 +156,7 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-11-11T11:23:39-05:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8356747 | internship timing not stated in title | The Role We are excited to offer an opportunity for exceptional individuals to join the internship program at Schonfeld. You’ll spend ten weeks with an experienced software engineering team within the Schonfeld Technology division where you will be immersed in the culture and atmosphere of Schonfeld, working alongside talented professionals on high profile projects. Software Engineers at Schonfeld take on a wide range of responsibilities and challenges. They design, develop, deploy and support existing applications as well as new features and platforms. They participate in an Agile framework, continuously improving and expanding platform capabilities. The Accounting and Valuatio...",
       "Region": "Asia",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "date": "2026-11-11",
       "dateEvidence": "employer_field"
     },
@@ -212,7 +170,7 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-11-11T11:22:21-05:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8346891 | internship timing not stated in title | The Role We are excited to offer an opportunity for exceptional individuals to join the internship program at Schonfeld. You’ll spend ten weeks with an experienced software engineering team within the Schonfeld Technology division where you will be immersed in the culture and atmosphere of Schonfeld, working alongside talented professionals on high profile projects. Software Engineers at Schonfeld take on a wide range of responsibilities and challenges. They design, develop, deploy and support existing applications as well as new features and platforms. They participate in an Agile framework, continuously improving and expanding platform capabilities. Treasury Technology team : ...",
       "Region": "Asia",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "date": "2026-11-11",
       "dateEvidence": "employer_field"
     },
@@ -226,68 +184,9 @@
       "Status": "Confirmed official posting",
       "Notes": "posted=2026-11-11T11:20:18-05:00 | career_page=https://job-boards.greenhouse.io/schonfeld?error=true | company_wrapper=https://job-boards.greenhouse.io/job?gh_jid=8244307 | internship timing not stated in title | The Role We are looking for a highly motivated Data & Business Analyst Intern to join Schonfeld’s Systematic Strategies COO (SCOO) team. The Systematic business contains many separate investment (PM) teams. Schonfeld oversees these teams’ trading and risk, and supports them with capital, technology, execution, operations, legal, recruiting and general business services (aka the Platform). The SCOO team is the key interface between PM teams and these services. Working within the SCOO team, you will build, enhance, and automate the tools and analytics used by our Platform to make faster data-driven decisions at scale. This internship blends data, technology, and markets: you will ...",
       "Region": "Asia",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "date": "2026-11-11",
       "dateEvidence": "employer_field"
-    },
-    {
-      "Company": "Point72",
-      "Title": "2027 MI Data Research & AI Intern - APAC",
-      "Department": "Market Intelligence ",
-      "Location": "Hong Kong, Singapore, Japan",
-      "URL": "https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002",
-      "Source": "Career page Greenhouse:point72",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-11-06T04:58:09-05:00 | career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8899753002 | internship timing not stated in title | A Career with Point72’s proprietary research team On our proprietary research team—Market Intelligence—you’ll partner with our investment professionals and Compliance team to work with alternative data to uncover insights about companies, industries, and the broader economy through deep fundamental research and applying data science and engineering techniques. You’ll work alongside a talented team with diverse skills, backgrounds, and perspectives. Our sector data analysts, data scientists, data managers, and engineers work together to build compliant research products that are incorporated into the research process of our investment professionals. We look for other bright, motivated, and collaborative pe...",
-      "Region": "Asia",
-      "lastSeenOpenAt": "2026-11-22T16:13:15.949Z",
-      "scanAt": "2026-11-26T01:37:08.355Z",
-      "date": "2026-11-06",
-      "dateEvidence": "employer_field"
-    },
-    {
-      "Company": "Point72",
-      "Title": "2027 Trader Intern (12-week program)",
-      "Department": "Discretionary Investing - International",
-      "Location": "Hong Kong Japan",
-      "URL": "https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002",
-      "Source": "Career page Greenhouse:point72",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-11-06T04:33:41-05:00 | career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8932943002 | internship timing: Summer | A Career with Point72’s Trading Team Point72’s Asia Trading Desk is comprised of long/short equity and derivatives execution traders who support the firm’s multi-manager platform of investment professionals. Trading is important to a wide variety of the firm’s stakeholders including but not limited to investment professional teams, external investors, investment services teams, Risk, and Compliance. If you are interested in pursuing a career in trading at a premier asset management firm, this role will provide you with unparalleled training and experience. ABOUT THE ASIA TRADING INTERNSHIP This 12-week summer internship will provide you with valuable experience at a complex global firm. During your time with us, you ...",
-      "Region": "Asia",
-      "lastSeenOpenAt": "2026-11-22T16:13:15.949Z",
-      "scanAt": "2026-11-26T01:37:08.355Z",
-      "date": "2026-11-06",
-      "dateEvidence": "employer_field"
-    },
-    {
-      "Company": "Point72",
-      "Title": "Long/Short Equity Support Research Intern, Hong Kong",
-      "Department": "Long/Short Equities Strategy",
-      "Location": "Hong Kong",
-      "URL": "https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002",
-      "Source": "Career page Greenhouse:point72",
-      "Status": "Confirmed official posting",
-      "Notes": "posted=2026-11-06T09:29:43-05:00 | career_page=https://careers.point72.com/ | company_wrapper=https://careers.point72.com/job?gh_jid=8899750002 | internship timing not stated in title; graduation eligibility mentions: 2027, 2028 | A Career with Point72’s fundamental equities team Fundamental Equities is Point72’s core strategy and its success is dependent upon our sector-based investing teams. Using fundamental research, our research analysts inform the investment strategies of our portfolio managers. Through our Point72 University, you have access to an unparalleled training and coaching curriculum to help foster your success. We offer you a clear path based on your abilities, willingness to work hard, and performance. Join us if you're looking for a career at the forefront of investing. About the Fundamental Equities Support Internship This 12-week summer internship will provide you wi...",
-      "Region": "Asia",
-      "lastSeenOpenAt": "2026-11-22T16:13:15.949Z",
-      "scanAt": "2026-11-26T01:37:08.355Z",
-      "date": "2026-11-06",
-      "dateEvidence": "employer_field"
-    },
-    {
-      "Company": "Deutsche Bank",
-      "Title": "Internship Regional Management, Corporate Strategy e Sustainability (f/m/x)",
-      "Department": "",
-      "Location": "Milano Bicocca Calendario 1",
-      "URL": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Milano-Bicocca-Calendario-1/Internship-Regional-Management--Corporate-Strategy-e-Sustainability--f-m-x-_R0450450",
-      "Source": "Career page Workday:db/DBWebsite",
-      "Status": "Confirmed official posting",
-      "Notes": "career_page=https://db.wd3.myworkdayjobs.com/DBWebsite/ | Posted 20 Days Ago | R0450450",
-      "Region": "Remote / Unspecified",
-      "scanAt": "2026-11-26T01:37:08.355Z",
-      "date": "2026-11-05",
-      "dateEvidence": "employer_relative_label"
     }
   ],
   "undatedFirstSeen": [
@@ -301,7 +200,7 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.deshaw.com/careers/internships | department=Quantitative Strategies | internship timing: Summer 2027 | official detail page checked | Quantitative Researcher Intern (New York) – Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Pat",
       "Region": "North America",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "first_seen": "2026-11-17"
     },
     {
@@ -314,7 +213,7 @@
       "Status": "Confirmed official posting",
       "Notes": "career_page=https://www.deshaw.com/careers/internships | department=Quantitative Strategies | internship timing: Summer 2027 | official detail page checked | Quantitative Researcher, Ph.D. Intern (New York) – Summer 2027 | The D. E. Shaw Group Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Your Path Interviewing Internships Benefits News Library Contact Investor Login Home Who We Are Leadership Founder Core Principles Our People What We Do Investment Management Technology Development Risk Management Entrepreneurship Industry Leadership How To Join Career Development Choose Y",
       "Region": "North America",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "first_seen": "2026-11-17"
     },
     {
@@ -326,7 +225,7 @@
       "Status": "Confirmed official posting",
       "Notes": "Internship; Flexible; Technology",
       "Region": "North America",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "first_seen": "2026-11-10"
     },
     {
@@ -338,7 +237,7 @@
       "Status": "Confirmed official posting",
       "Notes": "Internship; Flexible; Technology",
       "Region": "Europe",
-      "scanAt": "2026-11-26T01:37:08.355Z",
+      "scanAt": "2026-11-27T14:15:36.594Z",
       "first_seen": "2026-11-10"
     }
   ]

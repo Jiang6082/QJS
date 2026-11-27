@@ -1,9 +1,14 @@
 # Closed / Removed Roles History
 
-Total closure events recorded: 325
-Last updated: 2026-11-26T01:37:08.355Z
+Total closure events recorded: 327
+Last updated: 2026-11-27T14:15:36.594Z
 
 Closures require two independent successful observations of absence from the role's own official source. Detected closed is the confirmation time, not the employer's exact closing time. Legacy entries may have an unknown last-seen time. Reopened roles are annotated; a later closure is a separate event.
+
+### 2026-11-27 (2)
+
+- **Susquehanna International Group** - [Equity Research Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10876?lang=en-us) - Dublin, Ireland
+- **Susquehanna International Group** - [Equity Research Internship: Summer 2027](https://careers.sig.com/jobs/11085?lang=en-us) - London, United Kingdom
 
 ### 2026-11-25 (10)
 

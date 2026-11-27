@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-26T01:37:02.819Z",
+  "scannedAt": "2026-11-27T14:14:40.160Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -367,14 +367,9 @@
     },
     {
       "company": "Belvedere Trading",
-      "resolvedBoards": [
-        {
-          "source": "Lever:belvederetrading",
-          "count": 10
-        }
-      ],
-      "jobsSeen": 10,
-      "relevantInternships": 2
+      "resolvedBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "BlackEdge Capital",
@@ -449,10 +444,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 35
+          "count": 36
         }
       ],
-      "jobsSeen": 35,
+      "jobsSeen": 36,
       "relevantInternships": 0
     },
     {
@@ -460,10 +455,10 @@
       "resolvedBoards": [
         {
           "source": "Lever:capital",
-          "count": 35
+          "count": 36
         }
       ],
-      "jobsSeen": 35,
+      "jobsSeen": 36,
       "relevantInternships": 0
     },
     {
@@ -664,10 +659,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:flowtraders",
-          "count": 44
+          "count": 46
         }
       ],
-      "jobsSeen": 44,
+      "jobsSeen": 46,
       "relevantInternships": 3
     },
     {
@@ -834,14 +829,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:jumptrading",
-          "count": 81
+          "count": 83
         },
         {
           "source": "Ashby:jump",
           "count": 3
         }
       ],
-      "jobsSeen": 84,
+      "jobsSeen": 86,
       "relevantInternships": 22
     },
     {
@@ -901,10 +896,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mangroup",
-          "count": 67
+          "count": 65
         }
       ],
-      "jobsSeen": 67,
+      "jobsSeen": 65,
       "relevantInternships": 2
     },
     {
@@ -935,14 +930,14 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:mavensecuritiesholdingltd",
-          "count": 32
+          "count": 31
         },
         {
           "source": "Ashby:maven",
           "count": 3
         }
       ],
-      "jobsSeen": 35,
+      "jobsSeen": 34,
       "relevantInternships": 2
     },
     {
@@ -1115,11 +1110,11 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:quberesearchandtechnologies",
-          "count": 209
+          "count": 207
         }
       ],
-      "jobsSeen": 209,
-      "relevantInternships": 8
+      "jobsSeen": 207,
+      "relevantInternships": 9
     },
     {
       "company": "QVR Advisors",
@@ -1197,10 +1192,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:squarepointcapital",
-          "count": 87
+          "count": 88
         }
       ],
-      "jobsSeen": 87,
+      "jobsSeen": 88,
       "relevantInternships": 5
     },
     {
@@ -1290,10 +1285,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:towerresearchcapital",
-          "count": 93
+          "count": 94
         }
       ],
-      "jobsSeen": 93,
+      "jobsSeen": 94,
       "relevantInternships": 11
     },
     {
@@ -1527,10 +1522,10 @@
       "resolvedBoards": [
         {
           "source": "Greenhouse:worldquant",
-          "count": 79
+          "count": 78
         }
       ],
-      "jobsSeen": 79,
+      "jobsSeen": 78,
       "relevantInternships": 2
     },
     {

@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-26T01:37:08.355Z",
+  "searchedAt": "2026-11-27T14:15:36.594Z",
   "companies": [
     "Jane Street",
     "Citadel",
@@ -383,7 +383,6 @@
     "Axinoss",
     "Aarhus Trading",
     "ArbitragePoint Trading",
-    "Chengdu ZhaoYu Investment",
     "Cor Capital",
     "Golden Meadow Investment",
     "Integrated Quantitative Investments",
@@ -826,8 +825,8 @@
       "company": "Arrowstreet",
       "pageUrl": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet",
       "resolvedUrl": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet",
-      "pageOk": false,
-      "pageStatus": 429,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -849,22 +848,7 @@
           "searchComplete": false,
           "errors": [
             {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
               "searchText": "summer associate",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
               "offset": 0,
               "error": "HTTP 429"
             },
@@ -906,39 +890,9 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:arrowstreetcapital/Campus_Careers",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 6,
-          "relevantInternships": 3
-        }
-      ],
-      "jobsSeen": 6,
-      "relevantInternships": 3
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "3Red Partners",
@@ -1138,22 +1092,22 @@
           "searchComplete": false,
           "errors": [
             {
-              "searchText": "intern",
+              "searchText": "",
               "offset": 0,
               "error": "HTTP 429"
             },
             {
-              "searchText": "internship",
+              "searchText": "off cycle internship",
               "offset": 0,
               "error": "HTTP 429"
             },
             {
-              "searchText": "summer analyst",
+              "searchText": "co-op",
               "offset": 0,
               "error": "HTTP 429"
             },
             {
-              "searchText": "summer associate",
+              "searchText": "industrial placement",
               "offset": 0,
               "error": "HTTP 429"
             }
@@ -1192,22 +1146,22 @@
           "searchComplete": false,
           "errors": [
             {
-              "searchText": "intern",
+              "searchText": "",
               "offset": 0,
               "error": "HTTP 429"
             },
             {
-              "searchText": "internship",
+              "searchText": "off cycle internship",
               "offset": 0,
               "error": "HTTP 429"
             },
             {
-              "searchText": "summer analyst",
+              "searchText": "co-op",
               "offset": 0,
               "error": "HTTP 429"
             },
             {
-              "searchText": "summer associate",
+              "searchText": "industrial placement",
               "offset": 0,
               "error": "HTTP 429"
             }
@@ -1870,11 +1824,11 @@
         {
           "source": "Greenhouse:flowtraders",
           "complete": true,
-          "jobsSeen": 44,
+          "jobsSeen": 46,
           "relevantInternships": 3
         }
       ],
-      "jobsSeen": 44,
+      "jobsSeen": 46,
       "relevantInternships": 3
     },
     {
@@ -2410,38 +2364,8 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:mangroupplc/Man_Group_Careers",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "intern",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 1,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 1,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -2581,11 +2505,11 @@
         {
           "source": "Greenhouse:mavensecuritiesholdingltd",
           "complete": true,
-          "jobsSeen": 32,
+          "jobsSeen": 31,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 32,
+      "jobsSeen": 31,
       "relevantInternships": 2
     },
     {
@@ -2626,11 +2550,11 @@
         {
           "source": "Greenhouse:mavensecuritiesholdingltd",
           "complete": true,
-          "jobsSeen": 32,
+          "jobsSeen": 31,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 32,
+      "jobsSeen": 31,
       "relevantInternships": 2
     },
     {
@@ -2653,11 +2577,11 @@
         {
           "source": "Greenhouse:mavensecuritiesholdingltd",
           "complete": true,
-          "jobsSeen": 32,
+          "jobsSeen": 31,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 32,
+      "jobsSeen": 31,
       "relevantInternships": 2
     },
     {
@@ -2688,8 +2612,8 @@
       "company": "Millennium",
       "pageUrl": "https://www.mlp.com/careers/",
       "resolvedUrl": "https://www.mlp.com/careers/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -2697,7 +2621,9 @@
         "smartrecruiters": [],
         "workday": []
       },
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "eightfold"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -3145,46 +3071,16 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:peak6group/PEAK6",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "intern",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 13,
-          "relevantInternships": 2
-        }
-      ],
-      "jobsSeen": 13,
-      "relevantInternships": 2
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Qube Research & Technologies",
       "pageUrl": "https://www.qube-rt.com/careers/",
       "resolvedUrl": "https://www.qube-rt.com/careers/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -3616,11 +3512,11 @@
         {
           "source": "Greenhouse:towerresearchcapital",
           "complete": true,
-          "jobsSeen": 93,
+          "jobsSeen": 94,
           "relevantInternships": 13
         }
       ],
-      "jobsSeen": 93,
+      "jobsSeen": 94,
       "relevantInternships": 13
     },
     {
@@ -3643,11 +3539,11 @@
         {
           "source": "Greenhouse:towerresearchcapital",
           "complete": true,
-          "jobsSeen": 93,
+          "jobsSeen": 94,
           "relevantInternships": 13
         }
       ],
-      "jobsSeen": 93,
+      "jobsSeen": 94,
       "relevantInternships": 13
     },
     {
@@ -3748,8 +3644,8 @@
       "company": "Valkyrie Trading",
       "pageUrl": "https://www.valkyrietrading.com/careers/",
       "resolvedUrl": "https://www.valkyrietrading.com/careers/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -4284,11 +4180,11 @@
         {
           "source": "Greenhouse:worldquant",
           "complete": true,
-          "jobsSeen": 79,
+          "jobsSeen": 78,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 79,
+      "jobsSeen": 78,
       "relevantInternships": 2
     },
     {
@@ -4311,11 +4207,11 @@
         {
           "source": "Greenhouse:worldquant",
           "complete": true,
-          "jobsSeen": 79,
+          "jobsSeen": 78,
           "relevantInternships": 2
         }
       ],
-      "jobsSeen": 79,
+      "jobsSeen": 78,
       "relevantInternships": 2
     },
     {
@@ -4713,138 +4609,36 @@
       "company": "Equinor",
       "pageUrl": "https://www.equinor.com/careers",
       "resolvedUrl": "https://www.equinor.com/careers",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
         "ashby": [],
         "smartrecruiters": [],
-        "workday": [
-          {
-            "tenant": "equinor",
-            "site": "EQNR\\",
-            "origin": "https://equinor.wd3.myworkdayjobs.com"
-          },
-          {
-            "tenant": "equinor",
-            "site": "EQNR",
-            "origin": "https://equinor.wd3.myworkdayjobs.com"
-          }
-        ]
+        "workday": []
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:equinor/EQNR\\",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 7,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 7,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
       "company": "Equinor",
       "pageUrl": "https://www.equinor.com/careers/professionals",
       "resolvedUrl": "https://www.equinor.com/careers/professionals",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
         "ashby": [],
         "smartrecruiters": [],
-        "workday": [
-          {
-            "tenant": "equinor",
-            "site": "EQNR\\",
-            "origin": "https://equinor.wd3.myworkdayjobs.com"
-          },
-          {
-            "tenant": "equinor",
-            "site": "EQNR",
-            "origin": "https://equinor.wd3.myworkdayjobs.com"
-          }
-        ]
+        "workday": []
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:equinor/EQNR\\",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 7,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 7,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -5012,11 +4806,11 @@
         {
           "source": "Ashby:Talos-Trading",
           "complete": true,
-          "jobsSeen": 20,
+          "jobsSeen": 19,
           "relevantInternships": 5
         }
       ],
-      "jobsSeen": 20,
+      "jobsSeen": 19,
       "relevantInternships": 5
     },
     {
@@ -5039,11 +4833,11 @@
         {
           "source": "Ashby:Talos-Trading",
           "complete": true,
-          "jobsSeen": 20,
+          "jobsSeen": 19,
           "relevantInternships": 5
         }
       ],
-      "jobsSeen": 20,
+      "jobsSeen": 19,
       "relevantInternships": 5
     },
     {
@@ -5066,11 +4860,11 @@
         {
           "source": "Greenhouse:aqr",
           "complete": true,
-          "jobsSeen": 43,
+          "jobsSeen": 44,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 43,
+      "jobsSeen": 44,
       "relevantInternships": 1
     },
     {
@@ -5111,11 +4905,11 @@
         {
           "source": "Greenhouse:aqr",
           "complete": true,
-          "jobsSeen": 43,
+          "jobsSeen": 44,
           "relevantInternships": 1
         }
       ],
-      "jobsSeen": 43,
+      "jobsSeen": 44,
       "relevantInternships": 1
     },
     {
@@ -5156,53 +4950,8 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:abglobal/alliancebernsteincareers",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "intern",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 40,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 40,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -5294,21 +5043,11 @@
             },
             {
               "searchText": "intern",
-              "offset": 20,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
               "offset": 0,
               "error": "HTTP 429"
             },
             {
               "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
               "offset": 0,
               "error": "HTTP 429"
             },
@@ -5319,20 +5058,15 @@
             },
             {
               "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
+              "offset": 20,
               "error": "HTTP 429"
             }
           ],
-          "jobsSeen": 20,
+          "jobsSeen": 22,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 20,
+      "jobsSeen": 22,
       "relevantInternships": 0
     },
     {
@@ -5368,21 +5102,11 @@
             },
             {
               "searchText": "intern",
-              "offset": 20,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
               "offset": 0,
               "error": "HTTP 429"
             },
             {
               "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
               "offset": 0,
               "error": "HTTP 429"
             },
@@ -5393,20 +5117,15 @@
             },
             {
               "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
+              "offset": 20,
               "error": "HTTP 429"
             }
           ],
-          "jobsSeen": 20,
+          "jobsSeen": 22,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 20,
+      "jobsSeen": 22,
       "relevantInternships": 0
     },
     {
@@ -5442,21 +5161,11 @@
             },
             {
               "searchText": "intern",
-              "offset": 20,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
               "offset": 0,
               "error": "HTTP 429"
             },
             {
               "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
               "offset": 0,
               "error": "HTTP 429"
             },
@@ -5467,20 +5176,15 @@
             },
             {
               "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
+              "offset": 20,
               "error": "HTTP 429"
             }
           ],
-          "jobsSeen": 20,
+          "jobsSeen": 22,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 20,
+      "jobsSeen": 22,
       "relevantInternships": 0
     },
     {
@@ -5577,8 +5281,8 @@
       "company": "Baillie Gifford",
       "pageUrl": "https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordCareers",
       "resolvedUrl": "https://bailliegifford.wd3.myworkdayjobs.com/BaillieGiffordCareers",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 429,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -5593,53 +5297,8 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:bailliegifford/BaillieGiffordCareers",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 6,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 6,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -5662,53 +5321,8 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:bailliegifford/BaillieGiffordCareers",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 6,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 6,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -5803,44 +5417,9 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:blackrock/BlackRock_Professional",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 20,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "intern",
-              "offset": 20,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 20,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 37,
-          "relevantInternships": 6
-        }
-      ],
-      "jobsSeen": 37,
-      "relevantInternships": 6
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "BlueCove",
@@ -6152,8 +5731,53 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Workday:capgroup/capitalgroupcareers",
+          "complete": false,
+          "searchComplete": false,
+          "errors": [
+            {
+              "searchText": "",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "intern",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "internship",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "summer associate",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "off cycle internship",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "co-op",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "industrial placement",
+              "offset": 0,
+              "error": "HTTP 429"
+            }
+          ],
+          "jobsSeen": 11,
+          "relevantInternships": 0
+        }
+      ],
+      "jobsSeen": 11,
       "relevantInternships": 0
     },
     {
@@ -6404,59 +6028,9 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:db/DBWebsite",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "intern",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 20,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 20,
-          "relevantInternships": 2
-        }
-      ],
-      "jobsSeen": 20,
-      "relevantInternships": 2
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "Dimensional Fund Advisors",
@@ -6575,9 +6149,9 @@
     {
       "company": "Fidelity Investments",
       "pageUrl": "https://jobs.fidelity.com/",
-      "resolvedUrl": "https://jobs.fidelity.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "resolvedUrl": "https://jobs.fidelity.com/en/",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -6594,8 +6168,8 @@
       "company": "Fidelity Investments",
       "pageUrl": "https://jobs.fidelity.com/en/jobs/",
       "resolvedUrl": "https://jobs.fidelity.com/en/jobs/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -6646,58 +6220,8 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:fil/001",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 20,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "intern",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 20,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 20,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -6902,48 +6426,8 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:invesco/IVZ",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "intern",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 1,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 1,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -6990,48 +6474,8 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:invesco/IVZ",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "intern",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 1,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 1,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -7058,7 +6502,7 @@
     {
       "company": "J.P. Morgan",
       "pageUrl": "https://privatebank.jpmorgan.com/nam/en/about-us/private-bank-careers",
-      "resolvedUrl": "https://privatebank.jpmorgan.com/nam/en/about-us",
+      "resolvedUrl": "https://privatebank.jpmorgan.com/nam/en/about-us/private-bank-careers",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -7068,7 +6512,9 @@
         "smartrecruiters": [],
         "workday": []
       },
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "oracle"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantInternships": 0
@@ -7326,58 +6772,8 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:nb/NBCareers",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 20,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "intern",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 20,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 20,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -7490,53 +6886,8 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:pru/PGIM_Careers",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "intern",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 40,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 40,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -7595,58 +6946,8 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:pru/Careers",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 20,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "intern",
-              "offset": 20,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 23,
-          "relevantInternships": 0
-        }
-      ],
-      "jobsSeen": 23,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantInternships": 0
     },
     {
@@ -7687,9 +6988,39 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "boards": [
+        {
+          "source": "Workday:pimco/pimco-careers",
+          "complete": false,
+          "searchComplete": false,
+          "errors": [
+            {
+              "searchText": "",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "intern",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "internship",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "industrial placement",
+              "offset": 0,
+              "error": "HTTP 429"
+            }
+          ],
+          "jobsSeen": 64,
+          "relevantInternships": 11
+        }
+      ],
+      "jobsSeen": 64,
+      "relevantInternships": 11
     },
     {
       "company": "PIMCO",
@@ -7711,9 +7042,39 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "boards": [
+        {
+          "source": "Workday:pimco/pimco-careers",
+          "complete": false,
+          "searchComplete": false,
+          "errors": [
+            {
+              "searchText": "",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "intern",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "internship",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "industrial placement",
+              "offset": 0,
+              "error": "HTTP 429"
+            }
+          ],
+          "jobsSeen": 64,
+          "relevantInternships": 11
+        }
+      ],
+      "jobsSeen": 64,
+      "relevantInternships": 11
     },
     {
       "company": "PIMCO",
@@ -7735,9 +7096,39 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
-      "relevantInternships": 0
+      "boards": [
+        {
+          "source": "Workday:pimco/pimco-careers",
+          "complete": false,
+          "searchComplete": false,
+          "errors": [
+            {
+              "searchText": "",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "intern",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "internship",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "industrial placement",
+              "offset": 0,
+              "error": "HTTP 429"
+            }
+          ],
+          "jobsSeen": 64,
+          "relevantInternships": 11
+        }
+      ],
+      "jobsSeen": 64,
+      "relevantInternships": 11
     },
     {
       "company": "Putnam Investments",
@@ -7822,7 +7213,17 @@
           "searchComplete": false,
           "errors": [
             {
-              "searchText": "",
+              "searchText": "summer analyst",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "summer associate",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "off cycle internship",
               "offset": 0,
               "error": "HTTP 429"
             },
@@ -7837,11 +7238,11 @@
               "error": "HTTP 429"
             }
           ],
-          "jobsSeen": 30,
+          "jobsSeen": 39,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 30,
+      "jobsSeen": 39,
       "relevantInternships": 0
     },
     {
@@ -7871,7 +7272,17 @@
           "searchComplete": false,
           "errors": [
             {
-              "searchText": "",
+              "searchText": "summer analyst",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "summer associate",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "off cycle internship",
               "offset": 0,
               "error": "HTTP 429"
             },
@@ -7886,11 +7297,11 @@
               "error": "HTTP 429"
             }
           ],
-          "jobsSeen": 30,
+          "jobsSeen": 39,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 30,
+      "jobsSeen": 39,
       "relevantInternships": 0
     },
     {
@@ -7951,62 +7362,26 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:troweprice/TRowePrice",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "intern",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 20,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 24,
-          "relevantInternships": 1
-        }
-      ],
-      "jobsSeen": 24,
-      "relevantInternships": 1
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "T. Rowe Price",
       "pageUrl": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Associate-Analyst---T-Rowe-Price-Associates_68533",
       "resolvedUrl": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Associate-Analyst---T-Rowe-Price-Associates_68533",
-      "pageOk": false,
-      "pageStatus": 429,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
         "ashby": [],
         "smartrecruiters": [],
         "workday": [
+          {
+            "tenant": "troweprice",
+            "site": "TRowePrice"
+          },
           {
             "tenant": "troweprice",
             "site": "en-US",
@@ -8044,49 +7419,9 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:troweprice/TRowePrice",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "intern",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 20,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 24,
-          "relevantInternships": 1
-        }
-      ],
-      "jobsSeen": 24,
-      "relevantInternships": 1
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "T. Rowe Price",
@@ -8113,49 +7448,9 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:troweprice/TRowePrice",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "intern",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 20,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 24,
-          "relevantInternships": 1
-        }
-      ],
-      "jobsSeen": 24,
-      "relevantInternships": 1
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "UBS",
@@ -8254,9 +7549,9 @@
     {
       "company": "Vanguard",
       "pageUrl": "https://www.vanguardjobs.com/students-and-recent-graduates/",
-      "resolvedUrl": "https://www.vanguardjobs.com/students-and-recent-graduates/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "resolvedUrl": "https://www.vanguardjobs.com/students/",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -8273,8 +7568,8 @@
       "company": "Vanguard",
       "pageUrl": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external",
       "resolvedUrl": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 429,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -8503,8 +7798,8 @@
       "company": "Jain Global",
       "pageUrl": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite",
       "resolvedUrl": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 429,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -8519,59 +7814,9 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:jainglobal/ExternalSite",
-          "complete": false,
-          "searchComplete": false,
-          "errors": [
-            {
-              "searchText": "",
-              "offset": 20,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "intern",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer analyst",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "summer associate",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "off cycle internship",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "co-op",
-              "offset": 0,
-              "error": "HTTP 429"
-            },
-            {
-              "searchText": "industrial placement",
-              "offset": 0,
-              "error": "HTTP 429"
-            }
-          ],
-          "jobsSeen": 20,
-          "relevantInternships": 7
-        }
-      ],
-      "jobsSeen": 20,
-      "relevantInternships": 7
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0
     },
     {
       "company": "26 Miles Capital",
@@ -8885,9 +8130,9 @@
     {
       "company": "Armada Technologies",
       "pageUrl": "http://www.armadausa.com/careers",
-      "resolvedUrl": "http://www.armadausa.com/careers",
-      "pageOk": false,
-      "pageStatus": 0,
+      "resolvedUrl": "https://www.armadausa.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -9418,7 +8663,7 @@
     {
       "company": "CTS Global Equity Group",
       "pageUrl": "https://www.ctsglobalgroup.com/internship",
-      "resolvedUrl": "https://www.ctsglobalgroup.com/internship",
+      "resolvedUrl": "https://www.ctsglobalgroup.com/internship.html",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -9431,6 +8676,99 @@
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Chengdu ZhaoYu Investment",
+      "pageUrl": "https://jobs.ashbyhq.com/overview",
+      "resolvedUrl": "https://jobs.ashbyhq.com/overview",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [],
+        "lever": [],
+        "ashby": [
+          "overview"
+        ],
+        "smartrecruiters": [],
+        "workday": []
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Ashby:overview",
+          "complete": true,
+          "jobsSeen": 72,
+          "relevantInternships": 0
+        }
+      ],
+      "jobsSeen": 72,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Chengdu ZhaoYu Investment",
+      "pageUrl": "https://jobs.ashbyhq.com/refoldai/58a3e8e8-4c7a-4b16-b577-59de6bb61e05/application",
+      "resolvedUrl": "https://jobs.ashbyhq.com/refoldai/58a3e8e8-4c7a-4b16-b577-59de6bb61e05/application",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [],
+        "lever": [],
+        "ashby": [
+          "refoldai"
+        ],
+        "smartrecruiters": [],
+        "workday": []
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Official JSON-LD job posting",
+          "complete": true,
+          "jobsSeen": 1,
+          "relevantInternships": 0
+        },
+        {
+          "source": "Ashby:refoldai",
+          "complete": true,
+          "jobsSeen": 15,
+          "relevantInternships": 0
+        }
+      ],
+      "jobsSeen": 16,
+      "relevantInternships": 0
+    },
+    {
+      "company": "Chengdu ZhaoYu Investment",
+      "pageUrl": "https://jobs.ashbyhq.com/airwallex/4b470f84-dab8-494d-8565-2de6a0ab8355?departmentid=dba03226-55c8-4471-b315-cf9d992e3725",
+      "resolvedUrl": "https://jobs.ashbyhq.com/airwallex/4b470f84-dab8-494d-8565-2de6a0ab8355?departmentid=dba03226-55c8-4471-b315-cf9d992e3725",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [],
+        "lever": [],
+        "ashby": [
+          "airwallex"
+        ],
+        "smartrecruiters": [],
+        "workday": []
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Official JSON-LD job posting",
+          "complete": true,
+          "jobsSeen": 1,
+          "relevantInternships": 0
+        },
+        {
+          "source": "Ashby:airwallex",
+          "complete": true,
+          "jobsSeen": 503,
+          "relevantInternships": 0
+        }
+      ],
+      "jobsSeen": 504,
       "relevantInternships": 0
     },
     {
@@ -9695,8 +9033,8 @@
       "company": "Deep Blue Capital",
       "pageUrl": "https://deepbluecap.com/vacancies/",
       "resolvedUrl": "https://deepbluecap.com/vacancies/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -9850,11 +9188,11 @@
         {
           "source": "Greenhouse:gsrmarkets",
           "complete": true,
-          "jobsSeen": 9,
+          "jobsSeen": 8,
           "relevantInternships": 0
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantInternships": 0
     },
     {
@@ -10007,8 +9345,8 @@
       "company": "Da Vinci Trading",
       "pageUrl": "https://davincitrading.com/job/graduate-trader/",
       "resolvedUrl": "https://davincitrading.com/job/graduate-trader/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -10096,8 +9434,48 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Workday:elliottgroup/ElliottCareers",
+          "complete": false,
+          "searchComplete": false,
+          "errors": [
+            {
+              "searchText": "internship",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "summer analyst",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "summer associate",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "off cycle internship",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "co-op",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "industrial placement",
+              "offset": 0,
+              "error": "HTTP 429"
+            }
+          ],
+          "jobsSeen": 51,
+          "relevantInternships": 0
+        }
+      ],
+      "jobsSeen": 51,
       "relevantInternships": 0
     },
     {
@@ -10535,7 +9913,17 @@
           "searchComplete": false,
           "errors": [
             {
-              "searchText": "",
+              "searchText": "intern",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "summer associate",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "off cycle internship",
               "offset": 0,
               "error": "HTTP 429"
             },
@@ -10558,6 +9946,21 @@
           "complete": false,
           "searchComplete": false,
           "errors": [
+            {
+              "searchText": "intern",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "summer associate",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
+            {
+              "searchText": "off cycle internship",
+              "offset": 0,
+              "error": "HTTP 429"
+            },
             {
               "searchText": "co-op",
               "offset": 0,
@@ -11553,7 +10956,7 @@
     {
       "company": "Optica",
       "pageUrl": "https://opg.optica.org/optica/home.cfm",
-      "resolvedUrl": "https://validate.perfdrive.com/?ssa=0bf41380-09aa-342d-7321-dd13d4ba6f2e&ssb=01605251962&ssc=https%3A%2F%2Fopg.optica.org%2Foptica%2Fhome.cfm&ssi=45e23d01-d3hy-bcbd-e588-1d7ed0092a25&ssk=botmanager_support@radware.com&ssm=38259569988285060103731978125513&ssn=b555e16fff760bf443b0ea43ce01071054b1a87b57a9-1a77-3b4a-861a23&sso=a34294a-844d-86c3804a3ad567cf774c12c12801ca78d2bc4b53c3d22d93&ssp=58540062611795689526179561488973750&ssq=99820585713711213839157137206677276351103&ssr=MjAuMTY4Ljk4LjMy&sst=Mozilla%2F5.0%20internship-research&ssv=&ssw=",
+      "resolvedUrl": "https://validate.perfdrive.com/?ssa=74e99b82-1bcb-ff17-4101-2ab89f53ea89&ssb=05004267306&ssc=https%3A%2F%2Fopg.optica.org%2Foptica%2Fhome.cfm&ssi=0c499a87-d3hy-8ee7-db63-34d30b368750&ssk=botmanager_support@radware.com&ssm=01171849463362058109160411487119&ssn=5b2e6327f675aca06c7f3cd8b8f7797a8fd0f18ee397-26c7-0656-6854df&sso=03c3b56-65c4-a664e600a27c43094557086eeff8fb839656733f3ba621f9&ssp=83013823891795783113179570431914482&ssq=26421428903544585735889035189319971087469&ssr=MjAuNjQuMjA2LjE4OA==&sst=Mozilla%2F5.0%20internship-research&ssv=&ssw=",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -11785,8 +11188,8 @@
       "company": "Matrix Executions",
       "pageUrl": "https://matrixexecutions.com/careers/",
       "resolvedUrl": "https://matrixexecutions.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {
         "greenhouse": [],
         "lever": [],
@@ -12219,8 +11622,8 @@
       "company": "Waterfront International Ltd",
       "pageUrl": "https://job-boards.greenhouse.io/wil",
       "resolvedUrl": "https://job-boards.greenhouse.io/wil",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 404,
       "atsTokens": {
         "greenhouse": [
           "wil"
@@ -12231,14 +11634,7 @@
         "workday": []
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Greenhouse:wil",
-          "complete": true,
-          "jobsSeen": 0,
-          "relevantInternships": 0
-        }
-      ],
+      "boards": [],
       "jobsSeen": 0,
       "relevantInternships": 0
     },
@@ -12953,7 +12349,7 @@
     {
       "company": "Susquehanna International Group",
       "source": "Official paginated jobs API",
-      "jobsRetained": 41
+      "jobsRetained": 39
     },
     {
       "company": "Balyasny Asset Management",
@@ -12968,12 +12364,12 @@
     {
       "company": "Previously seen Workday roles",
       "source": "Official Workday job-detail APIs",
-      "jobsRetained": 15
+      "jobsRetained": 16
     },
     {
       "company": "Previously seen Greenhouse roles",
       "source": "Official Greenhouse job-detail APIs",
-      "jobsRetained": 197
+      "jobsRetained": 198
     }
   ]
 }
